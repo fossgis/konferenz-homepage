@@ -18,7 +18,9 @@
                 <div id="mainContent">
                     <h2>Willkommen bei der FOSSGIS-Konferenz</h2>
                     <p>
-                        FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.
+                        FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. 
+                        Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema.
+                        Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.
                     </p>
                     <p>
                         Die FOSSGIS Konferenz 2013 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a>
@@ -31,7 +33,7 @@
                     <h2>Sponsoren</h2>
 					<p>
                         Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/konferenz/wiki/2012/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
-                        oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+                        oder wenden Sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
                     </p>
                 </div>
             </div>
