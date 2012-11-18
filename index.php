@@ -32,7 +32,7 @@
                     </p>
                     <h2>Sponsoren</h2>
 					<p>
-                        Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/konferenz/wiki/2012/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
+                        Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
                         oder wenden Sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
                     </p>
                 </div>

@@ -1,9 +1,9 @@
                  <ul id="mainNav">
                     <li id="navHome">
-                        <a href="/fossgis/index.php">Startseite</a>
+                        <a href="/fossgis/">Startseite</a>
                     </li>
 					<li id="navCall">
-                        <a href="/fossgis/callforpapers/index.php">Call for Papers</a>
+                        <a href="/fossgis/callforpapers/">Call for Papers</a>
                     </li>
 					
                     <!--<li>
