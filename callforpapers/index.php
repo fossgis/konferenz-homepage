@@ -29,7 +29,7 @@
 
                     <p>Unsere Konferenz lebt von ihren deinen Beiträgen und von deinem Besuch. Werde Teil der Konferenz - wir freuen uns auf dich!</p>
 
-                    <p>Hast du noch Fragen? Wir haben versucht, in unseren <a href="http://www.fossgis.de/wiki/2013/KonferenzHomepage#Call_for_Papers_-_FAQ">FAQs</a> alle wichtigen Fragen zu beantworten. Falls du noch weitere Fragen hast, schreib uns einfach eine <a href="mailto:Konferenz liste <konferenz-liste@fossgis.de>">E-Mail</a>.</p>
+                    <p>Hast du noch Fragen? Wir haben versucht, in unseren <a href="faq.php">FAQs</a> alle wichtigen Fragen zu beantworten. Falls du noch weitere Fragen hast, schreib uns einfach eine <a href="mailto:Konferenz liste <konferenz-liste@fossgis.de>">E-Mail</a>.</p>
 
                     <h3>Note to English speakers</h3>
 

@@ -181,6 +181,14 @@ p {
 	margin: 0 0 1em 0;
 }
 
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 1em;
+}
+
 
 /**
  * SPECIALS
