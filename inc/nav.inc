@@ -5,6 +5,9 @@
 					<li id="navCall">
                         <a href="/fossgis/callforpapers/">Call for Papers</a>
                     </li>
+                    <li id="navSubmit">
+                        <a href="http://pb.fossgis.de/submission/FOSSGIS2013/">Abstract einreichen</a>
+                    </li>
 					
                     <!--<li>
                         <a href="/fossgis/programm/">Programm</a>
