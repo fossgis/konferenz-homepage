@@ -10,118 +10,118 @@
 
 		<link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 		
-		<script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"> </script>
-		<script type="text/javascript" src="script/functions.js"> </script>
-		
-		<style type="text/css">
-			#maparea {
-				width: 100%;
-				height: 500px;
-			}
-		</style>
+
     </head>
-    <body id="anreise" onload="init()">
+    <body id="anreise">
     	<div id="wrap">
     		<?php include('../inc/head.inc'); ?>
             <div id="content">
                 <?php include('../inc/nav.inc'); ?>
 				<div id="mainContent">
 					<h2>Anreise & Unterkunft</h2>
-					<div id="maparea"></div>
-					<h3>Anreise per Bahn</h3>
-					<p>Direktverbindungen Regional: beispielsweise aus Berlin (über Potsdam), Leipzig, Magdeburg und Halle;<br>
-					Per IC/ICE wäre der Umstieg nach Dessau in Köthen (20km entfernt) oder Bitterfeld (20km entfernt);<br>
-					Entfernung Dessauer Hauptbahnhof zur Hochschule Anhalt ca. 300m</p>
 					
+					<h3>Anreise per Bahn</h3>
+					<p>Die HSR Hochschule für Technik Rapperswil liegt direkt beim Bahnhof Rapperswil. Wir empfehlen, die öffentlichen Verkehrmittel zu benützen.</p>
+					<p>Bahnverbindungen:</p>
+					<ul>
+						<li>Zürich–Rapperswil (S5, S7 und S15) ca. 35–40 Minuten</li>
+						<li>St. Gallen–Rapperswil ca. 55 Minuten</li>
+						<li>Glarus–Rapperswil ca 45 Minuten</li>
+						<li>Schwyz–Rapperswil ca. 65 Minuten</li>
+					</ul>
+
 					<h3>Anreise per Flugzeug</h3>
-					<p>Berlin Schönefeld (mit direkter Zugverbindung nach Dessau);<br />
-					Leipzig-Halle (ebenfalls gut mit der Bahn erreichbar).</p>
+					<p>Der nächste (internationale) Flughafen ist Zürich-Kloten. Lokal liegt der kleine Sport-Flugplatz Wangen-Lachen am Nächsten.</p>
 					
 					<h3>Anreise per PKW</h3>
-					<p>Über die A9, zwei Ausfahrten führen direkt nach Dessau;<br />
-					Parkplätze sind vorhanden</p>
+					<p>Es wird empfohlen mit öffentlichen Verkehrsmitteln anzureisen, da auf dem Campus der HSR nur wenige Parkplätze vorhanden sind. Der nächste öffentliche Parkplatz befindet sich rund zehn Gehminuten entfernt - siehe auch lokales Parkleitsystem. Im Schulareal stehen nur wenige, gebührenpflichtige Parkplätze zur Verfügung (max. 2 Stunden). Belegung des Parkhauses von Montag bis Freitag, 6 - 17 Uhr, ausschliesslich für Angehörige der HSR.</p>
 					
 					<h3>Unterkunft</h3>
 					<div class="hotel">
-						<h4>Radisson Blu Fürst Leopold Hotel Dessau</h4>
+						<h4>Tourist Information</h4>
 						<p>
-							Friedensplatz 1<br>06844 Dessau‐Rosslau<br>
-							Tel. 0800 - 10 10 88 0<br>
-							<a href="http://www.hotel-dessau-city.de/">Webseite</a><br>
-							Preise ab 65 € pro Nacht
+							Fischmarktplatz 1<br>
+							CH-8640 Rapperswil<br>
+							Tel. +41 (0)55 220 57 57<br>
+							<a href="mailto:info@vvrj.ch">E-Mail</a>, <a href="http://www.vvrj.ch">Webseite</a><br>
+							Öffnungszeiten. (April-Juni) täglich 10-18h
 						</p>
 					</div>
 					<div class="hotel">
-						<h4>NH Dessau</h4>
+						<h4>Jugendherberge Rapperswil-Jona</h4>
 						<p>
-							Zerbster Strasse 29<br>06844 Dessau<br>
-							Tel. 0340 - 25140<br>
-							<a href="http://www.nh-hotels.de/nh/de/hotels/deutschland/dessau/nh-dessau.html">Webseite</a><br>
-							Zimmer ab 65,00 € pro Nacht<br><br>
+							Busskirch<br>
+							Hessenhofweg 10<br>
+							CH-8645 Rapperswil-Jona (SG)<br>
+							Tel. +41 (0)55 210 99 27<br>
+							<a href="mailto:jona@youthhostel.ch">E-Mail</a>, <a href="http://www.youthhostel.ch/jona">Webseite</a><br>
+							Preise. CHF 63.- oder weniger, preisgünstig und trendig (ca. 20 min. zu Fuss) <br>
+							Öffnungszeiten Rezeption 7.30-10h / 17-22h
 						</p>
 					</div>
 					<div class="hotel">
-						<h4>Grand City Parkhotel Dessau</h4>
+						<h4>Camping im Strandbad Stampf</h4>
 						<p>
-							Sonnenallee 4<br>06842 Dessau<br>
-							<a href="http://www.grandcity-hotel-dessau.de/">Webseite</a><br>
-							Preise ab 39 € pro Nacht
+							CH-8645 Jona<br>
+							Tel. +41 (0)55 225 72 72<br>
+							<a href="strandbad.stampf@rj.sg.ch">E-Mail</a>, <a href="http://www.vvrj.ch/index.php/unterkunft-gastro/camping/197-camping-im-strandbad-stampf">Webseite</a><br>
+							Preise. Zelt + Person CHF ab 20.50
 						</p>
 					</div>
 					<div class="hotel">
-						<h4>ETAP HOTEL Dessau Ost</h4>
+						<h4>JAKOB Hotel am Hauptplatz</h4>
 						<p>
-							Sollnitzer Allee 4<br>06842 Dessau‐Rosslau<br>
-							Tel. 0340 - 210690<br>
-							<a href="http://www.etaphotel.com/de/hotel-2639-etap-hotel-dessau-ost/index.shtml">Webseite</a><br>
-							Preise ab 29 € pro Nacht
+							Hauptplatz 11<br>
+							CH-8640 Rapperswil-Jona<br>
+							Tel. +41 (0)55 220 00 50<br>
+							<a href="info@jakob-hotel.ch">E-Mail</a>, <a href="http://www.jakob-hotel.ch/">Webseite</a><br>
+							Preise. CHF ab 95.-<br>
+							Öffnungszeiten Rezeption. 7h-23h<br>
+						</p>
+					</div>
+					
+					<div class="hotel">
+						<h4>Gasthof Frohberg</h4>
+						<p>
+							Frohbergstrasse 65<br>
+							CH-8645 Rapperswil-Jona Lenggis<br>
+							Tel. +41 (0)55 210 72 27<br>
+							<a href="mailto:info@frohberg.ch">E-Mail</a>, <a href="http://www.frohberg.ch">Webseite</a><br>
+							Preise. CHF ab 120.-
 						</p>
 					</div>
 					<div class="hotel">
-						<h4>City‐Pension Dessau‐Roßlau</h4>
+						<h4>Hotel Krone Kempraten</h4>
 						<p>
-							Ackerstraße 3A<br>06842 Dessau‐Roßlau<br>
-							Tel. 0340 - 882 3076<br>
-							<a href="http://city-pension.travel/pages/welcome.php">Webseite</a><br>
-							Preise ab 37,50 € pro Nacht
+							Yvonne Eberle<br>
+							Rütistrasse 6<br>
+							CH-8640 Rapperswil-Jona<br>
+							Tel. +41 (0)55 210 90 00<br>
+							<a href="info@krone-kempraten.ch">E-Mail</a>, <a href="http://www.krone-kempraten.ch/82/Hotel.html">Webseite</a><br>
+							Preise. CHF ab 100.-
 						</p>
 					</div>
 					<div class="hotel">
-						<h4>Hotel – Pension „an den 7 Säulen“</h4>
+						<h4>KREUZ - Kultur und Gastlichkeit</h4>
 						<p>
-							Ebertallee 66<br>06846 Dessau<br>
-							Tel. 0340 - 619620<br>
-							<a href="http://www.pension7saeulen.de/">Webseite</a><br>
-							Preise ab 47 € pro Nacht
+							St. Gallerstrasse 30<br>
+							CH-8645 Jona<br>
+							Tel. +41 (0)55 225 53 53<br>
+							<a href="mailto:info@kreuz-jona.ch">E-Mail</a>, <a href="http://www.kreuz-jona.ch">Webseite</a><br>
+							Preise. CHF ab 110.-
 						</p>
 					</div>
 					<div class="hotel">
-						<h4>Hotel Garni Kochstedt</h4>
+						<h4>Bed &amp; Breakfast Rapperswil und Umgebung</h4>
 						<p>
-							Königendorfer Str. 36<br>06847 Dessau<br>
-							Tel.  0340 - 51234<br>
-							<a href="http://www.hotel-garni-kochstedt.de/">Webseite</a><br>
-							Preise ab 37 € pro Nacht
+							Stampfenbachstrasse 52<br>
+							CH-8021 Zürich<br>
+							Tel. +41 (0) 44 215 40 00<br>
+							<a href="mailto:information@zuerich.com">E-Mail</a>, <a href="http://www.zuerichsee.ch/de/page.cfm/accrz/bbrz/list">Webseite</a><br>
+							
 						</p>
-					</div>
-					<div class="hotel">
-						<h4>Bauhaus</h4>
-						<p>
-							Gropiusallee 38<br>06846 Dessau<br>
-							Tel.  0340 - 6508‐318<br>
-							<a href="http://www.bauhaus-dessau.de/index.php?Uebernachtung">Webseite</a><br>
-							Preise ab 30 € pro Nacht
-						</p>
-					</div>
-					<div class="hotel">
-						<h4>Jugendherberge</h4>
-						<p>
-							Ebertallee 151<br>06846 Dessau‐Roßlau<br>
-							Tel. <br>
-							<a href="http://www.jugendherberge-dessau.de/">Webseite</a><br>
-							Preise ab 19 € pro Nacht
-						</p>
-					</div>
+					</div>				
+					<p>Weitere Hotels gibt es Richtung Zürich (mit Zug, max. 20 min.) in Rüti, Wetzikon und Uster. </p>
 				</div>
 			</div>
 			<div id="credit">

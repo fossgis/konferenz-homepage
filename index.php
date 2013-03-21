@@ -31,10 +31,63 @@
                         <a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" width="168" height="50"></a><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" width="150" height="67"></a><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" width="258	" height="60"></a>
                     </p>
                     <h2>Sponsoren</h2>
+				<p>Die FOSSGIS wird durch die freundliche Unterstützung unserer Sponsoren möglich. Herzlichen Dank.</p>
+					<h3>Goldsponsor</h3>
+					<p class="logos">
+						<a href="http://www.camptocamp.com/"><img valign="middle" src="img/s/C2C-72dpi-logo-baseline-RVB.png" width="300" height="81"></a>
+					</p>
+					
+					<h3>Silbersponsoren</h3>
+					<p class="logos">
+						<a href="http://www.geops.de/"><img valign="middle" src="img/s/Geops.png" width="250" height="65"></a>
+						<a href="http://www.omniscale.de/"><img valign="middle" src="img/s/omniscale.PNG" width="250" height="51"></a>
+						<a href="http://www.gbd-consult.de/"><img valign="middle" src="img/s/gbd-consult.PNG" width="250" height="89"></a>
+						<a href="http://www.metaspatial.net/de/"><img valign="middle" src="img/s/metaspatial.PNG" width="250" height="39"></a>
+						<a href="http://www.webgis.de/"><img valign="middle" src="img/s/in_medias_res.PNG" width="200" height="114"></a>
+						<a href="http://www.esri.ch/"><img valign="middle" src="img/s/Esri_Schweiz.PNG" width="200" height="35"></a>
+							
+
+					 </p>
+					<h3>Bronzesponsoren</h3>
+					<p class="logos">
+						<a href="http://www.wheregroup.com/"><img valign="middle" src="img/s/wheregroup.PNG" width="200" height="53"></a>
+						<a href="http://www.sourcepole.ch/"><img valign="middle" src="img/s/sourcepole.png" width="200" height="54"></a>
+						<a href="http://www.itos-gmbh.com/"><img valign="middle" src="img/s/itos.PNG" width="180" height="48"></a>
+						<a href="http://www.mapmedia.de//"><img valign="middle" src="img/s/mapmedia.png" width="200" height="34"></a>
+						<a href="http://www.csgis.de//"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a>
+						<a href="http://www.ch-open.ch"><img valign="middle" src="img/s/ch-open.PNG" width="99" height="70"></a>
+						<a href="http://www.geofabrik.de/"><img valign="middle" src="img/s/geofabrik.PNG" width="200" height="40"></a>
+						<a href="http://www.terrestris.de/"><img valign="middle" src="img/s/terrestris.png" width="130" height="130"></a>
+						<a href="http://www.lingner.eu/"><img valign="middle" src="img/s/mapwebbing.PNG" width="200" height="61"></a>
+						<a href="http://www.labcom.ch/"><img valign="middle" src="img/s/LabCom.PNG" width="200" height="47"></a>
+						<a href="http://www.awa.zh.ch/"><img valign="middle" src="img/s/AWA_de_farbig.PNG" width="300" height="87"></a>
+						
+
+
+
+
+
+
+					</p> 
+					<h3>Mediasponsoren</h3>
+					<p class="logos">
+						<a href="http://www.vde-verlag.de//"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a>
+					
+
+					</p> 
+
+					<h3>Medienpartner</h3>
+					<p class="logos">
+						<a href="http://www.geomatik.ch//"><img valign="middle" src="img/s/Geomatik_Schweiz.PNG" width="150" height="49"></a>
+					
+
+					</p> 
+
 					<p>
-                        Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
-                        oder wenden Sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
-                    </p>
+                        		Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
+                       		 oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+                    			</p>
+				
                 </div>
             </div>
 			

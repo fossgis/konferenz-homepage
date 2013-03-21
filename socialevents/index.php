@@ -17,24 +17,29 @@
 				<div id="mainContent">
 					<h2>Social Events</h2>
 					
-					<h3>Montag 19. März 2012 - Inoffizieller Start</h3>
-					<p>Am Montag Abend findet die inoffizielle Konferenzeröffnung mit den Organisatoren und dem Lokalteam im Brauhaus Dessau statt.</p>
+					<h3>Dienstag, 11. Juni 2013 - Inoffizieller Start</h3>
+					<p>Am Dienstag Abend findet die inoffizielle Konferenzeröffnung mit den Organisatoren und dem Lokalteam in einem nahegelegenen Restaurant in Rapperswil und Umgebung statt.</p>
 					<p>Beginn ist 18 Uhr.</p>
 					
-					<h3>Dienstag 20. März 2012 - Social Event</h3>
-					<p>Das Social Event am Dienstag Abend findet im Bauhaus Dessau statt. Das Bauhaus befindet sich in unmittelbarer Nähe zum Konferenzstandort und bietet die einmalige Gelegenheit die Dessauer Bauhauskulter hautnah zu erleben. Das Social Event soll den Teilnehmern die Möglichkeit geben, sich im abendlichen Ambiente mit anderen Teilnehmern auszutauschen.</p>
-					<p>Im Preis inbegriffen sind Buffet sowie 3-4 Getränke (werden als Gutscheine ausgegeben) und die musikalische Untermalung. </p>
-					<p>Unkostenbeitrag: 45€.</p>
-					<p>Beginn ist 18:30 Uhr.</p>
+					<h3>Mittwoch, 12. Juni 2013 - Social Event</h3>
+					<p>Das Social Event am Mittwoch unter dem Motto 'Ein gemütlicher Abend auf dem Bauernhof' statt. Das Social Event soll den Teilnehmerinnen und Teilnehmern die Möglichkeit geben, sich im abendlichen Ambiente mit anderen Teilnehmern auszutauschen.</p>
+					<p>Im Preis von 60 EUR sind inbegriffen Menü mit Vorspeise, Hauptgang, Dessert und Getränke.</p>
+
+					<h4>Menü</h4>
+					<p><em>Apéro:</em> Tortilla-Chips, Apfelringli und Kürbisknabberkerne.</p>
+					<p><em>Hauptgang 'Schwiizerbuffet':</em> Rösti (Kartoffelstreifen), Spiegelei, Mistkratzerli (gebratenes Hühnchen), Ghackets (Hackfleisch in Tomatensosse) und Hörnli (Teigwaren), St. Galler Bratwurst vom Grill und Salatbuffet.</p>
+					<p><em>Dessert:</em> Appenzellerbiberli, Schockoladestengel, Waffeln und frische hofeigene Erdbeeren mit Rahm.</p>
+					<p><em>Getränke:</em> Kaffee, Mineral, Most und natürlich Bier. </p>
+
+					<p>Beginn: ab 17:30 Uhr  Ende: 2:00 Uhr<br>
+					Ort: Bächlihof Jona (SG), Blaubrunnenstrasse 70, 8645 Jona <br>
+					<a href="http://bit.ly/WVKgKM">Map</a></p>
 					
-					<h3>Mittwoch 21. März 2012 - Möglichkeiten der Abendgestaltung </h3>
-					<p>
-<a href="http://www.fossgis.de/w/images/6/6c/Restaurants_%26_Bars_f%C3%BCr_den_21.03._FossGIS_2012_Stand_02-2012.pdf">siehe PDF </a>mit Auflistung von Restaurants und Bars in Dessau.<br></p>
+					<h3>Donnerstag, 13. Juni 2013 - Möglichkeiten der Abendgestaltung</h3>
+					<p>siehe <a href="http://giswiki.hsr.ch/Rappi_Info">Rappi Info</a></p>
 					
-					<h3>Donnerstag 22. März 2012 - Closing Event</h3>
-					<p>Hier möchte das Local Team die Konferenz ausklingen lassen. Speisen und Getränke sind im Angebot und werden selbst getragen.</p>
-					<p>Vor Ort, Ratsgasse 1 (am Rathaus Dessau)</p>
-					<p>Beginn: 18 Uhr.</p>
+					<h3>Freitag, 14. Juni 2013 - Angebote </h3>
+					<p>Es besteht die Möglichkeit einen geführtern Stadtrundgang oder eine Schifffahrt zur Insel Ufenau (mit Verpflegung) über die Touristinformation Rapperswil zu buchen. (<a href="http://www.vvrj.ch/">http://www.vvrj.ch/</a>)</p>
 				</div>
 			</div>
 			<div id="credit">Photo: <a href="http://www.flickr.com/photos/abhijeetrane/3441677823/">Abhijeet Rane</a></div>
