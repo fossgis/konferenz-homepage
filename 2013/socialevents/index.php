@@ -42,7 +42,6 @@
 					<p>Es besteht die Möglichkeit einen geführtern Stadtrundgang oder eine Schifffahrt zur Insel Ufenau (mit Verpflegung) über die Touristinformation Rapperswil zu buchen. (<a href="http://www.vvrj.ch/">http://www.vvrj.ch/</a>)</p>
 				</div>
 			</div>
-			<div id="credit">Photo: <a href="http://www.flickr.com/photos/abhijeetrane/3441677823/">Abhijeet Rane</a></div>
     	</div>
     </body>
 </html>

@@ -124,9 +124,6 @@
 					<p>Weitere Hotels gibt es Richtung Zürich (mit Zug, max. 20 min.) in Rüti, Wetzikon und Uster. </p>
 				</div>
 			</div>
-			<div id="credit">
-                Photo: <a href="http://www.flickr.com/photos/33470929@N05/4846511737/">Zuggup</a>
-            </div>
     	</div>
     </body>
 </html>

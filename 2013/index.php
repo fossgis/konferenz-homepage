@@ -45,6 +45,8 @@
 						<a href="http://www.metaspatial.net/de/"><img valign="middle" src="img/s/metaspatial.PNG" width="250" height="39"></a>
 						<a href="http://www.webgis.de/"><img valign="middle" src="img/s/in_medias_res.PNG" width="200" height="114"></a>
 						<a href="http://www.esri.ch/"><img valign="middle" src="img/s/Esri_Schweiz.PNG" width="200" height="35"></a>
+						<a href="http://www.thomas-krenn.com/"><img valign="middle" src="img/s/TKrenn.png" width="230" height="48"></a>
+						<a href="http://www.tydac.ch/"><img valign="middle" src="img/s/Tydac.png" width="210" height="53"></a>
 							
 
 					 </p>
@@ -61,6 +63,9 @@
 						<a href="http://www.lingner.eu/"><img valign="middle" src="img/s/mapwebbing.PNG" width="200" height="61"></a>
 						<a href="http://www.labcom.ch/"><img valign="middle" src="img/s/LabCom.PNG" width="200" height="47"></a>
 						<a href="http://www.awa.zh.ch/"><img valign="middle" src="img/s/AWA_de_farbig.PNG" width="300" height="87"></a>
+						<a href="https://kuestenschmiede.de/startseite.html"><img valign="middle" src="img/s/Küstenschmiede.png" width="150" height="132"></a>
+						<a href="http://www.bemastergis.de/"><img valign="middle" src="img/s/BeMasterGis.jpg" width="200" height="152"></a>
+						<a href="http://www.objeng.ch/"><img valign="middle" src="img/s/ObjectEngineering.png" width="116" height="74"></a>
 						
 
 
