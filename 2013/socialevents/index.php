@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <title>FOSSGIS 2012 - Social Events</title>
+        <title>FOSSGIS 2013 - Social Events</title>
 		<meta name="description" content="FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.">
 		<meta name="author" content="Oliver Roick. GIScience, Heidelberg University - http://giscience.uni-hd.de/">
 		<meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">

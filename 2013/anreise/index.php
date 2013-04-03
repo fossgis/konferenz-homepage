@@ -2,7 +2,7 @@
 <html lang="de">
     <head>
         <head>
-        <title>FOSSGIS 2012 - Anreise</title>
+        <title>FOSSGIS 2013 - Anreise</title>
 		<meta name="description" content="FOSSGIS ist die Abk�rzung f�r Freie und Open Source Software f�r Geoinformationssysteme und ist die f�hrende Konferenz zu diesem Thema im deutschsprachigen Raum.">
 		<meta name="author" content="Oliver Roick. GIScience, Heidelberg University - http://giscience.uni-hd.de/">
 		<meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">

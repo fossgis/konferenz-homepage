@@ -1,0 +1,214 @@
+/**
+ * BASICS
+ */
+
+body {
+	background-color: #f6f6f6;
+	padding: 0;
+	margin: 0;
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+	font-size: 100%;
+	line-height: 1.5;
+	color: #333335;
+
+}
+
+div#wrap {
+	width: 960px;
+	margin: 0 auto;
+	
+}
+
+div#content {
+	background-color: #fff;
+	float: left;
+	color: #333335;
+	border-left: 1px dotted #333335;
+	border-right: 1px dotted #333335;
+	border-bottom: 1px dotted #333335;
+	margin-bottom: 3em;
+	padding-bottom: 2em;
+}
+
+a:link {
+	color: #ea5810;
+}
+
+a:hover,
+a:active,
+a:focus {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ea5810;
+}
+
+
+
+/**
+ * HEAD
+ */
+h1 {
+	position: relative;
+	width: 960px;
+	height: 290px;
+	margin: 0;
+	background: url(../img/head_rapperswill.png) no-repeat;
+}
+
+h1 span {
+	display: block;
+	text-indent: -9999em;
+}
+
+div#credit {
+	position: absolute;
+	top: 10px;
+	right: 17px;
+	display: block;
+	color: #aaa;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+div#credit a:link,
+div#credit a:visited,
+div#credit a:hover,
+div#credit a:active,
+div#credit a:focus {
+	color: #aaa;
+}
+
+/**
+ * NAVI
+ */
+
+ul#mainNav {
+	list-style: none;
+	padding: 0;
+	margin: 2.5em 0 0 20px;
+	width: 247px;
+	float: left;
+	border-top: 1px solid #ea5810;
+}
+
+ul#mainNav li {
+	width: 237px;
+	text-align: right;
+	border-bottom: 1px solid #ea5810;
+	padding: 5px;
+	color: #333335;
+	font-weight: bold;
+}
+
+ul#mainNav li a:link,
+ul#mainNav li a:visited {
+	text-decoration: none;
+	color: #333335;
+	font-weight: bold;
+}
+
+ul#mainNav li a:hover,
+ul#mainNav li a:active,
+ul#mainNav li a:focus,
+
+body#home li#navHome a:link,
+body#home li#navHome a:visited,
+body#call li#navCall a:link,
+body#call li#navCall a:visited,
+body#anreise li#navAnreise a:link,
+body#anreise li#navAnreise a:visited,
+body#social li#navSocial a:link,
+body#social li#navSocial a:visited {
+	color: #ea5810;
+}
+
+ul#mainNav li.twitter {
+	border-bottom: 1px dotted #ea5810;
+	border-top: 1px dotted #ea5810;
+	margin-top: 3em;
+	padding: 5px;
+	color: #333335;
+	font-weight: normal;
+}
+
+ul#mainNav li.twitter a:hover,
+ul#mainNav li.twitter a:active,
+ul#mainNav li.twitter a:focus {
+	text-decoration: underline;
+}
+
+ul#mainNav li.twitter a:link,
+ul#mainNav li.twitter a:visited {
+	font-weight: normal;
+	color: #38d5ff;
+}
+
+ul#mainNav li.twitter a.twLink {
+	display: block;
+	width: 130px;
+	height: 24px;
+	text-align: left;
+	background: url(../img/logo_twitter.png) no-repeat 50% 50%;
+	text-indent: -9999em;
+	margin: 0 0 1em 107px;
+}
+
+
+/**
+ * MAIN CONTENT
+ */
+
+div#mainContent {
+	width: 631px;
+	margin: 0 30px;
+	float: left;
+	margin-top: 2em;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: normal;
+	margin: 0;
+}
+
+h3 {
+	margin: 1.5em 0 0.3em 0;
+}
+
+p {
+	margin: 0 0 1em 0;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 1em;
+}
+
+
+/**
+ * SPECIALS
+ */
+
+p.logos {
+	text-align: center;
+}
+
+p.logos img {
+	margin: 0 10px;
+	padding: 10px 0;
+	border: 0;
+}
+
+div.hotel {
+	width: 50%;
+	float: left;
+}
+
+.twitter-timeline {
+	margin-top: 1em;
+}
