@@ -63,8 +63,8 @@
 						<a href="http://www.lingner.eu/"><img valign="middle" src="img/s/mapwebbing.PNG" width="200" height="61"></a>
 						<a href="http://www.labcom.ch/"><img valign="middle" src="img/s/LabCom.PNG" width="200" height="47"></a>
 						<a href="http://www.awa.zh.ch/"><img valign="middle" src="img/s/AWA_de_farbig.PNG" width="300" height="87"></a>
-						<a href="https://kuestenschmiede.de/startseite.html"><img valign="middle" src="img/s/Küstenschmiede.png" width="150" height="132"></a>
-						<a href="http://www.bemastergis.de/"><img valign="middle" src="img/s/BeMasterGis.jpg" width="200" height="152"></a>
+						<a href="https://kuestenschmiede.de/startseite.html"><img valign="middle" src="img/s/Kuestenschmiede.PNG" width="150" height="132"></a>
+						<a href="http://www.bemastergis.de/"><img valign="middle" src="img/s/BeMasterGIS.jpg" width="200" height="152"></a>
 						<a href="http://www.objeng.ch/"><img valign="middle" src="img/s/ObjectEngineering.png" width="116" height="74"></a>
 						
 
