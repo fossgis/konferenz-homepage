@@ -39,7 +39,7 @@
 					<p>siehe <a href="http://giswiki.hsr.ch/Rappi_Info">Rappi Info</a></p>
 					
 					<h3>Freitag, 14. Juni 2013 - Angebote </h3>
-					<p>Es besteht die Möglichkeit einen geführtern Stadtrundgang oder eine Schifffahrt zur Insel Ufenau (mit Verpflegung) über die Touristinformation Rapperswil zu buchen. (<a href="http://www.vvrj.ch/">http://www.vvrj.ch/</a>)</p>
+					<p>Es besteht die Möglichkeit einen geführten Stadtrundgang oder eine Schifffahrt zur Insel Ufenau (mit Verpflegung) über die Touristinformation Rapperswil zu buchen. (<a href="http://www.vvrj.ch/">http://www.vvrj.ch/</a>)</p>
 				</div>
 			</div>
     	</div>
