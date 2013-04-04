@@ -27,9 +27,9 @@
                         in Zusammenarbeit mit der <a href="http://www.hsr.ch/index.php">HSR Hochschule für Technik</a> in Rapperswil in der Schweiz organisiert.
                     </p>
                     
-                        <div class="sponsor bronze"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" width="168" height="50"></a></div>
-                        <div class="sponsor bronze"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" width="150" height="67"></a></div>
-                        <div class="sponsor bronze"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" width="258" height="60"></a></div>
+                        <div class="sponsor bronze"><a href="http://www.fossgis.de/"><img valign="middle" src="img/Fossgis_neu.png" width="168" height="50"></a></div>
+                        <div class="sponsor bronze"><a href="http://www.osgeo.org/"><img valign="middle" src="img/Osgeo_neu.png" width="150" height="67"></a></div>
+                        <div class="sponsor bronze"><a href="http://www.openstreetmap.de/"><img valign="middle" src="img/osm_2012.png" width="258" height="60"></a></div>
                     
                     <h2>Sponsoren</h2>
 				<p>Die FOSSGIS wird durch die freundliche Unterstützung unserer Sponsoren möglich. Herzlichen Dank.</p>
