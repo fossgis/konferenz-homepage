@@ -16,9 +16,12 @@
 					<li id="navAnreise">
                         <a href="/fossgis/2013/anreise/">Anreise &amp; Unterkunft</a>
                     </li>
-					<li class="twitter">
-						Folgen sie uns auf <a class="twLink" href="http://twitter.com/fossgis2013">Twitter</a>
-						Hashtag: <a href="https://twitter.com/#!/search?q=%23fossgis2013">#fossgis2013</a>
+					<!--<li>
+                        <a href="https://twitter.com/fossgis2013" class="twitter-follow-button" data-show-count="false" data-lang="de" data-size="large">@fossgis2013 folgen</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-					</li>
+                        <a href="https://twitter.com/intent/tweet?button_hashtag=fossgis2013" class="twitter-hashtag-button" data-lang="de" data-size="large" data-related="oliverroick">Tweet #fossgis2013</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+					</li>-->
                 </ul>

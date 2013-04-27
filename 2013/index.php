@@ -8,6 +8,20 @@
         <meta name="date" content="2008-04-15T20:00:01+01:00">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
+        
+        <!-- TWITTERWALL STUFF -->
+        <link rel="stylesheet" href="css/twitterwalljs.css" />
+        <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
+        <script type="text/javascript" src="js/twitterwall/twitterwalljs.js"></script>
+        <script type="text/javascript" src="js/twitterwall/moment.min.js"></script>
+        <script type="text/javascript" src="js/twitterwall/moment.lang.all.js"></script>
+        <script type="text/javascript" src="js/twitterwall/underscore-min.js"></script>
+        
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#twitterwall").twitterWall("%23fossgis2013", { refresh: true, refreshTimeout: 5000, firstLoadResults: 5 });
+            });
+        </script>
     </head>
     <body id="home">
         <div id="wrap">
