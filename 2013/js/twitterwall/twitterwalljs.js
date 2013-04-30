@@ -15,10 +15,10 @@
 
         tweetTemplate = tweetTemplate ||
             '<div class="tweet">' +
-                '<div class="tweetText"><%= text %></div>' +
                 '<div class="tweetUser"><img class="tweetImg" src="<%= profileImageUrl %>" />' +
                     '<a target="_blank" href="<%= statusUrl %>"><%= userName %></a>' +
                 '<span class="tweetTime">(<%= dateFromNow %>)</span></div>' +
+                '<div class="tweetText"><%= text %></div>' +
             '</div>';
 
         if (config.detectLanguage) {

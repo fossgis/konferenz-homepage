@@ -3,14 +3,12 @@
     <head>
         <head>
         <title>FOSSGIS 2013 - Anreise</title>
-		<meta name="description" content="FOSSGIS ist die Abk�rzung f�r Freie und Open Source Software f�r Geoinformationssysteme und ist die f�hrende Konferenz zu diesem Thema im deutschsprachigen Raum.">
+		<meta name="description" content="FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.">
 		<meta name="author" content="Oliver Roick. GIScience, Heidelberg University - http://giscience.uni-hd.de/">
 		<meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 		<link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
-
     </head>
     <body id="anreise">
     	<div id="wrap">
@@ -18,20 +16,23 @@
             <div id="content">
                 <?php include('../inc/nav.inc'); ?>
 				<div id="mainContent">
-					<h2>Anreise & Unterkunft</h2>
+					<h2>Anreise &amp; Unterkunft</h2>
 					
 					<h3>Anreise per Bahn</h3>
-					<p>Die HSR Hochschule für Technik Rapperswil liegt direkt beim Bahnhof Rapperswil. Wir empfehlen, die öffentlichen Verkehrmittel zu benützen.</p>
-					<p>Bahnverbindungen:</p>
+					<p>Wir empfehlen, die öffentlichen Verkehrmittel zu benutzen. Die HSR Hochschule für Technik Rapperswil liegt direkt beim Bahnhof Rapperswil. Für Fahrten innerhalb von Rapperswil und Jona gibt es einen Stadtbus.</p>
+					<p>Bahnverbindungen (<a href="http://www.sbb.ch/">Fahrplan</a>)</p>
 					<ul>
-						<li>Zürich–Rapperswil (S5, S7 und S15) ca. 35–40 Minuten</li>
+						<li>Zürich(Hauptbahnhof oder Stadelhofen)–Rapperswil (S5, S7 und S15) ca. 35–40 Minuten</li>
 						<li>St. Gallen–Rapperswil ca. 55 Minuten</li>
 						<li>Glarus–Rapperswil ca 45 Minuten</li>
 						<li>Schwyz–Rapperswil ca. 65 Minuten</li>
+                        <li>Uster/Wetzikon/Rüti etc.-Rapperswil ca. 15 Minuten</li>
 					</ul>
+                    
+                    <p>Tipp: Mit dem Schiff nach Rapperswil zum Bahntarif! Zürich Bükliplatz - Rapperswil SG (Schiffstation); fast jede Stunde; Dauer 2 Stunden (<a href="http://www.zvv.ch/">Fahrplan</a>)</p>
 
 					<h3>Anreise per Flugzeug</h3>
-					<p>Der nächste (internationale) Flughafen ist Zürich-Kloten. Lokal liegt der kleine Sport-Flugplatz Wangen-Lachen am Nächsten.</p>
+                    <p>Der nächste (internationale) Flughafen ist Zürich-Kloten (ZHR). Von da fährt jede Viertelstunde ein Zug nach Zürich. Billete (=Fahrscheine) können direkt am SBB/ZVV-Billetautomaten auf dem Flughafen gelöst werden. Beispiel: Ein 2. Klasse-Billet von Zürich nach Rapperswil ist Tarifstufe 8 ("Alle Zonen", 2 Stunden gültig) kostet CHF 16.60.</p>
 					
 					<h3>Anreise per PKW</h3>
 					<p>Es wird empfohlen mit öffentlichen Verkehrsmitteln anzureisen, da auf dem Campus der HSR nur wenige Parkplätze vorhanden sind. Der nächste öffentliche Parkplatz befindet sich rund zehn Gehminuten entfernt - siehe auch lokales Parkleitsystem. Im Schulareal stehen nur wenige, gebührenpflichtige Parkplätze zur Verfügung (max. 2 Stunden). Belegung des Parkhauses von Montag bis Freitag, 6 - 17 Uhr, ausschliesslich für Angehörige der HSR.</p>
@@ -59,15 +60,7 @@
 							Öffnungszeiten Rezeption 7.30-10h / 17-22h
 						</p>
 					</div>
-					<div class="hotel">
-						<h4>Camping im Strandbad Stampf</h4>
-						<p>
-							CH-8645 Jona<br>
-							Tel. +41 (0)55 225 72 72<br>
-							<a href="strandbad.stampf@rj.sg.ch">E-Mail</a>, <a href="http://www.vvrj.ch/index.php/unterkunft-gastro/camping/197-camping-im-strandbad-stampf">Webseite</a><br>
-							Preise. Zelt + Person CHF ab 20.50
-						</p>
-					</div>
+					
 					<div class="hotel">
 						<h4>JAKOB Hotel am Hauptplatz</h4>
 						<p>
@@ -81,16 +74,6 @@
 					</div>
 					
 					<div class="hotel">
-						<h4>Gasthof Frohberg</h4>
-						<p>
-							Frohbergstrasse 65<br>
-							CH-8645 Rapperswil-Jona Lenggis<br>
-							Tel. +41 (0)55 210 72 27<br>
-							<a href="mailto:info@frohberg.ch">E-Mail</a>, <a href="http://www.frohberg.ch">Webseite</a><br>
-							Preise. CHF ab 120.-
-						</p>
-					</div>
-					<div class="hotel">
 						<h4>Hotel Krone Kempraten</h4>
 						<p>
 							Yvonne Eberle<br>
@@ -101,7 +84,8 @@
 							Preise. CHF ab 100.-
 						</p>
 					</div>
-					<div class="hotel">
+                    
+                    <div class="hotel">
 						<h4>KREUZ - Kultur und Gastlichkeit</h4>
 						<p>
 							St. Gallerstrasse 30<br>
@@ -111,17 +95,42 @@
 							Preise. CHF ab 110.-
 						</p>
 					</div>
-					<div class="hotel">
-						<h4>Bed &amp; Breakfast Rapperswil und Umgebung</h4>
+                    
+                    <div class="hotel">
+						<h4>Gasthof Frohberg</h4>
 						<p>
-							Stampfenbachstrasse 52<br>
-							CH-8021 Zürich<br>
-							Tel. +41 (0) 44 215 40 00<br>
-							<a href="mailto:information@zuerich.com">E-Mail</a>, <a href="http://www.zuerichsee.ch/de/page.cfm/accrz/bbrz/list">Webseite</a><br>
-							
+							Frohbergstrasse 65<br>
+							CH-8645 Jona (bei Rapperswil)<br>
+							Tel. +41 (0)55 225 53 53<br>
+                            <a href="http://vvrj.ch/index.php/unterkunft-gastro/hotels/204-gasthof-frohberg">Webseite</a><br>
+							Preise. CHF 115.- bis 125.-
 						</p>
-					</div>				
-					<p>Weitere Hotels gibt es Richtung Zürich (mit Zug, max. 20 min.) in Rüti, Wetzikon und Uster. </p>
+					</div>
+                    
+                    <div class="hotel">
+						<h4>Gasthaus Weinhalde</h4>
+						<p>
+							Rebhalde 9<br>
+							CH-8645 Jona (bei Rapperswil)<br>
+							Tel. +41 (0)55 225 53 53<br>
+							<a href="mailto:info@kreuz-jona.ch">E-Mail</a>, <a href="http://vvrj.ch/index.php/unterkunft-gastro/hotels/209-gasthaus-weinhalde">Webseite</a><br>
+							Preise. CHF 95.- bis 140.-
+						</p>
+					</div>
+                    
+                    <div class="hotel">
+						<h4>Camping im Strandbad Stampf</h4>
+						<p>
+							CH-8645 Jona<br>
+							Tel. +41 (0)55 225 72 72<br>
+							<a href="strandbad.stampf@rj.sg.ch">E-Mail</a>, <a href="http://www.vvrj.ch/index.php/unterkunft-gastro/camping/197-camping-im-strandbad-stampf">Webseite</a><br>
+							Preise. Zelt + Person CHF ab 20.50<br>
+                            <br>
+						</p>
+					</div>
+                    
+                    <h3>Weitere Möglichkeiten</h3>
+					<p><a href="http://www.vvrj.ch/index.php/unterkunft-gastro/bed-breakfast">Bed &amp; Breakfast Rapperswil und Umgebung</a>. Man suche v.a. entlang der S5/S15 (d.h. Region Zürioberland, Richtung Zürich) d.h. Rüti, Bubikon, Wetzikon, Uster.</p>		
 				</div>
 			</div>
     	</div>

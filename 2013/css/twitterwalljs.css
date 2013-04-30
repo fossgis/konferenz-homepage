@@ -1,11 +1,12 @@
 .tweetContainer {
-    
+    font-size: 0.3em;
 }
 
 .tweet {
 	margin: 15px 0;
 	padding: 15px 0;
 	border-top: 1px solid #ccc;
+	
 }
 
 .tweet .tweetImg {
@@ -18,11 +19,11 @@
 }
 
 .tweet .tweetUser{
-	margin-top: 10px;
+	margin-bottom: 20px;
 }
 
 .tweet .tweetText {
-
+text-align: left;
 }
 
 .tweet .tweetTime {
