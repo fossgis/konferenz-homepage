@@ -35,7 +35,7 @@
 				<p>Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
                        		 oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.</p>
                 </div>
-				<footer></footer>
+				<?php include('inc/footer.inc'); ?>
         </div>
     </body>
 </html>

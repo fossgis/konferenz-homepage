@@ -17,8 +17,6 @@ body {
 div#wrap {
 	width: 900px;
 	margin: 0 auto;
-	padding-bottom: 45px;
-	border-bottom: 15px solid #eb7f00;
 }
 
 a:link,
@@ -56,7 +54,7 @@ h1 > span {
 	color: #7b9199;
 	margin-top: -15px;
 	margin-left: 35	px;
-	letter-spacing: -8px;
+	letter-spacing: -6px;
 	
 	text-shadow: 1px 1px 3px #DDD;
 	filter: dropshadow(color=#DDD, offx=1, offy=1);
@@ -285,4 +283,20 @@ body#socialEvents div#spots a {
 
 footer {
 	clear: both;
+	text-align: right;
+	font-size: 12px;
+	padding: 45px 10px 6px 10px;
+	border-bottom: 15px solid #eb7f00;
+	color: #AAA;
+}
+
+footer a:link,
+footer a:visited {
+	color: #AAA;	
+}
+
+footer a:hover,
+footer a:active,
+footer a:focus {
+	text-decoration:none;
 }
