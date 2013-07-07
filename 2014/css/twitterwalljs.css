@@ -1,0 +1,73 @@
+.tweetContainer {
+    font-size: 0.3em;
+}
+
+.tweet {
+	margin: 15px 0;
+	padding: 15px 0;
+	border-top: 1px solid #ccc;
+	
+}
+
+.tweet .tweetImg {
+	float: right;
+	margin-left: 10px;
+}
+
+.tweet .tweetUser:before {
+	content:" ";
+}
+
+.tweet .tweetUser{
+	margin-bottom: 20px;
+}
+
+.tweet .tweetText {
+text-align: left;
+}
+
+.tweet .tweetTime {
+	display: block;
+}
+
+.tweet .tweetTime:before {
+	content:" ";
+}
+
+.tweet .tweetText a {
+}
+
+.tweet .tweetTriangle {
+
+}
+
+.tweetContainer .loader {
+    
+}
+
+.tweetContainer .loader div {    
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: white;
+    opacity: 0.6;
+    -moz-opacity: 0.6;
+    filter:alpha(opacity=60);
+    color: white;    
+    z-index: 100;
+}
+
+.tweetContainer .loader span {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    color: white;
+    z-index: 101;
+}
