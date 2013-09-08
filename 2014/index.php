@@ -18,6 +18,8 @@
         	<?php include('inc/head.inc'); ?>
             
             <div id="content">
+                <?php include('inc/nav.inc'); ?>
+                
 				<figure>
 					<img src="img/berlin.jpg" width="880" height="220" alt="Skyline Berlin">
 					<figcaption>Photo: CC-BY-SA <a href="http://www.flickr.com/photos/giesenbauer/3458525781/">Bjørn Giesenbauer</a></figcaption>
