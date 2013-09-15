@@ -99,6 +99,14 @@ ul#mainNav {
 			color: #fff;
 		}
 
+        body#home ul#mainNav > li#navHome > a:link,
+        body#home ul#mainNav > li#navHome > a:visited,
+        body#call ul#mainNav > li#navCall > a:link,
+        body#call ul#mainNav > li#navCall > a:visited {
+            background-color: #fff;
+			color: #eb7f00;
+        }
+
 /* @end */
 
 /* @group Content */

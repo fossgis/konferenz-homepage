@@ -9,9 +9,6 @@
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
-		<script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
-		<script type="text/javascript" src="js/twitterwall/twitter.js"></script>
     </head>
     <body id="home">
         <div id="wrap">
@@ -34,21 +31,6 @@
 				<div class="sponsor organizer"><a href="http://www.beuth-hochschule.de/"><img src="img/beuth.png" valign="middle"></a></div>
 				
 				<p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> organisiert.</p>
-				    
-                    
-                <h2>Folgen sie uns</h2>
-				<div id="twitter">
-					<a href="http://twitter.com/fossgis2013"><img src="img/twitter.svg" width="55" height="55"></a>
-					<div id="twitterwall">
-						<div class="arrow"></div>
-					</div>
-				</div>
-				<div id="facebook">
-					<a href="http://twitter.com/fossgis2013"><img src="img/facebook2.svg" width="55" height="55"></a>
-					<div id="facebooklink">
-						<div class="arrow"></div>
-					</div>
-				</div>
 				
 				<h2>Sponsoren</h2>
 				<p>Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>

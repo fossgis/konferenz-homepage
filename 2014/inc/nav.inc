@@ -1,9 +1,13 @@
                  <ul id="mainNav">
                     <li id="navHome">
-                        <a href="/fossgis/2014/">Startseite</a>
+                        <a href="/konferenz/2014/">Startseite</a>
                     </li>
 					
-                    <li id="call">
-                        <a href="/fossgis/2014/callforpapers">Call for Papers</a>
+                    <li id="navCall">
+                        <a href="/konferenz/2014/callforpapers/">Call for Papers</a>
+                    </li>
+                    
+                    <li>
+                        <a href="http://pb.fossgis.de/submission/FOSSGIS2014/">Abstract einreichen</a>
                     </li>
                 </ul>
