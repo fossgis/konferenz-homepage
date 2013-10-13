@@ -44,7 +44,7 @@
 
                 <p>Unsere Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der Konferenz - wir freuen uns auf Sie!</p>
 
-                <p>Noch Fragen? Wir haben versucht, in unseren FAQs alle wichtigen Fragen zu beantworten. Falls weitere Fragen bestehen, zögern Sie nicht uns eine E-Mail zu schreiben.</p>
+                <p>Noch Fragen? Wir haben versucht, in unseren <a href="faq.php">FAQs</a> alle wichtigen Fragen zu beantworten. Falls weitere Fragen bestehen, zögern Sie nicht uns eine E-Mail zu schreiben.</p>
 
                 <h2>Note to English speakers</h2>
 
