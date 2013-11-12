@@ -23,14 +23,15 @@
 				</figure>
 				
                 <h2>Willkommen zur FOSSGIS-Konferenz 2014</h2>
+                <div class="news">Der <a href="/konferenz/2014/callforpapers/">Call for Papers</a> wurde bis zum 30. November 2013 verlängert.</div>
+
 				<p>FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema. Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.</p>
+                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> organisiert.</p>
 				
 				<div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
 				<div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
 				<div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
-				<div class="sponsor organizer"><a href="http://www.beuth-hochschule.de/"><img src="img/beuth.png" valign="middle"></a></div>
-				
-				<p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> organisiert.</p>
+				<div class="sponsor organizer"><a href="http://www.beuth-hochschule.de/"><img src="img/beuth.png" valign="middle"></a></div>		
 				
 				<h2>Sponsoren</h2>
 				<p>Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>

@@ -215,6 +215,35 @@ div.sponsor {
 	-o-transition: border 0.2s ease;
 }
 
+div.news {
+	margin: 0 10px 10px 10px;
+	border: 1px solid #e6eeef;
+	float: left;
+	border-radius: 10px;
+	border-color: #eed3d7;
+	color: #b94a48;
+	width: 302px;
+	padding: 15px;
+	
+	transition: border 0.2s ease;
+	-moz-transition: border 0.2s ease; /* Firefox 4 */
+	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+	-o-transition: border 0.2s ease;
+}
+
+div.news:hover {
+	border-color: #b94a48;
+}
+
+div.news a {
+	color: #b94a48;
+	font-weight: bold;
+}
+
+div.news a:hover {
+	text-decoration: none;
+}
+
 div.sponsor a {
 	line-height: 130px;
 	display: block;
