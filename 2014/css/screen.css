@@ -14,6 +14,10 @@ body {
 	color: #2d3841;
 }
 
+.clear {
+	clear: both;
+}
+
 div#wrap {
 	width: 900px;
 	margin: 0 auto;
@@ -208,6 +212,7 @@ div.sponsor {
 	height: 130px;
 	float: left;
 	border-radius: 10px;
+	height: 110px;
 	
 	transition: border 0.2s ease;
 	-moz-transition: border 0.2s ease; /* Firefox 4 */
@@ -245,7 +250,7 @@ div.news a:hover {
 }
 
 div.sponsor a {
-	line-height: 130px;
+	line-height: 110px;
 	display: block;
 }
 
@@ -255,7 +260,6 @@ div.sponsor:hover {
 
 	div.sponsor.organizer {
 		width: 203px;
-		height: 110px;
 		margin: 20px 10px 30px 10px;
 	}
 	
@@ -270,6 +274,15 @@ div.sponsor:hover {
 	div.sponsor.silber {
 		width: 298px;
 	}
+
+		div.sponsor.silber#omniscale {
+			margin-left: 160px;
+			
+		}
+
+			div.sponsor.silber#omniscale img {
+				margin-top: -10px;
+			}
 
 	div.sponsor.bronze {
 		width: 178px;
@@ -329,7 +342,7 @@ body#socialEvents div#spots a {
 
 div#content > div#twitter {
 	margin: 0 20px 15px 85px;
-	width: 505px;
+	width: 755px;
 	float: left;
 }
 
@@ -337,8 +350,8 @@ div#content > div#twitter > div#twitterwall {
 	position: relative;
 	margin: 0 0 20px 0;
 	border: 1px solid #e6eeef;
-	height: 130px;
-	width: 398px;
+	height: 80px;
+	width: 653px;
 	padding: 15px;
 	float: right;
 	border-radius: 10px;

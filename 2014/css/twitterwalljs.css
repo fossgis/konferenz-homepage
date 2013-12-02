@@ -1,3 +1,9 @@
+div#content div#twitter {
+    background-image: url(img/twitter.svg);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
 .tweetContainer {
     font-size: 0.3em;
 }

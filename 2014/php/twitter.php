@@ -2,7 +2,7 @@
 session_start();
 require_once("twitteroauth/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
  
-$search = "fossgis";
+$search = "fossgis2014";
 $notweets = 5;
 $consumerkey = "bXjz3ypzoN2SGvdfSE7ITg";
 $consumersecret = "zyHWIUke72ec7ISJSrDZE5pxWiojMxmqCIFoCjaU";
