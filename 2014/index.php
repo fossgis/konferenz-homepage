@@ -40,7 +40,7 @@
 
                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
-                <h2>Folgen sie uns</h2>
+                <h2>FOSSGIS 2014 auf Twitter</h2>
                 <div id="twitter">
                     <a href="http://twitter.com/fossgis2014"><img src="img/twitter.png" width="55" height="45"></a>
                     <div id="twitterwall">
@@ -50,8 +50,17 @@
 				
 				<h2>Sponsoren</h2>
                 <h3>Silbersponsoren</h3>
-                <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/"><img src="img/s/omniscale.png" valign="middle"></a></div>
-				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.</p>
+                <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div>
+                <div class="sponsor silber"><a href="http://www.metaspatial.net/de/institute" target="_blank"><img src="img/s/metaspatial.png" valign="middle"></a></div>
+
+        		<h3>Bronzesponsoren</h3>
+        		<div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
+         		<div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/BeMasterGIS.png" width="200" height="105"></a></div>
+
+
+
+				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+				</p>
                 </div>
 				<?php include('inc/footer.inc'); ?>
         </div>
