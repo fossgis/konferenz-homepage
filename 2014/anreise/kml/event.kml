@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="event_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/event.png</href>
+			</Icon>  
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>FOSSGIS 2014</name>
+		<description><![CDATA[0331 2438770 - FOSSGIS e. V.<br>
+<b>Beuth Hochschule für Technik Berlin</b><br>
+030 45040<br>
+Luxemburger Straße 10<br>
+13353 Berlin<br>
+<a href="http://www.fossgis.de/konferenz/2014/">FOSSGIS 2014</a><br><img src="http://www.beuth-hochschule.de/fileadmin/bild/tfh/Lageplan_Campus.png"/>]]></description>
+		
+		<styleUrl>#event_icon</styleUrl>
+		<Point>
+			<coordinates>13.35337664079776,52.54427924143437,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

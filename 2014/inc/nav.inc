@@ -3,10 +3,15 @@
                         <a href="/fossgis/2014/">Startseite</a>
                     </li>
 					
-                    <li id="navCall">
-                        <a href="/fossgis/2014/callforpapers/">Call for Papers</a>
+					<li>
+                        <a href="http://www.fossgis.de/konferenz/2014/programm/">Programm</a>
                     </li>
+
                     <li>
-                        <a href="http://pb.fossgis.de/submission/FOSSGIS2014/">Abstract einreichen</a>
+                        <a href="https://www.fossgis.de/civicrm/event/info?id=4&reset=1">Anmeldung</a>
+                    </li>
+
+                    <li id="navAnreise">
+                        <a href="/fossgis/2014/anreise">Anreise/Unterkunft</a>
                     </li>
                 </ul>

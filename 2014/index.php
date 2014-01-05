@@ -18,7 +18,7 @@
         	<?php include('inc/head.inc'); ?>
             
             <div id="content">
-                
+                <?php include('inc/nav.inc'); ?>
                 
 				<figure>
 					<img src="img/berlin.jpg" width="880" height="220" alt="Skyline Berlin">
@@ -40,6 +40,9 @@
 
                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
+                <h3>Anmelduung zur Konferenz</h3>
+                <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/info?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Es kann nur in Bar gezahlt werden.</p>
+
                 <h2>FOSSGIS 2014 auf Twitter</h2>
                 <div id="twitter">
                     <a href="http://twitter.com/fossgis2014"><img src="img/twitter.png" width="55" height="45"></a>
@@ -55,11 +58,12 @@
 
         		<h3>Bronzesponsoren</h3>
         		<div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
-         		<div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/BeMasterGIS.png" width="200" height="105"></a></div>
+         		<div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/bemastergis.png" width="133" height="70"></a></div>
+			<div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="133" height="23"></a></div>
 
 
 
-				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 				</p>
                 </div>
 				<?php include('inc/footer.inc'); ?>

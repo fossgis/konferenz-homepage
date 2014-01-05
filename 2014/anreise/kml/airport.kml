@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="airport_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/airport.png</href>
+			</Icon>  
+		</IconStyle>
+	</Style>
+		
+		<Placemark>
+			<name>Tegel - TXL</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DFlughafen%20Tegel%20%28Airport%29%20%28Berlin%29%40X%3D13292834%40Y%3D52554067%40U%3D86%40L%3D9087171%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLuxemburger%20Str.%20%28Berlin%29%40X%3D13355057%40Y%3D52544053%40U%3D86%40L%3D9009153%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#airport_icon</styleUrl>
+			<Point>
+				<coordinates>13.29323405865371,52.55247681530019,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Schönefeld - SFX</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DFlughafen%20Sch%F6nefeld%20Terminal%20%28Airport%29%40X%3D13519704%40Y%3D52389016%40U%3D86%40L%3D9260024%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#airport_icon</styleUrl>
+			<Point>
+				<coordinates>13.51980666803001,52.38902752219013,0</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>

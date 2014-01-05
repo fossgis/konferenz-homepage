@@ -110,7 +110,9 @@ ul#mainNav {
         body#home ul#mainNav > li#navHome > a:link,
         body#home ul#mainNav > li#navHome > a:visited,
         body#call ul#mainNav > li#navCall > a:link,
-        body#call ul#mainNav > li#navCall > a:visited {
+        body#call ul#mainNav > li#navCall > a:visited,
+        body#anreise ul#mainNav > li#navAnreise > a:link,
+        body#anreise ul#mainNav > li#navAnreise > a:visited {
             background-color: #fff;
 			color: #eb7f00;
         }
@@ -155,6 +157,11 @@ div#content dd {
 
 div#content > h3 {
 	margin: 30px 85px 10px 160px;
+}
+
+div#content > ul.list {
+	margin: 10px 85px 10px 160px;
+	padding: 0 17px;
 }
 
 div#content > figure {
@@ -306,35 +313,24 @@ div.sponsor a {
 
 /* @group Map */
 
-div#content > div.map {
-	height: 300px;
+div#content > div#mapContainer {
+	margin: 0 10px;
 	border-radius: 5px;
-	z-index: 1000;
-	position: relative;
 }
 
-/* @end */
+	div#content > div#mapContainer > div#map {
+		height: 300px;
+	}
 
-/* @group Social events */
-
-body#socialEvents div#spotInfo {
-	position: relative;
-	float: left;
-	width: 300px;
-	height: 350px;
-	margin: -300px 30px 0 0;
-	padding: 15px;
-	z-index: 2000;
+div.olPopup {
+	font-size: 14px;
+	line-height: 1.4;
 }
 
-body#socialEvents div#spots {
-	margin-left: 360px;
-}
-
-body#socialEvents div#spots a {
-	padding: 10px 0;
-	display: block;
-}
+	div.olPopup h2 {
+		font-size: 16px;
+		margin: 0 0 8px 0;
+	}
 
 /* @end */
 

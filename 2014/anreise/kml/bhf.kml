@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="bhf_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/bhf.png</href>
+			</Icon>  
+		</IconStyle>
+	</Style>
+
+		<Placemark>
+			<name>Bahnhof Gesundbrunnen</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DGesundbrunnen%20Bhf%20%28Berlin%29%20%28S%2BU%29%40X%3D13388048%40Y%3D52549033%40U%3D86%40L%3D9007102%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.39030979750876,52.54875170957452,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Bahnhof Lichtenberg</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DLichtenberg%20Bhf%20%28Berlin%29%20%28S%2BU%29%40X%3D13499056%40Y%3D52510532%40U%3D86%40L%3D9160004%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.49739816644029,52.51018283099005,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Hauptbahnhof</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DBerlin%20Hauptbahnhof%40X%3D13369818%40Y%3D52524906%40U%3D86%40L%3D9600001%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLuxemburger%20Str.%20%28Berlin%29%40X%3D13355057%40Y%3D52544053%40U%3D86%40L%3D9009153%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.36950631668759,52.52496474884718,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Ostkreuz</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DOstkreuz%20%28Berlin%29%20%28S%29%40X%3D13469095%40Y%3D52502846%40U%3D86%40L%3D9120003%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.4692796783144,52.50303860679898,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Südkreuz</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DS%FCdkreuz%20Bhf%20%28Berlin%29%20%28S%29%40X%3D13365575%40Y%3D52475465%40U%3D86%40L%3D9058101%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.36541254373392,52.47566068043979,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Westkreuz</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DWestkreuz%20%28Berlin%29%20%28S%29%40X%3D13283036%40Y%3D52501147%40U%3D86%40L%3D9024102%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.28391375363023,52.50071511668603,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Ostbahnhof</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DOstbahnhof%20%28Berlin%29%20%28S%29%40X%3D13435745%40Y%3D52510001%40U%3D86%40L%3D9120005%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplaninformation</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.43501561035501,52.51048593116723,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Alexanderplatz</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DAlexanderplatz%20Bhf%20%28Berlin%29%20%28S%2BU%29%40X%3D13412831%40Y%3D52521148%40U%3D86%40L%3D9100003%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.41163497387869,52.52195045331121,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Bahnhof Zoo</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DZoologischer%20Garten%20Bhf%20%28Berlin%29%20%28S%2BU%29%40X%3D13332926%40Y%3D52506882%40U%3D86%40L%3D9023201%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.3323414350067,52.50732115084466,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Friedrichstraße</name>
+			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DFriedrichstr.%20Bhf%20%28Berlin%29%20%28S%2BU%29%40X%3D13388021%40Y%3D52520132%40U%3D86%40L%3D9100001%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
+			<styleUrl>#bhf_icon</styleUrl>
+			<Point>
+				<coordinates>13.3869943989551,52.52030285168293,0</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>

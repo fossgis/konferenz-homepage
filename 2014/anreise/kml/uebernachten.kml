@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="uebernachten_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/uebernachten.png</href>
+			</Icon>  
+		</IconStyle>
+	</Style>
+
+		<Placemark>
+			<name>Europeapartments</name>
+			<description><![CDATA[01512 5238983<br>
+Brüsseler Str. 16<br>
+13353 Berlin<br>
+<a href="http://www.europeapartments.eu">Europeapartments</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.34948805403832,52.5467850609887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pension Regine Braun</name>
+			<description><![CDATA[01515 7889570<br>
+Tegeler Str. 17<br>
+13353 Berlin<br>
+<a href="http://www.berlin-pension-regine.de">Pension Regine Braun</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.35811227092418,52.5412690394687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arena Inn</name>
+			<description><![CDATA[030 3236011<br>
+Müllerstr. 163<br>
+13353 Berlin<br>
+<a href="http://www.hotel-arenainn.de">Arena Inn</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.36360625807442,52.54361766151744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hotel Graf Pückler</name>
+			<description><![CDATA[030 4606290<br>
+Schönwalder Str. 21<br>
+13347 Berlin<br>
+<a href="http://www.netteshotel.de">Hotel Graf Pückler</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.37166417338352,52.54184917823221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tryp Hotel</name>
+			<description><![CDATA[0180 2121723<br>
+Chaussestr. 33<br>
+10115 Berlin<br>
+<a href="http://www.tryphotels.com">Tryp Hotel</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.38052407903238,52.53269321558369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Main Station Hotel</name>
+			<description><![CDATA[030 39409750<br>
+Quitzowstr. 110<br>
+10559 Berlin<br>
+<a href="http://www.mainstationhostel.de">Main Station Hotel</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.34476084063622,52.53435339967222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Apartment La Vie 3</name>
+			<description><![CDATA[0162 8058321<br>
+Brüsseler Str. 25<br>
+13353 Berlin<br>
+<a href="http://www.apartment-berlin.eu">Apartment La Vie 3</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.34724506465862,52.54560499219794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jugendgästehaus Berlin-Mitte</name>
+			<description><![CDATA[030 491022430<br>
+Antwerpener Str. 40<br>
+13353 Berlin<br>
+<a href="http://www.jgh-berlin.de">Jugendgästehaus Berlin-Mitte</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.35158536237213,52.54687442544916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Smart Hostel</name>
+			<description><![CDATA[030 45486454<br>
+Genter Str. 53a<br>
+13353 Berlin<br>
+<a href="http://www.smarthostel-berlin.de">Smart Hostel</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.35292870557874,52.54757753826016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Step Apartments Wedding</name>
+			<description><![CDATA[030 4579840<br>
+Liebenwalder Str. 22<br>
+13347 Berlin<br>
+<a href="http://www.steps-hotel.de">Step Apartments Wedding</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.36049984882509,52.55199704039669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Berlin Hostel 24</name>
+			<description><![CDATA[030 46906133<br>
+Gerichtstr. 53<br>
+13347 Berlin<br>
+<a href="http://www.berlinhostel24.de">Berlin Hostel 24</a>]]></description>
+			<styleUrl>#uebernachten_icon</styleUrl>
+			<Point>
+				<coordinates>13.36773186935194,52.54465250692974,0</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>

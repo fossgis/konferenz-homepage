@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="gastro_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/gastro.png</href>
+			</Icon>  
+		</IconStyle>
+	</Style>
+
+		<Placemark>
+			<name>Ufer Café</name>
+			<description><![CDATA[Klaviercafé<br>
+030 45021872<br>
+Nordufer 4<br>
+13353 Berlin<br>
+<a href="http://www.ufercafe-berlin.com">Ufer Café</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35782005130733,52.5389574989528,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>The Tipperary</name>
+			<description><![CDATA[Irish Pub<br>
+030 68008696<br>
+Triftstr. 58<br>
+13353 Berlin<br>
+<a href="http://www.thetipperary.de">The Tipperary</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35665771860894,52.54307068906935,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Eschenbräu</name>
+			<description><![CDATA[Brauerei, Gaststätte<br>
+030 4626837<br>
+Triftstr. 67<br>
+13353 Berlin<br>
+<a href="http://www.eschenbraeu.de">Eschenbräu</a>]]></description>
+		
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35976425734194,52.54345393891721,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Café Schadé</name>
+			<description><![CDATA[Restaurant<br>
+030 45797662<br>
+Tegeler Str. 23<br>
+13353 Berlin<br>
+<a href="http://www.cafeschade.de">Café Schadé</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35734615335122,52.54205667533734,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Schraders</name>
+			<description><![CDATA[Restaurant, Lounge, Bar<br>
+030 45082663<br>
+Malplaquetstr. 16b<br>
+13347 Berlin<br>
+<a href="http://www.schraders-berlin.de">Schraders</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.3580449149204,52.55170079319985,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Dazwischen</name>
+			<description><![CDATA[Frühstückscafé und Nachbarschaftskneipe<br>
+030 34711117<br>
+Torfstr. 16<br>
+13353 Berlin<br>
+<a href="http://www.diekneipedazwischen.de">Dazwischen</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35040581546208,52.54172591753338,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Deichgraf</name>
+			<description><![CDATA[Gutbürgerliche Gaststätte<br>
+030 4537613<br>
+Nordufer 10<br>
+13353 Berlin<br>
+<a href="http://www.gaststaette-deichgraf.de">Deichgraf</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35226541288385,52.53978437005314,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>auszeit</name>
+			<description><![CDATA[Café<br>
+030 70711000<br>
+Kiautschoustr. 12a<br>
+13353 Berlin<br>
+<a href="http://www.auszeitberlin.de">auszeit</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35296208288292,52.54002825499847,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Fünf &amp; Sechzig</name>
+			<description><![CDATA[Restaurant<br>
+030 30606000<br>
+Torfstr. 9<br>
+13353 Berlin<br>
+<a href="http://www.berlin65.de">Fünf & Sechzig</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35272865061121,52.5399848484277,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Lindengarten</name>
+			<description><![CDATA[Restaurant<br>
+030 81404845<br>
+Nordufer 15<br>
+13353 Berlin<br>
+<a href="http://www.lindengarten-wedding.de">Lindengarten</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35014791750062,52.53929159349754,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Il Falco</name>
+			<description><![CDATA[Italienisches Restaurant, Eicafé<br>
+030 45977656<br>
+Sprengelstr. 41<br>
+13353 Berlin]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35648417724473,52.54196761067092,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Dubrovnik</name>
+			<description><![CDATA[Jugoslawisches Restaurant<br>
+030 4621282<br>
+Gerichtstr. 30<br>
+13347 Berlin]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.36895080912018,52.54493936681173,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Taverna Hellas</name>
+			<description><![CDATA[Griechisches Restaurant<br>
+030 45083618<br>
+Utrechter Str. 22<br>
+13347 Berlin<br>
+<a href="http://www.taverna-hellas.info">Taverna Hellas</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35790502594592,52.54984944457121,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Valle dei Templi</name>
+			<description><![CDATA[Trattoria, Pizzeria<br>
+030 4543927<br>
+Brüsseler Str. 10<br>
+13353 Berlin<br>
+<a href="http://www.valle-dei-templi.de">Valle dei Templi</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.35100531357653,52.54757827715363,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>L&apos; Escargot</name>
+			<description><![CDATA[Mediteranes Restaurant<br>
+030 4531563<br>
+Brüsseler Str. 39<br>
+13353 Berlin<br>
+<a href="http://www.l-escargot.net">L' Escargot</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.3496076443449,52.54655641775904,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name>Osteria da Pino</name>
+			<description><![CDATA[Italienisches Restaurant<br>
+030 4657179<br>
+Willdenowstr. 12<br>
+13353 Berlin<br>
+<a href="http://www.pino-osteria.de">Osteria da Pino</a>]]></description>
+			
+			<styleUrl>#gastro_icon</styleUrl>
+			<Point>
+				<coordinates>13.36026764407168,52.5441250552762,0</coordinates>
+			</Point>
+		</Placemark>
+	
+</Document>
+</kml>
