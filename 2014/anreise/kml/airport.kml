@@ -20,7 +20,7 @@
 		</Placemark>
 		
 		<Placemark>
-			<name>Schönefeld - SFX</name>
+			<name>Schönefeld - SXF</name>
 			<description><![CDATA[<a href="http://www.fahrinfo-berlin.de/Fahrinfo/bin/query.bin/dn?SID=A%3D1%40O%3DFlughafen%20Sch%F6nefeld%20Terminal%20%28Airport%29%40X%3D13519704%40Y%3D52389016%40U%3D86%40L%3D9260024%40B%3D1%40p%3D1386860891%40%26ZID=A%3D1%40O%3DLeopoldplatz%20%28Berlin%29%20%28U%29%40X%3D13359390%40Y%3D52546489%40U%3D86%40L%3D9009102%40B%3D1%40p%3D1386860891%40%26getstop=1%26">BVG Fahrplanauskunft</a>]]></description>
 			<styleUrl>#airport_icon</styleUrl>
 			<Point>

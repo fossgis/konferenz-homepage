@@ -255,6 +255,8 @@ div.news a:hover {
 div.sponsor a {
 	line-height: 110px;
 	display: block;
+	border: 1px solid #e6eeef;
+	border-radius: 10px;
 }
 
 	div.sponsor.organizer {
@@ -277,18 +279,17 @@ div.sponsor a {
 	}
 
 	div.sponsor.gold {
-		width: 660px;
+		width: 880px;
 	}
 	
 	div.sponsor.silber {
 		width: 280px;
-		height: 160px;
-		line-height: 160px;
+		height: 190px;
+		line-height: 190px;
 	}
 
-		div.sponsor.silber#omniscale {
-			margin-left: 160px;
-			
+		div.sponsor.silber a {
+			line-height: 190px;
 		}
 
 			div.sponsor.silber#omniscale img {
@@ -303,10 +304,6 @@ div.sponsor a {
 
 		div.sponsor.bronze a {
 			line-height: 105px;
-		}
-
-		div.sponsor.bronze#csgis {
-			margin-left: 160px;
 		}
 
 /* @end */

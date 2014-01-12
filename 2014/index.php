@@ -4,7 +4,7 @@
         <title>FOSSGIS 2014</title>
         <meta name="description" content="FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.">
         <meta name="author" content="Oliver Roick. GIScience, Heidelberg University - http://giscience.uni-hd.de/">
-        <meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">
+        <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2014, FOSSGIS-Konferenz 2014, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, Beuth-Hochschule Berlin">
         <meta charset="utf-8">
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
@@ -29,7 +29,7 @@
                 
 
 				<p>FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema. Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.</p>
-                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> organisiert.</p>
+                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> , Luxemburger Strasse 10, 13353 Berlin organisiert.</p>
 
                 <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
                 <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
@@ -40,8 +40,8 @@
 
                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
-                <h3>Anmelduung zur Konferenz</h3>
-                <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/info?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Es kann nur in Bar gezahlt werden.</p>
+                <h3>Anmeldung zur Konferenz</h3>
+                <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/info?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Vor Ort kann nur in Bar gezahlt werden.</p>
 
                 <h2>FOSSGIS 2014 auf Twitter</h2>
                 <div id="twitter">
@@ -50,16 +50,26 @@
                         <div class="arrow"></div>
                     </div>
                 </div>
+
+                <h2>Sponsoren</h2>
+
+                <!-- <h3>Goldsponsor</h3>
+                <div class="sponsor gold"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div> -->
+
 				
-				<h2>Sponsoren</h2>
+				
                 <h3>Silbersponsoren</h3>
                 <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div>
                 <div class="sponsor silber"><a href="http://www.metaspatial.net/de/institute" target="_blank"><img src="img/s/metaspatial.png" valign="middle"></a></div>
+		      <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/Tollcollect.jpg" valign="middle"  width="220" height="117"></a></div>
 
-        		<h3>Bronzesponsoren</h3>
-        		<div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
-         		<div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/bemastergis.png" width="133" height="70"></a></div>
-			<div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="133" height="23"></a></div>
+
+        	  <h3>Bronzesponsoren</h3>
+         	  <div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
+         	  <div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/bemastergis.png" width="133" height="70"></a></div>
+		      <div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="133" height="23"></a></div>
+		      <div class="sponsor bronze" id="GBD-Consult"><a href="http://www.gbd-consult.de/" target="_blank"><img valign="middle" src="img/s/gbd-consult.PNG" width="133" height="48"></a></div>
+
 
 
 
