@@ -221,7 +221,13 @@ div.sponsor {
 	text-align: center;
 	float: left;
 	height: 110px;
+	border: 1px solid #e6eeef;
+	border-radius: 10px;
 }
+
+	div.sponsor:hover {
+		border-color: #abc6c8;
+	}
 
 div.news {
 	margin: 0 10px 10px 10px;
@@ -254,10 +260,12 @@ div.news a:hover {
 
 div.sponsor a {
 	line-height: 110px;
-	display: block;
-	border: 1px solid #e6eeef;
-	border-radius: 10px;
+	display: block;	
 }
+
+	div.sponsor a img {
+		vertical-align: middle;
+	}
 
 	div.sponsor.organizer {
 		width: 203px;
@@ -279,11 +287,11 @@ div.sponsor a {
 	}
 
 	div.sponsor.gold {
-		width: 880px;
+		width: 878px;
 	}
 	
 	div.sponsor.silber {
-		width: 280px;
+		width: 278px;
 		height: 190px;
 		line-height: 190px;
 	}
@@ -297,14 +305,18 @@ div.sponsor a {
 			}
 
 	div.sponsor.bronze {
-		width: 205px;
-		height: 105px;
-		line-height: 105px;
+		width: 203px;
+		height: 125px;
+		line-height: 125px;
 	}
 
 		div.sponsor.bronze a {
-			line-height: 105px;
+			line-height: 125px;
 		}
+
+	div.sponsor.media {
+		width: 278px;
+	}
 
 /* @end */
 

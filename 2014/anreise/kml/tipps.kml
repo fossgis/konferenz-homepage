@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="tipps_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/tipps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+		<Placemark>
+			<name>Prime Time Theater</name>
+			<description><![CDATA[Theater<br>
+030 49907958<br>
+Müllerstraße 163 b<br>
+13353 Berlin<br>
+<a href="http://primetimetheater.de/gwsw">GUTES WEDDING, SCHLECHTES WEDDING</a>
+<img src="http://primetimetheater.de/files/large/56.jpg"/><br>
+„Gutes Wedding, schlechtes Wedding“ ist die welweit erste Theater-Sitcom und der Dauerbrenner unseres Theaters. Mit viel Humor, der als eine Mischung aus "Friends" und den "Simpsons" gewürzt mit Weddinger Lokalpatriotismus beschrieben werden kann, trifft man hier auf alle verrückten, charmanten und eigen- brödlerischen Charaktere, die unseren Wedding, Berlin und sein Umland so einzigartig machen. Es geht um Dönertaxifahrer, Ex- Stasiagenten, Vokuhila tragende Postboten, sächselnde Satanisten, Kiezschlampen und Prenzlwichser. Alle Episoden bilden eine abgeschlossene Geschichte und werden jeweils 4 Wochen lang aufgeführt.]]></description>
+			<styleUrl>#tipps_icon</styleUrl>
+			<Point>
+				<coordinates>13.3640968045021,52.5433578878716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stattbad Wedding</name>
+			<description><![CDATA[Kunst, Kultur, Club<br>
+030 46797350<br>
+Gerichtstr. 65<br>
+13353 Berlin<br>
+<a href="http://www.stattbad.net/">Stattbad</a><br>
+<img src="http://www.stattbad.net/sites/default/files/styles/medium/public/2013/konzert.jpg?itok=oc5mUC2S"/><br>
+Weite, Höhe und Helligkeit – die klare Ästhetik der früheren Männerschwimmhalle und die etwas kleinere Frauenschwimmhalle schaffen den passenden Rahmen für Film- und Fotoshootings, Performances, Lesungen, Konzerte, Ausstellungen und vieles mehr.]]></description>
+			<styleUrl>#tipps_icon</styleUrl>
+			<Point>
+				<coordinates>13.37250524384799,52.54368067925458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panke e. V.</name>
+			<description><![CDATA[music, art, café<br>
+0171 7550083<br>
+Gerichtstr. 25<br>
+Hof V<br>
+13347 Berlin<br>
+<a href="http://www.pankeculture.com/">.pankeculture.com</a><br>
+<img src="http://www.pankeculture.com/wp-content/uploads/2012/04/panke_logo_p_web-sw.png"/><br>
+PANKE<br>
+is a creative multi-purpose space in Wedding. It is run by a collective of volunteers and is registered as a non-profit members organisation, a Verein. Its main aim is to promote experimental/fringe creativity in Berlin, as well as to offer an alternative meeting point for the up-and-coming creative scene of Wedding.<br>
+The Café, PANKE’s meeting Hub serves cake and coffee during the day and hosts DJ nights in the evening in a friendly, warm environment. Additionally there are more than 150m2 space for exhibitions, Kino, theatre, art or music events  and a garden to relax in summer alongside the river Panke.]]></description>
+			<styleUrl>#tipps_icon</styleUrl>
+			<Point>
+				<coordinates>13.37408881150342,52.54496493283365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ExRotaprint</name>
+			<description><![CDATA[Kultur, Gewerbe, soziale Einrichtung<br>
+030 44045124<br>
+Gottschedstr. 4<br>
+13357 Berlin<br>
+<a href="http://www.exrotaprint.de/">exrotaprint.de</a><br>
+<img src="http://upload.wikimedia.org/wikipedia/commons/b/b9/ExRotaprint_DB_Turm1%2B2.jpg"/>]]></description>
+			<styleUrl>#tipps_icon</styleUrl>
+			<Point>
+				<coordinates>13.36976226435853,52.55049556204699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kulturfabrik Moabit</name>
+			<description><![CDATA[Konzerte, Theater, Kino, Ausstellung<br>
+030 3975056<br>
+Lehrter Str. 35<br>
+10557 Berlin<br>
+<a href="http://www.kulturfabrik-moabit.de/kufa/">kulturfabrik-moabit.de</a><br>
+<img src="http://www.mobidat.net/fileadmin/user_upload/Lebensbereiche/Veranstalter/logo_kulturfabrik_moabit.jpg"/>]]></description>
+			<styleUrl>#tipps_icon</styleUrl>
+			<Point>
+				<coordinates>13.35924228227267,52.53418917060115,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

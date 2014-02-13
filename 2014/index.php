@@ -61,14 +61,27 @@
                 <h3>Silbersponsoren</h3>
                 <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div>
                 <div class="sponsor silber"><a href="http://www.metaspatial.net/de/institute" target="_blank"><img src="img/s/metaspatial.png" valign="middle"></a></div>
-		      <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/Tollcollect.jpg" valign="middle"  width="220" height="117"></a></div>
+		      <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/TC_Logo_45x20mm_.png" valign="middle"  width="220" height="99"></a></div>
+		  <div class="sponsor silber" ><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/wheregroup.png" valign="middle"  width="220" height="58"></a></div>
+
 
 
         	  <h3>Bronzesponsoren</h3>
          	  <div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
          	  <div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/bemastergis.png" width="133" height="70"></a></div>
-		      <div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="133" height="23"></a></div>
-		      <div class="sponsor bronze" id="GBD-Consult"><a href="http://www.gbd-consult.de/" target="_blank"><img valign="middle" src="img/s/gbd-consult.PNG" width="133" height="48"></a></div>
+		  <div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="171" height="30"></a></div>
+		  <div class="sponsor bronze" id="GBD-Consult"><a href="http://www.gbd-consult.de/" target="_blank"><img valign="middle" src="img/s/gbd-consult.PNG" width="133" height="48"></a></div>
+		  <div class="sponsor bronze" id="Küstenschmiede"><a href="http://www.kuestenschmiede.de" target="_blank"><img valign="middle" src="img/s/Kuestenschmiede.png" width="109" height="109"></a></div>
+		  <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/mapwebbing.PNG" width="170" height="51"></a></div>
+		  <div class="sponsor bronze" id="Camp2Camp"><a href="http://www.camptocamp.com" target="_blank"><img valign="middle" src="img/s/Camp2Camp.png" width="150" height="73"></a></div>
+		  <div class="sponsor bronze" id="GeoSYS"><a href="http://www.geosysnet.de/" target="_blank"><img valign="middle" src="img/s/geosys.png" width="150" height="53"></a></div>
+		
+
+
+		  <h3>Mediasponsor</h3>
+		  <div class="sponsor media" id="wichmann"><a href="http://www.vde-verlag.de/" target="_blank"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a></div>
+         	  
+
 
 
 
