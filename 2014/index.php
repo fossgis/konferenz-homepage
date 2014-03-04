@@ -41,7 +41,7 @@
                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
                 <h3>Anmeldung zur Konferenz</h3>
-                <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/info?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Vor Ort kann nur in Bar gezahlt werden.</p>
+                <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/register?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Vor Ort kann nur in Bar gezahlt werden.</p>
 
                 <h2>FOSSGIS 2014 auf Twitter</h2>
                 <div id="twitter">
@@ -59,10 +59,16 @@
 				
 				
                 <h3>Silbersponsoren</h3>
-                <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div>
+                <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle" width="220" height="45"></a></div>
                 <div class="sponsor silber"><a href="http://www.metaspatial.net/de/institute" target="_blank"><img src="img/s/metaspatial.png" valign="middle"></a></div>
-		      <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/TC_Logo_45x20mm_.png" valign="middle"  width="220" height="99"></a></div>
+		  <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/TC_Logo_45x20mm_.png" valign="middle"  width="222" height="100"></a></div>
 		  <div class="sponsor silber" ><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/wheregroup.png" valign="middle"  width="220" height="58"></a></div>
+ 		  <div class="sponsor silber" ><a href="http://www.terrestris.de/" target="_blank"><img src="img/s/terrestris.png" valign="middle"  width="160" height="160"></a></div>
+ 		  <div class="sponsor silber" ><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/geofabrik.png" valign="middle"  width="220" height="51"></a></div>
+		  <div class="sponsor silber" ><a href="http://www.sourcepole.ch//" target="_blank"><img src="img/s/sourcepole.png" valign="middle"  width="230" height="62"></a></div>
+		  <div class="sponsor silber" ><a href="http://www.norbit.de/" target="_blank"><img src="img/s/norBIT.png" valign="middle"  width="150" height="150"></a></div>
+
+
 
 
 
@@ -75,16 +81,16 @@
 		  <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/mapwebbing.PNG" width="170" height="51"></a></div>
 		  <div class="sponsor bronze" id="Camp2Camp"><a href="http://www.camptocamp.com" target="_blank"><img valign="middle" src="img/s/Camp2Camp.png" width="150" height="73"></a></div>
 		  <div class="sponsor bronze" id="GeoSYS"><a href="http://www.geosysnet.de/" target="_blank"><img valign="middle" src="img/s/geosys.png" width="150" height="53"></a></div>
+		  <div class="sponsor bronze" id="Intevation"><a href="http://http//intevation.de/" target="_blank"><img valign="middle" src="img/s/intevation.PNG" width="150" height="68"></a></div>
+		<div class="sponsor bronze" id="DBG"><a href="http://www.datenbankgesellschaft.de/" target="_blank"><img valign="middle" src="img/s/DBG_Datenbangesellschaft.PNG" width="151" height="75"></a></div>
 		
-
 
 		  <h3>Mediasponsor</h3>
 		  <div class="sponsor media" id="wichmann"><a href="http://www.vde-verlag.de/" target="_blank"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a></div>
          	  
-
-
-
-
+		  <h3>Medienpartner</h3>
+		  <div class="sponsor media" id="GIS-News"><a href="http://www.gis-news.de/" target="_blank"><img valign="middle" src="img/s/gis-news_de.png" width="180" height="68"></a></div>
+    
 
 				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 				</p>

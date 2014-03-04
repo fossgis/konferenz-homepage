@@ -12,26 +12,26 @@
 
         <script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"> </script>
         <script type="text/javascript" src="script/function.js"> </script>
-		
+
     </head>
     <body id="anreise">
         <div id="wrap">
         	<?php include('../inc/head.inc'); ?>
-            
+
             <div id="content">
-                
+
                 <?php include('../inc/nav.inc'); ?>
-				
+
                 <figure>
 					<img src="../img/berlin.jpg" width="880" height="220" alt="Skyline Berlin">
 					<figcaption>Photo: CC-BY-SA <a href="http://www.flickr.com/photos/giesenbauer/3458525781/">Bjørn Giesenbauer</a></figcaption>
 				</figure>
-                
+
                 <h2>Anreise und Unterkunft</h2>
                 <div id="mapContainer">
-                    <div id="map"></div>    
+                    <div id="map"></div>
                 </div>
-                
+
                 <h3>Adresse</h3>
 		  <p>Beuth Hochschule für Technik Berlin<br>
 			Luxemburger Straße 10<br>
@@ -40,44 +40,17 @@
 		  <h3>Anreise per Bahn</h3>
                 <p> Call Center BVG (Berliner Verkehrsbetriebe): 030 19 44 9 </p>
 		  <p> Berliner Liniennetz als <a href="http://www.bvg.de/index.php/de/binaries/asset/download/20909/file/1-1"> PDF</a>.</p>
-		  <p>Die Fahrplanauskünfte zur Nutzung des ÖPNV sind als Links in den jeweiligen Popups der Fern-Bahnhöfe in der obigen Karte hinterlegt. Zur < ("> &Uuml;bersichtskarte &Ouml;PNV OSM</a>.</p>		
-		 <!-- <ul class="list">
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=berlin+hbf&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Hauptbahnhof</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=berlin+ostbahnhof&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Ostbahnhof</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=Berlin+Zoologischer+Garten&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Bahnhof Zoo</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=Berlin+S%FCdkreuz&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Südkreuz</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=Berlin+Alexanderplatz&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Alexanderplatz</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=Berlin+Friedrichstr&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Friedrichstraße</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=Berlin+Gesundbrunnen&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Gesundbrunnen</a>
-                    </li>
-                    <li>
-                        <a href="http://reiseauskunft.bahn.de/bin/query.exe/dn?getstop=1&dbkanal_008=L01_S01_D001_KLR0011_konzernportal_LZ03&S=&Z=Berlin+Lichtenberg&date=18.12.13&time=16%3A18&timesel=depart&submit="> Berlin Lichtenberg</a>
-                    </li>
-                </ul> -->
-                
+		  <p>Die Fahrplanauskünfte zur Nutzung des ÖPNV sind als Links in den jeweiligen Popups der Fern-Bahnhöfe in der obigen Karte hinterlegt. Zur < ("> &Uuml;bersichtskarte &Ouml;PNV OSM</a>.</p>
 		  <h3>Haltestellen in direkter Umgebung des Campus</h3>
 		  <ul class="list">
 			<li>
 			U-Bahnhof Amrumer Stra&szlig;e: <a href="http://www.bvg.de/index.php/de/3737/name/U-Bahnlinie+U9.html"> Linie U9</a> - der U-Bahnhof befindet sich direkt unter dem Campus.
 			</li>
 			<li>
-			S-Bahnhof Westhafen: <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s41/5"> Linie S41</a>, <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s42/6"> Linie S42</a> - 10 Min. Fu&szlig;weg zur Beuth Hochschule. 
+			S-Bahnhof Westhafen: <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s41/5"> Linie S41</a>, <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s42/6"> Linie S42</a> - 10 Min. Fu&szlig;weg zur Beuth Hochschule.
 			</li>
 			<li>
-			Bushaltestelle Luxemburger Stra&szlig;e: <a href="http://www.bvg.de/index.php/de/3763/name/Tagesbuslinien+130+-+168.html"> Bus Linien 142,</a> <a href="http://www.bvg.de/index.php/de/3765/name/Tagesbuslinien+200+-+249.html"> 221</a> - direkt vor der Beuth Hochschule. 
+			Bushaltestelle Luxemburger Stra&szlig;e: <a href="http://www.bvg.de/index.php/de/3763/name/Tagesbuslinien+130+-+168.html"> Bus Linien 142,</a> <a href="http://www.bvg.de/index.php/de/3765/name/Tagesbuslinien+200+-+249.html"> 221</a> - direkt vor der Beuth Hochschule.
 			</li>
 			<li>
 			Tramhaltestelle Seestra&szlig;e / Amrumer Stra&szlig;e: <a href="http://www.bvg.de/index.php/de/3746/name/MetroTramlinie+M13.html"> Linie M13,</a> <a href="http://www.bvg.de/index.php/de/3754/name/Strassenbahnlinie+50.html"> 50</a> - 10 Min. Fu&szlig;weg zur Beuth Hochschule.
@@ -93,20 +66,20 @@
 			<li>
 			Ab <a href="http://www.berlin.de/tourismus/infos/1872375-1721039-flughafen-berlin-schoenefeld-sxf.html"> Flughafen Berlin Schönefeld</a> (SFX) mit der <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s45/17"> S45</a> bis zur Haltestelle Bundesplatz - dann weiter mit der <a href="http://www.bvg.de/index.php/de/3737/name/U-Bahnlinie+U9.html"> U9</a> (Richtung Osloer Stra&szlig;e) zur U-Bahn-Station Amrumer Stra&szlig;e.
 			Oder mit der <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s42/6"> S42</a> (Ringbahn) bis zur Haltestelle Westhafen -  dann weiter mit der <a href="http://www.bvg.de/index.php/de/3737/name/U-Bahnlinie+U9.html"> U9</a> (Richtung Osloer Stra&szlig;e) zur U-Bahn-Station Amrumer Stra&szlig;e (ca. 1 Std. 15 Min.).
-			Oder mit dem <a href="http://www.berlin.de/tourismus/infos/1756978-1721039-taxi.html"> Taxi</a> (45 Min.). 
+			Oder mit dem <a href="http://www.berlin.de/tourismus/infos/1756978-1721039-taxi.html"> Taxi</a> (45 Min.).
 			</li>
 		  </ul>
-                    
+
                 <h3>Anreise per PKW</h3>
                 <p>Luxemburger Straße 10, 13353 Berlin<br>
-		  <p>Parkplätze sind vorhanden. Gegen&uuml;ber der Beuth Hochschule, direkt an der Luxemburger Stra&szlig;e gelegen, befindet sich das Beuth eigene Parkhaus (2 EUR/Tag). Die Zufahrt erfolgt &uuml;ber die Triftstra&szlig;e (&uuml;ber Luxemburger Stra&szlig;e und Tegeler Stra&szlig;e zu erreichen).</p> 
-               
-                <p><img src="http://www.beuth-hochschule.de/fileadmin/bild/tfh/Lageplan_Campus.png"/></p>
-		  <p>Die <i><a href="http://www.fossgis.de/konferenz/2014/programm/">Vortr&auml;ge und Workshops</i></a> finden im <b>Haus Bauwesen</b> statt. Der <i>Welcome Desk</i> mit Anmeldung, die Firmen- und Open-Source-Projekte<i>-Ausstellung</i> und das <i>Catering</i> werden im <b>Haus Grashof</b> zu finden sein. Die <i>Abendveranstaltung</i> findet am Mittwoch, den 19. M&auml;rz 2014 in der <b>Beuth-Halle</b> statt</p> 
+		  <p>Parkplätze sind vorhanden. Gegen&uuml;ber der Beuth Hochschule, direkt an der Luxemburger Stra&szlig;e gelegen, befindet sich das Beuth eigene Parkhaus (2 EUR/Tag). Die Zufahrt erfolgt &uuml;ber die Triftstra&szlig;e (&uuml;ber Luxemburger Stra&szlig;e und Tegeler Stra&szlig;e zu erreichen).</p>
+
+                <p><a href="../img/lageplan_002.png"><img src="../img/lageplan_small.png" width="655" height="463"></a></p>
+		  <p>Die <i><a href="http://www.fossgis.de/konferenz/2014/programm/">Vortr&auml;ge und Workshops</i></a> finden im <b>Haus Bauwesen</b> statt. Der <i>Welcome Desk</i> mit Anmeldung, die Firmen- und Open-Source-Projekte<i>-Ausstellung</i> und das <i>Catering</i> werden im <b>Haus Grashof</b> zu finden sein. Die <i>Abendveranstaltung</i> findet am Mittwoch, den 19. M&auml;rz 2014 in der <b>Beuth-Halle</b> statt</p>
 
               <h3>Unterkunft</h3>
                 <p>Vorschl&auml;ge f&uuml;r Unterkünfte im direkten Umfeld der Tagung sind in der Karte eingetragen. Weitere Unterkünfte sind zu finden unter: <a href="http://www.berlin.de/tourismus/unterkunft/hotels/"> www.Berlin.de</a>.</p>
-				
+
             </div>
             <?php include('../inc/footer.inc'); ?>
         </div>

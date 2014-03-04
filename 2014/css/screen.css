@@ -26,7 +26,7 @@ div#wrap {
 a:link,
 a:visited {
 	color: #43c5dd;
-	
+
 	transition: color 0.2s ease;
 	-moz-transition: color 0.2s ease; /* Firefox 4 */
 	-webkit-transition: color 0.2s ease; /* Safari and Chrome */
@@ -59,7 +59,7 @@ h1 > span {
 	margin-top: -15px;
 	margin-left: 35	px;
 	letter-spacing: -6px;
-	
+
 	text-shadow: 1px 1px 3px #DDD;
 	filter: dropshadow(color=#DDD, offx=1, offy=1);
 }
@@ -95,14 +95,13 @@ ul#mainNav {
 			font-weight: bold;
 			padding: 5px 5px 3px 5px;
 			border-radius: 3px;
-			
+
 			transition: background-color 0.25s ease, color 0.15s ease;
 		}
-		
+
 		ul#mainNav > li > a:hover,
 		ul#mainNav > li > a:active,
-		ul#mainNav > li > a:focus,
-		body#socialEvents ul#mainNav > li#navSocial > a {
+		ul#mainNav > li > a:focus {
 			background-color: #2d3841;
 			color: #fff;
 		}
@@ -112,7 +111,9 @@ ul#mainNav {
         body#call ul#mainNav > li#navCall > a:link,
         body#call ul#mainNav > li#navCall > a:visited,
         body#anreise ul#mainNav > li#navAnreise > a:link,
-        body#anreise ul#mainNav > li#navAnreise > a:visited {
+        body#anreise ul#mainNav > li#navAnreise > a:visited,
+        body#socialEvents ul#mainNav > li#navEvents > a:link,
+        body#socialEvents ul#mainNav > li#navEvents > a:visited {
             background-color: #fff;
 			color: #eb7f00;
         }
@@ -137,7 +138,7 @@ div#content > figure + h2 {
 	margin-bottom: 20px;
 	color: #fff;
 	position: relative;
-	
+
 	text-shadow: 1px 1px 3px #333;
 	filter: dropshadow(color=#333, offx=1, offy=1);
 }
@@ -202,7 +203,7 @@ div#content > aside.download > a:visited {
 	display: block;
 	padding: 15px 15px 15px 60px;
 	background: #fff url(../img/glyphicons_181_download_alt.png) no-repeat 15px 50%;
-	
+
 	transition: background-color 0.25s ease;
 }
 
@@ -238,7 +239,7 @@ div.news {
 	color: #b94a48;
 	width: 302px;
 	padding: 15px;
-	
+
 	transition: border 0.2s ease;
 	-moz-transition: border 0.2s ease; /* Firefox 4 */
 	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
@@ -260,7 +261,7 @@ div.news a:hover {
 
 div.sponsor a {
 	line-height: 110px;
-	display: block;	
+	display: block;
 }
 
 	div.sponsor a img {
@@ -281,7 +282,7 @@ div.sponsor a {
 	div.sponsor.organizer:hover {
 		border-color: #abc6c8;
 	}
-	
+
 	div.sponsor.organizer a {
 		line-height: 110px;
 	}
@@ -289,7 +290,7 @@ div.sponsor a {
 	div.sponsor.gold {
 		width: 878px;
 	}
-	
+
 	div.sponsor.silber {
 		width: 278px;
 		height: 190px;
@@ -361,7 +362,7 @@ div#content > div#twitter > div#twitterwall {
 	float: right;
 	border-radius: 10px;
 	overflow: show;
-	
+
 	transition: border 0.2s ease;
 	-moz-transition: border 0.2s ease; /* Firefox 4 */
 	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
@@ -382,7 +383,7 @@ div#content > div#facebook > div#facebooklink {
 	border-radius: 10px;
 	float: right;
 	position: relative;
-	
+
 	transition: border 0.2s ease;
 	-moz-transition: border 0.2s ease; /* Firefox 4 */
 	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
@@ -399,7 +400,7 @@ div#content > div#facebook > div#facebooklink > div.arrow {
 	position: absolute;
 	left: -6px;
 	top: 15px;
-	
+
 	width: 10px;
 	height: 10px;
 	border: 0 solid #e6eeef;
@@ -409,7 +410,7 @@ div#content > div#facebook > div#facebooklink > div.arrow {
 	-moz-transition: border 0.2s ease; /* Firefox 4 */
 	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
 	-o-transition: border 0.2s ease;
-	
+
 	-moz-transform: rotate(-45deg);
 	-webkit-transform: rotate(-45deg);
     -o-transform: rotate(-45deg);
@@ -461,7 +462,7 @@ footer {
 
 footer a:link,
 footer a:visited {
-	color: #AAA;	
+	color: #AAA;
 }
 
 footer a:hover,
