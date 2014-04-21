@@ -8,7 +8,7 @@ body {
 	background-color: #fff;
 	padding: 0;
 	margin: 0;
-	font-family: 'Droid Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 17px;
 	line-height: 1.5;
 	color: #2d3841;
@@ -48,7 +48,7 @@ h1 {
 	margin: -45px 10px 45px 10px;
 	padding-left: 225px;
 	padding-top: 50px;
-	font-size: 5em;
+	font-size: 4.8em;
 	line-height: 0.8;
 	letter-spacing: -9px;
 	color: rgba(123,145,153,0.1);
@@ -57,7 +57,6 @@ h1 {
 h1 > span {
 	color: #7b9199;
 	margin-top: -15px;
-	margin-left: 35	px;
 	letter-spacing: -6px;
 
 	text-shadow: 1px 1px 3px #DDD;
@@ -127,7 +126,7 @@ div#content {
 
 div#content > h2 {
 	margin: 75px 85px 7px 160px;
-	font-weight: 100;
+	font-weight: normal;
 	font-size: 30px;
 	letter-spacing: -1px;
 	clear: both;
@@ -272,13 +271,18 @@ div.sponsor a {
 	display: block;
 }
 
+div.organisers {
+	margin: 0 85px 20px 160px;
+	float: left;
+}
+
 	div.sponsor a img {
 		vertical-align: middle;
 	}
 
 	div.sponsor.organizer {
 		width: 203px;
-		margin: 20px 10px 30px 10px;
+		margin: 13px 13px 0 0;
 		border: 1px solid #e6eeef;
 		border-radius: 10px;
 		transition: border 0.2s ease;
