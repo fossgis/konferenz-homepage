@@ -42,14 +42,14 @@
 
                 <h3>Wer wir sind</h3>
 
-                <p>Veranstaltet wird die Konferenz vom FOSSGIS e.V., von der OSGeo Foundation und in Zusammenarbeit mit dem Institut für Geoinformatik der Universität Münster und 52°North.</p>
+                <p>Veranstaltet wird die Konferenz vom FOSSGIS e.V., von der OSGeo Foundation und in Zusammenarbeit mit dem Institut für Geoinformatik der Universität Münster.</p>
 
                 <p>Die FOSSGIS-Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2015 - wir freuen uns auf Sie!</p>
 
                 <p>Fragen werden unter <a href="faq.php">FAQ</a> beantwortet. Bei weiteren Fragen können Sie uns gern per Email kontaktieren unter: <strong>konferenz-orga@fossgis.de</strong>.</p>
 
                 <h3>Note to English speakers</h3>
-                <p>The FOSSGIS conference is the largest German-language conference for Free and Open Source Software for GIS and Free Geodata, hosting approximately 300 participants.</p>
+                <p>The FOSSGIS conference is the largest German-language conference for Free and Open Source Software for GIS and Free Geodata, hosting approximately 500 participants.</p>
 
                 <p>The Conference Committee has just announced the "Call for Papers" for 2015. Since the conference is held in German, the CfP is also in German.</p>
 

@@ -27,7 +27,7 @@
                 <h2>Willkommen zur FOSSGIS-Konferenz 2015</h2>
 
 				<p>FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema. Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.</p>
-                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.uni-muenster.de/Geoinformatics/">Institut für Geoinformatik</a> der <a href="http://www.uni-muenster.de/de/">Universität Münster</a> und <a href="http://52north.org/">52°North</a> organisiert.</p>
+                <p>Die FOSSGIS Konferenz 2015 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.uni-muenster.de/Geoinformatics/">Institut für Geoinformatik</a> und der <a href="http://www.uni-muenster.de/de/">Universität Münster </a> organisiert.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
@@ -35,9 +35,9 @@
                     <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
                     <div class="sponsor organizer"><a href="http://www.uni-muenster.de/Geoinformatics/"><img src="img/ifgi.jpg" valign="middle"></a></div>
                     <div class="sponsor organizer"><a href="http://www.uni-muenster.de/de/"><img src="img/wwu.jpg" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://52north.org/"><img src="img/52n.png" valign="middle"></a></div>
-                </div>
-
+                    <!--<div class="sponsor organizer"><a href="http://52north.org/"><img src="img/52n.png" valign="middle"></a></div>
+                </div>-->
+                <p class="clear"></p>
                 <p>Ziel der jährlich stattfindenden Konferenz mit mehr als 400 Teilnehmern ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie Open Street Map.</p>
 
                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
