@@ -17,6 +17,7 @@
         	<?php include('inc/head.inc'); ?>
 
             <div id="content">
+                <?php include('inc/nav.inc'); ?>
 
 				<figure>
 					<img src="img/schlossfrontal.jpg" width="880" height="350" alt="Schloss Münster">
@@ -26,7 +27,7 @@
                 <h2>Willkommen zur FOSSGIS-Konferenz 2015</h2>
 
 				<p>FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema. Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.</p>
-                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.uni-muenster.de/Geoinformatics/">Institut für Geoinformatik</a> der <a href="http://www.uni-muenster.de/de/">Universität Münster</a> und <a href="http://52north.org/">52north</a> organisiert.</p>
+                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.uni-muenster.de/Geoinformatics/">Institut für Geoinformatik</a> der <a href="http://www.uni-muenster.de/de/">Universität Münster</a> und <a href="http://52north.org/">52°North</a> organisiert.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
@@ -51,6 +52,19 @@
                 </div> -->
 
                 <h2>Sponsoren</h2>
+
+                <!-- <h3>Goldsponsor</h3>
+                <div class="sponsor gold"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div> -->
+
+                <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
+
+                <!-- <h3>Silbersponsoren</h3>
+                <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle" width="220" height="45"></a></div> -->
+
+                <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
+
+                <!-- <h3>Bronzesponsoren</h3>
+                <div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div> -->
 
 				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 				</p>

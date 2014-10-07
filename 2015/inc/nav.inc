@@ -1,21 +1,13 @@
                  <ul id="mainNav">
                     <li id="navHome">
-                        <a href="/fossgis/2014/">Startseite</a>
+                        <a href="/konferenz/2015/">Startseite</a>
                     </li>
 
-					<li>
-                        <a href="http://www.fossgis.de/konferenz/2014/programm/">Programm</a>
+                    <li id="navCall">
+                        <a href="/konferenz/2015/callforpapers/">Call for Papers</a>
                     </li>
 
                     <li>
-                        <a href="https://www.fossgis.de/civicrm/event/info?id=4&reset=1">Anmeldung</a>
-                    </li>
-
-                    <li id="navAnreise">
-                        <a href="/fossgis/2014/anreise">Anreise/Unterkunft</a>
-                    </li>
-
-                    <li id="navEvents">
-                        <a href="/fossgis/2014/socialevents">Social Events</a>
+                        <a href="http://pb.fossgis.de/submission/FOSSGIS2015">Beitrag einreichen</a>
                     </li>
                 </ul>
