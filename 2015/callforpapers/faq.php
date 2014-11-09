@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <title>FOSSGIS 2014</title>
+        <title>FOSSGIS 2015</title>
         <meta name="description" content="FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.">
         <meta name="author" content="Oliver Roick. http://oliverroick.de/">
         <meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, Berlin, Beuth Hochschule">
@@ -10,21 +10,21 @@
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
+
     </head>
     <body id="call">
         <div id="wrap">
         	<?php include('../inc/head.inc'); ?>
-            
+
             <div id="content">
-                
+
                 <?php include('../inc/nav.inc'); ?>
-				
+
                 <figure>
                     <img src="../img/schlossfrontal.jpg" width="880" height="350" alt="Schloss Münster">
                     <figcaption>Photo: WWU/Peter Grewer</figcaption>
                 </figure>
-                
+
                 <h2>FAQ</h2>
 
                 <dl>
