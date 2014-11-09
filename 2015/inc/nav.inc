@@ -1,10 +1,10 @@
                  <ul id="mainNav">
                     <li id="navHome">
-                        <a href="/fossgis/2015/">Startseite</a>
+                        <a href="/konferenz/2015/">Startseite</a>
                     </li>
 
                     <li id="navCall">
-                        <a href="/fossgis/2015/callforpapers/">Call for Papers</a>
+                        <a href="/konferenz/2015/callforpapers/">Call for Papers</a>
                     </li>
 
                     <li>
@@ -12,6 +12,6 @@
                     </li>
 
                     <li>
-                        <a href="/fossgis/2015/anreise">Areise + Unterkunft</a>
+                        <a href="/konferenz/2015/anreise">Areise + Unterkunft</a>
                     </li>
                 </ul>
