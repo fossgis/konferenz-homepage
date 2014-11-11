@@ -12,6 +12,6 @@
                     </li>
 
                     <li>
-                        <a href="/konferenz/2015/anreise">Areise + Unterkunft</a>
+                        <a href="/konferenz/2015/anreise">Anreise + Unterkunft</a>
                     </li>
                 </ul>
