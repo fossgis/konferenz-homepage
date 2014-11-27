@@ -82,7 +82,7 @@
           <div class="sponsor silber" id="Send"><img src="img/Send.png" valign="middle" width="250" height="*"></a></div>
  		  <div class="sponsor silber" id="Send"><img src="img/Send_.png" valign="middle" width="250" height="*"></a></div>
 
- 		  <p>Münster hat einen <a href="http://www.qmediaservices.de/audioguide/index.htm">Audioguide</a>, der als App für Smartphones verfügbar ist.</p>
+ 		  <p style="clear: both;">Münster hat einen <a href="http://www.qmediaservices.de/audioguide/index.htm">Audioguide</a>, der als App für Smartphones verfügbar ist.</p>
 
  </div>
 
