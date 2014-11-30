@@ -73,14 +73,14 @@
 
 		  <h4>Münster</h4>
 		  <p>Münster ist bekannt für seine Architektur und <a href="http://www.muenster.de/stadt/medien/pdf/schloss.mp3"> Geräusche.</a></p>
-		  <div class="sponsor silber" id="Prizipalmarkt"><img src="img/Prinzipalmarkt_Muenster.png" valign="middle" width="*" height="170"></a></div>
- 		  <div class="sponsor silber" id="Dom"><img src="img/Dom.png" valign="middle" width="*" height="170"></a></div>
- 		  <div class="sponsor silber" id="Unterwasserkirche"><img src="img/Unterwasserkirche.png" valign="middle" width="*" height="170"></a></div>
+          <img src="img/Prinzipalmarkt_Muenster.png" height="335" class="city" valign="middle">
+          <img src="img/Dom.png" valign="middle" height="335" class="city" valign="middle">
+          <img src="img/Unterwasserkirche.png" height="335" class="city" valign="middle">
 
 		  <p>Das traditionelle Volksfest der Stadt Münster wird auch während der FOSSGIS-Konferenz seine Pforten öffnen.</p>
 
-          <div class="sponsor silber" id="Send"><img src="img/Send.png" valign="middle" width="250" height="*"></a></div>
- 		  <div class="sponsor silber" id="Send"><img src="img/Send_.png" valign="middle" width="250" height="*"></a></div>
+          <img src="img/Send.png" class="city" valign="middle" width="300" height="*">
+          <img src="img/Send_.png" class="city" valign="middle" width="300" height="*">
 
  		  <p style="clear: both;">Münster hat einen <a href="http://www.qmediaservices.de/audioguide/index.htm">Audioguide</a>, der als App für Smartphones verfügbar ist.</p>
 

@@ -486,3 +486,14 @@ footer a:focus {
 }
 
 /* @end */
+
+#anreise img.city {
+	margin-right: 15px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border: 1px solid #e6eeef;
+}
+
+#anreise p + img.city {
+	margin-left: 160px;
+}
