@@ -1,6 +1,6 @@
-# FOSSGIS 2013
+# FOSSGIS Conference
 
-Official website for FOSSGIS 2013 conference.
+Official websites for the FOSSGIS conferences.
 
 ## Directories
 
