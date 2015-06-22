@@ -3,6 +3,10 @@
                         <a href="/konferenz/2015/">Startseite</a>
                     </li>
 
+                    <li>
+                        <a href="http://www.fossgis.de/konferenz/2015/programm/">Programm</a>
+                    </li>
+
                     <!-- <li id="navCall">
                         <a href="/konferenz/2015/callforpapers/">Call for Papers</a>
                     </li>
@@ -12,7 +16,9 @@
                     </li> -->
 
                     <li>
-                        <a href="https://www.fossgis.de/civicrm/event/info?reset=1&id=5">Anmeldung</a>
+                       <!-- <a href="https://www.fossgis.de/civicrm/event/info?reset=1&id=5">Anmeldung</a>-->
+				   <a href="/konferenz/2015/anmeldung/">Anmeldung</a>
+
                     </li>
 
                     <li id="navAnreise">
