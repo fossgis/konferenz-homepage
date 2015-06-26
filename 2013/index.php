@@ -8,20 +8,6 @@
         <meta name="date" content="2008-04-15T20:00:01+01:00">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-        
-        <!-- TWITTERWALL STUFF -->
-        <link rel="stylesheet" href="css/twitterwalljs.css" />
-        <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
-        <script type="text/javascript" src="js/twitterwall/twitterwalljs.js"></script>
-        <script type="text/javascript" src="js/twitterwall/moment.min.js"></script>
-        <script type="text/javascript" src="js/twitterwall/moment.lang.all.js"></script>
-        <script type="text/javascript" src="js/twitterwall/underscore-min.js"></script>
-        
-        <script type="text/javascript">
-            $(document).ready(function () {
-                $("#twitterwall").twitterWall("%23fossgis2013", { refresh: true, refreshTimeout: 5000, firstLoadResults: 5 });
-            });
-        </script>
     </head>
     <body id="home">
         <div id="wrap">
@@ -42,10 +28,10 @@
                         in Zusammenarbeit mit der <a href="http://www.hsr.ch/index.php">HSR Hochschule für Technik</a> in Rapperswil in der Schweiz organisiert.
                     </p>
                     <p class="logos">
-                        <a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" width="168" height="50"></a>
-                        <a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" width="150" height="67"></a>
-                        <a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" width="258" height="60"></a>
-                        <a href="http://www.hsr.ch/"><img src="img/HSR.png" width="179" height="70"></a>
+                        <a href="http://www.fossgis.de/"><img valign="middle"  src="img/Fossgis_neu.png" width="168" height="50"></a>
+			   <a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" width="150" height="67"></a>
+			   <a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" width="258" height="60"></a><br>
+			   <a href="http://www.hsr.ch/index.php/"><img valign="middle" src="img/s/HSR_Logo_CMYK.PNG" width="241" height="94"></a>
                     </p>
                     <h2>Sponsoren</h2>
 				<p>Die FOSSGIS wird durch die freundliche Unterstützung unserer Sponsoren möglich. Herzlichen Dank.</p>
@@ -58,12 +44,13 @@
 					<p class="logos">
 						<a href="http://www.geops.de/"><img valign="middle" src="img/s/Geops.png" width="250" height="65"></a>
 						<a href="http://www.omniscale.de/"><img valign="middle" src="img/s/omniscale.PNG" width="250" height="51"></a>
-						<a href="http://www.gbd-consult.de/"><img valign="middle" src="img/s/gbd-consult.PNG" width="250" height="89"></a>
+						<a href="http://www.gbd-consult.de/"><img valign="middle" src="img/s/gbd-consult.PNG" width="220" height="79"></a>
 						<a href="http://www.metaspatial.net/de/"><img valign="middle" src="img/s/metaspatial.PNG" width="250" height="39"></a>
 						<a href="http://www.webgis.de/"><img valign="middle" src="img/s/in_medias_res.PNG" width="200" height="114"></a>
 						<a href="http://www.esri.ch/"><img valign="middle" src="img/s/Esri_Schweiz.PNG" width="200" height="35"></a>
 						<a href="http://www.thomas-krenn.com/"><img valign="middle" src="img/s/TKrenn.png" width="230" height="48"></a>
 						<a href="http://www.tydac.ch/"><img valign="middle" src="img/s/Tydac.png" width="210" height="53"></a>
+						<a href="http://netcetera.com/"><img valign="middle" src="img/s/NetcetraAG.PNG" width="232" height="58"></a>
 							
 
 					 </p>
@@ -83,6 +70,14 @@
 						<a href="https://kuestenschmiede.de/startseite.html"><img valign="middle" src="img/s/Kuestenschmiede.PNG" width="150" height="132"></a>
 						<a href="http://www.bemastergis.de/"><img valign="middle" src="img/s/BeMasterGIS.jpg" width="200" height="152"></a>
 						<a href="http://www.objeng.ch/"><img valign="middle" src="img/s/ObjectEngineering.png" width="116" height="74"></a>
+						<a href="http://www.dreipol.ch/"><img valign="middle" src="img/s/dreipol.PNG" width="120" height="119"></a>
+						<a href="http://www.ebp.ch/"><img src="img/s/EBP.PNG" width="220" height="37"></a>
+						<a href="http://http://intevation.de/"><img src="img/s/intevation.PNG" width="150" height="68"></a>
+						<a href="http://www.schenkelvermessungen.ch/"><img src="img/s/Schenkel_Vermessung.PNG" width="116" height="147"></a>
+						<a href="https://mingle.io//"><img src="img/s/mingleio.PNG" width="200" height="32"></a>
+						<br>
+						
+
 						
 
 
@@ -94,7 +89,9 @@
 					<h3>Mediasponsoren</h3>
 					<p class="logos">
 						<a href="http://www.vde-verlag.de//"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a>
+						<a href="http://www.boinx.com//"><img valign="middle" src="img/s/boinx.png" width="190" height="28"></a>
 					
+
 
 					</p> 
 

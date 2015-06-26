@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>FOSSGIS 2011 - Anreise</title>
+		<meta name="description" content="OpenStreetMap Routing - Free OpenLS Route Service with Free OpenStreetMap Data -Free Routing Service with Free OSM Data. Based on open standards by the Open Geospatial Consortium (OGC)." >
+		<meta name="author" content="Oliver Roick. GIScience, Heidelberg University - http://giscience.uni-hd.de/">
+		<meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">
+		<meta name="date" content="2008-04-15T20:00:01+01:00">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+		<link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+		
+		<script language="javascript" type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"></script> 
+		
+		<script language="javascript" type="text/javascript">
+			var map; 
+			var sel;
+			function onFeatureSelect(evt) {
+				var feature = evt.feature;
+
+				var content = "<h3>" + feature.attributes.name + "</h3>"
+							 + "<p>" + feature.attributes.type + "</p>";
+				
+				popup = new OpenLayers.Popup.FramedCloud("popup", 
+					feature.geometry.getBounds().getCenterLonLat(),
+					new OpenLayers.Size(100,100),
+					content,
+					null,
+					true,
+					onPopupClose
+				);
+				feature.popup = popup;
+				map.addPopup(popup);
+			}
+			
+			function onFeatureUnselect(evt) {
+				var feature = evt.feature;
+				if(feature.popup) {
+					map.removePopup(feature.popup);
+					feature.popup.destroy();
+					delete feature.popup;
+				}
+			}
+			
+			function onPopupClose(evt) {
+				sel.unselectAll();
+			}
+		
+			window.onload = function () {
+   				map = new OpenLayers.Map("map");
+        		var mapnik = new OpenLayers.Layer.OSM();
+        		map.addLayer(mapnik);
+				
+				
+ 
+ 
+    			var markers = new OpenLayers.Layer.Vector(
+					"Markers", 
+					{
+						styleMap: new OpenLayers.Style(
+					        {
+					            graphicWidth: 21,
+					            graphicHeight: 25,
+					            graphicYOffset: -28 // shift graphic up 28 pixels
+					            
+					        },
+					        {
+					            rules: [
+					                new OpenLayers.Rule({
+					                    elseFilter: true,
+					                    symbolizer: {
+					                        externalGraphic: "../img/marker.png"
+					                    }
+					                })
+					            ]
+					        }
+					    )
+					}
+				);
+    			
+				markers.events.on({
+					"featureselected": onFeatureSelect,
+					"featureunselected": onFeatureUnselect
+				});
+				
+				map.addLayer(markers);
+				
+				sel = new OpenLayers.Control.SelectFeature(markers);
+				map.addControl(sel);
+				sel.activate();
+				
+				var inf308 = new OpenLayers.Feature.Vector(
+					new OpenLayers.Geometry.Point(8.670548, 49.417492).transform(
+            			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            			map.getProjectionObject() // to Spherical Mercator Projection
+          			), {
+						name: 'INF 308',
+						type: 'Ausstellerfläche, Vorträge'
+					}
+				);
+				
+				var inf227 = new OpenLayers.Feature.Vector(
+					new OpenLayers.Geometry.Point(8.671820, 49.416313).transform(
+            			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            			map.getProjectionObject() // to Spherical Mercator Projection
+          			), {
+						name: 'INF 227',
+						type: 'Vorträge'
+					}
+				);
+				
+				var bst48 = new OpenLayers.Feature.Vector(
+					new OpenLayers.Geometry.Point(8.676776, 49.418634).transform(
+            			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            			map.getProjectionObject() // to Spherical Mercator Projection
+          			), {
+						name: 'Berliner Str. 48',
+						type: 'Workshops'
+					}
+				);
+ 
+    			markers.addFeatures([inf308, inf227, bst48]);
+ 
+ 
+        		map.setCenter(new OpenLayers.LonLat(8.670548, 49.417492) // Center of the map
+          			.transform(
+            			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            			new OpenLayers.Projection("EPSG:900913") // to Spherical Mercator Projection
+          			), 15 // Zoom level
+        		);
+      		}
+ 
+		</script> 
+    </head>
+    <body>
+    	<div id="wrap">
+    		<h1>FOSSGIS Konferenz. 05. - 07. April 2011 in Heidelberg.</h1>
+			<div id="content">
+				<ul id="mainNav">
+					<li><a href="../">Startseite</a></li>
+					<li><a href="../programm/">Programm</a></li>
+					<li><a href="https://www.fossgis.de/civicrm/event/register?id=1&reset=1">Anmeldung</a></li>
+					<li><a href="../socialevents/">Social Events</a></li>
+					<li><a href="../unterkunft/">Unterkunft</a></li>
+					<li>Anreise</li>
+					<!--<li><a href="../anmeldung/">Anmeldung</a></li>-->
+				</ul>
+				<div id="mainContent">
+					<h2>Anreise</h2>
+					<p>Die FOSSGIS 2011 findet in den Gebäuden 308 und 227 auf dem Universitätscampus Im Neuenheimer Feld sowie im Geographischen Institut in der Berliner Str. 48 statt.</p>
+					<div id="map" style="width: 100%; height: 20em;"></div>
+					<ul>
+						<li><a href="http://openrouteservice.org/index.php?end=8.674283,49.416898">Route mit OpenRouteService planen.</a></li>
+						<li><a href="Fossgis_Karte.pdf">Übersichtskarte herunter laden</a></li>
+					</ul>
+					
+					<p align="center"><a href="Fossgis_Karte.pdf"><img src="Fossgis_Karte.png" width="600" height="425"></a></p>
+					
+					<h3>Anreise mit öffentlichen Verkehrsmitteln</h3> 
+					<p>Mit den öffentlichen Verkehrsmitteln ist die Konfenzorte wie folgt zu erreichen:</p>
+					<ul>
+						<li>Vom <b>Bismarckplatz (Stadtzentrum)</b> fährt die Buslinie 31 in Richtung Neuenheim, Chirurgische Klinik. 
+						Ausstieg ist Haltestelle Bunsengymnasium.</li>
+						<li>Vom <b>Hauptbahnhof</b> fahren die Straßenbahnlinien 21 Richtung Hans-Thoma-Platz sowie 24 Richtung Handschuhsheim. 
+						Ausstieg ist Haltestelle Bunsengymnasium.</li>
+					</ul>
+					<p>Weitere Informationen bietet der <a href="http://www.vrn.de/">Verkehrsverbund Rhein-Neckar</a>.</p>
+				</div>
+			</div>
+			<div id="credit">Photo: <a href="http://www.flickr.com/photos/abhijeetrane/3441677823/">Abhijeet Rane</a></div>
+    	</div>
+    </body>
+</html>

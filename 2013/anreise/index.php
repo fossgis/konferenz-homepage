@@ -29,13 +29,18 @@
                         <li>Uster/Wetzikon/Rüti etc.-Rapperswil ca. 15 Minuten</li>
 					</ul>
                     
-                    <p>Tipp: Mit dem Schiff nach Rapperswil zum Bahntarif! Zürich Bükliplatz - Rapperswil SG (Schiffstation); fast jede Stunde; Dauer 2 Stunden (<a href="http://www.zvv.ch/">Fahrplan</a>)</p>
+                    <p>Tipp: Mit dem Schiff nach Rapperswil zum Bahntarif! Zürich Bürkliplatz - Rapperswil SG (Schiffstation); fast jede Stunde; Dauer 2 Stunden (<a href="http://www.zvv.ch/">Fahrplan</a>)</p>
 
 					<h3>Anreise per Flugzeug</h3>
                     <p>Der nächste (internationale) Flughafen ist Zürich-Kloten (ZHR). Von da fährt jede Viertelstunde ein Zug nach Zürich. Billete (=Fahrscheine) können direkt am SBB/ZVV-Billetautomaten auf dem Flughafen gelöst werden. Beispiel: Ein 2. Klasse-Billet von Zürich nach Rapperswil ist Tarifstufe 8 ("Alle Zonen", 2 Stunden gültig) kostet CHF 16.60.</p>
 					
 					<h3>Anreise per PKW</h3>
 					<p>Es wird empfohlen mit öffentlichen Verkehrsmitteln anzureisen, da auf dem Campus der HSR nur wenige Parkplätze vorhanden sind. Der nächste öffentliche Parkplatz befindet sich rund zehn Gehminuten entfernt - siehe auch lokales Parkleitsystem. Im Schulareal stehen nur wenige, gebührenpflichtige Parkplätze zur Verfügung (max. 2 Stunden). Belegung des Parkhauses von Montag bis Freitag, 6 - 17 Uhr, ausschliesslich für Angehörige der HSR.</p>
+					
+					<h3> Orientierung vor Ort</h3>
+					<p>Die HSR liegt direkt südlich des Bahnhofes Rapperswil (siehe <a href="http://www.fossgis.de/w/images/5/56/FOSSGIS_2013_Situationsplan.pdf"> PDF</a> des Situationsplanes Rapperswil). </p>
+					<p>Das Gebäude 1 ist das Hauptgebäude, hier finden Anmeldung und Pausenversorgung im 1. OG, die Ausstellung der Sponsorenfirmen und Projekte im EG und die Workshops im 2.OG statt (siehe <a href="http://www.fossgis.de/w/images/9/97/FOSSGIS_2013_Gebaeude_1.pdf">PDF</a> des Gebäudeplanes).</p> 
+					<p>In den Gebäuden 3,4 und 5 sind die Hörsäle, die Eröffnung findet in der Aula des Gebäudes 4 und die Vorträge in den Gebäuden 3 und 5 statt (siehe <a href="http://www.fossgis.de/w/images/f/fb/FOSSGIS_2013_Gebaeude_3-4-5.pdf">PDF</a> des Gebäudeplanes).</p>
 					
 					<h3>Unterkunft</h3>
 					<div class="hotel">

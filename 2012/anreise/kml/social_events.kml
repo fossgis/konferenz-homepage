@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="social_event_icon">
+		<IconStyle>
+			<color>ffff0000</color>
+			<Icon>
+				<href>kml/event.png</href>
+			</Icon>  
+		</IconStyle>
+	</Style>
+    
+	<Placemark>
+		<name>Social Event FossGis - Bauhaus Dessau - 20.03.2012</name>
+		<description>
+			<![CDATA[
+				<img src='kml/bauhaus.jpg'\></br>
+				<p>Gropiusallee 36</br>06846 Dessau-Ro&szlig;lau</br>
+				Url: <a href="http://http://www.bauhaus-dessau.de/index.php?de">http://http://www.bauhaus-dessau.de/index.php?de/</a>		  
+				</p>
+			]]>
+		</description>
+		<styleUrl>#social_event_icon</styleUrl>
+		<Point>
+			<coordinates>12.22734,51.83936</coordinates>
+		</Point>
+    </Placemark>
+	
+	<Placemark>
+		<name>Opening - Brauhaus &quot;Zum Alten Dessauer - 19.03.2012</name>
+		<description>
+			<![CDATA[
+				<img src='kml/brauhaus.jpg'\></br>
+				<p>Lange Gasse 16</br>06844 Dessau-Ro&szlig;lau</br>
+				Url: <a href="http://www.bauhaus-dessau.de/index.php?de">http://www.bauhaus-dessau.de/index.php?de/</a>		  
+				</p>
+			]]>
+		</description>
+		<styleUrl>#social_event_icon</styleUrl>
+		<Point>
+			<coordinates>12.24598,51.83544</coordinates>
+		</Point>
+    </Placemark>
+	
+	<Placemark>
+		<name>Closing Event - VORORT - 22.03.2012</name>
+		<description>
+			<![CDATA[
+				<img src='kml/vorort.png'\></br>
+				<p>Ratsgasse 1</br>06844 Dessau-Ro&szlig;lau</br>
+				Url: <a href="http://emedien.design.hs-anhalt.de/vorort/">http://emedien.design.hs-anhalt.de/vorort/</a>		  
+				</p>
+			]]>
+		</description>
+		<styleUrl>#social_event_icon</styleUrl>
+		<Point>
+			<coordinates>12.2463993,51.8348916</coordinates>
+		</Point>
+    </Placemark>
+ 
+</Document>
+</kml>

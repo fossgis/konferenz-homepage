@@ -27,7 +27,7 @@
 
                 <h2>Willkommen zur FOSSGIS-Konferenz 2014</h2>
 
-                <div class="app">Sie können die <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule&hl=de">Android-App zum Programm</a> jetzt im Google Play Store kostenlos herunterladen.</div>
+                <div class="app">Über die <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule&hl=de">Android-App</a> können Sie Ihre gehörten Vorträge bewerten. Die Videoaufzeichnungen sind im <a href="http://www.fossgis.de/wiki/Konferenz_2014/Videoaufzeichnung">Wiki</a> verlinkt oder können im <a href="https://www.youtube.com/user/fossgis/videos">Youtube-Chanel</a> nachgeschaut werden. </div>
 
 				<p>FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema. Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.</p>
                 <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> , Luxemburger Strasse 10, 13353 Berlin organisiert.</p>
