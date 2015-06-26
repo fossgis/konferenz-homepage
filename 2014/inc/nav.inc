@@ -1,6 +1,6 @@
 <ul id="mainNav">
     <li id="navHome">
-        <a href="/konferenz/2014/">Startseite</a>
+        <a href="./">Startseite</a>
     </li>
 
     <li>
