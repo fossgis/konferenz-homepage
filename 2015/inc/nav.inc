@@ -1,14 +1,14 @@
                  <ul id="mainNav">
                     <li id="navHome">
-                        <a href="./">Startseite</a>
+                        <a href="/2015/">Startseite</a>
                     </li>
 
                     <li>
-                        <a href="programm/">Programm</a>
+                        <a href="/2015/programm/">Programm</a>
                     </li>
 
                     <!-- <li id="navCall">
-                        <a href="callforpapers">Call for Papers</a>
+                        <a href="/2015/callforpapers">Call for Papers</a>
                     </li>
 
                     <li>
@@ -17,11 +17,11 @@
                     </li>
 
                     <li id="navAnreise">
-                        <a href="anreise">Anreise + Unterkunft</a>
+                        <a href="/2015/anreise">Anreise + Unterkunft</a>
                     </li>
 
                     <li id="navEvents">
-                        <a href="socialevents">Social Events</a>
+                        <a href="/2015/socialevents">Social Events</a>
                     </li>
 
 
