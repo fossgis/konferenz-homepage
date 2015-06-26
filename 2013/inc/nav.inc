@@ -1,6 +1,6 @@
                  <ul id="mainNav">
                     <li id="navHome">
-                        <a href="/konferenz/2013/">Startseite</a>
+                        <a href=".">Startseite</a>
                     </li>
 					<!--<li id="navCall">
                         <a href="/fossgis/callforpapers/">Call for Papers</a>
@@ -10,17 +10,13 @@
                     </li>-->
 					
                     <li>
-                        <a href="http://www.fossgis.de/konferenz/2013/programm/">Programm</a>
-                    </li>
-					
-                    <li>
-                        <a href="https://www.fossgis.de/civicrm/event/info?id=3&reset=1">Anmeldung</a>
+                        <a href="programm/">Programm</a>
                     </li>
 					<li id="navSocial">
-                        <a href="/konferenz/2013/socialevents/">Social Events</a>
+                        <a href="socialevents/">Social Events</a>
                     </li>
 					<li id="navAnreise">
-                        <a href="/konferenz/2013/anreise/">Anreise &amp; Unterkunft</a>
+                        <a href="anreise/">Anreise &amp; Unterkunft</a>
                     </li>
 					<li class="twitter">
 						Folgen sie uns auf <a class="twLink" href="http://twitter.com/fossgis2013">Twitter</a>
