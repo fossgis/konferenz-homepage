@@ -75,7 +75,7 @@
 
         	  <h3>Bronzesponsoren</h3>
          	  <div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
-         	  <div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/bemastergis.png" width="133" height="70"></a></div>
+         	  <div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/beMasterGIS.png" width="133" height="70"></a></div>
 		  <div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="171" height="30"></a></div>
 		  <div class="sponsor bronze" id="GBD-Consult"><a href="http://www.gbd-consult.de/" target="_blank"><img valign="middle" src="img/s/gbd-consult.PNG" width="133" height="48"></a></div>
 		  <div class="sponsor bronze" id="Küstenschmiede"><a href="http://www.kuestenschmiede.de" target="_blank"><img valign="middle" src="img/s/Kuestenschmiede.png" width="109" height="109"></a></div>
