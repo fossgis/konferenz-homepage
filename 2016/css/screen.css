@@ -1,0 +1,499 @@
+/**
+ * BASICS
+ */
+
+/* @group Basics */
+
+body {
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	line-height: 1.5;
+	color: #2d3841;
+}
+
+.clear {
+	clear: both;
+}
+
+div#wrap {
+	width: 900px;
+	margin: 0 auto;
+}
+
+a:link,
+a:visited {
+	color: #43c5dd;
+
+	transition: color 0.2s ease;
+	-moz-transition: color 0.2s ease; /* Firefox 4 */
+	-webkit-transition: color 0.2s ease; /* Safari and Chrome */
+	-o-transition: color 0.2s ease;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #eb7f00;
+}
+
+/* @end */
+
+/* @group Header */
+
+h1 {
+	background: url(../img/Fossgis15-logo.png) no-repeat 0 45px;
+	margin: -45px 10px 45px 10px;
+	padding-left: 225px;
+	padding-top: 50px;
+	font-size: 4.8em;
+	line-height: 0.8;
+	letter-spacing: -9px;
+	color: rgba(123,145,153,0.1);
+	height: 205px;
+}
+
+h1 > span {
+	color: #7b9199;
+	margin-top: -15px;
+	letter-spacing: -6px;
+
+	text-shadow: 1px 1px 3px #DDD;
+	filter: dropshadow(color=#DDD, offx=1, offy=1);
+}
+
+h3 {
+	clear: both;
+}
+
+/* @end */
+
+/* @group Navigation */
+
+ul#mainNav {
+	margin: 0 10px 45px 10px;
+	padding: 0;
+	list-style-type: none;
+	border-bottom: 1px solid #e6eeef;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	text-align: left;
+}
+
+	ul#mainNav > li {
+		display: inline-block;
+		margin-right: 30px;
+	}
+
+		ul#mainNav > li > a:link,
+		ul#mainNav > li > a:visited {
+			line-height: 2;
+			text-decoration: none;
+			color: #2d3841;
+			font-weight: bold;
+			padding: 5px 5px 3px 5px;
+			border-radius: 3px;
+
+			transition: background-color 0.25s ease, color 0.15s ease;
+		}
+
+		ul#mainNav > li > a:hover,
+		ul#mainNav > li > a:active,
+		ul#mainNav > li > a:focus {
+			background-color: #2d3841;
+			color: #fff;
+		}
+
+        body#home ul#mainNav > li#navHome > a:link,
+        body#home ul#mainNav > li#navHome > a:visited,
+        body#call ul#mainNav > li#navCall > a:link,
+        body#call ul#mainNav > li#navCall > a:visited,
+        body#anreise ul#mainNav > li#navAnreise > a:link,
+        body#anreise ul#mainNav > li#navAnreise > a:visited,
+        body#socialEvents ul#mainNav > li#navEvents > a:link,
+        body#socialEvents ul#mainNav > li#navEvents > a:visited {
+            background-color: #fff;
+			color: #eb7f00;
+        }
+
+/* @end */
+
+/* @group Content */
+
+div#content {
+}
+
+div#content > h2 {
+	margin: 75px 85px 7px 160px;
+	font-weight: normal;
+	font-size: 30px;
+	letter-spacing: -1px;
+	clear: both;
+}
+
+div#content > figure + h2 {
+	margin-top: -55px;
+	margin-bottom: 20px;
+	color: #fff;
+	position: relative;
+
+	text-shadow: 1px 1px 3px #333;
+	filter: dropshadow(color=#333, offx=1, offy=1);
+}
+
+div#content > p {
+	margin: 0 85px 15px 160px;
+}
+
+div#content dt {
+	margin: 0 85px 7px 160px;
+	font-weight: bold;
+}
+
+div#content dd {
+	margin: 0 85px 30px 160px;
+}
+
+div#content > h3,
+div#content > h4 {
+	margin: 30px 85px 10px 160px;
+}
+
+div#content > ul.list {
+	margin: 10px 85px 10px 160px;
+	padding: 0 17px;
+}
+
+div#content > figure {
+	position: relative;
+	margin: 0 10px;
+}
+
+div#content > figure > img {
+	border-radius: 10px;
+}
+
+div#content > figure > figcaption {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	font-size: 12px;
+}
+
+div#content > figure > figcaption a {
+	color: #2d3841;
+}
+
+div#content > aside {
+	width: 205px;
+	float: left;
+	border: 1px solid #e6eeef;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 0 20px 15px 0;
+}
+
+div#content > aside.download {
+	padding: 0;
+}
+
+div#content > aside.download > a:link,
+div#content > aside.download > a:visited {
+	display: block;
+	padding: 15px 15px 15px 60px;
+	background: #fff url(../img/glyphicons_181_download_alt.png) no-repeat 15px 50%;
+
+	transition: background-color 0.25s ease;
+}
+
+div#content > aside.download > a:hover,
+div#content > aside.download > a:active,
+div#content > aside.download > a:focus {
+	background-color: #e6eeef;
+}
+
+/* @end */
+
+div.app {
+	margin: 0 10px 20px 10px;
+	padding: 10px;
+	border: 1px solid #C8ADAB;
+	border-radius: 10px;
+	text-align: center;
+}
+
+/* @group Sponsoren */
+
+div.sponsor {
+	margin: 0 10px 20px 10px;
+	text-align: center;
+	float: left;
+	height: 110px;
+	border: 1px solid #e6eeef;
+	border-radius: 10px;
+}
+
+	div.sponsor:hover {
+		border-color: #abc6c8;
+	}
+
+div.news {
+	margin: 0 10px 10px 10px;
+	border: 1px solid #e6eeef;
+	float: left;
+	border-radius: 10px;
+	border-color: #eed3d7;
+	color: #b94a48;
+	width: 302px;
+	padding: 15px;
+
+	transition: border 0.2s ease;
+	-moz-transition: border 0.2s ease; /* Firefox 4 */
+	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+	-o-transition: border 0.2s ease;
+}
+
+div.news:hover {
+	border-color: #b94a48;
+}
+
+div.news a {
+	color: #b94a48;
+	font-weight: bold;
+}
+
+div.news a:hover {
+	text-decoration: none;
+}
+
+div.sponsor a {
+	line-height: 110px;
+	display: block;
+}
+
+div.organisers {
+	margin: 0 85px 20px 160px;
+	float: left;
+}
+
+	div.sponsor a img {
+		vertical-align: middle;
+	}
+
+	div.sponsor.organizer {
+		width: 203px;
+		margin: 13px 13px 0 0;
+		border: 1px solid #e6eeef;
+		border-radius: 10px;
+		transition: border 0.2s ease;
+		-moz-transition: border 0.2s ease; /* Firefox 4 */
+		-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+		-o-transition: border 0.2s ease;
+	}
+
+	div.sponsor.organizer:hover {
+		border-color: #abc6c8;
+	}
+
+	div.sponsor.organizer a {
+		line-height: 110px;
+	}
+
+	div.sponsor.gold {
+		width: 878px;
+	}
+
+	div.sponsor.silber {
+		width: 278px;
+		height: 190px;
+		line-height: 190px;
+	}
+
+		div.sponsor.silber a {
+			line-height: 190px;
+		}
+
+			div.sponsor.silber#omniscale img {
+				margin-top: -10px;
+			}
+
+	div.sponsor.bronze {
+		width: 203px;
+		height: 125px;
+		line-height: 125px;
+	}
+
+		div.sponsor.bronze a {
+			line-height: 125px;
+		}
+
+	div.sponsor.media {
+		width: 278px;
+	}
+
+/* @end */
+
+/* @group Map */
+
+div#content > div#mapContainer {
+	margin: 0 10px;
+	border-radius: 5px;
+}
+
+	div#content > div#mapContainer > div#map {
+		height: 300px;
+	}
+
+div.olPopup {
+	font-size: 14px;
+	line-height: 1.4;
+}
+
+	div.olPopup h2 {
+		font-size: 16px;
+		margin: 0 0 8px 0;
+	}
+
+/* @end */
+
+/* @group Twitter */
+
+div#content > div#twitter {
+	margin: 0 20px 15px 85px;
+	width: 755px;
+	float: left;
+}
+
+div#content > div#twitter > div#twitterwall {
+	position: relative;
+	margin: 0 0 20px 0;
+	border: 1px solid #e6eeef;
+	height: 80px;
+	width: 653px;
+	padding: 15px;
+	float: right;
+	border-radius: 10px;
+	overflow: show;
+
+	transition: border 0.2s ease;
+	-moz-transition: border 0.2s ease; /* Firefox 4 */
+	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+	-o-transition: border 0.2s ease;
+}
+
+div#content > div#facebook {
+	margin: 0 0 15px 0;
+	width: 280px;
+	float: left;
+}
+
+div#content > div#facebook > div#facebooklink {
+	border: 1px solid #e6eeef;
+	height: 130px;
+	width: 173px;
+	padding: 15px;
+	border-radius: 10px;
+	float: right;
+	position: relative;
+
+	transition: border 0.2s ease;
+	-moz-transition: border 0.2s ease; /* Firefox 4 */
+	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+	-o-transition: border 0.2s ease;
+}
+
+div#content > div#twitter > div#twitterwall:hover,
+div#content > div#facebook > div#facebooklink:hover {
+	border-color: #abc6c8;
+}
+
+div#content > div#twitter > div#twitterwall > div.arrow,
+div#content > div#facebook > div#facebooklink > div.arrow {
+	position: absolute;
+	left: -6px;
+	top: 15px;
+
+	width: 10px;
+	height: 10px;
+	border: 0 solid #e6eeef;
+	border-width: 1px 0 0 1px;
+	background-color: #fff;
+	transition: border 0.2s ease;
+	-moz-transition: border 0.2s ease; /* Firefox 4 */
+	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+	-o-transition: border 0.2s ease;
+
+	-moz-transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+div#content > div#twitter > div#twitterwall:hover > div.arrow,
+div#content > div#facebook > div#facebooklink:hover > div.arrow {
+	border-color: #abc6c8;
+}
+
+div#content > div#twitter > div#twitterwall.loading {
+	background: url(../img/ajax-loader.gif) no-repeat 50% 50%;
+}
+
+div#content > div#twitter .twitter-article > .twitter-pic {
+	float: left;
+	margin-right: 15px;
+}
+
+div#content > div#twitter .twitter-article > .twitter-text {
+	margin-left: 57px;
+}
+
+div#content > div#twitter .twitter-article > .twitter-user {
+	font-weight: bold;
+	margin-bottom: 0.3em;
+}
+
+div#content > div#twitter .twitter-article > .twitter-user > .tweet-time {
+	margin-left: 5px;
+	font-size: 0.8em;
+	font-weight: normal;
+}
+
+/* @end */
+
+/* @group Footer */
+
+footer {
+	clear: both;
+	text-align: right;
+	font-size: 12px;
+	padding: 45px 10px 6px 10px;
+	border-bottom: 15px solid #eb7f00;
+	color: #AAA;
+}
+
+footer a:link,
+footer a:visited {
+	color: #AAA;
+}
+
+footer a:hover,
+footer a:active,
+footer a:focus {
+	text-decoration:none;
+}
+
+/* @end */
+
+#anreise img.city {
+	margin-right: 15px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border: 1px solid #e6eeef;
+}
+
+#anreise p + img.city {
+	margin-left: 160px;
+}
