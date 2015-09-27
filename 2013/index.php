@@ -14,11 +14,11 @@
             <?php include('inc/head.inc'); ?>
             <div id="content">
                 <?php include('inc/nav.inc'); ?>
-				
+
                 <div id="mainContent">
                     <h2>Willkommen bei der FOSSGIS-Konferenz</h2>
                     <p>
-                        FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. 
+                        FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme.
                         Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema.
                         Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.
                     </p>
@@ -39,7 +39,7 @@
 					<p class="logos">
 						<a href="http://www.camptocamp.com/"><img valign="middle" src="img/s/C2C-72dpi-logo-baseline-RVB.png" width="300" height="81"></a>
 					</p>
-					
+
 					<h3>Silbersponsoren</h3>
 					<p class="logos">
 						<a href="http://www.geops.de/"><img valign="middle" src="img/s/Geops.png" width="250" height="65"></a>
@@ -51,7 +51,7 @@
 						<a href="http://www.thomas-krenn.com/"><img valign="middle" src="img/s/TKrenn.png" width="230" height="48"></a>
 						<a href="http://www.tydac.ch/"><img valign="middle" src="img/s/Tydac.png" width="210" height="53"></a>
 						<a href="http://netcetera.com/"><img valign="middle" src="img/s/NetcetraAG.PNG" width="232" height="58"></a>
-							
+
 
 					 </p>
 					<h3>Bronzesponsoren</h3>
@@ -76,40 +76,40 @@
 						<a href="http://www.schenkelvermessungen.ch/"><img src="img/s/Schenkel_Vermessung.PNG" width="116" height="147"></a>
 						<a href="https://mingle.io//"><img src="img/s/mingleio.PNG" width="200" height="32"></a>
 						<br>
-						
-
-						
 
 
 
 
 
 
-					</p> 
+
+
+
+					</p>
 					<h3>Mediasponsoren</h3>
 					<p class="logos">
 						<a href="http://www.vde-verlag.de//"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a>
 						<a href="http://www.boinx.com//"><img valign="middle" src="img/s/boinx.png" width="190" height="28"></a>
-					
 
 
-					</p> 
+
+					</p>
 
 					<h3>Medienpartner</h3>
 					<p class="logos">
 						<a href="http://www.geomatik.ch//"><img valign="middle" src="img/s/Geomatik_Schweiz.PNG" width="150" height="49"></a>
-					
 
-					</p> 
+
+					</p>
 
 					<p>
                         		Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
                        		 oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
                     			</p>
-				
+
                 </div>
             </div>
-			
+			<footer><a href="http://www.fossgis.de/impressum.html">Impressum</a></footer>
         </div>
     </body>
 </html>
