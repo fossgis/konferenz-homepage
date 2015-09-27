@@ -9,19 +9,19 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 		<link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
-		<script language="javascript" type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"></script> 
-		
+
+		<script language="javascript" type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"></script>
+
 		<script language="javascript" type="text/javascript">
-			var map; 
+			var map;
 			var sel;
 			function onFeatureSelect(evt) {
 				var feature = evt.feature;
 
 				var content = "<h3>" + feature.attributes.name + "</h3>"
 							 + "<p>" + feature.attributes.type + "</p>";
-				
-				popup = new OpenLayers.Popup.FramedCloud("popup", 
+
+				popup = new OpenLayers.Popup.FramedCloud("popup",
 					feature.geometry.getBounds().getCenterLonLat(),
 					new OpenLayers.Size(100,100),
 					content,
@@ -32,7 +32,7 @@
 				feature.popup = popup;
 				map.addPopup(popup);
 			}
-			
+
 			function onFeatureUnselect(evt) {
 				var feature = evt.feature;
 				if(feature.popup) {
@@ -41,28 +41,28 @@
 					delete feature.popup;
 				}
 			}
-			
+
 			function onPopupClose(evt) {
 				sel.unselectAll();
 			}
-		
+
 			window.onload = function () {
    				map = new OpenLayers.Map("map");
         		var mapnik = new OpenLayers.Layer.OSM();
         		map.addLayer(mapnik);
-				
-				
- 
- 
+
+
+
+
     			var markers = new OpenLayers.Layer.Vector(
-					"Markers", 
+					"Markers",
 					{
 						styleMap: new OpenLayers.Style(
 					        {
 					            graphicWidth: 21,
 					            graphicHeight: 25,
 					            graphicYOffset: -28 // shift graphic up 28 pixels
-					            
+
 					        },
 					        {
 					            rules: [
@@ -77,18 +77,18 @@
 					    )
 					}
 				);
-    			
+
 				markers.events.on({
 					"featureselected": onFeatureSelect,
 					"featureunselected": onFeatureUnselect
 				});
-				
+
 				map.addLayer(markers);
-				
+
 				sel = new OpenLayers.Control.SelectFeature(markers);
 				map.addControl(sel);
 				sel.activate();
-				
+
 				var kulturbrauerei = new OpenLayers.Feature.Vector(
 					new OpenLayers.Geometry.Point(8.713413, 49.412893).transform(
             			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
@@ -98,7 +98,7 @@
 						type: 'Unofficial Start'
 					}
 				);
-				
+
 				var molkenkur = new OpenLayers.Feature.Vector(
 					new OpenLayers.Geometry.Point(8.713673, 49.406870).transform(
             			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
@@ -108,10 +108,10 @@
 						type: 'Social Event'
 					}
 				);
- 
+
     			markers.addFeatures([kulturbrauerei, molkenkur]);
- 
- 
+
+
         		map.setCenter(new OpenLayers.LonLat(8.713659, 49.410296) // Center of the map
           			.transform(
             			new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
@@ -119,8 +119,8 @@
           			), 15 // Zoom level
         		);
       		}
- 
-		</script> 
+
+		</script>
     </head>
     <body>
     	<div id="wrap">
@@ -129,10 +129,11 @@
 				<ul id="mainNav">
 					<li><a href="../">Startseite</a></li>
 					<li><a href="../programm/">Programm</a></li>
-					<li><a href="https://www.fossgis.de/civicrm/event/register?id=1&reset=1">Anmeldung</a></li>
 					<li>Social Events</li>
 					<li><a href="../unterkunft/">Unterkunft</a></li>
 					<li><a href="../anreise/">Anreise</a></li>
+					<li><a href="http://www.fossgis.de/impressum.html">Impressum</a></li>
+
 					<!--<li><a href="../anmeldung/">Anmeldung</a></li>-->
 				</ul>
 				<div id="mainContent">
@@ -142,13 +143,13 @@
 					in der <a href="http://www.heidelberger-kulturbrauerei.de/">Kulturbrauerei Heidelberg</a> statt.</p>
 					<p>Begin ist 18 Uhr.</p>
 					<h3>Dienstag 05. April 2011 - Social Event</h3>
-					<p>Das Social Event am Dienstag Abend findet in der <a href="http://www.molkenkur.de/">Molkenkur</a> 
+					<p>Das Social Event am Dienstag Abend findet in der <a href="http://www.molkenkur.de/">Molkenkur</a>
 					statt. Die Molkenkur ist oberhalb des Heidelberger Schlosses gelegen und bietet daher einen einmaligen
 					Panoramablick über die Altstadt Heidelbergs.</p>
 					<p>Im Preis inbegriffen sind eine reichhaltiges Buffet sowie alkoholfreie Getränke.</p>
 					<p>Unkostenbeitrag: 45€.</p>
 					<p>Begin ist 19 Uhr.</p>
-					
+
 					<div id="map" style="width: 100%; height: 20em;"></div>
 				</div>
 			</div>
