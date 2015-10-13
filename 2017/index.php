@@ -23,7 +23,7 @@
 
             <p>Die FOSSGIS-Konferenz 2017 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a>organisiert.</p>
 
-            <p>Der Veranstalter sucht auf diesem Wege eine Austragungsort für die Konferenz im Jahre 2017 und ruft zur Einreichung von Bewerbungen auf.</p>
+            <p>Der Veranstalter sucht auf diesem Wege einen Austragungsort für die Konferenz im Jahre 2017 und ruft zur Einreichung von Bewerbungen auf.</p>
 
             <div class="organisers">
                 <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/fossgis.png" valign="middle"></a></div>
