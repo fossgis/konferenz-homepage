@@ -3,7 +3,7 @@
     <head>
         <title>FOSSGIS 2016</title>
         <meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
-        <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2016, FOSSGIS-Konferenz 2016, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">
+        <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2016, FOSSGIS-Konferenz 2016, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, Salzburg, Universität Salzburg">
         <meta charset="utf-8">
 
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
@@ -19,15 +19,17 @@
                 <?php include('inc/nav.inc'); ?>
 
 				<figure>
-<!-- 				<img src="img/schlossfrontal.jpg" width="880" height="350" alt="Schloss Münster">
-					<figcaption>Photo: WWU/Peter Grewer</figcaption>
- -->			</figure>
+                    <img src="img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">
+                    <figcaption>Photo: Gerald Griesebner</figcaption>
+                </figure>
+
+
 
                 <h2>Willkommen zur FOSSGIS-Konferenz 2016</h2>
 
 		        <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit <a href="http://www.zgis.at/">dem ZGIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert.</p>
+                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.zgis.at/">ZGIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
@@ -35,7 +37,7 @@
                     <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
                 </div>
                 <p class="clear"></p>
-                <p>Ziel der jährlich stattfindenden Konferenz mit mehr als 400 Teilnehmern ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
+                <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
 
                 <h2>FOSSGIS 2016 auf Twitter</h2>
                 <div id="twitter">

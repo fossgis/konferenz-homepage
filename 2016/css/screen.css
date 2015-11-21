@@ -495,5 +495,9 @@ footer a:focus {
 }
 
 #anreise p + img.city {
-	margin-left: 160px;
+	margin-left: 160px;	
 }
+.small{
+	font-size: 11px;
+	color:#3f3f3f;
+	}
