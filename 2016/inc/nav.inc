@@ -4,7 +4,7 @@
     </li>
 
 <!--     <li>
-        <a href="http://pb.konferenz.de/submission/FOSSGIS2015">Beitrag einreichen</a>
+        <a href="http://frab.fossgis-konferenz.de/de/2016/cfp/session/new">Beitrag einreichen</a>
     </li>
 
     <li id="navAnreise">
