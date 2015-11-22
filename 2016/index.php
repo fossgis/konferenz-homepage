@@ -29,7 +29,7 @@
 
 		        <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.zgis.at/">ZGIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert.</p>
+                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="http://www.zgisg.at/">ZGIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
