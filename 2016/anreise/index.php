@@ -33,7 +33,7 @@
 					<div id="map"></div></div>
              
 					<h3>Allgemeines</h3>
-                <p>Die FOSSGIS-Konferenz 2016 findet vom 04.-06. Juli an der Universität Salzburg statt.</p>
+                <p>Die FOSSGIS-Konferenz findet vom 04.-06. Juli 2016 an der Universität Salzburg statt.</p>
 
                 <p><strong>Adresse:</strong><br>Hellbrunnerstraße 34<br>5020 Salzburg, Österreich</p>
 
@@ -43,7 +43,7 @@
 				<li>2 km in die Altstadt von Salzburg</li>
 				<li>7 km zum Flughafen</li>
 				<li>4,5 km zum Bahnhof Salzburg</li>
-				<li>gute Erreichbarkeit zu Fuß und per Fahrrad vieler naheliegender Hotels, der Altstadt sowie des angrenzenden Landschaftschutzgebietes.</li></ul></p>
+				<li>gute Erreichbarkeit zu Fuß und per Fahrrad vieler Hotels, der Altstadt sowie des angrenzenden Landschaftschutzgebietes.</li></ul></p>
 
 				<h4>Anreise mit öffentlichen Verkehrsmitteln</h4>
                 <p>Mit den Angeboten der Deutschen Bahn, der ÖBB und der Westbahn/-bus kommen Sie besonders umweltfreundlich an Ihr Ziel.</p>
@@ -53,7 +53,7 @@
 </li>
 				<li> <a href="http://www.bahn.de/p/view/angebot/fernverkehrsmittel/city-night-line.shtml" class="external text" title="http://www.bahn.de/p/view/angebot/fernverkehrsmittel/city-night-line.shtml" rel="nofollow">CityNightLine</a>, Europas moderner Nachtreisezug, bringt Sie jede Nacht direkt nach Salzburg.</li></ul>
 
-             <p><b>Nahverkehr</b><br>Die Naturwissenschaftliche Fakultät erreichen Sie entweder per Taxi oder mit dem Bus - Ausstieg: Faistauergasse. <br>
+             <p><b>Nahverkehr</b><br>Die Naturwissenschaftliche Fakultät erreichen Sie entweder per Taxi oder mit dem Bus Ausstieg: Faistauergasse. <br>
 			 Hier finden Sie die <a href="http://fahrplan.oebb.at/bin/query.exe/dn?" class="external text" title="http://fahrplan.oebb.at/bin/query.exe/dn?" rel="nofollow">Online-Fahrplanauskunft der ÖBB</a> (für ganz Österreich) oder die <a href="https://salzburg-verkehr.at/" class="external text" title="https://salzburg-verkehr.at/" rel="nofollow">Fahrplanauskunft des SVV (Salzburger Verkehrsverbunds)</a> für das Land Salzburg.</p>
  <!-- <p><i>prüfen, ob das auch für FOSSGIS-Konferenz-TN gilt</i>.
 Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen, erhalten nach Vorlage ihres Fahrscheins eine kostenlose 3-Tageskarte des Salzburger Verkehrsverbunds für die Salzburger Kernzone.

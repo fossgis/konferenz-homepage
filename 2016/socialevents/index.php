@@ -17,7 +17,7 @@
             <div id="content">
                 <?php include('../inc/nav.inc'); ?>
                 <figure>
-					<img src="../img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">    <figcaption>Photo: WWU/Peter Grewer</figcaption>
+					<img src="../img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">    <figcaption>Photo: Gerald Griesebner</figcaption>
                 </figure>
 
                 <h2>Social Events</h2>
@@ -27,6 +27,8 @@
                 <p>Ab 18 Uhr gemeinsames Abendessen für alle schon anwesenden FOSSGISler im <a href="http://taste-gassner.com/stieglkeller/">Stieglkeller Salzburg</a> (Festungsgasse 10, 5020 Salzburg). Wir treffen uns bei schönem Wetter auf der Terasse des Stieglkellers, für die Schlechtwettervariante reserviert das Lokal Team einen Raum. Jeder bezahlt seine Rechnung selbst.</p>
 
 				<h3>Montag, 04. Juli 2016</h3>
+				<h4>Eröffnung FOSSGIS-Konferenz>
+				<p>um 13:00 wird die Konferenz im Audimx eröffnet.</p>
 				<h4>Anwendertreffen</h4>
                 <p>Von 17 bis 18:30 Uhr können Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen zur Verfügung. Bitte per E-Mail an konferenz-orga@fossgis.de anfragen oder das Team vor Ort ansprechen.</p>
                                 

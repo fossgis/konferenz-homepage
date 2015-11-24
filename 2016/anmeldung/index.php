@@ -25,7 +25,7 @@
                 </figure>
                 
                 <h2>Anmeldung zur Konferenz</h2>
-                <p>Die FOSSGIS-Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2016 - wir freuen uns auf Sie!<br> In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. <a href="http://www.agit.at/fossgis"> Klick zur Anmeldung</a> Die Teilnehmeranmeldung ist bis zum 25.06.2016 ge&ouml;ffnet. Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk.</p>
+                <p>Die FOSSGIS-Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2016 - wir freuen uns auf Sie!<br> In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. <!--<a href="http://www.agit.at/fossgis"> Klick zur Anmeldung</a>--> Die Teilnehmeranmeldung wird ab Anfang Januar bis zum 25.06.2016 ge&ouml;ffnet. Ab April wird das Programm stehen und es werden Workshops buchbar sein. Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk.</p>
 				
 
                 <h3>Preise</h3>
@@ -37,7 +37,7 @@
                     <li>Workshopticket:  <strong>100 EUR</strong></li>
 					<li>Communityticket*: <strong>0 EUR</strong></li></ul>
 					<p class="small">(im Konferenzticket enthalten: FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tagungsband, Tasche, Dialoge am Amphitheater)<br>
-					(* Regelungen für Communityticket gelten für Aktive in der FOSS/OSM-Communiy)</p>
+					(* Communityticket gilt für Aktive in der FOSS/OSM-Communiy, bei Anmeldung im Textfenster darstellen.)</p>
                 
 
                 <h3>Helfer</h3>
