@@ -3,7 +3,7 @@
         <a href="/2016/">Startseite</a>
     </li>
 
-<!--     <li>
+    <li>
         <a href="http://frab.fossgis-konferenz.de/de/2016/cfp/session/new">Beitrag einreichen</a>
     </li>
 
@@ -13,5 +13,10 @@
 
     <li id="navEvents">
         <a href="/2016/socialevents">Social Events</a>
-    </li> -->
+    </li>
+
+    <li id="navEvents">
+        <a href="/2016/green">Green Meeting</a>
+    </li>
+
 </ul>
