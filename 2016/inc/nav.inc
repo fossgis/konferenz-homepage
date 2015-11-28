@@ -16,7 +16,7 @@
     </li>
 
     <li id="navEvents">
-        <a href="/2016/green">Green Meeting</a>
+        <a href="/2016/green">Green</a>
     </li>
 
 </ul>
