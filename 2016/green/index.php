@@ -38,7 +38,7 @@ Tipp: Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen,
 				<p><i>Empfehlung</i>: Viele Hotels und Pensionen liegen im unmittelbaren Umfeld des Veranstaltungsortes. Die Naturwissenschaftliche Fakultät können Sie bequem zu Fuß von vielen Quartieren aus erreichen.</p>
 				
 				<p><b>Act Green</b></p>
-				<p>Bitte geben Sie am Ende der Konferenz ihre Batches und Lanyards am Welcome Desk zurück.</p>
+				<p>Bitte geben Sie am Ende der Konferenz ihre Badges und Lanyards am Welcome Desk zurück.</p>
 				<!--<p><b>Stay Green</b></p>-->
 				<p><small>Quelle: <a href="http://www.agit.at/greenmeeting" class="external free" title="http://www.agit.at/greenmeeting" rel="nofollow">http://www.agit.at/greenmeeting</a></small>
 </p>
