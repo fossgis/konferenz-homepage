@@ -25,7 +25,7 @@
                 </figure>
                 
                 <h2>FOSSGIS - Green Meeting</h2>
-                <p>Die AGIT-Tagung wurde 2015 als "Green Meeting" zertifiziert. Auch in 2016 wird die Zertifizierung abgestrebt.</p>
+                <p>Die AGIT-Tagung wurde 2015 als "Green Meeting" zertifiziert. Auch in 2016 wird die Zertifizierung angestrebt.</p>
 				<p>Es ist unsere „grüne Vision“ die AGIT und die FOSSGIS-Konferenz nach den Prinzipien der Umweltverträglichkeit und Nachhaltigkeit auszurichten. Wir wollen mit unserem Handeln zu einer Welt beitragen, in der wir verantwortungsvoll mit unseren Ökosystem, ihren Rohstoffen und den Menschen umgehen. Mit agit goes green wollen wir zur Schonung der Umwelt und zum langfristigen Schutz unseres Klimas beitragen. Leisten auch Sie Ihren aktiven Beitrag zum Umweltschutz, beachten Sie unsere Empfehlungen!</p>
 				<p><b>Green Location</b></p>
 				<p>Die Naturwissenschaftliche Fakultät (NaWi) der Universität Salzburg ist der optimale Eventplatz mit einzigartigem Landschaftsbezug durch die unmittelbare Naturnähe. Mit direktem Zugang zu Grünflächen, einem eigenen Botanischen Garten und dem angrenzenden Landschaftsschutzgebiet Freisaal lädt die NaWi zum Verweilen ein. Teilnehmer und Aussteller erleben die AGIT als „Event im Grünen“. Im Jahr 2016 werden auch die FOSSGIS-Konferenz-Teilnehmer Teil des "Event im Grünen".</p>
