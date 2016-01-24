@@ -29,7 +29,7 @@
 
 		        <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="http://www.zgisg.at/">ZGIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert.</p>
+                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="http://www.zgisg.at/">Z_GIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert und findet im Vorfeld der <a href="http://www.agit.at/">AGIT</a>  statt.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
@@ -48,6 +48,10 @@
                 </div>
 
  		         <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
+				 
+				 <h3>Sponsoren aufgepaßt!</h3>
+				 <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
+				<p> Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn. 
 
             </div>
 				<?php include('inc/footer.inc'); ?>
