@@ -9,21 +9,21 @@
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
+
     </head>
-    <body id="call">
+    <body id="green">
         <div id="wrap">
         	<?php include('../inc/head.inc'); ?>
-            
+
             <div id="content">
-                
+
                 <?php include('../inc/nav.inc'); ?>
-				
+
                 <figure>
                     <img src="../img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">
                    <figcaption>Photo: Gerald Griesebner</figcaption>
                 </figure>
-                
+
                 <h2>FOSSGIS - Green Meeting</h2>
                 <p>Die AGIT-Tagung wurde 2015 als "Green Meeting" zertifiziert. Auch in 2016 wird die Zertifizierung angestrebt.</p>
 				<p>Es ist unsere „grüne Vision“ die AGIT und die FOSSGIS-Konferenz nach den Prinzipien der Umweltverträglichkeit und Nachhaltigkeit auszurichten. Wir wollen mit unserem Handeln zu einer Welt beitragen, in der wir verantwortungsvoll mit unseren Ökosystem, ihren Rohstoffen und den Menschen umgehen. Mit agit goes green wollen wir zur Schonung der Umwelt und zum langfristigen Schutz unseres Klimas beitragen. Leisten auch Sie Ihren aktiven Beitrag zum Umweltschutz, beachten Sie unsere Empfehlungen!</p>
@@ -36,13 +36,13 @@
 Tipp: Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen, erhalten nach Vorlage ihres Fahrscheins eine kostenlose 3-Tageskarte des Salzburger Verkehrsverbunds für die Salzburger Kernzone.</p>-->
 				<p><i>Empfehlung</i>: Flott, wendig und ohne Parkprobleme. Mit den kostenlosen Fahrrädern der Uni Salzburg kommen Sie schnell und umweltbewusst an Ihr Ziel. Oder buchen Sie vorab fix ein Fahrrad für die ganze AGIT - FOSSGIS - Woche und navigieren Sie über die <a href="https://www.radlkarte.info/" class="external text" title="https://www.radlkarte.info/" rel="nofollow">Radlkarte Salzburg</a>. Hier können Sie ein Fahrrad ausleihen: <a href="https://www.salzburgrad.at/rad-tourismus/stadt-salzburg/fahrrad-verleih/" class="external text" title="https://www.salzburgrad.at/rad-tourismus/stadt-salzburg/fahrrad-verleih/" rel="nofollow">Fahrradverleih Salzburg.</a></p>
 				<p><i>Empfehlung</i>: Viele Hotels und Pensionen liegen im unmittelbaren Umfeld des Veranstaltungsortes. Die Naturwissenschaftliche Fakultät können Sie bequem zu Fuß von vielen Quartieren aus erreichen.</p>
-				
+
 				<p><b>Act Green</b></p>
 				<p>Bitte geben Sie am Ende der Konferenz ihre Badges und Lanyards am Welcome Desk zurück.</p>
 				<!--<p><b>Stay Green</b></p>-->
 				<p><small>Quelle: <a href="http://www.agit.at/greenmeeting" class="external free" title="http://www.agit.at/greenmeeting" rel="nofollow">http://www.agit.at/greenmeeting</a></small>
 </p>
-              
+
             </div>
             <?php include('../inc/footer.inc'); ?>
         </div>

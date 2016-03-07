@@ -3,7 +3,7 @@
         <a href="/2016/">Startseite</a>
     </li>
 
-    <li>
+    <li id="navAnmeldung">
         <a href="/2016/anmeldung">Anmeldung</a>
     </li>
 
@@ -15,7 +15,7 @@
         <a href="/2016/socialevents">Social Events</a>
     </li>
 
-    <li id="navEvents">
+    <li id="navGreen">
         <a href="/2016/green">Green</a>
     </li>
 

@@ -11,7 +11,7 @@
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
     </head>
-    <body id="call">
+    <body id="anmeldung">
         <div id="wrap">
             <?php include('../inc/head.inc'); ?>
 
