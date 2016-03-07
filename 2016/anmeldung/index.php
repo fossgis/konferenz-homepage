@@ -9,41 +9,78 @@
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
+
     </head>
     <body id="call">
         <div id="wrap">
-        	<?php include('../inc/head.inc'); ?>
-            
+            <?php include('../inc/head.inc'); ?>
+
             <div id="content">
-                
+
                 <?php include('../inc/nav.inc'); ?>
-				
+
                 <figure>
                     <img src="../img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">
                    <figcaption>Photo: Gerald Griesebner</figcaption>
                 </figure>
-                
-                <h2>Anmeldung zur Konferenz</h2>
-                <p>Die FOSSGIS-Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2016 - wir freuen uns auf Sie!<br> In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. <!--<a href="http://www.agit.at/fossgis"> Klick zur Anmeldung</a>--> Die Teilnehmeranmeldung wird ab Anfang Januar bis zum 25.06.2016 ge&ouml;ffnet. Ab April wird das Programm stehen und es werden Workshops buchbar sein. Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk.</p>
-				
 
-                <h3>Preise</h3>
-                 <ul class="list">
-                    <li>Konferenzticket: <strong>190 EUR</strong></li>
-					<li>Konferenzticket (Frühbucher bis 25.05): <strong>150 EUR</strong></li>
-					<li>Konferenzticket Ermäßigt (Studierende/ FOSSGIS e.V. Mitglieder): <strong>100 EUR</strong></li>
-					<li>Konferenzticket FOSSGIS+AGIT: <strong>450 EUR</strong></li>
-                    <li>Workshopticket:  <strong>100 EUR</strong></li>
-					<li>Communityticket*: <strong>0 EUR</strong></li></ul>
-					<p class="small">(im Konferenzticket enthalten: FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tagungsband, Tasche, Dialoge am Amphitheater)<br>
-					(* Communityticket gilt für Aktive in der FOSS/OSM-Communiy, bei Anmeldung im Textfenster darstellen.)</p>
-                
+                <h2>Anmeldung zur Konferenz</h2>
+                <p>Wir laden Sie ein Teil der FOSSGIS-Konferenz 2016 zu werden. Wir freuen uns auf Sie! Denn von Ihren Beitr&auml;gen und Ihrem Besuch lebt die Konferenz. </p>
+                <p>In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. <!--<a href="http://www.agit.at/fossgis"> --> Der Link zur Anmeldung wird ab 04.04.2016 gemeinsam mit dem Programm hier zur Verfügung stehen. Bis zum 25.06.2016 können Sie sich anmelden sowie Workshops buchen.</p>
+                <p>Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft einfach am Welcome Desk.</p>
+
+                <table class="table" width="650px">
+                    <tbody>
+                        <tr>
+                            <td><h4>Preise</h4></td>
+                            <td>
+                                <h4>FOSSGIS</h4>
+                            </td>
+                            <td><h4>Kombiticket<br />FOSSGIS + AGIT</h4></td>
+                        </tr>
+
+                        <tr><tr>
+                            <td><h4>Teilnehmer_innen (Normalpreis)</h4></td>
+                            <td><h4> € 190</h4></td>
+                            <td><h4> € 490</h4></td>
+                        </tr>
+                        <tr>
+                            <td><h4> Teilnehmer_innen (Rabatt bis 25.05.2016)</h4></td>
+                            <td><h4> € 150</h4></td>
+                            <td><h4> € 420</h4></td>
+                        </tr>
+                        <tr>
+                        <td><h4>Autor_innen</h4></td>
+                            <td><h4> € 150</h4></td>
+                            <td><h4> € 340</h4></td>
+                        </tr>
+                        <tr>
+                        <td><h4>Studierende</h4></td>
+                            <td><h4> € 100</h4></td>
+                            <td><h4> € 190</h4></td>
+                        </tr>
+                        <tr>
+                        <td><h4>Gruppenpreis (ab 4 Personen bis 25.06.2016)</h4></td>
+                            <td><h4> € 150</h4></td>
+                            <td><h4> € 340</h4></td>
+                        </tr>
+                        <tr>
+                        <td><h4>FOSSGIS Community*</h4></td>
+                            <td><h4> € 0*</h4></td>
+                            <td><h4> € 190*</h4></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h4>Im Konferenzticket enthalten:</h4>
+                <p>
+                FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tagungsband, Tasche, Dialoge am Amphitheater.</p>
+                <p class="small">* Regelungen für das Communityticket gelten für Aktive in der FOSS/OSM-Communiy, bitte bei Anmeldung im Textfenster darstellen.</p>
 
                 <h3>Helfer</h3>
-                <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen zu unterstützen. Bei Interesse bitte bei per E-Mail unter konferenz-orga@fossgis.de melden</p>
+                <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen zu unterstützen. Bei Interesse bitte bei per E-Mail unter konferenz-orga@fossgis.de melden und Zeitraumpräferenz angeben.</p>
 
-                
+
             </div>
             <?php include('../inc/footer.inc'); ?>
         </div>
