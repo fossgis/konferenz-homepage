@@ -93,7 +93,7 @@ ul#mainNav {
 			text-decoration: none;
 			color: #2d3841;
 			font-weight: bold;
-			padding: 5px 5px 3px 5px;
+			padding: 5px 0px 0px 0px;
 			border-radius: 3px;
 
 			transition: background-color 0.25s ease, color 0.15s ease;
