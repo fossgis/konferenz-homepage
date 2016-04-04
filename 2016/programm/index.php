@@ -10,7 +10,7 @@
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
     </head>
-    <body id="anmeldung">
+    <body id="programm">
         <div id="wrap">
             <?php include('../inc/head.inc'); ?>
 
