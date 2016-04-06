@@ -7,10 +7,10 @@
         <a href="/2016/anmeldung">Anmeldung</a>
     </li>
 
-<!--     <li id="navProgramm">
+    <li id="navProgramm">
         <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule" target='_blank'>Programm</a>
     </li>
- -->
+
     <li id="navAnreise">
         <a href="/2016/anreise">Anreise + Unterkunft</a>
     </li>
