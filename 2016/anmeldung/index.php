@@ -26,7 +26,8 @@
 
                 <h2>Anmeldung zur Konferenz</h2>
                 <p>Wir laden Sie ein Teil der FOSSGIS-Konferenz 2016 zu werden. Wir freuen uns auf Sie! Denn von Ihren Beitr&auml;gen und Ihrem Besuch lebt die Konferenz. </p>
-                <p>In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. Hier gelangen Sie direkt <a href="http://www.agit.at/fossgis"> zur Anmeldung</a>. Bis zum 25.06.2016 können Sie sich anmelden sowie Workshops buchen.</p>
+                <p>In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. Hier gelangen Sie direkt <a href="http://www.agit.at/fossgis"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 25.06.2016 eine Reihe von kostenpflichtigen FOSSGIS Workshops auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule">Programm</a>. </p>
+				
                 <p>Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk.</p>
 
                 <table class="table" width="650px">
