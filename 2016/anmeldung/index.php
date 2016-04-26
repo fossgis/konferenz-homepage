@@ -69,6 +69,11 @@
                             <td><h4><a title="Anmeldung Teilnehmer_innen (Communiy FOSSGIS)" href="http://agit.at/php_files/fossgis/registerform/index.php?typ=FOSSGIS_COMMUNITY"> € 0*</a></h4></td>
                             <td><h4><a title="Anmeldung Teilnehmer_innen (Communiy FOSSGIS+AGIT)" href="http://agit.at/php_files/fossgis/registerform/index.php?typ=KOMBITICKET_COMMUNITY"> € 190*</a></h4></td>
                         </tr>
+						<tr>
+                        <td><h4>Workshops</h4></td>
+                            <td><h4> € 100</h4></td>
+                            <td><h4> -</h4></td>
+                        </tr>
                     </tbody>
                 </table>
 
