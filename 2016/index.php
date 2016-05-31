@@ -56,6 +56,9 @@
 				  <h3>Silbersponsoren</h3>
 				 
 				  <div class="sponsor silber" id="omniscale"><a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="200" height="41"></a></div> 
+				  <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>
+				  <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
+				  <div class="sponsor silber" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>
 				  <div class="sponsor silber"></a></div>
 				  <div class="sponsor silber"></a></div>
 				  
