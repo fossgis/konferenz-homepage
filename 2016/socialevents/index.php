@@ -30,7 +30,7 @@
 
                 <p>Parallel zu den Vorträgen/Workshops stehen Räumlichkeiten zur Verfügung in denen ihr euch mit anderen Teilnehmern austauschen und an euren Projekten (z.B. Entwicklerprojekte oder Editieren mit JOSM/iD/…) arbeiten könnt. </p>
 
-                <p>Weitere Informationen dazu <a href="http://ruep.github.io/osm-sonntag/#schedule"> hier</a>, die Planungen dazu finden im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2016/Hackday_t-1">OSM-Wiki</a> statt. Wer sich einbringen möchte, tträgt sich bitte auf der Planungsseite ein. Fragen dazu gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.
+                <p>Weitere Informationen dazu sowie die Planung finden Sie im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2016/Hackday_t-1">OSM-Wiki</a>. Wer sich einbringen möchte, trägt sich bitte ein. Fragen dazu gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.
 
 				<h4>Inoffizieller Start</h4>
                 <p>Ab 18 Uhr gemeinsames Abendessen für alle schon anwesenden FOSSGISler im <a href="http://taste-gassner.com/stieglkeller/">Stieglkeller Salzburg</a> (Festungsgasse 10, 5020 Salzburg). Wir treffen uns bei schönem Wetter auf der Terasse des Stieglkellers, für die Schlechtwettervariante reserviert das Lokal Team einen Raum. Jeder bezahlt seine Rechnung selbst.</p>
