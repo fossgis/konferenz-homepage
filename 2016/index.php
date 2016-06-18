@@ -67,6 +67,7 @@
 				 <div class="sponsor bronze"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="150" height="40"></a></div>
 				 <div class="sponsor bronze" id="camptocamp"><a href="http://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="150" height="72"></a></div>
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
+				 <div class="sponsor bronze" id="sourcepole"><a href="http://www.sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
 				 <div class="sponsor bronze"></a></div>
 				 
 				 <br>
