@@ -33,7 +33,7 @@
                 <p>Weitere Informationen dazu sowie die Planung finden Sie im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2016/Hackday_t-1">OSM-Wiki</a>. Wer sich einbringen möchte, trägt sich bitte ein. Fragen dazu gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.
 
 				<h4>Inoffizieller Start</h4>
-                <p>Ab 18.30 Uhr gemeinsames Abendessen für alle schon anwesenden FOSSGISler im <a href="http://taste-gassner.com/stieglkeller/">Stieglkeller Salzburg</a> (Festungsgasse 10, 5020 Salzburg). Wir treffen uns bei schönem Wetter auf der Terasse des Stieglkellers, für die Schlechtwettervariante reserviert das Lokal Team einen Raum. Jeder bezahlt seine Rechnung selbst. Das EM-Spiel wird auch im Stieglkeller übertragen.</p>
+                <p>Ab 18.30 Uhr gemeinsames Abendessen für alle schon anwesenden FOSSGISler im <a href="http://taste-gassner.com/stieglkeller/">Stieglkeller Salzburg</a> (Festungsgasse 10, 5020 Salzburg). Wir treffen uns bei schönem Wetter auf der Terasse des Stieglkellers, für die Schlechtwettervariante steht ein Raum zur Verfügung. Wir werden vom <a href="https://www.fossgis.de/w/images/e/ea/Schmankerlbuffet_2016.pdf">Schmankerlbuffet</a> essen, Getränke gibt es a la carte. Jeder bezahlt seine Rechnung selbst. Das EM-Spiel um 21 Uhr wird auch im Stieglkeller übertragen, es ist ein Tisch für 10-12 Personen reserviert.</p>
 
 				<h3>Montag, 04. Juli 2016</h3>
 				<h4>Eröffnung FOSSGIS-Konferenz</h4>
