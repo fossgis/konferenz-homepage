@@ -43,6 +43,14 @@
                         </li>
                     </ul>
                 </div>
+				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen.</p>
+				<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="http://streaming.fossgis.de/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
+                        </li>
+                    </ul>
+                </div>
             </div>
             <?php include('../inc/footer.inc'); ?>
         </div>
