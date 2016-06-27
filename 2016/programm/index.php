@@ -35,6 +35,22 @@
                         </li>
                     </ul>
                 </div>
+				<p>Hier können Sie das Programm als PDF downloaden.</p>
+				<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="https://www.fossgis.de/w/images/c/c7/Programm_FOSSGIS-2016.pdf">FOSSGIS-Konferenz-Programm PDF</a>
+                        </li>
+                    </ul>
+                </div>
+				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen.</p>
+				<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="http://streaming.fossgis.de/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
+                        </li>
+                    </ul>
+                </div>
             </div>
             <?php include('../inc/footer.inc'); ?>
         </div>
