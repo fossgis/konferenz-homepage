@@ -8,7 +8,7 @@
     </li>
 
     <li id="navProgramm">
-        <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule" target='_blank'>Programm</a>
+        <a href="/2016/programm">Programm</a>
     </li>
 
     <li id="navAnreise">
