@@ -97,7 +97,7 @@ foreach ($d as $nr => $e) {
 	    echo "  <td style=\"text-align:center; vertical-align:middle;\">";
 	    if ($pid!=0) echo "<a href=\"".FRAB_PERSON_URL.$pid."\" title=\"".$speakers[$pid]["name"]."\"><img src=\"".BASIS_URL.$speakers[$pid]["image_small"]."\" alt=\"".$speakers[$pid]["name"]."\" style=\"position:relative; bottom:-3px; margin-right:3px;\"></a>\n";
 	    echo "</td>\n";
-	    echo "  <td style=\"width:15em;\">".$pers."</td>\n";
+	    echo "  <td style=\"width:13em;\">".$pers."</td>\n";
 	    echo "  <td><a href=\"".FRAB_EVENT_URL.$id."\" title=\"".utf8_cut($desc, DESC_LEN)."\">".utf8_cut($title, TIT_LEN)."<br>";
 	    if (!empty($subtitle)) echo "<i>".utf8_cut($subtitle, SUB_LEN)."</i>";
 	    echo "</a></td>\n";
