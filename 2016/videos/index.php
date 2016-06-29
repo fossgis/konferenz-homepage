@@ -24,8 +24,8 @@ html_header_css();
 echo "<p>";
 echo count($ytarr)." YT-Links gefunden. ";
 // DEBUG!!
-$ytarr[5015]=$ytarr[7582];
-$ytarr[5081]=$ytarr[7595];
+//$ytarr[5070]=$ytarr[7582];
+//$ytarr[5096]=$ytarr[7595];
 //$ytarr[5096]="TEST1";
 //$ytarr[5041]="TEST2";
 echo count($dir)." Videos gefunden. ";
@@ -67,6 +67,7 @@ foreach ($d as $nr => $e) {
     foreach ($e["rooms"] as $raum => $f) {
 	if (count($f)<1) continue;	// naechster Raum
 	if (substr($raum, 0, 6)=="E EXPO") $raum=substr($raum, 2);
+	if (strpos(HIDDEN_ROOMS, "|".$raum."|")>0) continue;	// gewisse Raeume ueberspringen
 	//echo "Raum ".$raum.": ";
 	//echo count($f)." Vortraege gefunden.\n";
 	foreach ($f as $vnr => $v) {
@@ -74,7 +75,7 @@ foreach ($d as $nr => $e) {
 	    else      echo " <tr class=\"weiss\">\n";
 	    $i++;
 	    $id=$v["id"];
-	    if (strpos(HIDDEN_IDS, "|".$id."|")>0) continue;	// gewisse IDs überspringen
+	    if (strpos(HIDDEN_IDS, "|".$id."|")>0) continue;	// gewisse IDs ueberspringen
 	    $title=remove_tags($v["title"]);
 	    $subtitle=remove_tags($v["subtitle"]);
 	    $desc=remove_tags($v["description"]);
@@ -95,8 +96,8 @@ foreach ($d as $nr => $e) {
 		echo "  <td>";
 	    }
 	    // $DEBUG!!
-	    if ($id==5015) $id=771;
-	    if ($id==5081) $id=779;
+	    //if ($id==5015) $id=771;
+	    //if ($id==5096) $id=779;
 	    if (array_key_exists($id, $dir)) {
 		$files=$dir[$id];
 		if (!empty($files["mp4"])) echo mp4_link($files["mp4"]["name"])." ";
