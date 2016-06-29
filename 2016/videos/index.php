@@ -14,6 +14,10 @@ include("yt.inc");
 include("videodir.inc");
 
 
+// Speakers einlesen -> $speakers
+include("speakers.inc");
+
+
 // Konferenzdaten einlesen und Liste ausgeben
 $json = file_get_contents(CONF_URL);
 if ($json===FALSE) die("CONF_URL ".CONF_URL." konnte nicht gelesen werden.\n");
@@ -29,6 +33,7 @@ echo count($ytarr)." YT-Links gefunden. ";
 //$ytarr[5096]="TEST1";
 //$ytarr[5041]="TEST2";
 echo count($dir)." Videos gefunden. ";
+echo count($c)." Speakers gefunden. ";
 
 // $ytarr sind die YT-IDs (Key ist die ID des Vortrags)
 // $a ist die schedule
@@ -52,7 +57,7 @@ echo "</p>\n";
 
 echo "<table class=\"video\">\n";
 echo "<thead>\n <tr class=\"header\">\n";
-echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th style=\"width:15em;\">Vortragender</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
+echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th></th><th style=\"width:15em;\">Vortragende(r)</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
 echo " </tr>\n</thead>\n";
 echo "<tbody>\n";
 $i=0;
@@ -82,10 +87,15 @@ foreach ($d as $nr => $e) {
 	    echo "  <td>".$date." ".$v["start"]."</td>\n";
 	    echo "  <td>".ltrim($raum)."</td>\n";
 	    $pers="";
+	    $pid=0;
 	    foreach ($v["persons"] as $pnr => $p) {
 		if ($pnr>0) $pers.=", ";
+		if (($pid==0) && (array_key_exists($p["id"], $speakers))) $pid=$p["id"];
 		$pers.="<a href=\"".FRAB_PERSON_URL.$p["id"]."\" title=\"".$p["public_name"]."\">".$p["public_name"]."</a>";
 	    } // Personen
+	    echo "  <td style=\"text-align:center;\">";
+	    if ($pid!=0) echo "<a href=\"".FRAB_PERSON_URL.$pid."\" title=\"".$speakers[$pid]["name"]."\"><img src=\"".BASIS_URL.$speakers[$pid]["image_small"]."\" alt=\"".$speakers[$pid]["name"]."\"></a>\n";
+	    echo "</td>\n";
 	    echo "  <td>".$pers."</td>\n";
 	    echo "  <td><a href=\"".FRAB_EVENT_URL.$id."\" title=\"".utf8_cut($desc, DESC_LEN)."\">".utf8_cut($title, TIT_LEN)."<br>";
 	    if (!empty($subtitle)) echo "<i>".utf8_cut($subtitle, SUB_LEN)."</i>";
