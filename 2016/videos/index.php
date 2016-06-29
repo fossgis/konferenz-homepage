@@ -59,6 +59,7 @@ echo "<table class=\"video\">\n";
 echo "<thead>\n <tr class=\"header\">\n";
 echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th colspan=\"2\">Vortragende(r)</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
 echo " </tr>\n</thead>\n";
+echo "<tfoot>\n <tr class=\"subheader\" style=\"height:6px;\"><td colspan=\"7\"></td></tr>\n</tfoot>\n";
 echo "<tbody>\n";
 $i=0;
 foreach ($d as $nr => $e) {
