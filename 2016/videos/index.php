@@ -33,7 +33,7 @@ echo count($ytarr)." YT-Links gefunden. ";
 //$ytarr[5096]="TEST1";
 //$ytarr[5041]="TEST2";
 echo count($dir)." Videos gefunden. ";
-echo count($speakers)." Speakers gefunden. ";
+echo count($speakers)." Vortragende (mit Bild) gefunden. ";
 
 // $ytarr sind die YT-IDs (Key ist die ID des Vortrags)
 // $a ist die schedule
