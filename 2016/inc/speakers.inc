@@ -3,7 +3,7 @@
 if (!defined("JSON_SPEAKERS")) define("JSON_SPEAKERS","http://frab.fossgis-konferenz.de/de/2016/public/speakers.json");
 
 // Speakers einlesen und parsen -> $speakers
-// enthält aber nur die mit Bild!
+// enthaelt aber nur die mit Bild!
 $json = file_get_contents(JSON_SPEAKERS);
 if ($json===FALSE) die("JSON_SPEAKERS ".JSON_SPEAKERS." konnte nicht gelesen werden.\n");
 $a=json_decode($json, TRUE);
