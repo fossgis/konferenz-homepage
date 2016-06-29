@@ -57,7 +57,7 @@ echo "</p>\n";
 
 echo "<table class=\"video\">\n";
 echo "<thead>\n <tr class=\"header\">\n";
-echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th></th><th style=\"width:15em;\">Vortragende(r)</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
+echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th colspan=\"2\">Vortragende(r)</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
 echo " </tr>\n</thead>\n";
 echo "<tbody>\n";
 $i=0;
@@ -66,7 +66,7 @@ foreach ($d as $nr => $e) {
     //echo "Tag ".($nr+1).": ".$e["date"]."\n";
     //echo wochentag($date)."\n";
     echo " <tr class=\"subheader\">\n";
-    echo "  <td colspan=\"6\">".wochentag($date)."</td>\n";
+    echo "  <td colspan=\"7\">".wochentag($date)."</td>\n";
     echo " </tr>\n";
     if ($i%2) $i++;	// nach dem Wochentag mit weiss beginnen
     foreach ($e["rooms"] as $raum => $f) {
@@ -93,10 +93,10 @@ foreach ($d as $nr => $e) {
 		if (($pid==0) && (array_key_exists($p["id"], $speakers))) $pid=$p["id"];
 		$pers.="<a href=\"".FRAB_PERSON_URL.$p["id"]."\" title=\"".$p["public_name"]."\">".$p["public_name"]."</a>";
 	    } // Personen
-	    echo "  <td style=\"text-align:center;\">";
-	    if ($pid!=0) echo "<a href=\"".FRAB_PERSON_URL.$pid."\" title=\"".$speakers[$pid]["name"]."\"><img src=\"".BASIS_URL.$speakers[$pid]["image_small"]."\" alt=\"".$speakers[$pid]["name"]."\"></a>\n";
+	    echo "  <td style=\"text-align:center; vertical-align:middle;\">";
+	    if ($pid!=0) echo "<a href=\"".FRAB_PERSON_URL.$pid."\" title=\"".$speakers[$pid]["name"]."\"><img src=\"".BASIS_URL.$speakers[$pid]["image_small"]."\" alt=\"".$speakers[$pid]["name"]."\" style=\"position:relative; bottom:-3px; margin-right:3px;\"></a>\n";
 	    echo "</td>\n";
-	    echo "  <td>".$pers."</td>\n";
+	    echo "  <td style=\"width:15em;\">".$pers."</td>\n";
 	    echo "  <td><a href=\"".FRAB_EVENT_URL.$id."\" title=\"".utf8_cut($desc, DESC_LEN)."\">".utf8_cut($title, TIT_LEN)."<br>";
 	    if (!empty($subtitle)) echo "<i>".utf8_cut($subtitle, SUB_LEN)."</i>";
 	    echo "</a></td>\n";
