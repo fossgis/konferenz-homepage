@@ -1,10 +1,10 @@
 <?php
 
 define("CONF_URL","http://frab.fossgis-konferenz.de/de/2016/public/schedule.json");
-//define("YT_URL","https://tracker.c3voc.de/api/v1/fossgis16/tickets/released.json");
-define("YT_URL","https://tracker.c3voc.de/api/v1/gpn16/tickets/released.json");		// eine andere Konferenz
-//define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/");
-define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2015/");		// FOSSGIS letztes Jahr
+define("YT_URL","https://tracker.c3voc.de/api/v1/fossgis16/tickets/released.json");
+//define("YT_URL","https://tracker.c3voc.de/api/v1/gpn16/tickets/released.json");		// eine andere Konferenz
+define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/");
+//define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2015/");		// FOSSGIS letztes Jahr
 define("FRAB_EVENT_URL", "http://frab.fossgis-konferenz.de/de/2016/public/events/");
 define("FRAB_PERSON_URL","http://frab.fossgis-konferenz.de/de/2016/public/speakers/");
 
@@ -19,9 +19,8 @@ define("PERS_LEN", 20);
 define("YT_LEN", 11);
 define("RAUM_LEN", 10);
 
-define("HIDDEN_IDS", "||50105|");
-// 50105 ist der Sektempfang
-//define("HIDDEN_IDS", "||5099|50100|50101|50105|50106|");
+define("HIDDEN_IDS", "||5105|");	// 5105 ist der Sektempfang
+define("HIDDEN_ROOMS", "||HS432|HS3004|EXPO Forum|");
   // ||, damit die matches immer >0
 
 
