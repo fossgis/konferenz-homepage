@@ -1,6 +1,8 @@
 <?php
 
+define("BASIS_URL","http://frab.fossgis-konferenz.de");
 define("CONF_URL","http://frab.fossgis-konferenz.de/de/2016/public/schedule.json");
+define("JSON_SPEAKERS","http://frab.fossgis-konferenz.de/de/2016/public/speakers.json");
 define("YT_URL","https://tracker.c3voc.de/api/v1/fossgis16/tickets/released.json");
 //define("YT_URL","https://tracker.c3voc.de/api/v1/gpn16/tickets/released.json");		// eine andere Konferenz
 define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/");
