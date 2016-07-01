@@ -35,6 +35,14 @@
                         </li>
                     </ul>
                 </div>
+				<p>Die FOSSGIS-Konferenz per Android-APP.</p>
+				<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule"> Hier</a> gehts zum Download.
+                        </li>
+                    </ul>
+                </div>
 				<p>Hier können Sie das Programm als PDF downloaden.</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
