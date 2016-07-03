@@ -23,15 +23,18 @@
                 <div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/0">Tag 1 – Montag, 04.07.2016</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/0">OSM Sonntag, 03.07.2016</a>
+                        </li>                    	
+                        <li>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/1">Montag, 04.07.2016</a>
                         </li>
 
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/1">Tag 2 – Dienstag, 05.07.2016</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/2">Dienstag, 05.07.2016</a>
                         </li>
 
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/2">Tag 3 – Mittwoch, 06.07.2016</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/3">Mittwoch, 06.07.2016</a>
                         </li>
                     </ul>
                 </div>
