@@ -58,7 +58,7 @@
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="https://streaming.media.ccc.de/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
+                            <a href="https://streaming.media.ccc.de/fossgis16/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
                         </li>
                     </ul>
                 </div>
