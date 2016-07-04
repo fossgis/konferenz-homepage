@@ -31,6 +31,7 @@ echo "  <div id=\"content\">\n";
 include('nav.inc');
 echo "  </div>\n</div>\n";
 
+echo "<div id=\"videoaufzeichnungen\">\n";
 
 echo "<h2>Videoaufzeichnungen</h2>\n";
 
@@ -139,6 +140,7 @@ foreach ($d as $nr => $e) {
 echo "</tbody>\n";
 echo "</table>\n";
 
+echo "</div>\n";	// videoaufzeichnungen
 
 html_footer();
 
