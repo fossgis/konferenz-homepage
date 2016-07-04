@@ -38,15 +38,15 @@
                         </li>
                     </ul>
                 </div>
-				<p>Die FOSSGIS-Konferenz per Android-APP.</p>
+				<p>Die FOSSGIS-Konferenz per Android-APP:</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule"> Hier</a> gehts zum Download.
+                            <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">Download der Android-App</a>.
                         </li>
                     </ul>
                 </div>
-				<p>Hier können Sie das Programm als PDF downloaden.</p>
+				<p>Hier können Sie das Programm als PDF downloaden:</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
@@ -54,11 +54,19 @@
                         </li>
                     </ul>
                 </div>
-				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen.</p>
+				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="http://streaming.media.ccc.de/fossgis16/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
+                            <a href="http://streaming.media.ccc.de/fossgis16/">Livestream der FOSSGIS-Konferenz</a>.
+                        </li>
+                    </ul>
+                </div>
+				<p>Die Vorträge der FOSSGIS-Konferenz werden auch aufgezeichnet, eine Übersicht finden Sie hier:</p>
+				<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="/2016/videos/">Liste der Videoaufzeichnungen</a>.
                         </li>
                     </ul>
                 </div>

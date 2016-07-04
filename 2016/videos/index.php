@@ -31,6 +31,7 @@ echo "  <div id=\"content\">\n";
 include('nav.inc');
 echo "  </div>\n</div>\n";
 
+echo "<div id=\"videoaufzeichnungen\">\n";
 
 echo "<h2>Videoaufzeichnungen</h2>\n";
 
@@ -40,6 +41,10 @@ if ($debug) {
     echo count($ytarr)." YT-Links gefunden. ";
     echo count($dir)." Videos gefunden. ";
     echo count($speakers)." Vortragende (mit Bild) gefunden. ";
+} else {
+    if ((count($ytarr)==0) && (count($dir)==0)) {
+	echo "<p>Es sind noch keine Videoaufzeichnungen verfügbar.</p>\n";
+    }
 }
 // DEBUG!!
 //$ytarr[5096]="TEST1";
@@ -139,6 +144,7 @@ foreach ($d as $nr => $e) {
 echo "</tbody>\n";
 echo "</table>\n";
 
+echo "</div>\n";	// videoaufzeichnungen
 
 html_footer();
 

@@ -4,6 +4,12 @@
 /* al 28.6.16 angepasst an screen.css von FOSSGIS Konf                 */
 /*---------------------------------------------------------------------*/
 
+div#videoaufzeichnungen {
+    width: 99%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
 /*---------------------------------------------------------------------*/
 /* Tabellen                                                            */
 
