@@ -82,13 +82,13 @@ function utf8_cutpad($str, $len) {
 
 function html_header() {
     echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n</head>\n\n";
-    echo "<body>\n";
+    echo "<body id=\"videos\">\n";
     return;
 } // header()
 
 function html_header_css() {
     echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../css/screen.css\" type=\"text/css\" rel=\"stylesheet\" media=\"screen\">\n  <link href=\"../css/video.css\" type=\"text/css\" rel=\"stylesheet\" >\n</head>\n\n";
-    echo "<body>\n";
+    echo "<body id=\"videos\">\n";
     return;
 } // header()
 

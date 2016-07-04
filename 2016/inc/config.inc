@@ -9,6 +9,7 @@ define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/");
 //define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2015/");		// FOSSGIS letztes Jahr
 define("FRAB_EVENT_URL", "http://frab.fossgis-konferenz.de/de/2016/public/events/");
 define("FRAB_PERSON_URL","http://frab.fossgis-konferenz.de/de/2016/public/speakers/");
+define("LOGO_PATH","http://fossgis-konferenz.de/2016/img/Fossgis16-logo.png");
 
 define("ID_LEN", 6);
 define("TIT_LEN", 60);

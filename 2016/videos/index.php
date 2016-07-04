@@ -25,15 +25,27 @@ $a=json_decode($json, TRUE);
 if (is_null($a)) die("CONF_URL ".CONF_URL." konnte nicht als JSON interpretiert werden.\n");
 
 html_header_css();
-echo "<p>";
-echo count($ytarr)." YT-Links gefunden. ";
+echo "<div id=\"wrap\">\n";
+include('head.inc');
+echo "  <div id=\"content\">\n";
+include('nav.inc');
+echo "  </div>\n</div>\n";
+
+
+echo "<h2>Videoaufzeichnungen</h2>\n";
+
+$debug=preg_match("/debug/i", $_SERVER["QUERY_STRING"]);
+if ($debug) {
+    echo "<p>";
+    echo count($ytarr)." YT-Links gefunden. ";
+    echo count($dir)." Videos gefunden. ";
+    echo count($speakers)." Vortragende (mit Bild) gefunden. ";
+}
 // DEBUG!!
-//$ytarr[5070]=$ytarr[7582];
-//$ytarr[5096]=$ytarr[7595];
 //$ytarr[5096]="TEST1";
 //$ytarr[5041]="TEST2";
-echo count($dir)." Videos gefunden. ";
-echo count($speakers)." Vortragende (mit Bild) gefunden. ";
+//$ytarr[5070]=$ytarr[7582];
+//$ytarr[5096]=$ytarr[7595];
 
 // $ytarr sind die YT-IDs (Key ist die ID des Vortrags)
 // $a ist die schedule
@@ -51,15 +63,17 @@ $c=$b["conference"];
 $daycount=$c["daysCount"];
 $d=$c["days"];
 
-if (count($d)==$daycount) echo $daycount." Tage gefunden.\n";
-else echo "Tage: SOLL=".$daycount.", IST=".count($d)."\n";
-echo "</p>\n";
+if ($debug) {
+    if (count($d)==$daycount) echo $daycount." Tage gefunden.\n";
+    else echo "Tage: SOLL=".$daycount.", IST=".count($d)."\n";
+    echo "</p>\n";
+}
 
 echo "<table class=\"video\">\n";
 echo "<thead>\n <tr class=\"header\">\n";
 echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th colspan=\"2\">Vortragende(r)</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
 echo " </tr>\n</thead>\n";
-echo "<tfoot>\n <tr class=\"subheader\" style=\"height:6px;\"><td colspan=\"7\"></td></tr>\n</tfoot>\n";
+echo "<tfoot>\n <tr style=\"background-color:#eb7f00; height:15px;\"><td colspan=\"7\"></td></tr>\n</tfoot>\n";
 echo "<tbody>\n";
 $i=0;
 foreach ($d as $nr => $e) {
