@@ -43,11 +43,19 @@
                         </li>
                     </ul>
                 </div>
-				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen.</p>
-				<div style="margin: 5px 85px 7px 160px">
+		<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
+		<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="http://streaming.fossgis.de/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
+                            <a href="http://streaming.fossgis.de/">Livestream der FOSSGIS-Konferenz</a>.
+                        </li>
+                    </ul>
+                </div>
+		<p>Die Vorträge der FOSSGIS-Konferenz werden auch aufgezeichnet, eine Übersicht finden Sie hier:</p>
+		<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="/2016/videos/">Liste der Videoaufzeichnungen</a>.
                         </li>
                     </ul>
                 </div>
