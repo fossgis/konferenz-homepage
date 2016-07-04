@@ -43,7 +43,7 @@ if ($debug) {
     echo count($speakers)." Vortragende (mit Bild) gefunden. ";
 } else {
     if ((count($ytarr)==0) && (count($dir)==0)) {
-	echo "<p>Es sind noch keine Videoaufzeichnungen verfügbar.</p>\n";
+	echo "<p>Es sind noch keine Videoaufzeichnungen verfÃ¼gbar.</p>\n";
     }
 }
 // DEBUG!!
@@ -60,7 +60,7 @@ if ($debug) {
 // $e ist der einzelne Tag ($nr der Tageszaehler, 0-based)
 // $r sind die rooms pro Tag ($raum der Raumzaehler pro Tag)
 // $f sind die Vortraege pro Raum
-// $v ist der einzelne Vortrag ($vnr als Zähler)
+// $v ist der einzelne Vortrag ($vnr als ZÃ¤hler)
 // $v["persons"] sind die Personen
 // $p die einzelne Person "public_name" ($pnr als Personenzaehler)
 $b=current($a);
@@ -139,7 +139,7 @@ foreach ($d as $nr => $e) {
 	    echo "  <td class=\"center\"><a href=\"".FRAB_EVENT_URL.$id."\" title=\"Vortragsinfos auf der Konferenz Webseite\">".$id."</a>\n";
 	    echo " </tr>\n";	// Vortragszeile fertig
 	} // Vortraege
-    } // Räume
+    } // RÃ¤ume
 } // Tage
 echo "</tbody>\n";
 echo "</table>\n";
