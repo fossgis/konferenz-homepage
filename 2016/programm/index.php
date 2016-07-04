@@ -23,15 +23,26 @@
                 <div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/0">Tag 1 – Montag, 04.07.2016</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/0">OSM Sonntag, 03.07.2016</a>
+                        </li>                    	
+                        <li>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/1">Montag, 04.07.2016</a>
                         </li>
 
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/1">Tag 2 – Dienstag, 05.07.2016</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/2">Dienstag, 05.07.2016</a>
                         </li>
 
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/2">Tag 3 – Mittwoch, 06.07.2016</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/3">Mittwoch, 06.07.2016</a>
+                        </li>
+                    </ul>
+                </div>
+				<p>Die FOSSGIS-Konferenz per Android-APP.</p>
+				<div style="margin: 5px 85px 7px 160px">
+                    <ul>
+                        <li>
+                            <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule"> Hier</a> gehts zum Download.
                         </li>
                     </ul>
                 </div>
@@ -47,7 +58,7 @@
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="http://streaming.fossgis.de/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
+                            <a href="http://streaming.media.ccc.de/fossgis16/"> Hier</a> gelangen Sie zum Livestream der FOSSGIS-Konferenz.
                         </li>
                     </ul>
                 </div>
