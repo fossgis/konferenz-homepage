@@ -38,8 +38,8 @@ echo "<h2>Videoaufzeichnungen</h2>\n";
 $debug=preg_match("/debug/i", $_SERVER["QUERY_STRING"]);
 if ($debug) {
     echo "<p>";
-    echo count($ytarr)." YT-Links gefunden. ";
-    echo count($dir)." Videos gefunden. ";
+    echo "<a href=\"".YT_PLAYLIST."\" title=\"Playlist\">".count($ytarr)." YT-Links</a> gefunden. ";
+    echo "<a href=\"".VID_URL."\" title=\"Video Directory\">".count($dir)." Videos</a> gefunden. ";
     echo count($speakers)." Vortragende (mit Bild) gefunden. ";
 } else {
     if ((count($ytarr)==0) && (count($dir)==0)) {
