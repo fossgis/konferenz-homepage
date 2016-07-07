@@ -19,7 +19,7 @@ if ($html===FALSE) {
 	    $file["name"]=$matches[1];
 	    $file["date"]=$matches[3];
 	    $file["size"]=$matches[4];
-	    if (!preg_match("/(FOSSGIS".JAHR."[\-_]|".JAHR.")?(.+)\.([\w\d]+)$/i", $file["name"], $matches)) die("Fehler beim Parsen von ".$file["name"]);
+	    if (!preg_match("/(FOSSGIS".JAHR."[\-_]|".JAHR."[\-_])?(.+)\.([\w\d]+)$/i", $file["name"], $matches)) die("Fehler beim Parsen von ".$file["name"]);
 	    $id=(int)($matches[2]);
 	    $type=strtolower($matches[3]);
 	    if (empty($type)) die("Fehler beim Parsen des Filetyps von ".$file["name"]);
