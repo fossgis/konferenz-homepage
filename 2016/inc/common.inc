@@ -82,14 +82,14 @@ function utf8_cutpad($str, $len) {
 } // utf8_cutpad()
 
 function html_header() {
-    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\"></link>\n</head>\n\n";
-    echo "<body>\n";
+    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n</head>\n\n";
+    echo "<body id=\"videos\">\n";
     return;
 } // header()
 
 function html_header_css() {
-    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../css/screen.css\" type=\"text/css\" rel=\"stylesheet\" media=\"screen\">\n  <link href=\"../css/video.css\" type=\"text/css\" rel=\"stylesheet\" >\n  <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\"></link>\n</head>\n\n";
-    echo "<body>\n";
+    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../css/screen.css\" type=\"text/css\" rel=\"stylesheet\" media=\"screen\">\n  <link href=\"../css/video.css\" type=\"text/css\" rel=\"stylesheet\" >\n</head>\n\n";
+    echo "<body id=\"videos\">\n";
     return;
 } // header()
 
