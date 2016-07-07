@@ -9,6 +9,7 @@ $html = file_get_contents(VID_URL);
 if ($html===FALSE) {
     $dir=array();
 } else {
+    //echo "<pre>";
     $arr=explode("\n", $html);
     foreach ($arr as $zeile) {
 	if (preg_match("|^\<img src=\"/icons.*\>\s+\<a href=\"(.*)\"\>(.*)\</a\>\s+([\d\w\-]+ [\d\w:]+)\s+([\d\w]+)(\s*)$|i", $zeile, $matches)) {
@@ -18,17 +19,27 @@ if ($html===FALSE) {
 	    $file["name"]=$matches[1];
 	    $file["date"]=$matches[3];
 	    $file["size"]=$matches[4];
-	    if (!preg_match("/(.+)\.([\w\d]+)$/i", $file["name"], $matches)) die("Fehler beim Parsen von ".$file["name"]);
-	    $id=(int)($matches[1]);
-	    $type=strtolower($matches[2]);
+	    if (!preg_match("/(FOSSGIS".JAHR."[\-_]|".JAHR.")?(.+)\.([\w\d]+)$/i", $file["name"], $matches)) die("Fehler beim Parsen von ".$file["name"]);
+	    $id=(int)($matches[2]);
+	    $type=strtolower($matches[3]);
+	    $temp=$matches[2];
+	    //echo $matches[1]."|".$matches[2]."|".$matches[3].$matches[4]."|".$id."|".$type."|";
+	    if (preg_match("/.*(\-hd|\-sd)$/i", $temp, $matches)) {
+		$qual=substr($matches[1],1);
+	    } else {
+		$qual="";
+	    }
 	    if (empty($type)) die("Fehler beim Parsen des Filetyps von ".$file["name"]);
-	    //echo $matches[1]."|".$id."|";
+	    //echo $file["name"]."|".$id."|".$qual."|".$type."|";
 	    //echo "\n";
-	    $dir[$id][$type]=$file;
+	    $dir[$id][$type][$qual]=$file;
 	}
     }
+    //echo "<hr>\n";
+    //var_dump($dir);
+    //echo "\n</pre>\n";
 }
-unset($zeile, $matches, $arr, $html, $file, $id, $type);
+unset($zeile, $matches, $arr, $html, $file, $id, $type, $temp);
 
 
 ?>

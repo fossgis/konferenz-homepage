@@ -19,10 +19,11 @@ mp3_link($fnam) -> (string) Link
 ogg_link($fnam) -> (string) Link
 */
 
-define("YT_ICON",  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/24px-18x14_Video_Clic_Player.svg.png");
-define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Video-icon.svg/24px-Video-icon.svg.png");
-define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/WebM_logo.svg/36px-WebM_logo.svg.png");
-define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/36px-MP3_logo.png");
+define("YT_ICON",  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png");
+define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Video-icon.svg/20px-Video-icon.svg.png");
+define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/WebM_logo.svg/24px-WebM_logo.svg.png");
+define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png");
+define("OPUS_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png");
 define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ogg_Logo.png");
 
 
@@ -81,14 +82,14 @@ function utf8_cutpad($str, $len) {
 } // utf8_cutpad()
 
 function html_header() {
-    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n</head>\n\n";
-    echo "<body id=\"videos\">\n";
+    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\"></link>\n</head>\n\n";
+    echo "<body>\n";
     return;
 } // header()
 
 function html_header_css() {
-    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../css/screen.css\" type=\"text/css\" rel=\"stylesheet\" media=\"screen\">\n  <link href=\"../css/video.css\" type=\"text/css\" rel=\"stylesheet\" >\n</head>\n\n";
-    echo "<body id=\"videos\">\n";
+    echo "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <title>Videoaufzeichnungen</title>\n  <link href=\"../css/screen.css\" type=\"text/css\" rel=\"stylesheet\" media=\"screen\">\n  <link href=\"../css/video.css\" type=\"text/css\" rel=\"stylesheet\" >\n  <link href=\"../favicon.ico\" rel=\"icon\" type=\"image/x-icon\"></link>\n</head>\n\n";
+    echo "<body>\n";
     return;
 } // header()
 
@@ -102,11 +103,13 @@ function youtube_link($ytid) {
     return "<a href=\"https://www.youtube.com/watch?v=".$ytid."\" title=\"YouTube Video\"><img src=\"".YT_ICON."\" alt=\"YouTube Play Button\"></a>";
 }
 
-function mp4_link($fnam) {
+function mp4_link($fnam, $qual="") {
+    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
     return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
 }
 
-function webm_link($fnam) {
+function webm_link($fnam, $qual="") {
+    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\"></a>";
     return "<a href=\"".VID_URL.$fnam."\" title=\"Webm Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\"></a>";
 }
 
@@ -115,7 +118,11 @@ function mp3_link($fnam) {
 }
 
 function ogg_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Ogg Audio\"><img src=\"".OGG_ICON."\" alt=\"Ogg Logo\" width=\"24\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Ogg Audio\"><img src=\"".OGG_ICON."\" alt=\"Ogg Logo\" width=\"20\"></a>";
+}
+
+function opus_link($fnam) {
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Opus Audio\"><img src=\"".OPUS_ICON."\" alt=\"Opus Logo\"></a>";
 }
 
 

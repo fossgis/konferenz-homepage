@@ -76,7 +76,7 @@ if ($debug) {
 
 echo "<table class=\"video\">\n";
 echo "<thead>\n <tr class=\"header\">\n";
-echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th colspan=\"2\">Vortragende(r)</th><th>Titel</th><th style=\"width:170px;\">Video/Audio</th><th>ID</th>\n";
+echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th colspan=\"2\">Vortragende(r)</th><th>Titel</th><th style=\"width:180px;\">Video/Audio</th><th>ID</th>\n";
 echo " </tr>\n</thead>\n";
 echo "<tfoot>\n <tr style=\"background-color:#eb7f00; height:15px;\"><td colspan=\"7\"></td></tr>\n</tfoot>\n";
 echo "<tbody>\n";
@@ -130,10 +130,12 @@ foreach ($d as $nr => $e) {
 	    //if ($id==5096) $id=779;
 	    if (array_key_exists($id, $dir)) {
 		$files=$dir[$id];
-		if (!empty($files["mp4"])) echo mp4_link($files["mp4"]["name"])." ";
-		if (!empty($files["webm"])) echo webm_link($files["webm"]["name"])." ";
-		if (!empty($files["mp3"])) echo mp3_link($files["mp3"]["name"])." ";
-		if (!empty($files["ogg"])) echo ogg_link($files["ogg"]["name"])." ";
+		if (!empty($files["mp4"]["hd"])) echo mp4_link($files["mp4"]["hd"]["name"], "HD")." ";
+		if (!empty($files["mp4"]["sd"])) echo mp4_link($files["mp4"]["sd"]["name"], "SD")." ";
+		if (!empty($files["webm"]["hd"])) echo webm_link($files["webm"]["hd"]["name"], "HD")." ";
+		if (!empty($files["webm"]["sd"])) echo webm_link($files["webm"]["sd"]["name"], "SD")." ";
+		if (!empty($files["mp3"][""])) echo mp3_link($files["mp3"][""]["name"])." ";
+		if (!empty($files["ogg"][""])) echo ogg_link($files["ogg"][""]["name"])." ";
 	    }
 	    echo "</td>\n";
 	    echo "  <td class=\"center\"><a href=\"".FRAB_EVENT_URL.$id."\" title=\"Vortragsinfos auf der Konferenz Webseite\">".$id."</a>\n";

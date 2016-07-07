@@ -1,5 +1,6 @@
 <?php
 
+define("JAHR","2016");
 define("BASIS_URL","http://frab.fossgis-konferenz.de");
 define("CONF_URL","http://frab.fossgis-konferenz.de/de/2016/public/schedule.json");
 define("JSON_SPEAKERS","http://frab.fossgis-konferenz.de/de/2016/public/speakers.json");
