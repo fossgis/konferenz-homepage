@@ -22,6 +22,7 @@ if ($html===FALSE) {
 	    if (!preg_match("/(FOSSGIS".JAHR."[\-_]|".JAHR.")?(.+)\.([\w\d]+)$/i", $file["name"], $matches)) die("Fehler beim Parsen von ".$file["name"]);
 	    $id=(int)($matches[2]);
 	    $type=strtolower($matches[3]);
+	    if (empty($type)) die("Fehler beim Parsen des Filetyps von ".$file["name"]);
 	    $temp=$matches[2];
 	    //echo $matches[1]."|".$matches[2]."|".$matches[3].$matches[4]."|".$id."|".$type."|";
 	    if ((($type=="mp4") || ($type=="webm")) && preg_match("/.*(\-hd|\-sd)$/i", $temp, $matches)) {
@@ -29,7 +30,6 @@ if ($html===FALSE) {
 	    } else {
 		$qual="";
 	    }
-	    if (empty($type)) die("Fehler beim Parsen des Filetyps von ".$file["name"]);
 	    //echo $file["name"]."|".$id."|".$qual."|".$type."|";
 	    //echo "\n";
 	    $dir[$id][$type][$qual]=$file;
