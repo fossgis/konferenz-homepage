@@ -24,7 +24,7 @@ if ($html===FALSE) {
 	    $type=strtolower($matches[3]);
 	    $temp=$matches[2];
 	    //echo $matches[1]."|".$matches[2]."|".$matches[3].$matches[4]."|".$id."|".$type."|";
-	    if (preg_match("/.*(\-hd|\-sd)$/i", $temp, $matches)) {
+	    if ((($type=="mp4") && ($type=="webm")) && preg_match("/.*(\-hd|\-sd)$/i", $temp, $matches)) {
 		$qual=substr($matches[1],1);
 	    } else {
 		$qual="";
