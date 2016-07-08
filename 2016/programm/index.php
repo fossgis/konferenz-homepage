@@ -54,6 +54,7 @@
                         </li>
                     </ul>
                 </div>
+<?php /*
 				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
@@ -62,7 +63,8 @@
                         </li>
                     </ul>
                 </div>
-				<p>Die Vorträge der FOSSGIS-Konferenz werden auch aufgezeichnet, eine Übersicht finden Sie hier:</p>
+*/ ?>
+				<p>Die Vorträge der FOSSGIS-Konferenz wurden aufgezeichnet, eine Übersicht finden Sie hier:</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
