@@ -21,7 +21,7 @@ ogg_link($fnam) -> (string) Link
 
 define("YT_ICON",  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png");
 define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Video-icon.svg/20px-Video-icon.svg.png");
-define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/WebM_logo.svg/24px-WebM_logo.svg.png");
+define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WebM-Logo.png/24px-WebM-Logo.png");
 define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png");
 define("OPUS_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png");
 define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ogg_Logo.png");
