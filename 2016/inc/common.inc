@@ -21,6 +21,8 @@ ogg_link($fnam) -> (string) Link
 
 define("YT_ICON",  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png");
 define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Video-icon.svg/20px-Video-icon.svg.png");
+define("MP4_HD_ICON", "../img/mp4_hd.png");
+define("MP4_SD_ICON", "../img/mp4_sd.png");
 define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WebM-Logo.png/24px-WebM-Logo.png");
 define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png");
 define("OPUS_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png");
@@ -104,7 +106,9 @@ function youtube_link($ytid) {
 }
 
 function mp4_link($fnam, $qual="") {
-    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
+    if ($qual=="HD") return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_HD_ICON."\" alt=\"MP4 HD Icon\"></a>";
+    elseif ($qual=="SD") return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_SD_ICON."\" alt=\"MP4 SD Icon\"></a>";
+    elseif (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
     return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
 }
 
