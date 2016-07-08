@@ -24,7 +24,7 @@ define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vi
 define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WebM-Logo.png/24px-WebM-Logo.png");
 define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png");
 define("OPUS_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png");
-define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ogg_Logo.png");
+define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ogg_Logo.png/20px-Ogg_Logo.png");
 
 
 function wochentag($date) {
@@ -100,7 +100,7 @@ function html_footer() {
 
 
 function youtube_link($ytid) {
-    return "<a href=\"https://www.youtube.com/watch?v=".$ytid."\" title=\"YouTube Video\"><img src=\"".YT_ICON."\" alt=\"YouTube Play Button\"></a>";
+    return "<a href=\"https://www.youtube.com/watch?v=".$ytid."\" title=\"YouTube Video\"><img src=\"".YT_ICON."\" alt=\"YouTube Play Button\" style=\"margin-bottom:2px;\"></a>";
 }
 
 function mp4_link($fnam, $qual="") {
@@ -109,20 +109,20 @@ function mp4_link($fnam, $qual="") {
 }
 
 function webm_link($fnam, $qual="") {
-    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\"></a>";
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Webm Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\"></a>";
+    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Webm Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
 }
 
 function mp3_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"MP3 Audio\"><img src=\"".MP3_ICON."\" alt=\"MP3 Logo\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"MP3 Audio\"><img src=\"".MP3_ICON."\" alt=\"MP3 Logo\" style=\"margin-bottom:5px;\"></a>";
 }
 
 function ogg_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Ogg Audio\"><img src=\"".OGG_ICON."\" alt=\"Ogg Logo\" width=\"20\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Ogg Audio\"><img src=\"".OGG_ICON."\" alt=\"Ogg Logo\" style=\"margin-bottom:3px;\"></a>";
 }
 
 function opus_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Opus Audio\"><img src=\"".OPUS_ICON."\" alt=\"Opus Logo\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Opus Audio\"><img src=\"".OPUS_ICON."\" alt=\"Opus Logo\" style=\"margin-bottom:3px;\"></a>";
 }
 
 
