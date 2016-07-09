@@ -106,14 +106,16 @@ function youtube_link($ytid) {
 }
 
 function mp4_link($fnam, $qual="") {
-    if ($qual=="HD") return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_HD_ICON."\" alt=\"MP4 HD Icon\"></a>";
-    elseif ($qual=="SD") return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_SD_ICON."\" alt=\"MP4 SD Icon\"></a>";
+    if (preg_match("/hd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 HD Video\"><img src=\"".MP4_HD_ICON."\" alt=\"MP4 HD Icon\"></a>";
+    elseif (preg_match("/sd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 SD Video\"><img src=\"".MP4_SD_ICON."\" alt=\"MP4 SD Icon\"></a>";
     elseif (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
     return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
 }
 
 function webm_link($fnam, $qual="") {
-    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
+    if (preg_match("/hd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm HD Video\"><img src=\"".WEBM_HD_ICON."\" alt=\"Webm HD Icon\"></a>";
+    elseif (preg_match("/sd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm SD Video\"><img src=\"".WEBM_SD_ICON."\" alt=\"Webm SD Icon\"></a>";
+    elseif (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
     return "<a href=\"".VID_URL.$fnam."\" title=\"Webm Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
 }
 
