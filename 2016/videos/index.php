@@ -135,6 +135,7 @@ foreach ($d as $nr => $e) {
 		if (!empty($files["webm"]["hd"])) echo webm_link($files["webm"]["hd"]["name"], "HD")." ";
 		if (!empty($files["webm"]["sd"])) echo webm_link($files["webm"]["sd"]["name"], "SD")." ";
 		if (!empty($files["mp3"][""])) echo mp3_link($files["mp3"][""]["name"])." ";
+		if (!empty($files["opus"][""])) echo opus_link($files["opus"][""]["name"])." ";
 		if (!empty($files["ogg"][""])) echo ogg_link($files["ogg"][""]["name"])." ";
 	    }
 	    echo "</td>\n";

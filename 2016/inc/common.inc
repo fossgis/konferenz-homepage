@@ -21,10 +21,12 @@ ogg_link($fnam) -> (string) Link
 
 define("YT_ICON",  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png");
 define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Video-icon.svg/20px-Video-icon.svg.png");
-define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/WebM_logo.svg/24px-WebM_logo.svg.png");
+define("MP4_HD_ICON", "../img/mp4_hd.png");
+define("MP4_SD_ICON", "../img/mp4_sd.png");
+define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WebM-Logo.png/24px-WebM-Logo.png");
 define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png");
 define("OPUS_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png");
-define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ogg_Logo.png");
+define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ogg_Logo.png/20px-Ogg_Logo.png");
 
 
 function wochentag($date) {
@@ -100,29 +102,33 @@ function html_footer() {
 
 
 function youtube_link($ytid) {
-    return "<a href=\"https://www.youtube.com/watch?v=".$ytid."\" title=\"YouTube Video\"><img src=\"".YT_ICON."\" alt=\"YouTube Play Button\"></a>";
+    return "<a href=\"https://www.youtube.com/watch?v=".$ytid."\" title=\"YouTube Video\"><img src=\"".YT_ICON."\" alt=\"YouTube Play Button\" style=\"margin-bottom:2px;\"></a>";
 }
 
 function mp4_link($fnam, $qual="") {
-    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
+    if (preg_match("/hd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 HD Video\"><img src=\"".MP4_HD_ICON."\" alt=\"MP4 HD Icon\"></a>";
+    elseif (preg_match("/sd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 SD Video\"><img src=\"".MP4_SD_ICON."\" alt=\"MP4 SD Icon\"></a>";
+    elseif (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 ".$qual." Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
     return "<a href=\"".VID_URL.$fnam."\" title=\"MP4 Video\"><img src=\"".MP4_ICON."\" alt=\"MP4 Icon\"></a>";
 }
 
 function webm_link($fnam, $qual="") {
-    if (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\"></a>";
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Webm Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\"></a>";
+    if (preg_match("/hd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm HD Video\"><img src=\"".WEBM_HD_ICON."\" alt=\"Webm HD Icon\"></a>";
+    elseif (preg_match("/sd/i",$qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm SD Video\"><img src=\"".WEBM_SD_ICON."\" alt=\"Webm SD Icon\"></a>";
+    elseif (!empty($qual)) return "<a href=\"".VID_URL.$fnam."\" title=\"Webm ".$qual." Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Webm Video\"><img src=\"".WEBM_ICON."\" alt=\"Webm Logo\" style=\"margin-bottom:-2px;\"></a>";
 }
 
 function mp3_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"MP3 Audio\"><img src=\"".MP3_ICON."\" alt=\"MP3 Logo\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"MP3 Audio\"><img src=\"".MP3_ICON."\" alt=\"MP3 Logo\" style=\"margin-bottom:5px;\"></a>";
 }
 
 function ogg_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Ogg Audio\"><img src=\"".OGG_ICON."\" alt=\"Ogg Logo\" width=\"20\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Ogg Audio\"><img src=\"".OGG_ICON."\" alt=\"Ogg Logo\" style=\"margin-bottom:3px;\"></a>";
 }
 
 function opus_link($fnam) {
-    return "<a href=\"".VID_URL.$fnam."\" title=\"Opus Audio\"><img src=\"".OPUS_ICON."\" alt=\"Opus Logo\"></a>";
+    return "<a href=\"".VID_URL.$fnam."\" title=\"Opus Audio\"><img src=\"".OPUS_ICON."\" alt=\"Opus Logo\" style=\"margin-bottom:3px;\"></a>";
 }
 
 
