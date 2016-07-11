@@ -41,7 +41,7 @@
             <h3>An welchen Orten wird die Konferenz ausgetragen?</h3>
             <p>Typischerweise wird die Konferenz an Hochschulen oder Bildungseinrichtungen durchgeführt.</p>
 
-            <p>In den letzten Jahren war die Konferenz zu Gast an der Beuth Hochschule für Technik in Berlin (2014) und an der Westfälische Wilhelms-Universität in Münster (2015). Die nächste Konferenz findet im Jahr 2016 an der Universität Salzburg statt.</p>
+            <p>In den letzten Jahren war die Konferenz zu Gast an der Beuth Hochschule für Technik in Berlin (2014) und an der Westfälische Wilhelms-Universität in Münster (2015). Die letzte Konferenz fand im Jahr 2016 an der Universität Salzburg statt.</p>
 
             <h3>Wie finanziert sich die Konferenz?</h3>
 
