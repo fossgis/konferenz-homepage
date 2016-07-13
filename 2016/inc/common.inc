@@ -24,6 +24,8 @@ define("MP4_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vi
 define("MP4_HD_ICON", "../img/mp4_hd.png");
 define("MP4_SD_ICON", "../img/mp4_sd.png");
 define("WEBM_ICON","https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/WebM-Logo.png/24px-WebM-Logo.png");
+define("WEBM_HD_ICON","../img/webm_hd.png");
+define("WEBM_SD_ICON","../img/webm_sd.png");
 define("MP3_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png");
 define("OPUS_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png");
 define("OGG_ICON", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ogg_Logo.png/20px-Ogg_Logo.png");
