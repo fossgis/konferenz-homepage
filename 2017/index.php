@@ -17,6 +17,8 @@
                 <?php include('inc/nav.inc'); ?>
 
                 <figure>
+                    <img src="img/passau.jpeg" width="880" height="241" alt="Passau">
+                    <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
                 </figure>
 
                 <h2>Willkommen zur FOSSGIS-Konferenz 2017</h2>
