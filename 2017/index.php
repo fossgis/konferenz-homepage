@@ -11,6 +11,7 @@
     </head>
     <body id="home">
         <div id="wrap">
+            <?php include('inc/head.inc'); ?>
 
             <div id="content">
                 <?php include('inc/nav.inc'); ?>
