@@ -25,9 +25,9 @@
                 <p>Die FOSSGIS-Konferenz 2017 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit der <a href="http://www.uni-passau.de/">Universität Passau</a>.</p>
 
                 <div class="organisers">
-                    <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/fossgis.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/osgeo.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm.png" valign="middle"></a></div>
                 </div>
                 <p class="clear"></p>
                 <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
