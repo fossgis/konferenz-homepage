@@ -7,7 +7,7 @@
 
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
     </head>
-    <body id="home">
+    <body id="call">
         <div id="wrap">
             <?php include('../inc/head.inc'); ?>
 
