@@ -26,14 +26,14 @@
 
                 <dl>
                 <dt>Wer wir sind:</dt>
-                <dd>Veranstaltet wird die Konferenz vom <a href="http://fossgis.de">FOSSGIS e.V.</a>, der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> in Zusammenarbeit mit der <a href="http://www.uni-passau.de/">Universität Passau</a>.</dd>
+                <dd>Veranstaltet wird die Konferenz vom <a href="http://fossgis.de">FOSSGIS e.V.</a> und der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> in Zusammenarbeit mit der <a href="http://www.uni-passau.de/">Universität Passau</a>.</dd>
 
                 <dt>Wir bieten:</dt>
-                <dd>Eine Plattform für Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht auf der größten deutschsprachigen Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im Jahr 2017 findet die FOSSGIS vom 22. bis 25. März an der Universität Passau statt. Der Call for Papers ist bis zum 06. Januar 2017 geöffnet.
+                <dd>Eine Plattform für Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht auf der größten deutschsprachigen Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im Jahr 2017 findet die FOSSGIS vom 22. bis 25. März an der Universität Passau statt. Der Call for Papers läuft bis zum <strong>06. Januar 2017</strong>.
                 </dd>
 
                 <dt>Wir suchen:</dt>
-                <dd>Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht, Ihr Thema. Genauer gesagt, suchen wir Vorträge für Einsteiger und Fortgeschrittene, die spannende Themen behandeln und anregende Diskussionen auslösen. Vorträge zum Thema freie Geodaten, zum Beispiel OpenStreetMap, Open Data oder Open Science sind ebenso möglich wie Beiträge zu Softwarelösungen aus dem Bereich WebGIS, Desktop GIS, Geodatenbanken oder Location-Based Services.
+                <dd>Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht, Ihr Thema. Genauer gesagt, suchen wir Vorträge für Einsteiger und Fortgeschrittene, die spannende Themen behandeln und anregende Diskussionen auslösen. Vorträge zum Thema freie Geodaten, zum Beispiel OpenStreetMap, Open Data oder Open Science sind ebenso möglich wie Beiträge zu freier Softwarelösungen aus dem Bereich WebGIS, Desktop GIS, Geodatenbanken oder Location-Based Services.
 
                 Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem <strong>Vortrag</strong>, <strong>Lightning Talk</strong> oder <strong>Workshop</strong>.
                 </dd>
@@ -44,20 +44,21 @@
                 <p>Die FOSSGIS-Konferenz ermöglicht drei verschiedene Vortragsformate:</p>
                 <dl>
                     <dd>
-                <strong>Vortrag:</strong> 20 minütiger Vortrag z.B. Erfahrungsberichte oder neue Entwicklungen, anschließend 5 Minuten Zeit für Diskussionen und Fragen;
+                <strong>Vortrag:</strong> 20-minütiger Vortrag z.B. Erfahrungsberichte oder neue Entwicklungen, anschließend 5 Minuten Zeit für Diskussionen und Fragen;
                     </dd>
                     <dd>
                         <strong>Lightning Talk:</strong> Kurze, knackige Auseinandersetzung mit einem Thema, welches in 5 Minuten, gern humorvoll, Anregung zur Diskussion bietet;
                     </dd>
 
-                    <dd><strong>Workshop:</strong> Ein Workshop, für den 90 Minuten vorgesehen sind, soll den Teilnehmern ein Mix aus Theorie und Praxis vermitteln. Ein Workshop findet ab einer Teilnehmerzahl von 5 statt. Bei einer Workshop-Einreichung ist es wichtig darauf zu achten, dass erreichbare Lernziele und notwendige Vorkenntnisse der Teilnehmer beschrieben sind. Ihr Text ist für die Teilnehmer_innen ausschlaggebend für die Entscheidung den Workshop zu buchen und wird im Programm veröffentlicht.</dd>
+                    <dd><strong>Workshop:</strong> Ein Workshop, für den 90 Minuten vorgesehen sind, soll den Teilnehmern ein Mix aus Theorie und Praxis vermitteln. Ein Workshop findet ab einer Teilnehmerzahl von 5 statt. Bei einer Workshop-Einreichung ist es wichtig, darauf zu achten, dass erreichbare Lernziele und notwendige Vorkenntnisse der Teilnehmer beschrieben sind. Ihr Text ist für die Teilnehmer_innen ausschlaggebend für die Entscheidung, den Workshop zu buchen, und wird im Programm veröffentlicht.</dd>
                 </dl>
 
-                <p>Die Einreichung eines Abstracts für die FOSSGIS 2017 ist ab sofort bis zum <strong>06. Januar 2017</strong> möglich. Hierbei handelt es sich um eine Ausschlussfrist.Eine Fristverlängerung -- wie in den letzten Jahren -- wird es nicht geben.
-
+                <p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2017 ist ab sofort bis zum 06. Januar 2017 ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.
                 </p>
 
-                <p>Für alle Konferenzformate gilt, dass der Abstract ca. 1500 Zeichen umfassen sollte und dem Programmkomitee eine genaue Vorstellung über den geplanten Inhalt und von der Relevanz des Themas vermittelt. Beitragseinreichungen ohne Abstract müssen leider abgelehnt werden. Darüber hinaus bitten wir Sie, einen Kurztext mit bis zu 500 Zeichen für die Programmheftveröffentlichung zu schreiben. Bei Annahme Ihrer Einreichung wird außerdem ein Textbeitrag zu Ihrem Vortrag für die Veröffentlichung im Tagungsband erwartet. Sie erhalten dafür eine Dokumentvorlage.</p>
+                <p>Für alle Konferenzformate gilt, dass der Abstract ca. 1500 Zeichen umfassen und so dem Programmkomitee eine genaue Vorstellung über den geplanten Inhalt vermitteln soll. Beitragseinreichungen ohne Abstract müssen leider abgelehnt werden. Darüber hinaus bitten wir Sie, einen Kurztext mit bis zu 500 Zeichen für die Programmheftveröffentlichung zu schreiben.</p>
+
+                <p>Bei Annahme Ihrer Einreichung freuen wir uns außerdem über einen Textbeitrag zu Ihrem Vortrag für die Veröffentlichung im Tagungsband.</p>
 
                 <p>Über die Aufnahme Ihres eingereichten Vortrags werden Sie bis Mitte Januar 2017 durch das Programmkomitee informiert.</p>
 
