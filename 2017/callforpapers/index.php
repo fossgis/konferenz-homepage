@@ -33,11 +33,11 @@
                 </dd>
 
                 <dt>Wir suchen:</dt>
-                <dd>Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht, Ihr Thema. Genauer gesagt, suchen wir Vorträge für Einsteiger und Fortgeschrittene, die spannende Themen behandeln und anregende Diskussionen auslösen. Vorträge zum Thema freie Geodaten, zum Beispiel OpenStreetMap, Open Data oder Open Science sind ebenso möglich wie Beiträge zu freier Softwarelösungen aus dem Bereich WebGIS, Desktop GIS, Geodatenbanken oder Location-Based Services.
-
-                Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem <strong>Vortrag</strong>, <strong>Lightning Talk</strong> oder <strong>Workshop</strong>.
+                <dd>Ihre Idee, Ihr Projekt, Ihr Erfahrungsbericht, Ihr Thema. Genauer gesagt, suchen wir Vorträge für Einsteiger und Fortgeschrittene, die spannende Themen behandeln und anregende Diskussionen auslösen. Vorträge zum Thema freie Geodaten, zum Beispiel OpenStreetMap oder Open Data sind ebenso möglich wie Beiträge zu Lösungen mit freier Software aus dem Bereich WebGIS, Desktop GIS, Geodatenbanken, Location-Based Services, etc.
                 </dd>
                 </dl>
+
+                <p>Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem <strong>Vortrag</strong>, <strong>Lightning Talk</strong> oder <strong>Workshop</strong>.</p>
 
                 <p><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
@@ -53,8 +53,7 @@
                     <dd><strong>Workshop:</strong> Ein Workshop, für den 90 Minuten vorgesehen sind, soll den Teilnehmern ein Mix aus Theorie und Praxis vermitteln. Ein Workshop findet ab einer Teilnehmerzahl von 5 statt. Bei einer Workshop-Einreichung ist es wichtig, darauf zu achten, dass erreichbare Lernziele und notwendige Vorkenntnisse der Teilnehmer beschrieben sind. Ihr Text ist für die Teilnehmer_innen ausschlaggebend für die Entscheidung, den Workshop zu buchen, und wird im Programm veröffentlicht.</dd>
                 </dl>
 
-                <p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2017 ist ab sofort bis zum 06. Januar 2017 ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.
-                </p>
+                <p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2017 ist ab sofort bis zum 06. Januar 2017 ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.</p>
 
                 <p>Für alle Konferenzformate gilt, dass der Abstract ca. 1500 Zeichen umfassen und so dem Programmkomitee eine genaue Vorstellung über den geplanten Inhalt vermitteln soll. Beitragseinreichungen ohne Abstract müssen leider abgelehnt werden. Darüber hinaus bitten wir Sie, einen Kurztext mit bis zu 500 Zeichen für die Programmheftveröffentlichung zu schreiben.</p>
 
