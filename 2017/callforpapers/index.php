@@ -20,7 +20,7 @@
                 </figure>
 
                 <h2>Call for Papers</h2>
-                <p class="text-right"><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Beitrag einreichen</a></p>
+                <p class="text-right"><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
                 <p>Sie forschen, Sie entwickeln, Sie beschäftigen sich mit Open-Source-Geo-Software oder freien Geodaten? Sie haben neue Ideen in diesem Themenbereich oder sind bereits dabei, Freie Software und freie Geodaten zu nutzen oder zu entwickeln? Dann sind Sie auf unserer Konferenz — der FOSSGIS-Konferenz 2017 — genau richtig.</p>
 
@@ -39,7 +39,7 @@
                 </dd>
                 </dl>
 
-                <p><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Jetzt Beitrag einreichen</a></p>
+                <p><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
                 <p>Die FOSSGIS-Konferenz ermöglicht drei verschiedene Vortragsformate:</p>
                 <dl>
@@ -63,7 +63,7 @@
 
                 <p>Die FOSSGIS-Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2017 - wir freuen uns auf Sie!</p>
 
-                <p><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Jetzt Beitrag einreichen</a></p>
+                <p ><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
             </div>
             <?php include('../inc/footer.inc'); ?>

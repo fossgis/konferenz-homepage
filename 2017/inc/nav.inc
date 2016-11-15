@@ -2,7 +2,7 @@
     <li id="navHome">
         <a href="/2017/">Startseite</a>
     </li>
-    <li id="navCfP">
+    <li id="navCall">
         <a href="/2017/callforpapers">Call for Papers</a>
     </li>
 <!--     <li id="navAnmeldung">
