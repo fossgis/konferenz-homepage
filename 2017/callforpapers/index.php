@@ -62,7 +62,7 @@
 
                 <p>Über die Aufnahme Ihres eingereichten Vortrags werden Sie bis Mitte Januar 2017 durch das Programmkomitee informiert.</p>
 
-                <p>Die FOSSGIS-Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2017 - wir freuen uns auf Sie!</p>
+                <p>Die FOSSGIS-Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2017. Wir freuen uns auf Sie!</p>
 
                 <p ><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2017/cfp/session/new">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
