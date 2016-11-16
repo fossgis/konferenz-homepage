@@ -25,7 +25,7 @@
 
                 <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2017 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit der <a href="http://www.uni-passau.de/">Universität Passau</a>.</p>
+                <p>Die FOSSGIS-Konferenz 2017 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> mit Untersützung der <a href="http://www.uni-passau.de/">Universität Passau</a> veranstaltet.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/fossgis.png" valign="middle"></a></div>
