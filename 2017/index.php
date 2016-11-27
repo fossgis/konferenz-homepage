@@ -67,6 +67,8 @@
 				 <div class="sponsor bronze">
 				  <a href="http://www.csgis.de//"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
 				   <div class="sponsor bronze">
+				   <a href="http://www.camptocamp.com"><img valign="middle" src="img/s/202_Camp2Camp.PNG" width="133" height="64"></a></div>
+				   
 				  </div>
 				   <div class="sponsor bronze">
 				  </div> <div class="sponsor bronze">
