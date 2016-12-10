@@ -7,12 +7,12 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2017, FOSSGIS-Konferenz 2017, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM-Event, Universität Passau, Qualitätsoffensive OSM Mapping Passau">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-       <!-- <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-        <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-        <script src="script/Leaflet.MakiMarkers.js"></script>-->
+        <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
+        <script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+        <script src="script/Leaflet.MakiMarkers.js"></script>
 
     </head>
     <body id="anreise">
@@ -29,8 +29,8 @@
 
                     <h2>Anreise und Unterkunft</h2>
 
-                    <!--<div id="mapContainer">
-					<div id="map"></div></div>-->
+                    <div id="mapContainer">
+		      <div id="map"></div></div>
              
 					<h3>Allgemeines</h3>
                 <p>Die FOSSGIS-Konferenz findet vom 22.-25. März 2017 an der Universität Passau statt.</p>
@@ -146,13 +146,16 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
              <?php include('../inc/footer.inc'); ?>
         </div>
     </body>
-   <!-- <script src="script/hotels.js"></script>
+
+    <script src="script/hotels.js"></script>
+    <script src="script/verkehr.js"></script>
     <script src="script/restaurants.js"></script>
     <script src="script/ausflug.js"></script>
-
+    <script src="script/fossgis.js"></script>
+    
     <script src="script/map.js"></script>
     <script type='text/javascript'>
         window.onload = init;
-    </script>-->
+    </script>
 	
 </html>
