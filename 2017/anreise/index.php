@@ -134,14 +134,25 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Telefon: +49 851 49378-0</li></ul>
 				<ul><li> Ab ca. 25€ im Mehrbettzimmer pro Person pro Nacht, ab 56€ im Zweibettzimmer für 2 Personen pro Nacht</li></ul>
 				<ul><li>inkl. Frühstück, Bettwäsche, geeignet für Fahrradfahrer, super Aussicht</li></ul></ul>
-				<ul class="list">
 			
 			</p>
 			
-			<p>Weitere Informationen finden sie auf der Website der Dreiflüssestadt <a href="https://www.passau.de/">Passau</a>.</p>
-		   </div>
+<p>Weitere Informationen finden sie auf der Website der Dreiflüssestadt <a href="https://www.passau.de/">Passau</a>.</p>
 
-                
+             <h3>Stadt Passau</h3>
+
+             <p>Im Südosten Bayerns, direkt an der deutsch-österreichischen Grenze, vereinigen sich die drei Flüsse Donau, Inn und Ilz. Dank dieser einzigartigen Geographie existieren hier seit dem Altertum menschliche Siedlungen. Heute befindet sich an dieser Stelle die Stadt Passau.</p>
+
+             <p>Das Leben an den Flüssen prägt die Geschichte der Dreiflüssestadt seit jeher. Während in alter Zeit der Handel mit Salz den Reichtum der Stadt sicherte, zieht es heut Kreuzfahrtgäste, Radtouristen und Wanderer aus aller Welt nach Passau. Das einzigartige Stadtbild verdankt Passau italienischen Baumeistern, \
+die die Stadt nach dem großen Brand von 1662 wiederaufbauten und ihr den unverwechselbaren Charakter gaben, der die Altstadt Passaus noch heute auszeichnet.</p>
+
+             <p>Auch hinter dem prächtigen Äußeren hat Passau einiges zu bieten. Mit dem „Scharfrichterhaus“ beherbergt Passau eine rennomierte Kabaretbühne. Die Schauspielkunst im ehemaligen fürstbischöflichen Opernhaus, die internationalen Filmfestivals und die vielfältigen Museen fügen sich zum Gesamtbild einer lebendig\
+en, weltoffenen Kulturszene.</p>
+
+             <p>Nicht zuletzt ist Passau auch Hochschulstadt – etwa 10.000 der 50.000 Einwohner sind Studierende der Passauer Universität, der jüngsten der staatlichen Universitäten Bayerns. Auch überregional genießen Absolventen der ansässigen Fakultäten einen guten Ruf. Der zentrumsnahe Universitätscampus am Ufer des Inn\
+s gilt als einer der schönsten Deutschlands und lädt zwischen den Vorlesungen zum Erkunden ein.</p>
+
+		   </div>          
 
              <?php include('../inc/footer.inc'); ?>
         </div>
