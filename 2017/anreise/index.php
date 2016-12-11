@@ -7,12 +7,12 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2017, FOSSGIS-Konferenz 2017, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM-Event, Universität Passau, Qualitätsoffensive OSM Mapping Passau">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-       <!-- <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-        <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-        <script src="script/Leaflet.MakiMarkers.js"></script>-->
+        <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
+        <script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+        <script src="script/Leaflet.MakiMarkers.js"></script>
 
     </head>
     <body id="anreise">
@@ -29,8 +29,8 @@
 
                     <h2>Anreise und Unterkunft</h2>
 
-                    <!--<div id="mapContainer">
-					<div id="map"></div></div>-->
+                    <div id="mapContainer">
+		      <div id="map"></div></div>
              
 					<h3>Allgemeines</h3>
                 <p>Die FOSSGIS-Konferenz findet vom 22.-25. März 2017 an der Universität Passau statt.</p>
@@ -134,25 +134,39 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Telefon: +49 851 49378-0</li></ul>
 				<ul><li> Ab ca. 25€ im Mehrbettzimmer pro Person pro Nacht, ab 56€ im Zweibettzimmer für 2 Personen pro Nacht</li></ul>
 				<ul><li>inkl. Frühstück, Bettwäsche, geeignet für Fahrradfahrer, super Aussicht</li></ul></ul>
-				<ul class="list">
 			
 			</p>
 			
-			<p>Weitere Informationen finden sie auf der Website der Dreiflüssestadt <a href="https://www.passau.de/">Passau</a>.</p>
-		   </div>
+<p>Weitere Informationen finden sie auf der Website der Dreiflüssestadt <a href="https://www.passau.de/">Passau</a>.</p>
 
-                
+             <h3>Stadt Passau</h3>
+
+             <p>Im Südosten Bayerns, direkt an der deutsch-österreichischen Grenze, vereinigen sich die drei Flüsse Donau, Inn und Ilz. Dank dieser einzigartigen Geographie existieren hier seit dem Altertum menschliche Siedlungen. Heute befindet sich an dieser Stelle die Stadt Passau.</p>
+
+             <p>Das Leben an den Flüssen prägt die Geschichte der Dreiflüssestadt seit jeher. Während in alter Zeit der Handel mit Salz den Reichtum der Stadt sicherte, zieht es heut Kreuzfahrtgäste, Radtouristen und Wanderer aus aller Welt nach Passau. Das einzigartige Stadtbild verdankt Passau italienischen Baumeistern, \
+die die Stadt nach dem großen Brand von 1662 wiederaufbauten und ihr den unverwechselbaren Charakter gaben, der die Altstadt Passaus noch heute auszeichnet.</p>
+
+             <p>Auch hinter dem prächtigen Äußeren hat Passau einiges zu bieten. Mit dem „Scharfrichterhaus“ beherbergt Passau eine rennomierte Kabaretbühne. Die Schauspielkunst im ehemaligen fürstbischöflichen Opernhaus, die internationalen Filmfestivals und die vielfältigen Museen fügen sich zum Gesamtbild einer lebendig\
+en, weltoffenen Kulturszene.</p>
+
+             <p>Nicht zuletzt ist Passau auch Hochschulstadt – etwa 10.000 der 50.000 Einwohner sind Studierende der Passauer Universität, der jüngsten der staatlichen Universitäten Bayerns. Auch überregional genießen Absolventen der ansässigen Fakultäten einen guten Ruf. Der zentrumsnahe Universitätscampus am Ufer des Inn\
+s gilt als einer der schönsten Deutschlands und lädt zwischen den Vorlesungen zum Erkunden ein.</p>
+
+		   </div>          
 
              <?php include('../inc/footer.inc'); ?>
         </div>
     </body>
-   <!-- <script src="script/hotels.js"></script>
+
+    <script src="script/hotels.js"></script>
+    <script src="script/verkehr.js"></script>
     <script src="script/restaurants.js"></script>
     <script src="script/ausflug.js"></script>
-
+    <script src="script/fossgis.js"></script>
+    
     <script src="script/map.js"></script>
     <script type='text/javascript'>
         window.onload = init;
-    </script>-->
+    </script>
 	
 </html>
