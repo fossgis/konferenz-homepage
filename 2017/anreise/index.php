@@ -10,8 +10,8 @@
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-        <script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
         <script src="script/Leaflet.MakiMarkers.js"></script>
 
     </head>
@@ -31,7 +31,7 @@
 
                     <div id="mapContainer">
 		      <div id="map"></div></div>
-             
+
 					<h3>Allgemeines</h3>
                 <p>Die FOSSGIS-Konferenz findet vom 22.-25. März 2017 an der Universität Passau statt.</p>
 
@@ -61,11 +61,11 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<li> Ort: Passau</li>
 				<li> Postleitzahl: 94032</li>
 				</ul></p>
-				
-			
+
+
 			<p>Haben Sie schon einmal an die Möglichkeit von Carsharing oder Mitfahrgelegenheit bei<a href="https://www.blablacar.de/mitfahren/nach-passau/#?fn=%2A&tn=passau&tc=48.5667364%7C13.4319466&tcc=DE&sort=trip_date&order=asc&limit=10&page=1" title="https://www.blablacar.de/" rel="nofollow"> BlaBlaCar</a> gedacht? Die Umwelt und Ihr Geldbeutel werden sich freuen.</p>
 
-                
+
                 <h4>Anreise mit dem Flugzeug</h4>
 				<p>Eine Anreise per Flugzeug ist entweder über den Flughafen München <a href="http://www.flughafen-muenchen.de/" rel="nofollow">MUC</a> oder über den  Flughafen Linz <a href="http://www.linz-airport.com/de"> LNZ</a> möglich. Von dort aus kann z.B. mit Regionalexpress oder ICE nach Passau weitergefahren werden. Der Shuttle-Bus des Münchner Flughafens bringt Sie bis nach Freising, weiter geht es mit der Bahn von Freising über Landshut nach Passau, Transferzeit ca. 2,5 Stunden.</p>
 			<p><b>Taxi</b></p>
@@ -91,7 +91,7 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 			<ul><li> 1,6 km, 20 min</li></ul>
 				<ul><li> Adresse: Untere Donaulände 4, 94032 Passau</li></ul>
 				<ul><li> Telefon: +49 851  93 15 10</li></ul>
-				<ul><li> Einzelzimmer: 55€, Doppelzimmer: 75€ </li></ul></ul>		
+				<ul><li> Einzelzimmer: 55€, Doppelzimmer: 75€ </li></ul></ul>
 
 			<ul class="list">
 				<li>Hotel Wilder Mann</li>
@@ -99,8 +99,8 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 			<ul><li> 1,6 km, 20 min</li></ul>
 				<ul><li> Adresse: Am Rathausplatz, 94032 Passau </li></ul>
 				<ul><li> Telefon: +49 851  3 50 71</li></ul>
-				<ul><li> Einzelzimmer: 60€, Doppelzimmer: 70€ </li></ul></ul>					
-			
+				<ul><li> Einzelzimmer: 60€, Doppelzimmer: 70€ </li></ul></ul>
+
 			<ul class="list">
 				<li>Hotel Garni Herdegen</li>
 			<ul><li> Web: <a href="http://www.hotel-herdegen.de/" rel="nofollow">http://www.hotel-herdegen.de/	</a></li></ul>
@@ -108,7 +108,7 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Adresse: Bahnhofstrasse 5, 94032 Passau </li></ul>
 				<ul><li> Telefon: +49 851  955160</li></ul>
 				<ul><li> Einzelzimmer: 60€, Doppelzimmer: 90€ (inkl. Frühstück)</li></ul></ul>
-			
+
 			<ul class="list">
 			<li>Hotel Weisser Hase</li>
 			<ul><li> Web: <a href="http://www.hotel-weisser-hase.de/" rel="nofollow">http://www.hotel-weisser-hase.de/</a></li></ul>
@@ -117,7 +117,7 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Telefon: +49 851 9211-0</li></ul>
 				<ul><li> Einzelzimmer: 56€, Doppelzimmer: 69€, Junior Suite: 4 Erwachsene ab 96€.</li></ul></ul>
 			<ul class="list"></p>
-			
+
 			<li>Am Paulusbogen</li>
 			<ul><li> Web: <a href="http://www.ampaulusbogen.de/" rel="nofollow">http://www.ampaulusbogen.de/</a></li></ul>
 			<ul><li> 1,5km, 20 min </li></ul>
@@ -125,7 +125,7 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Telefon: +49 851 931060</li></ul>
 				<ul><li> Einzelzimmer: ab 59€, Doppelzimmer: 79€, inkl. Frühstück.</li></ul></ul>
 			<ul class="list"></p>
-			
+
 			<p>Zudem bietet sich für preisbewusste Konferenzteilnehmer die Jugendherberge auf der Veste Oberhaus an: </p>
 			<li>Jugendherberge Passau</li>
 			<ul><li> Web: <a href="http://passau.jugendherberge.de/de-DE/Portraet" rel="nofollow">http://passau.jugendherberge.de/de-DE/Portraet/</a></li></ul>
@@ -134,9 +134,9 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Telefon: +49 851 49378-0</li></ul>
 				<ul><li> Ab ca. 25€ im Mehrbettzimmer pro Person pro Nacht, ab 56€ im Zweibettzimmer für 2 Personen pro Nacht</li></ul>
 				<ul><li>inkl. Frühstück, Bettwäsche, geeignet für Fahrradfahrer, super Aussicht</li></ul></ul>
-			
+
 			</p>
-			
+
 <p>Weitere Informationen finden sie auf der Website der Dreiflüssestadt <a href="https://www.passau.de/">Passau</a>.</p>
 
              <h3>Stadt Passau</h3>
@@ -152,7 +152,7 @@ en, weltoffenen Kulturszene.</p>
              <p>Nicht zuletzt ist Passau auch Hochschulstadt – etwa 10.000 der 50.000 Einwohner sind Studierende der Passauer Universität, der jüngsten der staatlichen Universitäten Bayerns. Auch überregional genießen Absolventen der ansässigen Fakultäten einen guten Ruf. Der zentrumsnahe Universitätscampus am Ufer des Inn\
 s gilt als einer der schönsten Deutschlands und lädt zwischen den Vorlesungen zum Erkunden ein.</p>
 
-		   </div>          
+		   </div>
 
              <?php include('../inc/footer.inc'); ?>
         </div>
@@ -163,10 +163,10 @@ s gilt als einer der schönsten Deutschlands und lädt zwischen den Vorlesungen 
     <script src="script/restaurants.js"></script>
     <script src="script/ausflug.js"></script>
     <script src="script/fossgis.js"></script>
-    
+
     <script src="script/map.js"></script>
     <script type='text/javascript'>
         window.onload = init;
     </script>
-	
+
 </html>
