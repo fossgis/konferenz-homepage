@@ -13,7 +13,9 @@ if ($html===FALSE) {
     $arr=explode("\n", $html);
     foreach ($arr as $zeile) {
 	if (preg_match("|^(\<img src=\"/icons.*\>\s+)?\<a href=\"(.*)\"\>(.*)\</a\>\s+([\d\w\-]+ [\d\w:]+)\s+([\d\w]+)(\s*)$|i", $zeile, $matches)) {
+		// $matches[1] ist das Icon Image, das ist mal da, spaeter nicht
 		// $matches[2] ist der Link
+		// $matches[3] ist der Linktext (kann gekuerzt sein!)
 		// $matches[4] ist das Dateidatum
 		// $matches[5] ist die Dateigroesse
 		// $matches[6] ist irgendwas danach (incl. Newline!)
