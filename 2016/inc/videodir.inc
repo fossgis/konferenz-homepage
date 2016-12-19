@@ -12,13 +12,19 @@ if ($html===FALSE) {
     //echo "<pre>";
     $arr=explode("\n", $html);
     foreach ($arr as $zeile) {
-	if (preg_match("|^\<img src=\"/icons.*\>\s+\<a href=\"(.*)\"\>(.*)\</a\>\s+([\d\w\-]+ [\d\w:]+)\s+([\d\w]+)(\s*)$|i", $zeile, $matches)) {
-	    //echo $matches[1]."|".$matches[2]."|".$matches[3]."|".$matches[4]."|".$matches[5]."|";
-	    //if (!$matches[1]==$matches[2]) echo "**********";
+	if (preg_match("|^(\<img src=\"/icons.*\>\s+)?\<a href=\"(.*)\"\>(.*)\</a\>\s+([\d\w\-]+ [\d\w:]+)\s+([\d\w]+)(\s*)$|i", $zeile, $matches)) {
+		// $matches[1] ist das Icon Image, das ist mal da, spaeter nicht
+		// $matches[2] ist der Link
+		// $matches[3] ist der Linktext (kann gekuerzt sein!)
+		// $matches[4] ist das Dateidatum
+		// $matches[5] ist die Dateigroesse
+		// $matches[6] ist irgendwas danach (incl. Newline!)
+	    //echo $matches[1]."|".$matches[2]."|".$matches[3]."|".$matches[4]."|".$matches[5]."|".$matches[6];
+	    //if (!$matches[2]==$matches[3]) echo "**********";
 	    unset($file);
-	    $file["name"]=$matches[1];
-	    $file["date"]=$matches[3];
-	    $file["size"]=$matches[4];
+	    $file["name"]=$matches[2];
+	    $file["date"]=$matches[4];
+	    $file["size"]=$matches[5];
 	    if (!preg_match("/(FOSSGIS".JAHR."[\-_]|".JAHR."[\-_])?(.+)\.([\w\d]+)$/i", $file["name"], $matches)) die("Fehler beim Parsen von ".$file["name"]);
 	    $id=(int)($matches[2]);
 	    $type=strtolower($matches[3]);
