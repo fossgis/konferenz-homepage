@@ -36,11 +36,12 @@ echo "<div id=\"videoaufzeichnungen\">\n";
 echo "<h2>Videoaufzeichnungen</h2>\n";
 
 $debug=preg_match("/debug/i", $_SERVER["QUERY_STRING"]);
+
 if ($debug) {
     echo "<p>";
-    echo "<a href=\"".YT_PLAYLIST."\" title=\"Playlist\">".count($ytarr)." YT-Links</a> gefunden. ";
+	echo "<a href=\"".YT_PLAYLIST."\" title=\"Playlist\">".count($ytarr)." YT-Links</a> (<a href=\"".YT_URL."\" title=\">YT-Playlist (JSON)\">JSON</a>) gefunden. ";
     echo "<a href=\"".VID_URL."\" title=\"Video Directory\">".count($dir)." Videos</a> gefunden. ";
-    echo count($speakers)." Vortragende (mit Bild) gefunden. ";
+	echo "<a href=\"".JSON_SPEAKERS."\" title=\"Speakers (JSON)\">".count($speakers)." Vortragende</a> (mit Bild) gefunden. ";
 } else {
     if ((count($ytarr)==0) && (count($dir)==0)) {
 	echo "<p>Es sind noch keine Videoaufzeichnungen verfügbar.</p>\n";
@@ -69,7 +70,7 @@ $daycount=$c["daysCount"];
 $d=$c["days"];
 
 if ($debug) {
-    if (count($d)==$daycount) echo $daycount." Tage gefunden.\n";
+	if (count($d)==$daycount) echo "<a href=\"".CONF_URL."\" title=\"Konferenz Schedule JSON\">".$daycount." Tage</a> gefunden.\n";
     else echo "Tage: SOLL=".$daycount.", IST=".count($d)."\n";
     echo "</p>\n";
 }
