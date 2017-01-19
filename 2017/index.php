@@ -44,42 +44,46 @@
                 </div>
 
                  <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
-
-
+				 
+				 
 
                 <h3>Werden Sie Sponsor!</h3>
-                <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
-				<br>
-				<h3>Goldsponsor</h3>
-                <div class="sponsor gold">
-                    <a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a>
-                </div>
-
+                 <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
+				 <br>
+				  <h3>Goldsponsor</h3>
+                <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+				 
 				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
-                <!-- <h3>Silbersponsoren</h3>
-       		    <br> -->				 <!--
+				  <h3>Silbersponsoren</h3>
+				
+				 <br>
+				 
 				  <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>
-				  <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
+				  <div class="sponsor silber" id="sourcepole"><a href="http://www.sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/sourcepole.png" width="190" height="48"></a></div>
+				   <div class="sponsor silber" ></div>
+				 <!--   <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
 				  <div class="sponsor silber" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>-->
+				  
+				  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
+				 <h3>Bronzesponsoren</h3>
+				 <div class="sponsor bronze">
+				  <a href="http://www.csgis.de//"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
+				 <div class="sponsor bronze">
+				   <a href="http://www.camptocamp.com"><img valign="middle" src="img/s/202_Camp2Camp.PNG" width="133" height="64"></a></div>
+		                 <div class="sponsor bronze" id="omniscale">
+			           <a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="133" height="27"></a></div>
+				      <div class="sponsor bronze" id="Geoinformatikbüro Dassau GmbH"><a href="http://www.gbd-consult.de/home.html" target="_blank"><img valign="middle" src="img/s/gbd-consult.png" width="120" height="41"></a></div>
+				 
+				
+				 <!--<div class="sponsor bronze" id="camptocamp"><a href="http://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="150" height="72"></a></div>
+				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
+				 -->
+				 
+				 <br>
+				
+				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 
-				<!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
-				<h3>Bronzesponsoren</h3>
-				<div class="sponsor bronze">
-				    <a href="http://www.csgis.de//"><img valign="middle" src="img/s/CSGIS.PNG" width="150"></a>
-                </div>
-				<div class="sponsor bronze">
-				    <a href="http://www.camptocamp.com">
-                        <img valign="middle" src="img/s/202_Camp2Camp.PNG" width="150">
-                    </a>
-                </div>
-		        <div class="sponsor bronze" id="omniscale">
-			         <a href="http://omniscale.de/" target="_blank">
-                        <img src="img/s/103_omniscale.png" valign="middle" width="150">
-                    </a>
-                </div>
-                <p class="clear"></p>
-                <p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
-                </p>
+            </div>
                 <?php include('inc/footer.inc'); ?>
         </div>
     </body>
