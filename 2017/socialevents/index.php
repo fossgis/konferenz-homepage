@@ -17,7 +17,7 @@
             <div id="content">
                 <?php include('../inc/nav.inc'); ?>
                 <figure>
-                    <img src="img/passau.jpg" width="880" height="241" alt="Passau">
+                    <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
                     <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
                 </figure>
 

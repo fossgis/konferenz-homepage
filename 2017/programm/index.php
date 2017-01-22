@@ -17,6 +17,10 @@
             <div id="content">
 
                 <?php include('../inc/nav.inc'); ?>
+				<figure>
+                    <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
+                    <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
+                </figure>
 
                 <h2>Programm zur Konferenz 2017</h2>
                 <p>Wählen Sie den gewünschten Konferenztag aus.</p>
