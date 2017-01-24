@@ -73,7 +73,7 @@
 		                 <div class="sponsor bronze" id="omniscale">
 			           <a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="133" height="27"></a></div>
 				      <div class="sponsor bronze" id="Geoinformatikbüro Dassau GmbH"><a href="http://www.gbd-consult.de/home.html" target="_blank"><img valign="middle" src="img/s/gbd-consult.png" width="120" height="41"></a></div>
-					  <div class="sponsor bronze" id="sourcepole"><a href="http://www.sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/sourcepole.png" width="145" height="36"></a></div>
+					  <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img valign="middle" src="img/s/sourcepole.png" width="160" height="40"></a></div>
 				 <div class="sponsor bronze" ></div>
 				 <div class="sponsor bronze" ></div>
 				  <div class="sponsor bronze" ></div>

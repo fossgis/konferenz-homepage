@@ -31,16 +31,16 @@
 
 				<h3>Preise FOSSGIS-Konferenz 2017</h3>
 				<ul class="list">
-				<li> Teilnehmer_innen (Normalpreis): € 190</li>
-				<li> Teilnehmer_innen (Frühbucherrabatt bis 13.02.2017, 21 Uhr): € 150</li>
-				<li> Autor_innen: € 120</li>
-				<li> Studierende: € 100</li>
-				<li> FOSSGIS Community*: € 0*</li>
+				<li> Standardticket (Normalpreis): € 190</li>
+				<li> Standardticket (Frühbucherrabatt bis 13.02.2017, 21 Uhr): € 150</li>
+				<li> Beitragendenticket: € 120</li>
+				<li> Studierendenticket: € 100</li>
+				<li> Communityticket*: € 0*</li>
 				<li> Workshop: € 100</li>
-				<li> Workshops (Frühbucherrabatt bis 13.02.2017, 21 Uhr): € 90</li>
+				<li> Workshop (Frühbucherrabatt bis 13.02.2017, 21 Uhr): € 90</li>
 				</ul>
                 <p><b>Im Konferenzticket enthalten:</b> FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tagungsband, Tasche, Dialoge am Inn.<br>
-                * Regelungen für das Communityticket gelten für Aktive in der FOSS/OSM-Communiy, bitte bei Anmeldung im Textfenster darstellen.</p>
+* Regelungen für das Communityticket gelten für FOSSGIS-, Openstreetmap- und OSGEO-Aktive, bitte bei Anmeldung im "Freitext für FOSS/OSM-Community Aktive" darstellen.</p>
 
                 <h3>Helfer</h3>
                 <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen zu unterstützen. Bei Interesse bitte bei per E-Mail unter konferenz-orga@fossgis.de melden und Zeitraumpräferenz angeben.</p>

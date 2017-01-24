@@ -27,18 +27,18 @@
                 <div style="margin: 5px 85px 7px 160px">
                     <ul>       	
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/0">Mittwoch, 22.03.2017</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/0" target="_blank">Mittwoch, 22.03.2017</a>
                         </li>
 
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/1">Donnerstag, 23.03.2017</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/1" target="_blank">Donnerstag, 23.03.2017</a>
                         </li>
 
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/2">Freitag, 24.03.2017</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/2" target="_blank">Freitag, 24.03.2017</a>
                         </li>
 						<li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/3">OSM Samstag, 25.03.2017</a>
+                            <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule/3"target="_blank">OSM Samstag, 25.03.2017</a>
                         </li>   
                     </ul>
                 </div>
