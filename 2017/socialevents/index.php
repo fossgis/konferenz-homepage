@@ -23,8 +23,8 @@
 
                 <h2>Social Events</h2>
 				
-				 <h3>Dienstag, 21. März 2017 ab 19:30 Uhr: Inoffizieller Start</h3>
-                <p>Gemeinsames Abendessen für alle schon anwesenden FOSSGISler in der <a href="http://www.padu-innstrasse.de/">Pizzeria Padu</a> (Innstraße 46, 94032 Passau) im Nebenraum. Warme Küche gibt's bis 22:30. Jeder bezahlt seine Rechnung selbst. </p>
+				 <h3>Dienstag, 21. März 2017</h3> 
+                <p>Ab 19:30 Uhr Inoffizieller Start mit einem gemeinsamen Abendessen für alle schon anwesenden FOSSGISler in der <a href="http://www.padu-innstrasse.de/">Pizzeria Padu</a> (Innstraße 46, 94032 Passau) im Nebenraum. Warme Küche gibt's bis 22:30. Jeder bezahlt seine Rechnung selbst. </p>
 
                 <h3>Mittwoch, 22. März 2017</h3>
 				<h4>Eröffnung FOSSGIS-Konferenz</h4>
@@ -46,7 +46,7 @@
 				<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind herzlich ab 14:30 Uhr zum Sektausklang eingeladen.</p>
 				
 				<h4>OSM-Mapping-Event</h4>
-				<p>Unter der Bezeichnung Qualitätsoffensive OSM Mapping Passau werden sich Mapper der Altstadt Passau widmen und Themen wie Geschäfte/Öffnungszeiten/Ärzte/Rechtsanwälte, 3DTagging, Barierrefreiheit, Briefkästen, Indoor (Aufzüge) bearbeiten. Falls Sie soetwas noch nie gemacht haben, ist das die Gelegenheit für den Einstieg. Das Mapping-Event soll auch für Anfänger geeignet sein, deshalb findet um 16 Uhr ein kurzer Workshop statt, in dem das How-To-Do besprochen wird. Anmeldung zur Veranstaltung entweder vor Ort oder im <a href="http://wiki.openstreetmap.org/wiki/FOSSGIS_2017/OSM-Events"> OSM-Wiki </a>. Das Mapping-Event ist bis ca. 20 Uhr geplant.</p>
+				<p>Unter der Bezeichnung Qualitätsoffensive OSM Mapping Passau werden sich Mapper der Altstadt Passau widmen und Themen wie Geschäfte/Öffnungszeiten/Ärzte/Rechtsanwälte, 3DTagging, Barrierefreiheit, Briefkästen, Indoor (Aufzüge) bearbeiten. Falls Sie soetwas noch nie gemacht haben, ist das die Gelegenheit für den Einstieg. Das Mapping-Event soll auch für Anfänger geeignet sein, deshalb findet um 16 Uhr ein kurzer Workshop statt, in dem das How-To-Do besprochen wird. Anmeldung zur Veranstaltung entweder vor Ort oder im <a href="http://wiki.openstreetmap.org/wiki/FOSSGIS_2017/OSM-Events"> OSM-Wiki </a>. Das Mapping-Event ist bis ca. 20 Uhr geplant.</p>
 
                 <h3>Samstag, 25. März 2017</h3>
 				<h4>OSM-Samstag </h4>
