@@ -78,10 +78,12 @@
 				 <div class="sponsor bronze" ></div>
 				  <div class="sponsor bronze" ></div>
 				
-				 <!--<div class="sponsor bronze" id="camptocamp"><a href="http://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="150" height="72"></a></div>
-				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
-				 -->
-				 
+				<h3>Medienpartner</h3>
+				<div class="sponsor media">
+				  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/TIB_Logo_RGB.PNG" width="241" height="70"></a></div>
+				  <div class="sponsor media"></div>
+				   <div class="sponsor media"></div>
+				 				 
 				 <br>
 				
 				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
