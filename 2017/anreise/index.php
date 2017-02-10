@@ -125,6 +125,14 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 				<ul><li> Telefon: +49 851 931060</li></ul>
 				<ul><li> Einzelzimmer: ab 59€, Doppelzimmer: 79€, inkl. Frühstück.</li></ul></ul>
 			<ul class="list"></p>
+			
+			<li>Pension Gabriele</li>
+			<ul><li> Web: <a href="http://www.pension-gabriele.de/" rel="nofollow">http://www.pension-gabriele.de/</a></li></ul>
+			<ul><li> 1,7km, 22 min </li></ul>
+				<ul><li> Adresse: Adalbert-Stifter Straße 12, 94032 Passau</li></ul>
+				<ul><li> Telefon: +49 0851 6446</li></ul>
+				<ul><li> Einzelzimmer: ab 38€, Doppelzimmer: 63€, Dreibettzimmer: 81€, inkl. Frühstück.</li></ul></ul>
+			<ul class="list"></p>
 
 			<p>Zudem bietet sich für preisbewusste Konferenzteilnehmer die Jugendherberge auf der Veste Oberhaus an: </p>
 			<li>Jugendherberge Passau</li>

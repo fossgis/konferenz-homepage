@@ -81,8 +81,8 @@
 				<h3>Medienpartner</h3>
 				<div class="sponsor media">
 				  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/TIB_Logo_RGB.PNG" width="241" height="70"></a></div>
-				  <div class="sponsor media"></div>
-				   <div class="sponsor media"></div>
+				  <div class="sponsor media"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/voc_square.png" width="150" height="150"></a></div>
+				   <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div>
 				 				 
 				 <br>
 				

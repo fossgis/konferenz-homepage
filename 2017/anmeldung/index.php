@@ -27,8 +27,8 @@
                 <h2>Anmeldung zur Konferenz</h2>
 				<p class="text-right"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/2017/">Direkt zur Anmeldung &rarr;</a></p>
                 <p>Wir laden Sie ein Teil der FOSSGIS-Konferenz 2017 zu werden.  Denn die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Wir freuen uns auf Sie!</p>
-                <p>In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. Hier gelangen Sie <a href="https://pretix.eu/fossgis/2017/"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 16.03.2017 eine Reihe von kostenpflichtigen FOSSGIS Workshops auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule">Programm</a>. </p>
-				<p>Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk.</p>
+                <p>In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. Hier gelangen Sie <a href="https://pretix.eu/fossgis/2017/"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 19.03.2017 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="http://frab.fossgis-konferenz.de/de/2017/public/schedule">Programm</a>. </p>
+				<p>Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk. Vor Ort kann nur in Bar bezahlt werden.</p>
 
 				<p class="text-right"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/2017/">Direkt zur Anmeldung &rarr;</a></p>
 				<h3>Preise FOSSGIS-Konferenz 2017</h3> 
