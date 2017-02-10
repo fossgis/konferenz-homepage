@@ -48,7 +48,7 @@
             <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen.</p>
 
             <h3>Interesse?</h3>
-            <p>Sie möchten die Konferenz bei Ihnen auszurichten? Detaillierte Informationen finden Sie im <a href="data/cfl-fossgis-2018.pdf">Bewerbungs-PDF</a>.</p>
+            <p>Sie möchten die Konferenz bei Ihnen auszurichten? Detaillierte Informationen finden Sie im <a href="data/CfL-FOSSGIS-2018.pdf">Bewerbungs-PDF</a>.</p>
 
             <p>Wir freuen uns auf Ihre kurze Bewerbung. Bei Fragen können Sie sich gerne an info[aet]fossgis.de wenden.</p>
         </div>
