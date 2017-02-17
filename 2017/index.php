@@ -74,9 +74,9 @@
 			           <a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="133" height="27"></a></div>
 				      <div class="sponsor bronze" id="Geoinformatikbüro Dassau GmbH"><a href="http://www.gbd-consult.de/home.html" target="_blank"><img valign="middle" src="img/s/gbd-consult.png" width="120" height="41"></a></div>
 					  <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img valign="middle" src="img/s/sourcepole.png" width="160" height="40"></a></div>
-				 <div class="sponsor bronze" ></div>
-				 <div class="sponsor bronze" ></div>
-				  <div class="sponsor bronze" ></div>
+				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
+				 <div class="sponsor bronze" id="Terrestris"><a href="http://www.terrestris.de" target="_blank"><img valign= "middle" src="img/s/terrestris.jpg" width="130" height="72"></div>
+				  <div class="sponsor bronze" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="150" height="35"></a></div>
 				
 				<h3>Medienpartner</h3>
 				<div class="sponsor media">
