@@ -36,12 +36,14 @@
 	        $html = file_get_html("https://frab.fossgis-konferenz.de/de/2017/public/events/" . $_GET['id']);
 	        $referent = $html->find('div[id=sidebar]', 0);
                 $text = $html->find('div[id=basic]', 0);
+	        $topic = $html->find('div[id=main-content]', 0)->find('h2', 0)->innertext;
 	  
                 $referent = str_replace("de/2017/public/speakers/", "2017/programm/speaker.php?id=", $referent);
                 $referent = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referent);
                 $referent = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referent);
                 $text = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text);
-	  
+
+	        echo "<h3>" . $topic . "</h3>"; 
                 echo $referent;
 	        echo $text;
 	     }
