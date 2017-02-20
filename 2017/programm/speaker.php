@@ -40,6 +40,7 @@
 
 	  $text3 = str_replace("de/2017/public/events/", "2017/programm/event.php?id=", $text3);
           $text3 = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text3);
+          $text3 = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text3);
 	  
           $text1 = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text1);
           $text1 = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text1);

@@ -47,7 +47,6 @@
                 $referent = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referent);
                 $referent = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referent);
                 $text = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text);
-
 	        
                 echo "<h3>" . $topic . "</h3>";
                 echo $referent;
