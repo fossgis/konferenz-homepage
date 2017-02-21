@@ -77,12 +77,20 @@
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
 				 <div class="sponsor bronze" id="Terrestris"><a href="http://www.terrestris.de" target="_blank"><img valign= "middle" src="img/s/terrestris.jpg" width="130" height="72"></div>
 				  <div class="sponsor bronze" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="150" height="35"></a></div>
+				  <div class="sponsor bronze" id="OPTITOOL"><a href="http://www.optitool.de" target="_blank"><img src="img/s/209_OPTITOOL-ohne-GmbH-Shadow.png" valign="middle" width="150" height="41"></a></div>
+				  <div class="sponsor bronze"></div>
+				  <div class="sponsor bronze"></div>
+				  <div class="sponsor bronze"></div>
 				
 				<h3>Medienpartner</h3>
 				<div class="sponsor media">
 				  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/TIB_Logo_RGB.PNG" width="241" height="70"></a></div>
 				  <div class="sponsor media"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/voc_square.png" width="150" height="150"></a></div>
 				   <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div>
+				   <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239" height="59"></a></div>
+				   <div class="sponsor media"></div>
+				   <div class="sponsor media"></div>
+				   
 				 				 
 				 <br>
 				

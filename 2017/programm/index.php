@@ -68,15 +68,15 @@
               <li>
                 <a href="programm.php?day=2">Freitag, 24.03.2017</a>
               </li>
-	      <li>
+	          <li>
                 <a href="programm.php?day=3">OSM Samstag, 25.03.2017</a>
               </li>
-	      <li>
-		<a href="/2017/programm/referenten.php">Referenten</a>
-	      </li>
-	      <li>
-		<a href="https://frab.fossgis-konferenz.de/de/2017/public/schedule" target="_blank">Programmseite</a>
-	      </li>
+	          <li>
+		        <a href="/2017/programm/referenten.php">Referenten</a>
+	          </li>
+	          <li>
+		        <a href="https://frab.fossgis-konferenz.de/de/2017/public/schedule" target="_blank">Programmseite</a>
+	          </li>
             </ul>
           </div>
 
