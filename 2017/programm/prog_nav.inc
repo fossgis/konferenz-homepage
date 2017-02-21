@@ -15,6 +15,9 @@
         <a href="/2017/programm/programm.php?day=3">Samstag</a>
     </li>
     <li id="prog">
-        <a href="https://frab.fossgis-konferenz.de/de/2017/public/schedule" target="_blank">Programmseite</a>
+        <a href="/2017/programm/referenten.php">Referenten</a>
     </li>
+    <!-- li id="prog">
+        <a href="https://frab.fossgis-konferenz.de/de/2017/public/schedule" target="_blank">Programmseite</a>
+    </li -->
 </ul>

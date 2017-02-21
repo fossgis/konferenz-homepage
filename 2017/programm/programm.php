@@ -31,7 +31,8 @@
 	  
           <h2>
 	    <?php
-	       if ($_GET['day'] == 0) echo "Mittwoch, 22. März";
+	       if (!isset($_GET['day'])) echo "Übersicht";
+	       else if ($_GET['day'] == 0) echo "Mittwoch, 22. März";
 	       else if ($_GET['day'] == 1) echo "Donnerstag, 23. März";
 	       else if ($_GET['day'] == 2) echo "Freitag, 24. März";
 	       else if ($_GET['day'] == 3) echo "Samstag, 25. März";
@@ -69,7 +70,13 @@
               </li>
 	      <li>
                 <a href="programm.php?day=3">OSM Samstag, 25.03.2017</a>
-              </li>   
+              </li>
+	      <li>
+		<a href="/2017/programm/referenten.php">Referenten</a>
+	      </li>
+	      <li>
+		<a href="https://frab.fossgis-konferenz.de/de/2017/public/schedule" target="_blank">Programmseite</a>
+	      </li>
             </ul>
           </div>
 
