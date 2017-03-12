@@ -53,8 +53,10 @@
 
 	     } else {
           ?>
+		  
+		  <div class="app">Die <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule&hl=de">Android-App</a> steht ab sofort zur Verfügung. Sie finden darin das aktuelle Vortrags- und Workshop-Programm. </div>
 	  
-          <p>Wählen Sie den gewünschten Konferenztag aus.</p>
+          <p>Programmübersicht:</p>
           <div style="margin: 5px 85px 7px 160px">
             <ul>       	
               <li>
