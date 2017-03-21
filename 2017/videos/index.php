@@ -1,5 +1,5 @@
 <?php
-ini_set("include_path", "/var/www/html/2016/inc");
+ini_set("include_path", "/var/www/html/2017/inc");
 
 require_once("config.inc");		// defines
 require_once("common.inc");		// wochentag(), remove_tags(), l|rpad(), utf8_cut(pad)(), html_header|footer()
