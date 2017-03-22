@@ -34,6 +34,7 @@
                 </div>
                 <p class="clear"></p>
                 <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
+                <div class="app">Sie können selbst nicht dabei sein? Dann alle <a href="http://streaming.media.ccc.de/fossgis17/">Vorträge als Livestream</a> mitverfolgen.</div>
 
                 <h2>FOSSGIS 2017 auf Twitter</h2>
                 <div id="twitter">
@@ -44,26 +45,26 @@
                 </div>
 
                  <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
-				 
-				 
+
+
 
                 <h3>Werden Sie Sponsor!</h3>
                  <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
 				 <br>
 				  <h3>Goldsponsor</h3>
                 <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
-				 
+
 				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 				  <h3>Silbersponsoren</h3>
-				
+
 				 <br>
-				 
+
 				  <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>
 				   <div class="sponsor silber" ></div>
 				   <div class="sponsor silber" ></div>
 				 <!--   <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
 				  <div class="sponsor silber" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>-->
-				  
+
 				  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
 				 <h3>Bronzesponsoren</h3>
 				 <div class="sponsor bronze">
@@ -81,7 +82,7 @@
 				  <div class="sponsor bronze"></div>
 				  <div class="sponsor bronze"></div>
 				  <div class="sponsor bronze"></div>
-				
+
 				<h3>Medienpartner</h3>
 				<div class="sponsor media">
 				  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/TIB_Logo_RGB.PNG" width="241" height="70"></a></div>
@@ -90,10 +91,10 @@
 				   <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239" height="59"></a></div>
 				   <div class="sponsor media"></div>
 				   <div class="sponsor media"></div>
-				   
-				 				 
+
+
 				 <br>
-				
+
 				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 
             </div>
