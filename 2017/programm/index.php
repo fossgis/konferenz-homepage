@@ -10,25 +10,25 @@
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 	<link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
-	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>	
+	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>
     </head>
-    
+
     <body id="programm">
       <div id="wrap">
         <?php include('../inc/head.inc'); ?>
-	
+
         <div id="content">
-	  
+
           <?php
 	     include('../inc/nav.inc');
 	     include('prog_nav.inc');
           ?>
-	  
+
 	  <figure>
             <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
             <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
           </figure>
-	  
+
           <h2>
 	    <?php
 	       if (!isset($_GET['day'])) echo "Übersicht";
@@ -53,20 +53,21 @@
 
 	     } else {
           ?>
-		  
+
 		  <div class="app">Die <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule&hl=de">Android-App</a> steht ab sofort zur Verfügung. Sie finden darin das aktuelle Vortrags- und Workshop-Programm. </div>
-	  
+      <div class="app">Sie können selbst nicht dabei sein? Dann alle <a href="http://streaming.media.ccc.de/fossgis17/">Vorträge als Livestream</a> mitverfolgen.</div>
+
           <p>Programmübersicht:</p>
           <div style="margin: 5px 85px 7px 160px">
-            <ul>       	
+            <ul>
               <li>
                 <a href="programm.php?day=0">Mittwoch, 22.03.2017</a>
               </li>
-	      
+
               <li>
                 <a href="programm.php?day=1">Donnerstag, 23.03.2017</a>
               </li>
-	      
+
               <li>
                 <a href="programm.php?day=2">Freitag, 24.03.2017</a>
               </li>
@@ -82,10 +83,10 @@
             </ul>
           </div>
 
-          <?php	  
+          <?php
 	     }
 	  ?>
-	  
+
 	</div>
 	<?php include('../inc/footer.inc'); ?>
       </div>
