@@ -17,7 +17,7 @@
                 <?php include('inc/nav.inc'); ?>
 
                 <figure>
-                    <img src="img/bonn.jpg" width="880" height="241" alt="Bonn">
+                    <img src="img/bonn.jpeg" width="880" height="241" alt="Bonn">
                     <figcaption>Photo: Stadt Bonn</figcaption>
                 </figure>
 
