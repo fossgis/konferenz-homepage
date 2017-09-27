@@ -10,21 +10,21 @@
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-		
+
     </head>
     <body id="call">
         <div id="wrap">
         	<?php include('../inc/head.inc'); ?>
-            
+
             <div id="content">
-                
+
                 <?php include('../inc/nav.inc'); ?>
-				
+
                 <figure>
-                    <img src="../img/schlossfrontal.jpg" width="880" height="350" alt="Schloss Münster">
-                    <figcaption>Photo: WWU/Peter Grewer</figcaption>
+                    <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
+                    <figcaption>Photo: Stadt Bonn</figcaption>
                 </figure>
-                
+
                 <h2>FAQ</h2>
 
                 <dl>
