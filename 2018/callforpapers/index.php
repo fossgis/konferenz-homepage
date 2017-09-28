@@ -51,7 +51,7 @@
                     <dd><strong>Workshop:</strong> Ein Workshop, für den 90 Minuten vorgesehen sind, soll den Teilnehmern ein Mix aus Theorie und Praxis vermitteln. Ein Workshop findet ab einer Teilnehmerzahl von 5 statt. Bei einer Workshop-Einreichung ist es wichtig, darauf zu achten, dass erreichbare Lernziele und notwendige Vorkenntnisse der Teilnehmer beschrieben sind. Ihr Text ist für die Teilnehmer_innen ausschlaggebend für die Entscheidung, den Workshop zu buchen, und wird im Programm veröffentlicht.</dd>
                 </dl>
 
-                <p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2018 ist ab sofort bis zum 06. Januar 2018 ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.</p>
+                <p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2018 ist ab sofort bis zum 28. November 2017 ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.</p>
 
                 <p>Für alle Konferenzformate gilt, dass der Abstract ca. 1500 Zeichen umfassen und so dem Programmkomitee eine genaue Vorstellung über den geplanten Inhalt vermitteln soll. Beitragseinreichungen ohne Abstract müssen leider abgelehnt werden. Darüber hinaus bitten wir Sie, einen Kurztext mit bis zu 500 Zeichen für die Programmheftveröffentlichung zu schreiben.</p>
 
