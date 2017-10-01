@@ -61,7 +61,7 @@
 
                 <p>Die FOSSGIS-Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2018. Wir freuen uns auf Sie!</p>
 
-                <p ><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2018/cfp/session/new">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
+                <p ><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2018/cfp/">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
             </div>
             <?php include('../inc/footer.inc'); ?>
