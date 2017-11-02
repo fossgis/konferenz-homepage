@@ -83,12 +83,7 @@
 				  <div class="sponsor media"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
 				  <!-- <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div> -->
 				   <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239" height="59"></a></div>
-				   <div class="sponsor media"></div>
-				   <div class="sponsor media"></div>
-
-
-				 <br>
-		    		 <br>
+				<br>
 
 				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 
