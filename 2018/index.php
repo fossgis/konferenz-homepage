@@ -53,7 +53,7 @@
 
 				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 		    		<h3>Silbersponsoren</h3>
-				   <div class="sponsor silber" ><a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Hier könnte Ihr Logo stehen."></a></div>
+				   <div class="sponsor silber" ><a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Hier könnte Ihr Logo stehen.</a></div>
 				   <div class="sponsor silber" ></div>
 		                   <div class="sponsor silber" ></div>
 				<!-- <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>  -->
@@ -62,7 +62,7 @@
 				 <h3>Bronzesponsoren</h3>
 		   
 				<div class="sponsor bronze">
-				   <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Hier könnte Ihr Logo stehen."></a></div>
+				   <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Ihr Logo fehlt.</a></div>
 				 <!-- <div class="sponsor bronze">
 				   <a href="http://www.camptocamp.com"><img valign="middle" src="img/s/202_Camp2Camp.PNG" width="133" height="64"></a></div>
 		                 <div class="sponsor bronze" id="omniscale">
@@ -88,6 +88,7 @@
 
 
 				 <br>
+		    		 <br>
 
 				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 
