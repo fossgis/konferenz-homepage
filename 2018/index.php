@@ -50,6 +50,7 @@
 				 <br>
 				  <h3>Goldsponsor</h3>
                 <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+		<div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.png" valign="middle" width="150" height="100"></a></div>
 
 				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 		    		<!--<h3>Silbersponsoren</h3>
@@ -62,7 +63,7 @@
 				 <h3>Bronzesponsoren</h3>
 
 
-				<div class="sponsor bronze"><a href="http://omniscale.de/" target="_blank"><img src="img/s/101_omniscale.png" valign="middle" width="133" height="27"></a></div>
+				<div class="sponsor bronze"><a href="http://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
 			       <!-- <div class="sponsor bronze" id="Geoinformatikbüro Dassau GmbH"><a href="http://www.gbd-consult.de/home.html" target="_blank"><img valign="middle" src="img/s/gbd-consult.png" width="120" height="41"></a></div>
 				 <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img valign="middle" src="img/s/sourcepole.png" width="160" height="40"></a></div>
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
