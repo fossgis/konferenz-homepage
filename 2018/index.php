@@ -49,8 +49,8 @@
                  <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
 				 <br>
 				  <h3>Goldsponsor</h3>
-                <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
-		<div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.png" valign="middle" width="150" height="100"></a></div>
+                			<div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+					<div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.png" valign="middle" width="150" height="100"></a></div>
 
 				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 		    		<!--<h3>Silbersponsoren</h3>
