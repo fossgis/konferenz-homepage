@@ -49,34 +49,34 @@
                  <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
                 <div class="sponsors">
 
-				  <h3>Goldsponsoren</h3>
-                    <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
-					<div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.PNG" valign="middle" width="170" height="94"></a></div>
+                  <h3>Goldsponsoren</h3>
+                    <div class="sponsor gold"><a href="https://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+                    <div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.PNG" valign="middle" width="170" height="94"></a></div>
 
-				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
-		    		<!--<h3>Silbersponsoren</h3>
-				   <div class="sponsor silber" ><a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Hier könnte Ihr Logo stehen.</a></div>
-				   <div class="sponsor silber" ></div>
-		                   <div class="sponsor silber" ></div>
-				 <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>  -->
+                <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
+                    <!--<h3>Silbersponsoren</h3>
+                   <div class="sponsor silber" ><a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Hier könnte Ihr Logo stehen.</a></div>
+                   <div class="sponsor silber" ></div>
+                           <div class="sponsor silber" ></div>
+                 <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>  -->
 
-				 <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
-				<h3>Bronzesponsoren</h3>
-				<div class="sponsor bronze"><a href="http://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
+                 <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
+                <h3>Bronzesponsoren</h3>
+                <div class="sponsor bronze"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
                 <div class="sponsor bronze"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
 
-				<h3>Medienpartner</h3>
-				<div class="sponsor media">
-				  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/401_TIB.PNG" width="241" height="70"></a></div>
-				  <div class="sponsor media"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
-				  <!-- <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div> -->
-				   <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239" height="59"></a></div>
-				<br>
+                <h3>Medienpartner</h3>
+                <div class="sponsor media">
+                  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/401_TIB.PNG" width="241" height="70"></a></div>
+                  <div class="sponsor media"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
+                  <!-- <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div> -->
+                   <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239" height="59"></a></div>
+                <br>
 
-				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+                <p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
                 </div>
             </div>
-               <?php include('inc/footer.inc'); ?>
+            <?php include('inc/footer.inc'); ?>
         </div>
     </body>
 </html>
