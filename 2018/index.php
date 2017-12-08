@@ -54,11 +54,8 @@
                     <div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.PNG" valign="middle" width="170" height="94"></a></div>
 
                 <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
-                    <!--<h3>Silbersponsoren</h3>
-                   <div class="sponsor silber" ><a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Hier könnte Ihr Logo stehen.</a></div>
-                   <div class="sponsor silber" ></div>
-                           <div class="sponsor silber" ></div>
-                 <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>  -->
+                    <h3>Silbersponsoren</h3>
+                <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/101_Geoinfo_Logo.tif" valign="middle" width="175" height="65"></a></div>  -->
 
                  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
                 <h3>Bronzesponsoren</h3>
