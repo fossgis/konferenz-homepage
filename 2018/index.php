@@ -55,7 +55,7 @@
 
                 <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
                     <h3>Silbersponsoren</h3>
-                <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/101_Geoinfo_Logo.tif" valign="middle" width="175" height="65"></a></div>  -->
+                <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/101_Geoinfo_Logo.png" valign="middle" width="175"></a></div> 
 
                  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
                 <h3>Bronzesponsoren</h3>
