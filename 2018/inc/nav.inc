@@ -6,6 +6,6 @@
         <a href="/2018/callforpapers">Call for Papers</a>
     </li>
 	<li id="navCall">
-        <a href="/2018/Anmeldung">Anmeldung</a>
+        <a href="/2018/anmeldung">Anmeldung</a>
     </li>
 </ul>
