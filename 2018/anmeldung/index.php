@@ -16,11 +16,10 @@
             <?php include('../inc/head.inc'); ?>
 
             <div id="content">
-
                 <?php include('../inc/nav.inc'); ?>
 
-                  <figure>
-                    <img src="img/bonn.jpeg" width="880" height="241" alt="Bonn">
+                <figure>
+                    <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
                     <figcaption>Photo: Stadt Bonn</figcaption>
                 </figure>
 
