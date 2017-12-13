@@ -33,7 +33,7 @@
 				<!--<p class="text-right"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/2017/">Direkt zur Anmeldung &rarr;</a></p>-->
 				<h3>Preise FOSSGIS-Konferenz 2018</h3> 
 				<ul class="list">
-				<li> Supprterticket (Unterstützer): ab € 250</li>
+				<li> Supporterticket (Unterstützer): ab € 250</li>
 				<li> Standardticket (Normalpreis): € 190</li>
 				<li> Standardticket (Frühbucherrabatt bis 06.02.2018, 21 Uhr): € 150</li>
 				<li> Studierendenticket: € 80</li>
