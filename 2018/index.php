@@ -62,7 +62,7 @@
                 <div class="sponsor bronze"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
                 <div class="sponsor bronze"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
                 <div class="sponsor bronze"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
-                <div class="sponsor bronze"><a href="http://qgiscloud.com" target="_blank"><img valign="middle" src="img/s/204_sourcepole.png" width="160" height="40"></a></div>
+                <div class="sponsor bronze"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
 
                 <h3>Medienpartner</h3>
                 <div class="sponsor media">
