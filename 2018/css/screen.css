@@ -113,6 +113,8 @@ ul#mainNav {
         body#call ul#mainNav > li#navCall > a:visited,
         body#anreise ul#mainNav > li#navAnreise > a:link,
         body#anreise ul#mainNav > li#navAnreise > a:visited,
+        body#anmeldung ul#mainNav > li#navAnmeldung > a:link,
+        body#anmeldung ul#mainNav > li#navAnmeldung > a:visited,		
         body#socialEvents ul#mainNav > li#navEvents > a:link,
         body#socialEvents ul#mainNav > li#navEvents > a:visited {
             background-color: #fff;
