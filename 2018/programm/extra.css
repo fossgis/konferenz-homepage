@@ -1,0 +1,40 @@
+ul#mainNav {
+    margin: 0 10px 10px 10px;
+}
+
+ul#progNav {
+	margin: 0 10px 45px 10px;
+	padding: 0;
+	list-style-type: none;
+	border-bottom: 1px solid #e6eeef;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	text-align: left;
+}
+
+ul#progNav > li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+ul#progNav > li > a:link,
+ul#progNav > li > a:visited {
+    line-height: 2;
+    text-decoration: none;
+    color: #2d3841;
+    padding: 5px 5px 3px 5px;
+    border-radius: 3px;
+    
+    transition: background-color 0.25s ease, color 0.15s ease;
+}
+
+ul#progNav > li > a:hover,
+ul#progNav > li > a:active,
+ul#progNav > li > a:focus {
+    background-color: #2d3841;
+    color: #fff;
+}
+
+body#home ul#progNav > li#prog > a:link,
+body#home ul#progNav > li#prog > a:visited,
+
