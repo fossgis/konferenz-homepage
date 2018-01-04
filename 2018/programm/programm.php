@@ -32,10 +32,11 @@
           <h2>
 	    <?php
 	       if (!isset($_GET['day'])) echo "Übersicht";
-	       else if ($_GET['day'] == 0) echo "Mittwoch, 21. März";
-	       else if ($_GET['day'] == 1) echo "Donnerstag, 22. März";
-	       else if ($_GET['day'] == 2) echo "Freitag, 23. März";
-	       else if ($_GET['day'] == 3) echo "Samstag, 24. März";
+           else if ($_GET['day'] == 0) echo "Mittwoch, 21. März";
+	       else if ($_GET['day'] == 1) echo "Mittwoch, 21. März";
+	       else if ($_GET['day'] == 2) echo "Donnerstag, 22. März";
+	       else if ($_GET['day'] == 3) echo "Freitag, 23. März";
+	       else if ($_GET['day'] == 4) echo "Samstag, 24. März";
 	       else echo "Übersicht";
 	       ?>
 	  </h2>
@@ -58,18 +59,18 @@
           <div style="margin: 5px 85px 7px 160px">
             <ul>       	
               <li>
-                <a href="programm.php?day=0">Mittwoch, 21.03.2018</a>
+                <a href="programm.php?day=1">Mittwoch, 21.03.2018</a>
               </li>
 	      
               <li>
-                <a href="programm.php?day=1">Donnerstag, 22.03.2018</a>
+                <a href="programm.php?day=2">Donnerstag, 22.03.2018</a>
               </li>
 	      
               <li>
-                <a href="programm.php?day=2">Freitag, 23.03.2018</a>
+                <a href="programm.php?day=3">Freitag, 23.03.2018</a>
               </li>
 	      <li>
-                <a href="programm.php?day=3">OSM Samstag, 24.03.2018</a>
+                <a href="programm.php?day=4">OSM Samstag, 24.03.2018</a>
               </li>
 	      <li>
 		<a href="/2018/programm/referenten.php">Referenten</a>
