@@ -88,7 +88,7 @@ Bitte beachten Sie, dass die Zufahrt zur City nur mit grüner Umweltplakette mö
 			<li> Telefon: 0228-82345780 </li>
 			<li> E-Mail: info@max-hostel.de </li></ul></p>
 
-			<p><b>Buchungsportal Stadt Bonn:</b> Die Stadt Bonn stellt ein Buchungspertal für Unterkünfte zur Verfügung, über welches Sie buchen können. Jeder Gast, der ein Zimmer über die Buchungsprtalseite bucht, erhält ein ÖPNV-Ticket.</p>
+			<p><b>Buchungsportal Stadt Bonn:</b> Die Stadt Bonn stellt ein Buchungsportal für Unterkünfte zur Verfügung, über welches Sie buchen können. Jeder Gast, der ein Zimmer über die Buchungsportalseite bucht, erhält ein ÖPNV-Ticket.</p>
 			<ul class="list">
 			<li>Web: <a href="http://www.bonn-region.de/events/fossgis.html" rel="nofollow">http://www.bonn-region.de/events/fossgis.html</a></li>
             <li>Telefon: 0228-9104133</li>
