@@ -2,8 +2,8 @@
     <li id="navHome">
         <a href="/2018/">Startseite</a>
     </li>
-    <li id="navCall">
-        <a href="/2018/callforpapers">Call for Papers</a>
+    <li id="navProgramm">
+        <a href="/2018/programm">Programm</a>
     </li>
 	<li id="navAnmeldung">
         <a href="/2018/anmeldung">Anmeldung</a>
