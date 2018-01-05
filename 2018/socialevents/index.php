@@ -53,7 +53,7 @@
 
 		<h3>Samstag, 24. März 2018</h3>
 				<h4>OSM-Samstag </h4>
-				<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Anmeldung und Themensammlung erfolgt im <a href="http://wiki.openstreetmap.org/wiki/FOSSGIS_2018/OSM-Events"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein.</p>
+				<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Anmeldung und Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2018/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein.</p>
 
                 </div>
             <?php include('../inc/footer.inc'); ?>
