@@ -35,7 +35,7 @@
 
         <h3>Mittwoch, 21. März 2018</h3>
 		 <h4>Eröffnung FOSSGIS-Konferenz</h4>
-				<p>um 13:00 Uhr im Wolfgang-Paul-Hörsaal.</p>
+				<p>um 13:00 Uhr im Wolfgang-Paul-Hörsaal, Kreuzbergweg 28, Bonn.</p>
 
 		 <h4>Anwendertreffen</h4>
           <p>Es können an allen Tagen Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen bis 19:30 Uhr zur Verfügung, bitte <a href="mailto:konferenz-orga@fossgis.de">per E-Mail</a>  an das Konferenzteam anfragen oder mit dem Team vor Ort ansprechen.</p>
