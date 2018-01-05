@@ -36,6 +36,9 @@
          <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt.</p>
          <p><strong>Adresse:</strong><br>
 					Geographisches Institut der Universität Bonn<br>
+					Meckenheimer Allee 166<br>
+					sowie<br>
+		    			Geozentrum der Universität Bonn<br>
 					Meckenheimer Allee 176<br>
 					53115 Bonn</p>
 
