@@ -62,14 +62,14 @@
 }
 
 .event.track-sonstiges {
-  background-color: #0e7d35;
-  border-color: #0e7d35;
+  background-color: #FFFFB3;
+  border-color: #FFFFB3;
 }
 .event.track-sonstiges div.event-header {
-  background-color: #0e7d35;
+  background-color: #FFFFB3;
 }
 .event.track-sonstiges div.event-header a {
-  color: #fff;
+  color: #000;
 }
 
 .event.track-workshop-bezahlt {
