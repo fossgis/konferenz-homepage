@@ -9,6 +9,8 @@
 
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/konf-2018/widget/v1.css">
+		<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 
     </head>
     <body id="anmeldung">
@@ -20,14 +22,14 @@
                 <?php include('../inc/nav.inc'); ?>
 
                   <figure>
-                    <img src="img/bonn.jpeg" width="880" height="241" alt="Bonn">
+                    <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
                     <figcaption>Photo: Stadt Bonn</figcaption>
                 </figure>
 
                 <h2>Anmeldung zur Konferenz</h2>
 				<!-- <p class="text-right"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/konf-2018/">Direkt zur Anmeldung &rarr;</a></p>-->
                 <p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz 2018 zu werden. Die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Wir freuen uns auf Sie!</p>
-                <p>In Erwartung von &uuml;ber 400 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. Ab 06.01.2018 wird die Online-Anmeldung geöffnet.</p>
+                <p>In Erwartung von &uuml;ber 400 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages erhalten Sie den Link zu Ihrem Ticket.</p>
 <!--Hier gelangen Sie <a href="https://pretix.eu/fossgis/konf-2018/"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 19.03.2017 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="https://www.fossgis-konferenz.de/2018/programm/">Programm</a>. </p>-->
 				<p>Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk. Vor Ort kann nur in bar bezahlt werden.</p>
 
@@ -41,11 +43,22 @@
 				<li> Workshop: € 100</li>
 				<li> Workshop (Frühbucherrabatt bis 06.02.2018, 21 Uhr): € 90</li>
 				</ul>
-                <p><b>Im Konferenzticket enthalten:</b> FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tagungsband, Tasche, Abendveranstaltung Campus-Dialoge.<br>
-* Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive. Bitte bei der Anmeldung im "Freitext für FOSS/OSM-Community Aktive" angeben.</p>
+                <p><b>Im Konferenzticket enthalten: </b>FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tasche und wenn bestellt Tagungsband, T-Shirt und Abendveranstaltung Campus-Dialoge.<br>
+* Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie Helfer der Konferenz. Bitte bei der Anmeldung im "Freitext zum Communityticket" angeben.</p>
 
                 <h3>Helfer</h3>
-                <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen sowie beim Catering zu unterstützen. Bei Interesse bitte bei per E-Mail unter konferenz-orga@fossgis.de melden und Zeitraumpräferenz angeben. Es ist möglich dafür ein kostenfreies Ticket zu erhalten.</p>
+                <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte direkt per E-Mail an konferenz-orga@fossgis.de melden oder die entsprechenden Fragen in der Onlineanmeldung beantworten. Es ist möglich dafür das kostenfreie "Community-Ticket" zu erhalten.</p>
+
+				<h3>Anmeldeformular</h3>
+				<pretix-widget event="https://pretix.eu/fossgis/konf-2018/"></pretix-widget>
+				<noscript>
+  				 <div class="pretix-widget">
+       			 <div class="pretix-widget-info-message">
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/konf-2018/">hier</a>.
+        		 </div>
+    			 </div>
+				</noscript>
+				
 
 
             </div>
