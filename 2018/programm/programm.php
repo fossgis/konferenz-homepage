@@ -50,6 +50,12 @@
 
                 $table = str_replace("de/2018/public/events/", "2018/programm/event.php?id=", $table);
                 $table = str_replace("de/2018/public/speakers/", "2018/programm/speaker.php?id=", $table);
+# hack replaces titles
+                $table = str_replace("<hr>","",$table);
+                $table = str_replace("<h2>Wolfgang-Paul-Hörsaal, Alfred-Philippson-Hörsaal, Hörsaal II - Geozentrum, Hörsaal IV - Geozentrum, Übungsraum 1 - Geozentrum, Übungsraum 6 - Geographie, Gislabor - Kartographie</h2>", '',$table);
+                $table = str_replace("<h2>Alfred-Philippson-Hörsaal, Hörsaal II - Geozentrum, Hörsaal IV - Geozentrum, Übungsraum 1 - Geozentrum, Übungsraum 6 - Geographie, Gislabor - Kartographie, Roter Saal</h2>", '',$table);
+                $table = str_replace("<h2>Alfred-Philippson-Hörsaal, Hörsaal II - Geozentrum, Hörsaal IV - Geozentrum, Übungsraum 1 - Geozentrum, Übungsraum 6 - Geographie, Gislabor - Kartographie</h2>", '',$table);
+                $table = str_replace("<h2>Roter Saal</h2>", '',$table);
 	        echo $table;
 
 	     } else {

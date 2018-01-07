@@ -22,8 +22,11 @@
                 </figure>
 
       <h2>Social Events</h2>
-        <h3>OSGeo Code Sprint 2018</h3>
-		<p>Zeitgleich zur FOSSGIS findet der internationale <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo Code Sprint</a> vom 19. bis 25. März 2018 im Bonner BaseCamp statt. Der In- und Outdoor Retro-Park mit ausrangierten Wohnwagen und Zugschlafwagen hat sich mit seinem nostalgischen Flair schon bei der FOSS4G 2016 bewährt.<br> Wer Lust hat internationale Entwickler unserer OSGeo-Projekte zu treffen, beteiligt sich am "Pubrace". Beim seit der FOSS4G 2016 beliebten Pubrace treffen sich Leute Abends ab 20 Uhr bei einem Getränk im <a href="http://www.openstreetmap.org/node/1581262116">Namenlos Bonn</a> am Tor zur Bonner Altstadt oder im <a href="http://www.openstreetmap.org/node/225642197">Pawlow</a> im Herzen derselbigen.</p>
+        <h3>Zusammentreffen mit den OSGeo Code Sprintern 2018</h3>
+		<p>Zeitgleich zur FOSSGIS findet der internationale <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo Code Sprint</a> vom 19. bis 25. März 2018 im Bonner BaseCamp statt. Der In- und Outdoor Retro-Park mit ausrangierten Wohnwagen und Zugschlafwagen hat sich mit seinem nostalgischen Flair schon bei der FOSS4G 2016 bewährt.
+		<br> Wer Lust hat internationale Entwickler unserer OSGeo-Projekte zu treffen, beteiligt sich am "Pubrace". Beim seit der FOSS4G 2016 beliebten Pubrace treffen sich Leute Abends ab 20 Uhr bei einem Getränk im <a href="http://www.openstreetmap.org/node/1581262116">Namenlos Bonn</a> am Tor zur Bonner Altstadt oder im <a href="http://www.openstreetmap.org/node/225642197">Pawlow</a> im Herzen derselbigen.
+		    <br>Wer Lust hat direkt auch am OSGeo Code Sprint teilzunehmen ist ebenso herzlich eingeladen. Anmeldung unter <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo Code Sprint</a>.
+		    </p>
 
 		
 
@@ -32,7 +35,7 @@
 
         <h3>Mittwoch, 21. März 2018</h3>
 		 <h4>Eröffnung FOSSGIS-Konferenz</h4>
-				<p>um 13:00 Uhr im Wolfgang-Paul-Hörsaal.</p>
+				<p>um 13:00 Uhr im Wolfgang-Paul-Hörsaal, Kreuzbergweg 28, Bonn.</p>
 
 		 <h4>Anwendertreffen</h4>
           <p>Es können an allen Tagen Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen bis 19:30 Uhr zur Verfügung, bitte <a href="mailto:konferenz-orga@fossgis.de">per E-Mail</a>  an das Konferenzteam anfragen oder mit dem Team vor Ort ansprechen.</p>
@@ -50,7 +53,7 @@
 
 		<h3>Samstag, 24. März 2018</h3>
 				<h4>OSM-Samstag </h4>
-				<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Anmeldung und Themensammlung erfolgt im <a href="http://wiki.openstreetmap.org/wiki/FOSSGIS_2018/OSM-Events"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein.</p>
+				<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Anmeldung und Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2018/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein.</p>
 
                 </div>
             <?php include('../inc/footer.inc'); ?>

@@ -36,6 +36,9 @@
          <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt.</p>
          <p><strong>Adresse:</strong><br>
 					Geographisches Institut der Universität Bonn<br>
+					Meckenheimer Allee 166<br>
+					sowie<br>
+		    			Geozentrum der Universität Bonn<br>
 					Meckenheimer Allee 176<br>
 					53115 Bonn</p>
 
@@ -81,7 +84,7 @@ Bitte beachten Sie, dass die Zufahrt zur City nur mit grüner Umweltplakette mö
          <h3>Unterkunft</h3>
           <p>Die Stadt Bonn stellt ein Buchungsportal exklusiv für FOSSGIS-Konferenz-Teilnehmer*innen zur Verfügung. Das Local Team hat das Max Hostel für den Zeitraum vom 20.-25.03.2018 mit knapp 50 Betten reserviert.
 
-			<p><b>Max Hostel:</b> Falls Sie daran interssiert sind, nehmen Sie Kontakt mit dem Hostel auf und geben sich als Teilnehmer der "FOSSGIS Konferenz 2018" zu erkennen (z.B. im Buchungsformular unter "Anreisegrund").</p>
+			<p><b>Max Hostel:</b> Falls Sie daran interssiert sind, nehmen Sie bitte direkt Kontakt mit dem Hostel auf und geben sich als Teilnehmer der "FOSSGIS Konferenz 2018" zu erkennen (z.B. im Buchungsformular unter "Anreisegrund").</p>
 			<ul class="list">
 			<li> Web: <a href="https://www.max-hostel.de/" rel="nofollow">https://www.max-hostel.de/ </a></li>
 			<li> Adresse: Max Hostel Maxstr. 7, 53111 Bonn </li>
