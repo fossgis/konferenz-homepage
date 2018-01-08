@@ -50,8 +50,8 @@
                 <div class="sponsors">
 
                   <h3>Goldsponsoren</h3>
-                    <div class="sponsor gold"><a href="https://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
-                    <div class="sponsor gold"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.PNG" valign="middle" width="170" height="94"></a></div>
+                    <div class="sponsor gold" id="wheregroup"><a href="https://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+                    <div class="sponsor gold" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.PNG" valign="middle" width="170" height="94"></a></div>
 
                 <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
                     <h3>Silbersponsoren</h3>
@@ -59,15 +59,16 @@
 
                  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
                 <h3>Bronzesponsoren</h3>
-                <div class="sponsor bronze"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
-                <div class="sponsor bronze"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
-                <div class="sponsor bronze"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
-                <div class="sponsor bronze"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
+                <div class="sponsor bronze" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
+                <div class="sponsor bronze" id="omundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
+                <div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
+                <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
+				<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
 
                 <h3>Medienpartner</h3>
-                <div class="sponsor media">
+                <div class="sponsor media" id="TIB">
                   <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/401_TIB.PNG" width="241" height="70"></a></div>
-                  <div class="sponsor media"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
+                  <div class="sponsor media" id="C3VOC"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
                   <!-- <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div> -->
                    <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" height="65px"></a></div>
                 <br>
