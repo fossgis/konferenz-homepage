@@ -38,6 +38,7 @@
  	     $referenten = str_replace("de/2018/public/speakers/", "2018/programm/speaker.php?id=", $referenten);
              $referenten = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referenten);
 	     $referenten = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referenten);
+        $referenten = str_replace("/small/", "/large/",$referenten);
 	  
 	  echo "<h2>Referenten</h2>";
           echo $referenten;
