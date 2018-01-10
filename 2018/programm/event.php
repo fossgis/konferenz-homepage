@@ -50,9 +50,9 @@
                 $referent = str_replace("de/2018/public/speakers/", "2018/programm/speaker.php?id=", $referent);
                 $referent = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referent);
                 $referent = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referent);
+                $referent = str_replace("/small/", "/large/", $referent);
                 $text = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text);
                 $text = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text);
-	  
                 echo "<h3>" . $topic . "</h3>";
                 echo $referent;
 	  echo $text;
