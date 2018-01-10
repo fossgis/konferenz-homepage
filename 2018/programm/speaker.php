@@ -27,7 +27,7 @@
                 <figure>
                     <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
                     <figcaption>Photo: Stadt Bonn</figcaption>
-                </figure>>
+                </figure>
 	  
 	  <?php
 
@@ -44,6 +44,8 @@
 	  
           $text1 = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text1);
           $text1 = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text1);
+          # event logo in large
+          $text3= str_replace("/small/", "/large/",$text3);  
 
 	  echo "<h2>" . $referent . "</h2>";
           echo $text1;
