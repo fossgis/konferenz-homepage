@@ -69,9 +69,11 @@
                 <div class="sponsor media" id="TIB">
                   <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/401_TIB.PNG" width="241" height="70"></a></div>
                   <div class="sponsor media" id="C3VOC"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
-                  <!-- <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div> -->
-                   <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239px"></a></div>
+                  <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/404_OSGeoLive_banner.png" width="239px"></a></div>
                 <br>
+				  <div class="sponsor media" id="wichmann"><a href="https://gispoint.de" target="_blank"><img valign="middle" src="img/s/405_Wichmann_sw-116.png" width="116" height="23"></a></div>
+                  <div class="sponsor media" id="nextone"></div>
+ 				  <div class="sponsor media" id="nextone"></div>
 
                 <p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
                 </div>
