@@ -43,7 +43,7 @@
 					53115 Bonn</p>
 
         <h3>Anreise</h3>
-		 <p>Der <a href="http://www.openstreetmap.org/#map=17/50.72510/7.09125"> Konferenzstandort</a> ist gut an das ÖV Netz angebunden und schnell zu erreichen.</p>
+		 <p>Der <a href="https://www.openstreetmap.org/?mlat=50.72548&mlon=7.09135#map=17/50.72548/7.09135"> Konferenzstandort</a> ist gut an das ÖV Netz angebunden und schnell zu erreichen.</p>
 		 <ul class="list">
 			<li>1,5 km in die Altstadt von Bonn</li>
 			<li>1 km zum Hauptbahnhof Bonn</li>
