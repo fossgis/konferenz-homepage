@@ -50,6 +50,7 @@
                 <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte direkt per E-Mail an konferenz-orga@fossgis.de melden oder die entsprechenden Fragen in der Onlineanmeldung beantworten. Es ist möglich dafür das kostenfreie "Community-Ticket" zu erhalten.</p>
 
 				<h3>Anmeldeformular</h3>
+				<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, finden Sie hier den direkten Link zum <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/konf-2018/">Ticketsystem</a>.
 				<pretix-widget event="https://pretix.eu/fossgis/konf-2018/"></pretix-widget>
 				<noscript>
   				 <div class="pretix-widget">
