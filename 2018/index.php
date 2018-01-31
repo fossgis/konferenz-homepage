@@ -60,7 +60,7 @@
                  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
                 <h3>Bronzesponsoren</h3>
                 <div class="sponsor bronze" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
-                <div class="sponsor bronze" id="omundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
+                <div class="sponsor bronze" id="mundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
                 <div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
                 <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
 				<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
