@@ -129,7 +129,8 @@ list-style:none;margin:5px 1px 0 0}#horizontal-navigation ul li a{color:#666;pad
 
 /* Custom Conference CSS */
 
-.description {display: none;}
+/* The description field contains the long abstract at FOSSGIS 2018 while the abstract field contains the short abstract for the booklet. */
+.abstract {display: none;}
 #horizontal-navigation {padding: 1em 0.7em 1em 2em;}
 a.close {display: none;}
 #main-content {}
