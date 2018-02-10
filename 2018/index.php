@@ -52,7 +52,7 @@
                   <h3>Goldsponsoren</h3>
                     <div class="sponsor gold" id="wheregroup"><a href="https://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
                     <div class="sponsor gold" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/002_terrestris.PNG" valign="middle" width="170" height="94"></a></div>
-<div class="sponsor gold" id="geocat"><a href="https://www.geocat.net/" target="_blank"><img src="img/s/003_GeoCat.png" valign="middle" width="315" height="85"></a></div>
+					<div class="sponsor gold" id="geocat"><a href="https://www.geocat.net/" target="_blank"><img src="img/s/003_GeoCat.png" valign="middle" width="315" height="85"></a></div>
 
                 <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
                     <h3>Silbersponsoren</h3>
@@ -67,6 +67,7 @@
 				<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
 				<div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
 				<div class="sponsor bronze" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/207_Logo_geoSYS_FOSSGIS.png" width="140" height="76"></a></div>
+				<div class="sponsor bronze" id="GKG Kassel - Dr.-Ing. Claas Leiner"><a href="http://www.gkg-kassel.de" target="_blank"><img valign="middle" src="img/s/208_gkg_logo.png" width="130" height="99"></a></div>
 
                 <h3>Medienpartner</h3>
                 <div class="sponsor media" id="TIB">
