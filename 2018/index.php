@@ -68,6 +68,7 @@
 				<div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
 				<div class="sponsor bronze" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/207_Logo_geoSYS_FOSSGIS.png" width="140" height="76"></a></div>
 				<div class="sponsor bronze" id="GKG Kassel - Dr.-Ing. Claas Leiner"><a href="http://www.gkg-kassel.de" target="_blank"><img valign="middle" src="img/s/208_gkg_logo.png" width="130" height="99"></a></div>
+				<div class="sponsor bronze" id="Kuestenschmiede"><a href="https://con4gis.org" target="_blank"><img valign="middle" src="img/s/209_kuestenschmiede.png" width="150" height="42"></a></div>
 
                 <h3>Medienpartner</h3>
                 <div class="sponsor media" id="TIB">
