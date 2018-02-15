@@ -24,7 +24,7 @@
 
             <div class="organisers">
                 <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/fossgis.png" valign="middle"></a></div>
-                <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/osgeo.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/osgeo.png" width="180px" valign="middle"></a></div>
                 <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm.png" valign="middle"></a></div>
             </div>
             <p class="clear"></p>
