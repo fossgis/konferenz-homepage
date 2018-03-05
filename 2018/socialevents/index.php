@@ -53,7 +53,7 @@ Darüber hinaus kann das Social Event auch separat ohne Konferenzteilnahme gebuc
 
 		<h3>Donnerstag, 22. März 2018</h3>
 		 <h4>FOSSGIS e.V. Mitgliederversammlung</h4>
-			<p>ab 18:15 Uhr im Seminarraum XX (wird noch festgelegt). Es wird für alle Pizza bestellt.</p>
+			<p>ab 18:15 Uhr im Alfred-Philippson-Hörsaal. Es wird für alle Pizza bestellt und Getränke stehen bereit.</p>
 
 		<h3>Freitag, 23. März 2018</h3>
 				<h4>Sektempfang am FOSSGIS-Stand </h4>
