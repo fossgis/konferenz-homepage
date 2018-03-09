@@ -42,9 +42,9 @@
 
 		<h4>Abendveranstaltung "Campus-Dialoge"</h4>
 		 <p>Das gesellige Beisammensein findet von 19:15 - 0:30 Uhr in der CAMPO Campusmensa Poppelsdorf der Universität Bonn statt. Die "Campus-Dialoge" werden sich durch ein offenes Ambiente auszeichnen.
-Neben einem reichhaltigen Rheinischen und Mediterranen Buffet und Getränken bieten wir Raum zur Diskussion und zur späteren Stunde auch ein kulturelles Programm. 
+Neben einem reichhaltigen Rheinischenm Buffet und Getränken bieten wir Raum zur Diskussion und zur späteren Stunde auch ein kulturelles Programm. 
 <br>
-<a href="https://de-de.facebook.com/dadsphonkey/" target="_blank" title="Dad's Phonkey">Dad's Phonkey - Christian Padberg</a> singt mit sich selbst und entfacht mit seiner Loop-Station ein musikalisches Feuerwerk. Anschließend wird das <a href="http://luchaamada.blogsport.de/" target="_blank" title="DJ Kollektiv Lucha Amada">DJ Kollektiv Lucha Amada</a> für Stimmung sorgen.
+<a href="https://de-de.facebook.com/dadsphonkey/" target="_blank" title="Dad's Phonkey">Dad's Phonkey - Christian Padberg</a> singt mit sich selbst und entfacht mit seiner Loop-Station ein musikalisches Feuerwerk. Anschließend wird Rafa vom <a href="http://luchaamada.blogsport.de/" target="_blank" title="DJ Kollektiv Lucha Amada">Lucha Amada DJ Kollektiv</a> für Stimmung sorgen.
 <br>
 Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Wir bitten darum bei der Anmeldung die Teilnahme an der Abendveranstaltung anzugeben, dies dient der guten Planung der Veranstaltung. 
 <br>
