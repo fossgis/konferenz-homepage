@@ -31,7 +31,7 @@
 		
 
 		 <h3>Dienstag, 20. März 2018</h3>
-         <p>Ab 19:30 Uhr Inoffizieller Start mit einem gemeinsamen Abendessen für alle schon anwesenden FOSSGIS'ler im <a href="https://www.bierhaus-machold.com/">Bierhaus Macholds</a> in der <a href="http://www.openstreetmap.org/node/252474810">Heerstraße 52 - 53111 Bonn</a>. Jeder bezahlt seine Rechnung selbst. </p>
+         <p>Ab 19:30 Uhr Inoffizieller Start mit einem gemeinsamen Abendessen für alle schon anwesenden FOSSGIS'ler im <a href="http://tuscolo-frankenbad.de/">Tuscolo Frankenbad</a> in der <a href="https://www.openstreetmap.org/#map=18/50.73988/7.08828">Kaiser-Karl-Ring 63 Bonn</a>. Jeder bezahlt seine Rechnung selbst. </p>
 
         <h3>Mittwoch, 21. März 2018</h3>
 		 <h4>Eröffnung FOSSGIS-Konferenz</h4>
