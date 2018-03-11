@@ -7,7 +7,7 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2018, FOSSGIS-Konferenz 2018, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM-Event, Universität Bonn">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-         
+        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
         <link rel="stylesheet" href="../css/leaflet.css">

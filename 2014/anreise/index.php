@@ -7,10 +7,10 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2014, FOSSGIS-Konferenz 2014, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, Beuth-Hochschule Berlin">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        
+        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <script type="text/javascript" src="/OpenLayers.js"> </script>
+        <script type="text/javascript" src="/static/openlayers/2.13.1/OpenLayers.js"> </script>
         <script type="text/javascript" src="script/function.js"> </script>
 
     </head>

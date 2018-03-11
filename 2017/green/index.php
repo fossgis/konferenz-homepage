@@ -7,7 +7,7 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz 2016, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM, Universität Passau, Green Meeting, Inn, Donau">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        
+        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
     </head>
