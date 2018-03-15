@@ -42,6 +42,15 @@
 					Meckenheimer Allee 176<br>
 					53115 Bonn</p>
 
+ 					<img src="../img/Gelaendeplan.png" height="440" class="city" valign="middle">
+
+<p> Sie finden den Welcome Desk im Büdchen. Im Gebäude des Geographischen Instituts finden Sie den Alfred-Philippson-Hörsaal, einen Workshopraum, dort findet auch eine Pausenversorgung statt. Im Kartographiegebäude finden Sie einen Workshopraum. Im Gebäude Geozentrum sind zwei Hörsäle, ein Workshopraum, die Aussteller sowie die Pausenversorgung.</p>
+<img src="../img/Giu.jpg" height="230" class="city" valign="middle">
+
+<img src="../img/Karto.jpg" height="150" class="city" valign="middle">
+<img src="../img/Geoz.jpg" height="240" class="city" valign="middle">
+          
+
         <h3>Anreise</h3>
 		 <p>Der <a href="http://www.openstreetmap.org/#map=17/50.72510/7.09125"> Konferenzstandort</a> ist gut an das ÖV Netz angebunden und schnell zu erreichen.</p>
 		 <ul class="list">

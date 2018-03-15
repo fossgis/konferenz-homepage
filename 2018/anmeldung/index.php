@@ -46,7 +46,7 @@ Der Besuch eines Workshop setzt ein Konferenzticket voraus.</p>
 				<!--<li> Workshop (Frühbucherrabatt bis 06.02.2018, 21 Uhr): € 90</li>-->
 				</ul>
                 <p><b>Im Konferenzticket enthalten: </b>FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tasche und wenn bestellt Tagungsband, T-Shirt und Abendveranstaltung Campus-Dialoge.<br>
-* Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie Helfer der Konferenz. Bitte bei der Anmeldung im "Freitext zum Communityticket" angeben.</p>
+* Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie Helfer der Konferenz.</p>
 
             <!--    <h3>Helfer</h3>
                 <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte direkt per E-Mail an konferenz-orga@fossgis.de melden oder die entsprechenden Fragen in der Onlineanmeldung beantworten. Es ist möglich dafür das kostenfreie "Community-Ticket" zu erhalten.</p>-->
