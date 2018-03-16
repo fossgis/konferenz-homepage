@@ -33,7 +33,7 @@
 		      <div id="map"></div></div>-->
 
 		<h3>Allgemeines</h3>
-         <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt.</p>
+         <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt (<a href="http://www.openstreetmap.org/#map=17/50.72510/7.09125">zum Konferenzstandort auf http://www.openstreetmap.org</a>)</p>
          <p><strong>Adresse:</strong><br>
 					Geographisches Institut der Universität Bonn<br>
 					Meckenheimer Allee 166<br>
