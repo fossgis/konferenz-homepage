@@ -80,7 +80,7 @@
 	          <li>
 		        <a href="https://frab.fossgis-konferenz.de/de/2018/public/schedule" target="_blank">Programmseite</a>
 			  <li>
-				<a href="http://streaming.media.ccc.de/fossgis17/">Vorträge im Livestream</a></li>
+				<a href="http://streaming.media.ccc.de/">Vorträge im Livestream</a></li>
 	          </li>
             </ul>
           </div>
