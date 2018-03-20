@@ -109,14 +109,16 @@ ul#mainNav {
 
         body#home ul#mainNav > li#navHome > a:link,
         body#home ul#mainNav > li#navHome > a:visited,
-        body#call ul#mainNav > li#navCall > a:link,
-        body#call ul#mainNav > li#navCall > a:visited,
+        body#programm ul#mainNav > li#navProgramm > a:link,
+        body#programm ul#mainNav > li#navProgramm > a:visited,
         body#anreise ul#mainNav > li#navAnreise > a:link,
         body#anreise ul#mainNav > li#navAnreise > a:visited,
         body#anmeldung ul#mainNav > li#navAnmeldung > a:link,
         body#anmeldung ul#mainNav > li#navAnmeldung > a:visited,		
         body#socialEvents ul#mainNav > li#navEvents > a:link,
-        body#socialEvents ul#mainNav > li#navEvents > a:visited {
+        body#socialEvents ul#mainNav > li#navEvents > a:visited,
+        body#team ul#mainNav > li#navTeam > a:link,
+        body#team ul#mainNav > li#navTeam > a:visited {
             background-color: #fff;
 			color: #eb7f00;
         }
@@ -223,6 +225,14 @@ div.app {
 	margin: 0 10px 20px 10px;
 	padding: 10px;
 	border: 1px solid #C8ADAB;
+	border-radius: 10px;
+	text-align: center;
+}
+
+div.vocbox {
+	margin: 0 85px 20px 160px;
+	padding: 10px;
+	border: 1px solid #eb7f00;
 	border-radius: 10px;
 	text-align: center;
 }

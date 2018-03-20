@@ -79,9 +79,19 @@
 	          </li>
 	          <li>
 		        <a href="https://frab.fossgis-konferenz.de/de/2018/public/schedule" target="_blank">Programmseite</a>
+			  <li>
+				<a href="http://streaming.media.ccc.de/fossgis17/">Vorträge im Livestream</a></li>
 	          </li>
             </ul>
           </div>
+<p>&nbsp; </p>
+  <p>FOSSGIS 2018 auf dem Smartphone:</p>
+          <div style="margin: 5px 85px 7px 160px">
+            <ul>
+              <li>Programm für Android (Tobias Preuss) <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule" target="_blank">PlayStore</a> oder <a href="../data/FOSSGIS-2018-1.33.5.apk" target="_blank">Direktdownload der APK</a>
+              </li>
+ 			  <li>Lokalteam-APP (Stephan Herritsch und Arne Schubert) <a href="https://yagajs.org/fossgis2018.apk">Direktdownload der APK</a> <a href="../data/FOSSGIS-2018-1.33.5.apk" target="_blank"></a>oder <a href="https://fossgis2018.yagajs.org/" target="_blank"> als Web-APP.              </li> 
+
 
           <?php
 	     }

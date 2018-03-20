@@ -15,7 +15,7 @@
 	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>	
     </head>
     
-    <body id="programm">
+    <body id="team">
       <div id="wrap">
         <?php include('../inc/head.inc'); ?>
 	

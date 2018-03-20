@@ -29,8 +29,7 @@
                 <h2>Anmeldung zur Konferenz</h2>
 				<!-- <p class="text-right"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/konf-2018/">Direkt zur Anmeldung &rarr;</a></p>-->
                 <p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz 2018 zu werden. Die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Wir freuen uns auf Sie!</p>
-                <p><b>Die Konferenz 2018 ist erstmalig ausgebucht.</b> Frei werdende Tickets (über Stornierung) werden über eine Warteliste angeboten.  
-Der Besuch eines Workshop setzt ein Konferenzticket voraus.</p>
+                <p><b>Die Konferenz 2018 ist erstmalig mit mehr als 450 Teilnehmern ausgebucht.</b> </p>
 <!--In Erwartung von &uuml;ber 400 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages erhalten Sie den Link zu Ihrem Ticket.</p>
 <!--Hier gelangen Sie <a href="https://pretix.eu/fossgis/konf-2018/"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 19.03.2017 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="https://www.fossgis-konferenz.de/2018/programm/">Programm</a>. </p>-->
 				<!--<p>Wir empfehlen Ihnen sich online anzumelden. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden. Im Falle einer Vor-Ort-Anmeldung kann nur in bar bezahlt werden. </p>
