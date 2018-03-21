@@ -140,3 +140,15 @@ a.close {display: none;}
 table.rooms-table td.cell-time {
   vertical-align: top;
 }
+
+/* move tile and subtitle of a talk to the left, missing 160px on the left look strange */
+div#content > #event-pagetitle,
+div#content > #event-title,
+div#content > #event-subtitle {
+  margin-left: 20px;
+}
+
+div#content > #event-title,
+div#content > #event-subtitle {
+  margin-top: 0px;
+}
