@@ -35,7 +35,7 @@
     defaultColor: "#0a0",
     defaultIcon: "circle-stroked",
     defaultSize: "m",
-    apiUrl: "https://api.tiles.mapbox.com/v3/marker/",
+    apiUrl: "/static/maki_icons/",
     smallOptions: {
       iconSize: [20, 50],
       popupAnchor: [0,-20]
