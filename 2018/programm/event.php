@@ -29,7 +29,7 @@
                     <figcaption>Photo: Stadt Bonn</figcaption>
                 </figure>
 	  
-          <h2>Event-Details</h2>
+          <h2 id='event-pagetitle'>Event-Details</h2>
 	  <?php
 
 	     if (isset($_GET['id'])) {
@@ -40,7 +40,8 @@
 	        //$info->find('h3', 1)->outertext = '';
 	        //$info->find('ul', 0)->outertext = '';
 	        $info->find('div[id=concurrent_events]', 0)->outertext = '';
-                $topic = $html->find('div[id=main-content]', 0)->find('h2', 0)->innertext;
+		$topic = $html->find('div[id=main-content]', 0)->find('h2', 0)->innertext;
+		$subtopic = $html->find('div[id=main-content]', 0)->find('h3[class=title]', 0)->innertext;
 
 	  $info = str_replace("/system/event_attachments/", "https://frab.fossgis-konferenz.de/system/event_attachments/", $info);
 	  $info = str_replace("/attachments/original/", "https://frab.fossgis-konferenz.de/de/attachments/original/", $info);
@@ -53,7 +54,8 @@
                 $referent = str_replace("/small/", "/large/", $referent);
                 $text = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text);
                 $text = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text);
-                echo "<h3>" . $topic . "</h3>";
+		echo "<h3 id='event-title'>" . $topic . "</h3>";
+		echo "<h4 id='event-subtitle'>" . $subtopic . "</h4>";
                 echo $referent;
 	  echo $text;
           echo $info;	  
