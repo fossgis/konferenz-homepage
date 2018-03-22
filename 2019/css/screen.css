@@ -283,8 +283,10 @@ div.sponsor a {
 }
 
 div.organisers {
-	margin: 0 85px 20px 160px;
-	float: left;
+	display: inline-block;
+    width: 500px;
+    margin-left: 250px;
+    margin-bottom: 2em;
 }
 
 	div.sponsor a img {
