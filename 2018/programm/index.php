@@ -55,7 +55,7 @@
 	     } else {
           ?>
 
-	<div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen auf https://media.ccc.de unter <a href="https://media.ccc.de/c/fossgis2018">https://media.ccc.de/c/fossgis2018</a>.</div>
+	<div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen auf </br><a href="https://media.ccc.de/" traget="_blank"><img src="../img/media.ccc.de.png" alt="media.ccc.de" /></a></br> unter <a href="https://media.ccc.de/c/fossgis2018">https://media.ccc.de/c/fossgis2018</a>.</div>
 
           <p>Programmübersicht:</p>
           <div style="margin: 5px 85px 7px 160px">
