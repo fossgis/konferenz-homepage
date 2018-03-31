@@ -35,7 +35,7 @@
                 <p class="clear"></p>
                 <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>		    
  <!-- info livestram <div class="vocbox">Sie können selbst nicht dabei sein? Verfolgen Sie die Vorträge im <a href="http://streaming.media.ccc.de/"> Livestream</a>.</div> -->
- <div class="vocbox">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen auf media.ccc.de unter <a href="https://media.ccc.de/c/fossgis2018">https://media.ccc.de/c/fossgis2018</a>.</div>
+ <div class="vocbox">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen auf <a href="https://media.ccc.de/" traget="_blank"><img src="./img/media.ccc.de.png" alt="media.ccc.de" /></a></br>unter <a href="https://media.ccc.de/c/fossgis2018">https://media.ccc.de/c/fossgis2018</a>.</div>
 
                 <h2>FOSSGIS 2018 auf Twitter</h2>
                 <div id="twitter">
