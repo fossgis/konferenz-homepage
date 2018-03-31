@@ -1,8 +1,8 @@
 <ul id="mainNav">
     <li id="navHome">
-        <a href="/2018/">Startseite</a>
+        <a href="/2019/">Startseite</a>
     </li>
-
+<!--
     <li id="navProgramm">
         <a href="/2018/programm">Programm</a>
     </li>
@@ -18,4 +18,5 @@
     <li id="navEvents">
           <a href="/2018/loc/loc.php">Das Team</a>
     </li>
+-->
 </ul>
