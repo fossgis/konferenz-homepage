@@ -44,22 +44,22 @@ a:focus {
 /* @group Header */
 
 h1 {
-	background: url(../img/fossgis-konferenz-2018.png) no-repeat 0 45px;
+	background: url(../img/fossgis19-logo.png) no-repeat 0 45px;
 	margin: -45px 10px 45px 10px;
 	padding-left: 225px;
 	padding-top: 50px;
 	font-size: 4.8em;
 	line-height: 0.8;
-	letter-spacing: -9px;
+	letter-spacing: -8px;
 	color: rgba(123,145,153,0.1);
 	height: 205px;
-	color: #7b9199;
+	color: #bdc1c1;
 }
 
 h1 > span {
-	color: #7b9199;
+	color: #838b8e;
 	margin-top: -15px;
-	letter-spacing: -6px;
+	letter-spacing: -3px;
 
 	text-shadow: 1px 1px 3px #DDD;
 	filter: dropshadow(color=#DDD, offx=1, offy=1);
