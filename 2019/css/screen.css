@@ -50,7 +50,7 @@ h1 {
 	padding-top: 50px;
 	font-size: 4.8em;
 	line-height: 0.8;
-	letter-spacing: -8px;
+	letter-spacing: -9px;
 	color: rgba(123,145,153,0.1);
 	height: 205px;
 	color: #bdc1c1;
@@ -59,7 +59,7 @@ h1 {
 h1 > span {
 	color: #838b8e;
 	margin-top: -15px;
-	letter-spacing: -3px;
+	letter-spacing: -5px;
 
 	text-shadow: 1px 1px 3px #DDD;
 	filter: dropshadow(color=#DDD, offx=1, offy=1);
