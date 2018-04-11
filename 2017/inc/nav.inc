@@ -4,9 +4,6 @@
     </li>
     <li id="navProgramm">
         <a href="/2017/programm">Programm</a>
-    </li>	
-    <li id="navAnmeldung">
-        <a href="/2017/anmeldung">Anmeldung</a>
     </li>
     <li id="navAnreise">
         <a href="/2017/anreise">Anreise</a>
