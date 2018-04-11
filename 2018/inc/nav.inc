@@ -6,9 +6,9 @@
     <li id="navProgramm">
         <a href="/2018/programm">Programm</a>
     </li>
-	<li id="navAnmeldung">
+    <!-- li id="navAnmeldung">
         <a href="/2018/anmeldung">Anmeldung</a>
-    </li>
+    </li --> 
     <li id="navAnreise">
           <a href="/2018/anreise">Anreise</a>
 	 </li>
@@ -17,5 +17,8 @@
     </li>
     <li id="navTeam">
           <a href="/2018/loc/loc.php">Das Team</a>
+    </li>
+    <li id="navGallery">
+    	 <a href="/2018/gallery">Bilder</a>
     </li>
 </ul>
