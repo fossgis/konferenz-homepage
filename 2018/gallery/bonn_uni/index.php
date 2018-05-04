@@ -28,7 +28,7 @@
 
                 <h2>Bildergalerie</h2>
 		
-		<p>Alle hier dargestellten Bilder sind (c) Frederike Pauk/Geographisches Institut der Universität Bonn und stehen unter der <a href="https://creativecommons.org/licenses/by-nc/3.0/legalcode">CC-BY-NC 3.0 DE</a> Lizenz.</p>
+		<p>Alle hier dargestellten Bilder sind (c) Friederike Pauk/Geographisches Institut der Universität Bonn und stehen unter der <a href="https://creativecommons.org/licenses/by-nc/3.0/legalcode">CC-BY-NC 3.0 DE</a> Lizenz.</p>
 
 		<?php include('imgs.html'); ?>
 
