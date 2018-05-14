@@ -10,8 +10,8 @@
         
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
-        <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+        <link rel="stylesheet" href="../css/leaflet.css">
+        <script src="../js/leaflet/leaflet.js"></script>
         <script src="script/Leaflet.MakiMarkers.js"></script>
 
     </head>

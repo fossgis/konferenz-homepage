@@ -6,12 +6,10 @@
         <meta name="author" content="Oliver Roick. http://oliverroick.de/">
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2017, FOSSGIS-Konferenz 2017, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM-Event, Universität Passau, Qualitätsoffensive OSM Mapping Passau">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
+        
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        <link rel="stylesheet" href="../css/leaflet.css">
+        <script src="../js/leaflet/leaflet.js"></script>
         <script src="script/Leaflet.MakiMarkers.js"></script>
 
     </head>
