@@ -7,7 +7,7 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2014, FOSSGIS-Konferenz 2014, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, Beuth-Hochschule Berlin">
         <meta charset="utf-8">
 
-        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
+        
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
         <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
