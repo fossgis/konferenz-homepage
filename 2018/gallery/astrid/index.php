@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
 	<link rel="stylesheet" href="../static/styles.min.css">
-        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" />
+         
         <link href="../../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 	<script src="../static/photoswipe.min.js"></script>
 	<script src="../static/photoswipe-ui-default.min.js"></script>
