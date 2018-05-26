@@ -10,7 +10,7 @@
         
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"> </script>
+        <script type="text/javascript" src="/OpenLayers.js"> </script>
         <script type="text/javascript" src="script/function.js"> </script>
 
     </head>
