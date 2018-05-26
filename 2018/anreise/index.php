@@ -10,10 +10,6 @@
         <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="/static/leaflet/0.7.3/leaflet.css">
-        <script src="/static/leaflet/0.7.3/leaflet.js"></script>
-        <script src="script/Leaflet.MakiMarkers.js"></script>
-
     </head>
     <body id="anreise">
         <div id="wrap">
@@ -28,9 +24,6 @@
                 </figure>
 
                     <h2>Anreise und Unterkunft</h2>
-
-              <!--      <div id="mapContainer">
-		      <div id="map"></div></div>-->
 
 		<h3>Allgemeines</h3>
          <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt (<a href="http://www.openstreetmap.org/#map=17/50.72510/7.09125">zum Konferenzstandort auf http://www.openstreetmap.org</a>)</p>
