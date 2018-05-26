@@ -61,7 +61,7 @@
 			<li>
 			Ab <a href="http://www.berlin.de/en/airports-and-stations/1872399-2932875-airport-berlin-tegel-txl.en.html"> Flughafen Tegel</a> (TXL) mit dem Bus <a href="http://www.bvg.de/index.php/de/3761/name/Expressbus.html"> X9</a> bis zur Haltestelle Zoologischer Garten und dann weiter mit der <a href="http://www.bvg.de/index.php/de/3737/name/U-Bahnlinie+U9.html"> U9</a> (Richtung Osloer Stra&szlig;e) zur U-Bahn-Station Amrumer Stra&szlig;e.
 			Oder mit dem Bus <a href="http://www.bvg.de/index.php/de/3761/name/Expressbus.html"> TXL</a> (Richtung Alexanderplatz) bis U-Bahnhof Turmstra&szlig;e und dann weiter mit der <a href="http://www.bvg.de/index.php/de/3737/name/U-Bahnlinie+U9.html"> U9</a> (Richtung Osloer Stra&szlig;e) zur U-Bahn-Station Amrumer Stra&szlig;e (jeweils ca. 30 Min.).
-			Oder mit dem <a href"http://www.berlin.de/tourismus/infos/1756978-1721039-taxi.html"> Taxi</a> (20 Min.).
+			Oder mit dem <a href="http://www.berlin.de/tourismus/infos/1756978-1721039-taxi.html"> Taxi</a> (20 Min.).
 			</li>
 			<li>
 			Ab <a href="http://www.berlin.de/tourismus/infos/1872375-1721039-flughafen-berlin-schoenefeld-sxf.html"> Flughafen Berlin Schönefeld</a> (SFX) mit der <a href="http://www.s-bahn-berlin.de/fahrplanundnetz/linie/s45/17"> S45</a> bis zur Haltestelle Bundesplatz - dann weiter mit der <a href="http://www.bvg.de/index.php/de/3737/name/U-Bahnlinie+U9.html"> U9</a> (Richtung Osloer Stra&szlig;e) zur U-Bahn-Station Amrumer Stra&szlig;e.
