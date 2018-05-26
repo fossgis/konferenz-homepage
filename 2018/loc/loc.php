@@ -101,7 +101,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.osgeo.org/member/astrid-emde/'>
-                <div class='image small'><img width='140px' src='https://www.osgeo.org/wp-content/uploads/0297ea5feeacfb917e9915791d1bed3d_400x400-250x250.jpeg' alt='Astrid Emde' /></div>
+                <div class='image small'><img width='140px' src='../img/fossgis-konferenz-2018.png' alt='Astrid Emde' /></div>
             </a>
         </td>
         <td><a href='https://www.osgeo.org/member/astrid-emde/' target='_blank'>Astrid Emde </a></td>
@@ -140,7 +140,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://steve.yagajs.org/'>
-                <div class='image small'><img width='140px' src='https://steve.yagajs.org/pics/steve.jpg' alt='Stephan Herritsch' /></div>
+                <div class='image small'><img width='140px' src='../img/fossgis-konferenz-2018.png' alt='Stephan Herritsch' /></div>
             </a>
         </td>
         <td><a href='https://steve.yagajs.org/' target='_blank'>Stephan Herritsch </a></td>
@@ -196,7 +196,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='http://staging.www.osgeo.org/member/rudzick/'>
-                <div class='image small'><img width='140px' src='https://www.osgeo.org/wp-content/uploads/rudzick_foss4g2016_neu-179x250.jpg' alt='Oliver Rudzick' /></div>
+                <div class='image small'><img width='140px' src='../img/fossgis-konferenz-2018.png' alt='Oliver Rudzick' /></div>
             </a>
         </td>
         <td><a href='http://staging.www.osgeo.org/member/rudzick/' target='_blank'>Oliver Rudzick</a></td>
@@ -205,7 +205,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://atd.yagajs.org/'>
-                <div class='image small'><img width='140px' src='https://atd.yagajs.org/pics/atd.jpg' alt='Arne Schubert' /></div>
+                <div class='image small'><img width='140px' src='../img/fossgis-konferenz-2018.png' alt='Arne Schubert' /></div>
             </a>
         </td>
         <td><a href='https://atd.yagajs.org/' target='_blank'>Arne Schubert </a></td>
