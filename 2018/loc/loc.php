@@ -40,20 +40,20 @@
     <tr>
 	<td style='padding:5px;'>
             <div class='image small'>
-                <a href='https://wiki.osgeo.org/wiki/User:Till_Adams'><img width='140px' src='../img/Till.jpg ' alt='Till Adams' /></a>
+                <a href='https://wiki.osgeo.org/wiki/User:Till_Adams'><img width='140px' src='../img/Till.jpg' alt='Till Adams' /></a>
                 <p class='attribution'>Bild: <a href="https://wiki.osgeo.org/wiki/File:Till.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
             </div>
         </td>
-        <td><a href=' https://wiki.osgeo.org/wiki/User:Till_Adams ' target='_blank'>Till Adams</a></td>
+        <td><a href='https://wiki.osgeo.org/wiki/User:Till_Adams' target='_blank'>Till Adams</a></td>
         <td>Der Mann für alles Unvorhergesehene</td>
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <a href=' https://www.fossgis.de/wiki/Benutzer:Martin_A '>
-                <div class='image small'><img width='140px' src=' https://www.fossgis.de/w/images/e/e5/P1150467_MartinA.jpg ' alt='Martin Arimont ' /></div>
+            <a href='https://www.fossgis.de/wiki/Benutzer:Martin_A'>
+                <div class='image small'><img width='140px' src='https://www.fossgis.de/w/images/e/e5/P1150467_MartinA.jpg' alt='Martin Arimont' /></div>
             </a>
         </td>
-        <td><a href=' https://www.fossgis.de/wiki/Benutzer:Martin_A ' target='_blank'>Martin Arimont </a></td>
+        <td><a href='https://www.fossgis.de/wiki/Benutzer:Martin_A' target='_blank'>Martin Arimont </a></td>
         <td> Local-Team, Social Event</td>
     </tr>
     <tr>
@@ -99,11 +99,11 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <a href=' https://www.osgeo.org/member/astrid-emde/ '>
-                <div class='image small'><img width='140px' src='https://www.osgeo.org/wp-content/uploads/0297ea5feeacfb917e9915791d1bed3d_400x400-250x250.jpeg ' alt='Astrid Emde ' /></div>
+            <a href='https://www.osgeo.org/member/astrid-emde/'>
+                <div class='image small'><img width='140px' src='https://www.osgeo.org/wp-content/uploads/0297ea5feeacfb917e9915791d1bed3d_400x400-250x250.jpeg' alt='Astrid Emde' /></div>
             </a>
         </td>
-        <td><a href=' https://www.osgeo.org/member/astrid-emde/ ' target='_blank'>Astrid Emde </a></td>
+        <td><a href='https://www.osgeo.org/member/astrid-emde/' target='_blank'>Astrid Emde </a></td>
         <td>Local-Team, Programmkommittee, Presse, Sektempfang, Workshoporganisation, Code Sprint</td>
     </tr>
     <tr>
@@ -124,11 +124,9 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <a href='  '>
-                <div class='image small'><img width='140px' src=' https://www.fossgis.de/w/images/3/34/Katja-hafi.png ' alt='Katja Haferkorn ' /></div>
-            </a>
+            <div class='image small'><img width='140px' src='https://www.fossgis.de/w/images/3/34/Katja-hafi.png' alt='Katja Haferkorn' /></div>
         </td>
-        <td><a href='  ' target='_blank'>Katja Haferkorn </a></td>
+        <td>Katja Haferkorn</td>
         <td>Koordination Konferenzorganisation, Schnittstelle FOSSGIS-Konferenzorgateam und Local Team, Teilnehmerbetreuung, Teilnehmeranmeldesystem, Presse, Sponsorenbetreuung, Sektempfang</td>
     </tr>
     <tr>
@@ -140,11 +138,11 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <a href=' https://steve.yagajs.org/ '>
-                <div class='image small'><img width='140px' src=' https://steve.yagajs.org/pics/steve.jpg ' alt='Stephan Herritsch ' /></div>
+            <a href='https://steve.yagajs.org/'>
+                <div class='image small'><img width='140px' src='https://steve.yagajs.org/pics/steve.jpg' alt='Stephan Herritsch' /></div>
             </a>
         </td>
-        <td><a href=' https://steve.yagajs.org/ ' target='_blank'>Stephan Herritsch </a></td>
+        <td><a href='https://steve.yagajs.org/' target='_blank'>Stephan Herritsch </a></td>
         <td> Schnittstelle FOSSGIS und Uni Bonn, Local-Team, FOSSGIS-App, ...</td>
     </tr>
     <tr>
@@ -204,11 +202,11 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <a href=' https://atd.yagajs.org/  '>
-                <div class='image small'><img width='140px' src=' https://atd.yagajs.org/pics/atd.jpg ' alt='Arne Schubert ' /></div>
+            <a href='https://atd.yagajs.org/'>
+                <div class='image small'><img width='140px' src='https://atd.yagajs.org/pics/atd.jpg' alt='Arne Schubert' /></div>
             </a>
         </td>
-        <td><a href=' https://atd.yagajs.org/  ' target='_blank'>Arne Schubert </a></td>
+        <td><a href='https://atd.yagajs.org/' target='_blank'>Arne Schubert </a></td>
         <td> Local-Team, Programmkommittee, FOSSGIS-App, Anmeldesystem, Presse</td>
     </tr>
     <tr>
