@@ -12,7 +12,7 @@
 
         <link rel="stylesheet" href="/static/css/leaflet/0.7.7/leaflet.css">
         <script src="/static/js/leaflet/0.7.7/leaflet.js"></script>
-        <script src="script/Leaflet.MakiMarkers.js"></script>
+        <script src="/static/maki_icons/Leaflet.MakiMarkers.js"></script>
 
     </head>
     <body id="anreise">
