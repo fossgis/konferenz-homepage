@@ -41,7 +41,7 @@
 	<td style='padding:5px;'>
             <div class='image small'>
                 <a href='https://wiki.osgeo.org/wiki/User:Till_Adams'><img width='140px' src='../img/Till.jpg' alt='Till Adams' /></a>
-                <p class='attribution'>Bild: <a href="https://wiki.osgeo.org/wiki/File:Till.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
+                <p class='attribution'>Bild: <a rel="nofollow" href="https://wiki.osgeo.org/wiki/File:Till.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
             </div>
         </td>
         <td><a href='https://wiki.osgeo.org/wiki/User:Till_Adams' target='_blank'>Till Adams</a></td>
@@ -50,7 +50,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.fossgis.de/wiki/Benutzer:Martin_A'>
-                <div class='image small'><img width='140px' src='https://www.fossgis.de/w/images/e/e5/P1150467_MartinA.jpg' alt='Martin Arimont' /></div>
+                <div class='image small'><img width='140px' src='../img/Martin_Arimont.jpg' alt='Martin Arimont' /></div>
             </a>
         </td>
         <td><a href='https://www.fossgis.de/wiki/Benutzer:Martin_A' target='_blank'>Martin Arimont </a></td>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <div class='image small'><img width='140px' src='https://frab.fossgis-konferenz.de/system/people/avatars/000/000/026/large/peda.jpg?1456094780' alt='Peter Barth' /></div>
+            <div class='image small'><img width='140px' src='../img/peda.jpg' alt='Peter Barth' /></div>
         </td>
         <td>Peter Barth</td>
         <td>OSM Samstag</td>
@@ -73,7 +73,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://c3voc.de/'>
-                <div class='image small'><img width='140px' src='https://www.fossgis-konferenz.de/2018/img/s/402_voc_square.png' alt='C3VOC' /></div>
+                <div class='image small'><img width='140px' src='../img/s/402_voc_square.png' alt='C3VOC' /></div>
             </a>
         </td>
         <td><a href='https://c3voc.de/' target='_blank'>C3VOC</a></td>
@@ -82,7 +82,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://fossgis-konferenz.de/2018/programm/speaker.php?id=36'>
-                <div class='image small'><img width='140px' src='https://frab.fossgis-konferenz.de/system/people/avatars/000/000/036/large/20130304_otto_small.png?1452621566' alt='Otto Dassau' /></div>
+                <div class='image small'><img width='140px' src='../img/Otto_Dassau.jpg' alt='Otto Dassau' /></div>
             </a>
         </td>
         <td><a href='https://fossgis-konferenz.de/2018/programm/speaker.php?id=36' target='_blank'>Otto Dassau</a></td>
@@ -91,8 +91,9 @@
     <tr>
         <td style='padding:5px;'>
             <a href='http://wiki.osgeo.org/wiki/User:Bastian'>
-                <div class='image small'><img width='140px' src='http://wiki.osgeo.org/images/thumb/1/1f/Dreesb.jpg/200px-Dreesb.jpg' alt='Bastian Drees' /></div>
+                <img width='140px' src='../img/Bastian_Drees.jpg' alt='Bastian Drees' />
             </a>
+            <p class='attribution'>Bild: <a rel="nofollow" href="https://wiki.osgeo.org/wiki/File:Dreesb.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
         </td>
         <td><a href='http://wiki.osgeo.org/wiki/User:Bastian' target='_blank'>Bastian Drees</a></td>
         <td>Veröffentlichung der Videoaufzeichnungen im TIB-AV Portal</td>
@@ -116,7 +117,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.fossgis-konferenz.de/2018/programm/speaker.php?id=1714'>
-                <div class='image small'><img width='140px' src='https://frab.fossgis-konferenz.de/system/people/avatars/000/001/714/large/IMG_3602bklq.JPG?1520250954' alt='Prof. Dr. Klaus Greve' /></div>
+                <div class='image small'><img width='140px' src='../img/Klaus_Greve.jpg' alt='Prof. Dr. Klaus Greve' /></div>
             </a>
         </td>
         <td><a href='https://www.fossgis-konferenz.de/2018/programm/speaker.php?id=1714' target='_blank'>Prof. Dr. Klaus Greve</a></td>
@@ -124,7 +125,7 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <div class='image small'><img width='140px' src='https://www.fossgis.de/w/images/3/34/Katja-hafi.png' alt='Katja Haferkorn' /></div>
+            <div class='image small'><img width='140px' src='../img/Katja-hafi.png' alt='Katja Haferkorn' /></div>
         </td>
         <td>Katja Haferkorn</td>
         <td>Koordination Konferenzorganisation, Schnittstelle FOSSGIS-Konferenzorgateam und Local Team, Teilnehmerbetreuung, Teilnehmeranmeldesystem, Presse, Sponsorenbetreuung, Sektempfang</td>
@@ -162,7 +163,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.fossgis.de/wiki/Benutzer:Paulest'>
-                <div class='image small'><img width='140px' src='https://www.fossgis.de/w/images/2/2e/Paule.jpeg' alt='Michael Paulmann' /></div>
+                <div class='image small'><img width='140px' src='../img/Paule.jpeg' alt='Michael Paulmann' /></div>
             </a>
         </td>
         <td><a href='https://www.fossgis.de/wiki/Benutzer:Paulest' target='_blank'>Michael Paulmann</a></td>
@@ -185,8 +186,9 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.osgeo.org/member/rothstein-uli/'>
-                <div class='image small'><img width='140px' src='https://wiki.osgeo.org/images/7/76/Uli_small.jpg' alt='Uli Rothstein' /></div>
+                <img width='140px' src='../img/Uli.jpg' alt='Uli Rothstein' />
             </a>
+            <p class='attribution'>Bild: <a rel="nofollow" href="https://wiki.osgeo.org/wiki/File:Uli_small.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
         </td>
         <td><a href='https://www.osgeo.org/member/rothstein-uli/' target='_blank'>Uli Rothstein</a></td>
         <td>Local-Team, Programmkommittee, Code Sprint</td>
@@ -212,8 +214,9 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.osgeo.org/member/tawalika/'>
-                <div class='image small'><img width='140px' src='https://wiki.osgeo.org/images/7/7f/Ct.jpg' alt='Carmen Tawalika' /></div>
+                <img width='140px' src='../img/Carmen_Tawalika.jpg' alt='Carmen Tawalika' />
             </a>
+            <p class='attribution'>Bild: <a rel="nofollow" href="https://wiki.osgeo.org/wiki/File:Ct.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
         </td>
         <td><a href='https://www.osgeo.org/member/tawalika/' target='_blank'>Carmen Tawalika</a></td>
         <td>Local-Team, Code Sprint</td>
@@ -221,7 +224,7 @@
     <tr>
         <td style='padding:5px;'>
             <a href='https://www.fossgis-konferenz.de/2018/programm/speaker.php?id=1655'>
-                <div class='image small'><img width='140px' src='https://frab.fossgis-konferenz.de/system/people/avatars/000/001/655/large/joergThomsen.jpg?1519909219' alt='Jörg Thomsen' /></div>
+                <div class='image small'><img width='140px' src='../img/Joerg_Thomsen.jpg' alt='Jörg Thomsen' /></div>
             </a>
         </td>
         <td><a href='https://www.fossgis-konferenz.de/2018/programm/speaker.php?id=1655' target='_blank'>Jörg Thomsen</a></td>
@@ -229,7 +232,7 @@
     </tr>
     <tr>
         <td style='padding:5px;'>
-            <div class='image small'><img width='140px' src='https://frab.fossgis-konferenz.de/system/people/avatars/000/000/015/large/2017-02-Rome.JPG?1511886998' alt='Athina Trakas' /></div>
+            <div class='image small'><img width='140px' src='../img/Athina_Trakas.jpg' alt='Athina Trakas' /></div>
         </td>
         <td>Athina Trakas</td>
         <td>Local-Team</td>
