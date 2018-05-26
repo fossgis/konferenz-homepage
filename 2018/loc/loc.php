@@ -38,12 +38,13 @@
 <table class='list' border='0' width='90%'>
 
     <tr>
-        <td style='padding:5px;'>
-            <a href=' https://wiki.osgeo.org/wiki/User:Till_Adams '>
-                <div class='image small'><img width='140px' src=' https://wiki.osgeo.org/images/a/a3/Till.jpg ' alt='Till Adams ' /></div>
-            </a>
+	<td style='padding:5px;'>
+            <div class='image small'>
+                <a href='https://wiki.osgeo.org/wiki/User:Till_Adams'><img width='140px' src='../img/Till.jpg ' alt='Till Adams' /></a>
+                <p class='attribution'>Bild: <a href="https://wiki.osgeo.org/wiki/File:Till.jpg">OSGeo-Wiki</a>, <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/2.5/legalcode">CC-BY-SA 2.5</a></p>
+            </div>
         </td>
-        <td><a href=' https://wiki.osgeo.org/wiki/User:Till_Adams ' target='_blank'>Till Adams </a></td>
+        <td><a href=' https://wiki.osgeo.org/wiki/User:Till_Adams ' target='_blank'>Till Adams</a></td>
         <td>Der Mann für alles Unvorhergesehene</td>
     </tr>
     <tr>

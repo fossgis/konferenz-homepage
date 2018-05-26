@@ -14,6 +14,12 @@ body {
 	color: #2d3841;
 }
 
+.attribution {
+	font-size: 10px;
+	line-height: initial;
+	margin-top: 0;
+}
+
 .clear {
 	clear: both;
 }
