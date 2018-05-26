@@ -6,8 +6,6 @@
         <meta charset="utf-8">
 
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-        <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
-        <script type="text/javascript" src="js/twitterwall/twitter.js"></script>
     </head>
     <body id="home">
         <div id="wrap">
