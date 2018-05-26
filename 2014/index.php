@@ -81,7 +81,7 @@
 		  <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/mapwebbing.PNG" width="170" height="51"></a></div>
 		  <div class="sponsor bronze" id="Camp2Camp"><a href="http://www.camptocamp.com" target="_blank"><img valign="middle" src="img/s/Camp2Camp.png" width="150" height="73"></a></div>
 		  <div class="sponsor bronze" id="GeoSYS"><a href="http://www.geosysnet.de/" target="_blank"><img valign="middle" src="img/s/geosys.png" width="150" height="53"></a></div>
-		  <div class="sponsor bronze" id="Intevation"><a href="http://http//intevation.de/" target="_blank"><img valign="middle" src="img/s/intevation.PNG" width="150" height="68"></a></div>
+		  <div class="sponsor bronze" id="Intevation"><a href="http://intevation.de/" target="_blank"><img valign="middle" src="img/s/intevation.PNG" width="150" height="68"></a></div>
 		<div class="sponsor bronze" id="DBG"><a href="http://www.datenbankgesellschaft.de/" target="_blank"><img valign="middle" src="img/s/DBG_Datenbangesellschaft.PNG" width="151" height="75"></a></div>
 
 

@@ -27,7 +27,7 @@
                 <h2>Anmeldung zur Konferenz</h2>
                 <p>Wir laden Sie ein Teil der FOSSGIS-Konferenz 2016 zu werden.  Denn die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch. Wir freuen uns auf Sie!</p>
                 <p>In Erwartung von &uuml;ber 300 Teilnehmenden ist eine Registrierung Ihrerseits notwendig und hilfreich f&uuml;r die Organisation. Nach erfolgreicher Anmeldung erhalten Sie eine Rechnung. Nach &Uuml;berweisung des Rechnungsbetrages sind Sie registriert. Hier gelangen Sie direkt <a href="http://www.agit.at/fossgis"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 25.06.2016 eine Reihe von kostenpflichtigen FOSSGIS Workshops auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule">Programm</a>. </p>
-				<p>Berliner und Brandenburger Arbeitnehmer können bei Ihrem Arbeitgeber Bildungsurlaub für die FOSSGIS 2016 beantragen. Informationen und Formulare finden Sie <a href=" https://www.fossgis.de/wiki/Konferenz_2016/Bildungsurlaub"> hier</a>.</p>
+				<p>Berliner und Brandenburger Arbeitnehmer können bei Ihrem Arbeitgeber Bildungsurlaub für die FOSSGIS 2016 beantragen. Informationen und Formulare finden Sie <a href="https://www.fossgis.de/wiki/Konferenz_2016/Bildungsurlaub"> hier</a>.</p>
 				
                 <p>Eine spontane Teilnahme ist m&ouml;glich, bitte melden Sie sich bei Ankunft am Welcome Desk.</p>
 
@@ -44,7 +44,7 @@
                         <tr><tr>
                             <td><h4>Teilnehmer_innen (Normalpreis)</h4></td>
                             <td><h4><a title="Anmeldung Teilnehmer_innen (Normalpreis FOSSGIS)" href="http://agit.at/php_files/fossgis/registerform/index.php?typ=FOSSGIS_TEILNEHMER"> € 190</a></h4></td>
-                            <td><h4><a title="Anmeldung Teilnehmer_innen (Normalpreis FOSSGIS+AGIT)"href="http://agit.at/php_files/fossgis/registerform/index.php?typ=KOMBITICKET_TEILNEHMER"> € 490</a></h4></td>
+                            <td><h4><a title="Anmeldung Teilnehmer_innen (Normalpreis FOSSGIS+AGIT)" href="http://agit.at/php_files/fossgis/registerform/index.php?typ=KOMBITICKET_TEILNEHMER"> € 490</a></h4></td>
                         </tr>
                         <tr>
                             <td><h4> Teilnehmer_innen (Rabatt bis 25.05.2016)</h4></td>

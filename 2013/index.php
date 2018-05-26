@@ -72,7 +72,7 @@
 						<a href="http://www.objeng.ch/"><img valign="middle" src="img/s/ObjectEngineering.png" width="116" height="74"></a>
 						<a href="http://www.dreipol.ch/"><img valign="middle" src="img/s/dreipol.PNG" width="120" height="119"></a>
 						<a href="http://www.ebp.ch/"><img src="img/s/EBP.PNG" width="220" height="37"></a>
-						<a href="http://http://intevation.de/"><img src="img/s/intevation.PNG" width="150" height="68"></a>
+						<a href="http://intevation.de/"><img src="img/s/intevation.PNG" width="150" height="68"></a>
 						<a href="http://www.schenkelvermessungen.ch/"><img src="img/s/Schenkel_Vermessung.PNG" width="116" height="147"></a>
 						<a href="https://mingle.io//"><img src="img/s/mingleio.PNG" width="200" height="32"></a>
 						<br>
