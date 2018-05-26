@@ -6,8 +6,6 @@
         <meta charset="utf-8">
 
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-        <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
-        <script type="text/javascript" src="js/twitterwall/twitter.js"></script>
     </head>
     <body id="home">
         <div id="wrap">
@@ -36,15 +34,7 @@
                 <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
                 <div class="app">Sie können selbst nicht dabei sein? Dann alle <a href="http://streaming.media.ccc.de/fossgis17/">Vorträge als Livestream</a> mitverfolgen.</div>
 
-                <h2>FOSSGIS 2017 auf Twitter</h2>
-                <div id="twitter">
-                    <a href="http://twitter.com/fossgis_konf"><img src="img/twitter.png" width="55" height="45"></a>
-                    <div id="twitterwall">
-                        <div class="arrow"></div>
-                    </div>
-                </div>
-
-                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
+                <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
 
 

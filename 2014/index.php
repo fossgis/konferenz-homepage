@@ -9,9 +9,6 @@
 
         <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-
-        <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
-        <script type="text/javascript" src="js/twitterwall/twitter.js"></script>
     </head>
     <body id="home">
         <div id="wrap">
@@ -43,14 +40,6 @@
 
                 <h3>Anmeldung zur Konferenz</h3>
                 <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/register?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Vor Ort kann nur in Bar gezahlt werden.</p>
-
-                <h2>FOSSGIS 2014 auf Twitter</h2>
-                <div id="twitter">
-                    <a href="http://twitter.com/fossgis2014"><img src="img/twitter.png" width="55" height="45"></a>
-                    <div id="twitterwall">
-                        <div class="arrow"></div>
-                    </div>
-                </div>
 
                 <h2>Sponsoren</h2>
 
