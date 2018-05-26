@@ -18,6 +18,10 @@ of the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### JavaScript
 
+**[Leaflet](https://leafletjs.com)** is © 2010-2013, Vladimir Agafonkin, ©
+2010-2011, CloudMade and available under the [2-clause BSD
+license](https://github.com/Leaflet/Leaflet/blob/master/LICENSE).
+
 The OpenLayers 2 library in this repository is © 2006-2013 by OpenLayers
 Contributors and was published under the [2-clause BSD
 license](https://openlayers.org/dev/license.txt).
