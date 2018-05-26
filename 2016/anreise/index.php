@@ -10,8 +10,8 @@
         <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="/static/css/leaflet/0.7.7/leaflet.css">
-        <script src="/static/js/leaflet/0.7.7/leaflet.js"></script>
+        <link rel="stylesheet" href="/static/leaflet/0.7.7/leaflet.css">
+        <script src="/static/leaflet/0.7.7/leaflet.js"></script>
         <script src="/static/maki_icons/Leaflet.MakiMarkers.js"></script>
 
     </head>
