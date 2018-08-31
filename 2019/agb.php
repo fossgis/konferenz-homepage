@@ -14,9 +14,9 @@
             <div id="content">
                 <?php include('inc/nav.inc'); ?>
 
-                <figure>
-                    <img src="img/bonn.jpeg" width="880" height="241" alt="Bonn">
-                    <figcaption>Photo: Stadt Bonn</figcaption>
+               <figure>
+                    <img src="img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
+                    <figcaption>Photo: Kolossos</figcaption>
                 </figure>
 
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
