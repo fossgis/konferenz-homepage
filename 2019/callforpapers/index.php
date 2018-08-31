@@ -15,7 +15,7 @@
                 <?php include('../inc/nav.inc'); ?>
 
                <figure>
-                    <img src="img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
+                    <img src="../img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
                     <figcaption>Photo: Kolossos</figcaption>
                 </figure>
 
