@@ -2,6 +2,10 @@
     <li id="navHome">
         <a href="/2019/">Startseite</a>
     </li>
+	<li id="navCall">
+        <a href="/2019/callforpapers">Call for Papers</a>
+    </li>
+
 <!--
     <li id="navProgramm">
         <a href="/2018/programm">Programm</a>
