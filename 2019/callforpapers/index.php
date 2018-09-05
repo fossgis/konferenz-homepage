@@ -43,19 +43,23 @@
                 <p>Die FOSSGIS-Konferenz 2019 ermöglicht folgende Veranstaltungstypen:</p>
                 <dl>
                     <dd>
-                    <strong>Vorträge und Workshops:</strong> 20 Minuten lange Vorträge machen den Hauptteil aus. Diese finden am Mittwochnachmittag, Donnerstag und Freitagvormittag statt. Parallel zu den Vorträgen finden 90 Minuten lange Workshops statt. Die Teilnahme am Workshop ist kostenpflichtig, die Teilnehmer*innenanzahl begrenzt. Workshops mit zwei Leitern sind möglich, insbesondere, wenn der Workshop stark nachgefragt ist. Diese finden am Mittwochnachmittag, Donnerstag und Freitagvormittag statt.
+                    <strong>Vorträge und Workshops:</strong> 20 Minuten lange Vorträge machen den Hauptteil aus. Diese finden am Mittwochnachmittag, Donnerstag und Freitagvormittag statt. An diese Vorträge schließt sich eine fünf Minunten lange Fragerunde an.
+Parallel zu den Vorträgen finden 90 Minuten lange Workshops statt. Als einziger Veranstaltungstyp sind sie kostenpflichtig, die Teilnehmer*innenanzahl ist begrenzt. Workshops mit zwei Leitern sind möglich, insbesondere, wenn der Workshop stark nachgefragt ist. Diese finden am Mittwochnachmittag, Donnerstag und Freitagvormittag statt.
                     </dd>
                     <dd>
-                        <strong>Lightning Talk:</strong> 5 Minuten lange Lightning Talks sind die Gelegenheit neue Ideen und neue Software in Kürze zu präsentieren. Diese Vorträge haben keine Fragerunde.
+                        <strong>Lightning Talk:</strong> 5 Minuten lange Lightning Talks sind die Gelegenheit neue Ideen und neue Software in Kürze zu präsentieren.
                     </dd>
 
                     <dd><strong>Neu im Programm sind die beiden folgenden Veranstaltungstypen:</strong> 60 Minuten lange „Demo-Sessions“ sind für die intensive Vorführung freier GIS-Software vorgesehen, in der Redner die Benutzung einer Software zeigen. Die Teilnahme ist im Konferenzticket enthalten. Die Demo-Sessions zeichnen sich durch eine höhere inhaltliche Tiefe gegenüber Workshops und 20-Minuten-Vorträgen aus, weil sie in Hörsälen statt in Computerpools stattfinden und die Teilnehmer*innen die Schritte nicht in Echtzeit an ihren Computern nachvollziehen können.<br>40 Minuten lange Vorträge zu OpenStreetMap-Themen, an die sich jeweils eine 20 Minuten lange Fragerunde anschließt. Sie sind für kontroverse Themen der OpenStreetMap-Community vorgesehen.</dd>
                 </dl>
 
-                <p>Unserer Befragung zufolge interessieren sich unsere Teilnehmer*innen aus dem GIS-Sektor insbesondere für folgende Themen: Docker, Angular2, 1. Schritte in Python, GeoPackage, QGIS für Fortgeschrittene, QGIS-3-Plugins, GeoNetwork, GeoServer Einführung, GeoTools und Java Topology Suite (JTS), pgRouting, INSPIRE Dienste, ATOM-Feeds, Big-Data Geo-Frameworks, Big-Data Analyse in R, SpatiaLite. Sehen Sie diese Auflistung bitte als Anregung. Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem Vortrag oder Workshop. Fragen zum Call for Papers beantworten FOSSGIS-Mitglieder gerne per E-Mail an konferenz-orga@fossgis.de.</p>
+                <p>Unserer Befragung zufolge interessieren sich unsere Teilnehmer*innen aus dem GIS-Sektor insbesondere für folgende Themen: Docker, Angular2, Erste Schritte in Python, GeoPackage, QGIS für Fortgeschrittene, QGIS-3-Plugins, GeoNetwork, Einführung in GeoServer, GeoTools und Java Topology Suite (JTS), pgRouting, INSPIRE Dienste, Atom-Feeds, Big-Data Geo-Frameworks, Big-Data Analyse in R, SpatiaLite; für das Jahr 2019 gehen Workshopwünsche in Richtung Shapely/Python, Geoserver-Vertiefung, OpenLayers, Ogr2ogr, GRASS GIS und R.
+Sehen Sie diese Auflistung bitte als Anregung. Weiterhin wünschen sich die Teilnehmer mehr Informationen zu Trends, Technologien, Ideen – sie wollen Übersicht gewinnen über neue Tools, Entwicklungen und Versionen.</p>
+<p>
+Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem Vortrag oder Workshop. Fragen zum Call for Papers beantworten FOSSGIS-Mitglieder gerne per E-Mail an konferenz-orga@fossgis.de.</p>
 
 <p>Die Programmplanung findet beim 11. FOSSGIS Hacking vom 23. bis 25. November im Linuxhotel in Essen statt. Daher wird es keine Verlängerung des Call for Papers geben. Das detaillierte Programm wird wenige Wochen später bekannt gegeben werden, gleichzeitig wird die Anmeldung eröffnet werden.</p>
-<p>Als Redner sind Sie berechtigt, ein kostenloses Communityticket als Eintrittskarte zu lösen. Workshopleiter erhalten einen Rabatt auf den Eintritt, falls sie nicht anderweitig berechtigt sind, ein kostenloses Communityticket zu lösen.</p>
+<p>Als Redner oder Workshopleiter sind Sie berechtigt ein kostenloses Communityticket als Eintrittskarte zu lösen, selbstverständlich freuen wir uns über eine Standardticketbuchung, wenn die finanziellen Möglichkeiten es erlauben. </p>
 <p>Sie haben die Möglichkeit, bei der Einreichung des Vortrags anzugeben, an welchen Tagen der Konferenz Sie Zeit haben. Scheuen Sie sich nicht davor, einen Vortrag einzureichen, auch wenn Sie während der Konferenz nur eingeschränkt verfügbar sind.</p>
 <p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2019 ab sofort bis zum 08. November 2018 ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.</p>
 
