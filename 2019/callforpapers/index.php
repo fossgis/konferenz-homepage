@@ -26,7 +26,7 @@
 
                 <dl>
                 <dt>Wer wir sind:</dt>
-                <dd>Die Konferenz wird vom <a href="http://fossgis.de">FOSSGIS e.V.</a> und der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> veranstaltet.</dd>
+                <dd>Die FOSSGIS-Konferenz 2019 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.htw-dresden.de">Hochschule für Technik und Wirtschaft Dresden</a> veranstaltet.</dd>
 
                 <dt>Wir bieten:</dt>
                 <dd>Eine Plattform für Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht auf der größten deutschsprachigen Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im Jahr 2019 findet die FOSSGIS vom 13. bis 16. März an der Hochschule für Technik und Wirtschaft in Dresden statt. Die Konferenz ist die größte deutschsprachige Anwender-Konferenz für Open-Source-Geo-Software und offene Geodaten. Der Call for Papers ist bis zum <strong>08.11.2018</strong> geöffnet.</dd>
