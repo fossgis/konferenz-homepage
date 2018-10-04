@@ -9,13 +9,21 @@
           content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
-        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css"/>
+    <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-    </head>
-    <body id="anreise">
-        <div id="wrap">
-            <?php include('../inc/head.inc'); ?>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"
+            integrity="sha256-tfcLorv/GWSrbbsn6NVgflWp1YOmTjyJ8HWtfXaOaJc=" crossorigin="anonymous"></script>
+    <script src="script/leaflet.addons.js"></script>
+    <script src="data/buildings.js"></script>
+    <script src="data/hotels.js"></script>
+    <script src="data/transport.js"></script>
+    <script src="script/map.js"></script>
+</head>
+
+<body id="anreise">
+<div id="wrap">
+    <?php include('../inc/head.inc'); ?>
 
     <div id="content">
 

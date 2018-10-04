@@ -508,3 +508,43 @@ footer a:focus {
 #anreise p + img.city {
 	margin-left: 160px;
 }
+
+#anreise .dynamic-map-container {
+	height: 40vh;
+}
+
+#anreise .dynamic-map-container .map {
+	height: 100%;
+}
+
+#anreise .hidden {
+	display: none;
+}
+
+#anreise .svg-feature {
+	transition: all 0.25s ease-out;
+}
+
+#anreise .svg-feature:hover {
+	fill: rgb(255,200,50);
+}
+
+#anreise .label {
+	color: #333;
+	pointer-events: none;
+	font-size: 1.0em;
+	text-shadow: -1px -1px 0 #cecece, 1px -1px 0 #cecece, -1px 1px 0 #cecece, 1px 1px 0 #cecece;
+}
+
+#anreise .label.label-priority-0 {
+	font-size: 1.6em;
+}
+
+#anreise .label.label-priority-1 {
+	font-size: 1.4em;
+}
+
+.leaflet-bar a.leaflet-control-panto-btn {
+	width: auto;
+	padding: 0 3px;
+}
