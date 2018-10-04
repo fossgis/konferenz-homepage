@@ -51,7 +51,7 @@ h1 {
 	font-size: 4.8em;
 	line-height: 0.8;
 	letter-spacing: -9px;
-	color: rgba(123,145,153,0.1);
+	color: rgba(123, 145, 153, 0.1);
 	height: 205px;
 	color: #bdc1c1;
 }
@@ -83,43 +83,43 @@ ul#mainNav {
 	text-align: left;
 }
 
-	ul#mainNav > li {
-		display: inline-block;
-		margin-right: 30px;
-	}
+ul#mainNav > li {
+	display: inline-block;
+	margin-right: 30px;
+}
 
-		ul#mainNav > li > a:link,
-		ul#mainNav > li > a:visited {
-			line-height: 2;
-			text-decoration: none;
-			color: #2d3841;
-			font-weight: bold;
-			padding: 5px 5px 3px 5px;
-			border-radius: 3px;
+ul#mainNav > li > a:link,
+ul#mainNav > li > a:visited {
+	line-height: 2;
+	text-decoration: none;
+	color: #2d3841;
+	font-weight: bold;
+	padding: 5px 5px 3px 5px;
+	border-radius: 3px;
 
-			transition: background-color 0.25s ease, color 0.15s ease;
-		}
+	transition: background-color 0.25s ease, color 0.15s ease;
+}
 
-		ul#mainNav > li > a:hover,
-		ul#mainNav > li > a:active,
-		ul#mainNav > li > a:focus {
-			background-color: #2d3841;
-			color: #fff;
-		}
+ul#mainNav > li > a:hover,
+ul#mainNav > li > a:active,
+ul#mainNav > li > a:focus {
+	background-color: #2d3841;
+	color: #fff;
+}
 
-        body#home ul#mainNav > li#navHome > a:link,
-        body#home ul#mainNav > li#navHome > a:visited,
-        body#call ul#mainNav > li#navCall > a:link,
-        body#call ul#mainNav > li#navCall > a:visited,
-        body#anreise ul#mainNav > li#navAnreise > a:link,
-        body#anreise ul#mainNav > li#navAnreise > a:visited,
-        body#anmeldung ul#mainNav > li#navAnmeldung > a:link,
-        body#anmeldung ul#mainNav > li#navAnmeldung > a:visited,		
-        body#socialEvents ul#mainNav > li#navEvents > a:link,
-        body#socialEvents ul#mainNav > li#navEvents > a:visited {
-            background-color: #fff;
-			color: #eb7f00;
-        }
+body#home ul#mainNav > li#navHome > a:link,
+body#home ul#mainNav > li#navHome > a:visited,
+body#call ul#mainNav > li#navCall > a:link,
+body#call ul#mainNav > li#navCall > a:visited,
+body#anreise ul#mainNav > li#navAnreise > a:link,
+body#anreise ul#mainNav > li#navAnreise > a:visited,
+body#anmeldung ul#mainNav > li#navAnmeldung > a:link,
+body#anmeldung ul#mainNav > li#navAnmeldung > a:visited,
+body#socialEvents ul#mainNav > li#navEvents > a:link,
+body#socialEvents ul#mainNav > li#navEvents > a:visited {
+	background-color: #fff;
+	color: #eb7f00;
+}
 
 /* @end */
 
@@ -231,6 +231,7 @@ div.app {
 div.sponsors {
 	text-align: center;
 }
+
 div.sponsors h3 {
 	padding-top: 30px;
 }
@@ -244,13 +245,12 @@ div.sponsor {
 	border-radius: 10px;
 }
 
-	div.sponsor:hover {
-		border-color: #abc6c8;
-	}
+div.sponsor:hover {
+	border-color: #abc6c8;
+}
 
 div.news {
 	margin: 0 10px 10px 10px;
-	border: 1px solid #e6eeef;
 	float: left;
 	border-radius: 10px;
 	border-color: #eed3d7;
@@ -284,65 +284,65 @@ div.sponsor a {
 
 div.organisers {
 	display: inline-block;
-    width: 500px;
-    margin-left: 250px;
-    margin-bottom: 2em;
+	width: 500px;
+	margin-left: 250px;
+	margin-bottom: 2em;
 }
 
-	div.sponsor a img {
-		vertical-align: middle;
-	}
+div.sponsor a img {
+	vertical-align: middle;
+}
 
-	div.sponsor.organizer {
-		width: 203px;
-		margin: 13px 13px 0 0;
-		border: 1px solid #e6eeef;
-		border-radius: 10px;
-		transition: border 0.2s ease;
-		-moz-transition: border 0.2s ease; /* Firefox 4 */
-		-webkit-transition: border 0.2s ease; /* Safari and Chrome */
-		-o-transition: border 0.2s ease;
-	}
+div.sponsor.organizer {
+	width: 203px;
+	margin: 13px 13px 0 0;
+	border: 1px solid #e6eeef;
+	border-radius: 10px;
+	transition: border 0.2s ease;
+	-moz-transition: border 0.2s ease; /* Firefox 4 */
+	-webkit-transition: border 0.2s ease; /* Safari and Chrome */
+	-o-transition: border 0.2s ease;
+}
 
-	div.sponsor.organizer:hover {
-		border-color: #abc6c8;
-	}
+div.sponsor.organizer:hover {
+	border-color: #abc6c8;
+}
 
-	div.sponsor.organizer a {
-		line-height: 110px;
-	}
+div.sponsor.organizer a {
+	line-height: 110px;
+}
 
-	div.sponsor.gold {
-		width: 428px;
-	}
+div.sponsor.gold {
+	width: 428px;
+}
 
-	div.sponsor.silber {
-		width: 278px;
-		height: 190px;
-		line-height: 190px;
-	}
+div.sponsor.silber {
+	width: 278px;
+	height: 190px;
+	line-height: 190px;
+}
 
-		div.sponsor.silber a {
-			line-height: 190px;
-		}
+div.sponsor.silber a {
+	line-height: 190px;
+}
 
-			div.sponsor.silber#omniscale img {
-				margin-top: -10px;
-			}
+div.sponsor.silber#omniscale img {
+	margin-top: -10px;
+}
 
-	div.sponsor.bronze {
-		width: 203px;
-		height: 125px;
-		line-height: 125px;
-	}
+div.sponsor.bronze {
+	width: 203px;
+	height: 125px;
+	line-height: 125px;
+}
 
-		div.sponsor.bronze a {
-			line-height: 125px;
-		}
+div.sponsor.bronze a {
+	line-height: 125px;
+}
 
-	div.sponsor.media {
-		width: 278px;
-	}
+div.sponsor.media {
+	width: 278px;
+}
 
 /* @end */
 
@@ -355,17 +355,17 @@ div#content > div#mapContainer {
 
 	div#content > div#mapContainer > div#map {
 		height: 300px;
-	}
+}
 
 div.olPopup {
 	font-size: 14px;
 	line-height: 1.4;
 }
 
-	div.olPopup h2 {
-		font-size: 16px;
-		margin: 0 0 8px 0;
-	}
+div.olPopup h2 {
+	font-size: 16px;
+	margin: 0 0 8px 0;
+}
 
 /* @end */
 
@@ -438,9 +438,9 @@ div#content > div#facebook > div#facebooklink > div.arrow {
 
 	-moz-transform: rotate(-45deg);
 	-webkit-transform: rotate(-45deg);
-    -o-transform: rotate(-45deg);
-    -ms-transform: rotate(-45deg);
-    transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
 }
 
 div#content > div#twitter > div#twitterwall:hover > div.arrow,
@@ -493,7 +493,7 @@ footer a:visited {
 footer a:hover,
 footer a:active,
 footer a:focus {
-	text-decoration:none;
+	text-decoration: none;
 }
 
 /* @end */
