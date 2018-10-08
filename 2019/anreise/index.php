@@ -75,7 +75,7 @@
 
 
         <h3>Anreise mit öffentlichen Verkehrsmitteln</h3>
-        <p>Die <a href="https://www.openstreetmap.org/relation/7918360#map=14/51.0401/13.7418">Hochschule für Technik
+        <p>Die <a href="https://www.openstreetmap.org/relation/7918360#map=14/51.0401/13.7418" target="_blank">Hochschule für Technik
                 und Wirtschaft</a> ist günstig am Hauptbahnhof Dresden gelegen. Dieser wird durch die Deutsche Bahn und
             trilex bedient.
         </p>
@@ -136,7 +136,7 @@
         <p>Denken Sie an die Möglichkeit des Carsharing, oder nutzen oder organisieren Sie eine Mitfahrgelegenheit bei
             Diensten wie <a
                     href="https://www.blablacar.de/ride-sharing/to-dresden/?fn=&tn=Dresden%2C+Deutschland&tc=51.050409%7C13.737262&tcc=DE&tp=0&is_without_date_end=0&sort=trip_date&order=asc&limit=10&page=1&s_uuid=7ff529a3-e27c-42c1-9681-095b7b73d90d"
-                    title="https://www.blablacar.de/" rel="nofollow">BlaBlaCar</a>. Die Umwelt und nicht zuletzt Ihr
+                    title="https://www.blablacar.de/" rel="nofollow" target="_blank">BlaBlaCar</a>. Die Umwelt und nicht zuletzt Ihr
             Geldbeutel
             werden sich freuen.</p>
 
@@ -148,14 +148,14 @@
         <ul class="list">
             <li> Web: <a
                         href="https://www.intercityhotel.com/hotels/alle-hotels/deutschland/dresden/intercityhotel-dresden/zimmer"
-                        rel="nofollow">https://www.intercityhotel.com/</a></li>
+                        rel="nofollow" target="_blank">https://www.intercityhotel.com/</a></li>
             <li> Adresse: Wiener Platz 8, 01069 Dresden</li>
             <li> Telefon: 0351 / 263550</li>
         </ul>
 
         <p><i>Hotel Pullman Dresden Newa</i></p>
         <ul class="list">
-            <li> Web: <a href="https://www.pullman-hotel-dresden.de/" rel="nofollow">https://www.pullman-hotel-dresden.de/</a>
+            <li> Web: <a href="https://www.pullman-hotel-dresden.de/" rel="nofollow" target="_blank">https://www.pullman-hotel-dresden.de/</a>
             </li>
             <li> Adresse: Prager Str. 2C, 01069 Dresden</li>
             <li> Telefon: 0351 / 48140</li>
@@ -163,14 +163,14 @@
 
         <p><i> Hotel ibis Dresden</i></p>
         <ul class="list">
-            <li> Web: <a href="https://www.ibis-dresden.de/" rel="nofollow">https://www.ibis-dresden.de/</a></li>
+            <li> Web: <a href="https://www.ibis-dresden.de/" rel="nofollow" target="_blank">https://www.ibis-dresden.de/</a></li>
             <li> Adresse: Wilsdruffer Str. 25, 01067 Dresden</li>
             <li> Telefon: 0351 / 83393820</li>
         </ul>
 
         <p><i> The Student Hotel Dresden</i>
         <ul class="list">
-            <li> Web: <a href="https://www.thestudenthotel.com/dresden" rel="nofollow">https://www.thestudenthotel.com/dresden</a>
+            <li> Web: <a href="https://www.thestudenthotel.com/dresden" rel="nofollow" target="_blank">https://www.thestudenthotel.com/dresden</a>
             </li>
             <li> Adresse: Prager Str. 13, 01069 Dresden</li>
             <li> E-Mail: dresden@thestudenthotel.com</li>
@@ -178,14 +178,14 @@
 
         <p><i> A&O Dresden Hauptbahnhof</i></p>
         <ul class="list">
-            <li> Web: <a href="https://www.aohostels.com/de/dresden/" rel="nofollow">https://www.aohostels.com/de/dresden/</a>
+            <li> Web: <a href="https://www.aohostels.com/de/dresden/" rel="nofollow" target="_blank">https://www.aohostels.com/de/dresden/</a>
             </li>
             <li> Adresse: Strehlener Str. 10, 01069 Dresden</li>
         </ul>
 
         <p><i>Internationales Gästehaus (über Studentenwerk Dresden)</i></p>
         <ul class="list">
-            <li> Web: <a href="https://www.studentenwerk-dresden.de/wohnen/gaestehaus.html" rel="nofollow">https://www.studentenwerk-dresden.de/wohnen/gaestehaus.html</a>
+            <li> Web: <a href="https://www.studentenwerk-dresden.de/wohnen/gaestehaus.html" rel="nofollow" target="_blank">https://www.studentenwerk-dresden.de/wohnen/gaestehaus.html</a>
             </li>
             <li> Adresse: Hochschulstraße 50, 01069 Dresden</li>
             <li> Telefon: 0351 / 4692-781 /-780</li>
@@ -194,7 +194,7 @@
 
         <p><i> DJH Jugendherberge Dresden "Rudi Arndt"</i></p>
         <ul class="list">
-            <li> Web: <a href="https://www.jh-rudiarndt.de/" rel="nofollow">https://www.jh-rudiarndt.de/</a></li>
+            <li> Web: <a href="https://www.jh-rudiarndt.de/" rel="nofollow" target="_blank">https://www.jh-rudiarndt.de/</a></li>
             <li> Adresse: Hübnerstraße 11, 01069 Dresden</li>
             <li> Telefon: 0351 4710667</li>
             <li>E-Mail: dresden.rudiarndt@jugendherberge.de</li>
@@ -216,23 +216,23 @@
 
         <p><b>Hilfreiche Informationen</b></p>
         <ul class="list">
-            <li><a href="https://www.dvb.de/de-de/"> Fahrplan im Web</a></li>
-            <li><a href="https://www.dvb.de/de-de/tickets/ticketuebersicht/"> Ticketübersicht</a></li>
+            <li><a href="https://www.dvb.de/de-de/" rel="nofollow" target="_blank"> Fahrplan im Web</a></li>
+            <li><a href="https://www.dvb.de/de-de/tickets/ticketuebersicht/" rel="nofollow" target="_blank"> Ticketübersicht</a></li>
             <li>
-                <a href="https://www.dvb.de/-/media/files/liniennetz/lnp_09042018/stadtplan_top_090418_bau%20augbr_web.pdf">
+                <a href="https://www.dvb.de/-/media/files/liniennetz/lnp_09042018/stadtplan_top_090418_bau%20augbr_web.pdf" rel="nofollow" target="_blank">
                     Stadtplan der DVB</a></li>
-            <li> App-Empfehlung für Android: <a href="https://play.google.com/store/apps/details?id=de.faplino&hl=de">Faplino
+            <li> App-Empfehlung für Android: <a href="https://play.google.com/store/apps/details?id=de.faplino&hl=de" rel="nofollow" target="_blank">Faplino
                     - DVB Info Dresden</a></li>
-            <li>App-Empfehlung für iOS: <a href="https://itunes.apple.com/de/app/fahrinfo-dresden/id314790387?mt=8">FahrInfo
+            <li>App-Empfehlung für iOS: <a href="https://itunes.apple.com/de/app/fahrinfo-dresden/id314790387?mt=8" rel="nofollow" target="_blank">FahrInfo
                     Dresden</a></li>
 
-            <li><b>Fahrradverleih:</b> <a href="https://www.sz-bike.de/de/dresden/information/">sz-bike</a></li>
+            <li><b>Fahrradverleih:</b> <a href="https://www.sz-bike.de/de/dresden/information/" rel="nofollow" target="_blank">sz-bike</a></li>
         </ul>
 
         <h3>Taxi</h3>
         <ul class="list">
             <li>FunkTAXI Dresden: 0351 / 211 211</li>
-            <li><a href="https://www.gelbeseiten.de/taxi/dresden"> weitere Taxibetriebe</a></li>
+            <li><a href="https://www.gelbeseiten.de/taxi/dresden" rel="nofollow" target="_blank"> weitere Taxibetriebe</a></li>
         </ul>
     </div>
 
