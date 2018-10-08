@@ -12,12 +12,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css"/>
     <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"
-            integrity="sha256-tfcLorv/GWSrbbsn6NVgflWp1YOmTjyJ8HWtfXaOaJc=" crossorigin="anonymous"></script>
+    <script src="../../static/leaflet/1.3.4/leaflet.js"></script>
     <script src="script/leaflet.addons.js"></script>
     <script src="data/buildings.js"></script>
     <script src="data/hotels.js"></script>
-    <script src="data/transport.js"></script>
     <script src="script/map.js"></script>
 </head>
 

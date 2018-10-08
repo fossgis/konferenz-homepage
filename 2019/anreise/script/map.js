@@ -1,33 +1,35 @@
 (function () {
-    "use strict";
+    'use strict';
 
     var center = [51.036165569571345, 13.736257553100588];
     var thuPos = [51.0496545, 13.7390823];
     var wedPos = [51.0524493, 13.7451854];
     var zoom = 16;
-    var htwOrange = "#ff9d15";
+    var htwOrange = '#ff9d15';
     var views = {
-        "<b>Campus<b>": [51.0361, 13.7371],
-        "Di: Altmarktkeller": thuPos,
-        "Mi: B&auml;renzwinger": wedPos,
-        "Altstadt": [51.0520, 13.7401],
-        "Neustadt": [51.0666, 13.7552]
+        '<b>Campus<b>': [51.0361, 13.7371],
+        'Di: Altmarktkeller': thuPos,
+        'Mi: B&auml;renzwinger': wedPos,
+        'Altstadt': [51.0520, 13.7401],
+        'Neustadt': [51.0666, 13.7552]
     };
     var tooltipTemplate =
-        "<b>{shortName}</b> ({name})<br>" +
-        "{purpose}<br>" +
-        "<img src='{src}' alt='{title}' class='tooltip-img' width='240' height='157'>";
+        '<b>{shortName}</b> ({name})<br>' +
+        '{purpose}<br>' +
+        '<img src="img/{src}" alt="{title}" class="tooltip-img" width="240" height="157">';
     var featureOptions = {
-        stroke: false,
-        color: htwOrange,
-        fillOpacity: 1,
+        color: '#333333',
+        weight: 1,
+        opacity: 1.0,
+        fillColor: htwOrange,
+        fillOpacity: 1.0,
         radius: 12,
-        className: "svg-feature"
+        className: 'svg-feature'
     };
-    var baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+    var baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     });
-    var campusLabels = L.layerGroup({});
+    var campusLabels = L.layerGroup();
     var campusLayer = L.geoJSON(window.buildings, {
         style: featureOptions,
         onEachFeature: onEachFeature
@@ -36,44 +38,29 @@
         pointToLayer: function (feature, latlng) {
             var props = feature.properties;
             return L.circleMarker(latlng, {
-                stroke: false,
-                fillColor: "#3388ff",
-                fillOpacity: .8,
+                color: '#333333',
+                weight: 1,
+                opacity: 1.0,
+                fillColor: '#3388ff',
+                fillOpacity: .5,
                 radius: 8
             }).bindTooltip(props.name);
         }
     });
-    var transportLayer = L.geoJSON(window.transport, {
-        pointToLayer: function (feature, latlng) {
-            var props = feature.properties;
-            return L.circleMarker(latlng, {
-                stroke: false,
-                fillColor: "yellow",
-                fillOpacity: .8,
-                radius: 5
-            }).bindTooltip(createTransportTooltipContent(props));
-        }
-    });
-    var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip("Mittwoch Abend<br>Abendveranstaltung im Bärenzwinger");
-    var thuLayer = L.circleMarker(thuPos, featureOptions).bindTooltip("Dienstag Abend<br>Inoffizieller Start im Altmarktkeller");
-    var wedLabel = createLabel(wedPos, "BZ", 2);
-    var thuLabel = createLabel(thuPos, "AK", 2);
-    var parking1Center = [51.03639378141363, 13.734347820281984];
-    var parking2Center = [51.03751118883509, 13.736257553100588];
-    var parking1Label = createLabel(parking1Center, "P<sub>€</sub>", 2);
-    var parking2Label = createLabel(parking2Center, "P", 2);
+    var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung im Bärenzwinger');
+    var thuLayer = L.circleMarker(thuPos, featureOptions).bindTooltip('Dienstag Abend<br>Inoffizieller Start im Altmarktkeller');
+    var wedLabel = createLabel(wedPos, 'BZ', 2);
+    var thuLabel = createLabel(thuPos, 'AK', 2);
     var mapOptions = {
         layers: [
             baseLayer,
             campusLayer,
             campusLabels,
-            hotelsLayer,
             thuLayer,
             thuLabel,
             wedLayer,
             wedLabel,
-            parking1Label,
-            parking2Label
+            hotelsLayer
         ],
         center: center,
         zoom: zoom,
@@ -83,24 +70,18 @@
     };
     var div, map;
 
-    document.addEventListener("DOMContentLoaded", init);
+    document.addEventListener('DOMContentLoaded', init);
 
     function init() {
-        var baseLayers = {"OSM": baseLayer};
-        var overlays = {
-            "Unterkunft": hotelsLayer,
-            "Nahverkehr": transportLayer
-        };
-        var options = {collapsed: false, hideSingleBase: true};
-        var mapContainerQuery = ".dynamic-map-container";
-        var mapId = "map";
+        var baseLayers = { 'OSM': baseLayer };
+        var overlays = { 'Unterkunft': hotelsLayer };
+        var options = { collapsed: false, hideSingleBase: true };
+        var mapContainerQuery = '.dynamic-map-container';
+        var mapId = 'map';
 
         // setup
         div = document.getElementById(mapId);
         map = L.map(div, mapOptions);
-
-        window.map = map;
-        map.on("click", function(e) { console.log(e.latlng);});
 
         // controls
         L.control.layers(baseLayers, overlays, options).addTo(map);
@@ -111,7 +92,7 @@
     function createLabel(center, label, priority) {
         var icon = L.divIcon({
             className: 'label label-priority-' + priority,
-            iconAnchor: [8, 8],
+            iconAnchor: [8, 9],
             html: label
         });
         return L.marker(center, {
@@ -119,21 +100,15 @@
         });
     }
 
-    function createTransportTooltipContent(props) {
-        var isBusStop = props.highway === 'bus_stop';
-        var label = (isBusStop ? "Bus-Station:<br>" : "Tram/Bahn-Station:<br>");
-        return label + props.name;
-    }
-
     function onEachFeature(feature, layer) {
         var props = feature.properties;
-        var name = props.short_name + "-Gebäude";
+        var name = props.short_name + '-Gebäude';
         var content = tooltipTemplate
-            .replace("{shortName}", name)
-            .replace("{name}", props.name)
-            .replace("{purpose}", props.purpose)
-            .replace("{src}", props.bild)
-            .replace("{title}", name);
+            .replace('{shortName}', name)
+            .replace('{name}', props.name)
+            .replace('{purpose}', props.purpose)
+            .replace('{src}', props.bild)
+            .replace('{title}', name);
 
         layer.bindTooltip(content, {offset: [-10, 0]});
 
