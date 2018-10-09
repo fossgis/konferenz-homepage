@@ -45,7 +45,7 @@
                 openstreetmap.org</a>).
         </p>
 
-        <img src="https://www.fossgis.de/w/images/3/3a/Campus_Plan_HTWDD.jpg" height="390" class="city">
+        <img src="../data/images/Campus_Plan_HTWDD.jpg" height="390" class="city">
 
         <p>Im Foyer des Hauptgebäudes (Z-Gebäude) der Hochschule finden Sie den <i>Welcome Desk</i>, die
             <i>Aussteller</i> sowie die Pausenversorgung.
@@ -58,9 +58,9 @@
         <p>Der Zugang zu den Hochschulräumlichkeiten ist behindertengerecht gestaltet.</p>
 
         <p>
-            <img src="https://www.fossgis.de/w/images/c/cb/Zentralgebauede_HTWDD.jpg" height="200" class="city"
+            <img src="../data/images/Zentralgebauede_HTWDD.jpg" height="200" class="city"
                  title="HTW Dresden - Perspektive vom Hauptbahnhof">
-            <img src="https://www.fossgis.de/w/images/2/29/Uebergang_Zentral_zu_Seminargebaeude_HTWDD.jpg" height="200"
+            <img src="../data/images/Z+Seminargebaeude_HTWDD.jpg" height="200"
                  class="city" title="Verbindung Zentralgebäude (Z) und Seminargebäude (S) HTW Dresden">
         </p>
 
