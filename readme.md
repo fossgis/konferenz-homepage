@@ -18,7 +18,7 @@ of the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### JavaScript
 
-**[Leaflet](https://leafletjs.com)** is © 2010-2013, Vladimir Agafonkin, ©
+**[Leaflet](https://leafletjs.com)** is © 2010-2018, Vladimir Agafonkin, ©
 2010-2011, CloudMade and available under the [2-clause BSD
 license](https://github.com/Leaflet/Leaflet/blob/master/LICENSE).
 
