@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>FOSSGIS 2018 AGB</title>
+        <title>FOSSGIS 2019 AGB</title>
         <meta name="description" content="Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme und OpenStreetMap.">
         <meta charset="utf-8">
 
@@ -23,10 +23,10 @@
 				
 <p>Der FOSSGIS e.V. richtet als Veranstalter die FOSSGIS-Konferenz aus.
 Für die Konferenz werden die Tickets über die Internetseite des <a href="
-https://pretix.eu/fossgis/konf-2018/" target="_blank"> Pretix-Ticketshops </a> verkauft. Für das Vertragsverhältnis gelten
+https://pretix.eu/fossgis/konf-2019/" target="_blank"> Pretix-Ticketshops </a> verkauft. Für das Vertragsverhältnis gelten
 die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
 
-<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite des <a href="https://pretix.eu/fossgis/konf-2018/" target="_blank"> Pretix-Ticketshops </a> gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
+<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite des <a href="https://pretix.eu/fossgis/konf-2019/" target="_blank"> Pretix-Ticketshops </a> gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
 
 <p>Für den Verkauf der Konferenz-Tickets an Verbraucher besteht für diese ein gesetzliches Widerrufsrecht gemäß § 312g BGB. In diesem Fall gilt nachfolgendes Widerrufsrecht:<br></p>
 
@@ -64,7 +64,7 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <p>Ist der Vertragspartner Kaufmann, so ist ausschließlicher (auch internationaler) Gerichtsstand Kirchzarten für alle sich aus dem Vertragsverhältnis unmittelbar oder mittelbar ergebenen Streitigkeiten. Dies gilt im Falle von grenzüberschreitenden Verträgen auch für Nichtkaufleute.</p>
 
-<p>Stand der AGB: 06. Januar 2018</p>
+<p>Stand der AGB: 06. Januar 2019</p>
 
 </p>
 
