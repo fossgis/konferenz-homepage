@@ -6,8 +6,6 @@
         <meta charset="utf-8">
 
         <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-        <script type="text/javascript" src="js/twitterwall/jquery-1.8.2.js"></script>
-        <script type="text/javascript" src="js/twitterwall/twitter.js"></script>
     </head>
     <body id="home">
         <div id="wrap">
@@ -41,15 +39,7 @@
                 <p>Den Tagungsband zur Konferenz von 2018 können Sie <a href="./data/fossgis_tagungsband_2018.pdf">hier herunterladen</a></p>
                 <p class="clear"></p>
 
-                <h2>FOSSGIS 2018 auf Twitter</h2>
-                <div id="twitter">
-                    <a href="http://twitter.com/fossgis_konf"><img src="img/twitter.png" width="55" height="45"></a>
-                    <div id="twitterwall">
-                        <div class="arrow"></div>
-                    </div>
-                </div>
-
-                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
+                <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
                 <h3>Werden Sie Sponsor!</h3>
                  <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
