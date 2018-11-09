@@ -22,6 +22,8 @@
                 <h2>Call for Papers</h2>
                 <p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2019/cfp">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
+                <p class="update-highlight"><b>Aktueller Hinweis:</b> Wegen Störungen am Vortragseinreichungssystem wird der Call for Papers bis Dienstag, den 13. November 2018 verlängert. Bitte beachten Sie, dass am Samstag, den 10. November 2018 das Vortragseinreichungssystem zeitweise nicht nutzbar ist.</p>
+
                 <p>Forscher, Entwickler und Anwender sowie Mitwirkende des OpenStreetMap-Projekts können einen Vortrag oder Workshop einreichen. Es werden Vorträge mit Neuigkeitswert sowie solche gesucht, die spannende Themen behandeln oder anregende Diskussionen auslösen. Thema der Konferenz sind freie Geodaten (insbesondere, aber nicht nur, OpenStreetMap), Open Data und freie GIS-Software. </p>
 
                 <dl>
@@ -64,7 +66,9 @@ Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem Vortrag oder
   
 <p>Als Redner oder Workshopleiter sind Sie berechtigt ein kostenloses Communityticket als Eintrittskarte zu lösen, selbstverständlich freuen wir uns über eine Standardticketbuchung, wenn die finanziellen Möglichkeiten es erlauben. </p>
 <p>Sie haben die Möglichkeit, bei der Einreichung des Vortrags anzugeben, an welchen Tagen der Konferenz Sie Zeit haben. Scheuen Sie sich nicht davor, einen Vortrag einzureichen, auch wenn Sie während der Konferenz nur eingeschränkt verfügbar sind.</p>
-<p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2019 ab sofort bis zum 09. November 2018* ein. Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.</p>
+<p>Bitte reichen Sie Ihren Abstract für die FOSSGIS 2019 ab sofort bis zum 09. November 2018* ein. <span style="text-decoration: line-through;">Eine Fristverlängerung ist wegen der ohnehin straffen Zeitplanung nicht vorgesehen.</span></p>
+
+                <p class="update-highlight"><b>Aktueller Hinweis:</b> Wegen Störungen am Vortragseinreichungssystem wird der Call for Papers bis Dienstag, den 13. November 2018 verlängert. Bitte beachten Sie, dass am Samstag, den 10. November 2018 das Vortragseinreichungssystem zeitweise nicht nutzbar ist.</p>
 
                 <p ><a class="btn btn-primary" href="https://pretalx.com/fossgis2019/cfp">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 <p style="margin-top: 10px;"><small>*) In einer ursprünglichen Fassung stand an dieser Stelle der 08. November, was ein Tippfehler war.</small></p>

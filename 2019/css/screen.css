@@ -548,3 +548,8 @@ footer a:focus {
 	width: auto;
 	padding: 0 3px;
 }
+
+/* highlighted text for updates */
+.update-highlight {
+	color: #eb7f00; /* FOSSGIS orange */
+}
