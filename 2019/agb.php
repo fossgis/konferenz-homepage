@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>FOSSGIS 2018 AGB</title>
+        <title>FOSSGIS-Konferenz AGB</title>
         <meta name="description" content="Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme und OpenStreetMap.">
         <meta charset="utf-8">
 
@@ -15,8 +15,8 @@
                 <?php include('inc/nav.inc'); ?>
 
                 <figure>
-                    <img src="img/bonn.jpeg" width="880" height="241" alt="Bonn">
-                    <figcaption>Photo: Stadt Bonn</figcaption>
+                    <img src="img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
+                    <figcaption>Photo: Kolossos</figcaption>
                 </figure>
 
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
