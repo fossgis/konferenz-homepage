@@ -69,7 +69,7 @@
 
                  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
                 <h3>Bronzesponsoren</h3>
-<div class="sponsor bronze" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/201_2019-3VEBG-1-terrestris.png" valign="middle" width="133" height="67"></a></div>               
+<div class="sponsor bronze" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/201_2019-3VEBG-1-terrestris.png" valign="middle" width="136" height="68"></a></div>               
 <div class="sponsor bronze" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/202_Logo_geoSYS_FOSSGIS.png" width="140" height="76"></a></div>
 <div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
 <div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
