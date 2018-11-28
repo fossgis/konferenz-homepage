@@ -19,8 +19,9 @@
 	<li id="navEvents">
           <a href="/2018/socialevents">Social Events</a>
     </li>
+-->    
     <li id="navEvents">
-          <a href="/2018/loc/loc.php">Das Team</a>
+          <a href="/2019/loc/loc.php">Das Team</a>
     </li>
--->
+
 </ul>
