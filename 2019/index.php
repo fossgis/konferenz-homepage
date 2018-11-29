@@ -71,11 +71,12 @@
                 <h3>Bronzesponsoren</h3>
 <div class="sponsor bronze" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/201_2019-3VEBG-1-terrestris.png" valign="middle" width="136" height="68"></a></div>               
 <div class="sponsor bronze" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/202_Logo_geoSYS_FOSSGIS.png" width="140" height="76"></a></div>
+<div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_GBD.png" valign="middle" width="120" height="32"></a></div>  
 <div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
-<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
-<!--<div class="sponsor bronze" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
+  <!--<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
+<div class="sponsor bronze" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
                 <div class="sponsor bronze" id="mundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
-                <div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
+                
                 <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
 				<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
 				<div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
