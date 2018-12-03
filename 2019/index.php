@@ -63,14 +63,15 @@
 <!--                    
 					<div class="sponsor gold" id="geocat"><a href="https://www.geocat.net/" target="_blank"><img src="img/s/003_GeoCat.png" valign="middle" width="315" height="85"></a></div>
 
-                <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. 
+                <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
                     <h3>Silbersponsoren</h3>
-                <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/101_Geoinfo_Logo.png" valign="middle" width="175"></a></div> 
+<div class="sponsor silber" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/101_Logo_geoSYS_FOSSGIS.png" width="179" height="97"></a></div>              
+<!--  <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/101_Geoinfo_Logo.png" valign="middle" width="175"></a></div> 
 
                  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
                 <h3>Bronzesponsoren</h3>
 <div class="sponsor bronze" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/201_2019-3VEBG-1-terrestris.png" valign="middle" width="136" height="68"></a></div>               
-<div class="sponsor bronze" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/202_Logo_geoSYS_FOSSGIS.png" width="140" height="76"></a></div>
+
 <div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_GBD.png" valign="middle" width="120" height="32"></a></div>  
 <div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
   <!--<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>

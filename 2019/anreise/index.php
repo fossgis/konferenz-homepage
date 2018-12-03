@@ -159,11 +159,13 @@
             <li> Telefon: 0351 / 48140</li>
         </ul>
 
-        <p><i> Hotel ibis Dresden</i></p>
+        <p><i> Accor Hotels Dresden</i></p>
         <ul class="list">
-            <li> Web: <a href="https://www.ibis-dresden.de/" rel="nofollow" target="_blank">https://www.ibis-dresden.de/</a></li>
-            <li> Adresse: Wilsdruffer Str. 25, 01067 Dresden</li>
-            <li> Telefon: 0351 / 83393820</li>
+            <li> Web: <a href="https://www.accorhotels.com/de/city/hotels-dresden-v1130.shtml" rel="nofollow" target="_blank">https://www.accorhotels.com/de</a></li>
+            <li>  ibis Dresden Bastei, Prager Strasse 5, 01067 Dresden</li>
+			<li> ibis Dresden Koenigstein, Prager Strasse 9, 01067 Dresden</li>
+            <li> Telefon: 0351/48564856</li>
+
         </ul>
 
         <p><i> The Student Hotel Dresden</i>
