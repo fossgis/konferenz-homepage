@@ -69,6 +69,10 @@ h3 {
 	clear: both;
 }
 
+h3 > small {
+	color: #838b8e;
+}
+
 /* @end */
 
 /* @group Navigation */
