@@ -48,6 +48,9 @@
           
 
             <h3>Donnerstag, 14. März 2019</h3>
+
+			<h4>Fototermin </H4>
+			<p>Alle Konferenzteilnehmer und Teilnehmerinnen sind zu 15:00 Uhr gebeten sich zu einem gemeinsamen Gruppenfoto an der Treppe vor dem Haupteingang der Hochschule (Z-Gebäude) einzufinden. </p>
 		 	<h4>FOSSGIS e.V. Mitgliederversammlung</h4>
             
            	<p>ab 18:00 Uhr im Mathe-Hörsaal Z211. Alle Mitglieder sind herzlich eingeladen, teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Neuwahlen.
