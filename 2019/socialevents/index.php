@@ -83,46 +83,6 @@ Getränke werden gestellt und es wird für alle Pizza bestellt. Der Verein freut
     		<li>Elbwiesen, Blaues Wunder, Stand- und Schwebeseilbahn</li>
     		<li>Burgen & Schlösser um Dresden (Königsstein, ...)</li>
     		<li>Dresdner Heide</li></ul>-->
-
-<<<<<<< 42cb8dc40551e91b7fc84bc35c9b5eb25322d70c
-            <h3>
-                Fototermin<br>
-                <small>Donnerstag, 14. März 2019 ab 15:00 Uhr</small>                
-            </h3>
-            <p>
-                Alle Konferenzteilnehmer und Teilnehmerinnen sind zu 15:00 Uhr gebeten sich zu einem gemeinsamen Gruppenfoto an der 
-                Treppe vor dem Haupteingang der Hochschule (Z-Gebäude) einzufinden.
-            </p>
-
-            <h3>
-                FOSSGIS e.V. Mitgliederversammlung<br>
-                <small>Donnerstag, 14. März 2019, 18:00</small>
-            </h3>
-            <p>Die FOSSGIS e.V. Mitgliederversammlung findet im Anschluss des zweiten Konferenztages im Zentralgebäude der Hochschule statt.</p>
-            <p>Treffpunkt ist der Mathe-Hörsaal Z211.</p>
-
-            <h3>
-                Sektempfang<br>
-                <small>Freitag, 15. März 2019 ab 14:30 Uhr</small>
-            </h3>
-            <p>Am Freitag gegen 14:30 Uhr laden die Veranstalter zum Sektempfang am FOSSGIS-Stand.</p>
-            <p>Alle Konferenzteilnehmerinnen & Teilnehmer sowie Vereinsmitglieder, Freunde und Interessierte sind herzlich eingeladen.</p>
-
-            <h3>
-                Exkursion zum Mathematisch-Physikalischen Salon im Zwinger<br>
-                <small>Freitag, 15. März 2019 ab 15:30 Uhr</small>
-            </h3>
-            <p>Nach dem freitäglichen Sektempfang ist gegen 15:30 Uhr eine Exkursion zum <a href="https://mathematisch-physikalischer-salon.skd.museum" target="_blank" rel="nofollow">Mathematisch-Physikalischen Salon im Zwinger</a> geplant.</p>
-            <p>Es wird eine auf die Konferenzteilnehmer zugeschnittene Führung durch das Museum geben.</p>
-            <p>Interessierte sind herzlich eingeladen sich anzuschließen. Der Eintritt zum Salon ist durch jeden Teilnehmer selbst zu zahlen.</p>
-
-            <h3>
-                Anwendertreffen
-            </h3>
-            <p><u>Es können Anwendertreffen, Sprints und Birds-of-a-Feather-Treffen selbst organisiert werden.</u></p>
-            <p>Räume stehen bis Samstag 18 Uhr zur Verfügung, Termine bitte beim Konferenzteam per E-Mail (konferenz-orga@fossgis.de ) anfragen oder das Team vor Ort ansprechen.</p>
-=======
->>>>>>> Ergänzungen Social Events und Anmeldung
         </div>
 
         <?php include('../inc/footer.inc'); ?>
