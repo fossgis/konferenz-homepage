@@ -62,7 +62,7 @@ Getränke werden gestellt und es wird für alle Pizza bestellt. Der Verein freut
 			<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 14:30 Uhr herzlich zum Sektausklang eingeladen.</p>
 
 			<h4>OSM-Event am Freitagnachmittag</h4>
-			<p>Das Programmkomitee hat ab für Freitagnachmittag ein Vortragsprogramm mit OpenStreetMap-Themen zusammengestellt. Die beginnt um 15 Uhr mit dem OSM-Quiz.</p> 
+			<p>Das Programmkomitee hat ab für Freitagnachmittag ein Vortragsprogramm mit OpenStreetMap-Themen zusammengestellt. Es beginnt um 15 Uhr mit dem OSM-Quiz.</p> 
 
             <h4>Exkursion zum Mathematisch-Physikalischen Salon  im Zwinger</h4>
             <p>Um 15:30 Uhr ist am Freitagnachmittag eine Exkursion zum <a href="https://mathematisch-physikalischer-salon.skd.museum" target="_blank" rel="nofollow">Mathematisch-Physikalischen Salon im Zwinger</a> geplant.<br>
