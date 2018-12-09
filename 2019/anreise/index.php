@@ -140,7 +140,8 @@
 
         <h3>Unterkunft</h3>
         <p>In Dresden steht eine Vielzahl an Unterkünften zur Verfügung. Durch die Lage der HTW Dresden nahe dem
-            Hauptbahnhof und der Altstadt sind auch in unmittelbarer Nähe einige Hotels und Hostels vorhanden.
+            Hauptbahnhof und der Altstadt sind auch in unmittelbarer Nähe einige Hotels und Hostels vorhanden.<br>
+			<b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Dresden eine <a href="https://www.dresden.de/de/rathaus/dienstleistungen/beherbergungssteuer_d115.php?shortcut=beherbergungssteuer"> Beherbergungssteuer</a>  erhebt. 
 
         <p><i>IntercityHotel Dresden</i></p>
         <ul class="list">
