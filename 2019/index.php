@@ -72,10 +72,10 @@
                 <h3>Bronzesponsoren</h3>
 <div class="sponsor bronze" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/201_2019-3VEBG-1-terrestris.png" valign="middle" width="136" height="68"></a></div>               
 
-<div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/202_GBD.png" valign="middle" width="120" height="32"></a></div>  
+<div class="sponsor bronze" id="gbd"><a href="https://www.gbd-consult.de" target="_blank"><img src="img/s/202_GBD.png" valign="middle" width="120" height="32"></a></div>  
 
-<div class="sponsor bronze" id="dbg"><a href="http://www.datenbankgesellschaft.de" target="_blank"><img src="img/s/203_DBG_LOGO.jpg" valign="middle" width="146" height="72"></a></div>  
-<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
+<div class="sponsor bronze" id="dbg"><a href="https://www.datenbankgesellschaft.de" target="_blank"><img src="img/s/203_DBG_LOGO.jpg" valign="middle" width="146" height="72"></a></div>  
+<div class="sponsor bronze" id="geops"><a href="https://geops.ch" target="_blank"><img valign="middle"><img src="img/s/204_GEOPS.png" valign="middle" width="146" height="72"></a></div>
   <!--<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
 <div class="sponsor bronze" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
                 <div class="sponsor bronze" id="mundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
