@@ -11,15 +11,10 @@
 	<li id="navEvents">
           <a href="/2019/socialevents">Social Events</a>
     </li>
-<!--
-	<li id="navCall">
-        <a href="/2019/callforpapers">Call for Papers</a>
-    </li>
-
     <li id="navProgramm">
-        <a href="/2019/programm">Programm</a>
+        <a href="https://pretalx.com/fossgis2019/schedule/">Programm</a>
     </li>
-	
+<!--
     <li id="navEvents">
           <a href="/2019/loc/loc.php">Das Team</a>
     </li>

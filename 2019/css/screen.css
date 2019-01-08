@@ -557,3 +557,15 @@ footer a:focus {
 .update-highlight {
 	color: #eb7f00; /* FOSSGIS orange */
 }
+
+.highlight {
+	border: 1px solid #eb7f00;
+	padding: 1em;
+	color: #eb7f00;
+	font-weight: bold;
+}
+
+.highlight a {
+	color: #eb7f00;
+
+}
