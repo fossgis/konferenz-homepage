@@ -34,7 +34,7 @@
 
                 <p>Hier gelangen Sie <a href="https://pretix.eu/fossgis/2019/"> zur Anmeldung</a>. Im Rahmen der Anmeldung können Sie bis zum 11.03.2019 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) auswählen. Informationen zu den einzelnen Workshops finden Sie im <a href="https://pretalx.com/fossgis2019/schedule/">Programm</a>. </p>
 
-                <p class="text-right highlight"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/2017/">Direkt zur Anmeldung &rarr;</a></p>
+                <p class="text-right highlight"><a class="btn btn-primary" target="_blank" href="https://pretix.eu/fossgis/2019/">Direkt zur Anmeldung &rarr;</a></p>
 
                 <h3>Preise FOSSGIS-Konferenz 2019</h3>
                 <ul class="list">
