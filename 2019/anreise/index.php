@@ -9,7 +9,7 @@
           content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.css"/>
+    <link rel="stylesheet" href="../../static/leaflet/1.3.4/leaflet.css"/>
     <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
     <script src="../../static/leaflet/1.3.4/leaflet.js"></script>
