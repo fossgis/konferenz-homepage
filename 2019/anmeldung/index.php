@@ -43,7 +43,7 @@
                 <li> Studierendenticket: € 40</li>
                 <li> Communityticket*: € 0*</li>
                 <li> Workshop: € 100</li>
-                <li> Workshop (Frühbucherrabatt bis 31.01.2019): € 90</li>
+                <li> Workshop (Frühbucherrabatt bis 06.02.2019): € 90</li>
                 </ul>
                 <p><b>Im Konferenzticket enthalten: </b>FOSSGIS-Konferenz-Teilnahme, Pausensnack, Tasche und wenn bestellt Tagungsband, T-Shirt und Abendveranstaltung Dialoge im Bärenzwinger. <small>* Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer der Konferenz.</small></p>
 
