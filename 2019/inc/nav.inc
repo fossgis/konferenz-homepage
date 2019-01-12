@@ -6,7 +6,8 @@
         <a href="/2019/anmeldung">Anmeldung</a>
     </li>
     <li id="navProgramm">
-        <a href="https://pretalx.com/fossgis2019/schedule/" target="_blank">Programm</a>
+      <!--  <a href="https://pretalx.com/fossgis2019/schedule/" target="_blank">Programm</a>-->
+	<a href="/2019/programm">Programm</a>
     </li>
 	<li id="navAnreise">
 		<a href="/2019/anreise">Anreise</a>
