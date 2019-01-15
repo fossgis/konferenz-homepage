@@ -10,7 +10,7 @@
 	<a href="/2019/programm">Programm</a>
     </li>
 	<li id="navAnreise">
-		<a href="/2019/anreise">Anreise</a>
+		<a href="/2019/anreise">Anreise & Unterkunft</a>
 	</li>
 	<li id="navEvents">
           <a href="/2019/socialevents">Social Events</a>
