@@ -31,7 +31,7 @@
             <figcaption>Photo: Kolossos</figcaption>
         </figure>
 
-        <h2>Anreise und Unterkunft</h2>
+        <h2>Anreise, Ort & Unterkunft</h2>
 
         <div class="dynamic-map-container">
             <div id="map" class="map"></div>
@@ -130,7 +130,6 @@
             </li>
         </ul>
 
-
         <p>Denken Sie an die Möglichkeit des Carsharing, oder nutzen oder organisieren Sie eine Mitfahrgelegenheit bei
             Diensten wie <a
                     href="https://www.blablacar.de/ride-sharing/to-dresden/?fn=&tn=Dresden%2C+Deutschland&tc=51.050409%7C13.737262&tcc=DE&tp=0&is_without_date_end=0&sort=trip_date&order=asc&limit=10&page=1&s_uuid=7ff529a3-e27c-42c1-9681-095b7b73d90d"
@@ -138,10 +137,14 @@
             Geldbeutel
             werden sich freuen.</p>
 
+        <h3>Ausflugsmöglichkeiten & Sehenswürdigkeiten</h3>
+        <p>Dresden bietet eine Fülle von Möglichkeiten, um den Aufenthalt über die Konferenz hinaus zu verlängern.</p>
+        <p>Die Dresdner Tourismus Information bietet auf ihrer <a href="https://www.dresden.de/de/tourismus/sehen.php" target="_blank">Webpräsenz</a> einen kompakten Überblick zu den vielfältigen Angeboten der Stadt und ihrer Umgebung.</p>
+
         <h3>Unterkunft</h3>
         <p>In Dresden steht eine Vielzahl an Unterkünften zur Verfügung. Durch die Lage der HTW Dresden nahe dem
             Hauptbahnhof und der Altstadt sind auch in unmittelbarer Nähe einige Hotels und Hostels vorhanden.<br>
-			<b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Dresden eine <a href="https://www.dresden.de/de/rathaus/dienstleistungen/beherbergungssteuer_d115.php?shortcut=beherbergungssteuer"> Beherbergungssteuer</a>  erhebt. 
+            <b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Dresden eine <a href="https://www.dresden.de/de/rathaus/dienstleistungen/beherbergungssteuer_d115.php?shortcut=beherbergungssteuer"> Beherbergungssteuer</a>  erhebt.
 
         <p><i>IntercityHotel Dresden</i></p>
         <ul class="list">
@@ -164,7 +167,7 @@
         <ul class="list">
             <li> Web: <a href="https://www.accorhotels.com/de/city/hotels-dresden-v1130.shtml" rel="nofollow" target="_blank">https://www.accorhotels.com/de</a></li>
             <li>  ibis Dresden Bastei, Prager Strasse 5, 01067 Dresden</li>
-			<li> ibis Dresden Koenigstein, Prager Strasse 9, 01067 Dresden</li>
+            <li> ibis Dresden Koenigstein, Prager Strasse 9, 01067 Dresden</li>
             <li> Telefon: 0351/48564856</li>
 
         </ul>
