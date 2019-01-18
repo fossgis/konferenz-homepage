@@ -40,7 +40,7 @@
                 <ul class="list">
                 <li> Standardticket (Normalpreis): € 190</li>
                 <li> Standardticket (Frühbucherrabatt bis 06.02.2019): € 150</li>
-                <li> Studierendenticket: € 40</li>
+                <li> Studierendenticket, Rentnerticket: € 40</li>
                 <li> Communityticket*: € 0*</li>
                 <li> Workshop: € 100</li>
                 <li> Workshop (Frühbucherrabatt bis 06.02.2019): € 90</li>
