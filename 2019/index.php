@@ -75,11 +75,13 @@
 <div class="sponsor bronze" id="dbg"><a href="https://www.datenbankgesellschaft.de" target="_blank"><img src="img/s/203_DBG_LOGO.jpg" valign="middle" width="136" height=67></a></div>  
 <div class="sponsor bronze" id="geops"><a href="https://geops.ch" target="_blank"><img valign="middle"><img src="img/s/204_GEOPS.png" valign="middle" width="136" height="39"></a></div>
 <div class="sponsor bronze" id="omniscale"><a href="https://maps.omniscale.com/de/" target="_blank"><img src="img/s/205_omniscale.jpg" valign="middle" width="136" height="42"></a></div>
-  <!--<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>
-                <div class="sponsor bronze" id="mundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
+
+                <div class="sponsor bronze" id="graphhopper"><a href="https://www.graphhopper.com/de/" target="_blank"><img src="img/s/207_graphhopper.png" valign="middle" width="150" height="24"></a></div> 
+<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/206_mapwebbing.PNG" width="150" height="46"></a></div>
+            <!--<div class="sponsor bronze" id="..."><a href="http://www.fossgis.de" target="_blank"><img valign="middle"> </a></div>      
                 
-                <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
-                <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
+<div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
+               
                 <div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
                 
                 <div class="sponsor bronze" id="GKG Kassel - Dr.-Ing. Claas Leiner"><a href="http://www.gkg-kassel.de" target="_blank"><img valign="middle" src="img/s/208_gkg_logo.png" width="130" height="99"></a></div>
