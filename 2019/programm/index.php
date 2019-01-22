@@ -1,26 +1,21 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
-    <head>
-        <title>FOSSGIS 2019 Programm</title>
-        <meta name="description" content="FOSSGIS ist die Abk&uuml;rzung f&uuml;r Freie und Open Source Software f&uuml;r Geoinformationssysteme und ist die f&uuml;hrende Konferenz zu diesem Thema im deutschsprachigen Raum.">
-        <meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM, Universität Salzburg, Hohensalzburg, Z_GIS">
-        <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
-        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>FOSSGIS 2019 - Programm</title>
+	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    </head>
-    <body id="programm">
-        <div id="wrap">
-            <?php include('../inc/head.inc'); ?>
+	<link rel="stylesheet" href="/2019/css/normalize.css">
+	<link rel="stylesheet" href="/2019/css/base.css">
+	<link rel="stylesheet" href="/2019/css/components.css">
+</head>
 
-            <div id="content">
-
-                <?php include('../inc/nav.inc'); ?>
-				<figure>
-                    <img src="../img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-                    <figcaption>Photo: Kolossos</figcaption>
-                </figure>
+<body id="programm">
+	<?php include "../inc/header.inc"; ?>
 
                 <h2>Programm</h2>
                 <p>Wählen Sie den gewünschten Konferenztag aus.</p>

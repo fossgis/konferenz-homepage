@@ -1,31 +1,23 @@
-<!DOCTYPE html>
-<?php 
-#require_once 'simple_html_dom.php'; 
-?>
+<!doctype html>
 <html lang="de">
-    <head>
-        <title>FOSSGIS 2019</title>
-        <meta name="description" content="Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme und OpenStreetMap.">
-         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
-         <meta charset="utf-8">
-        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-    </head>
-    
-    <body id="team">
-      <div id="wrap">
-      <?php include('../inc/head.inc'); ?>
-        
-      <div id="content">
-      <?php 
-        include('../inc/nav.inc');
-        #include('prog_nav.inc');
-      ?>  
 
-    <figure>
-      <img src="../img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-      <figcaption>Photo: Kolossos</figcaption>
-    </figure>
-    
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>FOSSGIS 2019 - Team</title>
+	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="/2019/css/normalize.css">
+	<link rel="stylesheet" href="/2019/css/base.css">
+	<link rel="stylesheet" href="/2019/css/components.css">
+</head>
+
+<body id="team">
+
+	<?php include "../inc/header.inc"; ?>
+
     <h2>Das Konferenz-Team</h2>
 
 <table class='list' border='0' width='90%'>

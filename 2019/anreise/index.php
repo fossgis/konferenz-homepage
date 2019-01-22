@@ -1,22 +1,25 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
+
 <head>
-    <title>FOSSGIS 2019 Anreise + Unterkunft</title>
-    <meta name="description"
-          content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
-    <meta name="author" content="Oliver Roick. http://oliverroick.de/">
-    <meta name="keywords"
-          content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>FOSSGIS 2019 - Standort</title>
+	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<meta name="author" content="Oliver Roick. http://oliverroick.de/">
+	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="stylesheet" href="../../static/leaflet/1.3.4/leaflet.css"/>
-    <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="/2019/css/normalize.css">
+	<link rel="stylesheet" href="/2019/css/base.css">
+	<link rel="stylesheet" href="/2019/css/components.css">
+	<link rel="stylesheet" href="/static/leaflet/1.3.4/leaflet.css"/>
 
-    <script src="../../static/leaflet/1.3.4/leaflet.js"></script>
-    <script src="script/leaflet.addons.js"></script>
-    <script src="data/buildings.js"></script>
-    <script src="data/hotels.js"></script>
-    <script src="script/map.js"></script>
+	<script src="/static/leaflet/1.3.4/leaflet.js"></script>
+	<script src="/2019/anreise/script/leaflet.addons.js"></script>
+	<script src="/2019/anreise/data/buildings.js"></script>
+	<script src="/2019/anreise/data/hotels.js"></script>
+	<script src="/2019/anreise/script/map.js"></script>
 </head>
 
 <body id="anreise">

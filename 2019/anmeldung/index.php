@@ -1,23 +1,23 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
-    <head>
-        <title>FOSSGIS 2019 Anmeldung</title>
-        <meta name="description" content="FOSSGIS ist die Abk&uuml;rzung f&uuml;r Freie und Open Source Software f&uuml;r Geoinformationssysteme und ist die f&uuml;hrende Konferenz zu diesem Thema im deutschsprachigen Raum.">
-        <meta name="author" content="Oliver Roick. http://oliverroick.de/">
-        <meta name="keywords" content="FOSSGIS, FOSSGIS-KOnferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM, OSGeo, CodeSprint, HTW Dresden, Elbe, Dresden, FOSSGIS-Konferenz, Dialoge im Bärenzwinger">
-        <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
-        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-        <link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/konf-2019/widget/v1.css">
-        <script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>FOSSGIS 2019 - Anmeldung</title>
+	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<meta name="author" content="Oliver Roick. http://oliverroick.de/">
+	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    </head>
-    <body id="anmeldung">
-        <div id="wrap">
-            <?php include('../inc/head.inc'); ?>
+	<link rel="stylesheet" href="/2019/css/normalize.css">
+	<link rel="stylesheet" href="/2019/css/base.css">
+	<link rel="stylesheet" href="/2019/css/components.css">
+	<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/konf-2019/widget/v1.css">
+	<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
+</head>
 
-            <div id="content">
+<body id="anmeldung">
 
                 <?php include('../inc/nav.inc'); ?>
 

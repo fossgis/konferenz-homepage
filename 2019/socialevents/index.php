@@ -1,18 +1,20 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
-<head>
-    <title>FOSSGIS 2019 Social Events</title>
-    <meta name="description" content="FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.">
-    <meta name="author" content="Oliver Roick. http://oliverroick.de/">
-     <meta name="keywords" content="FOSSGIS, FOSSGIS-KOnferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM, OSGeo, HTW Dresden, Elbe, Dresden, FOSSGIS-Konferenz, Dialoge im Bärenzwinger">
-        <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="/fonts/Droid_Sans_regular_bold.css" />
-        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-    </head>
-    <body id="socialEvents">
-        <div id="wrap">
-        	<?php include('../inc/head.inc'); ?>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>FOSSGIS 2019 - Social Events</title>
+	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="/2019/css/normalize.css">
+	<link rel="stylesheet" href="/2019/css/base.css">
+	<link rel="stylesheet" href="/2019/css/components.css">
+</head>
+
+<body id="socialEvents">
 
             <div id="content">
                 <?php include('../inc/nav.inc'); ?>
