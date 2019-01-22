@@ -60,8 +60,8 @@
 
                   <h3>Goldsponsoren</h3>
                     <div class="sponsor gold" id="wheregroup"><a href="https://www.wheregroup.com/" target="_blank"><img src="img/s/001_WhereGroup.jpg" valign="middle" width="349" height="92"></a></div>
-<!--                    
-                    <div class="sponsor gold" id="geocat"><a href="https://www.geocat.net/" target="_blank"><img src="img/s/003_GeoCat.png" valign="middle" width="315" height="85"></a></div>
+              
+                    <div class="sponsor gold" id="here"><a href="https://www.here.xyz/" target="_blank"><img src="img/s/002_here-xyz.png" valign="middle" width="200" height="91"></a></div>
 
                 <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
                     <h3>Silbersponsoren</h3>
