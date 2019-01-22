@@ -17,28 +17,26 @@
 <body id="programm">
 	<?php include "../inc/header.inc"; ?>
 
-                <h2>Programm</h2>
-                <p>Wählen Sie den gewünschten Konferenztag aus.</p>
-                <div style="margin: 5px 85px 7px 160px">
-                <ul>
-                <li>
-                <a href="https://pretalx.com/fossgis2019/schedule/#2019-03-13" target="_blank" rel="nofollow">Mittwoch, 13.03.2019</a>
-                </li>                    	
-                <li>
-                <a href="https://pretalx.com/fossgis2019/schedule/#2019-03-14" target="_blank" rel="nofollow">Donnerstag, 14.03.2019</a>
-                </li>
-                <li>
-                <a href="https://pretalx.com/fossgis2019/schedule/#2019-03-15" target="_blank" rel="nofollow">Freitag, 15.03.2019</a>
-                </li>
-                <li>
-                <a href="https://pretalx.com/fossgis2019/schedule/#2019-03-16" target="_blank" rel="nofollow">OSM Samstag, 16.03.2019</a>
-                </li>
-				<li>
-                <a href="https://pretalx.com/fossgis2019/speaker/" target="_blank" rel="nofollow">Referenten</a>
-                </li>
-                </ul>
-                </div>
+	<h2>Programm</h2>
 
+	<p>Wählen Sie den gewünschten Konferenztag aus.</p>
+	<ul>
+		<li>
+			<a href="https://pretalx.com/fossgis2019/schedule/#2019-03-13" target="_blank" rel="nofollow">Mittwoch, 13.03.2019</a>
+		</li>
+		<li>
+			<a href="https://pretalx.com/fossgis2019/schedule/#2019-03-14" target="_blank" rel="nofollow">Donnerstag, 14.03.2019</a>
+		</li>
+		<li>
+			<a href="https://pretalx.com/fossgis2019/schedule/#2019-03-15" target="_blank" rel="nofollow">Freitag, 15.03.2019</a>
+		</li>
+		<li>
+			<a href="https://pretalx.com/fossgis2019/schedule/#2019-03-16" target="_blank" rel="nofollow">OSM Samstag, 16.03.2019</a>
+		</li>
+		<li>
+			<a href="https://pretalx.com/fossgis2019/speaker/" target="_blank" rel="nofollow">Referenten</a>
+		</li>
+	</ul>
 
 	<!-- <p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
 	<ul>

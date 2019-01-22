@@ -13,80 +13,131 @@
 	<link rel="stylesheet" href="/2019/css/base.css">
 	<link rel="stylesheet" href="/2019/css/components.css">
 </head>
+
 <body id="home">
-    <div id="wrap">
-                <?php include('inc/head.inc'); ?>
 
 	<?php include "inc/header.inc"; ?>
 
-                <h2>Willkommen zur FOSSGIS-Konferenz 2019</h2>
+	<h2>Willkommen zur FOSSGIS-Konferenz 2019</h2>
+	<p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
+	<p>Die FOSSGIS-Konferenz 2019 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.htw-dresden.de">Hochschule für Technik und Wirtschaft Dresden</a> veranstaltet.</p>
 
-                <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
+	<ul class="tiles">
+		<li class="tile gold">
+			<a href="https://www.fossgis.de/">
+				<img class="img-fluid" src="/2019/img/fossgis.png">
+			</a>
+		</li>
+		<li class="tile gold">
+			<a href="https://www.htw-dresden.de/">
+				<img class="img-fluid" src="/2019/img/htw.png">
+			</a>
+		</li>
+		<li class="tile gold">
+			<a href="https://www.openstreetmap.de/">
+				<img class="img-fluid" src="/2019/img/osm.png">
+			</a>
+		</li>
+		<li class="tile gold">
+			<a href="https://www.osgeo.org/">
+				<img class="img-fluid" src="/2019/img/osgeo.png">
+			</a>
+		</li>
+	</ul>
 
-                <p>Die FOSSGIS-Konferenz 2019 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.htw-dresden.de">Hochschule für Technik und Wirtschaft Dresden</a> veranstaltet.</p>
+	<p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
+	<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
-                <div class="organisers">
-                    <div class="sponsor organizer">
-                        <a href="https://www.fossgis.de/">
-                            <img src="img/fossgis.png" valign="middle">
-                        </a>
-                    </div>
-                    <div class="sponsor organizer">
-                        <a href="https://www.htw-dresden.de/">
-                            <img src="img/htw.png" valign="middle">
-                        </a>
-                    </div>     
-                    <div class="sponsor organizer">
-                        <a href="https://www.openstreetmap.de/">
-                            <img src="img/osm.png" valign="middle">
-                        </a>
-                    </div>                                   
-                    <div class="sponsor organizer">
-                        <a href="https://www.osgeo.org/">
-                            <img src="img/osgeo.png" width="180px" valign="middle">
-                        </a>
-                    </div>                    
-                </div>
+	<h3>Sponsoren der FOSSGIS-Konferenz</h3>
+	<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
 
-                <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
+	<h4>Goldsponsoren</h4>
+	<ul class="tiles">
+		<li class="tile gold">
+			<a href="https://www.wheregroup.com/" target="_blank">
+				<img src="/2019/img/s/001_WhereGroup.jpg">
+			</a>
+		</li>
+		<li class="tile gold">
+			<a href="https://www.here.xyz/" target="_blank">
+				<img src="/2019/img/s/002_here-xyz.png">
+			</a>
+		</li>
+	</ul>
 
-                 <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
+	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
+	<h4>Silbersponsoren</h4>
+	<ul class="tiles">
+		<li class="tile silver">
+			<a href="http://www.geosysnet.de" target="_blank">
+				<img src="/2019/img/s/101_Logo_geoSYS_FOSSGIS.png">
+			</a>
+		</li>
+		<li class="tile silver">
+			<a href="https://nti.biz/de/" target="_blank">
+				<img src="/2019/img/s/102_nti_cwsm.png">
+			</a>
+		</li>
+	</ul>
 
-               <h3>Sponsoren der FOSSGIS-Konferenz</h3>
-                 <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
-                <div class="sponsors">
+		<!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
+	<h4>Bronzesponsoren</h4>
+	<ul class="tiles">
+		<li class="tile bronze">
+			<a href="https://www.terrestris.de/" target="_blank">
+				<img src="/2019/img/s/201_2019-3VEBG-1-terrestris.png">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.gbd-consult.de" target="_blank">
+				<img src="/2019/img/s/202_GBD.png">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.datenbankgesellschaft.de" target="_blank">
+				<img src="/2019/img/s/203_DBG_LOGO.jpg">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://geops.ch" target="_blank">
+				<img src="/2019/img/s/204_GEOPS.png">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://maps.omniscale.com/de/" target="_blank">
+				<img src="/2019/img/s/205_omniscale.jpg">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="http://www.lingner.eu/" target="_blank">
+				<img src="/2019/img/s/206_mapwebbing.PNG">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.graphhopper.com/de/" target="_blank">
+				<img src="/2019/img/s/207_graphhopper.png">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="www.camptocamp.com" target="_blank">
+				<img src="/2019/img/s/208_camptocamp.png">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="http://www.lat-lon.de" target="_blank">
+				<img src="/2019/img/s/209_logo_latlon_web.png" alt="lat/lon gesellschaft für raumbezogene Informationssysteme mbH">
+			</a>
+		</li>
+	</ul>
 
-                  <h3>Goldsponsoren</h3>
-                    <div class="sponsor gold" id="wheregroup"><a href="https://www.wheregroup.com/" target="_blank"><img src="img/s/001_WhereGroup.jpg" valign="middle" width="349" height="92"></a></div>
-              
-                    <div class="sponsor gold" id="here"><a href="https://www.here.xyz/" target="_blank"><img src="img/s/002_here-xyz.png" valign="middle" width="200" height="91"></a></div>
-
-                <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
-                    <h3>Silbersponsoren</h3>
-<div class="sponsor silber" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/101_Logo_geoSYS_FOSSGIS.png" width="179" height="97"></a></div>              
-<div class="sponsor silber" id="NTI CWSN"><a href="https://nti.biz/de/ " target="_blank"><img src="img/s/102_nti_cwsm.png" valign="middle" width="150"></a></div> 
-
-                 <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
-                <h3>Bronzesponsoren</h3>
-<div class="sponsor bronze" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/201_2019-3VEBG-1-terrestris.png" valign="middle" width="136" height="68"></a></div>               
-<div class="sponsor bronze" id="gbd"><a href="https://www.gbd-consult.de" target="_blank"><img src="img/s/202_GBD.png" valign="middle" width="136" height="36"></a></div>  
-<div class="sponsor bronze" id="dbg"><a href="https://www.datenbankgesellschaft.de" target="_blank"><img src="img/s/203_DBG_LOGO.jpg" valign="middle" width="136" height=67></a></div>  
-<div class="sponsor bronze" id="geops"><a href="https://geops.ch" target="_blank"><img valign="middle"><img src="img/s/204_GEOPS.png" valign="middle" width="136" height="39"></a></div>
-<div class="sponsor bronze" id="omniscale"><a href="https://maps.omniscale.com/de/" target="_blank"><img src="img/s/205_omniscale.jpg" valign="middle" width="136" height="42"></a></div>
-<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/206_mapwebbing.PNG" width="150" height="46"></a></div>
-                <div class="sponsor bronze" id="graphhopper"><a href="https://www.graphhopper.com/de/" target="_blank"><img src="img/s/207_graphhopper.png" valign="middle" width="150" height="24"></a></div> 
-
-            <div class="sponsor bronze" id="camptocamp"><a href="www.camptocamp.com" target="_blank"><img src="img/s/208_camptocamp.png" valign="middle"width="136" height="91"></a></div>    
-
-       <div class="sponsor bronze" id="Lat/Lon"><a href="http://www.lat-lon.de" target="_blank"><img valign="middle" src="img/s/209_logo_latlon_web.png" width="130" height="94"></a></div>  
-                
-<!--<div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
-               
-                <div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
-                
-                <div class="sponsor bronze" id="GKG Kassel - Dr.-Ing. Claas Leiner"><a href="http://www.gkg-kassel.de" target="_blank"><img valign="middle" src="img/s/208_gkg_logo.png" width="130" height="99"></a></div>
-                <div class="sponsor bronze" id="Kuestenschmiede"><a href="https://con4gis.org" target="_blank"><img valign="middle" src="img/s/209_kuestenschmiede.png" width="170" height="48"></a></div>-->
-         
+	<h4>Medienpartner</h4>
+	<ul class="tiles">
+		<li class="tile media">
+			<a href="https://live.osgeo.org/de/index.html" target="_blank">
+				<img src="/2019/img/s/401_OSGeoLive_banner.png">
+			</a>
+		</li>
+	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
 	<p>Bei Fragen wenden sie sich gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>

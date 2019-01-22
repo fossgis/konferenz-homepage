@@ -20,7 +20,7 @@
 
     <h2>Das Konferenz-Team</h2>
 
-<table class='list' border='0' width='90%'>
+	<table class="list" border="0">
 
 <?php
     $File = 'loc.csv';
@@ -58,8 +58,8 @@
 
 ?>
 
-</table>      
-	  
+</table>
+
 	</div>
 	<?php include('../inc/footer.inc'); ?>
       </div>

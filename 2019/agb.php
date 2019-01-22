@@ -92,9 +92,6 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 	<?php include "inc/footer.inc"; ?>
 
+</body>
 
-            </div>
-            <?php include('inc/footer.inc'); ?>
-        </div>
-    </body>
 </html>
