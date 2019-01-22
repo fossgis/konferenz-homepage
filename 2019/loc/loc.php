@@ -30,14 +30,14 @@
     if(empty($handle) === false) {
         while(($data = fgetcsv($handle, 1000, "|")) !== FALSE){
             $arrResult[] = $data;
-        echo "<tr>"; 
+        echo "<tr>";
         echo "<td style='padding:5px;'>";
         if ($data[1]!=''){
             echo "<a href='".$data[1]."'>";
         }
         echo "<div class='image small'>";
         if ($data[2]==''){
-            $data[2] = "../img/fossgis19-logo.png";
+            $data[2] = "/2019/img/fossgis19-logo.png";
         }
         echo "<img width='140px' src='".$data[2]."' alt='".$data[0]."' /></div>";
         if ($data[1]!=''){
@@ -49,9 +49,9 @@
         }else{
             echo $data[0];
         }
-        echo "</td><td>".$data[3]."</td>";
+        echo "<br>".$data[3]."</td>";
         echo "</tr>";
-           
+
         }
         fclose($handle);
     }
