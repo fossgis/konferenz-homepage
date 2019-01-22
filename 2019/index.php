@@ -17,13 +17,7 @@
     <div id="wrap">
                 <?php include('inc/head.inc'); ?>
 
-      <div id="content">
-                <?php include('inc/nav.inc'); ?>
-
-                <figure>
-                    <img src="img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-                    <figcaption>Photo: Kolossos</figcaption>
-                </figure>
+	<?php include "inc/header.inc"; ?>
 
                 <h2>Willkommen zur FOSSGIS-Konferenz 2019</h2>
 
@@ -94,22 +88,10 @@
                 <div class="sponsor bronze" id="Kuestenschmiede"><a href="https://con4gis.org" target="_blank"><img valign="middle" src="img/s/209_kuestenschmiede.png" width="170" height="48"></a></div>-->
          
 
-                <h3>Medienpartner</h3>
-                <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/401_OSGeoLive_banner.png" width="239px"></a></div>
-                <div class="sponsor media" id="nextone"></div>
-                <div class="sponsor media" id="nextone"></div>
-<!-- <div class="sponsor media" id="TIB">
-                  <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V."><img valign="middle" src="img/s/401_TIB.PNG" width="241" height="70"></a></div>
-                  <div class="sponsor media" id="C3VOC"><a href="https://c3voc.de/" ><img valign="middle" src="img/s/402_voc_square.png" width="150" height="150"></a></div>
-                  
-                <br>
-                  <div class="sponsor media" id="wichmann"><a href="https://gispoint.de" target="_blank"><img valign="middle" src="img/s/405_Wichmann_sw-116.png" width="116" height="23"></a></div>
-                  -->
+	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
+	<p>Bei Fragen wenden sie sich gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
 
-                <p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen. Bei Fragen wenden sie sich gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.
-                </div>
-            </div>
-            <?php include('inc/footer.inc'); ?>
-        </div>
-    </body>
+	<?php include "inc/footer.inc"; ?>
+</body>
+
 </html>

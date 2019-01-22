@@ -26,13 +26,7 @@
 <div id="wrap">
     <?php include('../inc/head.inc'); ?>
 
-    <div id="content">
-
-        <?php include('../inc/nav.inc'); ?>
-        <figure>
-            <img src="../img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-            <figcaption>Photo: Kolossos</figcaption>
-        </figure>
+	<?php include "../inc/header.inc"; ?>
 
         <h2>Anreise, Ort & Unterkunft</h2>
 
@@ -243,7 +237,7 @@
         </ul>
     </div>
 
-    <?php include('../inc/footer.inc'); ?>
+	<?php include('../inc/footer.inc'); ?>
 </div>
 </body>
 </html>

@@ -19,12 +19,7 @@
 
 <body id="anmeldung">
 
-                <?php include('../inc/nav.inc'); ?>
-
-                  <figure>
-                    <img src="../img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-                    <figcaption>Photo: Kolossos</figcaption>
-                </figure>
+	<?php include "../inc/header.inc"; ?>
 
                 <h2>Anmeldung zur Konferenz</h2>
                 <p class="text-right highlight">
@@ -50,8 +45,8 @@
                 <h3>Helfer</h3>
                 <p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer-2019.fossgis.de/">Helfersystem</a> Helfersystem anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2019/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
 
-            </div>
-            <?php include('../inc/footer.inc'); ?>
-        </div>
-    </body>
+	<?php include('../inc/footer.inc'); ?>
+
+</body>
+
 </html>

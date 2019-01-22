@@ -40,27 +40,22 @@
                 </div>
 
 
-		
-			<?php /*
-				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
-				<div style="margin: 5px 85px 7px 160px">
-                    <ul>
-                        <li>
-                            <a href="http://streaming.media.ccc.de/fossgis19/">Livestream der FOSSGIS-Konferenz</a>.
-                        </li>
-                    </ul>
-                </div>
-*/ ?>
-			<!--	<p>Die Vorträge der FOSSGIS-Konferenz wurden aufgezeichnet, eine Übersicht finden Sie hier:</p>
-				<div style="margin: 5px 85px 7px 160px">
-                    <ul>
-                        <li>
-                            <a href="/2019/videos/">Liste der Videoaufzeichnungen</a>.
-                        </li>
-                    </ul>
-                </div>-->
-            </div>
-            <?php include('../inc/footer.inc'); ?>
-        </div>
-    </body>
+	<!-- <p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
+	<ul>
+		<li>
+			<a href="http://streaming.media.ccc.de/fossgis19/">Livestream der FOSSGIS-Konferenz</a>
+		</li>
+	</ul>
+
+	<p>Die Vorträge der FOSSGIS-Konferenz wurden aufgezeichnet, eine Übersicht finden Sie hier:</p>
+	<ul>
+		<li>
+			<a href="/2019/videos/">Liste der Videoaufzeichnungen</a>
+		</li>
+	</ul> -->
+
+	<?php include "../inc/footer.inc"; ?>
+
+</body>
+
 </html>

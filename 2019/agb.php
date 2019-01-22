@@ -16,13 +16,7 @@
 
 <body id="home">
 
-            <div id="content">
-                <?php include('inc/nav.inc'); ?>
-
-                <figure>
-                    <img src="img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-                    <figcaption>Photo: Kolossos</figcaption>
-                </figure>
+	<?php include "inc/header.inc"; ?>
 
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
 				
@@ -96,8 +90,7 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <p>Stand der AGB: 24. November 2018</p>
 
-</p>
-
+	<?php include "inc/footer.inc"; ?>
 
 
             </div>
