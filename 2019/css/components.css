@@ -6,25 +6,30 @@
 .page-header {
 	display: flex;
 	align-items: center;
+	margin: 10px 0 25px 0;
 }
-.page-header h1 {
-	font-size: calc(24px + (56 - 24) * ((100vw - 300px) / (1600 - 300)));
-	line-height: .8;
-	color: #838b8e;
+.page-header .page-logo {
+	max-height: 175px;
+}
+.page-header .page-title {
+	font-size: calc(28px + (54 - 28) * ((100vw - 300px) / (1600 - 300)));
+	line-height: .85;
+	color: #eb7f00;
 	margin: 0;
 }
-.page-header .amp {
+.page-header .page-title .amp {
 	color: #333;
 }
 
 nav .main {
-	padding: 0;
 	display: flex;
-	justify-content: center;
 	flex-wrap: wrap;
+	justify-content: center;
 	list-style-type: none;
-	border-bottom: 1px solid #eb7f00;
+	margin-bottom: 0;
+	padding:  10px 0;
 	text-transform: uppercase;
+	border-bottom: 3px solid #eb7f00;
 }
 nav .main > li {
 	font-weight: bold;
@@ -54,7 +59,7 @@ body#programm nav .main > li#navProgramm > a:visited {
 footer {
 	font-size: 12px;
 	border-bottom: 15px solid #eb7f00;
-	color: #AAA;
+	color: #838b8e;
 	margin-top: 50px;
 }
 footer .main {
@@ -86,7 +91,7 @@ footer .main > li {
 .tiles {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: flex-start;
+	justify-content: center;
 	margin: 0 -10px;
 	padding: 0;
 	list-style: none;
@@ -98,8 +103,6 @@ footer .main > li {
 .tile.silver,
 .tile.bronze,
 .tile.media {
-	border-radius: 10px;
-	border: 1px solid #e6eeef;
 	align-items: center;
 	display: flex;
 	flex-direction: column;
@@ -140,7 +143,11 @@ footer .main > li {
 	max-height: 75px;
 }
 
-.highlight {
+h3.highlight,
+h4.highlight {
+	border-bottom: 1px solid #eb7f00;
+}
+p.highlight {
 	border: 1px solid #eb7f00;
 	font-weight: bold;
 	padding: 1em;
@@ -176,4 +183,11 @@ footer .main > li {
 .map-container .leaflet-bar a.leaflet-control-panto-btn {
 	width: auto;
 	padding: 0 3px;
+}
+
+.pretix-widget {
+	border: 1px solid #eb7f00;
+}
+.pretix-widget .pretix-widget-category-name {
+	margin: 1em 0;
 }

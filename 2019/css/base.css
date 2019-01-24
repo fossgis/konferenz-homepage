@@ -1,19 +1,15 @@
 html {
 	margin: 0 auto;
 	padding: 0 15px;
-    max-width: 1024px;
+	max-width: 960px;
 }
 
 body {
-	font-size: calc(14px + (20 - 14) * ((100vw - 300px) / (1600 - 300)));
+	font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1600 - 300)));
 	color: #333;
-	line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+	line-height: calc(1.4em + (1.5 - 1.4) * ((100vw - 300px)/(1600 - 300)));
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
-/* ul {
-	list-style: none;
-} */
 
 a:link,
 a:hover,
@@ -24,4 +20,198 @@ a:visited {
 
 figure {
 	margin: 0;
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+.page-header {
+	display: flex;
+	align-items: center;
+	margin: 10px 0 25px 0;
+}
+.page-header .page-logo {
+	max-height: 175px;
+}
+.page-header .page-title {
+	font-size: calc(28px + (54 - 28) * ((100vw - 300px) / (1600 - 300)));
+	line-height: .85;
+	color: #eb7f00;
+	margin: 0;
+}
+.page-header .page-title .amp {
+	color: #333;
+}
+
+nav .main {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style-type: none;
+	margin-bottom: 0;
+	padding:  10px 0;
+	text-transform: uppercase;
+	border-bottom: 3px solid #eb7f00;
+}
+nav .main > li {
+	font-weight: bold;
+	margin: 0 10px;
+}
+nav .main a {
+	text-decoration: none;
+	font-weight: bold;
+}
+body#home nav .main > li#navHome > a:link,
+body#home nav .main > li#navHome > a:visited,
+body#call nav .main > li#navCall > a:link,
+body#call nav .main > li#navCall > a:visited,
+body#anreise nav .main > li#navAnreise > a:link,
+body#anreise nav .main > li#navAnreise > a:visited,
+body#anmeldung nav .main > li#navAnmeldung > a:link,
+body#anmeldung nav .main > li#navAnmeldung > a:visited,
+body#socialEvents nav .main > li#navEvents > a:link,
+body#socialEvents nav .main > li#navEvents > a:visited,
+body#team nav .main > li#navTeam > a:link,
+body#team nav .main > li#navTeam > a:visited,
+body#programm nav .main > li#navProgramm > a:link,
+body#programm nav .main > li#navProgramm > a:visited {
+	color: #eb7f00;
+}
+
+footer {
+	font-size: 12px;
+	border-bottom: 15px solid #eb7f00;
+	color: #838b8e;
+	margin-top: 50px;
+}
+footer .main {
+	list-style: none;
+	padding: 0;
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+}
+footer .main > li {
+	margin: 0 10px;
+}
+
+.hero {
+	display: flex;
+	justify-content: center;
+}
+.hero figure {
+	position: relative;
+}
+.hero figcaption {
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+	font-size: 12px;
+	color: #eee;
+}
+
+.tiles {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 0 -10px;
+	padding: 0;
+	list-style: none;
+}
+.tile {
+	margin: 10px;
+}
+.tile.gold,
+.tile.silver,
+.tile.bronze,
+.tile.media {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 10px;
+	text-align: center;
+}
+.tile.gold {
+	flex: 0 0 360px;
+	height: 110px;
+}
+.tile.gold img {
+	max-width: 350px;
+	max-height: 100px;
+}
+.tile.silver {
+	flex: 0 0 230px;
+	height: 85px;
+}
+.tile.silver img {
+	max-width: 220px;
+	max-height: 75px;
+}
+.tile.bronze {
+	flex: 0 0 160px;
+	height: 85px;
+}
+.tile.bronze img {
+	max-width: 150px;
+	max-height: 75px;
+}
+.tile.media {
+	flex: 0 0 160px;
+	height: 85px;
+}
+.tile.media img {
+	max-width: 150px;
+	max-height: 75px;
+}
+
+h3.highlight,
+h4.highlight {
+	border-bottom: 1px solid #eb7f00;
+}
+p.highlight {
+	border: 1px solid #eb7f00;
+	font-weight: bold;
+	padding: 1em;
+}
+
+.map-container {
+	height: 40vh;
+}
+.map-container .map {
+	height: 100%;
+}
+.map-container .hidden {
+	display: none;
+}
+.map-container .svg-feature {
+	transition: all 0.25s ease-out;
+}
+.map-container .svg-feature:hover {
+	fill: rgb(255,200,50);
+}
+.map-container .label {
+	color: #333;
+	pointer-events: none;
+	font-size: 1.0em;
+	text-shadow: -1px -1px 0 #cecece, 1px -1px 0 #cecece, -1px 1px 0 #cecece, 1px 1px 0 #cecece;
+}
+.map-container .label.label-priority-0 {
+	font-size: 1.6em;
+}
+.map-container .label.label-priority-1 {
+	font-size: 1.4em;
+}
+.map-container .leaflet-bar a.leaflet-control-panto-btn {
+	width: auto;
+	padding: 0 3px;
+}
+
+.pretix-widget {
+	border: 1px solid #eb7f00;
+}
+.pretix-widget .pretix-widget-category-name {
+	margin: 1em 0;
 }

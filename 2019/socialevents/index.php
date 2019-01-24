@@ -4,14 +4,17 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
 	<title>FOSSGIS 2019 - Social Events</title>
 	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="/2019/css/normalize.css">
-	<link rel="stylesheet" href="/2019/css/base.css">
-	<link rel="stylesheet" href="/2019/css/components.css">
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/components.css">
+	<link rel="stylesheet" href="./css/print.css" media="print">
 </head>
 
 <body id="socialEvents">
@@ -62,7 +65,7 @@
 
 	<h3>Samstag, 16. März 2019</h3>
 	<h4>OSM-Samstag </h4>
-	<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2019/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein. Wir bitten um Anmeldung über das <a href="https://www.fossgis-konferenz.de/2019/anmeldung/">FOSSGIS-Konferenz-Teilnehmeranmeldesystem</a></p>
+	<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2019/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein. Wir bitten um Anmeldung über das <a href="https://www.fossgis-konferenz.de./">FOSSGIS-Konferenz-Teilnehmeranmeldesystem</a></p>
 
 	<?php include "../inc/footer.inc"; ?>
 

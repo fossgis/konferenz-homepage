@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/components.css">
+	<link rel="stylesheet" href="./css/print.css" media="print">
 </head>
 
 <body id="home">
@@ -19,7 +20,7 @@
 	<?php include "inc/header.inc"; ?>
 
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
-				
+
 <p>Der FOSSGIS e.V. richtet als Veranstalter die FOSSGIS-Konferenz aus.
 Für die Konferenz werden die Tickets, Workshops, Sponsorenpakete und Ausstellerpakete über die Internetseite <a href="
 https://pretix.eu/fossgis/2019" target="_blank"> </a> verkauft. Für das Vertragsverhältnis gelten die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>

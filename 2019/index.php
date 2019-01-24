@@ -13,7 +13,7 @@
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
-	<link rel="stylesheet" href="./css/components.css">
+	<link rel="stylesheet" href="./css/print.css" media="print">
 </head>
 
 <body id="home">
@@ -25,22 +25,22 @@
 	<p>Die FOSSGIS-Konferenz 2019 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.htw-dresden.de">Hochschule für Technik und Wirtschaft Dresden</a> veranstaltet.</p>
 
 	<ul class="tiles">
-		<li class="tile gold">
+		<li class="tile bronze">
 			<a href="https://www.fossgis.de/">
 				<img src="./img/fossgis.png">
 			</a>
 		</li>
-		<li class="tile gold">
+		<li class="tile bronze">
 			<a href="https://www.htw-dresden.de/">
 				<img src="./img/htw.png">
 			</a>
 		</li>
-		<li class="tile gold">
+		<li class="tile bronze">
 			<a href="https://www.openstreetmap.de/">
 				<img src="./img/osm.png">
 			</a>
 		</li>
-		<li class="tile gold">
+		<li class="tile bronze">
 			<a href="https://www.osgeo.org/">
 				<img src="./img/osgeo.png">
 			</a>
@@ -53,7 +53,7 @@
 	<h3>Sponsoren der FOSSGIS-Konferenz</h3>
 	<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
 
-	<h4>Goldsponsoren</h4>
+	<h4 class="highlight">Goldsponsoren</h4>
 	<ul class="tiles">
 		<li class="tile gold">
 			<a href="https://www.wheregroup.com/" target="_blank">
@@ -68,7 +68,7 @@
 	</ul>
 
 	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
-	<h4>Silbersponsoren</h4>
+	<h4 class="highlight">Silbersponsoren</h4>
 	<ul class="tiles">
 		<li class="tile silver">
 			<a href="http://www.geosysnet.de" target="_blank">
@@ -83,7 +83,7 @@
 	</ul>
 
 		<!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
-	<h4>Bronzesponsoren</h4>
+	<h4 class="highlight">Bronzesponsoren</h4>
 	<ul class="tiles">
 		<li class="tile bronze">
 			<a href="https://www.terrestris.de/" target="_blank">
@@ -132,7 +132,7 @@
 		</li>
 	</ul>
 
-	<h4>Medienpartner</h4>
+	<h4 class="highlight">Medienpartner</h4>
 	<ul class="tiles">
 		<li class="tile media">
 			<a href="https://live.osgeo.org/de/index.html" target="_blank">
@@ -141,7 +141,7 @@
 		</li>
 	</ul>
 
-	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
+	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis./"> Buchungsformular</a> buchen.</p>
 	<p>Bei Fragen wenden sie sich gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
 
 	<?php include "inc/footer.inc"; ?>

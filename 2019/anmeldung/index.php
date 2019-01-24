@@ -16,6 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2019/widget/v1.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/components.css">
+	<link rel="stylesheet" href="./css/print.css" media="print">
 	<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 </head>
 
