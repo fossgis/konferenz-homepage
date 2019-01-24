@@ -4,14 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
 	<title>FOSSGIS 2019 - Team</title>
 	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="/2019/css/normalize.css">
-	<link rel="stylesheet" href="/2019/css/base.css">
-	<link rel="stylesheet" href="/2019/css/components.css">
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/components.css">
 </head>
 
 <body id="team">
@@ -37,7 +39,7 @@
         }
         echo "<div class='image small'>";
         if ($data[2]==''){
-            $data[2] = "/2019/img/fossgis19-logo.png";
+            $data[2] = "./img/fossgis19-logo.png";
         }
         echo "<img width='140px' src='".$data[2]."' alt='".$data[0]."' /></div>";
         if ($data[1]!=''){

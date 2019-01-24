@@ -9,9 +9,9 @@
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="/2019/css/normalize.css">
-	<link rel="stylesheet" href="/2019/css/base.css">
-	<link rel="stylesheet" href="/2019/css/components.css">
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/components.css">
 </head>
 
 <body id="home">

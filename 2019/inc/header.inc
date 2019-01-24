@@ -1,6 +1,6 @@
 <header class="page-header">
-	<img class="logo img-fluid" src="/2019/img/fossgis19-logo.png">
-	<h1>
+	<img class="img-fluid page-logo" src="./img/fossgis19-logo.png">
+	<h1 class="page-title">
 		FOSSGIS-Konferenz 2019<br>
 		<span class="amp">Dresden</span><br>
 		<span class="amp">13.&ndash;16. März 2019</span>
@@ -10,30 +10,29 @@
 <nav>
 	<ul class="main">
 		<li id="navHome">
-			<a href="/2019/">Startseite</a>
+			<a href="./">Startseite</a>
 		</li>
 		<li id="navAnmeldung">
-			<a href="/2019/anmeldung/">Anmeldung</a>
+			<a href="./anmeldung/">Anmeldung</a>
 		</li>
 		<li id="navProgramm">
-		<!--  <a href="https://pretalx.com/fossgis2019/schedule/" target="_blank">Programm</a>-->
-		<a href="/2019/programm/">Programm</a>
+		<a href="./programm/">Programm</a>
 		</li>
 		<li id="navAnreise">
-			<a href="/2019/anreise/">Standort</a>
+			<a href="./anreise/">Standort</a>
 		</li>
 		<li id="navEvents">
-			<a href="/2019/socialevents/">Social Events</a>
+			<a href="./socialevents/">Social Events</a>
 		</li>
 		<li id="navTeam">
-			<a href="/2019/loc/loc.php">Team</a>
+			<a href="./loc/loc.php">Team</a>
 		</li>
 	</ul>
 </nav>
 
 <div class="hero">
 	<figure>
-		<img class="img-fluid" src="/2019/img/dresden.jpg" alt="Dresden Panorama">
+		<img class="img-fluid" src="./img/dresden.jpg" alt="Dresden Panorama">
 		<figcaption>Photo: Kolossos</figcaption>
 	</figure>
 </div>

@@ -16,7 +16,7 @@
 	var tooltipTemplate =
 		'<b>{shortName}</b> ({name})<br>' +
 		'{purpose}<br>' +
-		'<img src="/2019/anreise/img/{src}" alt="{title}" class="tooltip-img" width="240" height="157">';
+		'<img src="./anreise/img/{src}" alt="{title}" class="tooltip-img" width="240" height="157">';
 	var featureOptions = {
 		color: '#333333',
 		weight: 1,

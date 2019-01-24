@@ -4,22 +4,24 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
 	<title>FOSSGIS 2019 - Standort</title>
 	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
 	<meta name="author" content="Oliver Roick. http://oliverroick.de/">
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="/2019/css/normalize.css">
-	<link rel="stylesheet" href="/2019/css/base.css">
-	<link rel="stylesheet" href="/2019/css/components.css">
-	<link rel="stylesheet" href="/static/leaflet/1.3.4/leaflet.css"/>
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/components.css">
+	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>
 
-	<script src="/static/leaflet/1.3.4/leaflet.js"></script>
-	<script src="/2019/anreise/script/leaflet.addons.js"></script>
-	<script src="/2019/anreise/data/buildings.js"></script>
-	<script src="/2019/anreise/data/hotels.js"></script>
-	<script src="/2019/anreise/script/map.js"></script>
+	<script src="../static/leaflet/1.3.4/leaflet.js"></script>
+	<script src="./anreise/script/leaflet.addons.js"></script>
+	<script src="./anreise/data/buildings.js"></script>
+	<script src="./anreise/data/hotels.js"></script>
+	<script src="./anreise/script/map.js"></script>
 </head>
 
 <body id="anreise">
@@ -37,7 +39,11 @@
 		und damit im Herzen der Landeshauptstadt Sachsens statt (<a href="https://www.openstreetmap.org/relation/7918360#map=14/51.0401/13.7418" target="_blank">Standort auf openstreetmap.org</a>).
 	</p>
 
-	<img src="/2019/data/images/Campus_Plan_HTWDD.jpg" height="390">
+	<ul class="tiles">
+		<li class="tile">
+			<img src="./data/images/Campus_Plan_HTWDD.jpg" height="390">
+		</li>
+	</ul>
 
 	<p>Im Foyer des Hauptgebäudes (Z-Gebäude) der Hochschule finden Sie den <i>Welcome Desk</i>, die
 		<i>Aussteller</i> sowie die Pausenversorgung.
@@ -51,10 +57,10 @@
 
 	<ul class="tiles">
 		<li class="tile">
-			<img src="/2019/data/images/Zentralgebauede_HTWDD.jpg" height="200" title="HTW Dresden - Perspektive vom Hauptbahnhof">
+			<img src="./data/images/Zentralgebauede_HTWDD.jpg" height="200" title="HTW Dresden - Perspektive vom Hauptbahnhof">
 		</li>
 		<li class="tile">
-			<img src="/2019/data/images/Z+Seminargebaeude_HTWDD.jpg" height="200" title="Verbindung Zentralgebäude (Z) und Seminargebäude (S) HTW Dresden">
+			<img src="./data/images/Z+Seminargebaeude_HTWDD.jpg" height="200" title="Verbindung Zentralgebäude (Z) und Seminargebäude (S) HTW Dresden">
 		</li>
 	</ul>
 

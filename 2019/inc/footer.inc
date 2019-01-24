@@ -7,7 +7,7 @@
 			<a href="http://www.fossgis.de/impressum.html">Impressum</a>
 		</li>
 		<li>
-			<a href="/2019/agb.php">AGB</a>
+			<a href="./agb.php">AGB</a>
 		</li>
 		<li>
 			<a href="https://www.fossgis.de/datenschutzerklaerung">Datenschutzerklärung</a>

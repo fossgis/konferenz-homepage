@@ -4,14 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<base href="<?php echo $_SERVER['SCRIPT_NAME']; ?>">
 	<title>FOSSGIS 2019</title>
 	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="/2019/css/normalize.css">
-	<link rel="stylesheet" href="/2019/css/base.css">
-	<link rel="stylesheet" href="/2019/css/components.css">
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/components.css">
 </head>
 
 <body id="home">
@@ -25,22 +27,22 @@
 	<ul class="tiles">
 		<li class="tile gold">
 			<a href="https://www.fossgis.de/">
-				<img class="img-fluid" src="/2019/img/fossgis.png">
+				<img src="./img/fossgis.png">
 			</a>
 		</li>
 		<li class="tile gold">
 			<a href="https://www.htw-dresden.de/">
-				<img class="img-fluid" src="/2019/img/htw.png">
+				<img src="./img/htw.png">
 			</a>
 		</li>
 		<li class="tile gold">
 			<a href="https://www.openstreetmap.de/">
-				<img class="img-fluid" src="/2019/img/osm.png">
+				<img src="./img/osm.png">
 			</a>
 		</li>
 		<li class="tile gold">
 			<a href="https://www.osgeo.org/">
-				<img class="img-fluid" src="/2019/img/osgeo.png">
+				<img src="./img/osgeo.png">
 			</a>
 		</li>
 	</ul>
@@ -55,12 +57,12 @@
 	<ul class="tiles">
 		<li class="tile gold">
 			<a href="https://www.wheregroup.com/" target="_blank">
-				<img src="/2019/img/s/001_WhereGroup.jpg">
+				<img src="./img/s/001_WhereGroup.jpg">
 			</a>
 		</li>
 		<li class="tile gold">
 			<a href="https://www.here.xyz/" target="_blank">
-				<img src="/2019/img/s/002_here-xyz.png">
+				<img src="./img/s/002_here-xyz.png">
 			</a>
 		</li>
 	</ul>
@@ -70,12 +72,12 @@
 	<ul class="tiles">
 		<li class="tile silver">
 			<a href="http://www.geosysnet.de" target="_blank">
-				<img src="/2019/img/s/101_Logo_geoSYS_FOSSGIS.png">
+				<img src="./img/s/101_Logo_geoSYS_FOSSGIS.png">
 			</a>
 		</li>
 		<li class="tile silver">
 			<a href="https://nti.biz/de/" target="_blank">
-				<img src="/2019/img/s/102_nti_cwsm.png">
+				<img src="./img/s/102_nti_cwsm.png">
 			</a>
 		</li>
 	</ul>
@@ -85,42 +87,42 @@
 	<ul class="tiles">
 		<li class="tile bronze">
 			<a href="https://www.terrestris.de/" target="_blank">
-				<img src="/2019/img/s/201_2019-3VEBG-1-terrestris.png">
+				<img src="./img/s/201_2019-3VEBG-1-terrestris.png">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.gbd-consult.de" target="_blank">
-				<img src="/2019/img/s/202_GBD.png">
+				<img src="./img/s/202_GBD.png">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.datenbankgesellschaft.de" target="_blank">
-				<img src="/2019/img/s/203_DBG_LOGO.jpg">
+				<img src="./img/s/203_DBG_LOGO.jpg">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://geops.ch" target="_blank">
-				<img src="/2019/img/s/204_GEOPS.png">
+				<img src="./img/s/204_GEOPS.png">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://maps.omniscale.com/de/" target="_blank">
-				<img src="/2019/img/s/205_omniscale.jpg">
+				<img src="./img/s/205_omniscale.jpg">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="http://www.lingner.eu/" target="_blank">
-				<img src="/2019/img/s/206_mapwebbing.PNG">
+				<img src="./img/s/206_mapwebbing.PNG">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.graphhopper.com/de/" target="_blank">
-				<img src="/2019/img/s/207_graphhopper.png">
+				<img src="./img/s/207_graphhopper.png">
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="www.camptocamp.com" target="_blank">
-				<img src="/2019/img/s/208_camptocamp.png">
+			<a href="https://www.camptocamp.com" target="_blank">
+				<img src="./img/s/208_camptocamp.png">
 			</a>
 		</li>
 		<li class="tile bronze">
@@ -134,7 +136,7 @@
 	<ul class="tiles">
 		<li class="tile media">
 			<a href="https://live.osgeo.org/de/index.html" target="_blank">
-				<img src="/2019/img/s/401_OSGeoLive_banner.png">
+				<img src="./img/s/401_OSGeoLive_banner.png">
 			</a>
 		</li>
 	</ul>
