@@ -27,22 +27,22 @@
 	<ul class="tiles">
 		<li class="tile bronze">
 			<a href="https://www.fossgis.de/">
-				<img src="./img/fossgis.png">
+				<img src="./img/fossgis.png" alt="FOSSGIS e.V.">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.htw-dresden.de/">
-				<img src="./img/htw.png">
+				<img src="./img/htw.png" alt="Hochschule für Technik und Wirtschaft Dresden">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.openstreetmap.de/">
-				<img src="./img/osm.png">
+				<img src="./img/osm.png" alt="OSM Community">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.osgeo.org/">
-				<img src="./img/osgeo.png">
+				<img src="./img/osgeo.png" alt="OSGeo">
 			</a>
 		</li>
 	</ul>
@@ -57,12 +57,12 @@
 	<ul class="tiles">
 		<li class="tile gold">
 			<a href="https://www.wheregroup.com/" target="_blank">
-				<img src="./img/s/001_WhereGroup.jpg">
+				<img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			</a>
 		</li>
 		<li class="tile gold">
 			<a href="https://www.here.xyz/" target="_blank">
-				<img src="./img/s/002_here-xyz.png">
+				<img src="./img/s/002_here-xyz.png" alt="HERE XYZ">
 			</a>
 		</li>
 	</ul>
@@ -72,12 +72,12 @@
 	<ul class="tiles">
 		<li class="tile silver">
 			<a href="http://www.geosysnet.de" target="_blank">
-				<img src="./img/s/101_Logo_geoSYS_FOSSGIS.png">
+				<img src="./img/s/101_Logo_geoSYS_FOSSGIS.png" alt="geoSYSnet">
 			</a>
 		</li>
 		<li class="tile silver">
 			<a href="https://nti.biz/de/" target="_blank">
-				<img src="./img/s/102_nti_cwsm.png">
+				<img src="./img/s/102_nti_cwsm.png" alt="nti CWSM">
 			</a>
 		</li>
 	</ul>
@@ -87,42 +87,42 @@
 	<ul class="tiles">
 		<li class="tile bronze">
 			<a href="https://www.terrestris.de/" target="_blank">
-				<img src="./img/s/201_2019-3VEBG-1-terrestris.png">
+				<img src="./img/s/201_2019-3VEBG-1-terrestris.png" alt="terrestris">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.gbd-consult.de" target="_blank">
-				<img src="./img/s/202_GBD.png">
+				<img src="./img/s/202_GBD.png" alt="Geoinformatikbüro Dassau GmbH">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.datenbankgesellschaft.de" target="_blank">
-				<img src="./img/s/203_DBG_LOGO.jpg">
+				<img src="./img/s/203_DBG_LOGO.jpg" alt="Datenbankgesellschaft mbH">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://geops.ch" target="_blank">
-				<img src="./img/s/204_GEOPS.png">
+				<img src="./img/s/204_GEOPS.png" alt="geOps">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://maps.omniscale.com/de/" target="_blank">
-				<img src="./img/s/205_omniscale.jpg">
+				<img src="./img/s/205_omniscale.jpg" alt="Omniscale">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="http://www.lingner.eu/" target="_blank">
-				<img src="./img/s/206_mapwebbing.PNG">
+				<img src="./img/s/206_mapwebbing.PNG" alt="mapwebbing">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.graphhopper.com/de/" target="_blank">
-				<img src="./img/s/207_graphhopper.png">
+				<img src="./img/s/207_graphhopper.png" alt="graphhopper">
 			</a>
 		</li>
 		<li class="tile bronze">
 			<a href="https://www.camptocamp.com" target="_blank">
-				<img src="./img/s/208_camptocamp.png">
+				<img src="./img/s/208_camptocamp.png" alt="CampToCamp">
 			</a>
 		</li>
 		<li class="tile bronze">
@@ -136,7 +136,7 @@
 	<ul class="tiles">
 		<li class="tile media">
 			<a href="https://live.osgeo.org/de/index.html" target="_blank">
-				<img src="./img/s/401_OSGeoLive_banner.png">
+				<img src="./img/s/401_OSGeoLive_banner.png" alt="OSGeoLive">
 			</a>
 		</li>
 	</ul>

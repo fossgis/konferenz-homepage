@@ -58,10 +58,10 @@
 
 	<ul class="tiles">
 		<li class="tile">
-			<img src="./data/images/Zentralgebauede_HTWDD.jpg" height="200" title="HTW Dresden - Perspektive vom Hauptbahnhof">
+			<img src="./data/images/Zentralgebauede_HTWDD.jpg" height="200" alt="HTW Dresden - Perspektive vom Hauptbahnhof">
 		</li>
 		<li class="tile">
-			<img src="./data/images/Z+Seminargebaeude_HTWDD.jpg" height="200" title="Verbindung Zentralgebäude (Z) und Seminargebäude (S) HTW Dresden">
+			<img src="./data/images/Z+Seminargebaeude_HTWDD.jpg" height="200" alt="Verbindung Zentralgebäude (Z) und Seminargebäude (S) HTW Dresden">
 		</li>
 	</ul>
 
@@ -239,9 +239,7 @@
 			<li>FunkTAXI Dresden: 0351 / 211 211</li>
 			<li><a href="https://www.gelbeseiten.de/taxi/dresden" rel="nofollow" target="_blank"> weitere Taxibetriebe</a></li>
 		</ul>
-	</div>
 
 	<?php include('../inc/footer.inc'); ?>
-</div>
 </body>
 </html>
