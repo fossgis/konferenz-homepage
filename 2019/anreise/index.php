@@ -8,7 +8,6 @@
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
 	<title>FOSSGIS 2019 - Standort</title>
 	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
-	<meta name="author" content="Oliver Roick. http://oliverroick.de/">
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
