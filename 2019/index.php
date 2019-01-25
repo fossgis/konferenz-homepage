@@ -78,15 +78,17 @@
 <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/206_mapwebbing.PNG" width="150" height="46"></a></div>
                 <div class="sponsor bronze" id="graphhopper"><a href="https://www.graphhopper.com/de/" target="_blank"><img src="img/s/207_graphhopper.png" valign="middle" width="150" height="24"></a></div> 
 
-            <div class="sponsor bronze" id="camptocamp"><a href="www.camptocamp.com" target="_blank"><img src="img/s/208_camptocamp.png" valign="middle"width="136" height="91"></a></div>       
+            <div class="sponsor bronze" id="camptocamp"><a href="www.camptocamp.com" target="_blank"><img src="img/s/208_camptocamp.png" valign="middle"width="136" height="91"></a></div>    
+
+       <div class="sponsor bronze" id="Lat/Lon"><a href="http://www.lat-lon.de" target="_blank"><img valign="middle" src="img/s/209_logo_latlon_web.png" width="130" height="94"></a></div>  
                 
 <!--<div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
                
                 <div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
                 
                 <div class="sponsor bronze" id="GKG Kassel - Dr.-Ing. Claas Leiner"><a href="http://www.gkg-kassel.de" target="_blank"><img valign="middle" src="img/s/208_gkg_logo.png" width="130" height="99"></a></div>
-                <div class="sponsor bronze" id="Kuestenschmiede"><a href="https://con4gis.org" target="_blank"><img valign="middle" src="img/s/209_kuestenschmiede.png" width="170" height="48"></a></div>
-                <div class="sponsor bronze" id="Lat/Lon"><a href="http://www.lat-lon.de" target="_blank"><img valign="middle" src="img/s/210_logo_latlon_web.png" width="130" height="94"></a></div>-->
+                <div class="sponsor bronze" id="Kuestenschmiede"><a href="https://con4gis.org" target="_blank"><img valign="middle" src="img/s/209_kuestenschmiede.png" width="170" height="48"></a></div>-->
+         
 
                 <h3>Medienpartner</h3>
                 <div class="sponsor media" id="OSGeoLive"><a href="https://live.osgeo.org/de/index.html" target="_blank"><img valign="middle" src="img/s/401_OSGeoLive_banner.png" width="239px"></a></div>
