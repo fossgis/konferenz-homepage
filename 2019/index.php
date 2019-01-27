@@ -127,7 +127,7 @@
 		</li>
 		<li class="tile bronze">
 			<a href="http://www.lat-lon.de" target="_blank">
-				<img src="/2019/img/s/209_logo_latlon_web.png" alt="lat/lon gesellschaft für raumbezogene Informationssysteme mbH">
+				<img src="./img/s/209_logo_latlon_web.png" alt="lat/lon gesellschaft für raumbezogene Informationssysteme mbH">
 			</a>
 		</li>
 	</ul>
