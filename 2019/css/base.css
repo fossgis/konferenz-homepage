@@ -1,12 +1,14 @@
 html {
 	margin: 0 auto;
-	padding: 0 15px;
 	max-width: 960px;
+	border-top: 15px solid #eb7f00;
+	border-bottom: 15px solid #eb7f00;
 }
 
 body {
 	font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1600 - 300)));
 	color: #333;
+	padding: 0 10px;
 	line-height: calc(1.4em + (1.5 - 1.4) * ((100vw - 300px)/(1600 - 300)));
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
