@@ -191,7 +191,7 @@ p.highlight {
 	transition: all 0.25s ease-out;
 }
 .map-container .svg-feature:hover {
-	fill: rgb(255,200,50);
+	fill: #eb7f00;
 }
 .map-container .label {
 	color: #333;
