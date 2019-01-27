@@ -17,6 +17,9 @@ a:visited {
 	text-decoration: underline;
 	color: #333;
 }
+a:hover {
+	color: #eb7f00;
+}
 
 figure {
 	margin: 0;
@@ -82,7 +85,6 @@ body#programm nav .main > li#navProgramm > a:visited {
 
 footer {
 	font-size: 12px;
-	border-bottom: 15px solid #eb7f00;
 	color: #838b8e;
 	margin-top: 50px;
 }
