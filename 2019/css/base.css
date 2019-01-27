@@ -35,7 +35,7 @@ figure {
 .page-header {
 	display: flex;
 	align-items: center;
-	margin: 10px 0 25px 0;
+	margin: 10px 0 10px 0;
 }
 .page-header .page-logo {
 	max-height: 150px;
