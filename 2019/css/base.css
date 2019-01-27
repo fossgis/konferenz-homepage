@@ -33,7 +33,11 @@ figure {
 }
 
 .page-header {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
 	align-items: center;
 	margin: 10px 0 10px 0;
 }
@@ -51,8 +55,13 @@ figure {
 }
 
 nav .main {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
 	justify-content: center;
 	list-style-type: none;
 	margin: 0;
@@ -92,8 +101,13 @@ footer {
 footer .main {
 	list-style: none;
 	padding: 0;
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-pack: end;
+	-ms-flex-pack: end;
 	justify-content: flex-end;
+	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 }
 footer .main > li {
@@ -101,7 +115,11 @@ footer .main > li {
 }
 
 .hero {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
 	justify-content: center;
 }
 .hero figure {
@@ -116,8 +134,13 @@ footer .main > li {
 }
 
 .tiles {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
 	justify-content: center;
 	margin: 0 -10px;
 	padding: 0;
@@ -130,14 +153,25 @@ footer .main > li {
 .tile.silver,
 .tile.bronze,
 .tile.media {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
 	align-items: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
 	flex-direction: column;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
 	justify-content: center;
 	padding: 10px;
 	text-align: center;
 }
 .tile.gold {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 360px;
 	flex: 0 0 360px;
 	height: 185px;
 }
@@ -146,6 +180,8 @@ footer .main > li {
 	max-height: 175px;
 }
 .tile.silver {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 230px;
 	flex: 0 0 230px;
 	height: 120px;
 }
@@ -154,6 +190,8 @@ footer .main > li {
 	max-height: 110px;
 }
 .tile.bronze {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 160px;
 	flex: 0 0 160px;
 	height: 85px;
 }
@@ -162,6 +200,8 @@ footer .main > li {
 	max-height: 75px;
 }
 .tile.media {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 160px;
 	flex: 0 0 160px;
 	height: 85px;
 }
@@ -190,6 +230,8 @@ p.highlight {
 	display: none;
 }
 .map-container .svg-feature {
+	-webkit-transition: all 0.25s ease-out;
+	-o-transition: all 0.25s ease-out;
 	transition: all 0.25s ease-out;
 }
 .map-container .svg-feature:hover {
