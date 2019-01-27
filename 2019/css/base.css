@@ -53,14 +53,13 @@ nav .main {
 	flex-wrap: wrap;
 	justify-content: center;
 	list-style-type: none;
-	margin-bottom: 0;
-	padding:  10px 0;
+	margin: 0;
+	padding: 0;
 	text-transform: uppercase;
-	border-bottom: 3px solid #eb7f00;
+	border-bottom: 5px solid #eb7f00;
 }
 nav .main > li {
-	font-weight: bold;
-	margin: 0 10px;
+	margin: 10px 20px 0;
 }
 nav .main a {
 	text-decoration: none;
