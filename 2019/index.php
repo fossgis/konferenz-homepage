@@ -78,7 +78,7 @@
 <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/206_mapwebbing.PNG" width="150" height="46"></a></div>
                 <div class="sponsor bronze" id="graphhopper"><a href="https://www.graphhopper.com/de/" target="_blank"><img src="img/s/207_graphhopper.png" valign="middle" width="150" height="24"></a></div> 
 
-            <div class="sponsor bronze" id="camptocamp"><a href="www.camptocamp.com" target="_blank"><img src="img/s/208_camptocamp.png" valign="middle"width="136" height="91"></a></div>    
+            <div class="sponsor bronze" id="camptocamp"><a href="https://www.camptocamp.com" target="_blank"><img src="img/s/208_camptocamp.png" valign="middle"width="136" height="91"></a></div>    
 
        <div class="sponsor bronze" id="Lat/Lon"><a href="http://www.lat-lon.de" target="_blank"><img valign="middle" src="img/s/209_logo_latlon_web.png" width="130" height="94"></a></div>  
                 
