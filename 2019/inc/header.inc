@@ -1,5 +1,7 @@
 <header class="page-header">
-	<img class="img-fluid page-logo" src="./img/fossgis19-logo.png">
+	<a href="./" alt="FOSSGIS Konferenz 2019">
+		<img class="page-logo" src="./img/fossgis19-logo.png">
+	</a>
 	<h1 class="page-title">
 		FOSSGIS-Konferenz 2019<br>
 		<span class="amp">Dresden</span><br>
