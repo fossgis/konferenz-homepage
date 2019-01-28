@@ -201,13 +201,13 @@ footer .main > li {
 }
 .tile.media {
 	-webkit-box-flex: 0;
-	-ms-flex: 0 0 160px;
-	flex: 0 0 160px;
-	height: 85px;
+	-ms-flex: 0 0 230px;
+	flex: 0 0 230px;
+	height: 120px;
 }
 .tile.media img {
-	max-width: 150px;
-	max-height: 75px;
+	max-width: 220px;
+	max-height: 110px;
 }
 
 h3.highlight,
