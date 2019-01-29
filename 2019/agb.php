@@ -1,26 +1,26 @@
 <!doctype html>
-<html>
-    <head>
-        <title>FOSSGIS-Konferenz AGB</title>
-        <meta name="description" content="Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme und OpenStreetMap.">
-        <meta charset="utf-8">
+<html lang="de">
 
-        <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
-    </head>
-    <body id="home">
-        <div id="wrap">
-            <?php include('inc/head.inc'); ?>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>FOSSGIS 2019 - AGB</title>
+	<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-            <div id="content">
-                <?php include('inc/nav.inc'); ?>
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/components.css">
+	<link rel="stylesheet" href="./css/print.css" media="print">
+</head>
 
-                <figure>
-                    <img src="img/dresden.jpg" width="880" height="241" alt="Dresden Panorama">
-                    <figcaption>Photo: Kolossos</figcaption>
-                </figure>
+<body id="home">
+
+	<?php include "inc/header.inc"; ?>
 
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
-				
+
 <p>Der FOSSGIS e.V. richtet als Veranstalter die FOSSGIS-Konferenz aus.
 Für die Konferenz werden die Tickets, Workshops, Sponsorenpakete und Ausstellerpakete über die Internetseite <a href="
 https://pretix.eu/fossgis/2019" target="_blank"> </a> verkauft. Für das Vertragsverhältnis gelten die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
@@ -91,12 +91,8 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <p>Stand der AGB: 24. November 2018</p>
 
-</p>
+	<?php include "inc/footer.inc"; ?>
 
+</body>
 
-
-            </div>
-            <?php include('inc/footer.inc'); ?>
-        </div>
-    </body>
 </html>
