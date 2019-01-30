@@ -169,6 +169,12 @@ footer .main > li {
 	padding: 10px;
 	text-align: center;
 }
+.tile.gold:hover,
+.tile.silver:hover,
+.tile.bronze:hover,
+.tile.media:hover {
+	box-shadow: 0 0 0 1px #eb7f00;
+}
 .tile.gold {
 	-webkit-box-flex: 0;
 	-ms-flex: 0 0 360px;
