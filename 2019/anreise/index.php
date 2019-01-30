@@ -13,7 +13,6 @@
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
-	<link rel="stylesheet" href="./css/components.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
 
 	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>

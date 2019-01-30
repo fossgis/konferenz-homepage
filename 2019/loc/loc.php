@@ -13,7 +13,6 @@
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
-	<link rel="stylesheet" href="./css/components.css">
 </head>
 
 <body id="team">
