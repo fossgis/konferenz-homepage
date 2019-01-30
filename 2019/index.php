@@ -139,6 +139,11 @@
 				<img src="./img/s/401_OSGeoLive_banner.png" alt="OSGeoLive">
 			</a>
 		</li>
+		<li class="tile media">
+			<a href="https://www.conrad.de/de/filialen/filiale-dresden.html" target="_blank">
+				<img src="./img/s/402_CONRAD_CO_R.png" alt="Conrad Filiale Dresden - Friedrich-List-Platz 2, hinterm Hauptbahnhof im City-Center">
+			</a>
+		</li>
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
