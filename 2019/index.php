@@ -144,6 +144,17 @@
 				<img src="./img/s/402_CONRAD_CO_R.png" alt="Conrad Filiale Dresden - Friedrich-List-Platz 2, hinterm Hauptbahnhof im City-Center">
 			</a>
 		</li>
+		<li class="tile media">
+			<a href="www.oreilly.de" target="_blank">
+				<img src="./img/s/403_oreilly.png" alt="O'Reillyverlag">
+			</a>
+		</li>
+		<li class="tile media">
+			<a href="https://c3voc.de/" target="_blank">
+				<img src="./img/s/404_voc_square.png" alt="C3VOC">
+			</a>
+		</li>
+
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
