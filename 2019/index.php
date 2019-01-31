@@ -145,8 +145,8 @@
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="www.oreilly.de" target="_blank">
-				<img src="./img/s/403_oreilly.png" alt="O'Reillyverlag">
+			<a href="https://www.oreilly.de" target="_blank">
+				<img src="./img/s/403_oreilly.png" alt="O’Reilly Verlag">
 			</a>
 		</li>
 		<li class="tile media">
