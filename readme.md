@@ -9,6 +9,25 @@ Official websites for the FOSSGIS conferences.
 
 All other directories should be self explaining.
 
+## Docker
+
+You can run the website locally with [`docker-compose`](https://docs.docker.com/compose/).
+
+Run the following command in your terminal:
+
+```bash
+docker-compose up -d
+```
+
+After that you can access the website with your browser, e.g. [`http://localhost/2019`](https://lcaolhost/2019). You are
+able to change content in this project and see the changes in your browser after a reload.
+
+When you are finished you can stop the server by running the following command in your terminal:
+
+```bash
+docker-compose down
+```
+
 ## Third party content
 
 ### Fonts
