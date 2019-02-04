@@ -135,6 +135,11 @@
 				<img src="./img/s/210_Geofabrik.png" alt="Geofabrik GmbH">
 			</a>
 		</li>
+		<li class="tile bronze">
+			<a href="https://www.sourcepole.ch/" target="_blank">
+				<img src="./img/s/211_Sourcepole.png" alt="Sourcepole AG">
+			</a>
+		</li>
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
