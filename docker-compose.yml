@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  web:
+    image: php:apache
+    volumes:
+      - "./:/var/www/html/:ro"
+    ports:
+      - "127.0.0.1:80:80"
