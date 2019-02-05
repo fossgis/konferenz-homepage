@@ -19,50 +19,55 @@
 
 	<?php include "../inc/header.inc"; ?>
 
-    <h2>Das Konferenz-Team</h2>
+	<h2>Das Konferenz-Team</h2>
 
-	<table class="list" border="0">
+	<ul class="tiles">
 
-<?php
-    $File = 'loc.csv';
+	<?php
 
-    $arrResult  = array();
-    $handle     = fopen($File, "r");
-    if(empty($handle) === false) {
-        while(($data = fgetcsv($handle, 1000, "|")) !== FALSE){
-            $arrResult[] = $data;
-        echo "<tr>";
-        echo "<td style='padding:5px;'>";
-        if ($data[1]!=''){
-            echo "<a href='".$data[1]."'>";
-        }
-        echo "<div class='image small'>";
-        if ($data[2]==''){
-            $data[2] = "./img/fossgis19-logo.png";
-        }
-        echo "<img width='140px' src='".$data[2]."' alt='".$data[0]."' /></div>";
-        if ($data[1]!=''){
-           echo "</a>";
-        }
-        echo "</td><td>";
-        if ($data[1]!=''){
-            echo "<a href='".$data[1]."' target='_blank'>".$data[0]."</a>";
-        }else{
-            echo $data[0];
-        }
-        echo "<br>".$data[3]."</td>";
-        echo "</tr>";
+	$file = 'loc.csv';
+	$defaultImg = './img/fossgis19-logo.png';
+	$handle = fopen($file, 'r');
 
-        }
-        fclose($handle);
-    }
+	while ($data = fgetcsv($handle, 1000, "|")) {
+		$name = $data[0];
+		$link = $data[1];
+		$img = $data[2] ? $data[2] : $defaultImg;
+		$desc = $data[3];
 
-?>
+		echo '<li class="tile team">';
 
-</table>
+		if ($link){
+			echo "<a href='{$link}' target='_blank'><img src='{$img}' alt='{$name}' /></a>";
+		} else {
+            echo "<img src='{$img}' alt='{$name}' />";
+		}
 
-	</div>
+		echo "<p>";
+		if ($link) {
+			echo "<a href='{$link}' target='_blank'><b>{$name}</b></a>";
+		} else {
+			echo "<b>{$name}</b>";
+		}
+
+		if ($desc) {
+            echo "<br>{$desc}";
+		}
+        echo "</p>";
+
+		echo "</li>";
+
+	}
+
+	fclose($handle);
+
+	?>
+
+	</ul>
+
+
 	<?php include('../inc/footer.inc'); ?>
-      </div>
-    </body>
+
+</body>
+
 </html>
