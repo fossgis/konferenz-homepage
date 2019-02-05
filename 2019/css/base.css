@@ -215,6 +215,21 @@ footer .main > li {
 	max-width: 150px;
 	max-height: 75px;
 }
+.tile.team {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 200px;
+	flex: 0 0 200px;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin: 20px;
+}
+.tile.team img {
+	height: 200px;
+	max-width: 200px;
+}
+.tile.team small {
+	font-size: 12px;
+}
 
 h3.highlight,
 h4.highlight {
