@@ -43,6 +43,7 @@ figure {
 }
 .page-header .page-logo {
 	max-height: 150px;
+	margin-right: 15px;
 }
 .page-header .page-title {
 	font-size: calc(28px + (54 - 28) * ((100vw - 300px) / (1600 - 300)));
