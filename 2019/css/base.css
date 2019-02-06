@@ -64,15 +64,14 @@ nav .main {
 	flex-wrap: wrap;
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
-	justify-content: center;
+	justify-content: space-evenly;
 	list-style-type: none;
-	margin: 0;
+	margin: 10px 0 0;
 	padding: 0;
-	text-transform: uppercase;
 	border-bottom: 5px solid #eb7f00;
 }
 nav .main > li {
-	margin: 10px 20px 0;
+	padding: 5px 10px;
 }
 nav .main a {
 	text-decoration: none;
