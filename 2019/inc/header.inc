@@ -21,7 +21,10 @@
 		<a href="./programm/">Programm</a>
 		</li>
 		<li id="navAnreise">
-			<a href="./anreise/">Standort</a>
+			<a href="./anreise/">Anreise</a>
+		</li>
+		<li id="navStandort">
+			<a href="./standort/">Standort</a>
 		</li>
 		<li id="navEvents">
 			<a href="./socialevents/">Social Events</a>
