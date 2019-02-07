@@ -11,9 +11,7 @@
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="./css/normalize.css">
-	<link rel="stylesheet" href="./css/base.css">
-	<link rel="stylesheet" href="./css/print.css" media="print">
+	<?php include "../inc/style.inc"; ?>
 
 	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>
 

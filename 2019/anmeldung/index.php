@@ -12,10 +12,8 @@
 	<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2019/widget/v1.css">
-	<link rel="stylesheet" href="./css/base.css">
-	<link rel="stylesheet" href="./css/print.css" media="print">
+	<?php include "../inc/style.inc"; ?>
 	<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 </head>
 
