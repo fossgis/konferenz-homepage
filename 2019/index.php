@@ -140,6 +140,12 @@
 				<img src="./img/s/211_Sourcepole.png" alt="Sourcepole AG">
 			</a>
 		</li>
+		<li class="tile bronze">
+			<a href="http://www.gkg-kassel.de" target="_blank">
+				<img src="./img/s/212_gkg_logo.png" alt="Dr.-Ing. Claas Leiner">
+			</a>
+		</li>
+
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
