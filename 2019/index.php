@@ -170,6 +170,11 @@
 				<img src="./img/s/404_voc_square.png" alt="C3VOC">
 			</a>
 		</li>
+		<li class="tile media">
+			<a href="https://yagajs.org/" target="_blank">
+				<img src="./img/s/405_yaga_logo.png" alt="YAGA Development-Team">
+			</a>
+		</li>
 
 	</ul>
 
