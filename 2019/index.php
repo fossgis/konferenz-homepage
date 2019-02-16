@@ -170,12 +170,17 @@
 				<img src="./img/s/404_voc_square.png" alt="C3VOC">
 			</a>
 		</li>
+	  <li class="tile media">
+			<a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V." target="_blank">
+				<img src="./img/s/405_TIB.PNG" alt="TIB">
+			</a>
+		</li>
+
 		<li class="tile media">
 			<a href="https://yagajs.org/" target="_blank">
 				<img src="./img/s/405_yaga_logo.png" alt="YAGA Development-Team">
 			</a>
 		</li>
-
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
