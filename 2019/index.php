@@ -80,6 +80,12 @@
 				<img src="./img/s/102_nti_cwsm.png" alt="nti CWSM">
 			</a>
 		</li>
+		<li class="tile silver">
+			<a href="https://betatestplattform.noncd.db.de" target="_blank">
+				<img src="./img/s/103_DB_und_mindbox.png" alt="DB mindbox">
+			</a>
+		</li>
+		
 	</ul>
 
 		<!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
