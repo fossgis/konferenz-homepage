@@ -54,6 +54,12 @@
 		</li>
 	</ul> -->
 
+	<h3>Programm-App</h3>
+	<p>
+	    <a target="_blank" rel="nofollow" href="https://itunes.apple.com/de/app/fossgis-2019/id1453299630"><img style="width: 160px; margin: 9px;" src="./img/app-store-badge.svg"></a><br/>
+	    <a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=org.yagajs.fossgis2019.app"><img style="width: 180px;" src="./img/google-play-badge.png"></a>
+	</p>
+
 	<?php include "../inc/footer.inc"; ?>
 
 </body>
