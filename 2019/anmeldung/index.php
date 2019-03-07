@@ -27,7 +27,7 @@
 	</p>
 
 	<p>
-		Die FOSSGIS-Konferenz 2019 ist mit 500 Teilnerhmer*innen komplett ausgebucht. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden.
+		Die FOSSGIS-Konferenz 2019 ist mit 500 Teilnehmer*innen komplett ausgebucht. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden.
 		Eine Registrierung Ihrerseits ist notwendig, um Ihre Teilnahme zu sichern und hilfreich f&uuml;r die Organisation.	
 <p>
 		Im Rahmen der Anmeldung können Sie bis zum 11.03.2019 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) unter "Workshop nachbuchen" auswählen.
