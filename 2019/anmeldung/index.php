@@ -27,19 +27,19 @@
 	</p>
 
 	<p>
-		Das Konferenz-Team empfielt Ihnen sich online anzumelden.
-		Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung auf 400 Personen nicht gewährleistet werden.
-		Eine Registrierung Ihrerseits ist notwendig, um Ihre Teilnahme zu sichern und hilfreich f&uuml;r die Organisation.
+		Die FOSSGIS-Konferenz 2019 ist mit 500 Teilnerhmer*innen komplett ausgebucht. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden.
+		Eine Registrierung Ihrerseits ist notwendig, um Ihre Teilnahme zu sichern und hilfreich f&uuml;r die Organisation.	
+<p>
+		Im Rahmen der Anmeldung können Sie bis zum 11.03.2019 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) unter "Workshop nachbuchen" auswählen.
+		Informationen zu den einzelnen Workshops finden Sie im <a href="https://pretalx.com/fossgis2019/schedule/">Programm</a>.
+	</p>
 	</p>
 
 	<p class="highlight">
 		&darr; <a href="#shop">Direkt zur Anmeldung</a>
 	</p>
 
-	<p>
-		Im Rahmen der Anmeldung können Sie bis zum 11.03.2019 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) auswählen.
-		Informationen zu den einzelnen Workshops finden Sie im <a href="https://pretalx.com/fossgis2019/schedule/">Programm</a>.
-	</p>
+
 
 	<h3>Preise FOSSGIS-Konferenz 2019</h3>
 	<ul>
@@ -55,12 +55,12 @@
 		<li>FOSSGIS-Konferenz-Teilnahme</li>
 		<li>Pausensnack</li>
 		<li>Tasche, Tagungsband*</li>
-		<li>T-Shirt</li>
-		<li>Abendveranstaltung Dialoge im Bärenzwinger (solange verfügbar)</li>
+		<li>T-Shirt*</li>
+		<li>Abendveranstaltung Dialoge im Bärenzwinger*</li>
 	</ul>
 
 	<p>
-		<small>* solange verfügbar</small><br>
+		<small>* wenn bestellt und solange verfügbar</small><br>
 		<small>** Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer der Konferenz.</small>
 	</p>
 
