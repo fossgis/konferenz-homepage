@@ -53,7 +53,7 @@
 
 	<h4>Exkursion zum Mathematisch-Physikalischen Salon  im Zwinger</h4>
 	<p>Um 15:30 Uhr ist am Freitagnachmittag eine Exkursion zum <a href="https://mathematisch-physikalischer-salon.skd.museum" target="_blank" rel="nofollow">Mathematisch-Physikalischen Salon im Zwinger</a> geplant.<br>
-	Es wird eine auf die Konferenzteilnehmer zugeschnittene Führung durch das Museum geben. Der Eintritt zum Salon ist durch jeden Teilnehmer selbst zu zahlen.Interessierte sind herzlich eingeladen sich anzuschließen. <br> Bitte geben sie ihre Teilnahme im Anmeldesystem an, dies dient der guten Vorbereitung.</p>
+	Es wird eine auf die Konferenzteilnehmer zugeschnittene Führung durch das Museum geben. Der Eintritt zum Salon ist durch jeden Teilnehmer bis Freitag, 11 Uhr am Welcome Desk zu zahlen.   </p>
 
 	<h4>Anwendertreffen</h4>
 	<p>Es können an allen Tagen Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen bis 19:30 Uhr zur Verfügung, bitte <a href="mailto:konferenz-orga@fossgis.de">per E-Mail</a>  an das Konferenzteam anfragen oder mit dem Team vor Ort ansprechen.</p>
