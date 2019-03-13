@@ -49,6 +49,8 @@
 			<a href="./videos/">Liste der Videoaufzeichnungen</a>
 		</li>
 	</ul> -->
+	<h3>Videoübertragung</h3>
+<p>Verfolgen Sie die FOSSGIS-Konferenz 2019 im <a href="https://streaming.media.ccc.de/fossgis2019Livestream">Livestream<p> .
 
 	<h3>Programm-App</h3>
 	<p>
