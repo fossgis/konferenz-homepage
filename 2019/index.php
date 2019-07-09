@@ -18,7 +18,8 @@
 
 	<h2>Willkommen zur FOSSGIS-Konferenz 2019</h2>
 	<p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
-	<p>Die FOSSGIS-Konferenz 2019 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.htw-dresden.de">Hochschule für Technik und Wirtschaft Dresden</a> veranstaltet.</p>
+	<p>Die FOSSGIS-Konferenz 2019 wurde vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.htw-dresden.de">Hochschule für Technik und Wirtschaft Dresden</a> veranstaltet. Die Konferenz hat 500 Teilnehmer*innen nach Dresden gelockt.
+</p>
 
 	<ul class="tiles">
 		<li class="tile bronze">

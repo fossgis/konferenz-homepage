@@ -14,9 +14,9 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<li id="navAnmeldung">
+		<!--<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
-		</li>
+		</li>-->
 		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
