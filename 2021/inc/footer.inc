@@ -1,0 +1,1 @@
+<footer>Website by <a href="http://oliverroick.de/">Oliver Roick</a> &bull; <a href="http://www.fossgis.de/impressum.html">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2020/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklaerung">Datenschutzerklärung</a></footer>

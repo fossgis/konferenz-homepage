@@ -1,0 +1,22 @@
+html {
+	padding: 0;
+	margin: initial;
+	max-width: initial;
+}
+
+body {
+	font-size: 12px;
+	line-height: 1.3em;
+}
+
+.page-header .page-logo {
+	max-height: 80px;
+}
+.page-header .page-title {
+	font-size: 28px;
+}
+
+nav .main,
+.hero {
+	display: none;
+}
