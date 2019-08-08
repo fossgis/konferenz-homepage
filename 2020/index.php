@@ -1,67 +1,195 @@
 <!doctype html>
-<html>
+<html lang="de">
+
 <head>
-    <title>FOSSGIS 2020</title>
-    <meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+	<?php include "inc/meta.inc"; ?>
 
-    <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz 2020, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap">
-    <meta charset="utf-8">
+	<base href="<?php echo $_SERVER['SCRIPT_NAME']; ?>">
+	<title>FOSSGIS 2020</title>
 
-    <link href="css/screen.css" type="text/css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/print.css" media="print">
 </head>
+
 <body id="home">
-    <div id="wrap">
-        <h1>FOSSGIS Konferenz <span>Call for Location</span> <br>2020</h1>
 
-        <div id="content">
-            <h2>Call for Location zur FOSSGIS-Konferenz 2020</h2>
+	<?php include "inc/header.inc"; ?>
 
-            <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
+	<h2>Willkommen zur FOSSGIS-Konferenz 2020</h2>
+	<p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
+	<p>Die FOSSGIS-Konferenz 2020 wurde vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a> veranstaltet. <!--Die Konferenz hat 500 Teilnehmer*innen nach Dresden gelockt.-->
+</p>
 
-            <p>Die FOSSGIS-Konferenz 2020 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> organisiert.</p>
+	<ul class="tiles">
+		<li class="tile bronze">
+			<a href="https://www.fossgis.de/">
+				<img src="./img/fossgis.png" alt="FOSSGIS e.V.">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.htw-dresden.de/">
+				<img src="./img/htw.png" alt="Hochschule für Technik und Wirtschaft Dresden">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.openstreetmap.de/">
+				<img src="./img/osm.png" alt="OSM Community">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.osgeo.org/">
+				<img src="./img/osgeo.png" alt="OSGeo">
+			</a>
+		</li>
+	</ul>
 
-            <p>Der Veranstalter sucht auf diesem Wege einen Austragungsort für die Konferenz im Jahre 2020 und ruft zur Einreichung von Bewerbungen auf.</p>
+	<p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
+	<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
-                <div class="organisers">
-                    <div class="sponsor organizer">
-                        <a href="https://www.fossgis.de/">
-                            <img src="img/fossgis.png" valign="middle">
-                        </a>
-                    </div>
-                    <div class="sponsor organizer">
-                        <a href="https://www.openstreetmap.de/">
-                            <img src="img/osm.png" valign="middle">
-                        </a>
-                    </div>                                   
-                    <div class="sponsor organizer">
-                        <a href="https://www.osgeo.org/">
-                            <img src="img/osgeo.png" width="180px" valign="middle">
-                        </a>
-                    </div>                    
-                </div>
-            <p class="clear"></p>
+	<h3>Sponsoren der FOSSGIS-Konferenz</h3>
+	<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
 
-            <h3>Was ist die FOSSGIS Konferenz?</h3>
+	<h4 class="highlight">Goldsponsoren</h4>
+	<ul class="tiles">
+		<li class="tile gold">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile gold">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+	</ul>
 
-            <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier- und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich.</p>
+	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
+	<h4 class="highlight">Silbersponsoren</h4>
+	<ul class="tiles">
+		<li class="tile silver">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile silver">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile silver">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
 
-            <p>Zusätzlich sind auch freie Geodaten ein Schwerpunkt der Konferenz – spezielles Augenmerk liegt hier auf dem Projekt OpenStreetMap.</p>
+	</ul>
 
-            <h3>An welchen Orten wird die Konferenz ausgetragen?</h3>
-            <p>Typischerweise wird die Konferenz an Hochschulen oder Bildungseinrichtungen durchgeführt.</p>
+		<!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
+	<h4 class="highlight">Bronzesponsoren</h4>
+	<ul class="tiles">
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
 
-            <p>In den letzten Jahren war die Konferenz u.a. zu Gast an der Beuth Hochschule für Technik in Berlin, an der Westfälische Wilhelms-Universität in Münster und an der Universität in Bonn. Im Jahr 2019 gastiert die FOSSGIS-Konferenz in Dresden.</p>
+	</ul>
 
-            <h3>Wie finanziert sich die Konferenz?</h3>
+	<h4 class="highlight">Medienpartner</h4>
+	<ul class="tiles">
+		<li class="tile media">
+			<a href="https://live.osgeo.org/de/index.html" target="_blank">
+				<img src="./img/s/401_OSGeoLive_banner.png" alt="OSGeoLive">
+			</a>
+		</li>
+		<li class="tile media">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile media">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+		<li class="tile media">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+	  <li class="tile media">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
 
-            <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen.</p>
+		<li class="tile media">
+			<a href="" target="_blank">
+				<img src="" alt="">
+			</a>
+		</li>
+	</ul>
 
-            <h3>Interesse?</h3>
-            <p>Sie möchten die Konferenz bei Ihnen auszurichten? Detaillierte Informationen finden Sie im <a href="data/CfL_FOSSGIS-2020.pdf">Bewerbungs-PDF</a>.</p>
+	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>. Sie können das Sponsorenpaket bequem über unser <a href="https://pretix.eu/fossgis/2019/"> Buchungsformular</a> buchen.</p>
+	<p>Bei Fragen wenden sie sich gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
 
-            <p>Wir freuen uns auf Ihre Bewerbung. Bei Fragen können Sie sich gerne an info[aet]fossgis.de wenden.</p>
-        </div>
-        <?php include('inc/footer.inc'); ?>
-    </div>
+	<?php include "inc/footer.inc"; ?>
 </body>
+
 </html>
