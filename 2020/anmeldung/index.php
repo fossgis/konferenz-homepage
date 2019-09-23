@@ -26,7 +26,7 @@
 		Wir freuen uns auf Sie!
 	</p>
 
-	<p>
+	<!--<p>
 		Die FOSSGIS-Konferenz 2019 ist mit 500 Teilnehmer*innen komplett ausgebucht. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden.
 		Eine Registrierung Ihrerseits ist notwendig, um Ihre Teilnahme zu sichern und hilfreich f&uuml;r die Organisation.	
 <p>
@@ -37,18 +37,18 @@
 
 	<p class="highlight">
 		&darr; <a href="#shop">Direkt zur Anmeldung</a>
-	</p>
+	</p>-->
 
 
 
-	<h3>Preise FOSSGIS-Konferenz 2019</h3>
+	<h3>Preise FOSSGIS-Konferenz 2020</h3>
 	<ul>
 		<li>Standardticket (Normalpreis): € 190</li>
-		<li>Standardticket (Frühbucherrabatt bis 06.02.2019): € 150</li>
+		<li>Standardticket (Frühbucherrabatt für die ersten 50 Tickets): € 150</li>
 		<li>Studierendenticket, Rentnerticket: € 40</li>
 		<li>Communityticket<sup>**</sup>: € 0</li>
 		<li>Workshop: € 100</li>
-		<li>Workshop (Frühbucherrabatt bis 06.02.2019): € 90</li>
+		<!--<li>Workshop (Frühbucherrabatt bis 06.02.2019): € 90</li>-->
 	</ul>
 	<p><b>Im Konferenzticket enthalten:</b></p>
 	<ul>
@@ -56,7 +56,7 @@
 		<li>Pausensnack</li>
 		<li>Tasche, Tagungsband*</li>
 		<li>T-Shirt*</li>
-		<li>Abendveranstaltung Dialoge im Bärenzwinger*</li>
+		<li>Abendveranstaltung*</li>
 	</ul>
 
 	<p>
@@ -65,9 +65,9 @@
 	</p>
 
 	<h3>Helfer</h3>
-	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer-2019.fossgis.de/">Helfersystem</a> Helfersystem anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2019/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
+	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer-2020.fossgis.de/">Helfersystem</a> Helfersystem anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2020/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
 
-	<h3>Anmeldung</h3>
+	<!--<h3>Anmeldung</h3>
 	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2019/">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2019/"></pretix-widget>
@@ -78,7 +78,7 @@
 				JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2019/">hier</a>.
 			</div>
 		</div>
-	</noscript>
+	</noscript>-->
 
 	<?php include('../inc/footer.inc'); ?>
 

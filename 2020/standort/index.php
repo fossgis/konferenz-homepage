@@ -48,7 +48,7 @@
 		ins Gespräch zu kommen.
 	</p>
 
-	<img src="./standort/img/" class="img-fluid" alt="">
+	<!--<img src="./standort/img/" class="img-fluid" alt="">-->
 
 	<h3>Hörsäle, Seminarsäle & Catering</h3>
 	<p>
@@ -57,14 +57,14 @@
 		Für diesen Fall haben wir Streaming-Räume zwischen den Hörsälen organisiert.
 	</p>
 
-	<ul class="tiles">
+<!--	<ul class="tiles">
 		<li class="tile">
 			<img src="./standort/img/" class="img-fluid" alt="">
 		</li>
 		<li class="tile">
 			<img src="./standort/img/" class="img-fluid" alt="">
 		</li>
-	</ul>
+	</ul>-->
 
 	<h3>Rechenzentrum - Workshops</h3>
 	<p>
@@ -72,9 +72,9 @@
 		Dieses ist etwa 3 Gehminuten vom Haupteingang entfernt. 
 	</p>
 
-	<img src="./standort/img/" class="img-fluid" alt="">
-
-	<h3>Ausflugsmöglichkeiten & Sehenswürdigkeiten</h3>
+	<!--<img src="./standort/img/" class="img-fluid" alt="">-->
+	<br>
+	<h2>Ausflugsmöglichkeiten & Sehenswürdigkeiten</h2>
 	<p>Freiburg bietet mit seiner Lage zwischen Schwarzwald und Oberrheingraben genügend attraktive Ausflugsziele, 
 	um den Aufenthalt über die Konferenz hinaus zu verlängern.</p>
 	<p>

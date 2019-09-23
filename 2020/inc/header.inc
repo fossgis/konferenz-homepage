@@ -3,8 +3,8 @@
 		<img class="page-logo" src="./img/fossgis20-logo.png">
 	</a>
 	<h1 class="page-title">
-		FOSSGIS-Konferenz<br>
-		<span class="amp">Freiburg</span> 2020<br>
+		FOSSGIS-Konferenz 2020<br>
+		<span class="amp">Freiburg</span> <br>
 		<span class="amp">11.&ndash;14. März</span>
 	</h1>
 </header>
@@ -14,12 +14,12 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<!--<li id="navAnmeldung">
+		<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
-		</li>-->
-		<li id="navProgramm">
-		<a href="./programm/">Programm</a>
 		</li>
+	<!--	<li id="navProgramm">
+		<a href="./programm/">Programm</a>
+		</li>-->
 		<li id="navAnreise">
 			<a href="./anreise/">Anreise</a>
 		</li>
@@ -29,9 +29,9 @@
 		<li id="navEvents">
 			<a href="./socialevents/">Social Events</a>
 		</li>
-		<li id="navTeam">
+	<!--	<li id="navTeam">
 			<a href="./loc/loc.php">Team</a>
-		</li>
+		</li>-->
 	</ul>
 </nav>
 

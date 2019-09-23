@@ -18,7 +18,7 @@
 
     <h2>Anreise & Unterkunft</h2>
 
-	<ul class="tiles">
+	<!--<ul class="tiles">
 		<li class="tile">
 			<img src="" height="200" alt="">
 		</li>
@@ -28,7 +28,7 @@
 		<li class="tile">
 			<img src="" height="200" alt="">
 		</li>
-	</ul>
+	</ul>-->
 
     <p>
         Die FOSSGIS-Konferenz findet vom 11.-14. März 2020 an der Albert-Ludwigs-Universität in Freiburg statt <!--
