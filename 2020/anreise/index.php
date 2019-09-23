@@ -130,7 +130,7 @@
 		</li>
 		<li> Adresse: Kartaeuserstr. 33, 79102 Freiburg</li>
 		<li> Telefon: +49 761 8817870</li>
-        <li> E-Mail: dresden@thestudenthotel.com</li>
+        <li> E-Mail:  backpacker@blackforest-hostel.de</li>
 	</ul>
 
 	<p><i>Novotel Freiburg am Konzerthaus</i></p>
