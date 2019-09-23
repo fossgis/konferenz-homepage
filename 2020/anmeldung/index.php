@@ -25,6 +25,9 @@
 		Die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch.
 		Wir freuen uns auf Sie!
 	</p>
+	<p>
+		Die Anmeldung ist voraussichtlich ab Anfang Januar 2020 geöffnet.
+	</p>
 
 	<!--<p>
 		Die FOSSGIS-Konferenz 2019 ist mit 500 Teilnehmer*innen komplett ausgebucht. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden.
