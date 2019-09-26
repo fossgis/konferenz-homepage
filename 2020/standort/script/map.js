@@ -8,8 +8,8 @@
 	var htwOrange = '#ff9d15';
 	var views = {
 		'<b>Campus<b>': [48.00111, 7.84938],
-		'Fr: Abschluss': friPos,
-		'Mi: Schwarzer kater': wedPos,
+		'Mi: Abendveranstaltung': friPos,
+		'Di: Schwarzer kater': wedPos,
 		'Stadtmitte': [47.99488, 7.84986],
 		//'Neustadt': []
 	};
@@ -47,8 +47,8 @@
 			}).bindTooltip(props.name);
 		}
 	});
-	var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Mittwoch Abend<br>Ice-breaker im Schwarzer Kater');
-	var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Freitag Abend<br>Abendveranstaltung im Bärenzwinger');
+	var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
+	var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung Dialoge im Institutsviertel');
 	var wedLabel = createLabel(wedPos, 'SK', 2);
 	var thuLabel = createLabel(friPos, 'FR', 2);
 	var mapOptions = {

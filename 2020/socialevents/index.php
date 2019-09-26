@@ -22,7 +22,7 @@
 
 	<h4>Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start werden am 11. März 2020 ab 18:30/19 Uhr Plätze für alle schon angereisten Konferenzbesucher reserviert. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 10. März 2020 ab 18:30/19 Uhr alle schon angereisten Konferenzbesucher willkommen in der Gaststätte Schwarzer Kater zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
 	
 	<h3>Mittwoch, 11. März 2020</h3>
 	<h4>Eröffnung FOSSGIS-Konferenz</h4>
@@ -31,8 +31,8 @@
 	<h4>Anwendertreffen</h4>
 	<p>Es können an allen Tagen Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen bis 19:30 Uhr zur Verfügung, bitte <a href="mailto:konferenz-orga@fossgis.de">per E-Mail</a>  an das Konferenzteam anfragen oder mit dem Team vor Ort absprechen.</p>
 
-	<h4>Abendveranstaltung ab 19 Uhr in der Mensa</h4>
-	<p></p>
+	<h4>Abendveranstaltung</h4>
+	<p>Die Dialoge im Institutsviertel finden ab 19 Uhr in der Mensa statt.</p>
 
 	<h3>Donnerstag, 12. März 2020</h3>
 	<h4>Fototermin </H4>

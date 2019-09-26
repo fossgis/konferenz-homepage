@@ -28,11 +28,6 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="https://www.htw-dresden.de/">
-				<img src="./img/htw.png" alt="Hochschule für Technik und Wirtschaft Dresden">
-			</a>
-		</li>
-		<li class="tile bronze">
 			<a href="https://www.openstreetmap.de/">
 				<img src="./img/osm.png" alt="OSM Community">
 			</a>
