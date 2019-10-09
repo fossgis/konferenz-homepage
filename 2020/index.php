@@ -48,8 +48,8 @@
 	<h4 class="highlight">Goldsponsoren</h4>
 	<ul class="tiles">
 		<li class="tile gold">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://geops.de/" target="_blank">
+				<img src="./img/s/001_geOps_Web.png" alt="geOps">
 			</a>
 		</li>
 		<li class="tile gold">
