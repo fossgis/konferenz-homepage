@@ -53,8 +53,8 @@
 			</a>
 		</li>
 		<li class="tile gold">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://www.wheregroup.com" target="_blank">
+				<img src="./img/s/002_WhereGroup-quer.jpg" alt="WhereGroup">
 			</a>
 		</li>
 	</ul>
