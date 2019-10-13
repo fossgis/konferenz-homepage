@@ -18,7 +18,7 @@
 
 	<h2>Willkommen zur FOSSGIS-Konferenz 2020</h2>
 	<p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
-	<p>Die FOSSGIS-Konferenz 2020 wurde vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a> veranstaltet. <!--Die Konferenz hat 500 Teilnehmer*innen nach Dresden gelockt.-->
+	<p>Die FOSSGIS-Konferenz 2020 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a> veranstaltet. <!--Die Konferenz hat 500 Teilnehmer*innen nach Dresden gelockt.-->
 </p>
 
 	<ul class="tiles">
