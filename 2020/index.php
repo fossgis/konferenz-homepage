@@ -63,8 +63,8 @@
 	<h4 class="highlight">Silbersponsoren</h4>
 	<ul class="tiles">
 		<li class="tile silver">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://www.terrestris.de" target="_blank">
+				<img src="./img/s/101_terrestris.png" alt="terrestris">
 			</a>
 		</li>
 		<li class="tile silver">
@@ -84,48 +84,8 @@
 	<h4 class="highlight">Bronzesponsoren</h4>
 	<ul class="tiles">
 		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://www.mundialis.de/" target="_blank">
+				<img src="./img/s/201_mundialis.png" alt="mundialis">
 			</a>
 		</li>
 		<li class="tile bronze">
