@@ -57,6 +57,11 @@
 				<img src="./img/s/002_WhereGroup-quer.png" alt="WhereGroup">
 			</a>
 		</li>
+		<li class="tile gold">
+			<a href="www.camptocamp.com" target="_blank">
+				<img src="./img/s/003_camptocamp_lang.jpg" alt="camptocamp">
+			</a>
+		</li>
 	</ul>
 
 	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
