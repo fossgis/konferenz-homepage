@@ -37,6 +37,11 @@
 				<img src="./img/osgeo.png" alt="OSGeo">
 			</a>
 		</li>
+<li class="tile bronze">
+			<a href="http://www.uni-freiburg.de/">
+				<img src="./img/Uni-Freiburg_Logo.png" alt="Uni Freiburg">
+			</a>
+		</li>
 	</ul>
 
 	<p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
@@ -60,6 +65,11 @@
 		<li class="tile gold">
 			<a href="www.camptocamp.com" target="_blank">
 				<img src="./img/s/003_camptocamp_lang.jpg" alt="camptocamp">
+			</a>
+		</li>
+	<li class="tile gold">
+			<a href="http://www.linuxhotel.de" target="_blank">
+				<img src="./img/s/004_linuxhotel-oslern.png" alt="linuxhotel">
 			</a>
 		</li>
 	</ul>
@@ -119,31 +129,21 @@
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://c3voc.de/" target="_blank">
+				<img src="./img/s/402_voc_square.png" alt="C3VOC">
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V." target="_blank">
+				<img src="./img/s/403_TIB.PNG" alt="TIB">
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
-	  <li class="tile media">
 			<a href="" target="_blank">
 				<img src="" alt="">
 			</a>
 		</li>
 
-		<li class="tile media">
-			<a href="" target="_blank">
-				<img src="" alt="">
-			</a>
-		</li>
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>.</p>
