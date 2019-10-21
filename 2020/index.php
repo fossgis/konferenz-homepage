@@ -83,8 +83,8 @@
 			</a>
 		</li>
 		<li class="tile silver">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://nti.biz/de/" target="_blank">
+				<img src="./img/s/102_nti_cwsm.png" alt="NTI CWSM GmbH">
 			</a>
 		</li>
 		<li class="tile silver">
