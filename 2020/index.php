@@ -63,7 +63,7 @@
 			</a>
 		</li>
 		<li class="tile gold">
-			<a href="www.camptocamp.com" target="_blank">
+			<a href="https://www.camptocamp.com" target="_blank">
 				<img src="./img/s/003_camptocamp_lang.jpg" alt="camptocamp">
 			</a>
 		</li>
