@@ -88,8 +88,8 @@
 			</a>
 		</li>
 		<li class="tile silver">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="http://www.geoinfo.ch/" target="_blank">
+				<img src="./img/s/103_Geoinfo_Logo.png" alt="GEOINFO">
 			</a>
 		</li>
 
