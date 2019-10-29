@@ -146,7 +146,8 @@
 
 	</ul>
 
-	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">hier</a>.</p>
+	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Die Informationen für Sponsoren und Aussteller finden Sie in der 
+       <a href="data/Sponsoreninformationen_FOSSGIS-2020.pdf">Sponsoringbroschüre</a>.</p>
 	<p>Bei Fragen wenden sie sich gerne an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
 
 	<?php include "inc/footer.inc"; ?>
