@@ -92,6 +92,11 @@
 				<img src="./img/s/103_Geoinfo_Logo.png" alt="GEOINFO">
 			</a>
 		</li>
+		<li class="tile silver">
+			<a href="http://www.regiodata-gmbh.de" target="_blank">
+				<img src="./img/s/104_regioDATA_CMYK_300dpi.png" alt="regioDATA">
+			</a>
+		</li>
 
 	</ul>
 
