@@ -109,8 +109,8 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://wagner-it.de" target="_blank">
+				<img src="./img/s/202_Wagner-IT_Logo_150x75.png" alt="Wagner-IT">
 			</a>
 		</li>
 		<li class="tile bronze">
