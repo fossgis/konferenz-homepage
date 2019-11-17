@@ -114,8 +114,8 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://www.gbd-consult.de/" target="_blank">
+				<img src="./img/s/203_GBD.png" alt="Geoinformatikbüro Dassau">
 			</a>
 		</li>
 		<li class="tile bronze">
