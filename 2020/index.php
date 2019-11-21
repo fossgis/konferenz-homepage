@@ -72,6 +72,11 @@
 				<img src="./img/s/004_linuxhotel-oslern.png" alt="linuxhotel">
 			</a>
 		</li>
+		<li class="tile gold">
+			<a href="https://www.sourcepole.ch/" target="_blank">
+				<img src="./img/s/005_sourcepole_block2.png" alt="sourcepole">
+			</a>
+		</li>
 	</ul>
 
 	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
