@@ -16,7 +16,7 @@
 	<?php include "../inc/header.inc"; ?>
 
 	<h2>Das Konferenz-Team</h2>
-<!--
+	
 	<ul class="tiles">
 
 	<?php
@@ -27,7 +27,7 @@
 	while ($data = fgetcsv($handle, 1000, "|")) {
 		$name = $data[0];
 		$link = $data[1];
-		$img = $data[2] ? $data[2] : './img/fossgis19-logo.png';
+		$img = $data[2] ? $data[2] : './img/fossgis20-logo.png';
 		$desc = $data[3];
 
 		if ($link) {
@@ -59,7 +59,6 @@
 
 	</ul>
 
--->
 	<?php include('../inc/footer.inc'); ?>
 
 </body>
