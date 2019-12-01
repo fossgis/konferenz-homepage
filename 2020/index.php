@@ -149,8 +149,8 @@
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="https://yagajs.org/" target="_blank">
+				<img src="./img/s/404_yaga_logo.png" alt="YAGA Development-Team">
 			</a>
 		</li>
 
