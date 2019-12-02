@@ -14,9 +14,6 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<li>
-			<a href="callforpapers/">Call for Papers</a>
-		</li>
 		<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
 		</li>
