@@ -30,7 +30,7 @@
 	</div>
 
 	<p>
-		Die Konferenz findet in der Hörsälen und Seminarräumen rund um das Chemiehochhaus im Institutsviertel der Albert-Ludwigs-Universität Freiburg statt. Das Foyer im Chemiehochhaus dient als zentraler Empfang.
+		Die Konferenz findet in den Hörsälen und Seminarräumen rund um das Chemiehochhaus im Institutsviertel der Albert-Ludwigs-Universität Freiburg, Alberstraße 21, 79100 Freiburg statt. Das Foyer im Chemiehochhaus dient als zentraler Empfang.
 		Die Zugänge zu den Räumlichkeiten sind behindertengerecht gestaltet. Sollten Sie trotzdem Probleme beim Erreichen der Räume haben, zögern Sie bitte nicht das Konferenz-Team anzusprechen.
 	</p>
 
@@ -44,8 +44,7 @@
 	<p>
 		Im Foyer des Chemiehochhaus begrüßen wir Sie am <b>Welcome Desk</b>.
 		Im angrenzenden Präsentations- und Ausstellungsbereich (<b>PAB</b>) ist Raum für ein Aufeinandertreffen mit den <b>Ausstellern</b> und
-		<b>Sponsoren</b>. Hier besteht auch die Möglichkeit sich im "Himmel" als Konferenz-Helfer zu melden oder mit dem FOSSGIS e.V. am Vereinsstand
-		ins Gespräch zu kommen.
+		<b>Sponsoren</b>. Hier besteht auch die Möglichkeit sich im "Himmel" als Konferenz-Helfer zu melden oder mit dem FOSSGIS e.V. am Vereinsstand ins Gespräch zu kommen.
 	</p>
 
 	<!--<img src="./standort/img/" class="img-fluid" alt="">-->
