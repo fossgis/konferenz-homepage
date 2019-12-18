@@ -285,3 +285,58 @@ p.highlight {
 .pretix-widget .pretix-widget-category-name {
 	margin: 1em 0;
 }
+
+/* Programm */
+table.program-table,
+table.program-table th,
+table.program-table td {
+	border-width: 1px 1px 1px 1px;
+	border-color: #444;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+table.program-table thead td,
+table.program-table td.program-time {
+	background-color: #eb7f00;
+	color: white;
+	font-weight: bold;
+}
+
+table.program-table td {
+	padding: 5px 5px 5px 5px;
+}
+
+a.session-title,
+span.session-title {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+span.session-speakers {
+	font-style: italic;
+}
+
+img.program-no-recording {
+	display: inline;
+	vertical-align: middle;
+}
+
+/* Vortragsbeschreibungen */
+h2.abstract-title {
+	line-height: 115%;
+}
+
+.abstract-time-heading,
+.abstract-room-heading {
+	font-weight: bold;
+}
+
+.abstract-novideo {
+	font-size: 80%;
+}
+
+img.abstract-novideo-img {
+	display: inline;
+	vertical-align: middle;
+}
