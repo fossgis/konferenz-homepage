@@ -21,13 +21,13 @@
 	<ul>
 		<li>
 			<!-- href-old "https://pretalx.com/fossgis2019/schedule/#2019-03-13" "https://pretalx.com/fossgis2019/speaker/"-->
-			<a href="mittwoch.php" target="_blank" rel="noopener nofollow">Mittwoch, 11.03.2020</a>
+			<a href="programm/mittwoch.php" target="_blank" rel="noopener nofollow">Mittwoch, 11.03.2020</a>
 		</li>
 		<li>
-			<a href="donnerstag.php" target="_blank" rel="noopener nofollow">Donnerstag, 12.03.2020</a>
+			<a href="programm/donnerstag.php" target="_blank" rel="noopener nofollow">Donnerstag, 12.03.2020</a>
 		</li>
 		<li>
-			<a href="freitag.php" target="_blank" rel="noopener nofollow">Freitag, 13.03.2020</a>
+			<a href="programm/freitag.php" target="_blank" rel="noopener nofollow">Freitag, 13.03.2020</a>
 		</li>
 		<li>
 			<a href="" target="_blank" rel="noopener nofollow">OSM Samstag, 14.03.2020</a>
