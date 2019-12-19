@@ -21,28 +21,28 @@
 	<ul>
 		<li>
 			<!-- href-old "https://pretalx.com/fossgis2019/schedule/#2019-03-13" "https://pretalx.com/fossgis2019/speaker/"-->
-			<a href="programm/mittwoch.php" target="_blank" rel="noopener nofollow">Mittwoch, 11.03.2020</a>
+			<a href="programm/mittwoch.php">Mittwoch, 11.03.2020</a>
 		</li>
 		<li>
-			<a href="programm/donnerstag.php" target="_blank" rel="noopener nofollow">Donnerstag, 12.03.2020</a>
+			<a href="programm/donnerstag.php">Donnerstag, 12.03.2020</a>
 		</li>
 		<li>
-			<a href="programm/freitag.php" target="_blank" rel="noopener nofollow">Freitag, 13.03.2020</a>
+			<a href="programm/freitag.php">Freitag, 13.03.2020</a>
 		</li>
 		<li>
 			<a href="" target="_blank" rel="noopener nofollow">OSM Samstag, 14.03.2020</a>
 		</li>
-		<li>
+		<!--<li>
 			<a href="" target="_blank" rel="noopener nofollow">Referenten</a>
-		</li>
+		</li>-->
 	</ul>
 
-	<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
+	<!--<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
 	<ul>
 		<li>
 			<a href=""  target="_blank" rel="noopener">Livestream der FOSSGIS-Konferenz</a>
 		</li>
-	</ul>
+	</ul>-->
 
 	<!-- <p>Die Vorträge der FOSSGIS-Konferenz wurden aufgezeichnet, eine Übersicht finden Sie hier:</p>
 	<ul>
