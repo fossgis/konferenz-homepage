@@ -288,12 +288,18 @@ p.highlight {
 
 /* Programm */
 table.program-table,
-table.program-table th,
+/*table.program-table thead,*/
 table.program-table td {
 	border-width: 1px 1px 1px 1px;
 	border-color: #444;
-	border-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
 	border-collapse: collapse;
+}
+
+table.program-table thead td,
+table.program-table td.program-time {
+	border-style: none;
 }
 
 table.program-table thead td,
@@ -301,6 +307,16 @@ table.program-table td.program-time {
 	background-color: #eb7f00;
 	color: white;
 	font-weight: bold;
+}
+
+table.program-table thead td {
+	text-align: center;
+}
+
+table.program-table td.program-break {
+	background-color: #ddd;
+	font-style: italic;
+	padding-left: 20px;
 }
 
 table.program-table td {
@@ -314,7 +330,7 @@ span.session-title {
 }
 
 span.session-speakers {
-	font-style: italic;
+	font-size: 90%;
 }
 
 img.program-no-recording {
@@ -339,4 +355,9 @@ h2.abstract-title {
 img.abstract-novideo-img {
 	display: inline;
 	vertical-align: middle;
+}
+
+.abstract-is-workshop {
+	font-size: 80%;
+	line-height: initial;
 }
