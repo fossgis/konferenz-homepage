@@ -45,12 +45,7 @@
 
                             <td></td>
                             <td></td>
-                            <td rowspan="2" id="session_VCJD7E">
-        <a class="session-title" href="sessions/VCJD7E.php">GeoPython mit dem Jupyter Notebook - Rasterdaten</a>
-        <br><span class="session-speakers">Christian Strobl
-    </span>
-</td>
-
+                            <td></td>
                             <td rowspan="2" id="session_G7ZZ3Z">
         <a class="session-title" href="sessions/G7ZZ3Z.php">INSPIRE &#34;instant&#34; 2.x</a>
         <br><span class="session-speakers">Armin Retterath
@@ -70,13 +65,13 @@
 
                             <td></td>
                             <td></td>
-                            
+                            <td></td>
                             
                             <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:00</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Mittagspause</td>
+                        <td colspan="7" class="program-break">Mittagspause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">13:00</td>
@@ -125,7 +120,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">14:30</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
@@ -141,12 +136,7 @@
     </span>
 </td>
 
-                            <td rowspan="1" id="session_YQGPNJ">
-        <a class="session-title" href="sessions/YQGPNJ.php">Weniger ist mehr - zur Auswahl darzustellender Elemente in der digitalen Kartographie</a>
-        <br><span class="session-speakers">Christoph Hormann
-    </span>
-</td>
-
+                            <td></td>
                             <td></td>
                             <td rowspan="3" id="session_RERSW7">
         <a class="session-title" href="sessions/RERSW7.php">Grafische Prozessmodellierung mit QGIS</a>
@@ -201,12 +191,7 @@
 </td>
 
                             <td></td>
-                            <td rowspan="1" id="session_PRCPBP">
-        <a class="session-title" href="sessions/PRCPBP.php">Reliefdarstellung mit Höhenlinien</a>
-        <br><span class="session-speakers">Mathias Gröbe
-    </span>
-</td>
-
+                            <td></td>
                             <td></td>
                             
                             
@@ -214,7 +199,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">16:30</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">17:00</td>
@@ -243,12 +228,7 @@
     </span>
 </td>
 
-                            <td rowspan="3" id="session_EJSF9F">
-        <a class="session-title" href="sessions/EJSF9F.php">SQL für Fortgeschrittene</a>
-        <br><span class="session-speakers">Felix Kunde
-    </span>
-</td>
-
+                            <td></td>
                             <td rowspan="3" id="session_XQ7QNS">
         <a class="session-title" href="sessions/XQ7QNS.php">Einfacher Aufbau von Web-GIS-Anwendungen mit Mapbender</a>
         <br><span class="session-speakers">Jörg Thomsen
@@ -273,7 +253,7 @@
 
                             <td></td>
                             
-                            
+                            <td></td>
                             
                                                 </tr>
                                 <tr>
@@ -293,7 +273,7 @@
 
                             <td></td>
                             
-                            
+                            <td></td>
                             
                                                 </tr>
                                 <tr>
@@ -311,7 +291,7 @@
                             <td></td>
                             <td></td>
                                                 </tr>
-                                                                                                             </tbody>
+                                             </tbody>
         </table>
     
 

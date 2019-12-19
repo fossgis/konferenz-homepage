@@ -34,7 +34,7 @@
                     </tr>
             </thead>
             <tbody>
-                                                                <tr>
+                <tr>
                         <td class="program-time">08:00</td>
                         <td></td>
                             <td></td>
@@ -51,12 +51,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
-                        <td rowspan="1" id="session_HZ8XES">
-        <a class="session-title" href="sessions/HZ8XES.php">Hochverfügbare PostGIS-Cluster auf Kubernetes</a>
-        <br><span class="session-speakers">Felix Kunde
-    </span>
-</td>
-
+                        <td></td>
                             <td rowspan="1" id="session_TQYRU8">
         <a class="session-title" href="sessions/TQYRU8.php">Mobil in Herrenberg mit Digitransit und offenen Daten</a>
         <br><span class="session-speakers">Holger Bruch
@@ -141,7 +136,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:30</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">11:00</td>
@@ -176,12 +171,7 @@
     </span>
 </td>
 
-                            <td rowspan="3" id="session_DMVYS9">
-        <a class="session-title" href="sessions/DMVYS9.php">Bessere Höhenlinien aus Geländemodelle erstellen</a>
-        <br><span class="session-speakers">Mathias Gröbe
-    </span>
-</td>
-
+                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
@@ -201,7 +191,7 @@
                             <td></td>
                             
                             
-                            
+                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:00</td>
@@ -226,11 +216,11 @@
                             <td></td>
                             
                             
-                            
+                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:30</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Mittagspause</td>
+                        <td colspan="7" class="program-break">Mittagspause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">13:30</td>
@@ -264,7 +254,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:30</td>

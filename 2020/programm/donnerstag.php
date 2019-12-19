@@ -34,7 +34,7 @@
                     </tr>
             </thead>
             <tbody>
-                                <tr>
+                <tr>
                         <td class="program-time">07:00</td>
                         <td></td>
                             <td></td>
@@ -111,12 +111,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:00</td>
-                        <td rowspan="1" id="session_DKTG8X">
-        <a class="session-title" href="sessions/DKTG8X.php">Vektorverschneidung mit QGIS</a>
-        <br><span class="session-speakers">Marco Hugentobler
-    </span>
-</td>
-
+                        <td></td>
                             <td rowspan="1" id="session_PHJ8VG">
     <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/PHJ8VG.php">Offene Smart Farming Produkte aus offenen Satellitendaten</a>
         <br><span class="session-speakers">Sven Bingert
@@ -136,7 +131,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:30</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">11:00</td>
@@ -159,12 +154,7 @@
 </td>
 
                             <td></td>
-                            <td rowspan="3" id="session_T3MNRR">
-        <a class="session-title" href="sessions/T3MNRR.php">Micro-Service Geo-Daten-Infrastrukturen mit Docker</a>
-        <br><span class="session-speakers">Stephan Herritsch, Arne Schubert
-    </span>
-</td>
-
+                            <td></td>
                             <td rowspan="3" id="session_CKSRYB">
         <a class="session-title" href="sessions/CKSRYB.php">QGIS - Fortgeschrittene Datenvisualisierung mit Live-Layer-Effekten und Mischodi</a>
         <br><span class="session-speakers">Stefan Giese
@@ -180,26 +170,16 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
-                        <td rowspan="1" id="session_WTKV7Y">
-        <a class="session-title" href="sessions/WTKV7Y.php">Freie Geodaten der Umweltverwaltung Bayern - Hintergründe und einfache Anwendungsbeispiele</a>
-        <br><span class="session-speakers">Christian Strobl
-    </span>
-</td>
-
+                        <td></td>
                             <td rowspan="1" id="session_HQD7NN">
         <a class="session-title" href="sessions/HQD7NN.php">Der neue OGC API Standard ist da!</a>
         <br><span class="session-speakers">Pirmin Kalberer
     </span>
 </td>
 
-                            <td rowspan="1" id="session_BJSHXE">
-    <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/BJSHXE.php">Entwicklung des Berliner Radverkehrs anhand von öffentlich gemachten Verkehrszähldaten</a>
-        <br><span class="session-speakers">Simon Metzler
-    </span>
-</td>
-
                             <td></td>
-                            
+                            <td></td>
+                            <td></td>
                             
                             
                                                 </tr>
@@ -224,13 +204,13 @@
 </td>
 
                             <td></td>
-                            
+                            <td></td>
                             
                             
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:30</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Mittagspause</td>
+                        <td colspan="7" class="program-break">Mittagspause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">13:30</td>
@@ -240,18 +220,8 @@
     </span>
 </td>
 
-                            <td rowspan="1" id="session_NHUAP9">
-        <a class="session-title" href="sessions/NHUAP9.php">Schneller, besser, leichter - PostGIS 3</a>
-        <br><span class="session-speakers">Felix Kunde
-    </span>
-</td>
-
-                            <td rowspan="1" id="session_BYJJNM">
-        <a class="session-title" href="sessions/BYJJNM.php">Geoprocessing mit OpenCaching</a>
-        <br><span class="session-speakers">Matthias Hinz
-    </span>
-</td>
-
+                            <td></td>
+                            <td></td>
                             <td></td>
                             <td rowspan="5" id="session_YKAGHX">
         <a class="session-title" href="sessions/YKAGHX.php">GeoStyler - Eine UI für alle* Stile</a>
@@ -269,12 +239,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">14:00</td>
-                        <td rowspan="1" id="session_VDPQS7">
-        <a class="session-title" href="sessions/VDPQS7.php">TEAM Engine: Vorstellung der neusten Tests für OGC Standards wie OGC API - Features oder GeoTIFF</a>
-        <br><span class="session-speakers">Dirk Stenger
-    </span>
-</td>
-
+                        <td></td>
                             <td rowspan="1" id="session_ZP3JZZ">
         <a class="session-title" href="sessions/ZP3JZZ.php">Verbindungen schaffen mit PostgreSQL Foreign Data Wrappern</a>
         <br><span class="session-speakers">Astrid Emde
@@ -349,7 +314,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
-                        <td colspan="7" class="fill-darken0 scheduleBreak">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:30</td>
@@ -466,7 +431,7 @@
                             <td></td>
                             <td></td>
                                                 </tr>
-                                                                             </tbody>
+                                             </tbody>
         </table>
     
 
