@@ -102,6 +102,12 @@
 				<img src="./img/s/104_regioDATA_CMYK_300dpi.png" alt="regioDATA">
 			</a>
 		</li>
+		<li class="tile silver">
+			<a href="https://kuestenschmiede.de" target="_blank">
+				<img src="./img/s/105_kuestenschmiede.png" alt="Küstenschmiede">
+			</a>
+		</li>
+
 
 	</ul>
 
