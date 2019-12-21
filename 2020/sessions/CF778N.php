@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Jan Suleiman, Carmen Tawalika</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
 
             
             <p>Actinia (https://actinia.mundialis.de) ist eine Open-Source-REST-API für die skalierbare, verteilte, leistungsstarke Verarbeitung von Geodaten, die intern hauptsächlich GRASS GIS für Rechenaufgaben verwendet. Die Kernfunktionalität umfasst die Verarbeitung von Einzel- und Zeitreihen von Satellitenbildern, von Raster- und Vektordaten. Mit den bestehenden (z.B. Landsat) und in den letzten Jahren neu entstehenden (Copernicus Sentinel) großen Geodatenpools, die Tag für Tag wachsen, soll actinia dem Paradigma folgen, Algorithmen zu den Clouddaten zu bringen. Actinia ist seit 2019 ein OSGeo Community Projekt.</p>

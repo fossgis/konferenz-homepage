@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Falk Zscheile</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
 
             
             <p>Die Open Database License (ODbL) ist die für OpenStreetMap-Daten verwendete Lizenz. Der Workshop gibt eine Einführung in die Funktionsweise von Lizenzen und einen Überblick über die wichtigsten Lizenzbestimmungen der ODbL. Besprochen werden die Möglichkeit zur Trennung von Daten und Datenprodukten (Produced Work), die Anforderungen an die Quellenangabe (Attribution) sowie die Share Alike Klausel (Copy Left). </p>
