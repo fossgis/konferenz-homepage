@@ -91,8 +91,7 @@
                                 <tr>
                         <td class="program-time">13:30</td>
                         <td rowspan="1" id="session_TNKAUM">
-        <a class="session-title" href="sessions/TNKAUM.php">Grußwort</a>
-        <br><span class="session-speakers">FOSSGIS Konferenz
+        <span class="session-title">Grußwort</span>    <br><span class="session-speakers">FOSSGIS Konferenz
     </span>
 </td>
 
@@ -106,8 +105,7 @@
                                 <tr>
                         <td class="program-time">13:45</td>
                         <td rowspan="1" id="session_HEE3SU">
-        <a class="session-title" href="sessions/HEE3SU.php">Wie man offene Geodaten bekommt, jetzt! Meine Erfahrung in Luxemburg, in der EU und ausserhalb.</a>
-        <br><span class="session-speakers">Guillaume Rischard
+        <span class="session-title">Wie man offene Geodaten bekommt, jetzt! Meine Erfahrung in Luxemburg, in der EU und ausserhalb.</span>    <br><span class="session-speakers">Guillaume Rischard
     </span>
 </td>
 
