@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Stefan Ziegler</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             <p class='abstract-novideo'><img class="abstract-novideo-img" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung"> Dieser Programmbeitrag wird nicht aufgezeichnet.</p>
             <p>Der Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) ist ein zuverlässiges, offizielle Informationssystem für die 17 wichtigsten öffentlich-rechtlichen Eigentumsbeschränkungen. Die Schweiz führt diesen als eines der ersten Länder der Welt ein.</p>

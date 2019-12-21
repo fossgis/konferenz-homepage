@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Astrid Emde</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Das Desktop GIS QGIS bietet zahlreiche Möglichkeiten für den Umgang mit Vektor-, Rasterdaten und Diensten.</p>

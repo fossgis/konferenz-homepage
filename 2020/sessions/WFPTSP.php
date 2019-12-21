@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Marco Lechner</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 06:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>Rahmenprogramm</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 07:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>Rahmenprogramm</p>
 
             
             <p>Um richtig in Schwung zu kommen, werden wir in 3 verschiedenen Runden zu je 30 Minuten laufend die sonnigste Stadt Deutschlands und den Schwarzwaldrand erkunden. Je nach Laufniveau gibt es die Möglichkeit früher oder später ein- bzw. auszusteigen. So beginnen wir vor dem Haupteingang des Veranstaltungsortes und laufen in 3 Schleifen durch Freiburg, so dass wir jeweils um 07:30, 08:00 sowie abschließend um 08:30 am Haupteingang vorbei bzw. ankommen.

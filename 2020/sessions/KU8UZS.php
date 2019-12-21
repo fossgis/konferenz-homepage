@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Michael Schulz, Torsten Friebe</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Die Stadt Freiburg hat sich Ende 2018 auf den Weg gemacht, die digitale Bauleitplanung für Bebauungsplanverfahren auf die Verwendung des XÖV Standards XPlanung umzustellen, sowie das aktuelle Planungsrecht XPlannung-konform nach zu erfassen. Die Bereitstellung der erfassten Daten soll wiederum über OGC-Dienste unter Einbindung in ein zentrales Austausch- und Validierungsportal durchgeführt werden.</p>

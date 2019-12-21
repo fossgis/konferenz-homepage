@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Hanna Krüger</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Der FOSSGIS e.V. dürfte dem meisten als der Veranstalter dieser Konferenz bekannt sein. Aber ist das wirklich alles, dass das Vereinsleben bestimmt? Was ist das Ziel des Vereins? Wer sind die Akteure im Verein und wie organisiert er sich? 

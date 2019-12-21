@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Sven Bingert</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             <p class='abstract-novideo'><img class="abstract-novideo-img" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung"> Dieser Programmbeitrag wird nicht aufgezeichnet.</p>
             <p>Das Projekt <a href="https://open-forecast.eu/">Open Forecast</a> entwickelt eine generische Infrastruktur zur Verarbeitung offener Daten auf High-Perfomance-Computing-Systemen (HPC). Diese Infrastruktur wird anhand zweier Anwendungsfälle aufgebaut. Der erste Anwendungsfall untersucht die Möglichkeit, eine Vorhersage zur Feinstaubbelastung im Großraum Stuttgart zu berechnen. Die offenen Daten des Citizen-Science Projekts "luftdaten.info" sollen dabei zur Evaluierung des Modells herangezogen werden. Das Feinstaubmodell selbst basiert auf einem 3D Klimamodell mit großskaligen Wetterdaten als Eingabewerten sowie einem Geländemodell als untere Randbedingung. Aktuell untersucht wird die Einbeziehung von weiteren Feinstaubquellen, die beispielsweise aus Verkehrsdaten gewonnen werden.</p>

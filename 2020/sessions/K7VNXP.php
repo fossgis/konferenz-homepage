@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Michel Peltriaux</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Als Herzstück einer jeden Geodateninfrastruktur sollte eine Service Registry - eine „Diensteregistrierungskomponente“ - stehen. Die Anforderungen an eine solche Registrierungskomponente sind vielfältig und mitunter aufgrund komplexer technischer Zusammenhänge nicht im Handumdrehen umzusetzen. Hierzu zählen u.a. die Registrierung von Web Map Services oder Web Feature Services in den jeweiligen technischen Standard, die Zugänglichkeit dieser für Außenstehende, Anforderungen an die Zugriffsbeschränkung ausgewählter Dienste oder einzelner Subelemente wie bspw. Layer, eine Gruppen- und Nutzerverwaltung, usw.

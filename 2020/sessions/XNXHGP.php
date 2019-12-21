@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Mirko Blinn</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 08:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>In den vergangenen Jahren hat die öffentliche Verfügbarkeit von vektorbasierten Geodaten stark zugenommen. Diese Daten decken unterschiedlichste Themengebiete in verschiedensten räumlichen und zeitlichen Auflösungen ab. 

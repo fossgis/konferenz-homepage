@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Michael Kahle</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Das für jeden zugängliche (und erweiterbare) Webportal www.tambora.org bietet über 250000 zeitlich differenzierbare und räumlich verortete Ereignisse. Im mitteleuropäischen Bereich finden sich für die letzten tausend Jahre Einträge zu den Themen Klima (beispielsweise Hitze, Kälte, Niederschlag, ...), Phenologie (etwa Erntequalität, -quantität und -zeitpunkt) und sozioökonomische Auswirkungen (Preisentwicklungen, Hunger, Aufstände, ...).</p>

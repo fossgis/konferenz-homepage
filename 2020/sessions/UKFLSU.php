@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Leoni Möske</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Das Volunteered Geographic Information-Projekt OpenStreetMap (OSM) stellt aktuelle, global und frei zur Verfügung stehende Geodatensätze bereit. Diese Datensätze werden für verschiedene Anwendungen verwendet und sind eine alternative Datenquelle zu amtlichen Daten oder Fernerkundungsdaten (wie Satellitenbilder). Ein großer Nachteil der OSM-Daten besteht in der heterogenen Datenqualität. Beispielsweise ist die Validität der OSM-Gebäudedaten für eine Verwendung in einer Expositionsabschätzung bei einem Hochwasser (= Abschätzung betroffener Gebäude und Personen) fragwürdig. Für diese Daten existiert keine stabile und standardisierte Qualitätsbewertungsmethode. Daher bedarf es eigener Qualitätsbewertungsmethoden.</p>

@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Jakob Miksch</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p><strong>GDAL/OGR</strong> ist eine Programm-Bibliothek die verschiedene <a href="https://gdal.org/drivers/vector/index.html">Vektor-</a> und <a href="https://gdal.org/drivers/raster/index.html">Rasterformate</a> lesen und schreiben kann. Sie ist in C/C++ geschrieben, allerdings kann man auch mit anderen Programmiersprachen wie Python oder R darauf zugreifen. Es gibt zahlreiche Programme für die <strong>Kommandozeile</strong> die in diesem Vortrag vorgestellt werden. Behandelt werden unter anderem folgende Themen:</p>

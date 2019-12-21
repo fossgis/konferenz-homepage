@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Thomas Baumann</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Seit Anfang 2016 habe ich bei einem mittelständischen Unternehmen QGIS als professionelles GIS mit Schwerpunkt Planung im Bereich des Breitbandausbaus eingeführt.</p>

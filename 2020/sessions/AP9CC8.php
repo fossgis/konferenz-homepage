@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Karsten Prehn</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 08:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Mit seiner stetig wachsenden Community, hat sich OpenStreetMap (OSM) zu einem nützlichen Werkzeug für eine große Bandbreite an Verwendungszwecken entwickelt; darunter humanitäre Einsätze oder wissenschaftliche Anwendungen. Die stetig wachsende von Menschen gebaute Außenwelt lässt es unmöglich erscheinen, jemals einen Zeitpunkt festzumachen, an dem man sagen könnte, daß OSM fertig gestellt sein wird. Aber wir können uns einen undefinierten Punkt in der Zukunft vorstellen, an dem alle von Menschen auf der Erde erbauten Strukturen (features) kartographisch erfasst sind (Mapping); selbst, wenn ein Update des Vorhandenen an einem Folgemoment benötigt wird. Das Verständnis, wie nah OSM dieser Zukunft momentan ist, d.h. wie nah wir einer möglichen Komplettierung (completeness) sind, sowie das Verständnis, inwieweit die reale Welt durch die Karte repräsentiert wird, sind für diejenigen, die mit den jeweiligen Daten arbeiten, entscheidend zur Einschätzung, wie verwertbar diese Daten in der Gegenwart  für ihre Arbeit sind.</p>

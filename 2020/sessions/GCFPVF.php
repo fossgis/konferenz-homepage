@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Robert Klemm, Michael Spreng</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:35 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:35 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Der Dienst routing.openstreetmap.de startete im 2018 als öffentlicher routing server auf OSRM Basis. Das Ziel: Routing auf openstreetmap.org auf Basis von OSRM anzubieten, mit einem Profil, dass von er community weiter verfeinert wird. Wir stellen vor, wie sich der dienst unterdessen entwickelt hat und wie er genutzt wird.</p>

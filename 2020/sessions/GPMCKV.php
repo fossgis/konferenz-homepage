@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Pirmin Kalberer</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Die Visualisierung des neuen Vogelatlas der Schweizer Vogelwarte zeigt bis zu sechs thematische Karten für über 400 Vogelarten. Dichte, Verteilung, Sichtungen und deren Entwicklung werden in thematischen Karten dargestellt. Dazu kommen 3D-Darstellungen, Vergleichsfunktionen, Einstellungen von Zeitperioden und weitere Funktionen.

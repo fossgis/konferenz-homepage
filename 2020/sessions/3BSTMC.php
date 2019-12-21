@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Thomas Skowron</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Damit man nicht mehr Dinge im Wiki bearbeiten oder wiederfinden muss, gibt es jetzt den OSM Kalender. In dem Lightningtalk wird gezeigt, was OSMCAL ist, wie es funktioniert und wie man eigene Veranstaltungen hinzufügt.</p>

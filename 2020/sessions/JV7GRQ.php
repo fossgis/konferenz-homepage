@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Wolfgang Hinsch</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Programme zur Kartenerstellung arbeiten mit sogenannten Koordinatenbezugssystemen (KBS), entweder explizit wie QGIS, das in der Lage ist, Layer mit unterschiedlichen KBS zur Laufzeit in ein Projekt-KBS umzurechnen, oder implizit wie viele Programme, die einfach die vorgegebenen x- und y-Werte als Koordinatensystem benutzen. In diesem Vortrag wird aufgezeigt, was notwendig und möglich ist, damit die runde Erdoberfläche auf einer ebenen Oberfläche wie einer Landkarte oder einem Bildschirm dargestellt werden kann. Über Begriffe wie Referenzellipsoid und Geoid wird auch auf die Höhenbestimmung eingegangen.

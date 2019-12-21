@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Lars Lingner, Christopher Lorenz</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Ein Einblick in die Community-Arbeit von zwei engagierten OSM- und FOSSGIS-Mitgliedern. Es wird aufgezeigt, welche Aktivitäten in der Berliner Community satt fanden bzw. sich in Planung befinden. Dabei wird dargestellt, welche Schwierigkeiten es gibt. Warum ist es wichtig nie aufzugeben, sollte etwas nicht gleich so funktionieren wie geplant. Es werden auch Wege gezeigt wie man nicht nur aktive sondern auch interessierte erreicht. Neben dem Einblick den wir geben, möchten wir auch sehr gerne Feedback und Meinungen einsammeln. </p>

@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Michael Reichert</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Bei bestimmten Featureklassen ist auch in der automatisierten Kartographie die Trennung von wichtigen und weniger wichtigen Features von Bedeutung, gerade dann, wenn in kleineren Maßstäben der Platz knapp wird oder die Karte nicht überfrachtet werden soll. Das gilt auch für Kartenstile, mit denen aus OpenStreetMap-Daten Karten gerendert werden. Dabei macht die Art und Weise, wie OpenStreetMap-Daten erfasst werden, es dem Kartographen manchmal nicht gerade leicht, nur die wichtigen Features einer Featureklasse darzustellen. Für manche Features existieren in OpenStreetMap Tag, die die Bedeutung entweder direkt angeben oder mithilfe derer die Bedeutung recht einfach ermittelt werden kann. Bei manchen ist die Auswertung der Relevanzinformationen einfach, bei manchen ist sie anspruchsvoll. Straßen und Siedlungen sind ein Beispiel für ersteres, wobei es selbst bei Siedlungen noch mehrer Möglichkeiten gibt, die Relevanz zu bestimmen. Bei Gipfeln ist die Bestimmung der Dominanz etwas aufwendiger.</p>

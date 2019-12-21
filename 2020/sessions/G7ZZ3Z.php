@@ -23,22 +23,22 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Armin Retterath</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
             
             <p>Im Rahmen des Workshops wird den Teilnehmern vermittelt, wie man mit Hilfe des vollständig auf FOSS-basierten GeoPortal.rlp eine INSPIRE-kompatible GDI aufbauen kann. Die Geoportal-Lösung steht hierzu in Form eines ISO-Images (debian 9) auf einem USB-Stick zur Verfügung. Alternativ gibt es auch ein Script, mit dessen Hilfe sich das Portal innerhalb von 5 Minuten auf einem debian 9 System installieren läßt.
 Die Teilnehmer lernen dabei die Anforderungen der EU INSPIRE-Richtlinie an Dienste und Metadaten kennen und erhalten einen Einblick in die Funktionalitäten des GeoPortal.rlp.
 Insbesondere wird auf folgende Module anhand praktischer Beispiele erläutert:
-<em> OWS Registry
-</em> Metadatencache
-<em> OWS Monitoring
-</em> Erzeugung dynamischer Service-Metadaten
-<em> OWS Proxy
-</em> OGC API - Features Proxy
-<em> Metadatensuche über REST-API
-</em> verteilte Metadatensuche in externen Katalogen (Deuschland und INSPIRE)
-<em> Metadateneditor
-</em> CKAN-Schnittstelle (OpenData)
+* OWS Registry
+* Metadatencache
+* OWS Monitoring
+* Erzeugung dynamischer Service-Metadaten
+* OWS Proxy
+* OGC API - Features Proxy
+* Metadatensuche über REST-API
+* verteilte Metadatensuche in externen Katalogen (Deuschland und INSPIRE)
+* Metadateneditor
+* CKAN-Schnittstelle (OpenData)
 * Synthetisierung von INSPIRE-Downloaddiensten auf Basis von ATOM-Feeds</p>
         </section>
 

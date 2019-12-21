@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Thomas Graichen, Dr Julia Richter</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 08:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <h1>Einleitung und Hintergrund</h1>

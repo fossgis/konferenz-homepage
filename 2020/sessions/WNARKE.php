@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Dirk Stenger, Torsten Friebe</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Das OSGeo-Projekt deegree stellt seit mehreren Jahren umfassende Referenzimplementierungen für OGC-Webservices wie z.B. WFS, WMS und WMTS bereit. Wenn es um den Aufbau von Geodateninfrastrukturen geht, dann können Geodaten in unterschiedlichen Formaten mit den deegree OGC-Webservices publiziert werden.</p>

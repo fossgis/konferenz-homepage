@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Patrick Brosi</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Wir stellen ein Tool (staty) vor, das aus ÖV-Stationsdaten in OSM Tupel von Stationsnamen und -koordinaten extrahiert. Die in OSM bereits als gruppiert markierten Stationen werden als ground truth verwendet und damit ein Klassifikator trainiert, der entscheiden kann, ob zwei Name/Koordinate Tupel dieselbe Station beschreiben. Die Hauptschwierigkeit liegt darin, dass dieselben Stationen teilweis deutlich voneinander abweichende Bezeichnungen haben können (z.B. "Hbf" vs. "Freiburg im Breisgau, Hauptbahnhof"), dass z.B. Ortsnamen für die Ähnlichkeit zweier Stationen irrelevant sind, wenn sie nah beieinander liegen, oder dass die mittlere Distanz von z.B. Haltepunkten derselben Stationen abhängig ist von der Art der Stationen. Z.B. wird die mittlere paarweise Distanz zwischen Haltepunkten in einer Station "Hauptbahnhof" üblicherweise deutlich größer sein als in einer Station "Dorfstraße".</p>

@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Toni Erdmann</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Die Webseite von PTNA - Public Transport Network Analysis wird vorgestellt (https://ptna.openstreetmap.de).

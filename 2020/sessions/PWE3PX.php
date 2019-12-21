@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Robert Danziger</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Mit dem Ziel weitere Projekte dieser Art in Deutschland -- oder anderswo -- anzuregen,  wird die Präsentation vor allem beschreiben, was überhaupt gemacht wird, wie alles organisiert ist und wie die Teilnehmenden es beurteilen. Bis Ende 2019 wurden 20 Mapathons veranstaltet. U.a. hat dieser Erfolg dazu geführt, dass CartONG ein sehr ähnliches Projekt 2018-2019 in Frankreich durchführte. Momentan wird über einen Antrag zur Erweiterung der Projektidee auf europäischer Ebene diskutiert.</p>

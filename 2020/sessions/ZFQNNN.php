@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Peter Heidelbach</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>ArcGis speichert seine Projekte in einer binären MXD-Datei, die nicht ohne weiteres von QGIS gelesen werden kann. Um seine Projekte trotzdem auch unter QGIS bearbeiten zu können, gibt es verschiedene Ansätze aus der OpenSource-Community: Slyr ist ein von der australischen Firma North Road entwickeltes QGIS-Plugin, welches den Import von ArcGis Projekten ermöglicht. Per Drag-and-Drop können ArcGis-Dateien direkt in QGIS eingefügt werden. Die Binärdaten werden per Reverse-Engineering ausgelesen und nutzbar gemacht. Das Tool befindet sich noch in der Entwicklungsphase, einzelne Funktionen stehen jedoch bereits zur Verfügung. </p>

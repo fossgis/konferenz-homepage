@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Falk Zscheile</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>In seiner Grundkonzeption geht das Urheberrecht davon aus, dass ein Werk auch eine stoffliche Einheit bildet. Das Gemälde befindet sich auf einer Leinwand, der Text auf einer Buchseite. Auf den ersten Blick ist dies auch in der digitalen Welt nicht anders. Text oder Grafik befinden sich in einer Datei, die dargestellt wird. Auf den zweiten Blick ist die Lage nicht mehr ganz so klar. Bei der Darstellung digitaler Inhalte ist immer auch Software beteiligt. Software genießt aber selbst ebenfalls Urheberrechtsschutz. Datenbanken mit geographischen Informationen und Darstellungeregeln für den Renderer können ebenfalls durchs Urheberrechtsgesetz geschützt sein. Wenn etwas durch das Urheberrechtsgesetz geschützt ist, dann ist eine Nutzung nur unter Berücksichtigung der jeweiligen Lizenz/Nutzungsbedingung möglich. Doch welche Lizenz setzt sich am Ende durch, wenn mehrere Copyleftlizenzen für Software, Daten und Rendererregeln bei der Kartenherstellung aufeinander treffen? Der Vortrag gibt Antworten auf diese Frage ...</p>

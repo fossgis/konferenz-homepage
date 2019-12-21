@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>FOSSGIS Konferenz</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 13:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Eine feierliche Eröffnung der Konferenz durch Vertreter des FOSSGIS e.V. mit wertvollen Hinweisen zum Ablauf und der Organisation</p>

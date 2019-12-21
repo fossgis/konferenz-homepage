@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Joachim Kast</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Forstliche Rettungspunkte sind definierte Orte (meistens) im Wald, die mithilfe von Koordinatenangaben Treffpunkte beschreiben. Im Falle eines Unfalls können diese Treffpunkte bei der Kommunikation des Verunfallten bzw. eines Helfers mit dem Rettungsdienst genutzt werden, um das Auffinden des Unfallortes zu erleichtern. An diesen Orten sind in den meisten Bundesländern fest installierte Schilder mit einer Referenznummer angebracht. Diese Standorte werden in OSM seit mindestens 2008 als highway=emergency_access_point erfasst.</p>

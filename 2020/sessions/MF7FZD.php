@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Gunnar Ströer</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Der Aufbau kommunaler Geodateninfrastrukturen (GDI) wurde in den letzten Jahren, nicht zuletzt aufgrund der Betroffenheit durch die INSPIRE-Richtlinie, vorangetrieben. Dabei hat sich der Ansatz einer dienstorientierten Architektur (SOA) auf Basis der offenen Standards des OGC bewährt. Gleichzeitig weckt die zunehmende Digitalisierung kommunaler Verwaltungen den Bedarf an der Automatisierung auch komplexer und in verschiedenste Fachdisziplinen hineinreichende Prozessabläufe.</p>

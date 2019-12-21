@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Robert Klemm</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>In der Vergangenheit sind mehrere Routing-Lösungen unter der Open-Source-Lizenz entstanden, die auch in der OpenSource-Community weit verbreitet und im Einsatz sind. Ich möchte ein Lösungsansatz darstellen, wo über ein einheitliches Web-Frontend verschiedene Routing-Lösungen angesprochen und benutzt werden können. </p>

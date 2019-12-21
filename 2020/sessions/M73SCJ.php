@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Jan Suleiman, Christian Mayer</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>GeoStyler ist eine Open Source JavaScript-Bibliothek zur einfachen Erstellung von modernen

@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Claas Leiner</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
 
             
             <p>QGIS bietet über die Werkzeugkiste eine mächtige und umfangreiche Umgebung zur Geodatenverarbeitung, die auch Werkzeuge aus GRASS, GDAL/OGR sowie Saga einbindet und den Pendants aus der proprietärer Software-Welt in nichts nachsteht. Mit der grafischen Prozessmodellierung steht ein Werkzeug zur Automatisierung von Abläufen zur Verfügung, welches zugleich eine hervorragende Hilfe bei der Dokumentation und Prüfung wiederkehrender Abläufe in der Geodatenverarbeitung ist. Auch lassen sich Funktionen bauen, die es direkt in QGIS nicht gibt.

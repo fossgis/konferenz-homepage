@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>FOSSGIS Konferenz</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>Rahmenprogramm</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 19:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>Rahmenprogramm</p>
 
             
             <p>Die Abendveranstaltung "Schwätzli uffem Campus" oder auf Hochdeutsch "Der Fachliche Austausch im Institutsviertel" findet im direkt zentral im Institutsviertel, in dem auch die Konferenz verortet ist, statt. Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist aber erforderlich und bei Ticketbuchung, oder am Welcome Desk möglich.</p>

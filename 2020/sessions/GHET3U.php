@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Christian Mayer, Jakob Miksch</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Wegue [1] ist eine Software zum Erstellen von modernen leichtgewichtigen WebGIS-Client-Anwendungen. Die Basis dafür sind die beiden Open Source JavaScript-Frameworks OpenLayers [2] und Vue.js [3]. OpenLayers übernimmt dabei das Lesen und die Darstellung der Geoinformationen als Karte und die Prozessierung der Geo-Objekte. Vue.js wird für die Strukturierung des Projektcodes (nach MVVM) genutzt und erlaubt die Erzeugung von eigenen Web-Komponenten.</p>

@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Robert Klemm</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:05 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:05 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Der <a href="https://github.com/lyrk/lyrk-mapstyle">Lyrk-Mapstyle</a>  ist ein OpenStreetMap-Kartenstyle, der auf dem OSM-Bright Style aufsetzt. Seit 2016 wurde das Projekt gestartet,  wurde in den letzten Jahren in neuer Version veröffentlicht.</p>

@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Armin Retterath</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Das Geoportal des Landes Rheinland-Pfalz wurde im Januar 2007 freigeschaltet und basiert vollständig auf Freier Open Source Software. Die zugrundeliegende Architektur beruht - im Gegensatz zu vielen anderen GDI-Architekturen - auf dem Prinzip der Registrierung und Verwaltung von OGC-Diensten (OWS) in einer PostgreSQL-Datenbank. Aktuell beinhaltet das Informationsmodell in Rheinland-Pfalz mehr als 1.500 OWS und 18.000 Metaden von ca. 220 verschiedenen Organisationen. Die verteilten Dienste sind mittels des im Portal umgesetzten OWS-Proxy über persistente URLs in diverse externe Verwaltungsprozesse und Applikationen eingebunden. Außerdem werden über den Proxy viele der Anforderungen der EU INSPIRE-Richtlinie zentral umgesetzt (INSPIRE ATOM Feeds, INSPIRE Service Metadaten, OGC API - Feature Proxy, ...). 

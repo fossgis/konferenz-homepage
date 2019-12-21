@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Günter Wagner</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Die Anforderungen und Datenvoraussetzungen dieser kleinen Gemeinden (hier speziell in Südbaden) unterscheiden sich von größeren Städten / Strukturen. Warum benötigt eine kleine Gemeinde ein <strong>eigenes</strong> WebGIS und welche Daten stehen Ihr zur Verfügung?</p>

@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Jan Klein, Jelto Buurman</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 08:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Vorbereitung einer Großveranstaltung mit QGIS und QField

@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Johannes Kröger</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Das FOSSGIS-Jeopardy bietet als Fortsetzung der OSM-Quizze der Vorjahre wieder spannende Fragen zu (mehr oder weniger) wissenswerten Fakten und vor allem viel Spaß für jung und alt, alt und neu.</p>

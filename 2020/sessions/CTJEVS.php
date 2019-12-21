@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Andreas Hocevar, Marc Jansen</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>OpenLayers ist eine sehr bekannte und verbreitete Open-Source-JavaScript-Bibliothek, um interaktive Karten im Web aus verschiedenste Quellen mit reichhaltigen Interaktionsmöglichkeiten zu erstellen.</p>

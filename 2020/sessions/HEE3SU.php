@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>Guillaume Rischard</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 12:45 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 13:45 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Platzhalter um Platz zu halten Platzhalter um Platz zu halten Platzhalter um Platz zu halten Platzhalter um Platz zu halten</p>

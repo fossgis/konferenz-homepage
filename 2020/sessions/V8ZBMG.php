@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Sandro Mani</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>KADAS Albireo ist eine Desktop-GIS-Anwendung, die auf dem QGIS Kern aufbaut und verschiedene QGIS-Standardfunktionen sowie spezielle Erweiterungen in einer stark vereinfachten Benutzeroberfläche einem breiten Spektrum von Endnutzer zugänglich macht.</p>

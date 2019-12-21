@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Stefan Giese</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
             
             <p>QGIS bietet zur Layergestaltung neben den Standardsymbolen und Klassifizierungen zusätzlich die Möglichkeit Daten mit verschiedene Mischmodi und Effekte zu visualisieren. Hierbei kann zwischen Effekte auf Objektebene und Layerebene gewählt werden. In beiden Fällen kommt es zu Wechselwirkungen zwischen einzelnen Objekten eines Layers oder zwischen verschiedenen Kartenlayern. Über den Mischmodus können z.B. mehrere opake Ebenen gemischt werden, so dass Informationen aus an für sich undurchsichtigen Layern zusammen sichtbar wird. Effekte bieten die Möglichkeit bestimmte Objekte hervorzuheben und somit kartografische Visualisierungen zu erweitern. 

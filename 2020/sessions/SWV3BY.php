@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Andreas Hocevar, Christian Mayer, Marc Jansen</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
 
             
             <p>OpenLayers ist eine JavaScript Bibliothek, um webbasierte Kartenanwendungen zu erstellen. Hierbei stehen dem Entwickler vielfältige Funktionalitäten zur Verfügung; sowohl um Daten und Dienste verschiedener Quellen zu kombinieren, als auch um mit diesen zu interagieren.</p>

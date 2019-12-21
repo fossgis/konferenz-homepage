@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Pirmin Kalberer</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Was unter dem Arbeitsnamen WFS3 begann, hat sich zu einer kompletten Überarbeitung und Vereinheitlichtung diverser vorhandener OGC-Standards entwickelt. Neu war nicht nur der offene Prozess, sondern auch mehrere Umsetzungen bereits während der Entwurfsphase. Das Resultat namens "OGC API - Features - Part 1: Core" ist ein zeitgemässer und schlanker Standard, welcher zwar noch viele WFS 2 Funktionen vermissen lässt, aber dank der Erweiterbarkeit gute Chancen auf eine grosse Verbreitung hat.</p>

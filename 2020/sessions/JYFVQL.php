@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Langer OpenStreetMap-Vortrag</span> von                <span class='abstract-speakers'>Danijel Schorlemmer</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 13:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Erdbeben bedrohen viele Regionen dieser Welt mit steigendem Risiko aufgrund von Urbanisierung und Industrialisierung. Für Resilienz- und Vorsorgemaßnahmen ist ein genaues Verständnis dieses Risikos in bezug auf Menschen und Werte notwendig. Expositionsmodelle, die Lage, Größe und Typ von Gebäuden, die Anzahl der Bewohner nach Tageszeit und den Wiederbeschaffungswert beschreiben, übersetzen gemessene oder prognostizierte Erdbebenerschütterungen in Verluste von Leben und Werten. </p>

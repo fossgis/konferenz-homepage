@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Robert Klemm</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 08:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Das OpenMapTile-Projekt bietet zahlreiche Möglichkeiten für den Umgang mit Vektor- und Rasterdaten.</p>

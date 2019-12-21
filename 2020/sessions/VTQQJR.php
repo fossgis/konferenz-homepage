@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Marco Scheuble</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:05 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:05 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Mit den beiden Bibliotheken NodeJS-GeoServer-Connector und NodeJS-GeoWebCache-Connector hat die GEOINFO Applications AG zwei Bibliotheken entwickelt, die Anfang 2020 unter einer Open-Source-Lizenz veröffentlicht wurden. Die Node.js-Bibliotheken ermöglichen die Administration des GeoServers und des GeoWebCaches durch einfache Funktionsaufrufe aus Node.js basierten Applikationen heraus. Das aufwendige Erstellen und Parsen von XML-Dokumenten, sowie von HTTP-Requests und Responses fällt damit weg.</p>

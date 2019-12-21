@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Markus Neteler, Carmen Tawalika</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Ursprünglich GRaaS (GRASS as a Service) genannt, wurde actinia (https://actinia.mundialis.de) entwickelt, um die GRASS GIS Funktionalität über eine HTTPS REST API bereitzustellen. GRASS GIS Locations, Mapsets, Vektor- und Rasterdaten sowie raum-zeitliche Daten werden zu Ressourcen, die per REST verwaltet und visualisiert werden können. Mit den bestehenden (z.B. Landsat) und in den letzten Jahren neu entstehenden (Copernicus Sentinel) großen Geodatenpools, die Tag für Tag wachsen, soll actinia dem Paradigma folgen, Algorithmen zu den Clouddaten zu bringen. Actinia ermöglicht es, eine große Menge an Geoinformationen aufzubereiten, zu analysieren und bereitzustellen, ohne dass Kenntnisse der Daten, der Analyse, der geeigneten Software zur Automatisierung oder skalierbarer Hardware-Ressourcen erforderlich sind.

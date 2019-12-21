@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Holger Bruch</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 08:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Wie lassen sich Menschen zum Umstieg auf den Umweltverbund bewegen?

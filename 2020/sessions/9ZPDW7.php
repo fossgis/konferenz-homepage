@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Sven Geggus</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>POI-Karten aus Daten des Openstreetmap Projektes sind eigentlich eine häufige Anwendung. Um so erstaunlicher ist es, dass es bisher de facto keine verbreitete Vorgehensweise gibt ein kontinuierlich aktualisiertes Backend für solche Karten zu betreiben. Im Vortrag möchte ich deshalb eines vorstellen.</p>

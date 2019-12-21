@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Astrid Emde</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Über Foreign Data Wrapper (FDW) kann aus der Datenbank heraus eine Verbindung zu anderen Datenquellen aufgebaut werden. Dadurch ist es nicht mehr notwendig, dass alle Daten, die in einem Projekt innerhalb der PostgreSQL-Datenbank verwendet werden sollen, sich auch in der Datenbank befinden müssen.</p>

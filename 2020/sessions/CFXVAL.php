@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Sebastian Ratjens</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Im Rahmen des Projekts "Basisvisualisierung" erprobt das  LGLN neue Visualisierungsmöglichkeiten für amtliche Daten im Internet, optimiert für die Nutzung auf mobilen Endgeräten.</p>

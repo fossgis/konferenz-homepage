@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>pebau</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Datenwürfel ("datacubes") erlauben multi-dimensionale raum-zeitliche Rasterdaten einheitlich zu modellieren und über Web-Dienste anzubieten, insbesondere über die OGC Standards Web Coverage Service (WCS) und Web Coverage Processing Service (WCPS), welche beide z.B. in INSPIRE vorgesehen sind. Die rasdaman-Technologie ist das historisch erste Array-Datenbanksystem,  OGC WCS Referenzimplementierung, seit vielen Jahren auf OSGeo Live und seit 2019 auch OSGeo Community Project. 

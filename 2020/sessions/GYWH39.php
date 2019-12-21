@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Sarah Hoffmann</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 08:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Die OpenStreetMap-Software-Welt bietet eine reiche Auswahl an Tools, um

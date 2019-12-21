@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Christine Dolezich, Andreas Weckbecker</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Der digitale Stadtplan von Koblenz hat ein neues Kleid: den Online-Service „GeoPortal Koblenz“. Diese Web-Anwendung erweitert das eGovernment-Angebot der Stadt Koblenz und wurde mit dem Ziel einer zukünftigen INSPIRE-konformen Bereitstellung der städtischen Geodaten aufgebaut.</p>

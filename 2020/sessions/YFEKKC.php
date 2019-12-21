@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Marco Lechner</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Zu den Aufgabenbereichen des Bundesamtes für Strahlenschutz (BfS) gehört es, bei einem radiologischen Notfall, eigene und anderweitig verfügbare relevante Daten zu sammeln und zu erfassen, zu verarbeiten und zu bewerten sowie Dokumente zu erstellen, die die notwendigen Informationen enthalten, um den Krisenstab zu befähigen, über geeignete Maßnahmen des Notfallschutzes zu entscheiden. Der dabei eingesetzte Softwarestack wird unter der Bezeichnung IMIS (integriertes Mess- und Informationssystem) betrieben. Nach mehreren Jahren Entwicklungszeit wurde das bisherige proprietäre System (IMIS2) durch ein konsequent auf freien Komponenten und mit deutlicher Erweiterung um räumliche Funktionen und jetzt web-basierendes System ersetzt. Das neue IMIS3 wird von nun an bei der Bewältigung radiologischer Ereignisse und Notfälle vom radiologischen Lagezentrum des Bundes eingesetzt. Die bei der Neuentwicklung des IMIS3 konsequent eingesetzte OpenSource Strategie kombiniert mehrere OSGeo-Projekte und hat einerseits einigen Input in diese Projekte geliefert und andererseits weitere Projekte neu entstehen lassen, die vom BfS unter der GPL auf github.com veröffentlicht wurden. Diese offensive Vorgehensweise ist für ein Bundesamt wohl eher ungewöhnlich.

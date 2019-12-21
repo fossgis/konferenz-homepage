@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Sebastian M. Ernst</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:10 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:10 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Extending QGIS with Python plugins is an incredibly powerful tool. It basically provides access to the entire scientific stack of Python, which is currently seeing rapid development and extension. The limiting factor from a QGIS plugin author’s perspective is the lack of a clear path of defining Python dependencies. While Python packages have setup scripts including dependency definitions or at least requirements files, the corresponding metadata file for QGIS plugins is lacking comparable mechanisms. While it is absolutely possible make a QGIS plugin depend on an arbitrary Python package, its manual installation must be left as an exercise to a hopefully knowledgeable user in many cases. For non-technical users on Windows, plugin authors are therefore essentially limited to whatever is shipped with OSGeo4W at a given time. </p>

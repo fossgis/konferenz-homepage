@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Nils Riach, Rafael Hologa</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             <p class='abstract-novideo'><img class="abstract-novideo-img" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung"> Dieser Programmbeitrag wird nicht aufgezeichnet.</p>
             <p>Das enorme Potential von Geodaten, die durch Laien erfasst werden, wird u.a. in vielen Citizen Science Projekten dokumentiert. Auch in dieser Arbeit wird durch das Crowdsourcing von Geoinformationen zu Gefahren im Radverkehr in Freiburg im Breisgau beleuchtet, ob solche geographischen Bürgerinformationen einen Mehrwert liefern und Geofachdaten sinnvoll ergänzen können.</p>

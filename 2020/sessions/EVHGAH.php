@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Roman Härdi</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Was sind die Vorteile des (e-)Bike-Mapping? Wie kann man Objekte mit der Kamera am besten und schnellsten (während der Fahrt) erfassen und präzise georeferenzieren?

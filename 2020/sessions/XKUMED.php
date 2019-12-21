@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Thomas Beutin</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 08:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Zur Erstellung und ständigen Aktualisierung einer dynamischen Datenbank der Gefährdungsindikatoren von
