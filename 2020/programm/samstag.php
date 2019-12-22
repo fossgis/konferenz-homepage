@@ -23,8 +23,8 @@
             <table class="program-table">
             <thead>
                 <tr>
-                    <td></td>
-                    <td>HS Weismannhaus</td>
+                    <th></th>
+                    <th>HS Weismannhaus</th>
                     </tr>
             </thead>
             <tbody>
