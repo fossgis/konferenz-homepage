@@ -233,7 +233,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
-                        <td colspan="7" class="program-break">Kaffeepause</td>
+                        <td colspan="7" class="program-break">Kaffeepause/Sektempfang</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:30</td>
