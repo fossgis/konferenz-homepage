@@ -26,7 +26,6 @@
                     <td>HS Rundbau</td>
                     <td>HS Anatomie</td>
                     <td>HS Weismannhaus</td>
-                    <td>Rahmenprogramm <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-100 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-110 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-140 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
@@ -35,18 +34,8 @@
             <tbody>
                 <tr>
                         <td class="program-time">08:00</td>
-                        <td></td>
-                            <td></td>
-                            <td></td>
-                            <td rowspan="1" id="session_NBTG8B">
-        <a class="session-title" href="sessions/NBTG8B.php">Yoga &amp; Pilates</a>
-    <br><span class="session-speakers">Hanna Krüger</span>
-</td>
-
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                                                </tr>
+                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#yoga">Yoga und Pilates</a></td>
+                                            </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
                         <td rowspan="1" id="session_HZ8XES">
@@ -64,7 +53,6 @@
     <br><span class="session-speakers">Karsten Prehn</span>
 </td>
 
-                            <td></td>
                             <td rowspan="3" id="session_RUEZJ7">
         <a class="session-title" href="sessions/RUEZJ7.php">Einführung in die Verwaltung von Geodaten in der PostgreSQL Datenbank mit PostGIS</a>
     <br><span class="session-speakers">Astrid Emde</span>
@@ -98,7 +86,6 @@
     <br><span class="session-speakers">Thomas Beutin</span>
 </td>
 
-                            <td></td>
                             
                             
                             
@@ -120,14 +107,13 @@
     </span>
 </td>
 
-                            <td></td>
                             
                             
                             
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:30</td>
-                        <td colspan="7" class="program-break">Kaffeepause</td>
+                        <td colspan="6" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">11:00</td>
@@ -146,7 +132,6 @@
     <br><span class="session-speakers">Robert Danziger</span>
 </td>
 
-                            <td></td>
                             <td rowspan="3" id="session_URWELU">
         <a class="session-title" href="sessions/URWELU.php">QGIS Ausdruckskseditor und Geometrie-Generator</a>
     <br><span class="session-speakers">Stefan Giese</span>
@@ -172,7 +157,6 @@
     <br><span class="session-speakers">Christopher Lorenz, Lars Lingner</span>
 </td>
 
-                            <td></td>
                             
                             
                             <td></td>
@@ -194,14 +178,13 @@
     <br><span class="session-speakers">Joachim Kast</span>
 </td>
 
-                            <td></td>
                             
                             
                             <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:30</td>
-                        <td colspan="7" class="program-break">Mittagspause</td>
+                        <td colspan="6" class="program-break">Mittagspause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">13:30</td>
@@ -210,7 +193,6 @@
     <br><span class="session-speakers">Roman Härdi</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -229,11 +211,10 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
-                        <td colspan="7" class="program-break">Kaffeepause/Sektempfang</td>
+                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#sektempfang">Kaffeepause/Sektempfang</a></td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:30</td>
@@ -242,7 +223,6 @@
     <br><span class="session-speakers">Johannes Kröger</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>

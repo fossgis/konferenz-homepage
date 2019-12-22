@@ -26,7 +26,6 @@
                     <td>HS Rundbau</td>
                     <td>HS Anatomie</td>
                     <td>HS Weismannhaus</td>
-                    <td>Rahmenprogramm <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-100 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-110 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-140 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
@@ -41,7 +40,6 @@
     <br><span class="session-speakers">Wolfgang Hinsch</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td></td>
                             <td rowspan="2" id="session_G7ZZ3Z">
@@ -61,13 +59,12 @@
 
                             <td></td>
                             <td></td>
-                            <td></td>
                             
                             <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:00</td>
-                        <td colspan="7" class="program-break">Mittagspause</td>
+                        <td colspan="6" class="program-break">Mittagspause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">13:00</td>
@@ -76,7 +73,6 @@
     <br><span class="session-speakers">FOSSGIS Konferenz</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -94,7 +90,6 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">13:45</td>
@@ -107,11 +102,10 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">14:30</td>
-                        <td colspan="7" class="program-break">Kaffeepause</td>
+                        <td colspan="6" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
@@ -125,7 +119,6 @@
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td rowspan="3" id="session_RERSW7">
         <a class="session-title" href="sessions/RERSW7.php">Grafische Prozessmodellierung mit QGIS</a>
@@ -160,7 +153,6 @@
     <br><span class="session-speakers">Michael Reichert</span>
 </td>
 
-                            <td></td>
                             
                             
                             
@@ -174,14 +166,13 @@
 
                             <td></td>
                             <td></td>
-                            <td></td>
                             
                             
                             
                                                 </tr>
                                 <tr>
                         <td class="program-time">16:30</td>
-                        <td colspan="7" class="program-break">Kaffeepause</td>
+                        <td colspan="6" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">17:00</td>
@@ -200,7 +191,6 @@
     <br><span class="session-speakers">Andreas Weckbecker, Christine Dolezich</span>
 </td>
 
-                            <td></td>
                             <td rowspan="3" id="session_MB9ZLH">
         <a class="session-title" href="sessions/MB9ZLH.php">QGIS 3 Einsteiger Workshop</a>
     <br><span class="session-speakers">Otto Dassau, Tristan</span>
@@ -230,7 +220,6 @@
     <br><span class="session-speakers">Stefan Ziegler</span>
 </td>
 
-                            <td></td>
                             
                             
                             
@@ -248,25 +237,14 @@
     <br><span class="session-speakers">Armin Retterath</span>
 </td>
 
-                            <td></td>
                             
                             
                             
                                                 </tr>
                                 <tr>
                         <td class="program-time">19:00</td>
-                        <td></td>
-                            <td></td>
-                            <td></td>
-                            <td rowspan="1" id="session_K9TZSM">
-        <a class="session-title" href="sessions/K9TZSM.php">Schwätzli uffem Campus</a>
-    <br><span class="session-speakers">FOSSGIS Konferenz</span>
-</td>
-
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                                                </tr>
+                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#schwaetzli">Schwätzli uffem Campus (Mensa)</a></td>
+                                            </tr>
                                              </tbody>
         </table>
     

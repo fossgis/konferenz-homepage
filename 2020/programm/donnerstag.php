@@ -26,7 +26,6 @@
                     <td>HS Rundbau</td>
                     <td>HS Anatomie</td>
                     <td>HS Weismannhaus</td>
-                    <td>Rahmenprogramm <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-100 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-110 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
                     <td>SR R-140 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></td>
@@ -35,18 +34,8 @@
             <tbody>
                 <tr>
                         <td class="program-time">07:00</td>
-                        <td></td>
-                            <td></td>
-                            <td></td>
-                            <td rowspan="1" id="session_WFPTSP">
-        <a class="session-title" href="sessions/WFPTSP.php">Sportliche Stadtführung</a>
-    <br><span class="session-speakers">Marco Lechner</span>
-</td>
-
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                                                </tr>
+                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#sportliche_stadtfuehrung">Sportliche Stadtführung</a></td>
+                                            </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
                         <td rowspan="1" id="session_KS3NDA">
@@ -64,7 +53,6 @@
     <br><span class="session-speakers">Sarah Hoffmann</span>
 </td>
 
-                            <td></td>
                             <td rowspan="3" id="session_HFMLCC">
         <a class="session-title" href="sessions/HFMLCC.php">QGIS Basics für Anfänger und Umsteiger</a>
     <br><span class="session-speakers">Helene KAUTZ</span>
@@ -94,7 +82,6 @@
     <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
-                            <td></td>
                             
                             
                             
@@ -112,14 +99,13 @@
     <br><span class="session-speakers">Sven Geggus</span>
 </td>
 
-                            <td></td>
                             
                             
                             
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:30</td>
-                        <td colspan="7" class="program-break">Kaffeepause</td>
+                        <td colspan="6" class="program-break">Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">11:00</td>
@@ -138,7 +124,6 @@
     <br><span class="session-speakers">Rafael Hologa, Nils Riach</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td rowspan="3" id="session_CKSRYB">
         <a class="session-title" href="sessions/CKSRYB.php">QGIS - Fortgeschrittene Datenvisualisierung mit Live-Layer-Effekten und Mischodi</a>
@@ -159,7 +144,6 @@
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td></td>
                             
@@ -183,13 +167,12 @@
 </td>
 
                             <td></td>
-                            <td></td>
                             
                             
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:30</td>
-                        <td colspan="7" class="program-break">Mittagspause</td>
+                        <td colspan="6" class="program-break">Mittagspause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">13:30</td>
@@ -203,7 +186,6 @@
     <br><span class="session-speakers">Felix Kunde</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td rowspan="5" id="session_YKAGHX">
         <a class="session-title" href="sessions/YKAGHX.php">GeoStyler - Eine UI für alle* Stile</a>
@@ -234,7 +216,6 @@
     </span>
 </td>
 
-                            <td></td>
                             
                             
                             <td></td>
@@ -256,7 +237,6 @@
     <br><span class="session-speakers">Thomas Skowron</span>
 </td>
 
-                            <td></td>
                             
                             
                             <td></td>
@@ -270,7 +250,6 @@
     <br><span class="session-speakers">Robert Klemm, Michael Spreng</span>
 </td>
 
-                            <td></td>
                             
                             
                             <td></td>
@@ -284,14 +263,13 @@
     <br><span class="session-speakers">Astrid Emde, Miriam Gonzalez</span>
 </td>
 
-                            <td></td>
                             
                             
                             <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
-                        <td colspan="7" class="program-break">Kaffeepause</td>
+                        <td colspan="6" class="program-break">Fototermin und Kaffeepause</td>
                                             </tr>
                                 <tr>
                         <td class="program-time">15:30</td>
@@ -310,7 +288,6 @@
     <br><span class="session-speakers">Arndt Brenschede, Norbert Renner</span>
 </td>
 
-                            <td></td>
                             <td rowspan="3" id="session_VUPGUK">
         <a class="session-title" href="sessions/VUPGUK.php">Dateneingabeformulare gestalten mit Qt-Designer und Python</a>
     <br><span class="session-speakers">Otto Dassau, Tristan</span>
@@ -336,7 +313,6 @@
     <br><span class="session-speakers">Toni Erdmann</span>
 </td>
 
-                            <td></td>
                             
                             <td></td>
                             <td></td>
@@ -358,7 +334,6 @@
     <br><span class="session-speakers">Patrick Brosi</span>
 </td>
 
-                            <td></td>
                             
                             <td></td>
                             <td></td>
@@ -379,7 +354,6 @@
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">18:00</td>
@@ -390,7 +364,6 @@
     <br><span class="session-speakers">FOSSGIS Konferenz</span>
 </td>
 
-                            <td></td>
                             <td></td>
                             <td></td>
                             <td></td>
