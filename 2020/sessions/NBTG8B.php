@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>Yoga & Pilates – FOSSGIS 2020</title>
+	<title>Yoga &amp; Pilates – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/freitag.php#session_NBTG8B">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>Yoga & Pilates</h2>
+        <h2 class='abstract-title'>Yoga &amp; Pilates</h2>
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Hanna Krüger</span></p>

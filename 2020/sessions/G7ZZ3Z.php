@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>INSPIRE \"instant\" 2.x – FOSSGIS 2020</title>
+	<title>INSPIRE &#34;instant&#34; 2.x – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/mittwoch.php#session_G7ZZ3Z">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>INSPIRE \"instant\" 2.x</h2>
+        <h2 class='abstract-title'>INSPIRE &#34;instant&#34; 2.x</h2>
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Armin Retterath</span></p>

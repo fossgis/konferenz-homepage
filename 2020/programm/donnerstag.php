@@ -17,8 +17,7 @@
 
         <p>
                     <a href="programm/mittwoch.php">Mittwoch</a>                    Donnerstag                    <a href="programm/freitag.php">Freitag</a>                    <a href="programm/samstag.php">Samstag</a>        
-	<h2>Donnerstag, den 12.03.2020</h2>
-
+        <h2>Donnerstag, den 12.03.2020</h2>
 
             <table class="program-table">
             <thead>
