@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>OpenLayers: v6.x und wie es weitergeht</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Andreas Hocevar, Marc Jansen</span></p>
+                                <span class='abstract-speakers'>Marc Jansen, Andreas Hocevar</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             

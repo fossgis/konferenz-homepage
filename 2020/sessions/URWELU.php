@@ -36,7 +36,7 @@ Unter Anderem behandelt der Workshop Themen wie:<br />
 - Erzeugen von geometrischen Symbolen mit dem Geometrie Generator
 - Datendefinierte Übersteuerung mit dem Ausdruckseditor
 - Erstellen von eigenen Funktionen für den Ausdruckseditor
-Der Teilnehmer kann den Einsatz des Ausdruckseditors an Schulungsnotebooks selbst ausprobieren und wird anhand von praktischen Übungsbeispielen durch die Materie geleitet. Von Vorteil sind Grundkenntnisse im Umgang mit Geodaten und Kenntnisse im Umgang mit QGIS.</p>
+Die Teilnehmenden können den Einsatz des Ausdruckseditors an Schulungsnotebooks selbst ausprobieren und werden anhand von praktischen Übungsbeispielen durch die Materie geleitet. Von Vorteil sind Grundkenntnisse im Umgang mit Geodaten und Kenntnisse im Umgang mit QGIS.</p>
         </section>
 
 

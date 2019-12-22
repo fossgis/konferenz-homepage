@@ -28,7 +28,7 @@
             
             <p>Das Desktop GIS QGIS bietet zahlreiche Möglichkeiten für den Umgang mit Vektor-, Rasterdaten und Diensten.</p>
 <p>Speziell für den Umgang mit OpenStreetMap-Daten liegen einige Möglichkeiten vor. Diese werden meist über Plugins bereitgestellt. </p>
-<p>OSM-Daten können direkt über QuickOSM heruntergeladen werden. Suchmodule liegen vor, um in OSM-Daten zu suchen. OSM-Daten können über QuckMapServices als BaseMap verwendet werden. Routing auf OSM-Daten kann erfolgen. Auswertungen der OSM-Aktivität kann erfolgen. 3D-Karten können generiert werden und Vieles mehr.  </p>
+<p>OSM-Daten können direkt über QuickOSM heruntergeladen werden. Suchmodule liegen vor, um in OSM-Daten zu suchen. OSM-Daten können über QuickMapServices als BaseMap verwendet werden. Routing auf OSM-Daten kann erfolgen. Auswertungen der OSM-Aktivität kann erfolgen. 3D-Karten können generiert werden und Vieles mehr.  </p>
 <p>Dieser Vortrag bietet einen Überblick über die Möglichkeiten der Nutzung von OpenStreetMap-Daten in QGIS.</p>
         </section>
 

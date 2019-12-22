@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>OSGeo-Projekt deegree 2020 - Neuigkeiten zu OGC API - Features</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Dirk Stenger, Torsten Friebe</span></p>
+                                <span class='abstract-speakers'>Torsten Friebe, Dirk Stenger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             

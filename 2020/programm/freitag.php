@@ -40,8 +40,7 @@
                             <td></td>
                             <td rowspan="1" id="session_NBTG8B">
         <a class="session-title" href="sessions/NBTG8B.php">Yoga &amp; Pilates</a>
-        <br><span class="session-speakers">Hanna Krüger
-    </span>
+    <br><span class="session-speakers">Hanna Krüger</span>
 </td>
 
                             <td></td>
@@ -50,36 +49,35 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
-                        <td></td>
+                        <td rowspan="1" id="session_HZ8XES">
+        <a class="session-title" href="sessions/HZ8XES.php">Hochverfügbare PostGIS-Cluster auf Kubernetes</a>
+    <br><span class="session-speakers">Felix Kunde</span>
+</td>
+
                             <td rowspan="1" id="session_TQYRU8">
         <a class="session-title" href="sessions/TQYRU8.php">Mobil in Herrenberg mit Digitransit und offenen Daten</a>
-        <br><span class="session-speakers">Holger Bruch
-    </span>
+    <br><span class="session-speakers">Holger Bruch</span>
 </td>
 
                             <td rowspan="1" id="session_AP9CC8">
         <a class="session-title" href="sessions/AP9CC8.php">OBM completeness - Ein OpenStreetMap Tool zur Bewertung der Vollständigkeit des OSM Gebäudebestandes</a>
-        <br><span class="session-speakers">Karsten Prehn
-    </span>
+    <br><span class="session-speakers">Karsten Prehn</span>
 </td>
 
                             <td></td>
                             <td rowspan="3" id="session_RUEZJ7">
         <a class="session-title" href="sessions/RUEZJ7.php">Einführung in die Verwaltung von Geodaten in der PostgreSQL Datenbank mit PostGIS</a>
-        <br><span class="session-speakers">Astrid Emde
-    </span>
+    <br><span class="session-speakers">Astrid Emde</span>
 </td>
 
                             <td rowspan="3" id="session_7KUG7F">
         <a class="session-title" href="sessions/7KUG7F.php">Workshop Datenschutz und geographische Informationen</a>
-        <br><span class="session-speakers">Falk Zscheile
-    </span>
+    <br><span class="session-speakers">Falk Zscheile</span>
 </td>
 
                             <td rowspan="3" id="session_CF778N">
         <a class="session-title" href="sessions/CF778N.php">GRASS GIS per HTTP: actinia Geoprozessierung</a>
-        <br><span class="session-speakers">Jan Suleiman, Carmen Tawalika
-    </span>
+    <br><span class="session-speakers">Jan Suleiman, Carmen Tawalika</span>
 </td>
 
                                                 </tr>
@@ -87,20 +85,17 @@
                         <td class="program-time">09:30</td>
                         <td rowspan="1" id="session_7MSDDM">
         <a class="session-title" href="sessions/7MSDDM.php">Skalierbare Plattform zur Verarbeitung von Geodaten auf Basis von Kubernetes</a>
-        <br><span class="session-speakers">Richard Bischof
-    </span>
+    <br><span class="session-speakers">Richard Bischof</span>
 </td>
 
                             <td rowspan="1" id="session_3F8JCB">
         <a class="session-title" href="sessions/3F8JCB.php">OPENER: Offene Plattform für die Crowd-basierte Erfassung von Informationen zu Barrieren an Haltestellen im ÖPNV</a>
-        <br><span class="session-speakers">Thomas Graichen, Dr Julia Richter
-    </span>
+    <br><span class="session-speakers">Dr Julia Richter, Thomas Graichen</span>
 </td>
 
                             <td rowspan="1" id="session_XKUMED">
         <a class="session-title" href="sessions/XKUMED.php">Asynchrones Python-basiertes Taskset zur permanenten Aktualisierung einer lokalen weltweiten OSM-basierten Gebäudedatenbank</a>
-        <br><span class="session-speakers">Thomas Beutin
-    </span>
+    <br><span class="session-speakers">Thomas Beutin</span>
 </td>
 
                             <td></td>
@@ -112,19 +107,16 @@
                         <td class="program-time">10:00</td>
                         <td rowspan="1" id="session_K7VNXP">
         <a class="session-title" href="sessions/K7VNXP.php">Mr. Map - Open Source Service Registry</a>
-        <br><span class="session-speakers">Michel Peltriaux
-    </span>
+    <br><span class="session-speakers">Michel Peltriaux</span>
 </td>
 
                             <td rowspan="1" id="session_UDVAAL">
         <a class="session-title" href="sessions/UDVAAL.php">Digitale Bahnhofspläne für die Reisendeninformation der Deutschen Bahn</a>
-        <br><span class="session-speakers">Dr. Dirk Schlierkamp-Voosen
-    </span>
+    <br><span class="session-speakers">Dr. Dirk Schlierkamp-Voosen</span>
 </td>
 
                             <td rowspan="1" id="session_lightning_talks_4">
         <a class="session-title" href="sessions/lightning_talks_4.php">Lightning Talks</a>
-        <br><span class="session-speakers">
     </span>
 </td>
 
@@ -141,33 +133,28 @@
                         <td class="program-time">11:00</td>
                         <td rowspan="1" id="session_YFEKKC">
         <a class="session-title" href="sessions/YFEKKC.php">Open Source GIS-Komponenten im radiologischen Notfall-Informationssystem des Bundes</a>
-        <br><span class="session-speakers">Marco Lechner
-    </span>
+    <br><span class="session-speakers">Marco Lechner</span>
 </td>
 
                             <td rowspan="2" id="session_7EPGZD">
         <a class="session-title" href="sessions/7EPGZD.php">Vektor-Tiles Karten erstellen mit t-rex</a>
-        <br><span class="session-speakers">Pirmin Kalberer
-    </span>
+    <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
                             <td rowspan="1" id="session_PWE3PX">
         <a class="session-title" href="sessions/PWE3PX.php">Mannheimer Mapathons: Integration fördern, humanitäre Hilfe leisten</a>
-        <br><span class="session-speakers">Robert Danziger
-    </span>
+    <br><span class="session-speakers">Robert Danziger</span>
 </td>
 
                             <td></td>
                             <td rowspan="3" id="session_URWELU">
         <a class="session-title" href="sessions/URWELU.php">QGIS Ausdruckskseditor und Geometrie-Generator</a>
-        <br><span class="session-speakers">Stefan Giese
-    </span>
+    <br><span class="session-speakers">Stefan Giese</span>
 </td>
 
                             <td rowspan="3" id="session_7DJMEJ">
         <a class="session-title" href="sessions/7DJMEJ.php">GeoServer Vertiefung</a>
-        <br><span class="session-speakers">Hannes Blitza, Daniel Koch
-    </span>
+    <br><span class="session-speakers">Daniel Koch, Hannes Blitza</span>
 </td>
 
                             <td></td>
@@ -176,15 +163,13 @@
                         <td class="program-time">11:30</td>
                         <td rowspan="1" id="session_V8ZBMG">
         <a class="session-title" href="sessions/V8ZBMG.php">KADAS Albireo</a>
-        <br><span class="session-speakers">Sandro Mani
-    </span>
+    <br><span class="session-speakers">Sandro Mani</span>
 </td>
 
                             
                             <td rowspan="1" id="session_WC7SVB">
         <a class="session-title" href="sessions/WC7SVB.php">Community Arbeit - Ein Einblick in die Berliner OSM/FOSSGIS-Community</a>
-        <br><span class="session-speakers">Lars Lingner, Christopher Lorenz
-    </span>
+    <br><span class="session-speakers">Christopher Lorenz, Lars Lingner</span>
 </td>
 
                             <td></td>
@@ -196,20 +181,17 @@
                         <td class="program-time">12:00</td>
                         <td rowspan="1" id="session_MF7FZD">
         <a class="session-title" href="sessions/MF7FZD.php">WPS für kommunale GDIs - Eine Fallstudie über den Mehrwert von Web Processing Services (WPS) am Beispiel der Geodateninfrastruktur Freiburg (GDI-FR)</a>
-        <br><span class="session-speakers">Gunnar Ströer
-    </span>
+    <br><span class="session-speakers">Gunnar Ströer</span>
 </td>
 
                             <td rowspan="1" id="session_lightning_talks_4">
         <a class="session-title" href="sessions/lightning_talks_4.php">Lightning Talks</a>
-        <br><span class="session-speakers">
     </span>
 </td>
 
                             <td rowspan="1" id="session_XBCSPZ">
         <a class="session-title" href="sessions/XBCSPZ.php">Rettungspunkte - Im Prinzip ganz einfach, aber ...</a>
-        <br><span class="session-speakers">Joachim Kast
-    </span>
+    <br><span class="session-speakers">Joachim Kast</span>
 </td>
 
                             <td></td>
@@ -225,8 +207,7 @@
                         <td class="program-time">13:30</td>
                         <td rowspan="1" id="session_EVHGAH">
         <a class="session-title" href="sessions/EVHGAH.php">Infrastruktur-Mappen mit dem (e-)Bike</a>
-        <br><span class="session-speakers">Roman Härdi
-    </span>
+    <br><span class="session-speakers">Roman Härdi</span>
 </td>
 
                             <td></td>
@@ -240,8 +221,7 @@
                         <td class="program-time">14:00</td>
                         <td rowspan="1" id="session_JYFVQL">
         <a class="session-title" href="sessions/JYFVQL.php">Erdbeben und OpenStreetMap</a>
-        <br><span class="session-speakers">Danijel Schorlemmer
-    </span>
+    <br><span class="session-speakers">Danijel Schorlemmer</span>
 </td>
 
                             <td></td>
@@ -259,8 +239,7 @@
                         <td class="program-time">15:30</td>
                         <td rowspan="1" id="session_LKNHLJ">
         <a class="session-title" href="sessions/LKNHLJ.php">FOSSGIS-Jeopardy</a>
-        <br><span class="session-speakers">Johannes Kröger
-    </span>
+    <br><span class="session-speakers">Johannes Kröger</span>
 </td>
 
                             <td></td>

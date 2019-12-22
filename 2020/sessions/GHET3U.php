@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Wegue - OpenLayers und Vue.js in der Praxis</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Christian Mayer, Jakob Miksch</span></p>
+                                <span class='abstract-speakers'>Jakob Miksch, Christian Mayer</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             

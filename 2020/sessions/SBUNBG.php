@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Gefahrenbewertung im Radverkehr mittels Crowdsourcing von Geoinformationen</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Nils Riach, Rafael Hologa</span></p>
+                                <span class='abstract-speakers'>Rafael Hologa, Nils Riach</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             <p class='abstract-novideo'><img class="abstract-novideo-img" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung"> Dieser Programmbeitrag wird nicht aufgezeichnet.</p>

@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>GeoPortal Koblenz – digital. vielschichtig. maßgebend.</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Christine Dolezich, Andreas Weckbecker</span></p>
+                                <span class='abstract-speakers'>Andreas Weckbecker, Christine Dolezich</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
@@ -38,7 +38,7 @@
 gearbeitet. Letztere soll könnte bei der Arbeit auf den digitalen Feldbüchern im Außendienst eine Wertvolle Unterstützung darstellen, zumal die Festpunkte in der Postgres-Datenbank des GeoServers vorgehalten werden könnten.</p>
 <p>Außerdem finden Überlegungen zur Bereitstellung maßgeschneiderter Applikationen für sachverständige Dritte mit einer vorgeschalteten Authentifizierung statt. </p>
 <p>Im Gegensatz zu anderen Konzepten liegt in Koblenz die Hoheit über die Daten beim Betreiber des Portals. Durch das Hosting beim Kommunalen Gebietsrechenzentrum der Stadt Koblenz bestehen kurze Wege und es wird eine zeitnahe Unterstützung sowie eine hohe Datensicherheit gewährleistet. </p>
-<p>Die Präsentation gibt vertiefte Einblicke zu genannten Thematik-</p>
+<p>Die Präsentation gibt vertiefte Einblicke zur genannten Thematik.</p>
         </section>
 
 

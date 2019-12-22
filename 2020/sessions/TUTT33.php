@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Routenplanung mit BRouter und BRouter-Web</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Norbert Renner, Arndt Brenschede</span></p>
+                                <span class='abstract-speakers'>Arndt Brenschede, Norbert Renner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             

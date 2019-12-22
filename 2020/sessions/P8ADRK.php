@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Geochicas OSM stellen sich vor</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Miriam Gonzalez, Astrid Emde</span></p>
+                <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Astrid Emde, Miriam Gonzalez</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:40 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             

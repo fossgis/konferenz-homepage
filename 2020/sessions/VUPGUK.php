@@ -29,10 +29,10 @@
             <p>Im Rahmen des Workshops soll es zunächst eine kurze Übersicht über die Anpassungsmöglichkeiten für Formulare in QGIS geben.
 ​
 Anschließend wird es eine Einführung in den Qt-Designer geben.
-Die Teilnehmer<em>innen sollen lernen eigene Formulare im Qt-Designer zu entwerfen und diese schließlich in QGIS zu integrieren.
+Die Teilnehmer_innen lernen eigene Formulare im Qt-Designer zu entwerfen und diese schließlich in QGIS zu integrieren.
 ​
-Um das ganze Potential der so erstellen Formulare zu wecken, wird es am Ende noch eine kurze Einführung in Python geben.
-Die Teilnehmer</em>innen sollen lernen, wie eigener Python-Code in das Formular eingebunden werden kann.
+Um das ganze Potential der so erstellten Formulare zu wecken, wird es am Ende noch eine kurze Einführung in Python geben.
+Die Teilnehmer_innen lernen, wie eigener Python-Code in das Formular eingebunden werden kann.
 Außerdem werden beispielhaft Möglichkeiten aufgezeigt, wie die Dateneingabe über Python gesteuert werden kann.
 Die Programmierung mit Python steht dabei nicht im Vordergrund. Dies ist kein Programmierkurs.</p>
         </section>

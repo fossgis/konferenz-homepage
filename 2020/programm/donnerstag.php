@@ -40,8 +40,7 @@
                             <td></td>
                             <td rowspan="1" id="session_WFPTSP">
         <a class="session-title" href="sessions/WFPTSP.php">Sportliche Stadtführung</a>
-        <br><span class="session-speakers">Marco Lechner
-    </span>
+    <br><span class="session-speakers">Marco Lechner</span>
 </td>
 
                             <td></td>
@@ -52,39 +51,33 @@
                         <td class="program-time">09:00</td>
                         <td rowspan="1" id="session_KS3NDA">
         <a class="session-title" href="sessions/KS3NDA.php">Vorbereitung einer Großveranstaltung mit QGIS und QField - Der Rheinland-Pfalztag 2019 in Annweiler</a>
-        <br><span class="session-speakers">Jan Klein, Jelto Buurman
-    </span>
+    <br><span class="session-speakers">Jelto Buurman, Jan Klein</span>
 </td>
 
                             <td rowspan="2" id="session_ZXTALA">
         <a class="session-title" href="sessions/ZXTALA.php">Visualisierung und Analyse von Satellitenbildern mit der EnMAP-Box</a>
-        <br><span class="session-speakers">Andreas Rabe
-    </span>
+    <br><span class="session-speakers">Andreas Rabe</span>
 </td>
 
                             <td rowspan="1" id="session_GYWH39">
         <a class="session-title" href="sessions/GYWH39.php">OSM-Daten verarbeiten mit Python und Pyosmium</a>
-        <br><span class="session-speakers">Sarah Hoffmann
-    </span>
+    <br><span class="session-speakers">Sarah Hoffmann</span>
 </td>
 
                             <td></td>
                             <td rowspan="3" id="session_HFMLCC">
         <a class="session-title" href="sessions/HFMLCC.php">QGIS Basics für Anfänger und Umsteiger</a>
-        <br><span class="session-speakers">Helene KAUTZ
-    </span>
+    <br><span class="session-speakers">Helene KAUTZ</span>
 </td>
 
                             <td rowspan="3" id="session_JHQ9Q3">
         <a class="session-title" href="sessions/JHQ9Q3.php">Eigene Verarbeitungswerkzeuge für QGIS mit Python erstellen</a>
-        <br><span class="session-speakers">Peter Gipper
-    </span>
+    <br><span class="session-speakers">Peter Gipper</span>
 </td>
 
                             <td rowspan="3" id="session_BPWXKG">
         <a class="session-title" href="sessions/BPWXKG.php">Einführung in GeoServer</a>
-        <br><span class="session-speakers">Hannes Blitza, Daniel Koch
-    </span>
+    <br><span class="session-speakers">Daniel Koch, Hannes Blitza</span>
 </td>
 
                                                 </tr>
@@ -92,15 +85,13 @@
                         <td class="program-time">09:30</td>
                         <td rowspan="1" id="session_XNXHGP">
         <a class="session-title" href="sessions/XNXHGP.php">Aufbereitung von vektorbasierten Geodaten als Grundlage für Landnutzungsmodelle mit QGIS und Postgis</a>
-        <br><span class="session-speakers">Mirko Blinn
-    </span>
+    <br><span class="session-speakers">Mirko Blinn</span>
 </td>
 
                             
                             <td rowspan="1" id="session_DKP3WZ">
         <a class="session-title" href="sessions/DKP3WZ.php">OSM-Daten mit Vektortiles erfolgreich nutzen</a>
-        <br><span class="session-speakers">Robert Klemm
-    </span>
+    <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
                             <td></td>
@@ -113,14 +104,12 @@
                         <td></td>
                             <td rowspan="1" id="session_PHJ8VG">
     <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/PHJ8VG.php">Offene Smart Farming Produkte aus offenen Satellitendaten</a>
-        <br><span class="session-speakers">Sven Bingert
-    </span>
+    <br><span class="session-speakers">Sven Bingert</span>
 </td>
 
                             <td rowspan="1" id="session_9ZPDW7">
         <a class="session-title" href="sessions/9ZPDW7.php">OSMPOIDB, eine kontinuierlich aktualisierte POI Datenbank auf Openstreetmap Basis</a>
-        <br><span class="session-speakers">Sven Geggus
-    </span>
+    <br><span class="session-speakers">Sven Geggus</span>
 </td>
 
                             <td></td>
@@ -136,34 +125,29 @@
                         <td class="program-time">11:00</td>
                         <td rowspan="1" id="session_KU8UZS">
         <a class="session-title" href="sessions/KU8UZS.php">Einsatz von XPlanung in der kommunalen Praxis - ein Werkstattbericht</a>
-        <br><span class="session-speakers">Michael Schulz, Torsten Friebe
-    </span>
+    <br><span class="session-speakers">Torsten Friebe, Michael Schulz</span>
 </td>
 
                             <td rowspan="1" id="session_XUSWXK">
         <a class="session-title" href="sessions/XUSWXK.php">Neuentwicklung der GDI-DE Testsuite</a>
-        <br><span class="session-speakers">Marc Jansen, Manuel Fischer
-    </span>
+    <br><span class="session-speakers">Marc Jansen, Manuel Fischer</span>
 </td>
 
                             <td rowspan="1" id="session_SBUNBG">
     <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/SBUNBG.php">Gefahrenbewertung im Radverkehr mittels Crowdsourcing von Geoinformationen</a>
-        <br><span class="session-speakers">Nils Riach, Rafael Hologa
-    </span>
+    <br><span class="session-speakers">Rafael Hologa, Nils Riach</span>
 </td>
 
                             <td></td>
                             <td></td>
                             <td rowspan="3" id="session_CKSRYB">
         <a class="session-title" href="sessions/CKSRYB.php">QGIS - Fortgeschrittene Datenvisualisierung mit Live-Layer-Effekten und Mischodi</a>
-        <br><span class="session-speakers">Stefan Giese
-    </span>
+    <br><span class="session-speakers">Stefan Giese</span>
 </td>
 
                             <td rowspan="3" id="session_CBMDZY">
         <a class="session-title" href="sessions/CBMDZY.php">Workshop Open Database License</a>
-        <br><span class="session-speakers">Falk Zscheile
-    </span>
+    <br><span class="session-speakers">Falk Zscheile</span>
 </td>
 
                                                 </tr>
@@ -172,8 +156,7 @@
                         <td></td>
                             <td rowspan="1" id="session_HQD7NN">
         <a class="session-title" href="sessions/HQD7NN.php">Der neue OGC API Standard ist da!</a>
-        <br><span class="session-speakers">Pirmin Kalberer
-    </span>
+    <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
                             <td></td>
@@ -186,19 +169,16 @@
                         <td class="program-time">12:00</td>
                         <td rowspan="1" id="session_CFXVAL">
         <a class="session-title" href="sessions/CFXVAL.php">Map Editor für individuelle amtliche Vektorkarten</a>
-        <br><span class="session-speakers">Sebastian Ratjens
-    </span>
+    <br><span class="session-speakers">Sebastian Ratjens</span>
 </td>
 
                             <td rowspan="1" id="session_CWRZQH">
         <a class="session-title" href="sessions/CWRZQH.php">MapServer Statusbericht</a>
-        <br><span class="session-speakers">Jörg Thomsen
-    </span>
+    <br><span class="session-speakers">Jörg Thomsen</span>
 </td>
 
                             <td rowspan="1" id="session_lightning_talks_2">
         <a class="session-title" href="sessions/lightning_talks_2.php">Lightning Talks</a>
-        <br><span class="session-speakers">
     </span>
 </td>
 
@@ -215,39 +195,42 @@
                         <td class="program-time">13:30</td>
                         <td rowspan="1" id="session_8ZASBP">
         <a class="session-title" href="sessions/8ZASBP.php">QGIS Kartografie-Verbesserungen 2019</a>
-        <br><span class="session-speakers">Andreas Neumann
-    </span>
+    <br><span class="session-speakers">Andreas Neumann</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_NHUAP9">
+        <a class="session-title" href="sessions/NHUAP9.php">Schneller, besser, leichter - PostGIS 3</a>
+    <br><span class="session-speakers">Felix Kunde</span>
+</td>
+
                             <td></td>
                             <td></td>
                             <td rowspan="5" id="session_YKAGHX">
         <a class="session-title" href="sessions/YKAGHX.php">GeoStyler - Eine UI für alle* Stile</a>
-        <br><span class="session-speakers">Christian Mayer, Jan Suleiman
-    </span>
+    <br><span class="session-speakers">Christian Mayer, Jan Suleiman</span>
 </td>
 
                             <td rowspan="5" id="session_TVAGUN">
         <a class="session-title" href="sessions/TVAGUN.php">Geodaten jonglieren mit ogr2ogr</a>
-        <br><span class="session-speakers">Claas Leiner
-    </span>
+    <br><span class="session-speakers">Claas Leiner</span>
 </td>
 
                             <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">14:00</td>
-                        <td></td>
+                        <td rowspan="1" id="session_VDPQS7">
+        <a class="session-title" href="sessions/VDPQS7.php">TEAM Engine: Vorstellung der neusten Tests für OGC Standards wie OGC API - Features oder GeoTIFF</a>
+    <br><span class="session-speakers">Dirk Stenger</span>
+</td>
+
                             <td rowspan="1" id="session_ZP3JZZ">
         <a class="session-title" href="sessions/ZP3JZZ.php">Verbindungen schaffen mit PostgreSQL Foreign Data Wrappern</a>
-        <br><span class="session-speakers">Astrid Emde
-    </span>
+    <br><span class="session-speakers">Astrid Emde</span>
 </td>
 
                             <td rowspan="1" id="session_lightning_talks_3">
         <a class="session-title" href="sessions/lightning_talks_3.php">Lightning Talks</a>
-        <br><span class="session-speakers">
     </span>
 </td>
 
@@ -260,20 +243,17 @@
                         <td class="program-time">14:30</td>
                         <td rowspan="3" id="session_WNARKE">
         <a class="session-title" href="sessions/WNARKE.php">OSGeo-Projekt deegree 2020 - Neuigkeiten zu OGC API - Features</a>
-        <br><span class="session-speakers">Dirk Stenger, Torsten Friebe
-    </span>
+    <br><span class="session-speakers">Torsten Friebe, Dirk Stenger</span>
 </td>
 
                             <td rowspan="3" id="session_UPPG8U">
         <a class="session-title" href="sessions/UPPG8U.php">AD und PostgreSQL Rollen verknüpfen mit dem Höllenhund</a>
-        <br><span class="session-speakers">Michael Schulz
-    </span>
+    <br><span class="session-speakers">Michael Schulz</span>
 </td>
 
                             <td rowspan="1" id="session_3BSTMC">
         <a class="session-title" href="sessions/3BSTMC.php">Triff OSMler in deiner Nähe mit OSMCAL</a>
-        <br><span class="session-speakers">Thomas Skowron
-    </span>
+    <br><span class="session-speakers">Thomas Skowron</span>
 </td>
 
                             <td></td>
@@ -287,8 +267,7 @@
                             
                             <td rowspan="1" id="session_GCFPVF">
         <a class="session-title" href="sessions/GCFPVF.php">Neues vom Fossgis Routing Server</a>
-        <br><span class="session-speakers">Robert Klemm, Michael Spreng
-    </span>
+    <br><span class="session-speakers">Robert Klemm, Michael Spreng</span>
 </td>
 
                             <td></td>
@@ -302,8 +281,7 @@
                             
                             <td rowspan="1" id="session_P8ADRK">
         <a class="session-title" href="sessions/P8ADRK.php">Geochicas OSM stellen sich vor</a>
-        <br><span class="session-speakers">Miriam Gonzalez, Astrid Emde
-    </span>
+    <br><span class="session-speakers">Astrid Emde, Miriam Gonzalez</span>
 </td>
 
                             <td></td>
@@ -319,27 +297,23 @@
                         <td class="program-time">15:30</td>
                         <td rowspan="1" id="session_CTJEVS">
         <a class="session-title" href="sessions/CTJEVS.php">OpenLayers: v6.x und wie es weitergeht</a>
-        <br><span class="session-speakers">Andreas Hocevar, Marc Jansen
-    </span>
+    <br><span class="session-speakers">Marc Jansen, Andreas Hocevar</span>
 </td>
 
                             <td rowspan="1" id="session_MNKHF8">
         <a class="session-title" href="sessions/MNKHF8.php">FOSS in der Cloud</a>
-        <br><span class="session-speakers">Carmen Tawalika
-    </span>
+    <br><span class="session-speakers">Carmen Tawalika</span>
 </td>
 
                             <td rowspan="1" id="session_TUTT33">
         <a class="session-title" href="sessions/TUTT33.php">Routenplanung mit BRouter und BRouter-Web</a>
-        <br><span class="session-speakers">Norbert Renner, Arndt Brenschede
-    </span>
+    <br><span class="session-speakers">Arndt Brenschede, Norbert Renner</span>
 </td>
 
                             <td></td>
                             <td rowspan="3" id="session_VUPGUK">
         <a class="session-title" href="sessions/VUPGUK.php">Dateneingabeformulare gestalten mit Qt-Designer und Python</a>
-        <br><span class="session-speakers">Otto Dassau, Tristan
-    </span>
+    <br><span class="session-speakers">Otto Dassau, Tristan</span>
 </td>
 
                             <td></td>
@@ -349,20 +323,17 @@
                         <td class="program-time">16:00</td>
                         <td rowspan="1" id="session_GHET3U">
         <a class="session-title" href="sessions/GHET3U.php">Wegue - OpenLayers und Vue.js in der Praxis</a>
-        <br><span class="session-speakers">Christian Mayer, Jakob Miksch
-    </span>
+    <br><span class="session-speakers">Jakob Miksch, Christian Mayer</span>
 </td>
 
                             <td rowspan="1" id="session_KNUBLU">
         <a class="session-title" href="sessions/KNUBLU.php">GRASS GIS in der Cloud: actinia Geoprozessierung</a>
-        <br><span class="session-speakers">Markus Neteler, Carmen Tawalika
-    </span>
+    <br><span class="session-speakers">Markus Neteler, Carmen Tawalika</span>
 </td>
 
                             <td rowspan="1" id="session_EMQGW7">
         <a class="session-title" href="sessions/EMQGW7.php">PTNA: Qualitätssicherung für ÖPNV in OpenStreetMap</a>
-        <br><span class="session-speakers">Toni Erdmann
-    </span>
+    <br><span class="session-speakers">Toni Erdmann</span>
 </td>
 
                             <td></td>
@@ -374,20 +345,17 @@
                         <td class="program-time">16:30</td>
                         <td rowspan="1" id="session_EBMZWN">
         <a class="session-title" href="sessions/EBMZWN.php">javascript-Bibliotheken zur Einbindung von historischen Umwelt- und Klimainformationen als Kartenlayer</a>
-        <br><span class="session-speakers">Michael Kahle
-    </span>
+    <br><span class="session-speakers">Michael Kahle</span>
 </td>
 
                             <td rowspan="2" id="session_MWDS79">
         <a class="session-title" href="sessions/MWDS79.php">Das OSGeo Datacube Community Project rasdaman</a>
-        <br><span class="session-speakers">pebau
-    </span>
+    <br><span class="session-speakers">pebau</span>
 </td>
 
                             <td rowspan="1" id="session_VAXSHT">
         <a class="session-title" href="sessions/VAXSHT.php">Automatische Korrektur von ÖV-Stationen in OSM</a>
-        <br><span class="session-speakers">Patrick Brosi
-    </span>
+    <br><span class="session-speakers">Patrick Brosi</span>
 </td>
 
                             <td></td>
@@ -399,15 +367,13 @@
                         <td class="program-time">17:00</td>
                         <td rowspan="1" id="session_M73SCJ">
         <a class="session-title" href="sessions/M73SCJ.php">Neues vom GeoStyler</a>
-        <br><span class="session-speakers">Jan Suleiman, Christian Mayer
-    </span>
+    <br><span class="session-speakers">Christian Mayer, Jan Suleiman</span>
 </td>
 
                             
                             <td rowspan="1" id="session_UKFLSU">
         <a class="session-title" href="sessions/UKFLSU.php">Qualitätsbewertung von OpenStreetMap-Gebäudedaten – Am Beispiel der Stadtgebiete Köln und Gera</a>
-        <br><span class="session-speakers">Leoni Möske
-    </span>
+    <br><span class="session-speakers">Leoni Möske</span>
 </td>
 
                             <td></td>
@@ -421,8 +387,7 @@
                             <td></td>
                             <td rowspan="1" id="session_PH3E8X">
     <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/PH3E8X.php">Mitgliederversammlung FOSSGIS e.V.</a>
-        <br><span class="session-speakers">FOSSGIS Konferenz
-    </span>
+    <br><span class="session-speakers">FOSSGIS Konferenz</span>
 </td>
 
                             <td></td>

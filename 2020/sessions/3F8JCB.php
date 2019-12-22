@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>OPENER: Offene Plattform für die Crowd-basierte Erfassung von Informationen zu Barrieren an Haltestellen im ÖPNV</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Thomas Graichen, Dr Julia Richter</span></p>
+                                <span class='abstract-speakers'>Dr Julia Richter, Thomas Graichen</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             

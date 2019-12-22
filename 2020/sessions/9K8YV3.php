@@ -26,7 +26,7 @@
                             <p><span class='abstract-time-heading'>Zeit: </span>Samstag 14. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
-            <p>Hier geht das OSM-Barcamp am Samstag los. Jeder bringt ein Thema seiner Wahl mit und stimmen gemeinsam ab, wer noch daran interessiert ist.</p>
+            <p>Mit der Eröffnung startet das OSM-Barcamp am Samstag. Jeder bringt ein Thema seiner Wahl mit, gemeinsam wird der Zeitplan abgestimmt und Interessierte ordnen sich zu.</p>
         </section>
 
 

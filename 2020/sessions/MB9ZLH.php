@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>QGIS 3 Einsteiger Workshop</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Tristan, Otto Dassau</span></p>
+                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Otto Dassau, Tristan</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
 
             

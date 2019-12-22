@@ -37,7 +37,7 @@
 <li>ev. GeoPDF-Export / Import</li>
 </ul>
 <p>Neben den eigentlichen neuen Funktionalitäten werden jeweils Beispiele aus der Praxis gezeigt. </p>
-<p>Als Ausblick/Diskussion wird eine Liste möglicher weiterer Kartografie-Verbesserungen vorgestellt an denen in zukünftigen QGIS-Versionen gearbeiten werden könnte, mit dem Ziel Gleichgesinnte zu finden die helfen die nötigen Spezifikationen zu schreiben oder zu verbessern, zu entwicklen oder mitzufinanzieren.</p>
+<p>Als Ausblick/Diskussion wird eine Liste möglicher weiterer Kartografie-Verbesserungen vorgestellt an denen in zukünftigen QGIS-Versionen gearbeitet werden könnte, mit dem Ziel Gleichgesinnte zu finden, die helfen die nötigen Spezifikationen zu schreiben oder zu verbessern, zu entwickeln oder mitzufinanzieren.</p>
         </section>
 
 

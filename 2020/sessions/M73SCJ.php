@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Neues vom GeoStyler</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Jan Suleiman, Christian Mayer</span></p>
+                                <span class='abstract-speakers'>Christian Mayer, Jan Suleiman</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             

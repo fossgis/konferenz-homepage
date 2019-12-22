@@ -22,8 +22,8 @@
         <h2 class='abstract-title'>Yoga &amp; Pilates</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Hanna Krüger</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 08:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>Rahmenprogramm</p>
+                <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>Hanna Krüger</span></p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 08:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>Rahmenprogramm</p>
 
             
             <p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger eine Session Yoga und Pilates anbieten.</p>

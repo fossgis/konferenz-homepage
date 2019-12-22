@@ -22,11 +22,11 @@
         <h2 class='abstract-title'>Einsatz von XPlanung in der kommunalen Praxis - ein Werkstattbericht</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Michael Schulz, Torsten Friebe</span></p>
+                                <span class='abstract-speakers'>Torsten Friebe, Michael Schulz</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
-            <p>Die Stadt Freiburg hat sich Ende 2018 auf den Weg gemacht, die digitale Bauleitplanung für Bebauungsplanverfahren auf die Verwendung des XÖV Standards XPlanung umzustellen, sowie das aktuelle Planungsrecht XPlannung-konform nach zu erfassen. Die Bereitstellung der erfassten Daten soll wiederum über OGC-Dienste unter Einbindung in ein zentrales Austausch- und Validierungsportal durchgeführt werden.</p>
+            <p>Die Stadt Freiburg hat sich Ende 2018 auf den Weg gemacht, die digitale Bauleitplanung für Bebauungsplanverfahren auf die Verwendung des XÖV Standards XPlanung umzustellen, sowie das aktuelle Planungsrecht XPlanung-konform nach zu erfassen. Die Bereitstellung der erfassten Daten soll wiederum über OGC-Dienste unter Einbindung in ein zentrales Austausch- und Validierungsportal durchgeführt werden.</p>
 <p>Die Präsentation zeigt die Erfahrungen und verschiedenen Schritte zur Umsetzung mit den eingesetzten FOSS-Werkzeugen, wie deegree, HALE, QGIS, PostgreSQL/PostGIS, sowie die Ergebnisse aber auch die Schwierigkeiten. </p>
 <p>Die Einbindung der bereitgestellten Daten per XPlanung WMS- und WFS-Diensten in die Metadaten-Prozesse der GDI Freiburg unter Verwendung von GeoNetwork werden im Vortrag ebenfalls erörtert wie die Transformation in INSPIRE-PLU-Dienste.</p>
         </section>

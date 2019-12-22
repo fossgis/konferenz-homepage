@@ -26,7 +26,7 @@
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
-            <p>MapServer ist jetzt 26 alt wird nach wie vor vielfältig als WMS, WFS, WCS eingesetzt. Projekte aus seinem Umfeld (tiny-ows, MapCache) erweitern seine Funktionen. Außerdem wird auch MapServer selbst stetig weiter entwickelt und quasi ständig gibt es neue Funktionen und Konfigurationsmöglichkeiten zu entdecken. Der Vortrag wirft einen Blick auf die Changelogs der letzten Jahren und berücksichtigt auch die neuesten Entwicklungen, die sich bis zur FOSSGIS einstellen werden. Wir werfen auch einen Blick auf MapScript, in diesen Bereich sich 2019 einiges getan hat. Soweit möglich, wird eine Vorschau auf die kommende(n) MapServer Version(en) geworfen.</p>
+            <p>MapServer ist jetzt 26 alt wird nach wie vor vielfältig als WMS, WFS, WCS eingesetzt. Projekte aus seinem Umfeld (tiny-ows, MapCache) erweitern seine Funktionen. Außerdem wird auch MapServer selbst stetig weiter entwickelt und quasi ständig gibt es neue Funktionen und Konfigurationsmöglichkeiten zu entdecken. Der Vortrag wirft einen Blick auf die Changelogs der letzten Jahren und berücksichtigt auch die neuesten Entwicklungen, die sich bis zur FOSSGIS einstellen werden. Wir werfen auch einen Blick auf MapScript, in diesen Bereich hat sich 2019 einiges getan. Soweit möglich, wird eine Vorschau auf die kommende(n) MapServer Version(en) geworfen.</p>
         </section>
 
 

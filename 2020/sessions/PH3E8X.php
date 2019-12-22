@@ -26,7 +26,7 @@
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 18:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             <p class='abstract-novideo'><img class="abstract-novideo-img" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung"> Dieser Programmbeitrag wird nicht aufgezeichnet.</p>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            <p>Alle Mitglieder sind herzlich eingeladen, teilzunehmen und sich zu beteiligen. Einige Themen stehen auf der Agenda. Wir laden ein zum Kennenlernen, zur Diskussion, Abstimmung &amp; Neuwahlen. Getränke werden gestellt und es wird für alle Pizza bestellt. Wir freuen uns über zahlreiches Erscheinen.</p>
         </section>
 
 
