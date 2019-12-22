@@ -288,13 +288,15 @@ p.highlight {
 
 /* Programm */
 table.program-table,
-/*table.program-table thead,*/
 table.program-table td {
 	border-width: 1px 1px 1px 1px;
 	border-color: #444;
-	border-right-style: solid;
-	border-bottom-style: solid;
 	border-collapse: collapse;
+}
+
+table.program-table td {
+	border-bottom-style: solid;
+	border-right-style: solid;
 }
 
 table.program-table thead td,
