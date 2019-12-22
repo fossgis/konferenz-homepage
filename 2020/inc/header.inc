@@ -17,9 +17,9 @@
 		<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
 		</li>
-	<!--	<li id="navProgramm">
+		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
-		</li>-->
+		</li>
 		<li id="navAnreise">
 			<a href="./anreise/">Anreise</a>
 		</li>

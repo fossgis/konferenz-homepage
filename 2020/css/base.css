@@ -297,6 +297,7 @@ table.program-table td {
 table.program-table td {
 	border-bottom-style: solid;
 	border-right-style: solid;
+	vertical-align: top;
 }
 
 table.program-table thead td,
