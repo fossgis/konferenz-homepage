@@ -287,32 +287,33 @@ p.highlight {
 }
 
 /* Programm */
-table.program-table,
-table.program-table td {
-	border-width: 1px 1px 1px 1px;
-	border-color: #444;
+table.program-table {
 	border-collapse: collapse;
 }
 
+table.program-table th,
 table.program-table td {
+	border-width: 1px 1px 1px 1px;
+	border-color: #444;
+	padding: 5px 5px 5px 5px;
+}
+
+table.program-table td {
+	vertical-align: top;
 	border-bottom-style: solid;
 	border-right-style: solid;
-	vertical-align: top;
 }
 
-table.program-table thead td,
-table.program-table td.program-time {
-	border-style: none;
-}
-
-table.program-table thead td,
+table.program-table th,
 table.program-table td.program-time {
 	background-color: #eb7f00;
+	border-bottom-color: #eb7f00;
+	border-right-color: #eb7f00;
 	color: white;
 	font-weight: bold;
 }
 
-table.program-table thead td {
+table.program-table th {
 	text-align: center;
 }
 
@@ -320,10 +321,6 @@ table.program-table td.program-break {
 	background-color: #ddd;
 	font-style: italic;
 	padding-left: 20px;
-}
-
-table.program-table td {
-	padding: 5px 5px 5px 5px;
 }
 
 a.session-title,
