@@ -41,7 +41,11 @@
 </td>
 
                             <td></td>
-                            <td></td>
+                            <td rowspan="2" id="session_VCJD7E">
+        <a class="session-title" href="sessions/VCJD7E.php">GeoPython mit dem Jupyter Notebook - Rasterdaten</a>
+    <br><span class="session-speakers">Christian Strobl</span>
+</td>
+
                             <td rowspan="2" id="session_G7ZZ3Z">
         <a class="session-title" href="sessions/G7ZZ3Z.php">INSPIRE &#34;instant&#34; 2.x</a>
     <br><span class="session-speakers">Armin Retterath</span>
@@ -58,7 +62,7 @@
 </td>
 
                             <td></td>
-                            <td></td>
+                            
                             
                             <td></td>
                                                 </tr>
@@ -119,7 +123,11 @@
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_YQGPNJ">
+        <a class="session-title" href="sessions/YQGPNJ.php">Weniger ist mehr - zur Auswahl darzustellender Elemente in der digitalen Kartographie</a>
+    <br><span class="session-speakers">Christoph Hormann</span>
+</td>
+
                             <td rowspan="3" id="session_RERSW7">
         <a class="session-title" href="sessions/RERSW7.php">Grafische Prozessmodellierung mit QGIS</a>
     <br><span class="session-speakers">Claas Leiner</span>
@@ -165,7 +173,11 @@
 </td>
 
                             <td></td>
-                            <td></td>
+                            <td rowspan="1" id="session_PRCPBP">
+        <a class="session-title" href="sessions/PRCPBP.php">Reliefdarstellung mit Höhenlinien</a>
+    <br><span class="session-speakers">Mathias Gröbe</span>
+</td>
+
                             
                             
                             
@@ -216,7 +228,7 @@
 </td>
 
                             <td rowspan="1" id="session_3WCSVT">
-    <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/3WCSVT.php">Der ÖREB-Kataster - Eine Ode an offene Standards und Software</a>
+        <a class="session-title" href="sessions/3WCSVT.php">Der ÖREB-Kataster - Eine Ode an offene Standards und Software</a>
     <br><span class="session-speakers">Stefan Ziegler</span>
 </td>
 

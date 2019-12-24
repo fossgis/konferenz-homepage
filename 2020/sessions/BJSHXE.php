@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Simon Metzler</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             <p class='abstract-novideo'><img class="abstract-novideo-img" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung"> Dieser Programmbeitrag wird nicht aufgezeichnet.</p>
             <p>Durch eine IFG-Anfrage konnten insgesamt etwa 20.000 einzelne Querschnitts- und Knotenpunktszählungen, die im Auftrag des Senats bzw. der Verkehrslenkung in den vergangenen Jahrzehnten erhoben worden sind, nutzbar gemacht werden. Obwohl sich das Format im Laufe der Zeit etwas verändert hat und sie nicht georeferenziert sind, ergeben sich einige schöne Erkenntnisse und mögliche Analysen.</p>

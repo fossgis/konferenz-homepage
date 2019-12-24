@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Christian Strobl</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
             <p>Entsprechend des Bayerischen Umweltinformationsgesetzes (BayUIG) und des Bayerisches Geodateninfrastrukturgesetz (BayGDIG) stellt die Bayerische Umweltverwaltung Geodaten unter der freien Lizenz CC-BY 3.0 zur Verfügung. Diese Datensätzen stammen u.a. aus den Bereichen Geologie, Boden, Gewässer, Lärmbelastung, Naturgefahren und Naturschutz und sind über Download-Portale, den Umweltatlas Bayern und die Naturschutzanwendung FIN-Web verfügbar. Zusätzlich zu den Web-Anwendungen und Download-Möglichkeiten gibt es auch WMS-Dienste, die auf den Web-Seiten des LFU beschrieben sind.

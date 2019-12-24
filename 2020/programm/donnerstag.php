@@ -88,7 +88,11 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:00</td>
-                        <td></td>
+                        <td rowspan="1" id="session_DKTG8X">
+        <a class="session-title" href="sessions/DKTG8X.php">Vektorverschneidung mit QGIS</a>
+    <br><span class="session-speakers">Marco Hugentobler</span>
+</td>
+
                             <td rowspan="1" id="session_PHJ8VG">
     <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/PHJ8VG.php">Offene Smart Farming Produkte aus offenen Satellitendaten</a>
     <br><span class="session-speakers">Sven Bingert</span>
@@ -138,13 +142,21 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
-                        <td></td>
+                        <td rowspan="1" id="session_WTKV7Y">
+        <a class="session-title" href="sessions/WTKV7Y.php">Freie Geodaten der Umweltverwaltung Bayern - Hintergründe und einfache Anwendungsbeispiele</a>
+    <br><span class="session-speakers">Christian Strobl</span>
+</td>
+
                             <td rowspan="1" id="session_HQD7NN">
         <a class="session-title" href="sessions/HQD7NN.php">Der neue OGC API Standard ist da!</a>
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_BJSHXE">
+    <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/BJSHXE.php">Entwicklung des Berliner Radverkehrs anhand von öffentlich gemachten Verkehrszähldaten</a>
+    <br><span class="session-speakers">Simon Metzler</span>
+</td>
+
                             <td></td>
                             
                             

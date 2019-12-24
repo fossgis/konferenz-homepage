@@ -142,7 +142,11 @@
     <br><span class="session-speakers">Daniel Koch, Hannes Blitza</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="3" id="session_DMVYS9">
+        <a class="session-title" href="sessions/DMVYS9.php">Bessere Höhenlinien aus Geländemodelle erstellen</a>
+    <br><span class="session-speakers">Mathias Gröbe</span>
+</td>
+
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
@@ -159,7 +163,7 @@
 
                             
                             
-                            <td></td>
+                            
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:00</td>
@@ -180,7 +184,7 @@
 
                             
                             
-                            <td></td>
+                            
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:30</td>

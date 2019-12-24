@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Mathias Gröbe</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten. Workshopbuchungen sind auch nach der Ticketbuchung online und auf der Konferenz möglich.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-140</p>
 
             
             <p>Höhenlinien sind eine wichtige kartographische Darstellungsmethode für das Relief in Karten. Die Erzeugung aus einem digitalen Höhenmodell ist im GIS schnell erledigt, aber oft graphisch weniger ansprechend.  Im Workshop werden Workflows mit QGIS und GDAL gezeigt wie man es besser machen kann um u.a. ästhetische Höhenlinien in eben Landschaften zu erhalten oder die Höhenlinien ggf. zu verdichten oder auszudünnen.</p>

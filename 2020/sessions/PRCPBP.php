@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Mathias Gröbe</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             
             <p>Neben der Schummerung sind Höhenlinien die wichtigste kartographische Darstellungsmethode für das Relief in Karten. Die Höhenlinie ist die gedachte Schnittlinie einer horizontalen Ebene mit der Erdoberfläche und liefert eine Grundrissdarstellung verschiedener Geländeformen.
