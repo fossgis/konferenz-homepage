@@ -34,7 +34,7 @@
             <tbody>
                 <tr>
                         <td class="program-time">07:00</td>
-                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#sportliche_stadtfuehrung">Sportliche Stadtführung</a></td>
+                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#fruehsport">Frühsport</a></td>
                                             </tr>
                                 <tr>
                         <td class="program-time">09:00</td>

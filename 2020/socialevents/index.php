@@ -40,7 +40,7 @@
 	icketbuchung abgefragt.</p>
 
 	<h3>Donnerstag, 12. März 2020</h3>
-	<h4 id="sportliche_stadtfuehrung">Sportliche Stadtführung</h4>
+	<h4 id="fruehsport">Frühsport: Sportliche Stadtführung</h4>
 	<p>Beginn: 07:00 Uhr am Haupteingang des Veranstaltungsortes<br>
 	Leitung: Marco Lechner</p>
         <p>Um richtig in Schwung zu kommen, werden wir in 3 verschiedenen Runden zu je 30
@@ -53,7 +53,12 @@
 	es dann schon etwas flotter zu und es werden auch etwas längere Distanzen geschafft, so dass
 	uns die dritte und letzte Schleife über den Schwarzwaldrand auf den Freiburger Schlossberg
 	führt und uns nochmal alles abverlangt. Belohnt werden wir mit einem wunderbaren Ausblick
-	auf die Stadt und mit etwas Glück Fernsicht bis zu den Vogesen.</p>
+        auf die Stadt und mit etwas Glück Fernsicht bis zu den Vogesen.</p>
+
+        <h4>Frühsport: Yoga und Pilates</h4>
+        <p>Beginn: 8:00 Uhr<br>
+        Leitung: Hanna Krüger</p>
+	<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger eine Session Yoga und Pilates anbieten.</p>
 
 	<h4>Fototermin </H4>
 	<p>Circa. 15 Uhr</p>
@@ -62,10 +67,10 @@
 	<p>ab 18:00 Uhr im +++++. Alle Mitglieder sind herzlich eingeladen, teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Neuwahlen. Getränke werden gestellt und es wird für alle Pizza bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>
 
 	<h3>Freitag, 13. März 2020</h3>
-	<h4>Yoga und Pilates</h4>
+	<h4 id="yoga">Frühsport: Yoga und Pilates</h4>
         <p>Beginn: 8:00 Uhr<br>
         Leitung: Hanna Krüger</p>
-	<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger eine Session Yoga und Pilates anbieten.</p>
+	<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger auch am Freitag eine Session Yoga und Pilates anbieten.</p>
 
 	<h4 id="sektempfang">Sektempfang am FOSSGIS-Stand </h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 15:00 Uhr herzlich zum Sektausklang eingeladen.</p>

@@ -34,7 +34,7 @@
             <tbody>
                 <tr>
                         <td class="program-time">08:00</td>
-                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#yoga">Yoga und Pilates</a></td>
+                        <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#yoga">Frühsport</a></td>
                                             </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
