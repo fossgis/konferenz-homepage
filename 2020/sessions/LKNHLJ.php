@@ -29,6 +29,10 @@
             <p>Das FOSSGIS-Jeopardy bietet als Fortsetzung der OSM-Quizze der Vorjahre wieder spannende Fragen zu (mehr oder weniger) wissenswerten Fakten und vor allem viel Spaß für jung und alt, alt und neu.</p>
 <p>Jede/r ist herzlich eingeladen mitzuraten, um das eigene Wissen im Umfeld von GIS, OpenStreetMap, Kartografie, FOSS zu testen und vielleicht auch etwas aufzufrischen.</p>
 <p>Du kennst sämtliche Parameter der OpenLayers-API, kannst jede Karte lesen und übst zum Spaß EPSG-Codes? Beste Voraussetzungen den Vorjahressieger zu entthronen!</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Johannes Kröger</h3>
+            <p>Ge🌍hipper Influ🌐ncer</p>
+        </div>
         </section>
 
 

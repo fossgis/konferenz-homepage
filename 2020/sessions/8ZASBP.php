@@ -38,6 +38,10 @@
 </ul>
 <p>Neben den eigentlichen neuen Funktionalitäten werden jeweils Beispiele aus der Praxis gezeigt. </p>
 <p>Als Ausblick/Diskussion wird eine Liste möglicher weiterer Kartografie-Verbesserungen vorgestellt an denen in zukünftigen QGIS-Versionen gearbeitet werden könnte, mit dem Ziel Gleichgesinnte zu finden, die helfen die nötigen Spezifikationen zu schreiben oder zu verbessern, zu entwickeln oder mitzufinanzieren.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Andreas Neumann</h3>
+            <p>Andreas ist Teammitglied des QGIS Projekts und Vorstandsmitglied (Kassier) von QGIS.ORG seit 2015. Hauptberuflich arbeitet er als Projekt-Leiter und Entwickler beim Amt für Geoinformation des Kantons Solothurn in der Schweiz.</p>
+        </div>
         </section>
 
 

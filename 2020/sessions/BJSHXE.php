@@ -37,6 +37,10 @@ https://github.com/vizsim/BerlinTrafficCounts</p>
 <p>Die Daten wurden über eine IFG-Anfrage über fragdenstaat.de beschafft. Die Datenaufbereitung und Visualisierung wurde mit Python (folium, altair) realisiert. Die verwendeten Vektordaten stammen von OSM, die Basemap der Anwendung basiert ebenso auf OSM. Die Rohdaten wurden von der Verkehrlenkung Berlin in der Lizenz CC BY-SA 3.0 DE veröffentlicht und können entsprechend frei genutzt werden. Alle verwendeten Skripte befinden sich im angegebenen github repository.</p>
 <h5>Fazit</h5>
 <p>Verkehrszähldaten sind meist mit öffentlichen Geldern erhobene Daten, die aber selten (maschinenlesbar, unaggregiert) veröffentlicht werden. Dies ist bedauerlich, denn wie in diesem Beispiel gesehen, lassen sich die Daten ganz gut nutzen um aktuelle Entwicklungen im Verkehr zu erkennen. Die Erkenntnisse könnten politischen Entscheidungsträgern helfen Entscheidungen zu treffen und ggf. nötigen Maßnahmen ggü. der Öffentlichkeit besser zu erklären zu können.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Simon Metzler</h3>
+            <p>Interessiere mich vor allem für Geo-Analysen und -Visualisierungen mit Verkehrsbezug. Arbeite dabei am liebsten mit Open-Source-Software (z.B. QGIS, Geopandas) und öffentlich verfügbaren Daten.</p>
+        </div>
         </section>
 
 

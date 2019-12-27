@@ -27,6 +27,12 @@
 
             
             <p>Mit dem Ziel weitere Projekte dieser Art in Deutschland -- oder anderswo -- anzuregen,  wird die Präsentation vor allem beschreiben, was überhaupt gemacht wird, wie alles organisiert ist und wie die Teilnehmenden es beurteilen. Bis Ende 2019 wurden 20 Mapathons veranstaltet. U.a. hat dieser Erfolg dazu geführt, dass CartONG ein sehr ähnliches Projekt 2018-2019 in Frankreich durchführte. Momentan wird über einen Antrag zur Erweiterung der Projektidee auf europäischer Ebene diskutiert.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Robert Danziger</h3>
+            <p>Nach seiner Ankunft 1976 in Mannheim arbeitete er von 1978 bis 1982 als Juniorprofessor für Sozialwissenschaften an der Universität Mannheim. In 1980 promovierte er (Politikwissenschaft) an der State Univ. of New York at Buffalo. Er nahm 1982 eine Stelle im IT-Service des Europäischen Hochschulinstituts in Florenz (einer Einrichtung der EU und der Mitgliedstaaten) an. Seit 2013 in Mannheim im Ruhestand, studiert er mehrere Jahre Kartographie- und Geoinformatik an der Universität Heidelberg.
+2016 begann er eine ehrenamtliche Zusammenarbeit mit der französischen NGO CartONG (in Chambéry) und ist derzeit im Vorstand tätig.
+Weitere aktive Engagements: als Folge einer Westafrikareise 2006, initiierte er ein Bildungsprojekt in Larabanga, Ghana. Das Projekt hat sich weiterentwickelt und seit 2017 arbeitet er daran, ein lokales Kollektiv in Kartierungskompetenzen auszubilden, die für die Entwicklung des Tourismus in der Gegend unerlässlich sind.</p>
+        </div>
         </section>
 
 

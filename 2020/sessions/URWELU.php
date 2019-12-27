@@ -37,6 +37,10 @@ Unter Anderem behandelt der Workshop Themen wie:<br />
 - Datendefinierte Übersteuerung mit dem Ausdruckseditor
 - Erstellen von eigenen Funktionen für den Ausdruckseditor
 Die Teilnehmenden können den Einsatz des Ausdruckseditors an Schulungsnotebooks selbst ausprobieren und werden anhand von praktischen Übungsbeispielen durch die Materie geleitet. Von Vorteil sind Grundkenntnisse im Umgang mit Geodaten und Kenntnisse im Umgang mit QGIS.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Stefan Giese</h3>
+            <p>Ich bin Diplomgeologe und seit 2016 als GIS-Consultant und Projektleiter bei der WhereGroup in Bonn. Ich lebe und arbeite in Freiburg im Breisgau und beschäftige mich neben meiner Arbeit bei der WhereGroup mit der geophysikalischen Erkundung von archäologischen Bodendenkmälern.</p>
+        </div>
         </section>
 
 

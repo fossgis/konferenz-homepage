@@ -47,6 +47,14 @@ Im Rahmen des Projektes wird eine Verbesserung der Wartbarkeit im Vergleich zur 
 Durch die Bereitstellung des neuen Systems innerhalb eines High-Availability (HA) -Clusters soll erreicht werden, dass die neue GDI-DE Testsuite hochverfügbar bereitgestellt wird. Im Rahmen des Entwicklungsprozesses wird dieses Projektziel durch den Einsatz von Docker und Kubernetes, aber auch durch die entsprechende Auslegung der Architektur unterstützt.
 Aller Voraussicht nach wird die neue GDI-DE Testsuite der Öffentlichkeit im 2. Quartal 2020 zur Verfügung gestellt werden. 
 Im Vortrag wird der aktuelle Stand zur Neuentwicklung der GDI-DE Testsuite  vorgestellt. Schwerpunkte des Vortrags werden allgemeine Erläuterungen zur Anwendung und der Einsatzbereiche sowie technische Details zur intelligenten und flexiblen Einbindung unterschiedlicher Test-Engines in eine Umgebung sein.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Marc Jansen</h3>
+            <p>Ich bin seit vielen Jahren in der OpenSource GIS-Szene aktiv, als Entwickler (u.a. <a href="http://openlayers.org/">OpenLayers</a>, <a href="https://geoext.github.io/geoext3/">GeoExt</a>, <a href="https://github.com/terrestris/shogun2">SHOGun</a> usw.), als konzeptuell Beitragender (u.a. <a href="https://github.com/terrestris/react-geo">react-geo</a>, <a href="https://github.com/terrestris/geostyler">GeoStyler</a> usw.), als Sprecher und Workshopleiter (international &amp; national), als <a href="https://www.osgeo.org/about/charter-members/">OSGeo Charter Member</a> und als Geschäftsführer von <a href="https://www.terrestris.de/">terrestris</a>, einer auf OpenSource GIS-Lösungen spezialisierten IT Firma aus Bonn.</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Manuel Fischer</h3>
+            <p>Ich habe von 2002 bis 2006 (Diplom) und von 2007 bis 2009 (Master) an der FH Mainz Geoinformatik studiert. Aktuell bin Leiter des Betrieb GDI-DE im BKG und für den Betrieb und Ausbau der National Technischen Komponenten (Geoportal.de, GDI-DE Testsuite, GDI-DE Registry, Geodatenkatalog.de) der GDi-DE verantwortlich. Im BKG bin ich seit 2006 angestellt und war insgesamt über 10 Jahre im Bereich Softwareentwicklung (u.a. TopPlus-Verfahren) tätig.</p>
+        </div>
         </section>
 
 

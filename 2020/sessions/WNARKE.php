@@ -29,6 +29,10 @@
             <p>Das OSGeo-Projekt deegree stellt seit mehreren Jahren umfassende Referenzimplementierungen für OGC-Webservices wie z.B. WFS, WMS und WMTS bereit. Wenn es um den Aufbau von Geodateninfrastrukturen geht, dann können Geodaten in unterschiedlichen Formaten mit den deegree OGC-Webservices publiziert werden.</p>
 <p>Aktuell wird an der Implementierung des neuen Standard OGC API - Features, dem Nachfolger des Web Features Service (WFS), gearbeitet. </p>
 <p>Die Präsentation zeigt die wichtigsten Neuerungen in deegree, eine kurze Übersicht des Standards OGC API - Features und dessen Umsetzung innerhalb von deegree.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Torsten Friebe</h3>
+            <p>Torsten Friebe ist Committer und Mitglied des TMC im OSGeo-Projekt deegree (https://www.deegree.org). Seit 2011 ist er Gesellschafter und Geschäftsführer bei der lat/lon GmbH in Bonn.</p>
+        </div>
         </section>
 
 

@@ -27,6 +27,10 @@
 
             
             <p>Rollen und Rechte in einer Geodatenbank zu verwalten, war schon immer eine komplizierte Aufgabe. Benutzerverwaltung up-to-date halten, wechselnde Aufgaben und ressortspezifische Zugriffe zu ermöglichen, eine administrative Herkulesaufgabe. In einer Stadtverwaltung wie Freiburg, mit mehreren hundert Mitarbeitenden aus vielen verschiedenen Ämtern und Projektgruppen, die alle auf eine zentrale Geodatenhaltung zugreifen wollen, bietet es sich daher an, diese Berechtigungen über die zentrale Benutzerverwaltung abzubilden. Das Zusammenspiel von Open-Source Komponenten wie PostgreSQL und QGIS mit dem Verzeichnisdienst ActiveDirectory wird durch Kerberos als Authentifizierungsdienst umgesetzt. Es ermöglicht z.B. Single-Sign-On bei der Nutzung der zentralen Geodatenbank in QGIS unter Windows. Die Konzeption der Rollen im AD und in der Datenbank stehen dabei an erster Stelle. Die automatische Übernahme der Rollen vom AD in die Datenbank ist eine weitere Herausforderung, ebenso wie die Weitergabe von QGIS-Projekten mit gespeicherten Datenbank-Verbindungen die mittels Kerberos authentifiziert werden. Wir stellen die bisherigen Erfahrungen bei der Anwendung dieses Vorgehens in der Stadtverwaltung Freiburg vor.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Michael Schulz</h3>
+            <p>Stadt Freiburg, Digitales und IT</p>
+        </div>
         </section>
 
 

@@ -29,6 +29,10 @@
             <p>Die Werkzeugkiste in QGIS stellt bereits eine Menge an Verarbeitungsalgorithmen bereit. Allerdings sind die realen Anforderungen oft derart, dass Daten vorbereitet, mehrere Werkzeuge kombiniert und Ergebnisse händisch nachbearbeitet werden müssen. Das Programmieren eigener Werkzeuge kann solche Workflows beschleunigen und bietet zudem weitere Vorteile wie bessere Reproduzierbarkeit von Ergebnissen, Vermeidung von Fehlern und einfache Weitergabe an Dritte.
 In diesem Workshop werden gemeinsam die Grundlagen erarbeitet um mit Python Verarbeitungsalgorithmen für QGIS zu entwickeln, diese einzubinden und zu teilen. Es werden Anwendungsbeispiele aus der klassischen GIS Analyse umgesetzt und eigene Fragestellungen bearbeitet.
 GIS und Python Grundkenntnisse sind für die Teilnahme empfehlenswert. Auf die Besonderheiten der Verwendung von Python in QGIS wird im Workshop eingegangen.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Peter Gipper</h3>
+            <p>Peter Gipper lebt seine QGIS Begeisterung als Entwickler und Berater bei der WhereGroup aus. Er ist vor allem in der Plugin Entwicklung für QGIS im Zusammenhang mit räumlichen Datenbanken (PostGIS, SpatiaLite) tätig und Dozent der FOSS-Academy (https://www.foss-academy.com)  für die Python Schnittstelle PyQGIS. Durch die Erfahrung in der Umsetzung von GIS-Projekten ist er in der Lage praxisnahe und aktuelle Inhalte zu vermitteln. Als studierter Geologe ist Peter Gipper insbesondere an Fragestellungen aus dem Bereich der Geowissenschaften interessiert.</p>
+        </div>
         </section>
 
 

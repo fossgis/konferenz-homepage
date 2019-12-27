@@ -29,6 +29,14 @@
             <p>Die Stadt Freiburg hat sich Ende 2018 auf den Weg gemacht, die digitale Bauleitplanung für Bebauungsplanverfahren auf die Verwendung des XÖV Standards XPlanung umzustellen, sowie das aktuelle Planungsrecht XPlanung-konform nach zu erfassen. Die Bereitstellung der erfassten Daten soll wiederum über OGC-Dienste unter Einbindung in ein zentrales Austausch- und Validierungsportal durchgeführt werden.</p>
 <p>Die Präsentation zeigt die Erfahrungen und verschiedenen Schritte zur Umsetzung mit den eingesetzten FOSS-Werkzeugen, wie deegree, HALE, QGIS, PostgreSQL/PostGIS, sowie die Ergebnisse aber auch die Schwierigkeiten. </p>
 <p>Die Einbindung der bereitgestellten Daten per XPlanung WMS- und WFS-Diensten in die Metadaten-Prozesse der GDI Freiburg unter Verwendung von GeoNetwork werden im Vortrag ebenfalls erörtert wie die Transformation in INSPIRE-PLU-Dienste.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Torsten Friebe</h3>
+            <p>Torsten Friebe ist Committer und Mitglied des TMC im OSGeo-Projekt deegree (https://www.deegree.org). Seit 2011 ist er Gesellschafter und Geschäftsführer bei der lat/lon GmbH in Bonn.</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Michael Schulz</h3>
+            <p>Stadt Freiburg, Digitales und IT</p>
+        </div>
         </section>
 
 

@@ -31,6 +31,11 @@
 <p>Die Hauptkomponenten sind das Open-Vector-Schema und Tools für das Erzeugen von Vektorkacheln mit OSM-Daten und OpenMap-Stilen.</p>
 <p>Der OSM-Karten-Stil kann serverseitig in Raster-Kacheln gerendert werden, um Kompatibilität und Portabilität sicherzustellen. Die Kacheln können in verschiedenen Viewern wie Leaflet, OpenLayers, QGIS oder ArcGIS geöffnet werden. </p>
 <p>Dieser Vortrag bietet einen Überblick über den Einsatz und Prozessierung bis zur Einbindung von Vektortiles in einer Webkarte. Weitere Ansätze für das unabhängige Hosting und die Verwendung von Vektorkacheln werden ebenfalls vorgestellt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Robert Klemm</h3>
+            <p>Ich bin studierter Geoinformatiker und Kartograph und seit 2017 als GIS-Consultant und Entwickler bei der <a href="https://wheregroup.com">WhereGroup</a>  in Berlin tätig.</p>
+<p>Ich weise Erfahrung mit PostgreSQL und PostGIS, Imposm, Mapnik, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin in Apache, Solr, OpenLayers, MapProxy, OGC Standards, GraphHopper und  im Skripting.</p>
+        </div>
         </section>
 
 

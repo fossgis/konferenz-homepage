@@ -30,6 +30,11 @@
 <p>Der Lösungsansatz wird am Beispiel von Mapbender durchgeführt und soll auch Nutzer ansprechen, die eine Routing-Lösung in ihren WebGis benutzen möchten, aber sich nicht mit der Installation und Programmierung von Routing-Lösungen herumschlagen möchten.</p>
 <p>Im Vortrag werden die Anforderungen an das User-Interface erläutert und welche Unterschiede es zwischen den Routing-Lösungen gibt, die betrachtet und später in die Lösung einfließen.</p>
 <p>Außerdem soll es den User ermöglicht werden, mit ein paar Klicks eine Routinglösung zu erstellen, Routing- und Visualisierungs-Einstellungen vorzunehmen und zu speichern, damit eine Routing-Anfrage an die Routinglösung gesendet werden und im WebGIS dargestellt werden kann.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Robert Klemm</h3>
+            <p>Ich bin studierter Geoinformatiker und Kartograph und seit 2017 als GIS-Consultant und Entwickler bei der <a href="https://wheregroup.com">WhereGroup</a>  in Berlin tätig.</p>
+<p>Ich weise Erfahrung mit PostgreSQL und PostGIS, Imposm, Mapnik, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin in Apache, Solr, OpenLayers, MapProxy, OGC Standards, GraphHopper und  im Skripting.</p>
+        </div>
         </section>
 
 

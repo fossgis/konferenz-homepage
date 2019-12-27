@@ -59,6 +59,12 @@ Liste aller Stände, Standlisten für die Themengebiete sowie deren Infrastruktu
 Die Erzeugung der Pläne wurde mit QGIS durchgeführt, wobei auch verschiedene Planblattschnitte mit der Atlas-Funktion erzeugt wurden.</p>
 <h3>Verortung der Planelemente</h3>
 <p>In der unmittelbaren Vorbereitung des Pfalztages wurden die Planungselemente z.B. die Stände in der vor Ort auf den Strassen markiert, so dass die Stände genau entsprechend der Planungen aufgebaut werden konnte. Am Donnerstag vor Beginn der Veranstaltung erwies sich dann der Bestand der Planungen als die Feuerwehr mit der Drehleiter an den Ständen vorbei durch die Stadt fahren konnte.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Jan Klein</h3>
+            <p>Elektromeister bei
+Stadtwerke Annweiler am Trifels
+Abteileung Automatisierung und Steuerung</p>
+        </div>
         </section>
 
 

@@ -31,6 +31,11 @@
 <p>Der Vortrag zeigt aus der Perspektive einer katasterverantwortlichen Stelle (=Kanton) wie mit OpenSource-Software und offenen Standards der vom Bund detailliert spezifizierte und stark reglementierte ÖREB-Kataster umgesetzt wurde. Im Zentrum der effizienten und transparenten Umsetzung des Kantons Solothurn steht ein gemeinsames Datenmodell (Rahmenmodell des ÖREB-Katasters), mit dem die unterschiedlichsten ÖREB-Themen beschrieben, transportiert und geprüft werden können, um sie in einer gemeinsamen Datenbankstruktur vorhalten zu können. </p>
 <p>Die eingesetzten “usual suspects” und neu entwickelten Tools werden ebenso wie die grundlegenden Konzepte und Gedanken dahinter vorgestellt.</p>
 <p>Der ÖREB-Kataster und damit verbunden das Arbeiten mit Datenmodellen, offener Standards und offener Software dient als Vorbild für eine saubere und transparente Aggregation verschiedener Datensätze von verschiedener Datenherren aus verschiedenen Verwaltungsebenen.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Stefan Ziegler</h3>
+            <p>https://twitter.com/edigonzales</p>
+<p>https://www.instagram.com/edi_gonzales/</p>
+        </div>
         </section>
 
 

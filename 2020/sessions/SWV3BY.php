@@ -42,6 +42,23 @@
 </ul>
 <p>Je nach Interesse der Teilnehmer und verfügbarer Zeit werden wir Schwerpunkte setzen, um allen einen Lerneffekt zu verschaffen.</p>
 <p>Zielgruppe sind alle Interessierten, die die Möglichkeiten von OpenLayers kennen lernen wollen. JavaScript-Kenntnisse sind sicherlich von Vorteil, jedoch zum Verfolgen und Nachvollziehen der Übungen keine zwingende Pflicht.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Christian Mayer</h3>
+            <ul>
+<li>Dipl.-Ing. Geoinformatik &amp; Vermessung</li>
+<li>Gründer <a href="https://meggsimum.de">meggsimum</a></li>
+<li>Softwareentwickler &amp; -architekt</li>
+<li>❤ Open Source (Geospatial)</li>
+<li>OpenLayers, Wegue, GeoExt, Vue.js, GeoStyler, GeoServer, PostGIS...</li>
+<li>Sprecher &amp; Trainer</li>
+<li>national &amp; international</li>
+<li>OSGeo Foundation Charter Member</li>
+</ul>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Marc Jansen</h3>
+            <p>Ich bin seit vielen Jahren in der OpenSource GIS-Szene aktiv, als Entwickler (u.a. <a href="http://openlayers.org/">OpenLayers</a>, <a href="https://geoext.github.io/geoext3/">GeoExt</a>, <a href="https://github.com/terrestris/shogun2">SHOGun</a> usw.), als konzeptuell Beitragender (u.a. <a href="https://github.com/terrestris/react-geo">react-geo</a>, <a href="https://github.com/terrestris/geostyler">GeoStyler</a> usw.), als Sprecher und Workshopleiter (international &amp; national), als <a href="https://www.osgeo.org/about/charter-members/">OSGeo Charter Member</a> und als Geschäftsführer von <a href="https://www.terrestris.de/">terrestris</a>, einer auf OpenSource GIS-Lösungen spezialisierten IT Firma aus Bonn.</p>
+        </div>
         </section>
 
 

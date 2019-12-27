@@ -28,6 +28,10 @@
             
             <p>KADAS Albireo ist eine Desktop-GIS-Anwendung, die auf dem QGIS Kern aufbaut und verschiedene QGIS-Standardfunktionen sowie spezielle Erweiterungen in einer stark vereinfachten Benutzeroberfläche einem breiten Spektrum von Endnutzer zugänglich macht.</p>
 <p>Dieser Vortrag stellt die Desktop-GIS-Anwendung KADAS Albireo vor, sowohl aus Sicht der Funktionalitäten die sie dem Endnutzer anbietet, als aus Sicht der Programmarchitektur als QGIS basierte Anwendung.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Sandro Mani</h3>
+            <p>Software Entwickler bei Sourcepole AG</p>
+        </div>
         </section>
 
 

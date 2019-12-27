@@ -30,6 +30,10 @@
 <p>Zum Einsatz kommen PostGIS, Imposm und einfache CGI-scripten.</p>
 <p>Das Backend ist im Rahmen der Open Camping Map entstanden, kann aber für beliebige POI-Karten eingesetzt werden.</p>
 <p>Als Frontend kann neben Karten auf Basis von Openlayers oder Leaflet auch umap verwendet werden.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Sven Geggus</h3>
+            <p>Sven ist bereits seit 2007 im Projekt Openstreetmap aktiv und begann etwa zur selben Zeit auch im beruflichen Umfeld mit dem Einsatz von FOSS im GIS Umfeld.</p>
+        </div>
         </section>
 
 

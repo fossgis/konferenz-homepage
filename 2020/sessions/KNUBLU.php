@@ -30,6 +30,14 @@
 Einige der Funktionalitäten sind persistente und flüchtige Berechnung, Benutzerverwaltung zur Begrenzung von z.B. Pixeln, Prozessen und Berechnungsdauer sowie das Loggen von API-Aufrufen und verwendeten Ressourcen durch jeden Benutzer. Ein weiterer Vorteil ist die einfache Installation mit Docker. Bei der Installation in einer Cloud Umgebung mit OpenShift oder Kubernetes verwaltet der integrierte Loadbalancer das Cluster automatisch.
 Dem Geist von FOSS folgend sind wir stolz, ein OSGeo-Community-Projekt geworden zu sein und freuen uns auf die Erweiterung der actinia-Community.</p>
 <p>Der Vortrag gibt eine Übersicht über Konzepte und grundlegende Funktionalitäten von actinia.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Markus Neteler</h3>
+            <p>Mitgründer von mundialis, Bonn (https://www.mundialis.de/)</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Carmen Tawalika</h3>
+            <p>Geographin, Open Source-Anhängerin und Entwicklerin bei mundialis</p>
+        </div>
         </section>
 
 

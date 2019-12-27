@@ -49,6 +49,23 @@ Dazu können auch die zu stylenden Geodaten hochgeladen und verknüpft werden, s
 <p>Quellcode auf github: https://github.com/geostyler/geostyler</p>
 <p>Online-Dokumentation: https://geostyler.github.io/geostyler/latest/index.html</p>
 <p>Demo: https://www.geostyler.org</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Christian Mayer</h3>
+            <ul>
+<li>Dipl.-Ing. Geoinformatik &amp; Vermessung</li>
+<li>Gründer <a href="https://meggsimum.de">meggsimum</a></li>
+<li>Softwareentwickler &amp; -architekt</li>
+<li>❤ Open Source (Geospatial)</li>
+<li>OpenLayers, Wegue, GeoExt, Vue.js, GeoStyler, GeoServer, PostGIS...</li>
+<li>Sprecher &amp; Trainer</li>
+<li>national &amp; international</li>
+<li>OSGeo Foundation Charter Member</li>
+</ul>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Jan Suleiman</h3>
+            <p>https://github.com/jansule</p>
+        </div>
         </section>
 
 

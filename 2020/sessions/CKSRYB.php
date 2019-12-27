@@ -32,6 +32,10 @@ Unter Anderem behandelt der Workshop Themen wie:<br />
 - Nutzungsmöglichkeiten Mischmodus
 - Verwendung von Live Effekten zur Visualisierung spezieller Darstellungsformen.
 Der Teilnehmer kann den Einsatz von Live Effects und Blending Modes anhand von umfangreichen Übungsdaten und von praktischen Übungsbeispielen selbst ausprobieren. Von Vorteil sind Grundkenntnisse im Umgang mit Geodaten und Kenntnisse im Umgang mit QGIS.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Stefan Giese</h3>
+            <p>Ich bin Diplomgeologe und seit 2016 als GIS-Consultant und Projektleiter bei der WhereGroup in Bonn. Ich lebe und arbeite in Freiburg im Breisgau und beschäftige mich neben meiner Arbeit bei der WhereGroup mit der geophysikalischen Erkundung von archäologischen Bodendenkmälern.</p>
+        </div>
         </section>
 
 

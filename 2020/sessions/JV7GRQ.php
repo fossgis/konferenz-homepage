@@ -28,6 +28,11 @@
             
             <p>Programme zur Kartenerstellung arbeiten mit sogenannten Koordinatenbezugssystemen (KBS), entweder explizit wie QGIS, das in der Lage ist, Layer mit unterschiedlichen KBS zur Laufzeit in ein Projekt-KBS umzurechnen, oder implizit wie viele Programme, die einfach die vorgegebenen x- und y-Werte als Koordinatensystem benutzen. In diesem Vortrag wird aufgezeigt, was notwendig und möglich ist, damit die runde Erdoberfläche auf einer ebenen Oberfläche wie einer Landkarte oder einem Bildschirm dargestellt werden kann. Über Begriffe wie Referenzellipsoid und Geoid wird auch auf die Höhenbestimmung eingegangen.
 Auf Formeln und mathematische Einzelheiten wird nicht eingegangen.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Wolfgang Hinsch</h3>
+            <p>Ich bin Vermessungsingeneur, seit 2008 bei OSM tätig und habe schon mehrere Vorträge, u.a. bei Fossgis und (Meta-)Nook in Lübeck gehalten.
+Ich beschäftige mich vorwiegend mit der kartographischen Darstellung der OSM-Daten.</p>
+        </div>
         </section>
 
 

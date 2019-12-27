@@ -44,6 +44,10 @@ Konfiguration für einen Produktiveinsatz berücksichtigt werden.</p>
 - Performance-Tuning und sinnvolle Einstellungen für den Produktiveinsatz</p>
 <p>Vorkenntnisse in einer Programmiersprache sind für diesen Workshop nicht notwendig.
 Praktische Erfahrungen mit dem GeoServer sind von Vorteil, aber nicht zwingend erforderlich.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Hannes Blitza</h3>
+            <p>employee at terrestris GmbH, Bonn.</p>
+        </div>
         </section>
 
 

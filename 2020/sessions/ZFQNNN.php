@@ -30,6 +30,10 @@
 <p>GeoCat bietet mit Bridge die Möglichkeit ArcGis-Projekte als WMS, WFC oder anderen Webdiensten verfügbar zu machen. So kann ein Projekt über Umwege auch in QGIS genutzt werden. Diese Lösung richtet sich also vorrangig an WebServer wie Map- oder GeoServer.</p>
 <p>Die WhereGroup entwickelt ein auf Python basierendes Tool weiter, dessen Grundlage ein Projekt von Allan Maungu ist. Die Idee ist hier, die Projektdaten von ArcGis als QGIS-(XML)-Datei zu exportieren. Mithilfe von ArcObjects, die das Grundgerüst von ArcGis bilden, kann so auf alle Klassen und ihre Eigenschaften zugegriffen werden, um sie in ein QGIS lesbares Format in Form von QGIS-Projektdateien oder QGIS-Layerdateien abzuspeichern. </p>
 <p>Trotzdem gibt es Hürden, die jeder Ansatz nehmen muss, seien es die geschützten Esri-Fonts, um Icons dazustellen, verschiedene Renderer oder das Labeling. Abschließend wird ein Einblick in den aktuellen Stand der WhereGroup-Toolbox- gegeben und ein exportiertes QGIS-Projekt vorgestellt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Peter Heidelbach</h3>
+            <p>Seit September 2018 als Auszubildender bei der WhereGroup am Coden. Beschäftigt in der QGIS-Forschungsabteilung und App-Entwicklung. Kotlin-Enthusiast, Hutgröße 54 und hat sein Handy immer lautlos.</p>
+        </div>
         </section>
 
 
