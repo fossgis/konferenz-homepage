@@ -361,3 +361,10 @@ img.abstract-novideo-img {
 	font-size: 80%;
 	line-height: initial;
 }
+
+.abstract-bio {
+	font-size: 80%;
+	background-color: #ffd097;
+	padding: 15px 15px 15px 15px;
+	margin-top: 15px;
+}
