@@ -26,7 +26,7 @@
 	
 	<h3>Mittwoch, 11. März 2020</h3>
 	<h4>Eröffnung FOSSGIS-Konferenz</h4>
-	<p>um 13:00 Uhr im Hörsaal des Chemiehochaus, Albertstr. 21, Freiburg.</p>
+	<p>um 13:00 Uhr im Hörsaal des Chemiehochhaus, Albertstr. 21, Freiburg.</p>
 
 	<h4>Anwendertreffen</h4>
 	<p>Es können an allen Tagen Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen bis 19:30 Uhr zur Verfügung, bitte <a href="mailto:konferenz-orga@fossgis.de">per E-Mail</a>  an das Konferenzteam anfragen oder mit dem Team vor Ort absprechen.</p>
