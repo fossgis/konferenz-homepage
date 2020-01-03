@@ -67,7 +67,7 @@
 
 	<h3>Rechenzentrum - Workshops</h3>
 	<p>
-		Die <b>Workshops</b> werden durchgeführt. 
+		Die <b>Workshops</b> werden im Rechenzentrum durchgeführt. 
 		Dieses ist etwa 3 Gehminuten vom Haupteingang entfernt. 
 	</p>
 
