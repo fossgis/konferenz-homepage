@@ -56,6 +56,10 @@ zwingend erforderlich.</p>
 <li>docker https://www.docker.com/</li>
 <li>docker-compose https://docs.docker.com/compose/</li>
 </ul>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Jan Suleiman</h3>
+            <p>https://github.com/jansule</p>
+        </div>
         </section>
 
 

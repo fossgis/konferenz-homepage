@@ -27,6 +27,11 @@
 
             
             <p>Mit der Eröffnung startet das OSM-Barcamp am Samstag. Jeder bringt ein Thema seiner Wahl mit, gemeinsam wird der Zeitplan abgestimmt und Interessierte ordnen sich zu.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Thomas Skowron</h3>
+            <p>OpenStreetMap-Enthusiast und professioneller Nutzer, freiberuflicher Softwareentwickler, Leiter des Programmkomitees FOSSGIS 2020</p>
+<p><a href="https://thomas.skowron.eu">Webseite</a></p>
+        </div>
         </section>
 
 

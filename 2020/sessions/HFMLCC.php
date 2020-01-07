@@ -27,6 +27,10 @@
 
             
             <p>In 90min QGIS als GIS Werkzeug kennenlernen. Mit den wichtigsten Funktionen - Oberfläche (GUI), Werkzeugleisten, Erweiterungen installieren, WMS laden, Geopackage inkl. Layer erstellen, Punkt, Linie, Fläche digitalisieren und das Ganze mit einem Layout als PDF exportieren - vertraut machen.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Helene KAUTZ</h3>
+            <p>20 Jahre Erfahrung als Geographin und GIS Expertin im öffentlichen Dienst. Mir ist es wichtig, dass die Verwendung von GIS Werkzeugen zur Umsetzung von Projekten im Arbeitsalltag Spass macht.</p>
+        </div>
         </section>
 
 

@@ -40,6 +40,10 @@ Insbesondere wird auf folgende Module anhand praktischer Beispiele erläutert:
 * Metadateneditor
 * CKAN-Schnittstelle (OpenData)
 * Synthetisierung von INSPIRE-Downloaddiensten auf Basis von ATOM-Feeds</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Armin Retterath</h3>
+            <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
+        </div>
         </section>
 
 

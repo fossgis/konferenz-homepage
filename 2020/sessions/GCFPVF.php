@@ -27,6 +27,15 @@
 
             
             <p>Der Dienst routing.openstreetmap.de startete im 2018 als öffentlicher routing server auf OSRM Basis. Das Ziel: Routing auf openstreetmap.org auf Basis von OSRM anzubieten, mit einem Profil, dass von der community weiter verfeinert wird. Wir stellen vor, wie sich der Dienst unterdessen entwickelt hat und wie er genutzt wird.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Robert Klemm</h3>
+            <p>Ich bin studierter Geoinformatiker und Kartograph und seit 2017 als GIS-Consultant und Entwickler bei der <a href="https://wheregroup.com">WhereGroup</a>  in Berlin tätig.</p>
+<p>Ich weise Erfahrung mit PostgreSQL und PostGIS, Imposm, Mapnik, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin in Apache, Solr, OpenLayers, MapProxy, OGC Standards, GraphHopper und  im Skripting.</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Michael Spreng</h3>
+            <p>OpenStreetMapper</p>
+        </div>
         </section>
 
 

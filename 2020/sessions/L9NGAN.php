@@ -39,6 +39,11 @@ gearbeitet. Letztere soll könnte bei der Arbeit auf den digitalen Feldbüchern 
 <p>Außerdem finden Überlegungen zur Bereitstellung maßgeschneiderter Applikationen für sachverständige Dritte mit einer vorgeschalteten Authentifizierung statt. </p>
 <p>Im Gegensatz zu anderen Konzepten liegt in Koblenz die Hoheit über die Daten beim Betreiber des Portals. Durch das Hosting beim Kommunalen Gebietsrechenzentrum der Stadt Koblenz bestehen kurze Wege und es wird eine zeitnahe Unterstützung sowie eine hohe Datensicherheit gewährleistet. </p>
 <p>Die Präsentation gibt vertiefte Einblicke zur genannten Thematik.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Andreas Weckbecker</h3>
+            <p>Assesor des Vermessungs- und Liegenschaftswesens</p>
+<p>Abteilungsleiter Stadtvermessung und Geoinformation im Amt für Stadtvermessung und Bodenmanagement der Stadt Koblenz</p>
+        </div>
         </section>
 
 

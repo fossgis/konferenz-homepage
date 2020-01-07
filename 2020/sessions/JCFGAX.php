@@ -32,6 +32,10 @@ Unter Berücksichtigung dieser Aspekte, haben sich die Bundesländer Hessen, Rhe
 Zur Entwicklung des Systems wird auf das Web Application Framework Django gesetzt und dabei der Umstieg von php auf python vollzogen.
 Um das System modularer zu gestalten, werden Backend (Dienste- und Metadatenverwaltung) und Frontend (Kartenanwendung) getrennt betrachtet. Zum Austausch der Kartenkontexte wird in dabei auf OWSContext gesetzt. Diese Vorgehensweise ermöglicht die Versorgung beliebiger GIS-Clients (Web und Desktop!) mit initialen "Projektkonfigurationen".
 Der erste Schritt erfolgte mit dem Relaunch im August 2019. In diesem Zusammenhang wurden das alte CMS (Typo3), sowie die Metadatensuche durch Django Module ersetzt. Im Rahmen einer Live-Präsentation wird das neue System vorgestellt und u.a. anhand konkreter Beispiele gezeigt, wie einfach man deutschland- und seit Oktober 2019 sogar europaweit nach Geodaten suchen und diese direkt nutzen kann.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Armin Retterath</h3>
+            <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
+        </div>
         </section>
 
 

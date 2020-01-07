@@ -43,6 +43,10 @@ OSM-Datenmodells und zeigt Techniken auf, wie man effizient mit den Daten umgeht
 Daten gearbeitet haben, vielleicht mit einem der genannten Tools und die nun
 gerne besser verstehen möchten, was hinter den Daten steht. Minimale
 Programmierkenntnisse sind von Vorteil.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Sarah Hoffmann</h3>
+            <p>Sarah ist seit vielen Jahren aktiver Mapper und Entwickler für OpenStreetMap. Sie ist Maintainer für osm2pgsql, Nominatim und Pyosmium und betreibt die Wanderkarte waymarkedtrails.org.</p>
+        </div>
         </section>
 
 

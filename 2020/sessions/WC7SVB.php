@@ -35,6 +35,10 @@
  - Hackweekends
  - Gruppe Verkehrswende
  - Gruppe ÖPNV</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Lars Lingner</h3>
+            <p>Kommt noch</p>
+        </div>
         </section>
 
 

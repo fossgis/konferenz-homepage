@@ -27,6 +27,11 @@
 
             
             <p>Damit man nicht mehr Dinge im Wiki bearbeiten oder wiederfinden muss, gibt es jetzt den OSM Kalender. In dem Lightningtalk wird gezeigt, was OSMCAL ist, wie es funktioniert und wie man eigene Veranstaltungen hinzufügt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Thomas Skowron</h3>
+            <p>OpenStreetMap-Enthusiast und professioneller Nutzer, freiberuflicher Softwareentwickler, Leiter des Programmkomitees FOSSGIS 2020</p>
+<p><a href="https://thomas.skowron.eu">Webseite</a></p>
+        </div>
         </section>
 
 

@@ -28,6 +28,12 @@
             
             <p>QGIS bietet über die Werkzeugkiste eine mächtige und umfangreiche Umgebung zur Geodatenverarbeitung, die auch Werkzeuge aus GRASS, GDAL/OGR sowie Saga einbindet und den Pendants aus der proprietärer Software-Welt in nichts nachsteht. Mit der grafischen Prozessmodellierung steht ein Werkzeug zur Automatisierung von Abläufen zur Verfügung, welches zugleich eine hervorragende Hilfe bei der Dokumentation und Prüfung wiederkehrender Abläufe in der Geodatenverarbeitung ist. Auch lassen sich Funktionen bauen, die es direkt in QGIS nicht gibt.
 Im Workshop lernen die Teilnehmer/innen einen Geodatenverarbeitungsprozess mit Abfragen, Berechnungen, Überlagerungswerkzeugen, Dissolve etc. unter Nutzung der grafischen Prozessmodellierung zu entwerfen und zu testen. Es wird das gleiche inhaltliche Beispiel verwendet, wie beim Workshop Geodatenverarbeitung mit SQL, so dass sich interessante Vergleichsmöglichkeiten ergeben.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Claas Leiner</h3>
+            <p>Claas Leiner arbeitet miit seinem Büro GKG freiberuflich in Kassel und
+bietet Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme QGIS, GRASS, SpatiaLite, Postgis sowie GDAL/OGR an. Desweiteren bearbeitet er Aufträge zu Geodatenaufbereitung, -analysen und thematische Kartografie.
+Besonders verbunden ist er mit QGIS - als Mitglied des QGIS-Anwendervereins QGIS-DE, als Mitorganisator der QGIS-Anwendertreffen 2011 - 2018 sowie als Bronze-Sponsor des Projektes.</p>
+        </div>
         </section>
 
 

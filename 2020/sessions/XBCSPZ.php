@@ -30,6 +30,10 @@
 <p>Seit 2014 veröffentlicht das Kuratorium für Waldarbeit und Forsttechnik e.V. (KWF) die Rettungspunkte der meisten Bundesländer unter der zu OSM inkompatiblen Lizenz CC-BY-ND. Seitdem mache ich regelmäßige Abgleiche beider Datenbestände, kann aber aus lizenzrechtlichen Gründen die Detail-Ergebnisse nicht allgemein veröffentlichen. Als Pragmatische Lösung erhalten je nach Fehlerart die entsprechenden Mapper oder  Forstverwaltungen einen Hinweis, die erfassten oder veröffentlichten Daten nochmals vor Ort zu überprüfen.</p>
 <p>So hat sich im Laufe der Jahre ein unabhängiges QS-System entwickelt, durch das in OSM einige Erfassungsfehler korrigiert werden konnten. Aber auch in den Daten der Forstverwaltungen konnten  falsch aufgestellte oder verwechselte Schilder entdeckt werden.</p>
 <p>In dem Vortrag werden die verwendeten Methoden und die teilweise überraschenden Ergebnisse vorgestellt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Joachim Kast</h3>
+            <p>Mapper seit 2008, Ansprechpartner der deutschen OSM-Community für Behörden</p>
+        </div>
         </section>
 
 

@@ -52,6 +52,15 @@ Die flächendeckende Datenerhebung hinsichtlich Barrierefreiheit an Haltestellen
 <p><a href="https://wiki.openstreetmap.org/wiki/DE:Key:ref:IFOPT">IFOPT Wiki-Eintrag</a></p>
 <h1>Acknowledgements</h1>
 <p>Das Projekt „OPENER“ startete im März 2019 und wird im Rahmen der Förderrichtlinie „Modernitätsfonds“ (mFUND) mit insgesamt 97.110 Euro durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) gefördert.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Dr Julia Richter</h3>
+            <p>Kontakt:</p>
+<p>Technische Universität Chemnitz
+Professur Schaltkreis- und Systementwurf, Reichenhainer Str. 70, 09126 Chemnitz
+Wissenschaftliche Mitarbeiterin
+E-Mail: julia.richter@etit.tu-chemnitz.de
+Tel.: +49 371 531 37933</p>
+        </div>
         </section>
 
 

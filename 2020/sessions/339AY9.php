@@ -43,6 +43,15 @@
 <li><a href="https://av.tib.eu/media/43047">Vortrag</a> von Jakob Miksch auf der AGIT 2019</li>
 <li><a href="https://gdal.org/">Website</a> von GDAL/OGR</li>
 </ul>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Jakob Miksch</h3>
+            <p>Wissenschaftlicher Mitarbeiter im <a href="https://giscience.zgis.at/">GIScience Lab</a>, Fachbereich für Geoinformatik - Z_GIS,  Universität Salzburg.</p>
+<ul>
+<li>Website: <a href="https://jakobmiksch.eu/de/">jakobmiksch.eu</a></li>
+<li>Twitter: <a href="https://twitter.com/JakobMiksch">@JakobMiksch</a></li>
+<li>GitHub: <a href="https://github.com/jakobmiksch/">@JakobMiksch</a></li>
+</ul>
+        </div>
         </section>
 
 

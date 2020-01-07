@@ -29,6 +29,10 @@
             <p>OpenLayers ist eine sehr bekannte und verbreitete Open-Source-JavaScript-Bibliothek, um interaktive Karten im Web aus verschiedenste Quellen mit reichhaltigen Interaktionsmöglichkeiten zu erstellen.</p>
 <p>Seit 2006 sind von OpenLayers nunmehr 6 Major-Releases erschienen, die die Bibliothek jeweils dem aktuellen Stand der Technik angepasst haben und stets neue Features sowie Performanceoptimierungen mit sich brachten, Auch dank eines durch den FOSSGIS gesponserten CodeSprints konnte jüngst die Version 6 veröffentlicht werden.</p>
 <p>Der Vortrag, der von OpenLayers Kernentwicklern und Mitgliedern des PSC gehalten wird, wird zunächst den aktuellen Stand der Bibliothek vorstellen und relevante Änderungen zu früheren Versionen betrachten. Anschließend werden wir zukünftige Entwicklungsschwerpunkte beleuchten.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Marc Jansen</h3>
+            <p>Ich bin seit vielen Jahren in der OpenSource GIS-Szene aktiv, als Entwickler (u.a. <a href="http://openlayers.org/">OpenLayers</a>, <a href="https://geoext.github.io/geoext3/">GeoExt</a>, <a href="https://github.com/terrestris/shogun2">SHOGun</a> usw.), als konzeptuell Beitragender (u.a. <a href="https://github.com/terrestris/react-geo">react-geo</a>, <a href="https://github.com/terrestris/geostyler">GeoStyler</a> usw.), als Sprecher und Workshopleiter (international &amp; national), als <a href="https://www.osgeo.org/about/charter-members/">OSGeo Charter Member</a> und als Geschäftsführer von <a href="https://www.terrestris.de/">terrestris</a>, einer auf OpenSource GIS-Lösungen spezialisierten IT Firma aus Bonn.</p>
+        </div>
         </section>
 
 

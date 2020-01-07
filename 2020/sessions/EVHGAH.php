@@ -30,6 +30,10 @@
 Ich zeige wie ich das Mappen mit GPS, Fotoapparat und e-Bike optimiert habe und welche Vorteile diese Art des Mappen bietet. 
 Im zweiten Teil fokussiere ich auf die Vorteile und Abläufe für das Mappen von Infrastruktur (Gas-Pipeline, Stromnetze). Hier hat das Mappen mit dem Fahrrad grosse Vorteile: Es sind viele Orte fahrend zugänglich (wo andere Fahrzeuge nicht können oder nicht dürfen) und trotzdem kann ein grosses Gebiet erfasst werden.
 Im letzten Teil zeige ich welche Ideen und Optimierung ich mir wünschen würde. Zum Beispiel das automatische Aufzeichnen der «Holprigkeit» der Strasse.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Roman Härdi</h3>
+            <p>Mitglied des SOSM Vorstands. Elektroingenieur, Produktmanager. Mitglied der Feuerwehr Wangen an der Aare. Hobbies: OSM, Feuerwehr, Fotografieren, Amateurfunk.</p>
+        </div>
         </section>
 
 

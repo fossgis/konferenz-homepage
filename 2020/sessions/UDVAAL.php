@@ -35,6 +35,16 @@ Weiterhin wurden nicht-begehbare Flächen wie Infotafeln, Schächte (u.a.) sowie
 unterschiedlichen Ebenen bei der Erstellung des Routingnetzes berücksichtigt. Das Routingnetz wurde in verschiedenen Dichten mit 
 GRASS GIS erzeugt und in die Datenbank importiert.
 Der Vortrag stellt die gesamte, auf einem Open Source Stack basierende Lösung, sowie auch die Integration der OSM Daten vor.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Dr. Dirk Schlierkamp-Voosen</h3>
+            <p>Dr. Dirk Schlierkamp-Voosen
+Reisendeninformation
+Team RI-Maps
+Deutsche Bahn AG
+Hahnstraße 40, 60528 Frankfurt am Main
+Email: dirk.schlierkamp-voosen@deutschebahn.com
+Mobil: +49 170 3300542</p>
+        </div>
         </section>
 
 

@@ -30,6 +30,12 @@
 <p>Die technische Umsetzung mit den wesentlichen Komponenten QGIS, QGIS-Server, PostgreSQL/PostGIS und dem Web Client Lizmap wird skizziert und dabei die Gründe für die Auswahl dieser Komponenten erläutert.</p>
 <p>Es wird auch gezeigt, wie GDI-ähnliche Strukturen die Zusammenarbeit der unterschiedlichen Ingenieurbüros mit der Gemeinde verbessern können und wie die Gemeinde auch im lokalen GIS davon profitieren kann.</p>
 <p>Zum Abschluss wird der effektive Workflow vom lokalen QGIS-Projekt zur WebGIS-Anwendung anhand von Beispielanwendungen live gezeigt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Günter Wagner</h3>
+            <p>Ich betreue seit über 20 Jahren kleine Gemeinden und Städte in Bezug auf CAD/GIS/WebGIS-Anwendungen und Dienstleistungen.</p>
+<p>Wichtig sind mir individuelle, an die Bedürfnisse des Kunden angepasste Lösungen auf Basis von Standardkomponenten, möglichst aus dem Open-Source Bereich.</p>
+<p>Seit 2011 bin ich selbständig mit meinem eigenen Büro <a href="https://wagner-it.de">Wagner-IT</a>.</p>
+        </div>
         </section>
 
 

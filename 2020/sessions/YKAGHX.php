@@ -55,6 +55,23 @@ Vorkenntnisse in JavaScript oder ReactJS sind hilfreich, aber nicht zwingend erf
 <li>Demo: https://www.geostyler.org</li>
 </ul>
 <p>react: https://reactjs.org/</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Christian Mayer</h3>
+            <ul>
+<li>Dipl.-Ing. Geoinformatik &amp; Vermessung</li>
+<li>Gründer <a href="https://meggsimum.de">meggsimum</a></li>
+<li>Softwareentwickler &amp; -architekt</li>
+<li>❤ Open Source (Geospatial)</li>
+<li>OpenLayers, Wegue, GeoExt, Vue.js, GeoStyler, GeoServer, PostGIS...</li>
+<li>Sprecher &amp; Trainer</li>
+<li>national &amp; international</li>
+<li>OSGeo Foundation Charter Member</li>
+</ul>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Jan Suleiman</h3>
+            <p>https://github.com/jansule</p>
+        </div>
         </section>
 
 

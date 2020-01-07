@@ -28,6 +28,11 @@
             
             <p>Mit Kubernetes wird eine containerbasierte Plattform aufgesetzt, die horizontale Skalierung der zugrundeliegenden Rechenkapazität und bereitgestellten Applikationen ermöglicht. Für den Anwendungsfall geeignete Applikationen sind OpenFaaS und Minio. OpenFaaS ermöglicht die hoch-skalierbare Verarbeitung in unterschiedlichen Programmiersprachen. Ein- und Ausgabedaten werden für Write-Once-Read-Many Zugriffe optimiert im  ObjectStore Minio gespeichert. 
 Am Beispiel des Kampfmittelbeseitigungsdienstes Niedersachsen werden Szenarien für die Transformation und Analyse von historischen Kriegsluftbildern auf dieser Plattform dargestellt und insbesondere die Vorteile der Speicherung von Rasterdaten im Format cloud-optimized GeoTIFF in diesem Kontext aufgezeigt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Richard Bischof</h3>
+            <p>IT-Entwickler beim LGLN (Niedersachsen)
+Interessen: Distributed Systems, Security, GIS</p>
+        </div>
         </section>
 
 

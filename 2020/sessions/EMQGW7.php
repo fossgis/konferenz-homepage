@@ -30,6 +30,10 @@
 Es wird erläutert wie Analysen für weitere Verkehrsverbünde aufgenommen werden können. </p>
 <p>Der Vortrag soll ebenso einen Einblick in die laufende Arbeiten für die Analyse von GTFS-Daten geben. GTFS-Daten können zum Einen als Vorlage beim Mappen von Daten hilfreich sein: Positionen und andere Details von Haltestellen, Routen von Bussen, ...
 GTFS-Daten können zum Anderen aber auch als Input für einen Soll-Ist-Vergleich herangezogen werden.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Toni Erdmann</h3>
+            <p>Toni Erdmann ist ein langjähriger Mapper von OSM und hat 2017 wieder angefangen zu programmieren. Dabei geht es ihm derzeit vornehmlich um Qualitätssicherung im Umfeld von ÖPNV-Relationen in OSM.</p>
+        </div>
         </section>
 
 

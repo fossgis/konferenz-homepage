@@ -33,6 +33,10 @@ betroffenen Gebäude zur Neubewertung der Gefährdungsindikatoren zu bestimmen.
 Als Basis dafür bieten sich die minütlichen Änderungssdateien des OSM-Projekts in Zusammenhang mit
 projektspezifischen Erweiterungen der Datenbankstruktur an.
 Wir stellen ein Set aus vier asynchron arbeitendes Tasks, implementiert in Python und mit teilweiser Nutzung von OSM-Community-Tools, vor, mit dem wir diese Aufgabe umgesetzt haben.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Thomas Beutin</h3>
+            <p>Systemadministrator und Softwareentwickler beim GeoForschungsZentrum Potsdam</p>
+        </div>
         </section>
 
 

@@ -36,6 +36,10 @@
 <li>Integration von Kern- und externen Plugins</li>
 <li>Layouten einer einfachen druckfertigen Karte</li>
 </ul>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Otto Dassau</h3>
+            <p>Otto Dassau ist Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Das Unternehmen ist spezialisiert auf Open Source basierte Lösungen zum Thema WebGIS, GIS und GDI und engagiert sich auf verschiedenen Ebenen intensiv für deren Weiterentwicklung. Seit 2001 ist er Mitglied im FOSSGIS e.V., er ist Gründungsmitglied der QGIS Anwendergruppe Deutschland e.V. und war zwischen 2007 und 2016 Mitglied des QGIS Project Steering Committees.</p>
+        </div>
         </section>
 
 

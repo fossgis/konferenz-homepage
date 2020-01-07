@@ -38,6 +38,10 @@
 <li>Zusammenspiel mit externen QGIS-Entwicklern und -Support-Dienstleistern</li>
 </ul>
 <p>Der Vortrag beschäftigt sich explizit NICHT mit speziellen Plugins/Werkzeugen zur FTTX-Planung.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Thomas Baumann</h3>
+            <p>https://twitter.com/neogis_de</p>
+        </div>
         </section>
 
 
