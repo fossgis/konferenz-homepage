@@ -44,7 +44,7 @@
 
     <h3>Anreise mit öffentlichen Verkehrsmitteln</h3>
     <p>
-        Das <a href="https://www.openstreetmap.org/way/102476555" target="_blank">Institutsviertel der Albert-Ludwigs-Universität</a> liegt nur etwa 750 vom Freiburger Hauptbahnhof entfernt.
+        Das <a href="https://www.openstreetmap.org/way/102476555" target="_blank">Institutsviertel der Albert-Ludwigs-Universität</a> liegt nur etwa 750 m vom Freiburger Hauptbahnhof entfernt.
         Dieser wird durch die Deutsche Bahn und diverse Fernbusse bedient.
     </p>
 
@@ -98,7 +98,7 @@
     </p>
 
 	<h3>Unterkunft</h3>
-	<p>Über den Buchungsservice der Stadt Freiburg ist ein Sonderkontingent für die FOSSGIS eingerichtet. Die Hotels befinden sich alle fußläufig zum Veranstaltungsort. Buchen Sie Ihr Zimmer direkt über die Onlinebuchungsmaske, telefonisch oder per Buchungsformular.<br> <b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Freiburg eine <a href="https://www.freiburg.de/pb/,Lde/-/205332/;vbid830/;vbmid3"> Übernachtungsteuer</a>  erhebt.
+	<p>Über den Buchungsservice der Stadt Freiburg ist ein Sonderkontingent für die FOSSGIS-Konferenz eingerichtet. Die Hotels befinden sich alle fußläufig zum Veranstaltungsort. Buchen Sie Ihr Zimmer direkt über die Onlinebuchungsmaske, telefonisch oder per Buchungsformular.<br> <b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Freiburg eine <a href="https://www.freiburg.de/pb/,Lde/-/205332/;vbid830/;vbmid3"> Übernachtungsteuer</a>  erhebt.
  
 	<p><i>Buchungsservice der Stadt Freiburg</i></p>
 	<ul>
