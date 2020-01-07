@@ -37,7 +37,7 @@
 	<em>Der Fachliche Austausch im Institutsviertel</em> findet direkt zentral im
 	Institutsviertel, in dem auch die Konferenz verortet ist, statt. Der Eintritt ist im
 	FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. Dies wird bei der
-	icketbuchung abgefragt.</p>
+	Ticketbuchung abgefragt.</p>
 
 	<h3>Donnerstag, 12. März 2020</h3>
 	<h4 id="fruehsport">Frühsport: Sportliche Stadtführung</h4>
