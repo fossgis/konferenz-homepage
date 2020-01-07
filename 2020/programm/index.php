@@ -30,7 +30,7 @@
 			<a href="programm/freitag.php">Freitag, 13.03.2020</a>
 		</li>
 		<li>
-			<a href="" target="_blank" rel="noopener nofollow">OSM Samstag, 14.03.2020</a>
+			<a href="programm/samstag.php" target="_blank" rel="noopener nofollow">OSM Samstag, 14.03.2020</a>
 		</li>
 		<!--<li>
 			<a href="" target="_blank" rel="noopener nofollow">Referenten</a>
