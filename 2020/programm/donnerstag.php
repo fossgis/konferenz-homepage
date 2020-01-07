@@ -198,7 +198,11 @@
     <br><span class="session-speakers">Felix Kunde</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_BYJJNM">
+        <a class="session-title" href="sessions/BYJJNM.php">Geoprocessing mit OpenCaching</a>
+    <br><span class="session-speakers">Matthias Hinz</span>
+</td>
+
                             <td rowspan="5" id="session_YKAGHX">
         <a class="session-title" href="sessions/YKAGHX.php">GeoStyler - Eine UI für alle* Stile</a>
     <br><span class="session-speakers">Christian Mayer, Jan Suleiman</span>
