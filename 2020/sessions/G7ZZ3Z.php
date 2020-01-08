@@ -28,18 +28,20 @@
             
             <p>Im Rahmen des Workshops wird den Teilnehmern vermittelt, wie man mit Hilfe des vollständig auf FOSS-basierten GeoPortal.rlp eine INSPIRE-kompatible GDI aufbauen kann. Die Geoportal-Lösung steht hierzu in Form eines ISO-Images (debian 9) auf einem USB-Stick zur Verfügung. Alternativ gibt es auch ein Script, mit dessen Hilfe sich das Portal innerhalb von 5 Minuten auf einem debian 9 System installieren läßt.
 Die Teilnehmer lernen dabei die Anforderungen der EU INSPIRE-Richtlinie an Dienste und Metadaten kennen und erhalten einen Einblick in die Funktionalitäten des GeoPortal.rlp.
-Insbesondere wird auf folgende Module anhand praktischer Beispiele erläutert:
-* OWS Registry
-* Metadatencache
-* OWS Monitoring
-* Erzeugung dynamischer Service-Metadaten
-* OWS Proxy
-* OGC API - Features Proxy
-* Metadatensuche über REST-API
-* verteilte Metadatensuche in externen Katalogen (Deuschland und INSPIRE)
-* Metadateneditor
-* CKAN-Schnittstelle (OpenData)
-* Synthetisierung von INSPIRE-Downloaddiensten auf Basis von ATOM-Feeds</p>
+Insbesondere wird auf folgende Module anhand praktischer Beispiele erläutert:</p>
+<ul>
+<li>OWS Registry</li>
+<li>Metadatencache</li>
+<li>OWS Monitoring</li>
+<li>Erzeugung dynamischer Service-Metadaten</li>
+<li>OWS Proxy</li>
+<li>OGC API - Features Proxy</li>
+<li>Metadatensuche über REST-API</li>
+<li>verteilte Metadatensuche in externen Katalogen (Deuschland und INSPIRE)</li>
+<li>Metadateneditor</li>
+<li>CKAN-Schnittstelle (OpenData)</li>
+<li>Synthetisierung von INSPIRE-Downloaddiensten auf Basis von ATOM-Feeds</li>
+</ul>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Armin Retterath</h3>
             <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
