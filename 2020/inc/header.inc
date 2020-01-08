@@ -29,9 +29,9 @@
 		<li id="navEvents">
 			<a href="./socialevents/">Social Events</a>
 		</li>
-	<!--	<li id="navTeam">
+		<li id="navTeam">
 			<a href="./loc/loc.php">Team</a>
-		</li>-->
+		</li>
 	</ul>
 </nav>
 
