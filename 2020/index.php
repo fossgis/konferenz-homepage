@@ -77,6 +77,11 @@
 				<img src="./img/s/005_sourcepole_block2.png" alt="sourcepole">
 			</a>
 		</li>
+		<li class="tile gold">
+			<a href="https://opengis.ch" target="_blank">
+				<img src="./img/s/006_opengisch_banner.png" alt="opengis">
+			</a>
+		</li>
 	</ul>
 
 	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
