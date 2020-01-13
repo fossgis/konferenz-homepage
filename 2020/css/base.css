@@ -329,6 +329,13 @@ span.session-title {
 	font-weight: bold;
 }
 
+span.session-type {
+	font-weight: bold;
+	font-size: 90%;
+	text-transform: uppercase;
+	color: #eb7f00;
+}
+
 span.session-speakers {
 	font-size: 90%;
 }

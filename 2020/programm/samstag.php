@@ -31,7 +31,7 @@
                 <tr>
                         <td class="program-time">09:30</td>
                         <td rowspan="1" id="session_9K8YV3">
-        <a class="session-title" href="sessions/9K8YV3.php">Eröffnung OSM-Samstag</a>
+            <a class="session-title" href="sessions/9K8YV3.php">Eröffnung OSM-Samstag</a>
     <br><span class="session-speakers">Thomas Skowron</span>
 </td>
 
