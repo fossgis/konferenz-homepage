@@ -31,6 +31,10 @@
 <p>Der Map Editor ermöglicht die Anpassung der Vektorkarte durch die Auswahl vordefinierter Basisstylings und die individuelle Anpassung einzelner Layer und Layergruppen. Das Ziel ist es dabei nicht, einen vollumfänglichen Vector-Tile-Editor anzubieten, sondern eine einfache Anpassung amtlicher Karten auch für GIS-Laien zu ermöglichen. Die Karte kann zusätzlich um Funktionen erweitert werden, wie Infoabfragen, Adresssuche und Routing. Der Map Editor kann als "Software as a Service" genutzt werden, so dass die Karten und Anwendungen online erstellt und per URL in andere Kartenanwendungen und Webseiten eingebunden werden können.</p>
 <p>Eine erste Verwendung findet der Map Editor bereits als Web-Frontend des Prototyps der AdV-Arbeitsgruppe "Smart Mapping", die sich auch mit der Entwicklung moderner Webkarten beschäftigt.</p>
 <p>Neben der Vorstellung des Entwicklungsstandes des Prototyps, wird auch über die Herausforderungen berichtet, die es in diesem Projekt hinsichtlich der Veröffentlichung von Open Source Software, agiler Entwicklung und Einführung von Innovationen gibt.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Sebastian Ratjens</h3>
+            <p>Webentwickler beim Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN)</p>
+        </div>
         </section>
 
 
