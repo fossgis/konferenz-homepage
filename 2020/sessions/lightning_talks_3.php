@@ -21,10 +21,14 @@
         <p><a href="programm/donnerstag.php#session_lightning_talks_3">&#9668; zurück zum Programm</a></p>
         <section>
         <h2 class='abstract-title'>Lightning Talks</h2>
-        <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
+        <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
         <p>Diese Session besteht aus den folgenden Programmpunkten:</p>
         <ul>
-                    <li>Klaus Böhm, Alexander Rolwes, Svenja Ruthmann: <span class='subsession-title'><a href="sessions/QJBX8R.php">Räumliche Verortung von textbasierten Social-Media-Einträgen am Beispiel von Polizei-Tweets</a></span>
+                    <li>Thomas Skowron: <span class='subsession-title'><a href="sessions/3BSTMC.php">Triff OSMler in deiner Nähe mit OSMCAL</a></span>
+                            </li>
+                    <li>Robert Klemm, Michael Spreng: <span class='subsession-title'><a href="sessions/GCFPVF.php">Neues vom Fossgis Routing Server</a></span>
+                            </li>
+                    <li>Astrid Emde, Miriam Gonzalez: <span class='subsession-title'><a href="sessions/P8ADRK.php">Geochicas OSM stellen sich vor</a></span>
                             </li>
                 </ul>
         </section>

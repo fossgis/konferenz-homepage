@@ -203,12 +203,12 @@
     <br><span class="session-speakers">Matthias Hinz</span>
 </td>
 
-                            <td rowspan="5" id="session_YKAGHX">
+                            <td rowspan="3" id="session_YKAGHX">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/YKAGHX.php">GeoStyler - Eine UI für alle* Stile</a>
     <br><span class="session-speakers">Christian Mayer, Jan Suleiman</span>
 </td>
 
-                            <td rowspan="5" id="session_TVAGUN">
+                            <td rowspan="3" id="session_TVAGUN">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/TVAGUN.php">Geodaten jonglieren mit ogr2ogr</a>
     <br><span class="session-speakers">Claas Leiner</span>
 </td>
@@ -227,9 +227,9 @@
     <br><span class="session-speakers">Astrid Emde</span>
 </td>
 
-                            <td rowspan="1" id="session_lightning_talks_3">
-            <a class="session-title" href="sessions/lightning_talks_3.php">Lightning Talks</a>
-    </span>
+                            <td rowspan="1" id="session_QJBX8R">
+            <a class="session-title" href="sessions/QJBX8R.php">Räumliche Verortung von textbasierten Social-Media-Einträgen am Beispiel von Polizei-Tweets</a>
+    <br><span class="session-speakers">Klaus Böhm, Alexander Rolwes, Svenja Ruthmann</span>
 </td>
 
                             
@@ -238,45 +238,19 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">14:30</td>
-                        <td rowspan="3" id="session_WNARKE">
+                        <td rowspan="1" id="session_WNARKE">
             <a class="session-title" href="sessions/WNARKE.php">OSGeo-Projekt deegree 2020 - Neuigkeiten zu OGC API - Features</a>
     <br><span class="session-speakers">Torsten Friebe, Dirk Stenger</span>
 </td>
 
-                            <td rowspan="3" id="session_UPPG8U">
+                            <td rowspan="1" id="session_UPPG8U">
             <a class="session-title" href="sessions/UPPG8U.php">AD und PostgreSQL Rollen verknüpfen mit dem Höllenhund</a>
     <br><span class="session-speakers">Michael Schulz</span>
 </td>
 
-                            <td rowspan="1" id="session_3BSTMC">
-            <a class="session-title" href="sessions/3BSTMC.php">Triff OSMler in deiner Nähe mit OSMCAL</a>
-    <br><span class="session-speakers">Thomas Skowron</span>
-</td>
-
-                            
-                            
-                            <td></td>
-                                                </tr>
-                                <tr>
-                        <td class="program-time">14:35</td>
-                        
-                            
-                            <td rowspan="1" id="session_GCFPVF">
-            <a class="session-title" href="sessions/GCFPVF.php">Neues vom Fossgis Routing Server</a>
-    <br><span class="session-speakers">Robert Klemm, Michael Spreng</span>
-</td>
-
-                            
-                            
-                            <td></td>
-                                                </tr>
-                                <tr>
-                        <td class="program-time">14:40</td>
-                        
-                            
-                            <td rowspan="1" id="session_P8ADRK">
-            <a class="session-title" href="sessions/P8ADRK.php">Geochicas OSM stellen sich vor</a>
-    <br><span class="session-speakers">Astrid Emde, Miriam Gonzalez</span>
+                            <td rowspan="1" id="session_lightning_talks_3">
+            <a class="session-title" href="sessions/lightning_talks_3.php">Lightning Talks</a>
+    </span>
 </td>
 
                             
