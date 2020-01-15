@@ -135,11 +135,10 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="http://www.gkg-kassel.de" target="_blank">
+				<img src="./img/s/204_gkg_logo.png" alt="Dr.-Ing. Claas Leiner">
 			</a>
 		</li>
-
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>

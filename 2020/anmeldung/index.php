@@ -49,7 +49,7 @@
 		<li>Standardticket (Normalpreis): € 190</li>
 		<li>Standardticket (Frühbucherrabatt für die ersten 50 Tickets): € 150</li>
 		<li>Studierendenticket, Rentnerticket: € 40</li>
-		<li>Communityticket<sup>**</sup>: € 0</li>
+		<li>Communityticket, Helferticket<sup>**</sup>: € 0</li>
 		<li>Workshop: € 100</li>
 		<!--<li>Workshop (Frühbucherrabatt bis 06.02.2019): € 90</li>-->
 	</ul>
@@ -64,7 +64,7 @@
 
 	<p>
 		<small>* wenn bestellt und solange verfügbar</small><br>
-		<small>** Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer der Konferenz.</small>
+		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer der Konferenz.</small>
 	</p>
 
 	<h3>Helfer</h3>
