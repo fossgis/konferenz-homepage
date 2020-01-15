@@ -151,7 +151,7 @@
                                 <tr>
                         <td class="program-time">11:30</td>
                         <td rowspan="1" id="session_V8ZBMG">
-            <a class="session-title" href="sessions/V8ZBMG.php">KADAS Albireo</a>
+            <a class="session-title" href="sessions/V8ZBMG.php">KADAS Albireo: Ein vereinfachtes QGIS für jedermann</a>
     <br><span class="session-speakers">Sandro Mani</span>
 </td>
 

@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>KADAS Albireo – FOSSGIS 2020</title>
+	<title>KADAS Albireo: Ein vereinfachtes QGIS für jedermann – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/freitag.php#session_V8ZBMG">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>KADAS Albireo</h2>
+        <h2 class='abstract-title'>KADAS Albireo: Ein vereinfachtes QGIS für jedermann</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Sandro Mani</span></p>

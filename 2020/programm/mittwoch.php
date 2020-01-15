@@ -51,7 +51,11 @@
     <br><span class="session-speakers">Armin Retterath</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="2" id="session_3EDG7S">
+    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/3EDG7S.php">Eigene Verarbeitungswerkzeuge für QGIS mit Python erstellen</a>
+    <br><span class="session-speakers">Peter Gipper</span>
+</td>
+
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:00</td>
@@ -64,7 +68,7 @@
                             <td></td>
                             
                             
-                            <td></td>
+                            
                                                 </tr>
                                 <tr>
                         <td class="program-time">12:00</td>
