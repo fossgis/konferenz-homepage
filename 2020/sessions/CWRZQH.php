@@ -26,7 +26,20 @@
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
-            <p>MapServer ist jetzt 26 alt wird nach wie vor vielfältig als WMS, WFS, WCS eingesetzt. Projekte aus seinem Umfeld (tiny-ows, MapCache) erweitern seine Funktionen. Außerdem wird auch MapServer selbst stetig weiter entwickelt und quasi ständig gibt es neue Funktionen und Konfigurationsmöglichkeiten zu entdecken. Der Vortrag wirft einen Blick auf die Changelogs der letzten Jahren und berücksichtigt auch die neuesten Entwicklungen, die sich bis zur FOSSGIS einstellen werden. Wir werfen auch einen Blick auf MapScript, in diesen Bereich hat sich 2019 einiges getan. Soweit möglich, wird eine Vorschau auf die kommende(n) MapServer Version(en) geworfen.</p>
+            <p>MapServer ist jetzt 26 alt wird nach wie vor vielfältig als WMS, WFS, WCS eingesetzt. Projekte aus seinem Umfeld (tiny-ows, MapCache) erweitern seine Funktionen. Außerdem wird auch MapServer selbst stetig weiter entwickelt und quasi ständig gibt es neue Funktionen und Konfigurationsmöglichkeiten zu entdecken.</p>
+<p>MapServer als Software und Projekt wird kurz vorgestellt, gefolgt von einem Überblick über die wichtigsten Änderungen in der Konfiguration, die sich durch den Wechsel auf Version 7 ergeben haben, da es immer noch zahlreiche Projekte gibt, in denen ein Versionswechsel ansteht, darunter:</p>
+<ul>
+<li>Filter-Verhalten</li>
+<li>Annotations</li>
+<li>Übernahme von Attributen als Mapfile-Paramter</li>
+</ul>
+<p>Darüber hinaus wirft der Vortrag  einen Blick auf die Changelogs der 7er-Versionen und berücksichtigt auch die neuesten Entwicklungen, die sich bis zur FOSSGIS einstellen werden, darunter:</p>
+<ul>
+<li>Default Mapsize</li>
+<li>MSSQL-Support</li>
+<li>Variablen-Subistution</li>
+</ul>
+<p>Den Abschluss bildet ein Exkurs nach MapScript, in diesen Bereich hat sich 2019 einiges getan.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jörg Thomsen</h3>
             <p>Jörg Thomsen arbeitet seit dem Ende des letzten Jahrhunderts mit freier GI-Software und war bereits die FOSSGIS-Konferenz bereits mit gestaltet, als sie noch MapServer Anwender-Konferenz hieß.</p>
