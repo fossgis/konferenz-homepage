@@ -71,15 +71,15 @@
     <ul>
         <li><b>Aus Richtung Westen (Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen):</b> ab
             Köln über die A3 Richtung Frankfurt. Dort auf die A67 Richtung Karlsruhe / Basel wechseln und ab dem Darmstädter 
-            Kreuz weiter über die A5 Richtung Karslruhe / Basel / Freiburg.
+            Kreuz weiter über die A5 Richtung Karlsruhe / Basel / Freiburg.
         </li>
         <li><b>Aus Richtung Norden (Schleswig-Holstein, Hamburg, Niedersachsen, Hessen):</b> ab Hamburg über Hannover und 
             Kassel auf der A7 bis zum Hattenbacher Dreieck (hinter Bad Hersfeld und Kirchheim) und von dort auf der 
             A5 weiter Richtung Karlsruhe / Basel /Freiburg
         </li>
-        <li><b>Aus Richtung Osten / Nordosten:</b> ab Dresden auf der A4 Richtugn Chemnitz und weiter über die A 72
+        <li><b>Aus Richtung Osten / Nordosten:</b> ab Dresden auf der A4 Richtung Chemnitz und weiter über die A72
             und A9 bis Nürnberg, ab Berlin auf der A9 Richtung Nürnberg. Danach weiter auf der A6 über Heilbronn bis zum 
-            Kreuz Walldorf. Dort auf die A5 Richtung Basel / Freibrug wechseln.
+            Kreuz Walldorf. Dort auf die A5 Richtung Basel / Freiburg wechseln.
         </li>
         <li><b>Aus Richtung Südost (Bayern, Österreich):</b> von Wien aus über die A1 bis Salzburg und weiter auf der A8 
             über München und Stuttgart nach Karlsruhe. Von Karlsruhe aus über die A5 Richtung Basel / Freiburg.
