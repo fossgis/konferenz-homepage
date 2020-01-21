@@ -139,6 +139,11 @@
 				<img src="./img/s/204_gkg_logo.png" alt="Dr.-Ing. Claas Leiner">
 			</a>
 		</li>
+		<li class="tile bronze">
+			<a href="http://www.disy.net" target="_blank">
+				<img src="./img/s/205_Logo_disy_4c.jpg" alt="Disy Informationssysteme GmbH">
+			</a>
+		</li>
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
