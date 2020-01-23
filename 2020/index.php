@@ -144,6 +144,11 @@
 				<img src="./img/s/205_Logo_disy_4c.jpg" alt="Disy Informationssysteme GmbH">
 			</a>
 		</li>
+		<li class="tile bronze">
+			<a href="https://bemastergis.afg.hs-anhalt.de/" target="_blank">
+				<img src="./img/s/206_beMasterGIS.png" alt="beMasterGIS">
+			</a>
+		</li>
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
