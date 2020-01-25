@@ -145,7 +145,7 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="https://bemastergis.afg.hs-anhalt.de/" target="_blank">
+			<a href="https://www.hs-anhalt.de/nc/studieren/orientierung/studienangebot/detail/geoinformationssysteme-master-of-engineering.html" target="_blank">
 				<img src="./img/s/206_beMasterGIS.png" alt="beMasterGIS">
 			</a>
 		</li>
