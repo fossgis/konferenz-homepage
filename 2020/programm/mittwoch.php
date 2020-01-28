@@ -41,17 +41,17 @@
 </td>
 
                             <td></td>
-                            <td rowspan="2" id="session_VCJD7E">
+                            <td rowspan="4" id="session_VCJD7E">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/VCJD7E.php">GeoPython mit dem Jupyter Notebook - Rasterdaten</a>
     <br><span class="session-speakers">Christian Strobl</span>
 </td>
 
-                            <td rowspan="2" id="session_G7ZZ3Z">
+                            <td rowspan="4" id="session_G7ZZ3Z">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/G7ZZ3Z.php">INSPIRE &#34;instant&#34; 2.x</a>
     <br><span class="session-speakers">Armin Retterath</span>
 </td>
 
-                            <td rowspan="2" id="session_3EDG7S">
+                            <td rowspan="4" id="session_3EDG7S">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/3EDG7S.php">Eigene Verarbeitungswerkzeuge für QGIS mit Python erstellen</a>
     <br><span class="session-speakers">Peter Gipper</span>
 </td>
@@ -63,6 +63,32 @@
                             <td rowspan="1" id="session_QMK3JN">
             <a class="session-title" href="sessions/QMK3JN.php">Ehrenamt im FOSSGIS e.V.</a>
     <br><span class="session-speakers">Hanna Krüger</span>
+</td>
+
+                            <td></td>
+                            
+                            
+                            
+                                                </tr>
+                                <tr>
+                        <td class="program-time">11:25</td>
+                        <td></td>
+                            <td rowspan="1" id="session_EZAY3D">
+            <a class="session-title" href="sessions/EZAY3D.php">Was ist Open Source?</a>
+    <br><span class="session-speakers">Marco Lechner</span>
+</td>
+
+                            <td></td>
+                            
+                            
+                            
+                                                </tr>
+                                <tr>
+                        <td class="program-time">11:40</td>
+                        <td></td>
+                            <td rowspan="1" id="session_UEWFWR">
+            <a class="session-title" href="sessions/UEWFWR.php">Was ist OpenStreetMap?</a>
+    <br><span class="session-speakers">Thomas Skowron</span>
 </td>
 
                             <td></td>
@@ -176,7 +202,11 @@
     <br><span class="session-speakers">Günter Wagner</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_DH3H9D">
+            <a class="session-title" href="sessions/DH3H9D.php">FAIRe Daten und FAIRe Software in der Biodiversitätsforschung</a>
+    <br><span class="session-speakers">Bernhard Seeger</span>
+</td>
+
                             <td rowspan="1" id="session_PRCPBP">
             <a class="session-title" href="sessions/PRCPBP.php">Reliefdarstellung mit Höhenlinien</a>
     <br><span class="session-speakers">Mathias Gröbe</span>
@@ -192,8 +222,8 @@
                                             </tr>
                                 <tr>
                         <td class="program-time">17:00</td>
-                        <td rowspan="2" id="session_FDAF37">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/FDAF37.php">OSM-Daten in QGIS nutzen</a>
+                        <td rowspan="1" id="session_FDAF37">
+            <a class="session-title" href="sessions/FDAF37.php">OSM-Daten in QGIS nutzen</a>
     <br><span class="session-speakers">Astrid Emde</span>
 </td>
 
@@ -225,7 +255,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">17:30</td>
-                        
+                        <td></td>
                             <td rowspan="2" id="session_339AY9">
     <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/339AY9.php">Einführung zu GDAL/OGR: Geodaten mit der Kommandozeile verarbeiten</a>
     <br><span class="session-speakers">Jakob Miksch</span>

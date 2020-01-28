@@ -94,8 +94,8 @@
 </td>
 
                             <td rowspan="1" id="session_PHJ8VG">
-        <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/PHJ8VG.php">Offene Smart Farming Produkte aus offenen Satellitendaten</a>
-    <br><span class="session-speakers">Sven Bingert</span>
+            <a class="session-title" href="sessions/PHJ8VG.php">Offene Smart Farming Produkte aus offenen Satellitendaten</a>
+    <br><span class="session-speakers">Sven Bingert, Martin Weis, Christian Bauer</span>
 </td>
 
                             <td rowspan="1" id="session_9ZPDW7">

@@ -32,9 +32,9 @@
 <p>Zum Abschluss wird der effektive Workflow vom lokalen QGIS-Projekt zur WebGIS-Anwendung anhand von Beispielanwendungen live gezeigt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Günter Wagner</h3>
-            <p>Ich betreue seit über 20 Jahren kleine Gemeinden und Städte in Bezug auf CAD/GIS/WebGIS-Anwendungen und Dienstleistungen.</p>
-<p>Wichtig sind mir individuelle, an die Bedürfnisse des Kunden angepasste Lösungen auf Basis von Standardkomponenten, möglichst aus dem Open-Source Bereich.</p>
-<p>Seit 2011 bin ich selbständig mit meinem eigenen Büro <a href="https://wagner-it.de">Wagner-IT</a>.</p>
+            <p>Günter Wagner betreut seit über 20 Jahren kleinere Gemeinden und Städte in Bezug auf CAD/GIS/WebGIS-Anwendungen und Dienstleistungen.</p>
+<p>Individuelle, an die Bedürfnisse des Kunden angepasste Lösungen werden auf Basis von Standardkomponenten, möglichst aus dem Open-Source Bereich, realisiert. </p>
+<p>Seit 2011 betreibt H. Wagner das Ingenieurbüro <a href="https://wagner-it.de">Wagner-IT</a>. Er ist Mitglied im FOSSGIS e.V. und QGIS-DE e.V. und unterstützt das QGIS-Projekt als Bronze-Sponsor.</p>
         </div>
         </section>
 

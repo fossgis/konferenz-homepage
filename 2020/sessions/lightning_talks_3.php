@@ -30,6 +30,8 @@
                             </li>
                     <li>Astrid Emde, Miriam Gonzalez: <span class='subsession-title'><a href="sessions/P8ADRK.php">Geochicas OSM stellen sich vor</a></span>
                             </li>
+                    <li>Athina Trakas: <span class='subsession-title'><a href="sessions/WLXKQW.php">Women in Geospatial+ - Ein professionelles Netzwerk für Frauen in der GIS/Geo Industrie</a></span>
+                            </li>
                 </ul>
         </section>
 
