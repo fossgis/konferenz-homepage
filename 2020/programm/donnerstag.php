@@ -283,7 +283,11 @@
     <br><span class="session-speakers">Otto Dassau, Tristan</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="3" id="session_7RFJ9N">
+    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/7RFJ9N.php">Einführung in die Verwaltung von Geodaten in der PostgreSQL-Datenbank mit PostGIS</a>
+    <br><span class="session-speakers">Astrid Emde</span>
+</td>
+
                             <td></td>
                                                 </tr>
                                 <tr>
@@ -304,7 +308,7 @@
 </td>
 
                             
-                            <td></td>
+                            
                             <td></td>
                                                 </tr>
                                 <tr>
@@ -325,7 +329,7 @@
 </td>
 
                             
-                            <td></td>
+                            
                             <td></td>
                                                 </tr>
                                 <tr>
