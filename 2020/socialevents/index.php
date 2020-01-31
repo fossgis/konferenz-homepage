@@ -19,17 +19,22 @@
 	<h2>Social Events</h2>
 
 	<h3>Dienstag, 10. März 2020</h3>
+	
+	<h4>Geochicas laden ein</h4>
+	
+	<p>Am Dienstag 10. März 2020 von 18-20 Uhr treffen sich die Geochicas im der <a href="https://www.bodega-dergeier.de/" target="_blank">Bodega Der Geier</a> (<a href="https://www.openstreetmap.org/node/248594110" target="_blank">Belfortstraße 38</a>).
+	<br/>
+	Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht). 
+	<br/>
+	Du hast Interesse dein Projekt vorzustellen, andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, mehr über <a href="https://www.fossgis-konferenz.de/2020/sessions/P8ADRK.php" target="_blank">Geochicas</a> zu erfahren, zu Netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. 
+	Das erste Getränk geht auf uns. Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.
+	<br/>
+	Die Geochicas sind neugierig und freuen sich auf dich
+	<p> 	
 
 	<h4>Inoffizieller Start</h4>
 
 	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 10. März 2020 ab 18:30/19 Uhr alle schon angereisten Konferenzbesucher willkommen in der Gaststätte Schwarzer Kater zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
-
-	<h4>Geochicas-Treffen</h4>
-	<p>Am Dienstag, den 10. März 2020 treffen sich von 18-20 Uhr die Geochicas im der Bodega Der Geier (Belfortstraße 38 https://www.bodega-dergeier.de/).<br>
-	Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS-Konferenz - ist also nur für Frauen (bzw. jede, die sich als Frau versteht). 
-Hast Du Interesse dein Projekt vorzustellen, andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, mehr über Geochicas zu erfahren, zu Netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. 
-Das erste Getränk geht auf uns. Nach dem sicherlich spannenden & lebendigen Treffen, schließen sich die Geochicas dem Inoffiziellen Start an.
-Die Geochicas freuen sich und sind neugierig von deinem Projekt zu hören.</p>
 	
 	<h3>Mittwoch, 11. März 2020</h3>
 	<h4>Eröffnung FOSSGIS-Konferenz</h4>
