@@ -19,6 +19,18 @@
 	<h2>Social Events</h2>
 
 	<h3>Dienstag, 10. März 2020</h3>
+  
+	<h4>Geochicas laden ein</h4>
+  <p>Am Dienstag 10. März 2020 von 18-20 Uhr treffen sich die Geochicas im der <a href="https://www.bodega-dergeier.de/" target="_blank">Bodega Der Geier</a> (<a href="https://www.openstreetmap.org/node/248594110" target="_blank">Belfortstraße 38</a>).
+  <br/>
+  Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen*. 
+  <br/>
+  Du hast Interesse dein Projekt vorzustellen, andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, mehr über <a href="https://www.fossgis-konferenz.de/2020/sessions/P8ADRK.php" target="_blank">Geochicas</a> zu erfahren, zu Netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. 
+  Das erste Getränk geht auf uns. Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.
+  <br/>
+  Die Geochicas sind neugierig und freuen sich auf dich
+  <br/>
+  * Jede, die sich als Frau versteht<p> 
 
 	<h4>Inoffizieller Start</h4>
 
