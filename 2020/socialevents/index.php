@@ -29,7 +29,7 @@
 	Du hast Interesse dein Projekt vorzustellen, andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, mehr über <a href="https://www.fossgis-konferenz.de/2020/sessions/P8ADRK.php" target="_blank">Geochicas</a> zu erfahren, zu Netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. 
 	Das erste Getränk geht auf uns. Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.
 	<br/>
-	Die Geochicas sind neugierig und freuen sich auf dich
+	Die Geochicas sind neugierig und freuen sich auf dich.
 	<p> 	
 
 	<h4>Inoffizieller Start</h4>
