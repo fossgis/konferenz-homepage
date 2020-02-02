@@ -108,8 +108,8 @@
 			</a>
 		</li>
 		<li class="tile silver">
-			<a href="https://kuestenschmiede.de" target="_blank">
-				<img src="./img/s/105_kuestenschmiede.png" alt="Küstenschmiede">
+			<a href="https://con4gis.org" target="_blank">
+				<img src="./img/s/105_con4gis.png" alt="Küstenschmiede">
 			</a>
 		</li>
 
