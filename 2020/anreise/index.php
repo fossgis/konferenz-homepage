@@ -107,7 +107,8 @@
 		<li>Fax: +49 761 3881-1398</li>
 		<li>E-Mail: groups@fwtm.de</li>
 		<li>Werktags: Mo-Fr von 08:30 Uhr bis 16:00 Uhr, außer an Feiertagen</li>
-		<li>Buchungsformular: <a href="https://tportal.toubiz.de/FOSSGIS2020/ukv/?doSearch=1&ukv_result_order=1&date_from=11.03.2020&date_to=14.03.2020&number_adult[]=1&rate=FIT00020070546746388&reset=1" rel="nofollow" target="_blank">https://tportal.toubiz.de/FOSSGIS2020/ukv/result?tt=bk61q91m5uhb54tr99u761qp43</a></li>
+	 	<li>PDF-Buchungsformular: <a href="data/03-20_Buchungsformular_FOSSGIS.pdf"> PDF-Download </a></li>
+		<li>Online-Buchungsformular: <a href="https://tportal.toubiz.de/FOSSGIS2020/ukv/?doSearch=1&ukv_result_order=1&date_from=11.03.2020&date_to=14.03.2020&number_adult[]=1&rate=FIT00020070546746388&reset=1" rel="nofollow" target="_blank">https://tportal.toubiz.de/FOSSGIS2020/ukv/result?tt=bk61q91m5uhb54tr99u761qp43</a></li>
 	</ul>
  
 	<p>Zusätzlich zum Abrufkontingent können weitere Hotelzimmer auch direkt bei den entsprechenden Anbietern gebucht werden.</p>
