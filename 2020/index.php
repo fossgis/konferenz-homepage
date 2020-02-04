@@ -174,7 +174,7 @@
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="www.vag-freiburg.de" target="_blank">
+			<a href="https://www.vag-freiburg.de" target="_blank">
 				<img src="./img/s/407_VAG freiburg_Logo.png" alt="VAG Freiburg">
 			</a>
 		</li>
