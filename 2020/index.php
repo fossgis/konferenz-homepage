@@ -173,7 +173,11 @@
 				<img src="./img/s/404_yaga_logo.png" alt="YAGA Development-Team">
 			</a>
 		</li>
-
+		<li class="tile media">
+			<a href="www.vag-freiburg.de" target="_blank">
+				<img src="./img/s/407_VAG freiburg_Logo.png" alt="VAG Freiburg">
+			</a>
+		</li>
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Die Informationen für Sponsoren und Aussteller finden Sie in der 
