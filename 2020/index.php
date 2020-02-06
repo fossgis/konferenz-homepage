@@ -149,6 +149,16 @@
 				<img src="./img/s/206_beMasterGIS.png" alt="beMasterGIS">
 			</a>
 		</li>
+		<li class="tile bronze">
+			<a href="http://www.lingner.eu/" target="_blank">
+				<img src="./img/s/207_mapwebbing_logo.png" alt="mapwebbing">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.geofabrik.de/" target="_blank">
+				<img src="./img/s/208_Geofabrik.png" alt="geofabrik">
+			</a>
+		</li>
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
