@@ -38,6 +38,7 @@
 <li>https://www.postgresql.org/</li>
 <li>http://postgis.net/</li>
 </ul>
+<p>Aufgrund der hohen Nachfrage wird dieser Workshop auch <a href="https://fossgis-konferenz.de/2020/sessions/7RFJ9N.php">am Donnerstag</a> angeboten.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Astrid Emde</h3>
             <p>Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2020 in Freiburg!</p>
