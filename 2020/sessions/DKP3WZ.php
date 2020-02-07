@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>OSM-Daten mit Vektortiles erfolgreich nutzen – FOSSGIS 2020</title>
+	<title>OSM-Daten mit Vectortiles erfolgreich nutzen – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/donnerstag.php#session_DKP3WZ">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>OSM-Daten mit Vektortiles erfolgreich nutzen</h2>
+        <h2 class='abstract-title'>OSM-Daten mit Vectortiles erfolgreich nutzen</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Robert Klemm</span></p>
@@ -27,7 +27,7 @@
 
             
             <p>Das OpenMapTile-Projekt bietet zahlreiche Möglichkeiten für den Umgang mit Vektor- und Rasterdaten.</p>
-<p>Das OpenMapTile-Projekt unterstützt JSON-Kartenstile in Webanwendungen, die von der MapBox-GL- oder der Openlayers JavaSkript-Bibliothek unterstützt werden, sowie in nativen mobilen SDKs für iOS und Android. Das OpenMapTiles-Projekt besteht aus verschiedenen Komponenten. </p>
+<p>Das OpenMapTile-Projekt unterstützt JSON-Kartenstile in Webanwendungen, die von der MapBox-GL- oder der Openlayers JavaScript-Bibliothek unterstützt werden, sowie in nativen mobilen SDKs für iOS und Android. Das OpenMapTiles-Projekt besteht aus verschiedenen Komponenten. </p>
 <p>Die Hauptkomponenten sind das Open-Vector-Schema und Tools für das Erzeugen von Vektorkacheln mit OSM-Daten und OpenMap-Stilen.</p>
 <p>Der OSM-Karten-Stil kann serverseitig in Raster-Kacheln gerendert werden, um Kompatibilität und Portabilität sicherzustellen. Die Kacheln können in verschiedenen Viewern wie Leaflet, OpenLayers, QGIS oder ArcGIS geöffnet werden. </p>
 <p>Dieser Vortrag bietet einen Überblick über den Einsatz und Prozessierung bis zur Einbindung von Vektortiles in einer Webkarte. Weitere Ansätze für das unabhängige Hosting und die Verwendung von Vektorkacheln werden ebenfalls vorgestellt.</p>

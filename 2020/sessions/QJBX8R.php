@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Räumliche Verortung von textbasierten Social-Media-Einträgen am Beispiel von Polizei-Tweets</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Klaus Böhm, Alexander Rolwes, Svenja Ruthmann</span></p>
+                                <span class='abstract-speakers'>Svenja Ruthmann, Alexander Rolwes, Klaus Böhm</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
             

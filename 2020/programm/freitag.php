@@ -28,7 +28,7 @@
                     <th>HS Weismannhaus</th>
                     <th>SR R-100 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>SR R-110 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
-                    <th>SR R-140 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
+                    <th>SR R-114 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     </tr>
             </thead>
             <tbody>
@@ -55,7 +55,7 @@
 
                             <td rowspan="3" id="session_RUEZJ7">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/RUEZJ7.php">Einführung in die Verwaltung von Geodaten in der PostgreSQL Datenbank mit PostGIS</a>
-    <br><span class="session-speakers">Astrid Emde</span>
+    <br><span class="session-speakers">Astrid Emde, Leoni Möske</span>
 </td>
 
                             <td rowspan="3" id="session_7KUG7F">

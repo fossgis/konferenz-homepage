@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Einführung in die Verwaltung von Geodaten in der PostgreSQL Datenbank mit PostGIS</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Astrid Emde</span></p>
+                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Astrid Emde, Leoni Möske</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
 
             
@@ -48,6 +48,10 @@
 <p>Seit über 10 Jahren engagiert sie sich im <a href="https://mapbender.org">Mapbender</a>-Projekt und gehört zum Mapbender Team (http://mapbender.org) und dem Mapbender PSC (Project Steering Committee).</p>
 <p>Astrid Emde ist in der <a href="https://osgeo.org">OSGeo</a> Foundation (http://osgeo.org) aktiv. Sie ist 2010 zum Charter Member und 2017 in das OSGeo Board of Directors (Vorstand der OSGeo) und zur OSGeo Secretary gewählt worden. Dadurch übernimmt sie zahlreiche Aufgaben bei der OSGeo und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive (http://live.osgeo.org/) aktiv. 2018 erhielt sie für ihr Engagement den <a href="https://www.osgeo.org/community/awards/">Sol Katz Award der OSGeo</a>.</p>
 <p>Auch im <a href="http://fossgis.de">FOSSGIS e.V.</a> ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (http://fossgis.de).</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Leoni Möske</h3>
+            <p>Leoni Möske arbeitet seit November 2019 bei der Firma WhereGroup in Bonn als GIS- und OSM-Expertin. Sie beschäftigt sich ausgiebig mit Open-Source-Software (wie PostgreSQL und PostGIS, QGIS, GeoServer). Darüber hinaus fertigte sie eine Masterarbeit zum Thema "Qualitätsbewertung von OpenStreetMap-Gebäudedaten als Datengrundlage für eine Expositionsabschätzung von extremen Hochwasserereignissen - am Anwendungsbeispiel der Untersuchungsgebiete in Köln und Gera" an. Hierbei kam zur Aufbereitung/Import der OSM-Daten (osmosis, osm2pgsql und norGIS-ALKIS) sowie eine PostgreSQL/PostGIS-Datenbank und die OpenStreetMapHistoryDatabase-API des Heidelberg Institute for Geoinformation Technology zum Einsatz. Die Arbeit entstand im Rahmen der Forschungsgruppe „Geoinformatik“ an der Universität Heidelberg und in Kooperation mit der Firma Disy Informationssysteme.</p>
         </div>
         </section>
 

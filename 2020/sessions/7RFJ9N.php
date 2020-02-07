@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Einführung in die Verwaltung von Geodaten in der PostgreSQL-Datenbank mit PostGIS</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Astrid Emde</span></p>
+                <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Astrid Emde, Lina Dillmann</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
             
@@ -48,6 +48,14 @@
 <p>Seit über 10 Jahren engagiert sie sich im <a href="https://mapbender.org">Mapbender</a>-Projekt und gehört zum Mapbender Team (http://mapbender.org) und dem Mapbender PSC (Project Steering Committee).</p>
 <p>Astrid Emde ist in der <a href="https://osgeo.org">OSGeo</a> Foundation (http://osgeo.org) aktiv. Sie ist 2010 zum Charter Member und 2017 in das OSGeo Board of Directors (Vorstand der OSGeo) und zur OSGeo Secretary gewählt worden. Dadurch übernimmt sie zahlreiche Aufgaben bei der OSGeo und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive (http://live.osgeo.org/) aktiv. 2018 erhielt sie für ihr Engagement den <a href="https://www.osgeo.org/community/awards/">Sol Katz Award der OSGeo</a>.</p>
 <p>Auch im <a href="http://fossgis.de">FOSSGIS e.V.</a> ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (http://fossgis.de).</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Lina Dillmann</h3>
+            <p>Lina Dillmann ist zum zweiten Mal bei der FOSSGIS Konferenz dabei.</p>
+<p>Die letzten Jahren war sie als User Interface &amp; User Experience Designerin tätig und hat allerlei Software entwickelt und optimiert. Mitte 2018 zog es sie zur WhereGroup in Bonn, wo sie im Requirements Engineering arbeitet.</p>
+<p>Privat lebt sie seit 2012 ihr Organisationsfaible beim Webmontag Bonn aus und ist oft auf den Bonner (Tech-) Meetups zu finden, wo sie ihren Wissensdurst stillt.</p>
+<p>Design, Kunst und Kultur liebt sie. Ein Buch hat sie immer dabei und praktiziert täglich Meditation und Yoga.</p>
+<p>Sie ist Mitglied im FOSSGIS e.V. und bei den Digital Media Women e.V..</p>
         </div>
         </section>
 

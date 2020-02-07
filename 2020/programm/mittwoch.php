@@ -28,7 +28,7 @@
                     <th>HS Weismannhaus</th>
                     <th>SR R-100 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>SR R-110 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
-                    <th>SR R-140 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
+                    <th>SR R-114 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     </tr>
             </thead>
             <tbody>
@@ -170,7 +170,7 @@
 
                             <td rowspan="3" id="session_SWV3BY">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/SWV3BY.php">Einführung in OpenLayers</a>
-    <br><span class="session-speakers">Andreas Hocevar, Christian Mayer, Marc Jansen</span>
+    <br><span class="session-speakers">Marc Jansen, Christian Mayer, Andreas Hocevar</span>
 </td>
 
                                                 </tr>
