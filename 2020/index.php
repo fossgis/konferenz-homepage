@@ -112,6 +112,11 @@
 				<img src="./img/s/105_con4gis.png" alt="Küstenschmiede">
 			</a>
 		</li>
+		<li class="tile silver">
+			<a href="https://gobeta.de/" target="_blank">
+				<img src="./img/s/106_DB_und_mindbox.png" alt="DB mindbox">
+			</a>
+		</li>
 
 
 	</ul>
