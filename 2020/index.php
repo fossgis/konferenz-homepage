@@ -164,6 +164,11 @@
 				<img src="./img/s/208_Geofabrik.png" alt="geofabrik">
 			</a>
 		</li>
+		<li class="tile bronze">
+			<a href="https://intevation.de/" target="_blank">
+				<img src="./img/s/209_intevation.png" alt="intevation">
+			</a>
+		</li>
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
