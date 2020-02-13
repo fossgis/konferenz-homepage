@@ -198,6 +198,11 @@
 				<img src="./img/s/407_VAG freiburg_Logo.png" alt="VAG Freiburg">
 			</a>
 		</li>
+		<li class="tile media">
+			<a href="https://www.frelo-freiburg.de/de/" target="_blank">
+				<img src="./img/s/408_Frelo_Logo_CMYK.png" alt="frelo">
+			</a>
+		</li>
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Die Informationen für Sponsoren und Aussteller finden Sie in der 
