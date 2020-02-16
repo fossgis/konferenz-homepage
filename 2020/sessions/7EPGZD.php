@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>Vektor-Tiles Karten erstellen mit t-rex – FOSSGIS 2020</title>
+	<title>Vektortile-Karten erstellen mit t-rex – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/freitag.php#session_7EPGZD">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>Vektor-Tiles Karten erstellen mit t-rex</h2>
+        <h2 class='abstract-title'>Vektortile-Karten erstellen mit t-rex</h2>
         <section>
             <p>
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Pirmin Kalberer</span></p>

@@ -26,7 +26,8 @@
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 11:40 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
-            <p>Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap?Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap?Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap?Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap? Was ist OpenStreetMap?</p>
+            <p>Was ist OpenStreetMap? In dieser Session wird das Projekt vorgestellt, warum es entstanden ist, wer es nutzt und was die Vorteile sind.</p>
+<p>Es werden Anwendungen auf Basis von OpenStreetMap gezeigt und Anregungen geliefert, welche Möglichkeiten OSM eröffnet und wie sich Teilnehmer der Konferenz im Projekt einbringen können.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Thomas Skowron</h3>
             <p>OpenStreetMap-Enthusiast und professioneller Nutzer, freiberuflicher Softwareentwickler, Leiter des Programmkomitees FOSSGIS 2020</p>

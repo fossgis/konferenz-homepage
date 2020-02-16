@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>QGIS im Produktivbetrieb: Erfahrungsbericht zur Einführung von QGIS als professionelles Planungswerkzeug. – FOSSGIS 2020</title>
+	<title>QGIS im Produktivbetrieb: Erfahrungsbericht zur Einführung von QGIS als professionelles Planungswerkzeug – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/mittwoch.php#session_7BCWHD">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>QGIS im Produktivbetrieb: Erfahrungsbericht zur Einführung von QGIS als professionelles Planungswerkzeug.</h2>
+        <h2 class='abstract-title'>QGIS im Produktivbetrieb: Erfahrungsbericht zur Einführung von QGIS als professionelles Planungswerkzeug</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Thomas Baumann</span></p>

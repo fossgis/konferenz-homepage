@@ -128,7 +128,7 @@
                                 <tr>
                         <td class="program-time">13:45</td>
                         <td rowspan="1" id="session_HEE3SU">
-            <span class="session-title">Wie man offene Geodaten bekommt, jetzt! Meine Erfahrung in Luxemburg, in der EU und ausserhalb.</span><br><span class="session-speakers">Guillaume Rischard</span>
+            <span class="session-title">Pilgerstab in einer Hand, Brecheisen in der anderen: wie man Geodaten öffnet</span><br><span class="session-speakers">Guillaume Rischard</span>
 </td>
 
                             <td></td>
@@ -177,7 +177,7 @@
                                 <tr>
                         <td class="program-time">15:30</td>
                         <td rowspan="1" id="session_7BCWHD">
-            <a class="session-title" href="sessions/7BCWHD.php">QGIS im Produktivbetrieb: Erfahrungsbericht zur Einführung von QGIS als professionelles Planungswerkzeug.</a>
+            <a class="session-title" href="sessions/7BCWHD.php">QGIS im Produktivbetrieb: Erfahrungsbericht zur Einführung von QGIS als professionelles Planungswerkzeug</a>
     <br><span class="session-speakers">Thomas Baumann</span>
 </td>
 
@@ -228,12 +228,12 @@
 </td>
 
                             <td rowspan="1" id="session_YBRH7D">
-            <a class="session-title" href="sessions/YBRH7D.php">Ein einheitlicher Frontend-Ansatz, um mehrere Routing-Lösungen im WebGIS zu nutzen.</a>
+            <a class="session-title" href="sessions/YBRH7D.php">Ein einheitlicher Frontend-Ansatz, um mehrere Routing-Lösungen im WebGIS zu nutzen</a>
     <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
                             <td rowspan="1" id="session_L9NGAN">
-            <a class="session-title" href="sessions/L9NGAN.php">GeoPortal Koblenz – digital. vielschichtig. maßgebend.</a>
+            <a class="session-title" href="sessions/L9NGAN.php">GeoPortal Koblenz – digital, vielschichtig, maßgebend</a>
     <br><span class="session-speakers">Andreas Weckbecker, Christine Dolezich</span>
 </td>
 
@@ -262,7 +262,7 @@
 </td>
 
                             <td rowspan="1" id="session_3WCSVT">
-            <a class="session-title" href="sessions/3WCSVT.php">Der ÖREB-Kataster - Eine Ode an offene Standards und Software</a>
+            <a class="session-title" href="sessions/3WCSVT.php">Der ÖREB-Kataster – eine Ode an offene Standards und Software</a>
     <br><span class="session-speakers">Stefan Ziegler</span>
 </td>
 

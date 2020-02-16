@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>GeoPortal Koblenz – digital. vielschichtig. maßgebend. – FOSSGIS 2020</title>
+	<title>GeoPortal Koblenz – digital, vielschichtig, maßgebend – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/mittwoch.php#session_L9NGAN">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>GeoPortal Koblenz – digital. vielschichtig. maßgebend.</h2>
+        <h2 class='abstract-title'>GeoPortal Koblenz – digital, vielschichtig, maßgebend</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Andreas Weckbecker, Christine Dolezich</span></p>

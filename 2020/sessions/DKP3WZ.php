@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>OSM-Daten mit Vectortiles erfolgreich nutzen – FOSSGIS 2020</title>
+	<title>OSM-Daten mit Vektortiles erfolgreich nutzen – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/donnerstag.php#session_DKP3WZ">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>OSM-Daten mit Vectortiles erfolgreich nutzen</h2>
+        <h2 class='abstract-title'>OSM-Daten mit Vektortiles erfolgreich nutzen</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Robert Klemm</span></p>

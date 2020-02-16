@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>GRASS GIS per HTTP: actinia Geoprozessierung – FOSSGIS 2020</title>
+	<title>GRASS GIS per HTTP: Actinia-Geoprozessierung – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,15 +19,15 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/freitag.php#session_CF778N">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>GRASS GIS per HTTP: actinia Geoprozessierung</h2>
+        <h2 class='abstract-title'>GRASS GIS per HTTP: Actinia-Geoprozessierung</h2>
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Jan Suleiman, Carmen Tawalika</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-114</p>
 
             
-            <p>Actinia (https://actinia.mundialis.de) ist eine Open-Source-REST-API für die skalierbare, verteilte, leistungsstarke Verarbeitung von Geodaten, die intern hauptsächlich GRASS GIS für Rechenaufgaben verwendet. Die Kernfunktionalität umfasst die Verarbeitung von Einzel- und Zeitreihen von Satellitenbildern, von Raster- und Vektordaten. Mit den bestehenden (z.B. Landsat) und in den letzten Jahren neu entstehenden (Copernicus Sentinel) großen Geodatenpools, die Tag für Tag wachsen, soll actinia dem Paradigma folgen, Algorithmen zu den Clouddaten zu bringen. Actinia ist seit 2019 ein OSGeo Community Projekt.</p>
-<p>In diesem Kurs werden wir kurz grundlegende GRASS GIS Konzepte vorstellen und eine kurze Einführung in HTTP REST und Cloud-Verarbeitungskonzepte geben. Es folgt eine Einführung in die Prozessierung mit actinia sowie praktische Übungen, um das Thema besser kennenzulernen.</p>
+            <p>Actinia (https://actinia.mundialis.de) ist eine Open-Source-REST-API für die skalierbare, verteilte, leistungsstarke Verarbeitung von Geodaten, die intern hauptsächlich GRASS GIS für Rechenaufgaben verwendet. Die Kernfunktionalität umfasst die Verarbeitung von Einzel- und Zeitreihen von Satellitenbildern, von Raster- und Vektordaten. Mit den bestehenden (z.B. Landsat) und in den letzten Jahren neu entstehenden (Copernicus Sentinel) großen Geodatenpools, die Tag für Tag wachsen, soll Actinia dem Paradigma folgen, Algorithmen zu den Clouddaten zu bringen. Actinia ist seit 2019 ein OSGeo Community Projekt.</p>
+<p>In diesem Kurs werden wir kurz grundlegende GRASS GIS Konzepte vorstellen und eine kurze Einführung in HTTP REST und Cloud-Verarbeitungskonzepte geben. Es folgt eine Einführung in die Prozessierung mit Actinia sowie praktische Übungen, um das Thema besser kennenzulernen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jan Suleiman</h3>
             <p>https://github.com/jansule</p>

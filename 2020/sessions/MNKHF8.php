@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>FOSS in der Cloud</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Carmen Tawalika</span></p>
+                                <span class='abstract-speakers'>Daniel Koch, Carmen Tawalika</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             

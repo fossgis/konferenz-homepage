@@ -72,13 +72,13 @@
                                 <tr>
                         <td class="program-time">09:30</td>
                         <td rowspan="1" id="session_XNXHGP">
-            <a class="session-title" href="sessions/XNXHGP.php">Aufbereitung von vektorbasierten Geodaten als Grundlage für Landnutzungsmodelle mit QGIS und Postgis</a>
+            <a class="session-title" href="sessions/XNXHGP.php">Aufbereitung von vektorbasierten Geodaten als Grundlage für Landnutzungsmodelle mit QGIS und PostGIS</a>
     <br><span class="session-speakers">Mirko Blinn</span>
 </td>
 
                             
                             <td rowspan="1" id="session_DKP3WZ">
-            <a class="session-title" href="sessions/DKP3WZ.php">OSM-Daten mit Vectortiles erfolgreich nutzen</a>
+            <a class="session-title" href="sessions/DKP3WZ.php">OSM-Daten mit Vektortiles erfolgreich nutzen</a>
     <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
@@ -99,7 +99,7 @@
 </td>
 
                             <td rowspan="1" id="session_9ZPDW7">
-            <a class="session-title" href="sessions/9ZPDW7.php">OSMPOIDB, eine kontinuierlich aktualisierte POI Datenbank auf Openstreetmap Basis</a>
+            <a class="session-title" href="sessions/9ZPDW7.php">OSMPOIDB, eine kontinuierlich aktualisierte POI-Datenbank auf OpenStreetMap-Basis</a>
     <br><span class="session-speakers">Sven Geggus</span>
 </td>
 
@@ -148,7 +148,7 @@
 </td>
 
                             <td rowspan="1" id="session_HQD7NN">
-            <a class="session-title" href="sessions/HQD7NN.php">Der neue OGC API Standard ist da!</a>
+            <a class="session-title" href="sessions/HQD7NN.php">Der neue OGC-API-Standard ist da!</a>
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
@@ -189,7 +189,7 @@
                                 <tr>
                         <td class="program-time">13:30</td>
                         <td rowspan="1" id="session_8ZASBP">
-            <a class="session-title" href="sessions/8ZASBP.php">QGIS Kartografie-Verbesserungen 2019</a>
+            <a class="session-title" href="sessions/8ZASBP.php">QGIS-Kartografie-Verbesserungen 2019</a>
     <br><span class="session-speakers">Andreas Neumann</span>
 </td>
 
@@ -218,7 +218,7 @@
                                 <tr>
                         <td class="program-time">14:00</td>
                         <td rowspan="1" id="session_VDPQS7">
-            <a class="session-title" href="sessions/VDPQS7.php">TEAM Engine: Vorstellung der neusten Tests für OGC Standards wie OGC API - Features oder GeoTIFF</a>
+            <a class="session-title" href="sessions/VDPQS7.php">TEAM Engine: Vorstellung der neusten Tests für OGC-Standards wie OGC API Features oder GeoTIFF</a>
     <br><span class="session-speakers">Dirk Stenger</span>
 </td>
 
@@ -270,7 +270,7 @@
 
                             <td rowspan="1" id="session_MNKHF8">
             <a class="session-title" href="sessions/MNKHF8.php">FOSS in der Cloud</a>
-    <br><span class="session-speakers">Carmen Tawalika</span>
+    <br><span class="session-speakers">Daniel Koch, Carmen Tawalika</span>
 </td>
 
                             <td rowspan="1" id="session_TUTT33">
@@ -298,7 +298,7 @@
 </td>
 
                             <td rowspan="1" id="session_KNUBLU">
-            <a class="session-title" href="sessions/KNUBLU.php">GRASS GIS in der Cloud: actinia Geoprozessierung</a>
+            <a class="session-title" href="sessions/KNUBLU.php">GRASS GIS in der Cloud: Actinia-Geoprozessierung</a>
     <br><span class="session-speakers">Markus Neteler, Carmen Tawalika</span>
 </td>
 
@@ -314,12 +314,12 @@
                                 <tr>
                         <td class="program-time">16:30</td>
                         <td rowspan="1" id="session_EBMZWN">
-            <a class="session-title" href="sessions/EBMZWN.php">javascript-Bibliotheken zur Einbindung von historischen Umwelt- und Klimainformationen als Kartenlayer</a>
+            <a class="session-title" href="sessions/EBMZWN.php">Javascript-Bibliotheken zur Einbindung von historischen Umwelt- und Klimainformationen als Kartenlayer</a>
     <br><span class="session-speakers">Michael Kahle</span>
 </td>
 
                             <td rowspan="2" id="session_MWDS79">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/MWDS79.php">Das OSGeo Datacube Community Project rasdaman</a>
+    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/MWDS79.php">Das OSGeo-Datacube-Community-Projekt rasdaman</a>
     <br><span class="session-speakers">pebau</span>
 </td>
 

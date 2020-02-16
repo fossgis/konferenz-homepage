@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>Der ÖREB-Kataster - Eine Ode an offene Standards und Software – FOSSGIS 2020</title>
+	<title>Der ÖREB-Kataster – eine Ode an offene Standards und Software – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/mittwoch.php#session_3WCSVT">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>Der ÖREB-Kataster - Eine Ode an offene Standards und Software</h2>
+        <h2 class='abstract-title'>Der ÖREB-Kataster – eine Ode an offene Standards und Software</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Stefan Ziegler</span></p>

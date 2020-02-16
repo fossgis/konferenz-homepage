@@ -64,7 +64,7 @@
 </td>
 
                             <td rowspan="3" id="session_CF778N">
-    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/CF778N.php">GRASS GIS per HTTP: actinia Geoprozessierung</a>
+    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/CF778N.php">GRASS GIS per HTTP: Actinia-Geoprozessierung</a>
     <br><span class="session-speakers">Jan Suleiman, Carmen Tawalika</span>
 </td>
 
@@ -118,12 +118,12 @@
                                 <tr>
                         <td class="program-time">11:00</td>
                         <td rowspan="1" id="session_YFEKKC">
-            <a class="session-title" href="sessions/YFEKKC.php">Open Source GIS-Komponenten im radiologischen Notfall-Informationssystem des Bundes</a>
+            <a class="session-title" href="sessions/YFEKKC.php">Open-Source-GIS-Komponenten im radiologischen Notfall-Informationssystem des Bundes</a>
     <br><span class="session-speakers">Marco Lechner</span>
 </td>
 
                             <td rowspan="2" id="session_7EPGZD">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/7EPGZD.php">Vektor-Tiles Karten erstellen mit t-rex</a>
+    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/7EPGZD.php">Vektortile-Karten erstellen mit t-rex</a>
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
@@ -172,8 +172,8 @@
     <br><span class="session-speakers">Gunnar Ströer</span>
 </td>
 
-                            <td rowspan="1" id="session_lightning_talks_4">
-            <a class="session-title" href="sessions/lightning_talks_4.php">Lightning Talks</a>
+                            <td rowspan="1" id="session_lightning_talks_5">
+            <a class="session-title" href="sessions/lightning_talks_5.php">Lightning Talks</a>
     </span>
 </td>
 
