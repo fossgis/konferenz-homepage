@@ -128,7 +128,8 @@
                                 <tr>
                         <td class="program-time">13:45</td>
                         <td rowspan="1" id="session_HEE3SU">
-            <span class="session-title">Pilgerstab in einer Hand, Brecheisen in der anderen: wie man Geodaten öffnet</span><br><span class="session-speakers">Guillaume Rischard</span>
+            <a class="session-title" href="sessions/HEE3SU.php">Pilgerstab in einer Hand, Brecheisen in der anderen: wie man Geodaten öffnet</a>
+    <br><span class="session-speakers">Guillaume Rischard</span>
 </td>
 
                             <td></td>

@@ -157,7 +157,7 @@
 
                             
                             <td rowspan="1" id="session_WC7SVB">
-            <a class="session-title" href="sessions/WC7SVB.php">Community Arbeit - Ein Einblick in die Berliner OSM/FOSSGIS-Community</a>
+            <a class="session-title" href="sessions/WC7SVB.php">Community Arbeit – ein Einblick in die Berliner OSM/FOSSGIS-Community</a>
     <br><span class="session-speakers">Christopher Lorenz, Lars Lingner</span>
 </td>
 
@@ -178,7 +178,7 @@
 </td>
 
                             <td rowspan="1" id="session_XBCSPZ">
-            <a class="session-title" href="sessions/XBCSPZ.php">Rettungspunkte - Im Prinzip ganz einfach, aber ...</a>
+            <a class="session-title" href="sessions/XBCSPZ.php">Rettungspunkte - im Prinzip ganz einfach, aber ...</a>
     <br><span class="session-speakers">Joachim Kast</span>
 </td>
 
