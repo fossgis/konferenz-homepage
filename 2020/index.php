@@ -77,6 +77,11 @@
 				<img src="./img/s/005_sourcepole_block2.png" alt="sourcepole">
 			</a>
 		</li>
+		<li class="tile gold">
+			<a href="https://opengis.ch" target="_blank">
+				<img src="./img/s/006_opengisch_banner.png" alt="opengis">
+			</a>
+		</li>
 	</ul>
 
 	<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
@@ -102,6 +107,17 @@
 				<img src="./img/s/104_regioDATA_CMYK_300dpi.png" alt="regioDATA">
 			</a>
 		</li>
+		<li class="tile silver">
+			<a href="https://con4gis.org" target="_blank">
+				<img src="./img/s/105_con4gis.png" alt="Küstenschmiede">
+			</a>
+		</li>
+		<li class="tile silver">
+			<a href="https://gobeta.de/" target="_blank">
+				<img src="./img/s/106_DB_und_mindbox.png" alt="DB mindbox">
+			</a>
+		</li>
+
 
 	</ul>
 
@@ -115,7 +131,7 @@
 		</li>
 		<li class="tile bronze">
 			<a href="https://wagner-it.de" target="_blank">
-				<img src="./img/s/202_Wagner-IT_Logo_150x75.png" alt="Wagner-IT">
+				<img src="./img/s/202_Wagner-IT.png" alt="Wagner-IT">
 			</a>
 		</li>
 		<li class="tile bronze">
@@ -124,11 +140,35 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="" target="_blank">
-				<img src="" alt="">
+			<a href="http://www.gkg-kassel.de" target="_blank">
+				<img src="./img/s/204_gkg_logo.png" alt="Dr.-Ing. Claas Leiner">
 			</a>
 		</li>
-
+		<li class="tile bronze">
+			<a href="http://www.disy.net" target="_blank">
+				<img src="./img/s/205_Logo_disy_4c.jpg" alt="Disy Informationssysteme GmbH">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.hs-anhalt.de/nc/studieren/orientierung/studienangebot/detail/geoinformationssysteme-master-of-engineering.html" target="_blank">
+				<img src="./img/s/206_beMasterGIS.png" alt="beMasterGIS">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="http://www.lingner.eu/" target="_blank">
+				<img src="./img/s/207_mapwebbing_logo.png" alt="mapwebbing">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://www.geofabrik.de/" target="_blank">
+				<img src="./img/s/208_Geofabrik.png" alt="geofabrik">
+			</a>
+		</li>
+		<li class="tile bronze">
+			<a href="https://intevation.de/" target="_blank">
+				<img src="./img/s/209_intevation.png" alt="intevation">
+			</a>
+		</li>
 	</ul>
 
 	<h4 class="highlight">Medienpartner</h4>
@@ -153,7 +193,16 @@
 				<img src="./img/s/404_yaga_logo.png" alt="YAGA Development-Team">
 			</a>
 		</li>
-
+		<li class="tile media">
+			<a href="https://www.vag-freiburg.de" target="_blank">
+				<img src="./img/s/407_VAG freiburg_Logo.png" alt="VAG Freiburg">
+			</a>
+		</li>
+		<li class="tile media">
+			<a href="https://www.frelo-freiburg.de/de/" target="_blank">
+				<img src="./img/s/408_Frelo_Logo_CMYK.png" alt="frelo">
+			</a>
+		</li>
 	</ul>
 
 	<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Die Informationen für Sponsoren und Aussteller finden Sie in der 

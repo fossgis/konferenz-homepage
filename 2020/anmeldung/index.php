@@ -25,7 +25,7 @@
 		Die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch.
 		Wir freuen uns auf Sie!
 	</p>
-	<p>
+	<!--<p>
 		Die Anmeldung ist voraussichtlich ab Anfang Januar 2020 geöffnet.
 	</p>
 
@@ -49,7 +49,7 @@
 		<li>Standardticket (Normalpreis): € 190</li>
 		<li>Standardticket (Frühbucherrabatt für die ersten 50 Tickets): € 150</li>
 		<li>Studierendenticket, Rentnerticket: € 40</li>
-		<li>Communityticket<sup>**</sup>: € 0</li>
+		<li>Communityticket, Helferticket<sup>**</sup>: € 0</li>
 		<li>Workshop: € 100</li>
 		<!--<li>Workshop (Frühbucherrabatt bis 06.02.2019): € 90</li>-->
 	</ul>
@@ -64,24 +64,24 @@
 
 	<p>
 		<small>* wenn bestellt und solange verfügbar</small><br>
-		<small>** Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer der Konferenz.</small>
+		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer der Konferenz.</small>
 	</p>
 
 	<h3>Helfer</h3>
-	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <!--<a href="https://helfer-2020.fossgis.de/">Helfersystem</a> -->Helfersystem anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2019/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
+	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer.fossgis.de/">Helfersystem</a> registrieren und eine E-Mail an konferenz-orga@fossgis.de senden, damit wir Sie kontaktieren können. Helfer dürfen das kostenfreie "Helfer-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2020/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
 
-	<!--<h3>Anmeldung</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2019/">diesem Link</a> direkt aufrufen.</p>
+	<h3>Anmeldung</h3>
+	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2020/">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
-		<pretix-widget event="https://pretix.eu/fossgis/2019/"></pretix-widget>
+		<pretix-widget event="https://pretix.eu/fossgis/2020/"></pretix-widget>
 	</div>
 	<noscript>
 		<div class="pretix-widget">
 			<div class="pretix-widget-info-message">
-				JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2019/">hier</a>.
+				JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2020/">hier</a>.
 			</div>
 		</div>
-	</noscript>-->
+	</noscript>
 
 	<?php include('../inc/footer.inc'); ?>
 

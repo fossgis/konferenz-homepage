@@ -14,15 +14,12 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<li>
-			<a href="callforpapers/">Call for Papers</a>
-		</li>
 		<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
 		</li>
-	<!--	<li id="navProgramm">
+		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
-		</li>-->
+		</li>
 		<li id="navAnreise">
 			<a href="./anreise/">Anreise</a>
 		</li>
@@ -32,9 +29,9 @@
 		<li id="navEvents">
 			<a href="./socialevents/">Social Events</a>
 		</li>
-	<!--	<li id="navTeam">
+		<li id="navTeam">
 			<a href="./loc/loc.php">Team</a>
-		</li>-->
+		</li>
 	</ul>
 </nav>
 

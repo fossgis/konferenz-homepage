@@ -26,7 +26,7 @@
 		radius: 12,
 		className: 'svg-feature'
 	};
-	var baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	var baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
 		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 	});
 	var campusLabels = L.layerGroup();
@@ -48,7 +48,7 @@
 		}
 	});
 	var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
-	var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung Dialoge im Institutsviertel');
+	var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
 	var wedLabel = createLabel(wedPos, 'SK', 2);
 	var thuLabel = createLabel(friPos, 'FR', 2);
 	var mapOptions = {

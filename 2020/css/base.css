@@ -285,3 +285,93 @@ p.highlight {
 .pretix-widget .pretix-widget-category-name {
 	margin: 1em 0;
 }
+
+/* Programm */
+table.program-table {
+	border-collapse: collapse;
+}
+
+table.program-table th,
+table.program-table td {
+	border-width: 1px 1px 1px 1px;
+	border-color: #444;
+	padding: 5px 5px 5px 5px;
+}
+
+table.program-table td {
+	vertical-align: top;
+	border-bottom-style: solid;
+	border-right-style: solid;
+}
+
+table.program-table th,
+table.program-table td.program-time {
+	background-color: #eb7f00;
+	border-bottom-color: #eb7f00;
+	border-right-color: #eb7f00;
+	color: white;
+	font-weight: bold;
+}
+
+table.program-table th {
+	text-align: center;
+}
+
+table.program-table td.program-break {
+	background-color: #ddd;
+	font-style: italic;
+	padding-left: 20px;
+}
+
+a.session-title,
+span.session-title {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+span.session-type {
+	font-weight: bold;
+	font-size: 90%;
+	text-transform: uppercase;
+	color: #eb7f00;
+}
+
+span.session-speakers {
+	font-size: 90%;
+}
+
+img.program-no-recording {
+	display: inline;
+	vertical-align: middle;
+}
+
+/* Vortragsbeschreibungen */
+h2.abstract-title {
+	line-height: 115%;
+}
+
+.abstract-time-heading,
+.abstract-room-heading {
+	font-weight: bold;
+}
+
+.abstract-novideo {
+	font-size: 80%;
+}
+
+img.abstract-novideo-img {
+	display: inline;
+	vertical-align: middle;
+}
+
+.abstract-is-workshop {
+	font-size: 80%;
+	line-height: initial;
+}
+
+.abstract-bio {
+	font-size: 80%;
+	background-color: #ffd097;
+	padding: 15px 15px 15px 15px;
+	margin-top: 15px;
+}
