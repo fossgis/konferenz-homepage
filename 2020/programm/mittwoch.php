@@ -223,11 +223,7 @@
                                             </tr>
                                 <tr>
                         <td class="program-time">17:00</td>
-                        <td rowspan="1" id="session_FDAF37">
-            <a class="session-title" href="sessions/FDAF37.php">OSM-Daten in QGIS nutzen</a>
-    <br><span class="session-speakers">Astrid Emde</span>
-</td>
-
+                        <td></td>
                             <td rowspan="1" id="session_YBRH7D">
             <a class="session-title" href="sessions/YBRH7D.php">Ein einheitlicher Frontend-Ansatz, um mehrere Routing-Lösungen im WebGIS zu nutzen</a>
     <br><span class="session-speakers">Robert Klemm</span>
@@ -256,7 +252,11 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">17:30</td>
-                        <td></td>
+                        <td rowspan="1" id="session_FDAF37">
+            <a class="session-title" href="sessions/FDAF37.php">OSM-Daten in QGIS nutzen</a>
+    <br><span class="session-speakers">Astrid Emde</span>
+</td>
+
                             <td rowspan="2" id="session_339AY9">
     <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/339AY9.php">Einführung zu GDAL/OGR: Geodaten mit der Kommandozeile verarbeiten</a>
     <br><span class="session-speakers">Jakob Miksch</span>

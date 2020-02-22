@@ -63,11 +63,7 @@
     <br><span class="session-speakers">Falk Zscheile</span>
 </td>
 
-                            <td rowspan="3" id="session_CF778N">
-    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/CF778N.php">GRASS GIS per HTTP: Actinia-Geoprozessierung</a>
-    <br><span class="session-speakers">Jan Suleiman, Carmen Tawalika</span>
-</td>
-
+                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">09:30</td>
@@ -88,7 +84,7 @@
 
                             
                             
-                            
+                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:00</td>
@@ -109,7 +105,7 @@
 
                             
                             
-                            
+                            <td></td>
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:30</td>
