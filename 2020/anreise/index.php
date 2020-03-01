@@ -97,7 +97,7 @@
     </p>
 
 	<h3>Unterkunft</h3>
-	<p>Über den Buchungsservice der Stadt Freiburg ist ein Sonderkontingent für die FOSSGIS-Konferenz eingerichtet. Die Hotels befinden sich alle fußläufig zum Veranstaltungsort. Buchen Sie Ihr Zimmer direkt über die Onlinebuchungsmaske, telefonisch oder per Buchungsformular.<br> <b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Freiburg eine <a href="https://www.freiburg.de/pb/,Lde/-/205332/;vbid830/;vbmid3"> Übernachtungsteuer</a>  erhebt.
+	<p>Über den Buchungsservice der Stadt Freiburg können Sie bequem Ihre Übernachtung für die FOSSGIS 2020 buchen. Die zentrumnahen Hotels befinden sich alle fußläufig zum Veranstaltungsort. Buchen Sie Ihr Zimmer direkt über die Onlinebuchungsmaske, telefonisch oder per Buchungsformular.<br> <b>Hinweis:</b> Bitte beachten Sie, dass die Stadt Freiburg eine <a href="https://www.freiburg.de/pb/,Lde/-/205332/;vbid830/;vbmid3"> Übernachtungsteuer</a>  erhebt.
  
 	<p><i>Buchungsservice der Stadt Freiburg</i></p>
 	<ul>
@@ -108,7 +108,7 @@
 		<li>E-Mail: groups@fwtm.de</li>
 		<li>Werktags: Mo-Fr von 08:30 Uhr bis 16:00 Uhr, außer an Feiertagen</li>
 	 	<li>PDF-Buchungsformular: <a href="anreise/data/03-20_Buchungsformular_FOSSGIS.pdf"> PDF-Download </a></li>
-		<li>Online-Buchungsformular: <a href="https://tportal.toubiz.de/FOSSGIS2020/ukv/?doSearch=1&ukv_result_order=1&date_from=11.03.2020&date_to=14.03.2020&number_adult[]=1&rate=FIT00020070546746388&reset=1" rel="nofollow" target="_blank">https://tportal.toubiz.de/FOSSGIS2020/ukv/result?tt=bk61q91m5uhb54tr99u761qp43</a></li>
+		<li>Online-Buchungsformular: <a href="https://visit.freiburg.de/ " rel="nofollow" target="_blank">https://visit.freiburg.de/</a></li>
 	</ul>
  
 	<p>Zusätzlich zum Abrufkontingent können weitere Hotelzimmer auch direkt bei den entsprechenden Anbietern gebucht werden.</p>
