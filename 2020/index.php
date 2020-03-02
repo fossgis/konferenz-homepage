@@ -16,10 +16,17 @@
 
 	<?php include "inc/header.inc"; ?>
 
-	<h2>Willkommen zur FOSSGIS-Konferenz 2020</h2>
+<h4>Covid-19</h4>
+<p>Das Organisationsteam der FOSSGIS 2020 verfolgt natürlich die Nachrichten um die Ausbreitung des Covid-19. <br>
+Nach aktueller Lage wird die Konferenz ganz normal stattfinden. Wir orientieren uns an den Empfehlungen des Robert-Koch-Instituts und der Gesundheitsbehörden. Wir stehen dazu auch mit der Stadt Freiburg und der Uni Freiburg in Kontakt. <br>
+Natürlich verstehen wir, wenn einzelne Teilnehmer absagen wollen oder müssen. Wie immer gilt bei uns, dass Sie bis 3 Tage vor der Konferenz Ihr Ticket einfach selbst über das Anmeldesystem stornieren können, Sie erhalten dann den vollen Betrag zurück. Spätere Stornierungen bitte per E-Mail an konferenz-orga@fossgis.de. <br>
+Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer per E-Mail.</p>	
+
+<h2>Willkommen zur FOSSGIS-Konferenz 2020</h2>
 	<p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 	<p>Die FOSSGIS-Konferenz 2020 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a> veranstaltet. <!--Die Konferenz hat 500 Teilnehmer*innen nach Dresden gelockt.-->
 </p>
+
 
 	<ul class="tiles">
 		<li class="tile bronze">
@@ -43,6 +50,8 @@
 			</a>
 		</li>
 	</ul>
+
+
 
 	<p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
 	<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
