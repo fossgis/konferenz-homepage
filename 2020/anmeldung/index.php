@@ -25,6 +25,12 @@
 		Die Konferenz lebt von Ihren Beitr&auml;gen und Ihrem Besuch.
 		Wir freuen uns auf Sie!
 	</p>
+
+    <h4>Covid-19</h4>
+<p>Das Organisationsteam der FOSSGIS 2020 verfolgt natürlich die Nachrichten um die Ausbreitung des Covid-19. <br>
+Nach aktueller Lage wird die Konferenz ganz normal stattfinden. Wir orientieren uns an den Empfehlungen des Robert-Koch-Instituts und der Gesundheitsbehörden. Wir stehen dazu auch mit der Stadt Freiburg und der Uni Freiburg in Kontakt. <br>
+Natürlich verstehen wir, wenn einzelne Teilnehmer absagen wollen oder müssen. Wie immer gilt bei uns, dass Sie bis 3 Tage vor der Konferenz Ihr Ticket einfach selbst über das Anmeldesystem stornieren können, Sie erhalten dann den vollen Betrag zurück. Spätere Stornierungen bitte per E-Mail an konferenz-orga@fossgis.de. <br>
+Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer per E-Mail.</p>
 	<!--<p>
 		Die Anmeldung ist voraussichtlich ab Anfang Januar 2020 geöffnet.
 	</p>
