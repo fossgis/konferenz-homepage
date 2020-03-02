@@ -34,7 +34,7 @@
 
 	<h4>Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 10. März 2020 ab 18:30/19 Uhr alle schon angereisten Konferenzbesucher willkommen in der Gaststätte Schwarzer Kater zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 10. März 2020 ab 18:30/19 Uhr alle schon angereisten Konferenzbesucher willkommen in der Gaststätte Schwarzer Kater (<a href="https://www.openstreetmap.de/karte.html?zoom=19&lat=47.9951&lon=7.84753&layers=B000TT" target="blank">Bertoldstraße 26, Altstadt-Mitte</a>) zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
 	
 	<h3>Mittwoch, 11. März 2020</h3>
 	<h4>Eröffnung FOSSGIS-Konferenz</h4>
