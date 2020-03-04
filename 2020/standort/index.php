@@ -87,28 +87,22 @@
 
 	<h3>Öffentlicher Nahverkehr</h3>
 	<p>Der öffentliche Nahverkehr wird durch die Freiburger Verkehrs AG (VAG) organisiert. Der Ticketkauf erfolgt in der Regel 
-		in der Tram oder im Bus, an größeren Haltestellen gibt es auch noch Fahrkartenautomaten. In der Innenstadt
-		befindet sich in unmittelbarer Nähe zum Bertoldsbrunnen das VAG Servicecenter "VAG pluspunkt".
-		Für Fahrten im Stadtgebiet genügt ein Fahrschein der Preisstufe 1 (Einzelfahrt derzeit 2,40€). Bei einem längeren 
-		Aufenthalt in Freiburg sind entweder 4er-Tickets (2x4 Fahrten für 17,30€), oder eine WelcomeKarte für 3 Tage im 
-		gesamten RVF-Gebiet (26€) sinnvoll.
-	</p>
+		in der Tram oder im Bus. Sie erhalten am Welcome Deskein kostenfreies ÖPNV-Ticket.</p>
 
 	<p><b>Hilfreiche Informationen</b></p>
 	<ul>
 		<li><a href="https://www.vag-freiburg.de/fahrplan/netzplaene" rel="nofollow" target="_blank"> Liniennetze der VAG</a></li>
-		<li><a href="https://www.vag-freiburg.de/tickets" rel="nofollow" target="_blank"> Ticketübersicht</a></li>
-		<li><a href="https://www.vag-freiburg.de/fahrplan/fahrplanauskunft" rel="nofollow" target="_blank"> Fahrplanauskunft</a></li>
-		<li> App-Empfehlung für Android: <a href="" rel="nofollow" target="_blank">APP</a></li>
-		<li>App-Empfehlung für iOS: <a href="" rel="nofollow" target="_blank">APP</a></li>
+		
+		<li><a href="https://www.vag-freiburg.de/fahrplan/fahrplanauskunft" rel="nofollow" target="_blank"> Fahrplanauskunft der VAG</a></li>
+		<li><a href="https://www.vag-freiburg.de/tickets" rel="nofollow" target="_blank"> Ticketübersicht</a> (Hinweis: Sie erhalten ein kostenfreies ÖPNV-Ticket)</li>
+		
 
-		<li><b>Fahrradverleih:</b> <a href="https://www.vag-freiburg.de/mehr-mobilitaet/fahrrad-leihen" rel="nofollow" target="_blank"></a>Zusammenstellung verschiedener Angebote</li>
+		<li><a href="https://www.vag-freiburg.de/mehr-mobilitaet/fahrrad-leihen" rel="nofollow" target="_blank">Fahrradverleih</a> (Frelo stellt kostenfreie Leihfahrräder zur Verfügung, Gutscheincode am Welcome Desk. Zum Ausleihen wird die NextBike-App verwendet.)</li>
 	</ul>
 
 	<h3>Taxi</h3>
 	<ul>
-		<li>Taxi Freiburg</li>
-		<li><a href="" rel="nofollow" target="_blank"> weitere Taxibetriebe</a></li>
+		<li><a href="https://www.taxi.de/in/freiburg/">Taxi Freiburg</a></li>
 	</ul>
 
 	<?php include('../inc/footer.inc'); ?>

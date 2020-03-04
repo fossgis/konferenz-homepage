@@ -43,10 +43,10 @@
     </p>
 
     <h3>Anreise mit öffentlichen Verkehrsmitteln</h3>
-    <p>
-        Das <a href="https://www.openstreetmap.org/way/102476555" target="_blank">Institutsviertel der Albert-Ludwigs-Universität</a> liegt nur etwa 750 m vom Freiburger Hauptbahnhof entfernt.
-        Dieser wird durch die Deutsche Bahn und diverse Fernbusse bedient.
-    </p>
+
+	<p>Sie erhalten ein kostenfreies ÖPNV-Ticket, unterstützt durch die Verkehrsbetriebe Freiburg. Dieses wird am Welcome Desk nach Ihrer Einwilligung zur Namensliste zur Abrechnung mit den Verkehrsbetrieben ausgehändigt.</p>
+    <p>Das <a href="https://www.openstreetmap.org/way/102476555" target="_blank">Institutsviertel der Albert-Ludwigs-Universität</a> liegt nur etwa 750 m vom Freiburger Hauptbahnhof entfernt.
+        Dieser wird durch die Deutsche Bahn und diverse Fernbusse bedient.</p>
 
     <p><b>Fernverkehrsverbindungen</b>: (Stand 2019)</p>
     <ul>
@@ -65,30 +65,30 @@
 
     <h3>Anreise mit dem Auto</h3>
     <p>
-        Auf dem Campus stehen für Konferenzbesucher eine beschränkte Anzahl an kostenlosen Parkplätzen zur Verfügung.
+        Auf dem Campus stehen für Konferenzbesucher <b>keine</b> Parkplätze zur Verfügung.
     </p>
 
     <ul>
-        <li><b>Aus Richtung Westen (Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen):</b> ab
+        <li>Aus Richtung Westen (Rheinland-Pfalz, Nordrhein-Westfalen, Niedersachsen): ab
             Köln über die A3 Richtung Frankfurt. Dort auf die A67 Richtung Karlsruhe / Basel wechseln und ab dem Darmstädter 
             Kreuz weiter über die A5 Richtung Karlsruhe / Basel / Freiburg.
         </li>
-        <li><b>Aus Richtung Norden (Schleswig-Holstein, Hamburg, Niedersachsen, Hessen):</b> ab Hamburg über Hannover und 
+        <li>Aus Richtung Norden (Schleswig-Holstein, Hamburg, Niedersachsen, Hessen): ab Hamburg über Hannover und 
             Kassel auf der A7 bis zum Hattenbacher Dreieck (hinter Bad Hersfeld und Kirchheim) und von dort auf der 
             A5 weiter Richtung Karlsruhe / Basel /Freiburg
         </li>
-        <li><b>Aus Richtung Osten / Nordosten:</b> ab Dresden auf der A4 Richtung Chemnitz und weiter über die A72
+        <li>Aus Richtung Osten / Nordosten: ab Dresden auf der A4 Richtung Chemnitz und weiter über die A72
             und A9 bis Nürnberg, ab Berlin auf der A9 Richtung Nürnberg. Danach weiter auf der A6 über Heilbronn bis zum 
             Kreuz Walldorf. Dort auf die A5 Richtung Basel / Freiburg wechseln.
         </li>
-        <li><b>Aus Richtung Südost (Bayern, Österreich):</b> von Wien aus über die A1 bis Salzburg und weiter auf der A8 
+        <li>Aus Richtung Südost (Bayern, Österreich): von Wien aus über die A1 bis Salzburg und weiter auf der A8 
             über München und Stuttgart nach Karlsruhe. Von Karlsruhe aus über die A5 Richtung Basel / Freiburg.
         </li>
     </ul>
 
     <p>
         Denken Sie an die Möglichkeit des Carsharing, oder nutzen oder organisieren Sie eine Mitfahrgelegenheit bei
-        Diensten wie z.B.<a
+        Diensten wie z.B. <a
             href="https://www.blablacar.de/ride-sharing/to-freiburg/?fn=&tn=Freiburg%2C+Deutschland&tc=51.050409%7C13.737262&tcc=DE&tp=0&is_without_date_end=0&sort=trip_date&order=asc&limit=10&page=1&s_uuid=7ff529a3-e27c-42c1-9681-095b7b73d90d"
             title="https://www.blablacar.de/"
             rel="nofollow"
@@ -107,11 +107,11 @@
 		<li>Fax: +49 761 3881-1398</li>
 		<li>E-Mail: groups@fwtm.de</li>
 		<li>Werktags: Mo-Fr von 08:30 Uhr bis 16:00 Uhr, außer an Feiertagen</li>
-	 	<li>PDF-Buchungsformular: <a href="anreise/data/03-20_Buchungsformular_FOSSGIS.pdf"> PDF-Download </a></li>
+	 	<!--<li>PDF-Buchungsformular: <a href="anreise/data/03-20_Buchungsformular_FOSSGIS.pdf"> PDF-Download </a></li>-->
 		<li>Online-Buchungsformular: <a href="https://visit.freiburg.de/ " rel="nofollow" target="_blank">https://visit.freiburg.de/</a></li>
 	</ul>
  
-	<p>Zusätzlich zum Abrufkontingent können weitere Hotelzimmer auch direkt bei den entsprechenden Anbietern gebucht werden.</p>
+	
 	<p><i>Hotel Motel One Freiburg</i></p>
 	<ul>
 		<li> Web: <a href="https://www.motel-one.com/en/hotels/freiburg/hotel-freiburg/" rel="nofollow" target="_blank">https://www.motel-one.com/en/hotels/freiburg/hotel-freiburg/</a>
