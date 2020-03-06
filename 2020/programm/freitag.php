@@ -139,7 +139,7 @@
 </td>
 
                             <td rowspan="3" id="session_DMVYS9">
-    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/DMVYS9.php">Bessere Höhenlinien aus Geländemodelle erstellen</a>
+    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/DMVYS9.php">Bessere Höhenlinien aus Geländemodellen erstellen</a>
     <br><span class="session-speakers">Mathias Gröbe</span>
 </td>
 
@@ -189,7 +189,7 @@
                                 <tr>
                         <td class="program-time">13:30</td>
                         <td rowspan="1" id="session_EVHGAH">
-            <a class="session-title" href="sessions/EVHGAH.php">Infrastruktur-Mappen mit dem (e-)Bike</a>
+            <a class="session-title" href="sessions/EVHGAH.php">Infrastruktur-Mappen mit dem (E-)Bike</a>
     <br><span class="session-speakers">Roman Härdi</span>
 </td>
 

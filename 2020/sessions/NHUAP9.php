@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>Schneller, besser, leichter - PostGIS 3</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>Felix Kunde</span></p>
+                                <span class='abstract-speakers'>Felix Kunde, Marco Hugentobler</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             

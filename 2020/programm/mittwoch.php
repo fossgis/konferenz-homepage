@@ -239,11 +239,7 @@
     <br><span class="session-speakers">Otto Dassau, Tristan</span>
 </td>
 
-                            <td rowspan="3" id="session_EJSF9F">
-    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/EJSF9F.php">SQL für Fortgeschrittene</a>
-    <br><span class="session-speakers">Felix Kunde</span>
-</td>
-
+                            <td></td>
                             <td rowspan="3" id="session_XQ7QNS">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/XQ7QNS.php">Einfacher Aufbau von Web-GIS-Anwendungen mit Mapbender</a>
     <br><span class="session-speakers">Jörg Thomsen</span>
@@ -268,7 +264,7 @@
 </td>
 
                             
-                            
+                            <td></td>
                             
                                                 </tr>
                                 <tr>
@@ -285,7 +281,7 @@
 </td>
 
                             
-                            
+                            <td></td>
                             
                                                 </tr>
                                 <tr>

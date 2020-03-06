@@ -142,9 +142,9 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
-                        <td rowspan="1" id="session_WTKV7Y">
-            <a class="session-title" href="sessions/WTKV7Y.php">Freie Geodaten der Umweltverwaltung Bayern - Hintergründe und einfache Anwendungsbeispiele</a>
-    <br><span class="session-speakers">Christian Strobl</span>
+                        <td rowspan="1" id="session_GSKCNU">
+    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/GSKCNU.php">Verarbeitung von Geländedaten mit QGIS</a>
+    <br><span class="session-speakers">Jelto Buurman</span>
 </td>
 
                             <td rowspan="1" id="session_HQD7NN">
@@ -195,7 +195,7 @@
 
                             <td rowspan="1" id="session_NHUAP9">
             <a class="session-title" href="sessions/NHUAP9.php">Schneller, besser, leichter - PostGIS 3</a>
-    <br><span class="session-speakers">Felix Kunde</span>
+    <br><span class="session-speakers">Felix Kunde, Marco Hugentobler</span>
 </td>
 
                             <td rowspan="1" id="session_BYJJNM">

@@ -30,6 +30,8 @@
                             </li>
                     <li>Florian Thiery, Timo Homburg: <span class='subsession-title'><a href="sessions/SQDQHJ.php">QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins</a></span>
                             </li>
+                    <li>Marco Bernasocchi: <span class='subsession-title'><a href="sessions/37LTRD.php">Daten sind draußen, QFieldCloud bringt sie herein</a></span>
+                            </li>
                 </ul>
         </section>
 

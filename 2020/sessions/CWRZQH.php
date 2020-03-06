@@ -27,19 +27,35 @@
 
             
             <p>MapServer ist jetzt 26 alt wird nach wie vor vielfältig als WMS, WFS, WCS eingesetzt. Projekte aus seinem Umfeld (tiny-ows, MapCache) erweitern seine Funktionen. Außerdem wird auch MapServer selbst stetig weiter entwickelt und quasi ständig gibt es neue Funktionen und Konfigurationsmöglichkeiten zu entdecken.</p>
-<p>MapServer als Software und Projekt wird kurz vorgestellt, gefolgt von einem Überblick über die wichtigsten Änderungen in der Konfiguration, die sich durch den Wechsel auf Version 7 ergeben haben, da es immer noch zahlreiche Projekte gibt, in denen ein Versionswechsel ansteht, darunter:</p>
+<p>MapServer als Software und Projekt wird kurz vorgestellt, gefolgt von einem Überblick über die wichtigsten Änderungen in der Konfiguration, die sich seit Version 7.0 ergeben haben. Es wird auchdie Frage geklärt, wie man als Interessietrer selbst an diese Informationen heran kommen kann und wo sich womöglich die Dokumentation zu neuen Funtkionen finden lässt (wenn sie noch nicht in der offiziellen Doku angekommen ist).</p>
+<p>Highlights aus dem Changelog:</p>
 <ul>
-<li>Filter-Verhalten</li>
-<li>Annotations</li>
-<li>Übernahme von Attributen als Mapfile-Paramter</li>
+<li>MapScript Unterstützung für python 3 und PHP7</li>
+<li>Neues Ausgabeformat Mapbox Vector Tiles (MVT)</li>
+<li>Unterstützung von OGC Filter für WMS</li>
+<li>Compositing Filters</li>
+<li>erweiterte Unterstützung von Layer-Metadaten</li>
+<li>INSPIRE Downlaod WCS 2.0</li>
 </ul>
-<p>Darüber hinaus wirft der Vortrag  einen Blick auf die Changelogs der 7er-Versionen und berücksichtigt auch die neuesten Entwicklungen, die sich bis zur FOSSGIS einstellen werden, darunter:</p>
-<ul>
-<li>Default Mapsize</li>
-<li>MSSQL-Support</li>
-<li>Variablen-Subistution</li>
-</ul>
-<p>Den Abschluss bildet ein Exkurs nach MapScript, in diesen Bereich hat sich 2019 einiges getan.</p>
+<p>Wir werfen auch einen Blick auf MapServer-Pakete für Windows und den Abschluss bildet ein Ausblick auf Version 8 mit Hinweisen, wie das bevostehden Update schon jetzt vorbereitet werden kann.</p>
+<p>Hier die Links zum Vortrag wie im Tagungsband erwähnt:</p>
+<p>[1] https://mapserver.org/</p>
+<p>[2] https://www.opengeospatial.org/</p>
+<p>[3] https://de.wikipedia.org/wiki/Common_Gateway_Interface</p>
+<p>[4] https://mapserver.org/mapscript/index.html</p>
+<p>[5] https://github.com/mapserver/mapserver/wiki/MapServer-8.0-Release-Plan</p>
+<p>[6] https://www.openhub.net/p/mapserver</p>
+<p>[7] https://ftp.gwdg.de/pub/misc/openstreetmap/FOSS4G-2016/foss4g-2016-1295-
+mapserver_status_report-hd.mp4</p>
+<p>[8] https://mapserver.org/MIGRATION_GUIDE.html</p>
+<p>[9] https://mapserver.org/development/changelog/changelog-7-4.html</p>
+<p>[10] https://github.com/mapserver/mapserver/blob/branch-7-4/HISTORY.TXT</p>
+<p>[11] https://mapserver.org/development/rfc/ms-rfc-119.html</p>
+<p>[12] https://github.com/sdlime/mvt-demo</p>
+<p>[13] https://mapserver.org/development/rfc/ms-rfc-118.html</p>
+<p>[14] https://mapserver.org/development/rfc/ms-rfc-120.html</p>
+<p>[15] https://ms4w.com/</p>
+<p>[16] https://github.com/mapserver/mapserver/wiki/Mapfile-Syntax-Changes-for-8.0</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jörg Thomsen</h3>
             <p>Jörg Thomsen arbeitet seit dem Ende des letzten Jahrhunderts mit freier GI-Software und war bereits die FOSSGIS-Konferenz bereits mit gestaltet, als sie noch MapServer Anwender-Konferenz hieß.</p>
