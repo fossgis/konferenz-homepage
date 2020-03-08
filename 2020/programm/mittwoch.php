@@ -223,7 +223,11 @@
                                             </tr>
                                 <tr>
                         <td class="program-time">17:00</td>
-                        <td></td>
+                        <td rowspan="1" id="session_AAPZFZ">
+            <a class="session-title" href="sessions/AAPZFZ.php">Wie man mit OSM und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauren kann</a>
+    <br><span class="session-speakers">Christoph Hanser</span>
+</td>
+
                             <td rowspan="1" id="session_YBRH7D">
             <a class="session-title" href="sessions/YBRH7D.php">Ein einheitlicher Frontend-Ansatz, um mehrere Routing-Lösungen im WebGIS zu nutzen</a>
     <br><span class="session-speakers">Robert Klemm</span>
