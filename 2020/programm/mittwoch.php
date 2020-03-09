@@ -224,7 +224,7 @@
                                 <tr>
                         <td class="program-time">17:00</td>
                         <td rowspan="1" id="session_AAPZFZ">
-            <a class="session-title" href="sessions/AAPZFZ.php">Wie man mit OSM und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauren kann</a>
+            <a class="session-title" href="sessions/AAPZFZ.php">Wie man mit OpenStreetMap und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauen kann</a>
     <br><span class="session-speakers">Christoph Hanser</span>
 </td>
 

@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>Wie man mit OSM und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauren kann – FOSSGIS 2020</title>
+	<title>Wie man mit OpenStreetMap und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauen kann – FOSSGIS 2020</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/mittwoch.php#session_AAPZFZ">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>Wie man mit OSM und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauren kann</h2>
+        <h2 class='abstract-title'>Wie man mit OpenStreetMap und Open Source eine multimodale Smartphone-App für den öffentlichen Nahverkehr bauen kann</h2>
         <section>
             <p>
                                 <span class='abstract-speakers'>Christoph Hanser</span></p>
