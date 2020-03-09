@@ -17,10 +17,11 @@
 	<?php include "inc/header.inc"; ?>
 
 <h4>Covid-19</h4>
-<p>Das Organisationsteam der FOSSGIS 2020 verfolgt natürlich die Nachrichten um die Ausbreitung des Covid-19. <br>
-Nach aktueller Lage wird die Konferenz ganz normal stattfinden. Wir orientieren uns an den Empfehlungen des Robert-Koch-Instituts und der Gesundheitsbehörden. Wir stehen dazu auch mit der Stadt Freiburg und der Uni Freiburg in Kontakt. <br>
-Natürlich verstehen wir, wenn einzelne Teilnehmer absagen wollen oder müssen. Wie immer gilt bei uns, dass Sie bis 3 Tage vor der Konferenz Ihr Ticket einfach selbst über das Anmeldesystem stornieren können, Sie erhalten dann den vollen Betrag zurück. Spätere Stornierungen bitte per E-Mail an konferenz-orga@fossgis.de. <br>
+<p>Das Organisationsteam der FOSSGIS 2020 verfolgt die Nachrichten um die Ausbreitung des Covid-19. <br>
+Nach aktueller Lage wird die Konferenz stattfinden. Wir orientieren uns an den Empfehlungen des Robert-Koch-Instituts und der Gesundheitsbehörden. Wir stehen dazu auch mit der Stadt Freiburg und der Uni Freiburg in Kontakt. <br>
+Wir verstehen, wenn einzelne Teilnehmer absagen wollen oder müssen. Wenn dem so ist, schreiben Sie eine E-Mail an konferenz-orga@fossgis.de. Leider können wir mit dem heutigen Tag keine Kosten zurückerstatten.<br>
 Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer per E-Mail.</p>	
+<p>Wir bitten alle Teilnehmenden, die zur FOSSGIS kommen sich an den Handlungsempfehlungen, wie Lächeln statt Händeschütteln und regelmäßiges, ausgiebiges Händeswaschen zu orientieren.</p>
 
 <h2>Willkommen zur FOSSGIS-Konferenz 2020</h2>
 	<p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
