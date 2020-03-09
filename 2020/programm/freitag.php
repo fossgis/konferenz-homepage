@@ -48,11 +48,7 @@
     <br><span class="session-speakers">Holger Bruch</span>
 </td>
 
-                            <td rowspan="1" id="session_AP9CC8">
-            <a class="session-title" href="sessions/AP9CC8.php">OBM completeness - Ein OpenStreetMap Tool zur Bewertung der Vollständigkeit des OSM Gebäudebestandes</a>
-    <br><span class="session-speakers">Karsten Prehn</span>
-</td>
-
+                            <td></td>
                             <td rowspan="3" id="session_RUEZJ7">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/RUEZJ7.php">Einführung in die Verwaltung von Geodaten in der PostgreSQL Datenbank mit PostGIS</a>
     <br><span class="session-speakers">Astrid Emde, Leoni Möske</span>
@@ -77,11 +73,7 @@
     <br><span class="session-speakers">Dr Julia Richter, Thomas Graichen</span>
 </td>
 
-                            <td rowspan="1" id="session_XKUMED">
-            <a class="session-title" href="sessions/XKUMED.php">Asynchrones Python-basiertes Taskset zur permanenten Aktualisierung einer lokalen weltweiten OSM-basierten Gebäudedatenbank</a>
-    <br><span class="session-speakers">Thomas Beutin</span>
-</td>
-
+                            <td></td>
                             
                             
                             <td></td>
@@ -191,19 +183,6 @@
                         <td rowspan="1" id="session_EVHGAH">
             <a class="session-title" href="sessions/EVHGAH.php">Infrastruktur-Mappen mit dem (E-)Bike</a>
     <br><span class="session-speakers">Roman Härdi</span>
-</td>
-
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                                                </tr>
-                                <tr>
-                        <td class="program-time">14:00</td>
-                        <td rowspan="1" id="session_JYFVQL">
-            <a class="session-title" href="sessions/JYFVQL.php">Erdbeben und OpenStreetMap</a>
-    <br><span class="session-speakers">Danijel Schorlemmer</span>
 </td>
 
                             <td></td>

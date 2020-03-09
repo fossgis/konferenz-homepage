@@ -203,11 +203,7 @@
     <br><span class="session-speakers">Günter Wagner</span>
 </td>
 
-                            <td rowspan="1" id="session_DH3H9D">
-            <a class="session-title" href="sessions/DH3H9D.php">FAIRe Daten und FAIRe Software in der Biodiversitätsforschung</a>
-    <br><span class="session-speakers">Bernhard Seeger</span>
-</td>
-
+                            <td></td>
                             <td rowspan="1" id="session_PRCPBP">
             <a class="session-title" href="sessions/PRCPBP.php">Reliefdarstellung mit Höhenlinien</a>
     <br><span class="session-speakers">Mathias Gröbe</span>
@@ -233,11 +229,7 @@
     <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
-                            <td rowspan="1" id="session_L9NGAN">
-            <a class="session-title" href="sessions/L9NGAN.php">GeoPortal Koblenz – digital, vielschichtig, maßgebend</a>
-    <br><span class="session-speakers">Andreas Weckbecker, Christine Dolezich</span>
-</td>
-
+                            <td></td>
                             <td rowspan="3" id="session_MB9ZLH">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/MB9ZLH.php">QGIS 3 Einsteiger Workshop</a>
     <br><span class="session-speakers">Otto Dassau, Tristan</span>
