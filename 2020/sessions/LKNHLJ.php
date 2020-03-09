@@ -22,7 +22,7 @@
         <h2 class='abstract-title'>FOSSGIS-Jeopardy</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Johannes Kröger</span></p>
+                <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>Johannes Kröger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
             
@@ -31,7 +31,7 @@
 <p>Du kennst sämtliche Parameter der OpenLayers-API, kannst jede Karte lesen und übst zum Spaß EPSG-Codes? Beste Voraussetzungen den Vorjahressieger zu entthronen!</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Johannes Kröger</h3>
-            <p>Ge🌍hipper Influ🌐ncer</p>
+            <p>🌍🌐</p>
         </div>
         </section>
 

@@ -198,7 +198,7 @@
                                 <tr>
                         <td class="program-time">14:30</td>
                         <td rowspan="1" id="session_LKNHLJ">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/LKNHLJ.php">FOSSGIS-Jeopardy</a>
+            <a class="session-title" href="sessions/LKNHLJ.php">FOSSGIS-Jeopardy</a>
     <br><span class="session-speakers">Johannes Kröger</span>
 </td>
 

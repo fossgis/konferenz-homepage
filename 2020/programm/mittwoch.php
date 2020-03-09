@@ -203,7 +203,11 @@
     <br><span class="session-speakers">Günter Wagner</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_DH3H9D">
+            <a class="session-title" href="sessions/DH3H9D.php">FAIRe Daten und FAIRe Software in der Biodiversitätsforschung</a>
+    <br><span class="session-speakers">Bernhard Seeger</span>
+</td>
+
                             <td rowspan="1" id="session_PRCPBP">
             <a class="session-title" href="sessions/PRCPBP.php">Reliefdarstellung mit Höhenlinien</a>
     <br><span class="session-speakers">Mathias Gröbe</span>

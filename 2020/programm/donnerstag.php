@@ -302,11 +302,7 @@
     <br><span class="session-speakers">Markus Neteler, Carmen Tawalika</span>
 </td>
 
-                            <td rowspan="1" id="session_EMQGW7">
-            <a class="session-title" href="sessions/EMQGW7.php">PTNA: Qualitätssicherung für ÖPNV in OpenStreetMap</a>
-    <br><span class="session-speakers">Toni Erdmann</span>
-</td>
-
+                            <td></td>
                             
                             
                             <td></td>
