@@ -31,8 +31,7 @@ https://pretix.eu/fossgis/2019" target="_blank"> </a> verkauft. Für das Vertrag
 
 <ul class="list">
 			<li> Email: konferenz-orga@fossgis.de</li>
-			<li> Telefon: +49 (0)331 2812 9857 0</li>
-			<li> Fax: +49 (0)331 2812 9857 9</li>
+			<li> Telefon: +49 (0)331 2812 9857 </li>
 </ul>
 
 <p>Aus der Erklärung muss der Entschluss zum Widerruf des Vertrags eindeutig hervorgehen. Der Widerruf muss keine Begründung enthalten.</p>
