@@ -192,11 +192,11 @@
                             <td></td>
                                                 </tr>
                                 <tr>
-                        <td class="program-time">15:00</td>
+                        <td class="program-time">14:00</td>
                         <td colspan="6" class="program-break"><a class="session-title" href="socialevents/#sektempfang">Kaffeepause/Sektempfang</a></td>
                                             </tr>
                                 <tr>
-                        <td class="program-time">15:30</td>
+                        <td class="program-time">14:30</td>
                         <td rowspan="1" id="session_LKNHLJ">
     <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/LKNHLJ.php">FOSSGIS-Jeopardy</a>
     <br><span class="session-speakers">Johannes Kröger</span>
