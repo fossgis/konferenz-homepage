@@ -262,11 +262,7 @@
     <br><span class="session-speakers">Jakob Miksch</span>
 </td>
 
-                            <td rowspan="1" id="session_3WCSVT">
-            <a class="session-title" href="sessions/3WCSVT.php">Der ÖREB-Kataster – eine Ode an offene Standards und Software</a>
-    <br><span class="session-speakers">Stefan Ziegler</span>
-</td>
-
+                            <td></td>
                             
                             <td></td>
                             

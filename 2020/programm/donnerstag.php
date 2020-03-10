@@ -138,9 +138,9 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
-                        <td rowspan="1" id="session_GSKCNU">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/GSKCNU.php">Verarbeitung von Geländedaten mit QGIS</a>
-    <br><span class="session-speakers">Jelto Buurman</span>
+                        <td rowspan="1" id="session_L9NGAN">
+            <a class="session-title" href="sessions/L9NGAN.php">GeoPortal Koblenz – digital, vielschichtig, maßgebend</a>
+    <br><span class="session-speakers">Torsten Brassat, Andreas Weckbecker, Christine Dolezich</span>
 </td>
 
                             <td rowspan="1" id="session_HQD7NN">
@@ -148,11 +148,7 @@
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
-                            <td rowspan="1" id="session_BJSHXE">
-        <img class="program-no-recording" src="./img/novideo-dark.svg" height="25" alt="ohne Videoaufzeichnung" title="Dieser Programmbeitrag wird nicht aufgezeichnet.">    <a class="session-title" href="sessions/BJSHXE.php">Entwicklung des Berliner Radverkehrs anhand von öffentlich gemachten Verkehrszähldaten</a>
-    <br><span class="session-speakers">Simon Metzler</span>
-</td>
-
+                            <td></td>
                             <td></td>
                             
                             
