@@ -53,11 +53,7 @@
     <br><span class="session-speakers">Sarah Hoffmann</span>
 </td>
 
-                            <td rowspan="3" id="session_HFMLCC">
-    <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/HFMLCC.php">QGIS Basics für Anfänger und Umsteiger</a>
-    <br><span class="session-speakers">Helene KAUTZ</span>
-</td>
-
+                            <td></td>
                             <td rowspan="3" id="session_JHQ9Q3">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/JHQ9Q3.php">Eigene Verarbeitungswerkzeuge für QGIS mit Python erstellen</a>
     <br><span class="session-speakers">Peter Gipper</span>
@@ -82,7 +78,7 @@
     <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
-                            
+                            <td></td>
                             
                             
                                                 </tr>
@@ -103,7 +99,7 @@
     <br><span class="session-speakers">Sven Geggus</span>
 </td>
 
-                            
+                            <td></td>
                             
                             
                                                 </tr>

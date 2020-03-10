@@ -24,8 +24,6 @@
         <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
         <p>Diese Session besteht aus den folgenden Programmpunkten:</p>
         <ul>
-                    <li>Holger Bruch: <span class='subsession-title'><a href="sessions/UADNMX.php">OSMRouteFix - Routen erfassen und monitoren</a></span>
-                            </li>
                     <li>Robert Klemm: <span class='subsession-title'><a href="sessions/ADEWD7.php">Neues zum Lyrk-Mapstyle; Was kommt danach?</a></span>
                             </li>
                 </ul>

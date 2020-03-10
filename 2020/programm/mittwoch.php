@@ -233,7 +233,11 @@
     <br><span class="session-speakers">Robert Klemm</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_KYTHBD">
+            <a class="session-title" href="sessions/KYTHBD.php">Lizmap Web Client und QGIS</a>
+    <br><span class="session-speakers">Günter Wagner</span>
+</td>
+
                             <td rowspan="3" id="session_MB9ZLH">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/MB9ZLH.php">QGIS 3 Einsteiger Workshop</a>
     <br><span class="session-speakers">Otto Dassau, Tristan</span>
