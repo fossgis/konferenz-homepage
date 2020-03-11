@@ -70,7 +70,9 @@
         <h4>Frühsport: Yoga und Pilates</h4>
         <p>Beginn: 8:00 Uhr<br>
         Leitung: Hanna Krüger</p>
-	<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger eine Session Yoga und Pilates anbieten.</p>
+		<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger eine Morgengymnastik-Session mit Elementen aus Yoga und Pilates anbieten.</p>
+		<p>Bitte bringt euch bequeme, sportliche Bekleidung und bei Bedarf dicke Socken oder Sportschuhe und ein Handtuch mit.</p>
+		<p>Der Kurs findet im BoF Raum 2 statt.</p>
 
 	<h4>Fototermin </H4>
 	<p>Circa. 15 Uhr</p>
@@ -79,10 +81,12 @@
 	<p>ab 18:00 Uhr im +++++. Alle Mitglieder sind herzlich eingeladen, teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Neuwahlen. Getränke werden gestellt und es wird für alle Pizza bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>
 
 	<h3>Freitag, 13. März 2020</h3>
-	<h4 id="yoga">Frühsport: Yoga und Pilates</h4>
+	<h4>Frühsport: Yoga und Pilates</h4>
         <p>Beginn: 8:00 Uhr<br>
         Leitung: Hanna Krüger</p>
-	<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger auch am Freitag eine Session Yoga und Pilates anbieten.</p>
+		<p>Um schwungvoll in den Konferenztag zu kommen, wird Hanna Krüger eine Morgengymnastik-Session mit Elementen aus Yoga und Pilates anbieten.</p>
+		<p>Bitte bringt euch bequeme, sportliche Bekleidung und bei Bedarf dicke Socken oder Sportschuhe und ein Handtuch mit.</p>
+		<p>Der Kurs findet im BoF Raum 2 statt.</p>
 
 	<h4 id="sektempfang">Sektempfang am FOSSGIS-Stand </h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 15:00 Uhr herzlich zum Sektausklang eingeladen.</p>
