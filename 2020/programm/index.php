@@ -52,7 +52,9 @@
 	</ul> 
 	<h3>Videoaufnahmen</h3>
 <p>Alle Videos sind im <a href="https://pretalx.com/fossgis2019/schedule/"> Vortragsprogramm </a> eingebettet und gesammelt auf  <a href="https://media.ccc.de/c/fossgis2019">MediaCCC</a> sowie auf <a href="https://www.youtube.com/playlist?list=PLTli5-lbeoiZtkFHEWZk2Lp0eKNhOgpDr"> youtube </a>. Danke an das Videoteam für die tolle Arbeit!  -->
-
+<h3>Livestream</h3>
+<p>Die FOSSGIS-Konferenz 2020 wird live gestreamt - <a href="https://streaming.media.ccc.de/fossgis20"> 
+bitte hier klicken</a>.</p>
 	<h3>Fotos</h3>
 <p>Der Fotostream der FOSSGIS-Konferenz ist auf <a href="https://www.flickr.com/groups/3127102@N20/pool/"> Flickr</a> zu finden. Fotos können mit dem Tag #FOSSGIS2020 hinzugefügt werden. 
 
