@@ -24,6 +24,8 @@
         <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
         <p>Diese Session besteht aus den folgenden Programmpunkten:</p>
         <ul>
+                    <li>Dr Julia Richter: <span class='subsession-title'><a href="sessions/CKRSVS.php">DYNAMIK: Dynamisches Navigations- und Orientierungssystem für körperlich beeinträchtigte Menschen in Innenräumen von Gebäuden</a></span>
+                            </li>
                 </ul>
         </section>
 
