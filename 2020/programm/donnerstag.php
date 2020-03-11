@@ -134,17 +134,17 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">11:30</td>
-                        <td rowspan="1" id="session_L9NGAN">
-            <a class="session-title" href="sessions/L9NGAN.php">GeoPortal Koblenz – digital, vielschichtig, maßgebend</a>
-    <br><span class="session-speakers">Torsten Brassat, Andreas Weckbecker, Christine Dolezich</span>
-</td>
-
+                        <td></td>
                             <td rowspan="1" id="session_HQD7NN">
             <a class="session-title" href="sessions/HQD7NN.php">Der neue OGC-API-Standard ist da!</a>
     <br><span class="session-speakers">Pirmin Kalberer</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_HBPRTA">
+            <a class="session-title" href="sessions/HBPRTA.php">OpenStreetMap-Tileserver mit Tirex</a>
+    <br><span class="session-speakers">Frederik Ramm</span>
+</td>
+
                             <td></td>
                             
                             
