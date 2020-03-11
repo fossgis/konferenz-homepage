@@ -319,7 +319,11 @@
     <br><span class="session-speakers">Christian Mayer, Jan Suleiman</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_L9WBU9">
+            <a class="session-title" href="sessions/L9WBU9.php">PostNAS-Suite Anwendertreffen</a>
+    <br><span class="session-speakers">Astrid Emde</span>
+</td>
+
                             <td rowspan="1" id="session_UKFLSU">
             <a class="session-title" href="sessions/UKFLSU.php">Qualitätsbewertung von OpenStreetMap-Gebäudedaten – Am Beispiel der Stadtgebiete Köln und Gera</a>
     <br><span class="session-speakers">Leoni Möske</span>
