@@ -38,11 +38,7 @@
                                             </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
-                        <td rowspan="1" id="session_KS3NDA">
-            <a class="session-title" href="sessions/KS3NDA.php">Vorbereitung einer Großveranstaltung mit QGIS und QField - Der Rheinland-Pfalztag 2019 in Annweiler</a>
-    <br><span class="session-speakers">Jelto Buurman, Jan Klein</span>
-</td>
-
+                        <td></td>
                             <td rowspan="2" id="session_ZXTALA">
     <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/ZXTALA.php">Visualisierung und Analyse von Satellitenbildern mit der EnMAP-Box</a>
     <br><span class="session-speakers">Andreas Rabe</span>
@@ -306,11 +302,7 @@
     <br><span class="session-speakers">Michael Kahle</span>
 </td>
 
-                            <td rowspan="2" id="session_MWDS79">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/MWDS79.php">Das OSGeo-Datacube-Community-Projekt rasdaman</a>
-    <br><span class="session-speakers">pebau</span>
-</td>
-
+                            <td></td>
                             <td rowspan="1" id="session_VAXSHT">
             <a class="session-title" href="sessions/VAXSHT.php">Automatische Korrektur von ÖV-Stationen in OSM</a>
     <br><span class="session-speakers">Patrick Brosi</span>
@@ -327,7 +319,7 @@
     <br><span class="session-speakers">Christian Mayer, Jan Suleiman</span>
 </td>
 
-                            
+                            <td></td>
                             <td rowspan="1" id="session_UKFLSU">
             <a class="session-title" href="sessions/UKFLSU.php">Qualitätsbewertung von OpenStreetMap-Gebäudedaten – Am Beispiel der Stadtgebiete Köln und Gera</a>
     <br><span class="session-speakers">Leoni Möske</span>

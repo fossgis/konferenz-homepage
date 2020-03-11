@@ -43,11 +43,7 @@
     <br><span class="session-speakers">Felix Kunde</span>
 </td>
 
-                            <td rowspan="1" id="session_TQYRU8">
-            <a class="session-title" href="sessions/TQYRU8.php">Mobil in Herrenberg mit Digitransit und offenen Daten</a>
-    <br><span class="session-speakers">Holger Bruch</span>
-</td>
-
+                            <td></td>
                             <td></td>
                             <td rowspan="3" id="session_RUEZJ7">
     <span class='session-type'>Workshop</span><br>        <a class="session-title" href="sessions/RUEZJ7.php">Einführung in die Verwaltung von Geodaten in der PostgreSQL Datenbank mit PostGIS</a>
