@@ -17,9 +17,9 @@
 	<?php include "inc/header.inc"; ?>
 
 <h4>Covid-19</h4>
-<p><strong>Stand: 12. März 2020:</strong>Auf Grund der aktuellen Entwicklungen hat sich der FOSSGIS e.V. dazu entschieden auf den OSM-Samstag, der FOSSGIS-Konferenz, zuverzichten. Wir danken allen Teilnehmern für Ihr Verstänis und Ihre Kooperation.</p>
+<p><strong>Stand 12. März 2020:</strong> Auf Grund der aktuellen Entwicklungen hat sich der FOSSGIS e.V. dazu entschieden auf den OSM-Samstag der FOSSGIS-Konferenz zu verzichten. Wir danken allen Teilnehmern für Ihr Verstänis und Ihre Kooperation.</p>
 
-<p><strong>Stand: 10. März 2020:</strong>Das Organisationsteam der FOSSGIS 2020 verfolgt die Nachrichten um die Ausbreitung des Covid-19. <br>
+<p><strong>Stand 10. März 2020:</strong> Das Organisationsteam der FOSSGIS 2020 verfolgt die Nachrichten um die Ausbreitung des Covid-19. <br>
 Nach aktueller Lage wird die Konferenz stattfinden. Wir orientieren uns an den Empfehlungen des Robert-Koch-Instituts und der Gesundheitsbehörden. Wir stehen dazu auch mit der Stadt Freiburg und der Uni Freiburg in Kontakt. <br>
 Wir verstehen, wenn einzelne Teilnehmer absagen wollen oder müssen. Wenn dem so ist, schreiben Sie eine E-Mail an konferenz-orga@fossgis.de. Leider können wir mit dem heutigen Tag keine Kosten zurückerstatten.<br>
 Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer per E-Mail.</p>	
