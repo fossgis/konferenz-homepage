@@ -28,6 +28,8 @@
                             </li>
                     <li>Robert Klemm: <span class='subsession-title'><a href="sessions/ADEWD7.php">Neues zum Lyrk-Mapstyle; Was kommt danach?</a></span>
                             </li>
+                    <li>Lars Roskoden: <span class='subsession-title'><a href="sessions/9LDKZ3.php">FOSS konsequent nutzen</a></span>
+                            </li>
                 </ul>
         </section>
 
