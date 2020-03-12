@@ -290,7 +290,11 @@
     <br><span class="session-speakers">Markus Neteler, Carmen Tawalika</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_3SCXQY">
+            <a class="session-title" href="sessions/3SCXQY.php">JOSM – Java OpenStreetMap Editor</a>
+    <br><span class="session-speakers">Simon Legner</span>
+</td>
+
                             
                             
                             <td></td>

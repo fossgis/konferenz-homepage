@@ -161,11 +161,7 @@
     </span>
 </td>
 
-                            <td rowspan="1" id="session_XBCSPZ">
-            <a class="session-title" href="sessions/XBCSPZ.php">Rettungspunkte - im Prinzip ganz einfach, aber ...</a>
-    <br><span class="session-speakers">Joachim Kast</span>
-</td>
-
+                            <td></td>
                             
                             
                             
