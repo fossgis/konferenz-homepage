@@ -19,7 +19,7 @@
                     <a href="programm/mittwoch.php">Mittwoch</a>                    <a href="programm/donnerstag.php">Donnerstag</a>                    <a href="programm/freitag.php">Freitag</a>                    Samstag                </p>
 
                 <h2>Absage des OSM-Samstags</h2>
-        <p><strong>Stand 12. März 2020:</strong> Auf Grund der aktuellen Entwicklungen hat sich der FOSSGIS e.V. dazu entschieden, auf den OSM-Samstag der FOSSGIS-Konferenz zuverzichten. Wir danken allen Teilnehmern für Ihr Verstänis und Ihre Kooperation.</p>
+        <p><strong>Stand 12. März 2020:</strong> Auf Grund der aktuellen Entwicklungen hat sich der FOSSGIS e.V. dazu entschieden, auf den OSM-Samstag der FOSSGIS-Konferenz zu verzichten. Wir danken allen Teilnehmern für Ihr Verstänis und Ihre Kooperation.</p>
         
         <h2>Samstag, den 14.03.2020</h2>
 
