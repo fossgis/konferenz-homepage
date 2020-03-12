@@ -26,6 +26,8 @@
         <ul>
                     <li>Dr Julia Richter: <span class='subsession-title'><a href="sessions/CKRSVS.php">DYNAMIK: Dynamisches Navigations- und Orientierungssystem für körperlich beeinträchtigte Menschen in Innenräumen von Gebäuden</a></span>
                             </li>
+                    <li>Robert Klemm: <span class='subsession-title'><a href="sessions/ADEWD7.php">Neues zum Lyrk-Mapstyle; Was kommt danach?</a></span>
+                            </li>
                 </ul>
         </section>
 
