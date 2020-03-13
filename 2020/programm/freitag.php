@@ -16,12 +16,8 @@
         <?php include "../inc/header.inc"; ?>
 
         <p>
-                    <a href="programm/mittwoch.php">Mittwoch</a>                    <a href="programm/donnerstag.php">Donnerstag</a>                    Freitag                    <a href="programm/samstag.php">Samstag</a>                </p>
-
-        
+                    <a href="programm/mittwoch.php">Mittwoch</a>                    <a href="programm/donnerstag.php">Donnerstag</a>                    Freitag                    <a href="programm/samstag.php">Samstag</a>        
         <h2>Freitag, den 13.03.2020</h2>
-
-        
 
             <table class="program-table">
             <thead>
@@ -42,11 +38,7 @@
                                             </tr>
                                 <tr>
                         <td class="program-time">09:00</td>
-                        <td rowspan="1" id="session_HZ8XES">
-            <a class="session-title" href="sessions/HZ8XES.php">Hochverfügbare PostGIS-Cluster auf Kubernetes</a>
-    <br><span class="session-speakers">Felix Kunde</span>
-</td>
-
+                        <td></td>
                             <td></td>
                             <td></td>
                             <td rowspan="3" id="session_RUEZJ7">
@@ -165,7 +157,11 @@
     </span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_XBCSPZ">
+            <a class="session-title" href="sessions/XBCSPZ.php">Rettungspunkte - im Prinzip ganz einfach, aber ...</a>
+    <br><span class="session-speakers">Christopher Lorenz, Joachim Kast</span>
+</td>
+
                             
                             
                             
@@ -181,7 +177,11 @@
     <br><span class="session-speakers">Roman Härdi</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_HZ8XES">
+            <a class="session-title" href="sessions/HZ8XES.php">Hochverfügbare PostGIS-Cluster auf Kubernetes</a>
+    <br><span class="session-speakers">Felix Kunde</span>
+</td>
+
                             <td></td>
                             <td></td>
                             <td></td>

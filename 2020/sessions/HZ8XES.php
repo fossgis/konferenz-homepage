@@ -23,7 +23,7 @@
         <section>
             <p>
                                 <span class='abstract-speakers'>Felix Kunde</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
             
             <p>Container-basierte IT-Infrastrukturen sind bereits seit einigen Jahren in Mode und werden im Zuge von Cloud-basierten Irgendwas-as-a-service Anwendungen immer mehr zum Standard. Für die Orchestrierung von Hunderten von Containern verwenden die meisten derzeit Kubernetes von der Cloud Native Computing Foundation (CNCF) - kurz K8s. K8s umfasst mittlerweile ein recht großes Ökosystem für das Aufsetzen und automatische Skalieren von Webdiensten, wofür es ursprünglich von Google entwickelt wurde. Zunehmend wird es aber auch für zustandsorientierte Dienste wie Datenbanken genutzt. Nun sind Datenbankserver eine etwas komplexere Geschichte als Microservices. Alleine deren Administration ist meist sehr spezifisch. Deshalb existiert bei K8s dafür keine Standardressource, sondern es müssen Benutzer-definierte Operatoren erstellt werden.</p>

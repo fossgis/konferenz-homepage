@@ -30,6 +30,8 @@
                             </li>
                     <li>Lars Roskoden: <span class='subsession-title'><a href="sessions/9LDKZ3.php">FOSS konsequent nutzen</a></span>
                             </li>
+                    <li>Thomas Schüttenberg: <span class='subsession-title'><a href="sessions/YQ988H.php">QGIS ist überall! Aber wo genau?</a></span>
+                            </li>
                 </ul>
         </section>
 

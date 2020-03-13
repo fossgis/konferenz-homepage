@@ -16,12 +16,8 @@
         <?php include "../inc/header.inc"; ?>
 
         <p>
-                    Mittwoch                    <a href="programm/donnerstag.php">Donnerstag</a>                    <a href="programm/freitag.php">Freitag</a>                    <a href="programm/samstag.php">Samstag</a>                </p>
-
-        
+                    Mittwoch                    <a href="programm/donnerstag.php">Donnerstag</a>                    <a href="programm/freitag.php">Freitag</a>                    <a href="programm/samstag.php">Samstag</a>        
         <h2>Mittwoch, den 11.03.2020</h2>
-
-        
 
             <table class="program-table">
             <thead>

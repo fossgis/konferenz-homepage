@@ -28,7 +28,7 @@
             
             <p>Dieser Lightning Talk möchte neben den hier auf der Konferenz beleuchtenten FOSS im GIS-Bereich auf weitere FOSS-Anwendungen hinweisen, die man auch in anderen Lebenslagen als Endanwender nutzen kann.</p>
 <p>FOSS ist gelebte Demokratie: viele Menschen entscheiden nach mehr oder weniger ausgiebigen Diskussionen zu einem bestimmten Thema innerhalb ihres Arbeits- bzw. Fachbereichs mehrheitlich über Regeln, Strategien und Ziele. Jedefrau kann sich einbringen.</p>
-<p>Im GIS-Bereich sind in den letzten Jahren bzw. Jahrzehnten mit OpentStreetMap und QGIS zwei sehr erfolgreiche und andwenderfreundliche Sphären entstanden</p>
+<p>Im GIS-Bereich sind in den letzten Jahren bzw. Jahrzehnten mit OpentStreetMap und QGIS zwei sehr erfolgreiche und andwenderfreundliche Sphären entstanden.</p>
 <p>Doch auch in anderen Bereichen des alltäglichen digitalen Lebens finden FOSS-Entwicklungen statt, von denen ich hier einige Beispiele nennen möchte:</p>
 <p>LineageOS statt Android​</p>
 <p>F-Droid statt GooglePlayStore​</p>
