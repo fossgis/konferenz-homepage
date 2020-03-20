@@ -43,7 +43,7 @@
 Verfügung</a>. sowie auch auf <a href="https://www.youtube.com/results?search_query=FOSSGIS+2020">YouTube</a>. Danke an das Videoteam für die tolle Arbeit! </p>
 
 	<h3>Tagungsband</h3>
-<p>Den Tagungsband finden Sie als E-Book hier <a href="https://www.fossgis-konferenz.de/2020/data/fossgis_tagungsband_2020.pdf">zum Download</a>.</p>
+<p>Den Tagungsband finden Sie als E-Book hier <a href="https://www.fossgis-konferenz.de/2020/data/FOSSGIS_Tagungsband_2020.pdf">zum Download</a>.</p>
 	
 <h3>Fotos</h3>
 <p>Der Fotostream der FOSSGIS-Konferenz ist auf <a href="https://www.flickr.com/groups/3127102@N20/pool/"> Flickr</a> zu finden. Fotos können mit dem Tag #FOSSGIS2020 hinzugefügt werden. 
