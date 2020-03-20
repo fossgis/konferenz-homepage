@@ -37,42 +37,16 @@
 		</li>-->
 	</ul>
 
-	<!--<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
-	<ul>
-		<li>
-			<a href=""  target="_blank" rel="noopener">Livestream der FOSSGIS-Konferenz</a>
-		</li>
-	</ul>-->
 
-	<!-- <p>Die Vorträge der FOSSGIS-Konferenz wurden aufgezeichnet, eine Übersicht finden Sie hier:</p>
-	<ul>
-		<li>
-			<a href="./videos/">Liste der Videoaufzeichnungen</a>
-		</li>
-	</ul> 
-	<h3>Videoaufnahmen</h3>
-<p>Alle Videos sind im <a href="https://pretalx.com/fossgis2019/schedule/"> Vortragsprogramm </a> eingebettet und gesammelt auf  <a href="https://media.ccc.de/c/fossgis2019">MediaCCC</a> sowie auf <a href="https://www.youtube.com/playlist?list=PLTli5-lbeoiZtkFHEWZk2Lp0eKNhOgpDr"> youtube </a>. Danke an das Videoteam für die tolle Arbeit!  -->
-<h3>Livestream</h3>
-<p>Die FOSSGIS-Konferenz 2020 wird live gestreamt - <a href="https://streaming.media.ccc.de/fossgis20"> 
-bitte hier klicken</a>.</p>
-	<h3>Fotos</h3>
+	<h3>Livestream und Videomitschnitt</h3>
+	<p>Die FOSSGIS-Konferenz 2020 wurde live gestreamt, jetzt stehen die aufgezeichneten Vorträge als Videoaufzeichnung zur <a href="https://media.ccc.de/b/conferences/geo/fossgis2020"> 
+Verfügung</a>. sowie auch auf <a href="https://www.youtube.com/results?search_query=FOSSGIS+2020">YouTube</a>. Danke an das Videoteam für die tolle Arbeit! </p>
+
+	<h3>Tagungsband</h3>
+<p>Den Tagungsband finden Sie als E-Book hier <a href="https://www.fossgis-konferenz.de/2020/data/fossgis_tagungsband_2020.pdf">zum Download</a>.</p>
+	
+<h3>Fotos</h3>
 <p>Der Fotostream der FOSSGIS-Konferenz ist auf <a href="https://www.flickr.com/groups/3127102@N20/pool/"> Flickr</a> zu finden. Fotos können mit dem Tag #FOSSGIS2020 hinzugefügt werden. 
-
-
-	<!--<h3>Programm-App</h3>
-	<p>
-	    <a target="_blank" rel="noopener nofollow" href="https://itunes.apple.com/de/app/fossgis-2019/id1453299630"><img style="width: 160px; margin: 9px;" src="./img/app-store-badge.svg"></a><br/>
-	    <a target="_blank" rel="noopener nofollow" href="https://play.google.com/store/apps/details?id=org.yagajs.fossgis2019.app"><img style="width: 180px;" src="./img/google-play-badge.png"></a>
-	</p>
-	<ul>
-		<li>
-			<a href="https://app.fossgis2019.spatial-app.com/fossgis2019.apk" target="_blank" rel="noopener">apk-Datei</a>
-		</li>
-	</ul>
-		<li>
-			<a href="https://app.fossgis2019.spatial-app.com" target="_blank" rel="noopener">WebApp</a>
-		</li>
-	</ul> -->
 
 	<?php include "../inc/footer.inc"; ?>
 
