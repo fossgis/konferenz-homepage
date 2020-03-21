@@ -26,8 +26,6 @@
         <ul>
                     <li>Claas Leiner: <span class='subsession-title'><a href="sessions/TUAHKX.php">Schraffuren die sich an der längsten Objektkante orientieren</a></span>
                             </li>
-                    <li>Sebastian M. Ernst: <span class='subsession-title'><a href="sessions/SE3BBN.php">Rethinking QGIS plugin packaging – new opportunities through Anaconda?</a></span>
-                            </li>
                     <li>Bernhard Ströbl: <span class='subsession-title'><a href="sessions/8D7WEC.php">QGIS-Übersetzung</a></span>
                             </li>
                 </ul>
