@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        
+                        <p><a href="/2020/attachments/CFXVAL_fossgis_2020_Ratjens_Vortrag_Map_Editor_f_C3_BCr_Vek_EOF4IqY.pdf">Vortragsfolien (PDF) </a></p>
             <p>Im Rahmen des Projekts "Basisvisualisierung" erprobt das Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN) neue Visualisierungsmöglichkeiten für amtliche Daten im Internet, optimiert für die Nutzung auf mobilen Endgeräten.</p>
 <p>Als ein Ergebnis des Projekts wird der Prototyp "Map Editor" entwickelt und als Open Source Software veröffentlicht. Es handelt sich dabei um eine Webanwendung zur Erstellung individueller Basiskarten und Kartenanwendungen, basierend auf Vector Tiles.</p>
 <p>Der Map Editor ermöglicht die Anpassung der Vektorkarte durch die Auswahl vordefinierter Basisstylings und die individuelle Anpassung einzelner Layer und Layergruppen. Das Ziel ist es dabei nicht, einen vollumfänglichen Vector-Tile-Editor anzubieten, sondern eine einfache Anpassung amtlicher Karten auch für GIS-Laien zu ermöglichen. Die Karte kann zusätzlich um Funktionen erweitert werden, wie Infoabfragen, Adresssuche und Routing. Der Map Editor kann als "Software as a Service" genutzt werden, so dass die Karten und Anwendungen online erstellt und per URL in andere Kartenanwendungen und Webseiten eingebunden werden können.</p>

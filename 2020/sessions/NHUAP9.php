@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        
+                        <p><a href="/2020/attachments/NHUAP9_postgis-v3_2WUSed2.pdf">Vortragsfolien (PDF) </a></p>
             <p>Seit Jahren gehört PostGIS zum Repertoire von Entwicklern und Firmen bei der Verwaltung und Analyse von Geodaten. Neuere Datenbanksysteme und Bibliotheken orientieren sich daher bei Funktionen (und ihrer Benennung) meist zuerst an der beliebten PostgreSQL-Erweiterung. 2018 kam neue Dynamik in das Projekt als weitere Kernentwickler dazu stießen, um zunächst vor allem die bestehende Code-Basis zu stabilisieren. Schnell war bei diesem Prozess eine Schwelle erreicht, die größerer Veränderungen bedurfte und damit den Sprung auf eine neue Hauptversion rechtfertigte. Die Release-Notes von PostGIS 3 beinhalten daher weniger große neue Funktionalitäten wie beim 2.0 Release, sondern unzählige Detailverbesserungen und Weichensteller für die Zukunft. Im Vortrag wird eine ausgewogene Schnittmenge aus beidem präsentiert und erklärt, warum das neue PostGIS unbedingt zusammen mit dem neuen PostgreSQL 12 verwendet werden sollte.</p>
         </section>
 
