@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Claas Leiner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        <p><a href="/2020/None">Vortragsfolien</a></p>
             <p>Gebäude können sehr lang gestreckt sein. Und da sie nicht immer in die gleiche Richtung verlaufen, sehen Gebäudeschraffuren oft merkwürdig aus. Hier wenige ganz lange Striche, dort ganz viele kurze. 
 Mit einem kleinen QGIS-Modellertool lässt sich der Drehwinkel finden, der die Schraffur immer an der längsten Gebäudekante ausrichtet. Das geht natürlich auch für andere Objekte.</p>
         </section>

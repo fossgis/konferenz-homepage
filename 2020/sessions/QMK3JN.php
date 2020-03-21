@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Hanna Krüger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        <p><a href="/2020//attachments/QMK3JN_Ehrenamt_im_FOSSGIS_verkleinert_UE11X7y.pdf">Vortragsfolien</a></p>
             <p>Der FOSSGIS e.V. dürfte dem meisten als der Veranstalter dieser Konferenz bekannt sein. Aber ist das wirklich alles, dass das Vereinsleben bestimmt? Was ist das Ziel des Vereins? Wer sind die Akteure im Verein und wie organisiert er sich? 
 Diesen Fragen wird sich der Talk widmen. Zum einen wird der Verein an sich näher vorgestellt und zum anderen seine Aktivitäten und das Vereinsleben außerhalb der FOSSGIS-Konferenz. Außerdem zeigt der Talk auf, wie ein ehrenamtliches Engagement über das Jahr im FOSSGIS e.V. aussehen kann und welche Möglichkeiten es gibt, aktiv zu werden.</p>
         </section>

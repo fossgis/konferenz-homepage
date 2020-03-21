@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Arndt Brenschede, Norbert Renner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-            
+                        <p><a href="/2020//attachments/TUTT33_routenplanung4_9205cfx.pdf">Vortragsfolien</a></p>
             <p>Das BRouter Ökosystem wächst langsam aber stetig und hat eine 6-stellige Benutzerzahl erreicht. Wir geben einen kurzen Überblick dieser OSM-basierten Routing-Engine selbst sowie der populärsten Arten, sie zu benutzen. Neben mobilen Karten- und Navigations-Apps  wie OsmAnd, OruxMaps und Locus Maps ist das insbesondere die Web-Anwendung „BRouter-Web“, die zu einem mächtigen Planungs-Werkzeug herangereift ist und sich wachsender Beliebtheit erfreut.</p>
         </section>
 

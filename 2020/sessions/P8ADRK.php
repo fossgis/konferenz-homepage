@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Astrid Emde, Miriam Gonzalez</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:40 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-            
+                        
             <p>GeoChicas ist eine Gruppe von Frauen, die in OpenStreetMap mappen und darüber hinaus versuchen, das Geschlechtergefälle in OSM zu schließen.</p>
 <p>Geochicas ist weltweit aktiv. Die Gruppe wurde 2016 auf der SOTLAM in São Paulo (Brasilien) gegründet. </p>
 <p>Seitdem vernetzen sich Geochicas weltweit, treffen sich auf Konferenzen, tauschen sich aus und motivieren Mädchen/Frauen zu mappen und auf Konferenzen als Rednerinnen oder Workshopsleiterinnen mitzuwirken.</p>
