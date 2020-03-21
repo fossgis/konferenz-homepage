@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>Astrid Emde</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        
             <p>PostNAS-Suite Anwendertreffen. Austausch, Diskussionen, Informationen rund um die PostNAS-Suite. ALKIS-Daten einfach mit Open Source Software handhaben.</p>
         </section>
 

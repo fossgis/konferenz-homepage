@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Peter Gipper</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
-            
+                        
             <p>Die Werkzeugkiste in QGIS stellt bereits eine Menge an Verarbeitungsalgorithmen bereit. Allerdings sind die realen Anforderungen oft derart, dass Daten vorbereitet, mehrere Werkzeuge kombiniert und Ergebnisse händisch nachbearbeitet werden müssen. Das Programmieren eigener Werkzeuge kann solche Workflows beschleunigen und bietet zudem weitere Vorteile wie bessere Reproduzierbarkeit von Ergebnissen, Vermeidung von Fehlern und einfache Weitergabe an Dritte.</p>
 <p>In diesem Workshop werden gemeinsam die Grundlagen erarbeitet um mit Python Verarbeitungsalgorithmen für QGIS zu entwickeln, diese einzubinden und zu teilen. Es werden Anwendungsbeispiele aus der klassischen GIS Analyse umgesetzt und eigene Fragestellungen bearbeitet.</p>
 <p>GIS- und Python-Grundkenntnisse sind für die Teilnahme empfehlenswert. Auf die Besonderheiten der Verwendung von Python in QGIS wird im Workshop eingegangen.</p>

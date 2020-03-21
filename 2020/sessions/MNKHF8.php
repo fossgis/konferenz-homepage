@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Daniel Koch, Carmen Tawalika</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        
             <p>Mit den täglich wachsenden Geodatenpools, z.B. angereichert durch das Copernicus oder Landsat Programm, steigen die Anforderungen an Hard- und Software für die Geodatenprozessierung (nicht nur) im Bereich der Fernerkundung stetig an. Lokale Installationen können dabei die Datenmengen und Anforderungen an Echtzeit-Analysten kaum stemmen und sind daher in den letzten Jahren vermehrt durch verteilte Systeme in der Cloud abgelöst worden. Dieser Trend macht auch vor dem Bereich der FOSS keinen Halt und hat sich seither etabliert.
 Dieser Vortrag soll einen Überblick über die Konzepte des Cloud Computings, der verfügbaren Tools und Voraussetzungen der serviceorientierten Architektur für eine erfolgreiche Skalierbarkeit geben. Anschließend wird anhand eines konkreten Beispiels basierend auf den Komponenten actinia, GRASS GIS, GeoServer und SHOGun demonstriert wie diese für einen reibungslosen Betrieb in der Cloud angepasst werden müssen. Abgerundet wird der Vortrag durch Erfahrungen und daraus abgeleiteten Empfehlungen, die während der Vorbereitung und zur Laufzeit der Architektur gesammelt wurden.</p>
         <div class='abstract-bio'>
