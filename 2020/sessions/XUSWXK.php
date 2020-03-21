@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Marc Jansen, Manuel Fischer</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        <p><a href="/2020//attachments/XUSWXK_2020_03_06_Neuentwicklung_der_GDI-DE_Testsuite__BGpusFC.pdf">Vortragsfolien</a></p>
             <p>Die GDI-DE Testsuite ist eine der Nationalen Technischen Komponenten der Architektur der Geodateninfrastruktur Deutschland (GDI-DE) und dient als zentrale Testplattform der Qualitätssicherung innerhalb der GDI-DE.
 Mit der GDI-DE Testsuite kann innerhalb der GDI-DE die Qualität für Geodaten und Geodatendienste geprüft werden. Mit Hilfe dieser zentralen Testplattform können Datenanbieter und Dienstebereitsteller ihre Geodaten und Dienste auf Konformität zu nationalen und internationalen Standards, z.B. den Vorgaben der europäischen INSPIRE-Richtlinie prüfen.
 Die GDI-DE Testsuite ist seit Ende September 2011 frei nutzbar und unterstützt die Anbieter von Geodaten und Geodatendiensten bei der Bereitstellung ihrer Ressourcen innerhalb der GDI-DE und der Umsetzung der INSPIRE-Richtlinie. Neben einer Webanwendung (https://testsuite.gdi-de.org) und einer Download-Möglichkeit für die lokale Nutzung, ist auch eine Schnittstelle für die Ausführung von Tests aus anderen Anwendungen heraus nutzbar.

@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Andreas Rabe</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        
             <p>Erdbeobachtungsdaten stellen eine immer wichtigere Grundlage für raumbezogene Analysen in Wirtschaft und Wissenschaft dar. Gleichzeitig steigt ihre Verfügbarkeit infolge neuer Fernerkundungssatelliten und offener Datenzugangsrichtlinien stetig an. Erdbeobachtungsprogramme wie das europäische Copernicus der ESA und das amerikanische Landsat der NASA/USGS erfassen multispektrale Fernerkundungsdaten flächendeckend weltweit und mit hoher zeitlicher Dichte. Komplementär dazu liefern hyperspektrale Satellitenmissionen, wie die deutsche EnMAP Mission (www.enmap.org), Daten mit hoher spektraler Auflösung.</p>
 <p>Diese Entwicklung hat auch die Nachfrage nach freier und quelloffener Software zur Analyse großer und mehrdimensionaler Rasterdatenmengen in Kombination mit anderen GIS-Daten erhöht. Da die Anforderungen einer professionellen Fernerkundungsanalyse oft über die Möglichkeiten klassischer GIS-Software hinausgehen, entwickelt die Humboldt-Universität zu Berlin seit mehr als 10 Jahren die EnMAP-Box, die seit 2019 als QGIS Plugin zur Verfügung steht. </p>
 <p>In der Demo-Session werden die EnMAP-Box und ihre Möglichkeiten anhand der folgenden Themen vorgestellt:</p>

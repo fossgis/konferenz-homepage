@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Dirk Stenger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        
             <p>Die TEAM Engine ist eine Engine, mit der Entwickler und Anwender Geodienste, wie WFS und WMS, und Geoformate, wie GML oder GeoPackage, testen können. Um die Implementierung und das Testen von GIS-Software basierend auf OGC Standards zu unterstützen, stellt das Open Geospatial Consortium (OGC) mehrere Testsuites für die TEAM Engine zur Verfügung.</p>
 <p>Die TEAM Engine ist aktuell als OSGeo-Projekt in der Inkubationsphase. Sie ist sie ein wichtiges Werkzeug, um die Interoperabilität zwischen verschiedenen Implementierungen von OGC-Standards und Clients, die diese Standards in Form von Schnittstellen, wie WFS oder WMS, oder Formaten, wie GML oder GeoPackage, nutzen, zu gewährleisten.</p>
 <p>Die TEAM Engine muss in Verbindung mit OGC Executable Test Suites (ETS) verwendet werden, um Instanzen von Geodiensten und -formaten auf Konformität mit OGC-Standards zu prüfen. Die Ausführung einer ETS erfolgt über eine Weboberfläche, eine REST Schnittstelle oder ein Kommandozeilentool. Um die Installation, Konfiguration und das Starten der TEAM Engine zu erleichtern, werden Docker-Images bereitgestellt.</p>

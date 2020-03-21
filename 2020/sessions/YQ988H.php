@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Thomas Schüttenberg</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:15 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        <p><a href="/2020/None">Vortragsfolien</a></p>
             <p>QGIS ist überall! Aber wo genau? QGIS kommt in zahlreichen Bereichen zum Einsatz und ist mit das Top Thema auf der FOSSGIS-Konferenz. </p>
 <p>Der QGIS-DE will es nun genauer wissen. Wo ist QGIS im Einsatz, welche Aufgaben werden damit gelöst, sind die Nutzer zufrieden?</p>
         </section>

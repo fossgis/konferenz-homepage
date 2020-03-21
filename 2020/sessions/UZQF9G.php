@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Christopher Lorenz</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 12:05 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-            
+                        
             <p>In Berlin hat sich eine Gruppe von Fahrradaktiven vom dortigen Stammtisch heraus gefunden, die sich mit dem Thema Verkehrswende in Berlin, zu dem auch und vor allem das Fahrrad bzw. deren Infrastuktur gehört. Dabei versuchen wir die Daten in OpenStreetMap zu ergänzen und auch Lösungen zu finden, wie wir nicht so technisch Versierten einbinden können. Da Fahrradparkplätze einfach zu erfassen und bearbeiten sind haben wir uns dieses Thema als eines der ersten herausgesucht. Da die Stadt Berlin 2019 die Daten einer Straßenbefahrung von 2014 veröffentlicht hat war es eine erster Schritt die als OpenData zur Verfügung gestellten Daten mit denen aus der OpenStreetMap zu vergleichen. Mit der Zeit sind in der Auswertung weitere Städte hinzugekommen.</p>
         </section>
 

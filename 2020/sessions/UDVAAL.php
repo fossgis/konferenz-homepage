@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Dr. Dirk Schlierkamp-Voosen</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        
             <p>Die Einheit Reisendeninformation der Deutschen Bahn AG hat zur Aufgabe, Lösungen zu entwickeln, die den Reisendenkomfort erhöhen. 
 Im Rahmen dieses Auftrags soll Reisenden die Orientierung im Bahnhof vereinfacht werden.
 Über digitale Bahnhofspläne soll ein Fußgängerrouting, das Reisenden im Bahnhof die Navigation zu bestimmten POI's (Geschäften, Geldautomaten, u.v.m.) erlaubt, angeboten werden.

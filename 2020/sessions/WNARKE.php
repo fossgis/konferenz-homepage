@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Torsten Friebe, Dirk Stenger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        
             <p>Das OSGeo-Projekt deegree stellt seit mehreren Jahren umfassende Referenzimplementierungen für OGC-Webservices wie z.B. WFS, WMS und WMTS bereit. Wenn es um den Aufbau von Geodateninfrastrukturen geht, dann können Geodaten in unterschiedlichen Formaten mit den deegree OGC-Webservices publiziert werden.</p>
 <p>Aktuell wird an der Implementierung des neuen Standard OGC API - Features, dem Nachfolger des Web Features Service (WFS), gearbeitet. </p>
 <p>Die Präsentation zeigt die wichtigsten Neuerungen in deegree, eine kurze Übersicht des Standards OGC API - Features und dessen Umsetzung innerhalb von deegree.</p>

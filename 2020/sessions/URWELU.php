@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Stefan Giese</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
 
-            
+                        
             <p>QGIS bietet in seiner Benutzeroberfläche viele Funktionen und Einstellungsmöglichkeiten. Immer wieder begegnet man hier dem Ausdruckseditor, um z.B. Daten in einer Tabelle zu selektieren. Über den Ausdruckseditor lassen sich aber auch bestehende Attribute und Geometrien manipulieren sowie neue Attribute ableiten. Seit der Version 3 sind zahlreiche neue Ausdrücke im Ausdruckseditor verfügbar, wie z.B. de mächtige Array-Funktion oder der Einsatz von Variablen. Über den Funktionseditor lassen sich zudem die Funktionalität des Ausdruckseditor mittels Python praktisch unbegrenzt erweitern.
 Der Geometrie-Generator nutzt ebenfalls den Ausdruckseditor zur Erstellung von Geometrien zur Symbolgestaltung bzw. zur Platzierung von Symbolen. Seit der Version 3.10 steht der Geometrie-Generator ebenfalls zur Erstellung und Platzierung von Beschriftungen zur Verfügung. 
 Unter Anderem behandelt der Workshop Themen wie:<br />

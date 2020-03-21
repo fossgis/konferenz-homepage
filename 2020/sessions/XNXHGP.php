@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Mirko Blinn</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        
             <p>In den vergangenen Jahren hat die öffentliche Verfügbarkeit von vektorbasierten Geodaten stark zugenommen. Diese Daten decken unterschiedlichste Themengebiete in verschiedensten räumlichen und zeitlichen Auflösungen ab. 
 Dieser Fundus an Daten zur Entwicklung von Landnutzungsmodellen wird kaum genutzt. Dabei können vektorbasierte Landnutzungsmodelle und die dafür aufbereiteten Eingangsdaten eine wertvolle Ergänzung zu den etablierten Instrumenten in allen Bereichen der räumlichen Planung darstellen. 
 Am Beispiel aus dem Forschungsprojekt „Nachwuchs“ wird gezeigt, wie Daten aus unterschiedlichsten Quellen mit QGIS aufbereitet, in eine zentrale Postgis-Datenbank eingespeist und aus dieser, die für das Modell benötigten Informationen extrahiert werden und welche spannenden Informationen aus den Daten bereits während der Aufbereitung gewonnen werden können. 
