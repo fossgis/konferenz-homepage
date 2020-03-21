@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Astrid Emde, Lina Dillmann</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
-                        <p><a href="/2020//attachments/7RFJ9N_fossgis-2020-workshop-postgresql-postgis-fuer-ei_l3w3cRh.md">Vortragsfolien</a></p>
+                        <p><a href="/2020//attachments/7RFJ9N_fossgis-2020-workshop-postgresql-postgis-fuer-ei_l3w3cRh.md">Vortragsfolien (PDF) </a></p>
             <ul>
 <li>Einführung PostgreSQL / PostGIS - Vorstellung der Möglichkeiten (Vektordaten, Rasterdaten)</li>
 <li>Datenmodell</li>

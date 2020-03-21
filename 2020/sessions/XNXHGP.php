@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Mirko Blinn</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3103-aufbereitung-von-vektorbasierten-geodaten-als-grundlage-fr-landnutzungsmodelle-mit-qgis-und-postgis">
+                    <img class="video-preview" src="/2020/video_previews/3103-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>In den vergangenen Jahren hat die öffentliche Verfügbarkeit von vektorbasierten Geodaten stark zugenommen. Diese Daten decken unterschiedlichste Themengebiete in verschiedensten räumlichen und zeitlichen Auflösungen ab. 
 Dieser Fundus an Daten zur Entwicklung von Landnutzungsmodellen wird kaum genutzt. Dabei können vektorbasierte Landnutzungsmodelle und die dafür aufbereiteten Eingangsdaten eine wertvolle Ergänzung zu den etablierten Instrumenten in allen Bereichen der räumlichen Planung darstellen. 

@@ -25,7 +25,13 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Bernhard Ströbl</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:10 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020/None">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3203-qgis-bersetzung">
+                    <img class="video-preview" src="/2020/video_previews/3203-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
             <p>Ein deutschsprachiges Handbuch ist ein Wunsch, der regelmäßig aus der Anwenderschaft an die QGIS-Anwendergruppe Deutschland herangetragen wird. Letztes Jahr hat sich eine Gruppe gebildet, die diese Übersetzung vorantreiben und aktuell halten will. Der Talk beleuchtet die technischen Herausforderungen, und die dafür gefundenen Lösungen und möchte weitere Anwender dazu motivieren, dem Übersetzungsteam beizutreten.</p>
         </section>
 

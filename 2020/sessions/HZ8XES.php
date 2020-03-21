@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Felix Kunde</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3112-hochverfgbare-postgis-cluster-auf-kubernetes">
+                    <img class="video-preview" src="/2020/video_previews/3112-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Container-basierte IT-Infrastrukturen sind bereits seit einigen Jahren in Mode und werden im Zuge von Cloud-basierten Irgendwas-as-a-service Anwendungen immer mehr zum Standard. Für die Orchestrierung von Hunderten von Containern verwenden die meisten derzeit Kubernetes von der Cloud Native Computing Foundation (CNCF) - kurz K8s. K8s umfasst mittlerweile ein recht großes Ökosystem für das Aufsetzen und automatische Skalieren von Webdiensten, wofür es ursprünglich von Google entwickelt wurde. Zunehmend wird es aber auch für zustandsorientierte Dienste wie Datenbanken genutzt. Nun sind Datenbankserver eine etwas komplexere Geschichte als Microservices. Alleine deren Administration ist meist sehr spezifisch. Deshalb existiert bei K8s dafür keine Standardressource, sondern es müssen Benutzer-definierte Operatoren erstellt werden.</p>
 <p>Für PostgreSQL/PostGIS-Nutzer ist die Auswahl noch überschaubar: Es gibt einen Operator und ein Docker-Image von Crunchy Data sowie von Zalando. Letzteres wird im Vortrag näher vorgestellt, gepaart mit Erfahrungsberichten aus dem DBaaS Tagesgeschäft: Wie wird Ausfallsicherheit geschaffen? Wie funktioniert ein hochverfügbares PostGIS mit Patroni? Welche Backup- und Recovery Strategien werden genutzt? Was ist bei Versionsupdates? Wie wird der Produktivbetrieb überwacht? Wie werden Entwickler-Teams zu eigenen DBAs? Was kann da überhaupt schiefgehen?</p>

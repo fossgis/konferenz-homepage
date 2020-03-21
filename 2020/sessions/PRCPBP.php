@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Mathias Gröbe</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/PRCPBP_groebe-Hoehenlinien-FOSSGIS_1DGXbKT.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3039-reliefdarstellung-mit-hhenlinien">
+                    <img class="video-preview" src="/2020/video_previews/3039-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/PRCPBP_groebe-Hoehenlinien-FOSSGIS_1DGXbKT.pdf">Vortragsfolien (PDF) </a></p>
             <p>Neben der Schummerung sind Höhenlinien die wichtigste kartographische Darstellungsmethode für das Relief in Karten. Die Höhenlinie ist die gedachte Schnittlinie einer horizontalen Ebene mit der Erdoberfläche und liefert eine Grundrissdarstellung verschiedener Geländeformen.
 Anhand von Beispielen wird die Erstellung auf der Basis von digitalen Geländemodellen erklärt und darauf eingegangen wo Optimierungspotential vorhanden ist um ansprechende sowie konsistente Höhenlinien zu erhalten. Die dafür verwendeten Methoden werden erklärt und die Umsetzung mit GDAL und QGIS vorgestellt. Des weiteren wird erläutert wie die Abstände zwischen den Höhenlinien in Abhängigkeit vom Relief und dem Maßstab gewählt werden sollten.</p>
         </section>

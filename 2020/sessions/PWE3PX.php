@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Robert Danziger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/PWE3PX_FOSSGIS20_Danzinger_20min_kKcvTO1.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-2975-mannheimer-mapathons-integration-frdern-humanitre-hilfe-leisten">
+                    <img class="video-preview" src="/2020/video_previews/2975-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/PWE3PX_FOSSGIS20_Danzinger_20min_kKcvTO1.pdf">Vortragsfolien (PDF) </a></p>
             <p>Mit dem Ziel weitere Projekte dieser Art in Deutschland -- oder anderswo -- anzuregen,  wird die Präsentation vor allem beschreiben, was überhaupt gemacht wird, wie alles organisiert ist und wie die Teilnehmenden es beurteilen. Bis Ende 2019 wurden 20 Mapathons veranstaltet. U.a. hat dieser Erfolg dazu geführt, dass CartONG ein sehr ähnliches Projekt 2018-2019 in Frankreich durchführte. Momentan wird über einen Antrag zur Erweiterung der Projektidee auf europäischer Ebene diskutiert.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Robert Danziger</h3>

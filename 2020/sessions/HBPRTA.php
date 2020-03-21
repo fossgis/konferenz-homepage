@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Frederik Ramm</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/HBPRTA_tirex--fred_macht_das_selbst_qDpJOaa.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-4711-openstreetmap-tileserver-mit-tirex">
+                    <img class="video-preview" src="/2020/video_previews/4711-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/HBPRTA_tirex--fred_macht_das_selbst_qDpJOaa.pdf">Vortragsfolien (PDF) </a></p>
             <p>Der klassische OpenStreetMap-Raster-Tileserver wird mit den Komponenten Mapnik, PostGIS, Apache/mod_tile und "renderd" aufgebaut. Der "renderd" übernimmt dabei die Aufgabe, fehlende Tiles in eine Warteschlange zu stellen und von Mapnik berechnen zu lassen. In diesem Vortrag wird "Tirex" demonstriert, eine leistungsfähigere und vielseitigere Alternative zu "renderd". "Tirex" wird weltweit auf Tile-Servern eingesetzt, darunter auch auf dem vom FOSSGIS betriebenen Tile-Server von openstreetmap.de; doch obwohl Tirex in diesem Jahr 10 Jahre alt wird, ist die Software immer noch eine Art Geheimtipp im Schatten des weiter verbreiteten "renderd".</p>
 <p>Nach einer kurzen Vorstellung von Tirex wird live die Einrichtung eines OSM-Tileservers mit Tirex demonstriert.</p>
         </section>

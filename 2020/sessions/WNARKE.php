@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Torsten Friebe, Dirk Stenger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3072-osgeo-projekt-deegree-2020-neuigkeiten-zu-ogc-api-features">
+                    <img class="video-preview" src="/2020/video_previews/3072-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Das OSGeo-Projekt deegree stellt seit mehreren Jahren umfassende Referenzimplementierungen für OGC-Webservices wie z.B. WFS, WMS und WMTS bereit. Wenn es um den Aufbau von Geodateninfrastrukturen geht, dann können Geodaten in unterschiedlichen Formaten mit den deegree OGC-Webservices publiziert werden.</p>
 <p>Aktuell wird an der Implementierung des neuen Standard OGC API - Features, dem Nachfolger des Web Features Service (WFS), gearbeitet. </p>

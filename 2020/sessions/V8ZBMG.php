@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Sandro Mani</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/V8ZBMG_kadas_albireo_L91fwON.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3118-kadas-albireo-ein-vereinfachtes-qgis-fr-jedermann">
+                    <img class="video-preview" src="/2020/video_previews/3118-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/V8ZBMG_kadas_albireo_L91fwON.pdf">Vortragsfolien (PDF) </a></p>
             <p>KADAS Albireo ist eine Desktop-GIS-Anwendung, die auf dem QGIS Kern aufbaut und verschiedene QGIS-Standardfunktionen sowie spezielle Erweiterungen in einer stark vereinfachten Benutzeroberfläche einem breiten Spektrum von Endnutzer zugänglich macht.</p>
 <p>Dieser Vortrag stellt die Desktop-GIS-Anwendung KADAS Albireo vor, sowohl aus Sicht der Funktionalitäten die sie dem Endnutzer anbietet, als aus Sicht der Programmarchitektur als QGIS basierte Anwendung.</p>
         <div class='abstract-bio'>

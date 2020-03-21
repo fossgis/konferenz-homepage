@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Christian Mayer, Jan Suleiman</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/M73SCJ_geostyler-fossgis-2020_yq5MU3N.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3027-neues-vom-geostyler">
+                    <img class="video-preview" src="/2020/video_previews/3027-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/M73SCJ_geostyler-fossgis-2020_yq5MU3N.pdf">Vortragsfolien (PDF) </a></p>
             <p>GeoStyler ist eine Open Source JavaScript-Bibliothek zur einfachen Erstellung von modernen
 Web-Oberflächen zum kartographischen Stylen von Geodaten. Somit wird es dem Anwender
 möglich ohne Programmierung und Editieren von Text-Dateien (XML und co.) Styling-Vorschriften

@@ -25,7 +25,13 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Thomas Schüttenberg</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:15 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020/None">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-4731-qgis-ist-berall-aber-wo-genau-">
+                    <img class="video-preview" src="/2020/video_previews/4731-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
             <p>QGIS ist überall! Aber wo genau? QGIS kommt in zahlreichen Bereichen zum Einsatz und ist mit das Top Thema auf der FOSSGIS-Konferenz. </p>
 <p>Der QGIS-DE will es nun genauer wissen. Wo ist QGIS im Einsatz, welche Aufgaben werden damit gelöst, sind die Nutzer zufrieden?</p>
         </section>

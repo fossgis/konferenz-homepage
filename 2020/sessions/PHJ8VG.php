@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Sven Bingert, Martin Weis, Christian Bauer</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3136-offene-smart-farming-produkte-aus-offenen-satellitendaten">
+                    <img class="video-preview" src="/2020/video_previews/3136-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Das Projekt <a href="https://open-forecast.eu/">Open Forecast</a> entwickelt eine generische Infrastruktur zur Verarbeitung offener Daten auf High-Perfomance-Computing-Systemen (HPC). Diese Infrastruktur wird anhand zweier Anwendungsfälle aufgebaut. Der erste Anwendungsfall untersucht die Möglichkeit, eine Vorhersage zur Feinstaubbelastung im Großraum Stuttgart zu berechnen. Die offenen Daten des Citizen-Science Projekts "luftdaten.info" sollen dabei zur Evaluierung des Modells herangezogen werden. Das Feinstaubmodell selbst basiert auf einem 3D Klimamodell mit großskaligen Wetterdaten als Eingabewerten sowie einem Geländemodell als untere Randbedingung. Aktuell untersucht wird die Einbeziehung von weiteren Feinstaubquellen, die beispielsweise aus Verkehrsdaten gewonnen werden.</p>
 <p>Der zweite Anwendungsfall leitet Produkte für die Landwirtschaft (Smart Farming) aus frei verfügbaren Satellitendaten ab. Hierzu werden multispektrale <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2">Sentinel-2</a> Daten der <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus">ESA Copernicus Mission</a> verwendet. Dazu wurden die angebotenen Satellitendaten vorverarbeitet (u. a. Atmospärenkorrektur) und Datenprodukte wie zum Beispiel spezifische Vegetationsindizes oder Mosaike erstellt. Diese dienen als Proxy für Aussagen über den Status der grünen Vegetation oder der Pflanzengesundheit. Des weiteren wird ein anueller Index gerechnet, der die Beurteilung der Landnutzung über mehrere Jahre hinweg erlaubt.</p>

@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Christopher Lorenz, Joachim Kast</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3124-rettungspunkte-im-prinzip-ganz-einfach-aber-">
+                    <img class="video-preview" src="/2020/video_previews/3124-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Forstliche Rettungspunkte sind definierte Orte (meistens) im Wald, die mithilfe von Koordinatenangaben Treffpunkte beschreiben. Im Falle eines Unfalls können diese Treffpunkte bei der Kommunikation des Verunfallten bzw. eines Helfers mit dem Rettungsdienst genutzt werden, um das Auffinden des Unfallortes zu erleichtern. An diesen Orten sind in den meisten Bundesländern fest installierte Schilder mit einer Referenznummer angebracht. Diese Standorte werden in OSM seit mindestens 2008 als <code>highway=emergency_access_point</code> erfasst.</p>
 <p>Seit 2014 veröffentlicht das Kuratorium für Waldarbeit und Forsttechnik e.V. (KWF) die Rettungspunkte der meisten Bundesländer unter der zu OSM inkompatiblen Lizenz CC-BY-ND. Seitdem mache ich regelmäßige Abgleiche beider Datenbestände, kann aber aus lizenzrechtlichen Gründen die Detail-Ergebnisse nicht allgemein veröffentlichen. Als pragmatische Lösung erhalten je nach Fehlerart die entsprechenden Mapper oder  Forstverwaltungen einen Hinweis, die erfassten oder veröffentlichten Daten nochmals vor Ort zu überprüfen.</p>

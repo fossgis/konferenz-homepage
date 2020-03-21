@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Michael Schulz</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020//attachments/UPPG8U_fossgis_ad_postgresql_schulz_2_EDa0QTa.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3113-ad-und-postgresql-rollen-verknpfen-mit-dem-hllenhund">
+                    <img class="video-preview" src="/2020/video_previews/3113-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/UPPG8U_fossgis_ad_postgresql_schulz_2_EDa0QTa.pdf">Vortragsfolien (PDF) </a></p>
             <p>Rollen und Rechte in einer Geodatenbank zu verwalten, war schon immer eine komplizierte Aufgabe. Benutzerverwaltung up-to-date halten, wechselnde Aufgaben und ressortspezifische Zugriffe zu ermöglichen, eine administrative Herkulesaufgabe. In einer Stadtverwaltung wie Freiburg, mit mehreren hundert Mitarbeitenden aus vielen verschiedenen Ämtern und Projektgruppen, die alle auf eine zentrale Geodatenhaltung zugreifen wollen, bietet es sich daher an, diese Berechtigungen über die zentrale Benutzerverwaltung abzubilden. Das Zusammenspiel von Open-Source Komponenten wie PostgreSQL und QGIS mit dem Verzeichnisdienst ActiveDirectory wird durch Kerberos als Authentifizierungsdienst umgesetzt. Es ermöglicht z.B. Single-Sign-On bei der Nutzung der zentralen Geodatenbank in QGIS unter Windows. Die Konzeption der Rollen im AD und in der Datenbank stehen dabei an erster Stelle. Die automatische Übernahme der Rollen vom AD in die Datenbank ist eine weitere Herausforderung, ebenso wie die Weitergabe von QGIS-Projekten mit gespeicherten Datenbank-Verbindungen die mittels Kerberos authentifiziert werden. Wir stellen die bisherigen Erfahrungen bei der Anwendung dieses Vorgehens in der Stadtverwaltung Freiburg vor.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Michael Schulz</h3>

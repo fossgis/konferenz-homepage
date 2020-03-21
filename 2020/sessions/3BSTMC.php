@@ -25,6 +25,12 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Thomas Skowron</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-2976-triff-osmler-in-deiner-nhe-mit-osmcal">
+                    <img class="video-preview" src="/2020/video_previews/2976-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Damit man nicht mehr Dinge im Wiki bearbeiten oder wiederfinden muss, gibt es jetzt den OSM Kalender. In dem Lightningtalk wird gezeigt, was OSMCAL ist, wie es funktioniert und wie man eigene Veranstaltungen hinzufügt.</p>
         </section>

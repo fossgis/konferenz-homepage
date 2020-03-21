@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Robert Klemm</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020//attachments/YBRH7D_fossgis_2020_Klemm_Routing_Mapbender_8CvdmJn.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3068-ein-einheitlicher-frontend-ansatz-um-mehrere-routing-lsungen-im-webgis-zu-nutzen">
+                    <img class="video-preview" src="/2020/video_previews/3068-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/YBRH7D_fossgis_2020_Klemm_Routing_Mapbender_8CvdmJn.pdf">Vortragsfolien (PDF) </a></p>
             <p>In der Vergangenheit sind mehrere Routing-Lösungen unter der Open-Source-Lizenz entstanden, die auch in der OpenSource-Community weit verbreitet und im Einsatz sind. Ich möchte ein Lösungsansatz darstellen, wo über ein einheitliches Web-Frontend verschiedene Routing-Lösungen angesprochen und benutzt werden können. </p>
 <p>Der Lösungsansatz wird am Beispiel von Mapbender durchgeführt und soll auch Nutzer ansprechen, die eine Routing-Lösung in ihren WebGis benutzen möchten, aber sich nicht mit der Installation und Programmierung von Routing-Lösungen herumschlagen möchten.</p>
 <p>Im Vortrag werden die Anforderungen an das User-Interface erläutert und welche Unterschiede es zwischen den Routing-Lösungen gibt, die betrachtet und später in die Lösung einfließen.</p>

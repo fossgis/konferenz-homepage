@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Wolfgang Hinsch</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 10:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020//attachments/JV7GRQ_01_wolfgangHinsch_DieWeltAlsRundeSacheAufDerEbe_Vgrq34z.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3120-die-welt-als-runde-sache-auf-der-ebenen-karte">
+                    <img class="video-preview" src="/2020/video_previews/3120-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/JV7GRQ_01_wolfgangHinsch_DieWeltAlsRundeSacheAufDerEbe_Vgrq34z.pdf">Vortragsfolien (PDF) </a></p>
             <p>Programme zur Kartenerstellung arbeiten mit sogenannten Koordinatenbezugssystemen (KBS), entweder explizit wie QGIS, das in der Lage ist, Layer mit unterschiedlichen KBS zur Laufzeit in ein Projekt-KBS umzurechnen, oder implizit wie viele Programme, die einfach die vorgegebenen x- und y-Werte als Koordinatensystem benutzen. In diesem Vortrag wird aufgezeigt, was notwendig und möglich ist, damit die runde Erdoberfläche auf einer ebenen Oberfläche wie einer Landkarte oder einem Bildschirm dargestellt werden kann. Über Begriffe wie Referenzellipsoid und Geoid wird auch auf die Höhenbestimmung eingegangen.
 Auf Formeln und mathematische Einzelheiten wird nicht eingegangen.</p>
         <div class='abstract-bio'>

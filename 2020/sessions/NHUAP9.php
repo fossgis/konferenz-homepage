@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Felix Kunde, Marco Hugentobler</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3063-schneller-besser-leichter-postgis-3">
+                    <img class="video-preview" src="/2020/video_previews/3063-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Seit Jahren gehört PostGIS zum Repertoire von Entwicklern und Firmen bei der Verwaltung und Analyse von Geodaten. Neuere Datenbanksysteme und Bibliotheken orientieren sich daher bei Funktionen (und ihrer Benennung) meist zuerst an der beliebten PostgreSQL-Erweiterung. 2018 kam neue Dynamik in das Projekt als weitere Kernentwickler dazu stießen, um zunächst vor allem die bestehende Code-Basis zu stabilisieren. Schnell war bei diesem Prozess eine Schwelle erreicht, die größerer Veränderungen bedurfte und damit den Sprung auf eine neue Hauptversion rechtfertigte. Die Release-Notes von PostGIS 3 beinhalten daher weniger große neue Funktionalitäten wie beim 2.0 Release, sondern unzählige Detailverbesserungen und Weichensteller für die Zukunft. Im Vortrag wird eine ausgewogene Schnittmenge aus beidem präsentiert und erklärt, warum das neue PostGIS unbedingt zusammen mit dem neuen PostgreSQL 12 verwendet werden sollte.</p>
         </section>

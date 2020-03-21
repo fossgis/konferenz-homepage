@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Pirmin Kalberer</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020//attachments/GPMCKV_01_fossigs_2020_Kalberer_ein_fall_fuer_vecor_ti_TQT0qOx.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3052-2700-interaktive-thematische-karten-ein-fall-fr-vector-tiles-">
+                    <img class="video-preview" src="/2020/video_previews/3052-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/GPMCKV_01_fossigs_2020_Kalberer_ein_fall_fuer_vecor_ti_TQT0qOx.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die Visualisierung des neuen Vogelatlas der Schweizer Vogelwarte zeigt bis zu sechs thematische Karten für über 400 Vogelarten. Dichte, Verteilung, Sichtungen und deren Entwicklung werden in thematischen Karten dargestellt. Dazu kommen 3D-Darstellungen, Vergleichsfunktionen, Einstellungen von Zeitperioden und weitere Funktionen.
 Die geforderte hohe Interaktivität kann dank dem Einsatz von Vektor Tiles bei kleinem Resourcenbedarf erreicht werden. Sogar Rasterkarten wurden vektorisiert und mit Mapbox GL JS im nationalen Bezugsrahmen LV95 dargestellt. Der Vortrag zeigt die nötigen Schritte zur Aufbereitung der Vector Tiles mit Open Source Software und erläutert die programmatisch erzeugten Kartenstile.</p>
         </section>

@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Andreas Neumann</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/8ZASBP_QGIS_Kartografie-Verbesserungen_2019_-_FOSSGIS__LYHsMgv.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3079-qgis-kartografie-verbesserungen-2019">
+                    <img class="video-preview" src="/2020/video_previews/3079-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/8ZASBP_QGIS_Kartografie-Verbesserungen_2019_-_FOSSGIS__LYHsMgv.pdf">Vortragsfolien (PDF) </a></p>
             <p>Im Vortrag werden Verbesserungen aus den folgenden Themenbereichen behandelt:</p>
 <ul>
 <li>Selektives Maskieren bei Beschriftungen und Symbolen</li>

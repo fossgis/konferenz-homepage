@@ -25,7 +25,13 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Dr Julia Richter</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020/None">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-4712-dynamik-dynamisches-navigations-und-orientierungssystem-fr-krperlich-beeintrchtigte-menschen-in-innenrumen-von-gebuden">
+                    <img class="video-preview" src="/2020/video_previews/4712-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
             <p>An der TU Chemnitz ist im Januar 2020 ein Projekt gestartet, das sich mit der Entwicklung eines Orientierungssystems für körperlich beeinträchtigte Menschen in Innenräumen von Gebäuden beschäftigt. Im Vortrag wird kurz vorgestellt, wie wir das System umsetzen möchten hinsichtlich der Erhebung von Innenraumkartendaten, der Innenraumpositionierung, der Routenberechnung, der Nutzerführung und der Plattformunabhängigkeit. Dabei sollen Software und Daten aus dem OSM-Bereich eingesetzt und erweitert werden.</p>
         </section>
 

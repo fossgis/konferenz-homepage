@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Sarah Hoffmann</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/GYWH39_fossgis2020_pyosmium_V3aopbl.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3104-osm-daten-verarbeiten-mit-python-und-pyosmium">
+                    <img class="video-preview" src="/2020/video_previews/3104-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/GYWH39_fossgis2020_pyosmium_V3aopbl.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die OpenStreetMap-Software-Welt bietet eine reiche Auswahl an Tools, um
 OSM-Daten für bestimmte Verwendungszwecke aufzubereiten. Es gibt zum Beispiel
 osm2pgsql oder Imposm für die Kartenerstellung, osm2pgrouting für Routing oder

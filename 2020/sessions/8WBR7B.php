@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Günter Wagner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/8WBR7B_Vortrag_WebGIS_Kleiner_Gemeinden_Guenter_Wagner_vOCC1Uq.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-2994-webgis-kleiner-gemeinden-mit-qgis-server-und-lizmap">
+                    <img class="video-preview" src="/2020/video_previews/2994-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/8WBR7B_Vortrag_WebGIS_Kleiner_Gemeinden_Guenter_Wagner_vOCC1Uq.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die Anforderungen und Datenvoraussetzungen dieser kleinen Gemeinden (hier speziell in Südbaden) unterscheiden sich von größeren Städten / Strukturen. Warum benötigt eine kleine Gemeinde ein <strong>eigenes</strong> WebGIS und welche Daten stehen Ihr zur Verfügung?</p>
 <p>Die technische Umsetzung mit den wesentlichen Komponenten QGIS, QGIS-Server, PostgreSQL/PostGIS und dem Web Client Lizmap wird skizziert und dabei die Gründe für die Auswahl dieser Komponenten erläutert.</p>
 <p>Es wird auch gezeigt, wie GDI-ähnliche Strukturen die Zusammenarbeit der unterschiedlichen Ingenieurbüros mit der Gemeinde verbessern können und wie die Gemeinde auch im lokalen GIS davon profitieren kann.</p>

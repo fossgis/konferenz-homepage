@@ -25,6 +25,12 @@
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Pirmin Kalberer</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3091-vektortile-karten-erstellen-mit-t-rex">
+                    <img class="video-preview" src="/2020/video_previews/3091-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Vektortiles haben das Potential, die bewährten Rasterkarten in vielen Bereichen abzulösen oder mindestens massgeblich zu ergänzen. Dieser Vortrag zeigt, wie Vektortiles generiert werden können und was dabei zu beachten ist. Weitere Themen sind das Styling der Karten mit Mapbox GL JSON und die Publikation mit OpenLayers 6 und Mapbox GL JS.</p>
         </section>

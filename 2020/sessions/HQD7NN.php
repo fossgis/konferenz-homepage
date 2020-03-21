@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Pirmin Kalberer</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020//attachments/HQD7NN_fossigs_2020_Kalberer_ogcapi_features_REFh6tj.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3053-der-neue-ogc-api-standard-ist-da-">
+                    <img class="video-preview" src="/2020/video_previews/3053-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/HQD7NN_fossigs_2020_Kalberer_ogcapi_features_REFh6tj.pdf">Vortragsfolien (PDF) </a></p>
             <p>Was unter dem Arbeitsnamen WFS3 begann, hat sich zu einer kompletten Überarbeitung und Vereinheitlichung diverser vorhandener OGC-Standards entwickelt. Neu war nicht nur der offene Prozess, sondern auch mehrere Umsetzungen bereits während der Entwurfsphase. Das Resultat namens <em>OGC API - Features - Part 1: Core</em> ist ein zeitgemässer und schlanker Standard, welcher zwar noch viele WFS-2-Funktionen vermissen lässt, aber dank der Erweiterbarkeit gute Chancen auf eine große Verbreitung hat.</p>
         </section>
 

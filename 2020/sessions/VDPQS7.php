@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Dirk Stenger</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3028-team-engine-vorstellung-der-neusten-tests-fr-ogc-standards-wie-ogc-api-features-oder-geotiff">
+                    <img class="video-preview" src="/2020/video_previews/3028-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Die TEAM Engine ist eine Engine, mit der Entwickler und Anwender Geodienste, wie WFS und WMS, und Geoformate, wie GML oder GeoPackage, testen können. Um die Implementierung und das Testen von GIS-Software basierend auf OGC Standards zu unterstützen, stellt das Open Geospatial Consortium (OGC) mehrere Testsuites für die TEAM Engine zur Verfügung.</p>
 <p>Die TEAM Engine ist aktuell als OSGeo-Projekt in der Inkubationsphase. Sie ist sie ein wichtiges Werkzeug, um die Interoperabilität zwischen verschiedenen Implementierungen von OGC-Standards und Clients, die diese Standards in Form von Schnittstellen, wie WFS oder WMS, oder Formaten, wie GML oder GeoPackage, nutzen, zu gewährleisten.</p>

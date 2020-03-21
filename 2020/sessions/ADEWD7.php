@@ -25,7 +25,13 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Robert Klemm</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 12:05 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-                        <p><a href="/2020/None">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3069-neues-zum-lyrk-mapstyle-was-kommt-danach-">
+                    <img class="video-preview" src="/2020/video_previews/3069-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
             <p>Der <a href="https://github.com/lyrk/lyrk-mapstyle">Lyrk-Mapstyle</a>  ist ein OpenStreetMap-Kartenstyle, der auf dem OSM-Bright Style aufsetzt. Seit 2016 wurde das Projekt gestartet,  wurde in den letzten Jahren in neuer Version veröffentlicht.</p>
 <p>Ich erkläre kurz welche Erneuerungen im letzten Release durchgeführt wurden und welche Herausforderungen in der Zukunft auf das Projekt warten.</p>
         </section>

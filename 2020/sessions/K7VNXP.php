@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Michel Peltriaux</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3015-mr-map-open-source-service-registry">
+                    <img class="video-preview" src="/2020/video_previews/3015-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Als Herzstück einer jeden Geodateninfrastruktur sollte eine Service Registry - eine „Diensteregistrierungskomponente“ - stehen. Die Anforderungen an eine solche Registrierungskomponente sind vielfältig und mitunter aufgrund komplexer technischer Zusammenhänge nicht im Handumdrehen umzusetzen. Hierzu zählen u.a. die Registrierung von Web Map Services oder Web Feature Services in den jeweiligen technischen Standard, die Zugänglichkeit dieser für Außenstehende, Anforderungen an die Zugriffsbeschränkung ausgewählter Dienste oder einzelner Subelemente wie bspw. Layer, eine Gruppen- und Nutzerverwaltung, usw.
 „Mr. Map“ wird seit April 2019 von der GDI-RP, mit Sitz in Koblenz, konzipiert und entwickelt und stellt eine Lösung für die technischen Anforderungen und Erwartungen des modernen Benutzers dar. Als Webapplikation läuft „Mr. Map“ plattformübergreifend und bietet bereits, neben den eingangs gelisteten Grundfunktionen einer Service Registry, zusätzliche Komponenten, wie bspw. eine Suchschnittstelle zur Anbindung an weitere Systeme wie Geoportale usw., ein internes Publisher-System zur Verteilung der Registrierungsrechte eigener Dienste auf andere Nutzer oder einen integrierten Metadateneditor, mit welchem nicht-technische Metadaten eines Dienstes bearbeitet werden können. </p>

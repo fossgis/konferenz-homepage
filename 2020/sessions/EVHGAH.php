@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Roman Härdi</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 13:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/EVHGAH_fossgis_2020_H_C3_A4rdi_Infrastruktur-Mappen_mit_dem_bYswQIU.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3009-infrastruktur-mappen-mit-dem-e-bike">
+                    <img class="video-preview" src="/2020/video_previews/3009-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/EVHGAH_fossgis_2020_H_C3_A4rdi_Infrastruktur-Mappen_mit_dem_bYswQIU.pdf">Vortragsfolien (PDF) </a></p>
             <p>Was sind die Vorteile des (E-)Bike-Mapping? Wie kann man Objekte mit der Kamera am besten und schnellsten (während der Fahrt) erfassen und präzise georeferenzieren?
 Ich zeige wie ich das Mappen mit GPS, Fotoapparat und E-Bike optimiert habe und welche Vorteile diese Art des Mappen bietet. 
 Im zweiten Teil fokussiere ich auf die Vorteile und Abläufe für das Mappen von Infrastruktur (Gas-Pipeline, Stromnetze). Hier hat das Mappen mit dem Fahrrad große Vorteile: Es sind viele Orte fahrend zugänglich (wo andere Fahrzeuge nicht können oder nicht dürfen) und trotzdem kann ein großes Gebiet erfasst werden.

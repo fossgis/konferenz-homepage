@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Simon Legner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/3SCXQY_JOSM-FOSSGIS2020-Legner_LZSSPGf.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-4719-josm-java-openstreetmap-editor">
+                    <img class="video-preview" src="/2020/video_previews/4719-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/3SCXQY_JOSM-FOSSGIS2020-Legner_LZSSPGf.pdf">Vortragsfolien (PDF) </a></p>
             <p>JOSM ist ein (Offline-)Editor für OpenStreetMap-Daten, der fast so alt wie OpemStreetMap selbst ist und mit dem Projekt gewachsen ist. In diesem Vortrag wird auf die Entwicklung von JOSM eingegangen und dargestellt, welche Herausforderungen im Jahr 2020 zu bewältigen sind. Ebenso wird die JOSM-Community bestehend aus Entwicklung/Quellcode, Übersetzung, Tests, Plugin-Entwicklung, Endbenutzers, Sponsoren,… vorgestellt.</p>
         </section>
 

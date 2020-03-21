@@ -25,6 +25,12 @@
                 <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>Marco Lechner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 11:25 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3693-was-ist-open-source-">
+                    <img class="video-preview" src="/2020/video_previews/3693-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Open Source hat viele Facetten und es ranken sich inzwischen ebenso viele Mythen darum. Was davon richtig ist und was nicht stellen wir in einer kurzen Einführung zusammen. Der Vortrag richtet sich an alle, die mit Open Source bisher noch wenig Kontakt hatten und die Grundlagen verstehen möchten.</p>
 <p>Open Source ist auf der einen Seite ein Entwicklungsmodell und auf der anderen ein Lizenzmodell. Zusammen bilden sie eine Kultur offener Entwicklungsgemeinschaften, die höchst effektiv arbeiten. Diese Kultur ist um ein Vielfaches effektiver, als proprietäre Modelle es je sein können. Ein einfaches Beispiel: Das Betriebssystem des Herstellers Apple basiert auf dem Open-Source-Unix FreeBSD. Es gibt halt einfach nichts besseres, und es selbst herzustellen wäre unendlich teuer, das hat sogar der hyper-proprietäre Hersteller Apple eingesehen.</p>

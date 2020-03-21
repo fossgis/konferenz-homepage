@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Sebastian Ratjens</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-2988-map-editor-fr-individuelle-amtliche-vektorkarten">
+                    <img class="video-preview" src="/2020/video_previews/2988-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Im Rahmen des Projekts "Basisvisualisierung" erprobt das Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN) neue Visualisierungsmöglichkeiten für amtliche Daten im Internet, optimiert für die Nutzung auf mobilen Endgeräten.</p>
 <p>Als ein Ergebnis des Projekts wird der Prototyp "Map Editor" entwickelt und als Open Source Software veröffentlicht. Es handelt sich dabei um eine Webanwendung zur Erstellung individueller Basiskarten und Kartenanwendungen, basierend auf Vector Tiles.</p>

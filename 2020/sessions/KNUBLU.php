@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Markus Neteler, Carmen Tawalika</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 16:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3030-grass-gis-in-der-cloud-actinia-geoprozessierung">
+                    <img class="video-preview" src="/2020/video_previews/3030-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Ursprünglich GRaaS (GRASS as a Service) genannt, wurde actinia (https://actinia.mundialis.de) entwickelt, um die GRASS-GIS-Funktionalität über eine HTTPS REST API bereitzustellen. GRASS GIS Locations, Mapsets, Vektor- und Rasterdaten sowie raum-zeitliche Daten werden zu Ressourcen, die per REST verwaltet und visualisiert werden können. Mit den bestehenden (z.B. Landsat) und in den letzten Jahren neu entstehenden (Copernicus Sentinel) großen Geodatenpools, die Tag für Tag wachsen, soll actinia dem Paradigma folgen, Algorithmen zu den Clouddaten zu bringen. Actinia ermöglicht es, eine große Menge an Geoinformationen aufzubereiten, zu analysieren und bereitzustellen, ohne dass Kenntnisse der Daten, der Analyse, der geeigneten Software zur Automatisierung oder skalierbarer Hardware-Ressourcen erforderlich sind.</p>
 <p>Einige der Funktionalitäten sind persistente und flüchtige Berechnung, Benutzerverwaltung zur Begrenzung von z.B. Pixeln, Prozessen und Berechnungsdauer sowie das Loggen von API-Aufrufen und verwendeten Ressourcen durch jeden Benutzer. Ein weiterer Vorteil ist die einfache Installation mit Docker. Bei der Installation in einer Cloud-Umgebung mit OpenShift oder Kubernetes verwaltet der integrierte Loadbalancer das Cluster automatisch.

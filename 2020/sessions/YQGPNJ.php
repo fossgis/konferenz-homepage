@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Christoph Hormann</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/YQGPNJ_imagico_fossgis_verkleinert_2020_zJXWf4j.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3126-weniger-ist-mehr-zur-auswahl-darzustellender-elemente-in-der-digitalen-kartographie">
+                    <img class="video-preview" src="/2020/video_previews/3126-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/YQGPNJ_imagico_fossgis_verkleinert_2020_zJXWf4j.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die Auswahl von Datenelementen nach ihrer Bedeutung ist ein elementarer Arbeitsschritt bei der Produktion von Karten.  Bei der regelbasierten digitalen Kartographie passiert dies zwingendermaßen auf Grundlage von aus den verwendeten Daten abgeleiteten Kriterien.  In OpenStreetMap-Karten erfolgt dies traditionell bei der Auswahl zentraler Karten-Elemente, insbesondere bei kleinen Maßstäben, oft jedoch nach eher zweifelhaften Kriterien:</p>
 <ul>
 <li>Die Auswahl von dargestellten Siedlungen geschieht auf Grundlage einer weitgehend subjektiven Klassifikation als city/town/village/hamlet/isolated_dwelling.</li>

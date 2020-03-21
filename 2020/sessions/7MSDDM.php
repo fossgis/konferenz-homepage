@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Richard Bischof</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3061-skalierbare-plattform-zur-verarbeitung-von-geodaten-auf-basis-von-kubernetes">
+                    <img class="video-preview" src="/2020/video_previews/3061-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Mit Kubernetes wird eine containerbasierte Plattform aufgesetzt, die horizontale Skalierung der zugrundeliegenden Rechenkapazität und bereitgestellten Applikationen ermöglicht. Für den Anwendungsfall geeignete Applikationen sind OpenFaaS und Minio. OpenFaaS ermöglicht die hoch-skalierbare Verarbeitung in unterschiedlichen Programmiersprachen. Ein- und Ausgabedaten werden für Write-Once-Read-Many Zugriffe optimiert im  ObjectStore Minio gespeichert. 
 Am Beispiel des Kampfmittelbeseitigungsdienstes Niedersachsen werden Szenarien für die Transformation und Analyse von historischen Kriegsluftbildern auf dieser Plattform dargestellt und insbesondere die Vorteile der Speicherung von Rasterdaten im Format cloud-optimized GeoTIFF in diesem Kontext aufgezeigt.</p>

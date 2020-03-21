@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Dr. Dirk Schlierkamp-Voosen</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3080-digitale-bahnhofsplne-fr-die-reisendeninformation-der-deutschen-bahn">
+                    <img class="video-preview" src="/2020/video_previews/3080-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Die Einheit Reisendeninformation der Deutschen Bahn AG hat zur Aufgabe, Lösungen zu entwickeln, die den Reisendenkomfort erhöhen. 
 Im Rahmen dieses Auftrags soll Reisenden die Orientierung im Bahnhof vereinfacht werden.

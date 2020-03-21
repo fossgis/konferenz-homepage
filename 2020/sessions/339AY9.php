@@ -25,6 +25,12 @@
                 <span class='abstract-sessiontype'>Demo-Session</span> von                <span class='abstract-speakers'>Jakob Miksch</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-2853-einfhrung-zu-gdal-ogr-geodaten-mit-der-kommandozeile-verarbeiten">
+                    <img class="video-preview" src="/2020/video_previews/2853-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p><strong>GDAL/OGR</strong> ist eine Programm-Bibliothek die verschiedene <a href="https://gdal.org/drivers/vector/index.html">Vektor-</a> und <a href="https://gdal.org/drivers/raster/index.html">Rasterformate</a> lesen und schreiben kann. Sie ist in C/C++ geschrieben, allerdings kann man auch mit anderen Programmiersprachen wie Python oder R darauf zugreifen. Es gibt zahlreiche Programme für die <strong>Kommandozeile</strong> die in diesem Vortrag vorgestellt werden. Behandelt werden unter anderem folgende Themen:</p>
 <ul>

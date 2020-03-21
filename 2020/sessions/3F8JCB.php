@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Dr Julia Richter, Thomas Graichen</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3004-opener-offene-plattform-fr-die-crowd-basierte-erfassung-von-informationen-zu-barrieren-an-haltestellen-im-pnv">
+                    <img class="video-preview" src="/2020/video_previews/3004-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <h1>Einleitung und Hintergrund</h1>
 <p>Barrierefreiheit im öffentlichen Personennahverkehr (ÖPNV) — dies ist ein richtungsweisendes Ziel, das sich die Bundesrepublik Deutschland bis Anfang 2022 mit der Novellierung des Personenbeförderungsgesetzes gesetzt hat. Daraufhin wurden konkrete Anforderungen zur Datenerfassung im Rahmen des Projekts <a href="https://www.delfi.de/">DELFI+</a> entwickelt und den Arbeitsgruppen der regionalen, öffentlichen Verkehrsverbünde zur Umsetzung übermittelt. Insbesondere für kleine, in ländlichen Regionen agierende ÖPNV-Verbünde stellt die flächendeckende und lückenlose Erfassung von Haltestelleninformationen zur Barrierefreiheit mit den detaillierten Anforderungen allerdings eine nicht zu bewältigende finanzielle und personelle Herausforderung dar. Allein für Haltestellen sind dies über 48 zu erfassende Attribute pro Haltestellensteig. So hat beispielsweise der Verkehrsverbund Mittelsachsen mit ca. 9.000 Haltestellensteigen insgesamt 432.000 Datensätze zu erheben und zu pflegen! Zu den 48 Steigattributen kommen außerdem noch weitere 39 für die Erfassung von Wegen in und durch die Haltestelle hinzu. Schon diese Zahlen verdeutlichen die Brisanz, die mit dem Thema Datenerhebung verbunden ist.</p>

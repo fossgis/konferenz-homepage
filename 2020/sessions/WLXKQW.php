@@ -25,6 +25,12 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Athina Trakas</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 14:45 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3572-women-in-geospatial-ein-professionelles-netzwerk-fr-frauen-in-der-gis-geo-industrie">
+                    <img class="video-preview" src="/2020/video_previews/3572-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Women in Geospatial+ ist ein professionelles Netzwerk für Frauen in der GIS Industrie und Forschung. Das Netzwerk  entstand vor einem Jahr und ist seitdem ist es stetig gewachsen. Derzeit hat es weltweit ca. 800 Mitglieder.</p>
 <p>Durch die Bildung eines starken Netzwerks möchten wir eine bessere Balance in der Geschlechterverteilung in der GIS Community erreichen. Unter GIS Community verstehen wir die GIS und Geo Industrie, Forschung, den Behörden- und universitären Sektor. Women in Geospatial+ bringt Frauen im GIS und Geo Bereich zusammen und organisiert u.a. Events zu Themen wie Karriere und Führungspositionen in unserer Community. Zusätzlich bieten wir ein Mentorship Programm an. Neugierig geworden? Informiert Dich oder sei dabei!</p>

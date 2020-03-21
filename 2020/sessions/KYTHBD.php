@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Günter Wagner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/KYTHBD_Vortrag_Lizmap_Web_Client_und_QGIS_Guenter_Wagn_9uA2lE6.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-4697-lizmap-web-client-und-qgis">
+                    <img class="video-preview" src="/2020/video_previews/4697-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/KYTHBD_Vortrag_Lizmap_Web_Client_und_QGIS_Guenter_Wagn_9uA2lE6.pdf">Vortragsfolien (PDF) </a></p>
             <p>Der Lizmap Web Client der französischen Firma 3Liz ist in Deutschland leider kaum bekannt. Dabei bietet er den entscheidenden Vorteil, dass die gesamte Konfiguration im QGIS-Plugin vorgenommen wird. Zur Veröffentlichung wird nur das QGIS-Projektfile und eine autom. erstellte Konfigurationsdatei auf den Server übertragen.</p>
 <p>Die Web-Anwendung stellt das QGIS-Projekt (inkl. Kartensymbole und Beschriftung) aufgrund der gemeinsame Rendering Engine von QGIS-Desktop und QGIS-Server 1:1 im Internet dar. Ferner können u.a. die Druckzusammenstellung incl. dem Atlasdruck und die Attributtabelle in der Web-Anwendung verwendet werden. Suchfunktionen können über Datenbankinhalte erstellt werden.</p>
 <p>Die Benutzer-/Gruppen- und Projektverwaltung erfolgt komfortabel über das Backend des Clients im Web.  </p>

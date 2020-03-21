@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Robert Klemm</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-                        <p><a href="/2020//attachments/DKP3WZ_fossgis_2020_Klemm_Routing_openvectortiles_OBxoZ5w.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3082-osm-daten-mit-vektortiles-erfolgreich-nutzen">
+                    <img class="video-preview" src="/2020/video_previews/3082-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/DKP3WZ_fossgis_2020_Klemm_Routing_openvectortiles_OBxoZ5w.pdf">Vortragsfolien (PDF) </a></p>
             <p>Das OpenMapTile-Projekt bietet zahlreiche Möglichkeiten für den Umgang mit Vektor- und Rasterdaten.</p>
 <p>Das OpenMapTile-Projekt unterstützt JSON-Kartenstile in Webanwendungen, die von der MapBox-GL- oder der Openlayers JavaScript-Bibliothek unterstützt werden, sowie in nativen mobilen SDKs für iOS und Android. Das OpenMapTiles-Projekt besteht aus verschiedenen Komponenten. </p>
 <p>Die Hauptkomponenten sind das Open-Vector-Schema und Tools für das Erzeugen von Vektorkacheln mit OSM-Daten und OpenMap-Stilen.</p>

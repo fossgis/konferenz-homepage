@@ -25,7 +25,13 @@
                 <span class='abstract-sessiontype'>Diverses</span> von                <span class='abstract-speakers'>FOSSGIS Konferenz</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 13:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/TDNXQF_1300_eroeffnung_helle__a7VVjzG.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3229-erffnung">
+                    <img class="video-preview" src="/2020/video_previews/3229-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/TDNXQF_1300_eroeffnung_helle__a7VVjzG.pdf">Vortragsfolien (PDF) </a></p>
             <p>Eine feierliche Eröffnung der Konferenz durch Vertreter des FOSSGIS e.V. mit wertvollen Hinweisen zum Ablauf und der Organisation.</p>
         </section>
 

@@ -25,7 +25,13 @@
                                 <span class='abstract-speakers'>Marc Jansen, Andreas Hocevar</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-                        <p><a href="/2020//attachments/CTJEVS_openlayers_PDkI0kw.pdf">Vortragsfolien</a></p>
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3047-openlayers-v6-x-und-wie-es-weitergeht">
+                    <img class="video-preview" src="/2020/video_previews/3047-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
+                        <p><a href="/2020//attachments/CTJEVS_openlayers_PDkI0kw.pdf">Vortragsfolien (PDF) </a></p>
             <p>OpenLayers ist eine sehr bekannte und verbreitete Open-Source-JavaScript-Bibliothek, um interaktive Karten im Web aus verschiedenste Quellen mit reichhaltigen Interaktionsmöglichkeiten zu erstellen.</p>
 <p>Seit 2006 sind von OpenLayers nunmehr 6 Major-Releases erschienen, die die Bibliothek jeweils dem aktuellen Stand der Technik angepasst haben und stets neue Features sowie Performanceoptimierungen mit sich brachten. Auch dank eines durch den FOSSGIS gesponserten CodeSprints konnte jüngst die Version 6 veröffentlicht werden.</p>
 <p>Der Vortrag, der von OpenLayers Kernentwicklern und Mitgliedern des PSC gehalten wird, wird drei Schwerpunkte haben:</p>

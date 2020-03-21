@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Christopher Lorenz, Lars Lingner</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 11:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3050-community-arbeit-ein-einblick-in-die-berliner-osm-fossgis-community">
+                    <img class="video-preview" src="/2020/video_previews/3050-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Ein Einblick in die Community-Arbeit von zwei engagierten OSM- und FOSSGIS-Mitgliedern. Es wird aufgezeigt, welche Aktivitäten in der Berliner Community statt fanden bzw. sich in Planung befinden. Dabei wird dargestellt, welche Schwierigkeiten es gibt. Warum ist es wichtig nie aufzugeben, sollte etwas nicht gleich so funktionieren, wie geplant. Es werden auch Wege gezeigt, wie man nicht nur aktive sondern auch Interessierte erreicht. Neben dem Einblick, den wir geben, möchten wir auch sehr gerne Feedback und Meinungen einsammeln. </p>
 <p>Warum schlafen Communitieevents wieder ein? Wann sind Events erfolgreich und was für Ziele stellt man sich? Was sind geeignete Kommunikationskanäle? Wie vernetzt man sich und baut Brücken zu anderen Communities?   Welche Ressourcen sind nützlich und worauf kann man verzichten?</p>

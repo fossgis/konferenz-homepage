@@ -25,6 +25,12 @@
                                 <span class='abstract-speakers'>Thomas Baumann</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
+                        <div class="video-container">
+                <a href="https://media.ccc.de/v/fossgis2020-3117-qgis-im-produktivbetrieb-erfahrungsbericht-zur-einfhrung-von-qgis-als-professionelles-planungswerkzeug">
+                    <img class="video-preview" src="/2020/video_previews/3117-hd.jpg" alt="Vorschaubild des Videos">
+                    <div class="video-preview-overlay"></div>
+                </a>
+            </div>
                         
             <p>Seit Anfang 2016 habe ich bei einem mittelständischen Unternehmen QGIS als professionelles GIS mit Schwerpunkt Planung im Bereich des Breitbandausbaus eingeführt.</p>
 <p>In diesem Vortrag würde ich gerne über den Weg berichten vom anfänglichen „fear, uncertainty and doubt“-Phänomen über erste Teilerfolge hin zu Akzeptanz von QGIS als etabliertes Werkzeug zur Unterstützung der Planer. Beleuchtet werden soll auch die technische Umsetzung mit Themen wie:</p>
