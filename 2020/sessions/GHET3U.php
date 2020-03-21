@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/GHET3U_2020_FOSSGIS_Wegue_VueJS_OpenLayers_MikschJ_May_FDVM4uE.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/GHET3U_2020_FOSSGIS_Wegue_VueJS_OpenLayers_MikschJ_May_FDVM4uE.pdf">Vortragsfolien (PDF) </a></p>
             <p>Wegue [1] ist eine Software zum Erstellen von modernen leichtgewichtigen WebGIS-Client-Anwendungen. Die Basis dafür sind die beiden Open Source JavaScript-Frameworks OpenLayers [2] und Vue.js [3]. OpenLayers übernimmt dabei das Lesen und die Darstellung der Geoinformationen als Karte und die Prozessierung der Geo-Objekte. Vue.js wird für die Strukturierung des Projektcodes (nach MVVM) genutzt und erlaubt die Erzeugung von eigenen Web-Komponenten.</p>
 <p>Wegue verknüpft diese beiden Bibliotheken zu einer konfigurierbaren Vorlage für WebGIS-Anwendungen aller Art und stellt wiederverwendbare UI-Komponenten (z.B. Layer-Liste, FeatureInfo-Dialog, etc.) bereit.</p>
 <p>Wegue wurde kurz nach der Projektgründung auf der FOSSGIS 2018 in Bonn präsentiert. Mittlerweile ist das Projekt gereift und in einigen Realweltprojekten zum Einsatz gekommen. Dabei ist es an vielen Stellen erweitert und verbessert worden und befindet sich aktuell auf dem Weg zur Version 1.0.</p>

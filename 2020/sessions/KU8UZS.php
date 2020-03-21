@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/KU8UZS_fossgis_xplanung_friebe_schulz_final_DyI0yMw.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/KU8UZS_fossgis_xplanung_friebe_schulz_final_DyI0yMw.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die Stadt Freiburg hat sich Ende 2018 auf den Weg gemacht, die digitale Bauleitplanung für Bebauungsplanverfahren auf die Verwendung des XÖV Standards XPlanung umzustellen, sowie das aktuelle Planungsrecht XPlanung-konform nach zu erfassen. Die Bereitstellung der erfassten Daten soll wiederum über OGC-Dienste unter Einbindung in ein zentrales Austausch- und Validierungsportal durchgeführt werden.</p>
 <p>Die Präsentation zeigt die Erfahrungen und verschiedenen Schritte zur Umsetzung mit den eingesetzten FOSS-Werkzeugen, wie deegree, HALE, QGIS, PostgreSQL/PostGIS, sowie die Ergebnisse aber auch die Schwierigkeiten. </p>
 <p>Die Einbindung der bereitgestellten Daten per XPlanung WMS- und WFS-Diensten in die Metadaten-Prozesse der GDI Freiburg unter Verwendung von GeoNetwork werden im Vortrag ebenfalls erörtert wie die Transformation in INSPIRE-PLU-Dienste.</p>

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/M73SCJ_geostyler-fossgis-2020_yq5MU3N.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/M73SCJ_geostyler-fossgis-2020_yq5MU3N.pdf">Vortragsfolien (PDF) </a></p>
             <p>GeoStyler ist eine Open Source JavaScript-Bibliothek zur einfachen Erstellung von modernen
 Web-Oberflächen zum kartographischen Stylen von Geodaten. Somit wird es dem Anwender
 möglich ohne Programmierung und Editieren von Text-Dateien (XML und co.) Styling-Vorschriften

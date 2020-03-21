@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/HQD7NN_fossigs_2020_Kalberer_ogcapi_features_REFh6tj.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/HQD7NN_fossigs_2020_Kalberer_ogcapi_features_REFh6tj.pdf">Vortragsfolien (PDF) </a></p>
             <p>Was unter dem Arbeitsnamen WFS3 begann, hat sich zu einer kompletten Überarbeitung und Vereinheitlichung diverser vorhandener OGC-Standards entwickelt. Neu war nicht nur der offene Prozess, sondern auch mehrere Umsetzungen bereits während der Entwurfsphase. Das Resultat namens <em>OGC API - Features - Part 1: Core</em> ist ein zeitgemässer und schlanker Standard, welcher zwar noch viele WFS-2-Funktionen vermissen lässt, aber dank der Erweiterbarkeit gute Chancen auf eine große Verbreitung hat.</p>
         </section>
 

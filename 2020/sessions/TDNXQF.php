@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/TDNXQF_1300_eroeffnung_helle__a7VVjzG.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/TDNXQF_1300_eroeffnung_helle__a7VVjzG.pdf">Vortragsfolien (PDF) </a></p>
             <p>Eine feierliche Eröffnung der Konferenz durch Vertreter des FOSSGIS e.V. mit wertvollen Hinweisen zum Ablauf und der Organisation.</p>
         </section>
 

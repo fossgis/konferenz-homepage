@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/DKP3WZ_fossgis_2020_Klemm_Routing_openvectortiles_OBxoZ5w.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/DKP3WZ_fossgis_2020_Klemm_Routing_openvectortiles_OBxoZ5w.pdf">Vortragsfolien (PDF) </a></p>
             <p>Das OpenMapTile-Projekt bietet zahlreiche Möglichkeiten für den Umgang mit Vektor- und Rasterdaten.</p>
 <p>Das OpenMapTile-Projekt unterstützt JSON-Kartenstile in Webanwendungen, die von der MapBox-GL- oder der Openlayers JavaScript-Bibliothek unterstützt werden, sowie in nativen mobilen SDKs für iOS und Android. Das OpenMapTiles-Projekt besteht aus verschiedenen Komponenten. </p>
 <p>Die Hauptkomponenten sind das Open-Vector-Schema und Tools für das Erzeugen von Vektorkacheln mit OSM-Daten und OpenMap-Stilen.</p>

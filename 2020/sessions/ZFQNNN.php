@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/ZFQNNN_von_arcgis_zu_qgis_ZUHsBOE.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/ZFQNNN_von_arcgis_zu_qgis_ZUHsBOE.pdf">Vortragsfolien (PDF) </a></p>
             <p>ArcGis speichert seine Projekte in einer binären MXD-Datei, die nicht ohne weiteres von QGIS gelesen werden kann. Um seine Projekte trotzdem auch unter QGIS bearbeiten zu können, gibt es verschiedene Ansätze aus der OpenSource-Community: Slyr ist ein von der australischen Firma North Road entwickeltes QGIS-Plugin, welches den Import von ArcGis Projekten ermöglicht. Per Drag-and-Drop können ArcGis-Dateien direkt in QGIS eingefügt werden. Die Binärdaten werden per Reverse-Engineering ausgelesen und nutzbar gemacht. Das Tool befindet sich noch in der Entwicklungsphase, einzelne Funktionen stehen jedoch bereits zur Verfügung. </p>
 <p>GeoCat bietet mit Bridge die Möglichkeit ArcGis-Projekte als WMS, WFC oder anderen Webdiensten verfügbar zu machen. So kann ein Projekt über Umwege auch in QGIS genutzt werden. Diese Lösung richtet sich also vorrangig an WebServer wie Map- oder GeoServer.</p>
 <p>Die WhereGroup entwickelt ein auf Python basierendes Tool weiter, dessen Grundlage ein Projekt von Allan Maungu ist. Die Idee ist hier, die Projektdaten von ArcGis als QGIS-(XML)-Datei zu exportieren. Mithilfe von ArcObjects, die das Grundgerüst von ArcGis bilden, kann so auf alle Klassen und ihre Eigenschaften zugegriffen werden, um sie in ein QGIS lesbares Format in Form von QGIS-Projektdateien oder QGIS-Layerdateien abzuspeichern. </p>

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/V8ZBMG_kadas_albireo_L91fwON.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/V8ZBMG_kadas_albireo_L91fwON.pdf">Vortragsfolien (PDF) </a></p>
             <p>KADAS Albireo ist eine Desktop-GIS-Anwendung, die auf dem QGIS Kern aufbaut und verschiedene QGIS-Standardfunktionen sowie spezielle Erweiterungen in einer stark vereinfachten Benutzeroberfläche einem breiten Spektrum von Endnutzer zugänglich macht.</p>
 <p>Dieser Vortrag stellt die Desktop-GIS-Anwendung KADAS Albireo vor, sowohl aus Sicht der Funktionalitäten die sie dem Endnutzer anbietet, als aus Sicht der Programmarchitektur als QGIS basierte Anwendung.</p>
         <div class='abstract-bio'>

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/BYJJNM_Fossgis_hinz_processing_mit_opencaching_M94DeSW.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/BYJJNM_Fossgis_hinz_processing_mit_opencaching_M94DeSW.pdf">Vortragsfolien (PDF) </a></p>
             <p>OpenCaching.de ist die zweitgrößte Geocaching-Plattform in Mitteleuropa. Mit über 26.000 Geocaches, deren Metadaten über eine offene Web-API ausgelesen werden kann, eignet sie sich auch hervorragend als Lehrbeispiel für den Umgang mit Geodaten. Der Vortrag gibt einen kurzen Überblick über das Fallbeispiel im Onlinekurs, sowie über das Vorgehen und Ergebnisse der Analyse.</p>
 <p>Inhalte der Geocaching-Datenbank sollen mit Landnutzungsdaten (CORINE Landcover) und Auszügen der Europäischen Statistik (EUROSTAT) verknüpft werden. Durch intelligentes Aufbereiten und Kontextualisierung der Daten werden Erkenntnisse über die Verteilung von Geocaches in Mitteleuropa gewonnen. Dabei werden fortgeschrittene Werkzeuge aus dem GeoIT-Bereich genutzt, darunter eine PostGIS-Datenbank, der QGIS Graphical Modeler, SQL-Queries und Python-Scripting.</p>
 <p>Auf der offenen Lernplattform von OpenGeoEdu (https://learn.opengeoedu.de) ist die Analyse ausführlich beschrieben und kann von Interessierten selbst online durchgearbeitet werden. Im Rahmen des offenen Onlinekurses OpenGeoEdu kann dazu ein wissenschaftlicher Beleg eingereicht und mit Credit Points zertifiziert werden. Als offenes Lehrmaterial kann das Fallbeispiel auch durch Lehrende in GIS-Kursen oder Weiterbildungen eingebunden werden.</p>

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/GYWH39_fossgis2020_pyosmium_V3aopbl.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/GYWH39_fossgis2020_pyosmium_V3aopbl.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die OpenStreetMap-Software-Welt bietet eine reiche Auswahl an Tools, um
 OSM-Daten für bestimmte Verwendungszwecke aufzubereiten. Es gibt zum Beispiel
 osm2pgsql oder Imposm für die Kartenerstellung, osm2pgrouting für Routing oder

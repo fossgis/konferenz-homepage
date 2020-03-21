@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/CTJEVS_openlayers_PDkI0kw.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/CTJEVS_openlayers_PDkI0kw.pdf">Vortragsfolien (PDF) </a></p>
             <p>OpenLayers ist eine sehr bekannte und verbreitete Open-Source-JavaScript-Bibliothek, um interaktive Karten im Web aus verschiedenste Quellen mit reichhaltigen Interaktionsmöglichkeiten zu erstellen.</p>
 <p>Seit 2006 sind von OpenLayers nunmehr 6 Major-Releases erschienen, die die Bibliothek jeweils dem aktuellen Stand der Technik angepasst haben und stets neue Features sowie Performanceoptimierungen mit sich brachten. Auch dank eines durch den FOSSGIS gesponserten CodeSprints konnte jüngst die Version 6 veröffentlicht werden.</p>
 <p>Der Vortrag, der von OpenLayers Kernentwicklern und Mitgliedern des PSC gehalten wird, wird drei Schwerpunkte haben:</p>

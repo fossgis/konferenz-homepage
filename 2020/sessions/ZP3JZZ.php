@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/ZP3JZZ_fossgis-2020-verbindungen-schaffen-mit-postgres_iTFQiKc.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/ZP3JZZ_fossgis-2020-verbindungen-schaffen-mit-postgres_iTFQiKc.pdf">Vortragsfolien (PDF) </a></p>
             <p>Über Foreign Data Wrapper (FDW) kann aus der Datenbank heraus eine Verbindung zu anderen Datenquellen aufgebaut werden. Dadurch ist es nicht mehr notwendig, dass alle Daten, die in einem Projekt innerhalb der PostgreSQL-Datenbank verwendet werden sollen, sich auch in der Datenbank befinden müssen.</p>
 <p>Foreign Data Wrapper bringen mehr Flexibilität durch den einfachen Zugriff auf verschiedenste Datenquellen. Die Möglichkeit, auch schreibend auf externe Quellen zuzugreifen, macht das Ganze noch attraktiver.</p>
 <p>Mit unterschiedlichen Erweiterungen können Verbindungen von PostgreSQL zu Oracle, MySQL, CSV, JSON, Geodaten, OSM und vielen weite­ren Quellen geschaffen werden.</p>

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/YQGPNJ_imagico_fossgis_verkleinert_2020_zJXWf4j.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/YQGPNJ_imagico_fossgis_verkleinert_2020_zJXWf4j.pdf">Vortragsfolien (PDF) </a></p>
             <p>Die Auswahl von Datenelementen nach ihrer Bedeutung ist ein elementarer Arbeitsschritt bei der Produktion von Karten.  Bei der regelbasierten digitalen Kartographie passiert dies zwingendermaßen auf Grundlage von aus den verwendeten Daten abgeleiteten Kriterien.  In OpenStreetMap-Karten erfolgt dies traditionell bei der Auswahl zentraler Karten-Elemente, insbesondere bei kleinen Maßstäben, oft jedoch nach eher zweifelhaften Kriterien:</p>
 <ul>
 <li>Die Auswahl von dargestellten Siedlungen geschieht auf Grundlage einer weitgehend subjektiven Klassifikation als city/town/village/hamlet/isolated_dwelling.</li>

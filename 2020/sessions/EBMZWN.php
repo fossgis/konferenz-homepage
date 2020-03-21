@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/EBMZWN_Fossgis_Kahle_2020_CWDSpR7.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/EBMZWN_Fossgis_Kahle_2020_CWDSpR7.pdf">Vortragsfolien (PDF) </a></p>
             <p>Das für jeden zugängliche (und erweiterbare) Webportal www.tambora.org bietet über 250000 zeitlich differenzierbare und räumlich verortete Ereignisse. Im mitteleuropäischen Bereich finden sich für die letzten tausend Jahre Einträge zu den Themen Klima (beispielsweise Hitze, Kälte, Niederschlag, ...), Phenologie (etwa Erntequalität, -quantität und -zeitpunkt) und sozioökonomische Auswirkungen (Preisentwicklungen, Hunger, Aufstände, …).</p>
 <p>Um eigene Kartenapplikationen um Layer dieser Daten ergänzen zu können, werden Javascript-Bibliotheken für Leaflet und Openlayer vorgestellt. Die Anwendung der Bibliothek wird jeweils durch eine Anwendung verdeutlicht, wie z.B. ein <a href="https://climdata.github.io/cook2015">Dürre-Explorer</a>.</p>
         </section>

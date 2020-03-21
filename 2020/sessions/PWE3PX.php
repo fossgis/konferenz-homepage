@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/PWE3PX_FOSSGIS20_Danzinger_20min_kKcvTO1.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/PWE3PX_FOSSGIS20_Danzinger_20min_kKcvTO1.pdf">Vortragsfolien (PDF) </a></p>
             <p>Mit dem Ziel weitere Projekte dieser Art in Deutschland -- oder anderswo -- anzuregen,  wird die Präsentation vor allem beschreiben, was überhaupt gemacht wird, wie alles organisiert ist und wie die Teilnehmenden es beurteilen. Bis Ende 2019 wurden 20 Mapathons veranstaltet. U.a. hat dieser Erfolg dazu geführt, dass CartONG ein sehr ähnliches Projekt 2018-2019 in Frankreich durchführte. Momentan wird über einen Antrag zur Erweiterung der Projektidee auf europäischer Ebene diskutiert.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Robert Danziger</h3>

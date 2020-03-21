@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/FDAF37_fossgis-2020-osm-daten-in-qgis-nutzen-astrid-em_bCv1SFI.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/FDAF37_fossgis-2020-osm-daten-in-qgis-nutzen-astrid-em_bCv1SFI.pdf">Vortragsfolien (PDF) </a></p>
             <p>Das Desktop GIS QGIS bietet zahlreiche Möglichkeiten für den Umgang mit Vektor-, Rasterdaten und Diensten.</p>
 <p>Speziell für den Umgang mit OpenStreetMap-Daten liegen einige Möglichkeiten vor. Diese werden meist über Plugins bereitgestellt. </p>
 <p>OSM-Daten können direkt über QuickOSM heruntergeladen werden. Suchmodule liegen vor, um in OSM-Daten zu suchen. OSM-Daten können über QuickMapServices als BaseMap verwendet werden. Routing auf OSM-Daten kann erfolgen. Auswertungen der OSM-Aktivität kann erfolgen. 3D-Karten können generiert werden und Vieles mehr.  </p>

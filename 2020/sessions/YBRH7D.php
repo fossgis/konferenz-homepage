@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/YBRH7D_fossgis_2020_Klemm_Routing_Mapbender_8CvdmJn.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/YBRH7D_fossgis_2020_Klemm_Routing_Mapbender_8CvdmJn.pdf">Vortragsfolien (PDF) </a></p>
             <p>In der Vergangenheit sind mehrere Routing-Lösungen unter der Open-Source-Lizenz entstanden, die auch in der OpenSource-Community weit verbreitet und im Einsatz sind. Ich möchte ein Lösungsansatz darstellen, wo über ein einheitliches Web-Frontend verschiedene Routing-Lösungen angesprochen und benutzt werden können. </p>
 <p>Der Lösungsansatz wird am Beispiel von Mapbender durchgeführt und soll auch Nutzer ansprechen, die eine Routing-Lösung in ihren WebGis benutzen möchten, aber sich nicht mit der Installation und Programmierung von Routing-Lösungen herumschlagen möchten.</p>
 <p>Im Vortrag werden die Anforderungen an das User-Interface erläutert und welche Unterschiede es zwischen den Routing-Lösungen gibt, die betrachtet und später in die Lösung einfließen.</p>

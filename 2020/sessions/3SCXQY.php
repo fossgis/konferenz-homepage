@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/3SCXQY_JOSM-FOSSGIS2020-Legner_LZSSPGf.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/3SCXQY_JOSM-FOSSGIS2020-Legner_LZSSPGf.pdf">Vortragsfolien (PDF) </a></p>
             <p>JOSM ist ein (Offline-)Editor für OpenStreetMap-Daten, der fast so alt wie OpemStreetMap selbst ist und mit dem Projekt gewachsen ist. In diesem Vortrag wird auf die Entwicklung von JOSM eingegangen und dargestellt, welche Herausforderungen im Jahr 2020 zu bewältigen sind. Ebenso wird die JOSM-Community bestehend aus Entwicklung/Quellcode, Übersetzung, Tests, Plugin-Entwicklung, Endbenutzers, Sponsoren,… vorgestellt.</p>
         </section>
 

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/EVHGAH_fossgis_2020_H_C3_A4rdi_Infrastruktur-Mappen_mit_dem_bYswQIU.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/EVHGAH_fossgis_2020_H_C3_A4rdi_Infrastruktur-Mappen_mit_dem_bYswQIU.pdf">Vortragsfolien (PDF) </a></p>
             <p>Was sind die Vorteile des (E-)Bike-Mapping? Wie kann man Objekte mit der Kamera am besten und schnellsten (während der Fahrt) erfassen und präzise georeferenzieren?
 Ich zeige wie ich das Mappen mit GPS, Fotoapparat und E-Bike optimiert habe und welche Vorteile diese Art des Mappen bietet. 
 Im zweiten Teil fokussiere ich auf die Vorteile und Abläufe für das Mappen von Infrastruktur (Gas-Pipeline, Stromnetze). Hier hat das Mappen mit dem Fahrrad große Vorteile: Es sind viele Orte fahrend zugänglich (wo andere Fahrzeuge nicht können oder nicht dürfen) und trotzdem kann ein großes Gebiet erfasst werden.

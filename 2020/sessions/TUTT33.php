@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/TUTT33_routenplanung4_9205cfx.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/TUTT33_routenplanung4_9205cfx.pdf">Vortragsfolien (PDF) </a></p>
             <p>Das BRouter Ökosystem wächst langsam aber stetig und hat eine 6-stellige Benutzerzahl erreicht. Wir geben einen kurzen Überblick dieser OSM-basierten Routing-Engine selbst sowie der populärsten Arten, sie zu benutzen. Neben mobilen Karten- und Navigations-Apps  wie OsmAnd, OruxMaps und Locus Maps ist das insbesondere die Web-Anwendung „BRouter-Web“, die zu einem mächtigen Planungs-Werkzeug herangereift ist und sich wachsender Beliebtheit erfreut.</p>
         </section>
 

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/9ZPDW7_Geggus_osmpoidb_eLXQ0dc.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/9ZPDW7_Geggus_osmpoidb_eLXQ0dc.pdf">Vortragsfolien (PDF) </a></p>
             <p>POI-Karten aus Daten des OpenStreetMap-Projektes sind eigentlich eine häufige Anwendung. Um so erstaunlicher ist es, dass es bisher de facto keine verbreitete Vorgehensweise gibt ein kontinuierlich aktualisiertes Backend für solche Karten zu betreiben. Im Vortrag möchte ich deshalb eines vorstellen.</p>
 <p>Zum Einsatz kommen PostGIS, Imposm und einfache CGI-Skripte.</p>
 <p>Das Backend ist im Rahmen der Open Camping Map entstanden, kann aber für beliebige POI-Karten eingesetzt werden.</p>

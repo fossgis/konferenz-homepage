@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/PRCPBP_groebe-Hoehenlinien-FOSSGIS_1DGXbKT.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/PRCPBP_groebe-Hoehenlinien-FOSSGIS_1DGXbKT.pdf">Vortragsfolien (PDF) </a></p>
             <p>Neben der Schummerung sind Höhenlinien die wichtigste kartographische Darstellungsmethode für das Relief in Karten. Die Höhenlinie ist die gedachte Schnittlinie einer horizontalen Ebene mit der Erdoberfläche und liefert eine Grundrissdarstellung verschiedener Geländeformen.
 Anhand von Beispielen wird die Erstellung auf der Basis von digitalen Geländemodellen erklärt und darauf eingegangen wo Optimierungspotential vorhanden ist um ansprechende sowie konsistente Höhenlinien zu erhalten. Die dafür verwendeten Methoden werden erklärt und die Umsetzung mit GDAL und QGIS vorgestellt. Des weiteren wird erläutert wie die Abstände zwischen den Höhenlinien in Abhängigkeit vom Relief und dem Maßstab gewählt werden sollten.</p>
         </section>

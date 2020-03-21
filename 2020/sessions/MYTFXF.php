@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/MYTFXF_2020_fossgis_vortrag_kartenerstellung_praesi_bI8zwZA.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/MYTFXF_2020_fossgis_vortrag_kartenerstellung_praesi_bI8zwZA.pdf">Vortragsfolien (PDF) </a></p>
             <p>In seiner Grundkonzeption geht das Urheberrecht davon aus, dass ein Werk auch eine stoffliche Einheit bildet. Das Gemälde befindet sich auf einer Leinwand, der Text auf einer Buchseite. Auf den ersten Blick ist dies auch in der digitalen Welt nicht anders. Text oder Grafik befinden sich in einer Datei, die dargestellt wird. Auf den zweiten Blick ist die Lage nicht mehr ganz so klar. Bei der Darstellung digitaler Inhalte ist immer auch Software beteiligt. Software genießt aber selbst ebenfalls Urheberrechtsschutz. Datenbanken mit geographischen Informationen und Darstellungeregeln für den Renderer können ebenfalls durchs Urheberrechtsgesetz geschützt sein. Wenn etwas durch das Urheberrechtsgesetz geschützt ist, dann ist eine Nutzung nur unter Berücksichtigung der jeweiligen Lizenz/Nutzungsbedingung möglich. Doch welche Lizenz setzt sich am Ende durch, wenn mehrere Copyleftlizenzen für Software, Daten und Rendererregeln bei der Kartenherstellung aufeinander treffen? Der Vortrag gibt Antworten auf diese Frage ...</p>
         </section>
 

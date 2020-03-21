@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020//attachments/8ZASBP_QGIS_Kartografie-Verbesserungen_2019_-_FOSSGIS__LYHsMgv.pdf">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/8ZASBP_QGIS_Kartografie-Verbesserungen_2019_-_FOSSGIS__LYHsMgv.pdf">Vortragsfolien (PDF) </a></p>
             <p>Im Vortrag werden Verbesserungen aus den folgenden Themenbereichen behandelt:</p>
 <ul>
 <li>Selektives Maskieren bei Beschriftungen und Symbolen</li>
