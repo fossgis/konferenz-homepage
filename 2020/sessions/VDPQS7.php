@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-3028-team-engine-vorstellung-der-neusten-tests-fr-ogc-standards-wie-ogc-api-features-oder-geotiff">
-                    <img class="video-preview" src="/2020/video_previews/3028-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/3028-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

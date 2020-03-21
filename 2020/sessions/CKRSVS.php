@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-4712-dynamik-dynamisches-navigations-und-orientierungssystem-fr-krperlich-beeintrchtigte-menschen-in-innenrumen-von-gebuden">
-                    <img class="video-preview" src="/2020/video_previews/4712-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/4712-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

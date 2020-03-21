@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-3008-routenplanung-mit-brouter-und-brouter-web">
-                    <img class="video-preview" src="/2020/video_previews/3008-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/3008-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

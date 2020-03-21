@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-3072-osgeo-projekt-deegree-2020-neuigkeiten-zu-ogc-api-features">
-                    <img class="video-preview" src="/2020/video_previews/3072-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/3072-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-3004-opener-offene-plattform-fr-die-crowd-basierte-erfassung-von-informationen-zu-barrieren-an-haltestellen-im-pnv">
-                    <img class="video-preview" src="/2020/video_previews/3004-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/3004-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

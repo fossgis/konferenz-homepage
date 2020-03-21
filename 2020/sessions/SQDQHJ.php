@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-2990-qgis-a-sparqling-unicorn-eine-einfhrung-in-linked-open-geodata-zur-integration-von-rdf-in-qgis-plugins">
-                    <img class="video-preview" src="/2020/video_previews/2990-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/2990-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

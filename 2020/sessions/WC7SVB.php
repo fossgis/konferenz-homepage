@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-3050-community-arbeit-ein-einblick-in-die-berliner-osm-fossgis-community">
-                    <img class="video-preview" src="/2020/video_previews/3050-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/3050-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>

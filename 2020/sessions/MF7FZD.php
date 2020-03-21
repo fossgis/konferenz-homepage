@@ -27,7 +27,7 @@
 
                         <div class="video-container">
                 <a href="https://media.ccc.de/v/fossgis2020-3000-wps-fr-kommunale-gdis-eine-fallstudie-ber-den-mehrwert-von-web-processing-services-wps-am-beispiel-der-geodateninfrastruktur-freiburg-gdi-fr-">
-                    <img class="video-preview" src="/2020/video_previews/3000-hd.jpg" alt="Vorschaubild des Videos">
+                    <img class="video-preview" src="video_previews/3000-hd.jpg" alt="Vorschaubild des Videos">
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
