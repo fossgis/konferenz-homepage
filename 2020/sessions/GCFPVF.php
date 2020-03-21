@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/GCFPVF_fossgis_2020_Klemm_fossgis-routing-server-lighn_LnEsXW6.pdf">Vortragsfolien (PDF) </a></p>
             <p>Der Dienst routing.openstreetmap.de startete im 2018 als öffentlicher routing server auf OSRM Basis. Das Ziel: Routing auf openstreetmap.org auf Basis von OSRM anzubieten, mit einem Profil, dass von der community weiter verfeinert wird. Wir stellen vor, wie sich der Dienst unterdessen entwickelt hat und wie er genutzt wird.</p>
         </section>
 

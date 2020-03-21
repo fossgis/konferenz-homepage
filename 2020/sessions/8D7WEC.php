@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/8D7WEC_20_Fossgis_QGIS_Translate_stroebl_bernhard_GMPK1Sk.pdf">Vortragsfolien (PDF) </a></p>
             <p>Ein deutschsprachiges Handbuch ist ein Wunsch, der regelmäßig aus der Anwenderschaft an die QGIS-Anwendergruppe Deutschland herangetragen wird. Letztes Jahr hat sich eine Gruppe gebildet, die diese Übersetzung vorantreiben und aktuell halten will. Der Talk beleuchtet die technischen Herausforderungen, und die dafür gefundenen Lösungen und möchte weitere Anwender dazu motivieren, dem Übersetzungsteam beizutreten.</p>
         </section>
 

@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/ADEWD7_fossgis_2020_Klemm_Neues_zum_LyrkMapstyle_CEi8rKt.pdf">Vortragsfolien (PDF) </a></p>
             <p>Der <a href="https://github.com/lyrk/lyrk-mapstyle">Lyrk-Mapstyle</a>  ist ein OpenStreetMap-Kartenstyle, der auf dem OSM-Bright Style aufsetzt. Seit 2016 wurde das Projekt gestartet,  wurde in den letzten Jahren in neuer Version veröffentlicht.</p>
 <p>Ich erkläre kurz welche Erneuerungen im letzten Release durchgeführt wurden und welche Herausforderungen in der Zukunft auf das Projekt warten.</p>
         </section>

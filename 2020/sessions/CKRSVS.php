@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/CKRSVS_DYNAMIK_Lightningtalk_C0AUPRF.pdf">Vortragsfolien (PDF) </a></p>
             <p>An der TU Chemnitz ist im Januar 2020 ein Projekt gestartet, das sich mit der Entwicklung eines Orientierungssystems für körperlich beeinträchtigte Menschen in Innenräumen von Gebäuden beschäftigt. Im Vortrag wird kurz vorgestellt, wie wir das System umsetzen möchten hinsichtlich der Erhebung von Innenraumkartendaten, der Innenraumpositionierung, der Routenberechnung, der Nutzerführung und der Plattformunabhängigkeit. Dabei sollen Software und Daten aus dem OSM-Bereich eingesetzt und erweitert werden.</p>
         </section>
 

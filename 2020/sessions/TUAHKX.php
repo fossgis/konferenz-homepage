@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/TUAHKX_folien_schraffur_Leiner_claas_y1eQWB2.pdf">Vortragsfolien (PDF) </a></p>
             <p>Gebäude können sehr lang gestreckt sein. Und da sie nicht immer in die gleiche Richtung verlaufen, sehen Gebäudeschraffuren oft merkwürdig aus. Hier wenige ganz lange Striche, dort ganz viele kurze. 
 Mit einem kleinen QGIS-Modellertool lässt sich der Drehwinkel finden, der die Schraffur immer an der längsten Gebäudekante ausrichtet. Das geht natürlich auch für andere Objekte.</p>
         </section>

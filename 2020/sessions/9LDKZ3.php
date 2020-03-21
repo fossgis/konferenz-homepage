@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/9LDKZ3_lightning-talk-foss-nutzen-lars-roskoden_HqDom95.pdf">Vortragsfolien (PDF) </a></p>
             <p>Dieser Lightning Talk möchte neben den hier auf der Konferenz beleuchtenten FOSS im GIS-Bereich auf weitere FOSS-Anwendungen hinweisen, die man auch in anderen Lebenslagen als Endanwender nutzen kann.</p>
 <p>FOSS ist gelebte Demokratie: viele Menschen entscheiden nach mehr oder weniger ausgiebigen Diskussionen zu einem bestimmten Thema innerhalb ihres Arbeits- bzw. Fachbereichs mehrheitlich über Regeln, Strategien und Ziele. Jedefrau kann sich einbringen.</p>
 <p>Im GIS-Bereich sind in den letzten Jahren bzw. Jahrzehnten mit OpentStreetMap und QGIS zwei sehr erfolgreiche und andwenderfreundliche Sphären entstanden.</p>

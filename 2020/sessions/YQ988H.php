@@ -31,7 +31,7 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/None">Vortragsfolien (PDF) </a></p>
+                        <p><a href="/2020/attachments/YQ988H_lightning-talk-wo-is-qgis_dMkBkmJ.pdf">Vortragsfolien (PDF) </a></p>
             <p>QGIS ist überall! Aber wo genau? QGIS kommt in zahlreichen Bereichen zum Einsatz und ist mit das Top Thema auf der FOSSGIS-Konferenz. </p>
 <p>Der QGIS-DE will es nun genauer wissen. Wo ist QGIS im Einsatz, welche Aufgaben werden damit gelöst, sind die Nutzer zufrieden?</p>
         </section>
