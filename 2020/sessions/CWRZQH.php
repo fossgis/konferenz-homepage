@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Jörg Thomsen</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 12:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Anatomie</p>
 
-            
+                        <p><a href="/2020//attachments/CWRZQH_mapserver_statusbericht__sk1zHEk.pdf">Vortragsfolien</a></p>
             <p>MapServer ist jetzt 26 alt wird nach wie vor vielfältig als WMS, WFS, WCS eingesetzt. Projekte aus seinem Umfeld (tiny-ows, MapCache) erweitern seine Funktionen. Außerdem wird auch MapServer selbst stetig weiter entwickelt und quasi ständig gibt es neue Funktionen und Konfigurationsmöglichkeiten zu entdecken.</p>
 <p>MapServer als Software und Projekt wird kurz vorgestellt, gefolgt von einem Überblick über die wichtigsten Änderungen in der Konfiguration, die sich seit Version 7.0 ergeben haben. Es wird auchdie Frage geklärt, wie man als Interessietrer selbst an diese Informationen heran kommen kann und wo sich womöglich die Dokumentation zu neuen Funtkionen finden lässt (wenn sie noch nicht in der offiziellen Doku angekommen ist).</p>
 <p>Highlights aus dem Changelog:</p>

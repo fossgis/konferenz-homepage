@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Jan Suleiman, Daniel Koch</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
-            
+                        
             <p>Docker hat sich in vielen Bereichen zu einem äußerst nützlichen Werkzeug für den
 isolierten Betrieb von Anwendungen über Containerisierung herausgestellt und
 mittlerweile mehr als nur bewährt. Vorteile von Docker sind dabei u.a. die

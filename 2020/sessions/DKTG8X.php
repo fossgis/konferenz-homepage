@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Marco Hugentobler</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        <p><a href="/2020//attachments/DKTG8X_vector_overlay_mit_qgis_Agkq2Vn.pdf">Vortragsfolien</a></p>
             <p>Vektorverschneidung gehört zu den grundlegenden GIS-Analysefunktionen. Dennoch kommt es in der Praxis häufig zu unangenehmen Überraschungen, zum einen wegen numerischen Problemen der verwendeten Funktionen, zum anderen weil die Verschneidungsoperationen sehr rechenintensiv sein können. Dieser Vortrag stellt die verschiedenen Vektorverschneidungsfunktionen im Verarbeitungsmodul von QGIS vor und analysiert anhand von praktischen Beispielen deren Stärken und Schwächen.</p>
         </section>
 
