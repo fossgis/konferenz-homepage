@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Lightning Talk</span> von                <span class='abstract-speakers'>Bernhard Ströbl</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 18:10 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        <p><a href="/2020/None">Vortragsfolien</a></p>
             <p>Ein deutschsprachiges Handbuch ist ein Wunsch, der regelmäßig aus der Anwenderschaft an die QGIS-Anwendergruppe Deutschland herangetragen wird. Letztes Jahr hat sich eine Gruppe gebildet, die diese Übersetzung vorantreiben und aktuell halten will. Der Talk beleuchtet die technischen Herausforderungen, und die dafür gefundenen Lösungen und möchte weitere Anwender dazu motivieren, dem Übersetzungsteam beizutreten.</p>
         </section>
 

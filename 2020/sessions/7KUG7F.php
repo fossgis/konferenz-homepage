@@ -25,7 +25,7 @@
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Falk Zscheile</span></p>
                 <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
-            
+                        
             <p>Die Georeferenzierung von unterschiedlichsten Fachinformationen mit der Möglichkeit diese über die geographische Position in Beziehung zueinander zu setzen, macht das besondere Potential geographischer Informationen aus.</p>
 <p>Sobald hier personenbezogene Informationen ins Spiel kommen, sind an die Verarbeitung geographischer Informationen besondere Anforderungen zu stellen.</p>
 <p>Bei der Verknüpfung von Sachinformationen mit Grundstücken oder Adressen ist die Abgrenzung zwischen Sachinformation und personenbezogener Information besonders schwierig. Ein Personenbezug lässt sich hier über die entsprechenden Register (Kataster, Grundbuch) oder Adressverzeichnisse zu Eigentümern und Mietern herstellen.</p>

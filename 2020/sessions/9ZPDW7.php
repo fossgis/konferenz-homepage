@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Sven Geggus</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 10:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Weismannhaus</p>
 
-            
+                        <p><a href="/2020//attachments/9ZPDW7_Geggus_osmpoidb_eLXQ0dc.pdf">Vortragsfolien</a></p>
             <p>POI-Karten aus Daten des OpenStreetMap-Projektes sind eigentlich eine häufige Anwendung. Um so erstaunlicher ist es, dass es bisher de facto keine verbreitete Vorgehensweise gibt ein kontinuierlich aktualisiertes Backend für solche Karten zu betreiben. Im Vortrag möchte ich deshalb eines vorstellen.</p>
 <p>Zum Einsatz kommen PostGIS, Imposm und einfache CGI-Skripte.</p>
 <p>Das Backend ist im Rahmen der Open Camping Map entstanden, kann aber für beliebige POI-Karten eingesetzt werden.</p>

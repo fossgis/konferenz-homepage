@@ -25,7 +25,7 @@
                                 <span class='abstract-speakers'>Thomas Baumann</span></p>
                             <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 15:30 Uhr<br><span class='abstract-room-heading'>Ort: </span>HS Rundbau</p>
 
-            
+                        
             <p>Seit Anfang 2016 habe ich bei einem mittelständischen Unternehmen QGIS als professionelles GIS mit Schwerpunkt Planung im Bereich des Breitbandausbaus eingeführt.</p>
 <p>In diesem Vortrag würde ich gerne über den Weg berichten vom anfänglichen „fear, uncertainty and doubt“-Phänomen über erste Teilerfolge hin zu Akzeptanz von QGIS als etabliertes Werkzeug zur Unterstützung der Planer. Beleuchtet werden soll auch die technische Umsetzung mit Themen wie:</p>
 <ul>
