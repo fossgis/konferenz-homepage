@@ -15,9 +15,11 @@
 <body id="programm">
         <?php include "../inc/header.inc"; ?>
 
-        <p>
-                    <a href="programm/mittwoch.php">Mittwoch</a>                    <a href="programm/donnerstag.php">Donnerstag</a>                    Freitag                    <a href="programm/samstag.php">Samstag</a>        
+        <p> <a href="programm/mittwoch.php">Mittwoch</a> <a href="programm/donnerstag.php">Donnerstag</a> Freitag <a href="programm/samstag.php">Samstag</a></p>
+
         <h2>Freitag, den 13.03.2020</h2>
+
+        
 
             <table class="program-table">
             <thead>
