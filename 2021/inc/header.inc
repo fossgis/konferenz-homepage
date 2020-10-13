@@ -1,6 +1,6 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2020">
-		<img class="page-logo" src="./img/fossgis21-logo.png">
+		<img class="page-logo" src="./img/FOSSGIS Konferenz Logo 2021_BGw.png">
 	</a>
 	<h1 class="page-title">
 		FOSSGIS-Konferenz 2021<br>

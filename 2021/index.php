@@ -49,13 +49,13 @@
 
             <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>	
 
-		<p>Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS als hybrides Veranstaltungsformat geplant, d.h. es wird möglich sein nach Rapperswil zu reisen oder auch online teilzunehmen.</p>
+		<p>Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS als hybride Veranstaltung geplant, d.h. es wird möglich sein nach Rapperswil zu reisen oder online teilzunehmen.</p>
 
            <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
 			<h3>Werden Sie Sponsor!</h3>
-            <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Wenn Sie die FOSSGIS-Konferenz 2021 mit einem Sponsoring unterstützen wollen, wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.
-                
+            <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Wenn Sie die FOSSGIS-Konferenz 2021 mit einem Sponsoring unterstützen wollen, informieren Sie sich in der     <a href="data/Sponsoreninformationen_FOSSGIS-2021.pdf">Sponsoringbroschüre</a> zu den Bedingungen. Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
+  
 
 
         <?php include('inc/footer.inc'); ?>
