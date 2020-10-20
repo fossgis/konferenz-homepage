@@ -1,6 +1,6 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2020">
-		<img class="page-logo" src="./img/fossgis20-logo.png">
+		<img class="page-logo" src="./img/fossgis2020-bollenhut.png">
 	</a>
 	<h1 class="page-title">
 		FOSSGIS-Konferenz 2020<br>
@@ -14,15 +14,15 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<li id="navAnmeldung">
+		<!--<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
-		</li>
+		</li>-->
 		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
-		<li id="navAnreise">
+		<!--<li id="navAnreise">
 			<a href="./anreise/">Anreise</a>
-		</li>
+		</li>-->
 		<li id="navStandort">
 			<a href="./standort/">Standort</a>
 		</li>
