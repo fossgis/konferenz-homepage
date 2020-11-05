@@ -201,11 +201,6 @@ Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer
 			</a>
 		</li>
 		<li class="tile media">
-			<a href="https://yagajs.org/" target="_blank">
-				<img src="./img/s/404_yaga_logo.png" alt="YAGA Development-Team">
-			</a>
-		</li>
-		<li class="tile media">
 			<a href="https://www.vag-freiburg.de" target="_blank">
 				<img src="./img/s/407_VAG freiburg_Logo.png" alt="VAG Freiburg">
 			</a>
