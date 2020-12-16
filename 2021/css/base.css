@@ -153,6 +153,7 @@ footer .main > li {
 .tile {
 	margin: 10px;
 }
+.tile.platin,
 .tile.gold,
 .tile.silver,
 .tile.bronze,
@@ -173,12 +174,24 @@ footer .main > li {
 	padding: 10px;
 	text-align: center;
 }
+.tile.platin:hover,
 .tile.gold:hover,
 .tile.silver:hover,
 .tile.bronze:hover,
 .tile.media:hover {
 	box-shadow: 0 0 0 1px #eb7f00;
 }
+.tile.platin {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 400px;
+	flex: 0 0 400px;
+	height: 200px;
+}
+.tile.platin img {
+	max-width: 390px;
+	max-height: 190px;
+}
+
 .tile.gold {
 	-webkit-box-flex: 0;
 	-ms-flex: 0 0 360px;

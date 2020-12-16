@@ -53,8 +53,32 @@
 
            <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
-			<h3>Werden Sie Sponsor!</h3>
-            <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Wenn Sie die FOSSGIS-Konferenz 2021 mit einem Sponsoring unterstützen wollen, informieren Sie sich in der     <a href="data/Sponsoreninformationen_FOSSGIS-2021.pdf">Sponsoringbroschüre</a> zu den Bedingungen. Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
+		<h3>Sponsoren der FOSSGIS-Konferenz</h3>
+		<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p><br>
+
+<h4 class="highlight">Platinsponsoren</h4>
+	<ul class="tiles">
+		<li class="tile platin">
+			<a href="https://www.camptocamp.com" target="_blank">
+				<img src="./img/s/001_camptocamp_lang.jpg" alt="camptocamp">
+			</a>
+		</li>
+		<li class="tile platin">
+			<p> Könnte hier etwas Text zum Sponsor stehen?</p>
+		</li>
+<li class="tile platin">
+			<a href="https://www.wheregroup.com" target="_blank">
+				<img src="./img/s/002_WhereGroup-quer.png" alt="WhereGroup">
+			</a>
+		</li>
+<li class="tile platin">
+			<p> Oder sieht das doof aus?</p>
+		</li>
+	
+
+			<h4 class="highlight">Werden Sie Sponsor!</h4>
+            <p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Die Informationen für Sponsoren und Aussteller finden Sie in der <a href="data/Sponsoreninformationen_FOSSGIS-2021.pdf">Sponsoringbroschüre</a>. <br> 
+			Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
   
 
 
