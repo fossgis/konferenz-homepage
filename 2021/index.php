@@ -63,11 +63,11 @@
 						<img src="./img/s/001_camptocamp_logo.png" alt="camptocamp">
 						</a>
 					</li>
-			<!--		<li class="tile platin">
+					<li class="tile platin">
 						<a href="https://www.wheregroup.com" target="_blank">
 						<img src="./img/s/002_WhereGroup-zentriert.jpg" alt="WhereGroup">
 						</a>
-					</li>-->
+					</li>
 				</ul>
 			
 	<!--		<h4 class="highlight">Goldsponsoren</h4>
