@@ -114,6 +114,11 @@
 						<img src="./img/s/401_mundialis.png" alt="mundialis">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="http://www.lingner.eu/" target="_blank">
+						<img src="./img/s/402_mapwebbing_logo.png" alt="mapwebbing">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">   </h4>
