@@ -98,9 +98,8 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 			<li>Einreichungen werden nach inhaltlichen Kriterien bewertet. Daher ist eine aussagekräftige Beschreibung wichtig. </li>
 			<li>Beiträge von Sponsoren werden nicht bevorzugt behandelt, die Vorträge dienen nicht der reinen Firmenpräsentation.</li>
 			<li>Mitglieder des Programm-Komitees bewerten nicht ihre eigenen Beiträge sowie die ihrer Kollegen und Verwandten.</li>
-	
-
-
+			<li>Erstmals wird ein Community-Voting stattfinden. Das Ergebnis wird vom Programm-Komitee als Stimmungsbild aus der Community einbezogen.</li>
+			
 			<h3>Zusätzlich für Workshops:</h3>
 			<li>Wir bevorzugen Workshops zu aktuellen und nachgefragten Themen.</li>
 			<li>Die geschätzte Nachfrage auf Basis der Vorjahre hat einen erheblichen Einfluss auf die Auswahl.</li>
@@ -110,7 +109,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<p>Wir sind bestrebt ein ausgewogenes und informatives Programm anzubieten.</p>
 
-	<p>Neue Vortragende sind willkommen! Wir wünschen uns in jeder Hinsicht Vielfalt unter den Vortragenden. Daher freuen wir uns besonders über Einreichungen von Personen, die noch nicht oder noch nicht oft vorgetragen haben. Sollten Sie sich unsicher sein, zögern Sie nicht das Programm-Komitee zu kontaktieren (<a href="mailto:pko@fossgis.de">E-Mail</a>, Telefon: +49 30-62932037</p>
+	<p>Neue Vortragende sind willkommen! Wir wünschen uns in jeder Hinsicht Vielfalt unter den Vortragenden. Daher freuen wir uns besonders über Einreichungen von Personen, die noch nicht oder noch nicht oft vorgetragen haben. Sollten Sie sich unsicher sein, zögern Sie nicht das Programm-Komitee zu kontaktieren (<a href="mailto:pko@fossgis.de">E-Mail</a>, Telefon: +49 30-62932037)</p>
 
 	<p>Die Konferenzsprache ist Deutsch. In Ausnahmefällen können Beiträge auf Englisch erfolgen.</p>
 
