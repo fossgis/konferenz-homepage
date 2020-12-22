@@ -123,7 +123,7 @@
 
 			<h4 class="highlight">   </h4>
 			<h3>Werden Sie Sponsor!</h3>
-           		 <p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Sie finden Informationen für Sponsoren und Aussteller in der 					 <a href="data/Sponsoreninformationen_FOSSGIS-2021.pdf">Sponsoringbroschüre</a>. <br> 
+           		 <p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Sie finden Informationen für Sponsoren und Aussteller in der 					 <a href="data/Sponsoreninformationen_FOSSGIS-2021.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, können Sie die <a href="data/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2021.pdf">Sponsoringvereinbarung hier</a> herunterladen.<br>
 					Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
   
   
