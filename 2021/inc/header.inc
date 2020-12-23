@@ -14,6 +14,9 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
+		<li id="navProgramm">
+		<a href="./programm/">Call for Participation</a>
+		</li>
 		<!--<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
 		</li>
