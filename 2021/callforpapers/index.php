@@ -19,7 +19,8 @@
 
 	<h2> Call for Participation für die FOSSGIS-Konferenz 2021 ist geöffnet</h2>
 
-	<p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2021/cfp">&rarr;hier geht es direkt zur Einreichung&rarr;</a></p>
+
+	<p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2021/cfp">Link zum Einreichungsformular</a></p>
 
     <p>Die FOSSGIS-Konferenz ist die größte deutschsprachige Konferenz für OpenStreetMap und Open-Source-Software für Geoinformationen und wird im Jahr 2021 zum 15. Mal veranstaltet.
 Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Community und die Ostschweizer Fachhochschule in Rapperswil.</p>
@@ -175,7 +176,9 @@ Sollten Sie remote teilnehmen, haben Sie die Möglichkeit den Vortrag live vorzu
 
 	<p>Wir freuen uns auf Ihre Einreichung für ein spannendes Programm!</p>
 
+
 	<p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2021/cfp">Link zum Einreichungsformular</a></p>
+
 
 	
 
