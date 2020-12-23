@@ -17,7 +17,7 @@
 <body>
     <?php include "../inc/header.inc"; ?>
 
-	<h2> Call for Participation für die FOSSGIS-Konferenz 2021 ist geöffnet</h2>
+	<h2>Call for Participation</h2>
 
 
 	<p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2021/cfp">Link zum Einreichungsformular</a></p>
@@ -164,7 +164,8 @@ Sollten Sie remote teilnehmen, haben Sie die Möglichkeit den Vortrag live vorzu
 
 	<h2>Termine und Fristen</h2>
 	<ul>
-		<li>7.Februar 2021: Ende des Call for Participation (Achtung: keine Verlängerung)</li>
+		<li>am 7. Februar 2021 endet der Call for Participation (Achtung: keine Verlängerung)</li>
+		<li>Februar 2021: Community-Voting</li>
 		<li>Februar bis März 2021: Bewertung und Programmgestaltung durch das Programm-Komitee </li>
 		<li>bis Mitte März 2021: Benachrichtigung der Vortragenden (Zusagen/Absagen)</li>
 		<li>April 2021: Programmveröffentlichung und Start des Ticketverkaufs</li>
