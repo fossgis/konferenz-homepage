@@ -95,12 +95,12 @@
 						<img src="./img/s/201_terrestris.png" alt="terrestris">
 						</a>
 					</li>
-				<!--	<li class="tile silver">
-						<a href="Link" target="_blank">
-						<img src="./img/s/xxx.png" alt="malsehen">
+				<li class="tile silver">
+						<a href="https://geops.ch/" target="_blank">
+						<img src="./img/s/202_geOps.png" alt="geOps">
 						</a>
 					</li>
-					<li class="tile silver">
+				<!--		<li class="tile silver">
 						<a href="Link" target="_blank">
 						<img src="./img/s/xxx.png" alt="malsehen">
 						</a>
@@ -117,6 +117,11 @@
 					<li class="tile bronze">
 						<a href="http://www.lingner.eu/" target="_blank">
 						<img src="./img/s/402_mapwebbing_logo.png" alt="mapwebbing">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="https://www.komoot.com" target="_blank">
+						<img src="./img/s/403_komoot.png" alt="komoot">
 						</a>
 					</li>
 				</ul>
