@@ -100,6 +100,11 @@
 						<img src="./img/s/202_geOps.png" alt="geOps">
 						</a>
 					</li>
+				<li class="tile silver">
+						<a href="http://www.geoinfo.ch/" target="_blank">
+						<img src="./img/s/203_Geoinfo_Logo.png" alt="GEOINFO">
+						</a>
+					</li>
 				<!--		<li class="tile silver">
 						<a href="Link" target="_blank">
 						<img src="./img/s/xxx.png" alt="malsehen">
