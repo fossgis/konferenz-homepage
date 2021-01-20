@@ -129,6 +129,11 @@
 						<img src="./img/s/403_komoot.png" alt="komoot">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.gbd-consult.de/" target="_blank">
+						<img src="./img/s/404_GBD.png" alt="Geoinformatikbüro Dassau">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">   </h4>
