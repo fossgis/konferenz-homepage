@@ -7,6 +7,7 @@ html {
 
 body {
 	font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1600 - 300)));
+	background-color: white;
 	color: #333;
 	padding: 0 10px;
 	line-height: calc(1.4em + (1.5 - 1.4) * ((100vw - 300px)/(1600 - 300)));
