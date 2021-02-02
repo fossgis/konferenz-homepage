@@ -95,21 +95,21 @@
 						<img src="./img/s/201_terrestris.png" alt="terrestris">
 						</a>
 					</li>
-				<li class="tile silver">
+					<li class="tile silver">
 						<a href="https://geops.ch/" target="_blank">
 						<img src="./img/s/202_geOps.png" alt="geOps">
 						</a>
 					</li>
-				<li class="tile silver">
+					<li class="tile silver">
 						<a href="http://www.geoinfo.ch/" target="_blank">
 						<img src="./img/s/203_Geoinfo_Logo.png" alt="GEOINFO">
 						</a>
 					</li>
-				<!--		<li class="tile silver">
-						<a href="Link" target="_blank">
-						<img src="./img/s/xxx.png" alt="malsehen">
-						</a>
-					</li>-->
+					<li class="tile silver">
+						<a href="https://nti.biz/de/" target="_blank">
+						<img src="./img/s/204_nti_cwsm.png" alt="NTI CWSM GmbH">
+				</a>
+				</li>
 				</ul>
 
 			<h4 class="highlight">Bronzesponsoren</h4>
