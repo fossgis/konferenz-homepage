@@ -134,6 +134,11 @@
 						<img src="./img/s/404_GBD.png" alt="Geoinformatikbüro Dassau">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.lat-lon.de" target="_blank">
+						<img src="./img/s/405_logo_latlon_web.png" alt="lat/lon gesellschaft für raumbezogene Informationssysteme mbH">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">   </h4>
