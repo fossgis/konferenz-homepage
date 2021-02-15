@@ -139,6 +139,11 @@
 						<img src="./img/s/405_logo_latlon_web.png" alt="lat/lon gesellschaft für raumbezogene Informationssysteme mbH">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.esri.ch/de-ch/home" target="_blank">
+						<img src="./img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" alt="Esri Schweiz AG">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">   </h4>
