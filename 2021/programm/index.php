@@ -17,36 +17,20 @@
 
 	<h2>Programm</h2>
 
-	<p>Das Konferenz-Programm wird voraussichtlich im Februar/März veröffentlicht.</p>
-		<!--<ul>
-		<li>
-		 href-old "https://pretalx.com/fossgis2019/schedule/#2019-03-13" "https://pretalx.com/fossgis2019/speaker/"
-			<a href="programm/mittwoch.php">Mittwoch, 11.03.2020</a>
-		</li>
-		<li>
-			<a href="programm/donnerstag.php">Donnerstag, 12.03.2020</a>
-		</li>
-		<li>
-			<a href="programm/freitag.php">Freitag, 13.03.2020</a>
-		</li>
-		<li>
-			<a href="programm/samstag.php" target="_blank" rel="noopener nofollow">OSM-Samstag, 14.03.2020</a>
-		</li>
-		<!--<li>
-			<a href="" target="_blank" rel="noopener nofollow">Referenten</a>
-		</li>
-	</ul>
+	<p>Das Konferenz-Programm wird voraussichtlich Ende März/Anfang April veröffentlicht.</p>
+
+	<h3>Öffentliche Abstimmung zu den eingereichten Beiträgen</h3>
+	<p>Erstmals findet ein Community-Voting (Öffentliche Abstimmung) zu den eingereichten Beiträgen statt. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.</p>
+		<ul><b>Dies geht ganz einfach:</b>
+		
+		<li>1. Diesen <a href="https://pretalx.com/fossgis2021/p/voting/signup/">Link</a> zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden. </li> 
+		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung.</li> 
+		<li> 3. Einreichungen anschauen und bewerten, dies kann in Etappen erfolgen.</li> 
+		</ul>
+		<p>Das Community-Voting ist bis zum 01.03.2021 möglich.</p> 
 
 
-	<h3>Livestream und Videomitschnitt</h3>
-	<p>Die FOSSGIS-Konferenz 2020 wurde live gestreamt, jetzt stehen die aufgezeichneten Vorträge als Videoaufzeichnung zur <a href="https://media.ccc.de/b/conferences/geo/fossgis2020"> 
-Verfügung</a>. sowie auch auf <a href="https://www.youtube.com/results?search_query=FOSSGIS+2020">YouTube</a>. Danke an das Videoteam für die tolle Arbeit! </p>
 
-	<h3>Tagungsband</h3>
-<p>Den Tagungsband finden Sie als E-Book hier <a href="https://www.fossgis-konferenz.de/2020/data/FOSSGIS_Tagungsband_2020.pdf">zum Download</a>.</p>
-	
-<h3>Fotos</h3>
-<p>Der Fotostream der FOSSGIS-Konferenz ist auf <a href="https://www.flickr.com/groups/3127102@N20/pool/"> Flickr</a> zu finden. Fotos können mit dem Tag #FOSSGIS2020 hinzugefügt werden. -->
 
 	<?php include "../inc/footer.inc"; ?>
 

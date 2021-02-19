@@ -49,7 +49,7 @@
 
             <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>	
 
-		<p>Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS als hybride Veranstaltung geplant, d.h. es wird möglich sein nach Rapperswil zu reisen oder online teilzunehmen.</p>
+			<p>Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS ausschließlich als Online-Event stattfinden. Es wird die Möglichkeit geben den Campus Rapperswil virtuell zu erkunden, lassen Sie sich überraschen.</p>
 
            <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 

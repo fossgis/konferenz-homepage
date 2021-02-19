@@ -4,8 +4,8 @@
 	</a>
 	<h1 class="page-title">
 		FOSSGIS-Konferenz 2021<br>
-		<span class="amp">Rapperswil</span> <br>
-		<span class="amp">06.&ndash;09. Juni</span>
+		<span class="amp">Online-Event</span> <br>
+		<span class="main">06.&ndash;09. Juni</span>
 	</h1>
 </header>
 
@@ -14,16 +14,16 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<li id="navProgramm">
+		<!--<li id="navProgramm">
 		<a href="./callforpapers/">Call for Participation</a>
 		</li>
 		<!--<li id="navAnmeldung">
-			<a href="./anmeldung/">Anmeldung</a>
+			<a href="./anmeldung/">Anmeldung</a>-->
 		</li>
 		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
-		<li id="navAnreise">
+		<!--<li id="navAnreise">
 			<a href="./anreise/">Anreise</a>
 		</li>
 		<li id="navStandort">
