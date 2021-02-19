@@ -17,12 +17,11 @@
 <body>
     <?php include "../inc/header.inc"; ?>
 
-	<h2>Call for Participation</h2>
+	<h2>Call for Participation ist vorbei</h2>
 
+	<p>Vielen Dank für die interessanten Einreichungen!</p>
 
-	<p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2021/cfp">Link zum Einreichungsformular</a></p>
-
-    <p>Die FOSSGIS-Konferenz ist die größte deutschsprachige Konferenz für OpenStreetMap und Open-Source-Software für Geoinformationen und wird im Jahr 2021 zum 15. Mal veranstaltet.
+	<p>Die FOSSGIS-Konferenz ist die größte deutschsprachige Konferenz für OpenStreetMap und Open-Source-Software für Geoinformationen und wird im Jahr 2021 zum 15. Mal veranstaltet.
 Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Community und die Ostschweizer Fachhochschule in Rapperswil.</p>
 
 <p>Die FOSSGIS-Konferenz ist eine Community-Konferenz und Plattform für neue Ideen, Projekte und Erfahrungsberichte. Sie wird größtenteils ehrenamtlich organisiert und getragen. Die Veranstaltung fördert die Wissensvermittlung zu Freier und Open-Source-Software für Geoinformationssysteme (FOSSGIS) und treibt so die Verbreitung dieser Software voran.</p>
@@ -31,7 +30,7 @@ Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Co
 
 <p>Die Konferenz findet vom Montag, dem 7. Juni bis Mittwoch, dem 9. Juni 2021 mit Vorträgen, Workshops, Demo-Sessions und Anwendertreffen in Rapperswil und gleichzeitig als Online-Event statt. An diesen vier Tagen treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs- und Einsatzmöglichkeiten und diskutieren neuste Entwicklungen. Die gleichzeitig stattfindende Firmen- und Projektausstellung ermöglicht einen direkten Kontakt zu Dienstleistern und Projekten.</p>
 
-    <p>Der Call for Participation läuft bis zum 7. Februar 2021.</p>
+    <p>Der Call for Participation lief bis zum 7. Februar 2021.</p>
 
     <h2>Themenbereiche</h2>
 
@@ -165,7 +164,7 @@ Sollten Sie remote teilnehmen, haben Sie die Möglichkeit den Vortrag live vorzu
 	<h2>Termine und Fristen</h2>
 	<ul>
 		<li>am 7. Februar 2021 endet der Call for Participation (Achtung: keine Verlängerung)</li>
-		<li>Februar 2021: Community-Voting</li>
+		<li>bis 01. März 2021: <a href="https://pretalx.com/fossgis2021/p/voting/signup/">Community-Voting</a></li>
 		<li>Februar bis März 2021: Bewertung und Programmgestaltung durch das Programm-Komitee </li>
 		<li>bis Mitte März 2021: Benachrichtigung der Vortragenden (Zusagen/Absagen)</li>
 		<li>April 2021: Programmveröffentlichung und Start des Ticketverkaufs</li>
@@ -175,10 +174,7 @@ Sollten Sie remote teilnehmen, haben Sie die Möglichkeit den Vortrag live vorzu
 
 	<p>Bei Fragen steht das Programm-Komitee gerne per <a href="mailto:pko@fossgis.de"> E-Mail</a> zur Verfügung.</p>
 
-	<p>Wir freuen uns auf Ihre Einreichung für ein spannendes Programm!</p>
-
-
-	<p class="text-right"><a class="btn btn-primary" href="https://pretalx.com/fossgis2021/cfp">Link zum Einreichungsformular</a></p>
+	<p>Vielen Dank für die interessanten Einreichungen!</p>
 
 
 	
