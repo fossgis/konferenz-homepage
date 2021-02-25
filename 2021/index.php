@@ -144,6 +144,11 @@
 						<img src="./img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" alt="Esri Schweiz AG">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.sourcepole.ch/" target="_blank">
+						<img src="./img/s/407_sourcepole_block2.png" alt="sourcepole">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">   </h4>
