@@ -149,6 +149,11 @@
 						<img src="./img/s/407_sourcepole_block2.png" alt="sourcepole">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="http://www.yeymaps.de/" target="_blank">
+						<img src="./img/s/408_YEY-Maps_Logo.png" alt="GeoCockpit UG">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">   </h4>
