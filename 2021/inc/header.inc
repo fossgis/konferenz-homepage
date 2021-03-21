@@ -2,11 +2,11 @@
 	<a href="./" alt="FOSSGIS Konferenz 2020">
 		<img class="page-logo" src="./img/FOSSGIS Konferenz Logo 2021_BGw.png">
 	</a>
-	<h1 class="page-title">
+	<h2 class="page-title">
 		FOSSGIS-Konferenz 2021<br>
 		<span class="amp">Online-Event</span> <br>
 		<span class="main">06.&ndash;09. Juni</span>
-	</h1>
+	</h2>
 </header>
 
 <nav>

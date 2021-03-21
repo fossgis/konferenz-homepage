@@ -45,8 +45,10 @@
 							<h5>Camptocamp Germany GmbH</h5>
 							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
 						</div>
-						<button class="btn btn-sm btn-primary">
-							Details anschauen</button>
+						<a href="expo/camptocamp.php" 
+							class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+							Details anschauen
+						</a>
 					</div>
 				</div>
 			
@@ -58,8 +60,10 @@
 						<div class="feature-content">
 							<h5>Wheregroup GmbH</h5>
 							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<button class="btn btn-sm btn-primary">
-								Details anschauen</button>
+							<a href="expo/camptocamp.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>
 						</div>
 					</div>
 				</div>
@@ -72,8 +76,10 @@
 						<div class="feature-content">
 							<h5>terrestris GmbH & Co. KG</h5>
 							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<button class="btn btn-sm btn-primary">
-								Details anschauen</button>
+							<a href="expo/camptocamp.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>
 						</div>
 					</div>
 				</div>
@@ -86,8 +92,10 @@
 						<div class="feature-content">
 							<h5>geops GmbH</h5>
 							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<button class="btn btn-sm btn-primary">
-								Details anschauen</button>						
+							<a href="expo/camptocamp.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>			
 						</div>
 					</div>
 				</div>
@@ -100,8 +108,10 @@
 						<div class="feature-content">
 							<h5>GeoInfo</h5>
 							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<button class="btn btn-sm btn-primary">
-								Details anschauen</button>						
+							<a href="expo/camptocamp.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
 						</div>
 					</div>
 				</div>
@@ -114,8 +124,10 @@
 						<div class="feature-content">
 							<h5>Sourcepole</h5>
 							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<button class="btn btn-sm btn-primary">
-								Details anschauen</button>
+							<a href="expo/camptocamp.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>
 						</div>
 					</div>
 				</div>
