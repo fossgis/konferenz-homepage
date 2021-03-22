@@ -20,8 +20,11 @@
 
 	<section class="section">
 		<div class="container">
+<img src="http://localhost/konferenz-homepage/2021/expo/img/01_Banner_WhereGroup.jpg" height="500" alt="wheregroup_Banner">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
+		
+	
 					<h3>WhereGroup GmbH</h3>
 					<p>Die WhereGroup gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland.</p>
 <p>Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme und Datenbanken mit freier Software. Angefangen bei der Beratung, Konzeption und Entwicklung bis hin zum Betrieb dynamischer Kartenanwendungen im Intra- und Internet.
