@@ -34,7 +34,7 @@
 				</div>
 			</div>
 
-
+			<h4 class="highlight">Liste der ausstellenden Firmen und Projekte</h4>
 			<div class="row">
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
@@ -43,7 +43,7 @@
 						</div>
 						<div class="feature-content">
 							<h5>Camptocamp GmbH</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores dolores dolores .... </p>
+							<p class="small">Camptocamp gehört zu den führenden Dienstleistern im Bereich Open-Source-GIS und ist in vielen unterschiedlichen Open-Source-Communitys stark engagiert. Unsere Dienstleistungen stützen sich ... </p>
 						</div>
 						<a href="expo/camptocamp.php" 
 							class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
@@ -59,7 +59,7 @@
 						</div>
 						<div class="feature-content">
 							<h5>Wheregroup GmbH</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<p class="small">Die WhereGroup gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland. Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme ...</p>
 							<a href="expo/wheregroup.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
