@@ -47,8 +47,18 @@
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
 						<div class="post-tags">
-							<span class="badge badge-info">QGIS</span>
-							<span class="badge badge-info">Python</span>
+							<span class="badge badge-info">3D</span>
+							<span class="badge badge-info">GIS</span>
+							<span class="badge badge-info">SDI</span>
+							<span class="badge badge-info">Geodaten</span>
+							<span class="badge badge-info">Cesium</span>
+							<span class="badge badge-info">GeoMapFish</span>
+							<span class="badge badge-info">geOrchestra</span>
+							<span class="badge badge-info"> GeoNetwork</span>
+							<span class="badge badge-info">MapServer</span>
+							<span class="badge badge-info">OpenLayers</span>
+							<span class="badge badge-info">PostGIS</span>
+							<span class="badge badge-info">PostgreSQL</span>
 						</div>
 					</div>
 					<div class="mb-4">
@@ -61,14 +71,24 @@
 						<h6 class="font-weight-bold mb-0 pr-3">Social</h6><br>
 						<ul>
 							<li>
-								<a href="#">https://twitter.com/camptocamp<i class="fab fa-twitter"></i></a>
+								<a href="https://twitter.com/camptocamp"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
-								<a href="#"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com/company/camptocamp-sa/"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							<li>
-								<a href="#"><i class="fab fa-instagram"></i></a>
+								<a href="https://www.instagram.com/camptocampsa/"><i class="fab fa-instagram"></i></a>
 							</li>
+							<li>
+								<a href="https://github.com/camptocamp"><i class="fab fa-Github"></i></a>
+							</li>
+							<li>
+								<a href="https://www.youtube.com/user/CamptocampOnline"><i class="fab fa-YouTube"></i></a>
+							</li>
+							<li>
+								<a href="https://www.facebook.com/camptocampsa"><i class="fab fa-Facebook"></i></a>
+							</li>
+
 						</ul>
 					</div>
 				</div>
@@ -81,7 +101,8 @@
 							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<a href="#">Zum Projekt XYZ</a>
+						<p>Zum Video</p>
+						<p><a href="https://www.youtube.com/watch?v=UNyFu-JNxfM">Get to know Camptocamp</a></p>
 						</div>
 					</div>
 				</div>
@@ -91,17 +112,20 @@
 							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<a href="#">Zum Video XYZ</a>
+						<p>Zum Projekt </p>
+						<p><a href="https://www.camptocamp.com/de/erfolgsgeschichten/erfolgsgeschichte-deutsche-telekom">Erfolgsgeschichte Deutsche Telekom</a></p>
 						</div>
 					</div>
 				</div>
+				
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
 							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<a href="#">Zum Projekt XYZ</a>
+						<p>Zum Projekt </p>
+						<p><a href="https://www.camptocamp.com/de/erfolgsgeschichten/erfolgsgeschichte-swisstopo">Erfolgsgeschichte Swisstopo</a></p>
 						</div>
 					</div>
 				</div>											
