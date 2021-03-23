@@ -17,9 +17,11 @@
 
 	<h2>Programm</h2>
 
-	<p>An der Öffentlichen Abstimmung (Community-Voting) haben sich fast 200 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
-
 	<p>Das Konferenz-Programm wird voraussichtlich Ende März/Anfang April veröffentlicht.</p>
+
+	<p>An der Öffentlichen Abstimmung (Community-Voting) haben sich fast 200 Teilnehmer:innen beteiligt. <br>Vielen Dank dafür!</p>
+
+	<p>Hier ist der <a href="https://fossgis-konferenz.de/2021/callforpapers/">Call for Participation</a> zum nachlesen verlinkt.</p>
 		
 	<?php include "../inc/footer.inc"; ?>
 
