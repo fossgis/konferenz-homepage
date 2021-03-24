@@ -70,9 +70,14 @@
 					</li>
 				</ul>
 			
-	<!--		<h4 class="highlight">Goldsponsoren</h4>
+			<h4 class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile gold">
+						<a href="http://www.bkg.bund.de/" target="_blank">
+						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG Bund">
+						</a>
+					</li>
+					<!--		<li class="tile gold">
 						<a href="Link" target="_blank">
 						<img src="./img/s/xxx.png" alt="malsehen">
 						</a>
@@ -81,13 +86,8 @@
 						<a href="Link" target="_blank">
 						<img src="./img/s/xxx.png" alt="malsehen">
 						</a>
-					</li>
-					<li class="tile gold">
-						<a href="Link" target="_blank">
-						<img src="./img/s/xxx.png" alt="malsehen">
-						</a>
-					</li>
-				</ul>-->
+					</li>-->
+				</ul>
 			<h4 class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
 					<li class="tile silver">
