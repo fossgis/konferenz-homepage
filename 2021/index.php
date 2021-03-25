@@ -77,16 +77,11 @@
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG Bund">
 						</a>
 					</li>
-					<!--		<li class="tile gold">
-						<a href="Link" target="_blank">
-						<img src="./img/s/xxx.png" alt="malsehen">
+					<li class="tile gold">
+						<a href="https://www.maptiler.com/" target="_blank">
+						<img src="./img/s/102_Maptiler-logo-FINAL.png" alt="Map Tiler AG">
 						</a>
 					</li>
-					<li class="tile gold">
-						<a href="Link" target="_blank">
-						<img src="./img/s/xxx.png" alt="malsehen">
-						</a>
-					</li>-->
 				</ul>
 			<h4 class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
