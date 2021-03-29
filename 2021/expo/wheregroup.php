@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/expo.css">
+	<link rel="stylesheet" href="./fontawesome/css/all.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
 </head>
 
@@ -51,11 +52,10 @@ Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
 					<div class="mb-4">
 						<h6 class="mb-2">Webseite</h6>
 						<a href="https://www.camptocamp.com">
-							<i class="fas fa-link text-dark pr-1"></i>
 							https://wheregroup.com/</a>
 					</div>
 					<div class="social-icon d-flex align-items-center">
-						<h6 class="font-weight-bold mb-0 pr-3">Social</h6><br>
+						<h6 class="font-weight-bold mt-0 mb-0 pr-3">Social</h6><br>
 						<ul>
 							<li>
 								<a href="#">https://twitter.com/WhereGroup_com<i class="fab fa-twitter"></i></a>
