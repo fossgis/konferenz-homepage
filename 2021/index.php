@@ -150,6 +150,24 @@
 						</a>
 					</li>
 				</ul>
+			<h4 class="highlight">Medienpartner</h4>
+				<ul class="tiles">
+					<li class="tile media">
+						<a href="https://live.osgeo.org/de/index.html" target="_blank">
+						<img src="./img/s/401_OSGeoLive_banner.png" alt="OSGeoLive">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://c3voc.de/" target="_blank">
+						<img src="./img/s/402_voc_square.png" alt="C3VOC">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V." target="_blank">
+						<img src="./img/s/403_TIB.PNG" alt="TIB">
+						</a>
+					</li>
+				</ul>
 
 			<h4 class="highlight">   </h4>
 			<h3>Werden Sie Sponsor!</h3>
