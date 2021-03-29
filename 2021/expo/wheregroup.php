@@ -50,15 +50,15 @@ Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
 						</div>
 					</div>
 					<div class="mb-4">
-						<h6 class="mb-2">Webseite</h6>
+						<h6 class="mb-0">Webseite</h6>
 						<a href="https://www.camptocamp.com">
 							https://wheregroup.com/</a>
 					</div>
-					<div class="social-icon d-flex align-items-center">
-						<h6 class="font-weight-bold mt-0 mb-0 pr-3">Social</h6><br>
+					<div class="social-icon">
+						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href="#">https://twitter.com/WhereGroup_com<i class="fab fa-twitter"></i></a>
+								<a href="https://twitter.com/WhereGroup_com"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
 								<a href="#"><i class="fab fa-linkedin-in"></i></a>

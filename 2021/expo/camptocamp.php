@@ -47,7 +47,7 @@
 							<span class="badge badge-info">Cesium</span>
 							<span class="badge badge-info">GeoMapFish</span>
 							<span class="badge badge-info">geOrchestra</span>
-							<span class="badge badge-info"> GeoNetwork</span>
+							<span class="badge badge-info">GeoNetwork</span>
 							<span class="badge badge-info">MapServer</span>
 							<span class="badge badge-info">OpenLayers</span>
 							<span class="badge badge-info">PostGIS</span>
@@ -55,12 +55,12 @@
 						</div>
 					</div>
 					<div class="mb-4">
-						<h6 class="mb-2">Webseite</h6>
+						<h6 class="mb-0">Webseite</h6>
 						<a href="https://www.camptocamp.com">
 							www.camptocamp.com</a>
 					</div>
-					<div class="social-icon d-flex align-items-center">
-						<h6 class="font-weight-bold mt-0 mb-0 pr-3">Social</h6><br>
+					<div class="social-icon">
+						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
 								<a href="https://twitter.com/camptocamp"><i class="fab fa-twitter"></i></a>
@@ -72,13 +72,13 @@
 								<a href="https://www.instagram.com/camptocampsa/"><i class="fab fa-instagram"></i></a>
 							</li>
 							<li>
-								<a href="https://github.com/camptocamp"><i class="fab fa-Github"></i></a>
+								<a href="https://github.com/camptocamp"><i class="fab fa-github"></i></a>
 							</li>
 							<li>
-								<a href="https://www.youtube.com/user/CamptocampOnline"><i class="fab fa-YouTube"></i></a>
+								<a href="https://www.youtube.com/user/CamptocampOnline"><i class="fab fa-youtube"></i></a>
 							</li>
 							<li>
-								<a href="https://www.facebook.com/camptocampsa"><i class="fab fa-Facebook"></i></a>
+								<a href="https://www.facebook.com/camptocampsa"><i class="fab fa-facebook"></i></a>
 							</li>
 
 						</ul>
