@@ -154,17 +154,17 @@
 				<ul class="tiles">
 					<li class="tile media">
 						<a href="https://live.osgeo.org/de/index.html" target="_blank">
-						<img src="./img/s/401_OSGeoLive_banner.png" alt="OSGeoLive">
+						<img src="./img/s/501_OSGeoLive_banner.png" alt="OSGeoLive">
 						</a>
 					</li>
 					<li class="tile media">
 						<a href="https://c3voc.de/" target="_blank">
-						<img src="./img/s/402_voc_square.png" alt="C3VOC">
+						<img src="./img/s/502_voc_square.png" alt="C3VOC">
 						</a>
 					</li>
 					<li class="tile media">
 						<a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V." target="_blank">
-						<img src="./img/s/403_TIB.PNG" alt="TIB">
+						<img src="./img/s/503_TIB.PNG" alt="TIB">
 						</a>
 					</li>
 				</ul>
