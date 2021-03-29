@@ -42,8 +42,8 @@
 							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-							<h5>Camptocamp GmbH</h5>
-							<p class="small">Camptocamp gehört zu den führenden Dienstleistern im Bereich Open-Source-GIS und ist in vielen unterschiedlichen Open-Source-Communitys stark engagiert. Unsere Dienstleistungen stützen sich ... </p>
+							<h5>Camptocamp</h5>
+							<p class="small"><a href="https://www.camptocamp.com/de/geospatial_solutions">Camptocamp</a> gehört zu den führenden Dienstleistern im Bereich Open-Source-GIS und ist in vielen unterschiedlichen Open-Source-Communitys stark engagiert. Unsere Dienstleistungen stützen sich ... </p>
 						</div>
 						<a href="expo/camptocamp.php" 
 							class="btn btn-sm btn-primary active" role="button" aria-pressed="true">

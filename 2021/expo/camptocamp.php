@@ -25,18 +25,9 @@
 					<h3>Camptocamp</h3>
 					<p>Camptocamp gehört zu den führenden Dienstleistern im Bereich Open-Source-GIS und ist in vielen unterschiedlichen Open-Source-Communitys stark engagiert.
 					</p>
-					<p>Unsere Dienstleistungen stützen sich auf über 15 Jahre Erfahrung in der
-						Umsetzung von innovativen GIS-Lösungen für Behörden und Unternehmen und
-						erlauben einen hochwertigen und individuellen Service. Das Besondere an
-						Camptocamp sind die hochqualifizierten Mitarbeiter und ihr großes Engagement im
-						"`Ökosystem"' der eingesetzten Open-Source Software-Lösungen, indem sehr enge
-					Beziehungen zu den Herstellern der jeweiligen Produkte gepflegt werden.</p>
+					<p>Unsere Dienstleistungen stützen sich auf über 15 Jahre Erfahrung in der Umsetzung von innovativen GIS-Lösungen für Behörden und Unternehmen und erlauben einen hochwertigen und individuellen Service. Das Besondere an Camptocamp sind die hochqualifizierten Mitarbeiter und ihr großes Engagement im "Ökosystem" der eingesetzten Open-Source Software-Lösungen, indem sehr enge Beziehungen zu den Herstellern der jeweiligen Produkte gepflegt werden.</p>
 
-					<p>Um die oft anspruchsvollen Projekte umzusetzen, erstellt Camptocamp
-						individuelle Lösungen, die auf den am besten geeigneten und fortschrittlichsten
-						Open Source-Technologien basieren. Camptcamp ist in München, Lausanne, Olten,
-						Paris und Chambéry vertreten und bietet neben Lösungen im GIS-Bereich auch eine
-					große Expertise im den Bereichen ERP (Enterprise-Resource-Planning) und  IT-Infrastruktur-Lösungen.</p>
+					<p>Um die oft anspruchsvollen Projekte umzusetzen, erstellt Camptocamp individuelle Lösungen, die auf den am besten geeigneten und fortschrittlichsten Open Source-Technologien basieren. Camptcamp ist in München, Lausanne, Olten, Paris und Chambéry vertreten und bietet neben Lösungen im <a href="https://www.camptocamp.com/de/geospatial_solutions">GIS-Bereich</a> auch eine große Expertise im den Bereichen <a href="https://www.camptocamp.com/de/odoo-erp-integration">ERP</a> (Enterprise-Resource-Planning) und <a href="https://www.camptocamp.com/de/infrastructure_solutions_and_services">IT-Infrastruktur-Lösungen</a>.</p>
 
 				</div>	
 
@@ -47,6 +38,7 @@
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
 						<div class="post-tags">
+							<span class="badge badge-info">QGIS</span>
 							<span class="badge badge-info">3D</span>
 							<span class="badge badge-info">GIS</span>
 							<span class="badge badge-info">SDI</span>
@@ -58,7 +50,7 @@
 							<span class="badge badge-info">MapServer</span>
 							<span class="badge badge-info">OpenLayers</span>
 							<span class="badge badge-info">PostGIS</span>
-							<span class="badge badge-info">PostgreSQL</span>
+							<span class="badge badge-info">GeoServer</span>
 						</div>
 					</div>
 					<div class="mb-4">
