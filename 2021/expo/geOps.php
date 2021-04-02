@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="../2021/expo/img/geOps_Headerbild.png" height="394">
+			<img src="https://www.fossgis-konferenz.de/2021/expo/img/geOps_Headerbild.png" height="394" alt="geOps">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>We map the Future</h3>

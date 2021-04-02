@@ -30,10 +30,10 @@
 					<p>Die WhereGroup gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland.</p>
 <p>Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme und Datenbanken mit freier Software. Angefangen bei der Beratung, Konzeption und Entwicklung bis hin zum Betrieb dynamischer Kartenanwendungen im Intra- und Internet.
 Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter Datenverwaltung bis hin zu hochverfügbaren Anwendungen für die freie Wirtschaft und die öffentliche Verwaltung.
-Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.
-Das WhereGroup-Team umfasst über 40 Kollegen unterschiedlicher Fachrichtungen verteilt auf die Standorte Bonn (Hauptsitz), Freiburg und Berlin.
-Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V. und bei der OSGeo.
-Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
+Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
+<p>Das WhereGroup-Team umfasst über 40 Kollegen unterschiedlicher Fachrichtungen verteilt auf die Standorte Bonn (Hauptsitz), Freiburg und Berlin.
+Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V. und bei der OSGeo.</p>
+<p>Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
 					</p>
 					
 				</div>	
@@ -45,14 +45,28 @@ Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
 						<div class="post-tags">
-							<span class="badge badge-info">FOSSAcadamy</span>
-							<span class="badge badge-info">Tag_Eurer_Wahl</span>
+							<span class="badge badge-info">Geo-IT-Dienstleitungen</span>
+							<span class="badge badge-info">Schulungen</span>
+							<span class="badge badge-info">Mapbender</span>
+							<span class="badge badge-info">QGIS</span>
+							<span class="badge badge-info">PostgreSQL/PostGIS</span>
+							<span class="badge badge-info">MapLibre</span>
 						</div>
 					</div>
 					<div class="mb-4">
-						<h6 class="mb-0">Webseite</h6>
-						<a href="https://www.camptocamp.com">
-							https://wheregroup.com/</a>
+						<h6 class="mb-0">Webseite:</h6>
+						<a href="https://wheregroup.com">
+							wheregroup.com/</a>
+						<h6 class="mb-0">WhereGroup Blog:</h6>
+						<a href="https://wheregroup.com/blog/">
+							wheregroup.com/blog/</a>
+
+						<h6 class="mb-0">WhereGroup Infobrief:</h6>
+						<a href="https://wheregroup.com/unternehmen/infobrief/">
+							wheregroup.com/unternehmen/infobrief/</a>
+						<h6 class="mb-0">FOSS Academy:</h6>
+						<a href="https://foss-academy.com/">
+							foss-academy.com/</a>
 					</div>
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
@@ -61,10 +75,7 @@ Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
 								<a href="https://twitter.com/WhereGroup_com"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
-								<a href="#"><i class="fab fa-linkedin-in"></i></a>
-							</li>
-							<li>
-								<a href="#"><i class="fab fa-instagram"></i></a>
+								<a href="https://www.xing.com/pages/wheregroupgmbh-co-kg"><i class="fab fa-xing"></i></a>
 							</li>
 						</ul>
 					</div>
