@@ -58,7 +58,7 @@
 							<img src="https://fossgis-konferenz.de/2021/img/s/002_WhereGroup-zentriert.jpg" title="" alt="">
 						</div>
 						<div class="feature-content">
-							<h5>Wheregroup GmbH</h5>
+							<h5>WhereGroup GmbH</h5>
 							<p class="small">Die WhereGroup gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland. Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme ...</p>
 							<a href="expo/wheregroup.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
