@@ -149,6 +149,11 @@
 						<img src="./img/s/408_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://opencagedata.com/" target="_blank">
+						<img src="./img/s/409_opencage-logo.png" alt="OpenCage">
+						</a>
+					</li>
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
 				<ul class="tiles">
