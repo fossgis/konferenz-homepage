@@ -56,14 +56,13 @@
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
+								<a href="https://github.com/geops"><i class="fab fa-github"></i></a>
+							</li>
+							<li>
 								<a href="https://twitter.com/@geOps"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
 								<a href="https://www.linkedin.com/company/geops"><i class="fab fa-linkedin-in"></i></a>
-							</li>
-							
-							<li>
-								<a href="https://github.com/geops"><i class="fab fa-github"></i></a>
 							</li>
 							<li>
 								<a href="https://www.xing.com/pages/geops"><i class="fab fa-xing"></i></a>
@@ -73,39 +72,40 @@
 					</div>
 				</div>
 			</div>
-
+			<h3>Projekteauswahl</h3>
 			<div class="row">
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
+				
 
-					<div class="expo-box" >
+					<div class="expo-box" style="background-color:#1789C9">
 					
-						<div class="feature-content" background-color="#1789C9">
-						<p><a href="https://geops.de/solution/maps">Maps </a></p>
+						<div class="feature-content" style="color:#ffffff">
+						<p><a href="https://geops.de/solution/maps" style="color:#ffffff"><b>Maps</b> </a></p>
 						<p>Wir erstellen spezialisierte Karten zu verschiedenen thematischen Bereichen, wie Mobilität und öffentlicher Verkehr.</p>
 						</div>
-						<p><a href="https://geops.de/solution/maps">--> </a></p>
+						<p><a href="https://geops.de/solution/maps" style="color:#ffffff"><i class="fas fa-arrow-right"></i>  </a></p>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 
-					<div class="expo-box" >
+					<div class="expo-box" style="background-color:#C8716A">
 					
-						<div class="feature-content" background="#C8716A">
-						<p><a href="https://geops.de/solution/cartaro">Cartaro </a></p>
+						<div class="feature-content" style="color:#ffffff">
+						<p><a href="https://geops.de/solution/cartaro" style="color:#ffffff"><b>Cartaro</b> </a></p>
 						<p>Mit Cartaro bieten wir ein Content Management System, mit dem räumliche Daten verwaltet und publiziert werden können.</p>
-						<p><a href="https://geops.de/solution/cartaro">--> </a></p>
+						<p><a href="https://geops.de/solution/cartaro" style="color:#ffffff"><i class="fas fa-arrow-right"></i> </a></p>
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="feature-content">
+					<div class="expo-box" style="background-color:#444444">
+						<div class="feature-content" style="color:#ffffff">
 						
-						<p><a href="https://geops.de/solution/developer-portal">Developer Portal </a></p>
+						<p><a href="https://geops.de/solution/developer-portal" style="color:#ffffff"><b>Developer Portal</b> </a></p>
 						<p>Unser Developer Portal bietet einen Baukasten aus
 Webdiensten und Open Source Software für Ihre Lösungen.</p>
-						<p><a href="https://geops.de/solution/developer-portal">--></a></p>
+						<p><a href="https://geops.de/solution/developer-portal" style="color:#ffffff"><i class="fas fa-arrow-right"></i> </a></p>
 						</div>
 
 					</div>
