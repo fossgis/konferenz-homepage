@@ -27,7 +27,7 @@
 	<p>Die FOSSGIS-Konferenz findet vom 6.-9. Juni 2021 ausschließlich Online statt. Dazu nutzen wir die Online-Plattform Venueless. Der Zugang wird Ihnen über den Ticketbuchungslink am Vortag der Konferenz als Link zur Verfügung gestellt. Sie benötigen einen Zugang zum Internet sowie einen aktuellen Browser.<br>
 		Hier finden Sie Preise, Informationen zum Online-Event, Bildungsurlaub und wie Sie Helfer:in werden. </p>
 	
-	<p>Die Anmeldung zur Konferenz wird voraussichtlich am 09. April freigeschaltet. Sie finden das Buchungsformular dann direkt unten auf dieser Seite.</p>
+	<p>Die Anmeldung zur Konferenz wird voraussichtlich am 12. April freigeschaltet. Sie finden das Buchungsformular dann direkt unten auf dieser Seite.</p>
 
 	<!--<p class="highlight">
 		&darr; <a href="#shop">Direkt zur Anmeldung</a>
@@ -38,11 +38,11 @@
 	<h3>Preise FOSSGIS-Konferenz 2021</h3>
 	<ul>
 		<li>Online-Konferenzticket (Normalpreis): 80 € </li>
-		<li>Online-Konferenzticket (Frühbucherrabatt zwei Wochen nach Start der Anmeldung bis zum ...): 70 € </li>
-		<li>Online-Konferenzticket (reduzierter Preis): 15 € </li>
-		<li>Online-Konferenzticket für Community/, Online-Helferticket<sup>**</sup>: € 0</li>
+		<li>Online-Konferenzticket (Frühbucherrabatt zwei Wochen nach Start der Anmeldung bis zum 19.04.2021: 70 € </li>
+		<li>Online-Konferenzticket (reduzierter Preis*): 15 € </li>
+		<li>Online-Konferenzticket für Community<sup>**</sup>: € 0</li>
 		<li>Online-Konferenzticket für Helfende<sup>**</sup>: 6 h helfen</li>
-		<li>Online-Workshop*: 120 € </li>
+		<li>Online-Workshop***: 120 € </li>
 	</ul>
 	<p><b>Im Konferenzticket enthalten:</b></p>
 	<ul>
@@ -53,16 +53,17 @@
 	</ul>
 
 	<p>
-		<small>* wenn bestellt und solange verfügbar</small><br>
-		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small>
+		<small>* gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:innen</small><br>
+		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small><br>
+		<small>*** wenn bestellt und solange verfügbar</small>
 	</p>
 
 	<h3>Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen. 
 		<ul>
-		<li><i><b>Browserbasiert</b></i> heißt, Sie benötigen lediglich einen aktuellen Internet-Browser.</li>
-		<li><i><b>OSGeoLive 14.0</b></i> heißt, im Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als Virtuelle Box auf Ihrem Computer laufen. Hier finden Sie eine <a href="http://live.osgeo.org/de/index.html"> Anleitung zur Installation der OSGeoLive.</a></li>
-		<li><i><b>Individuell</b></i>, heißt sie erhalten in der Woche vor der Konferenz eine Mail mit detaillierten Informationen zum Workshop sowie die Möglichkeit in einem Termin Ihre Technik zu checken.</li>
+		<li><i><b>Browserbasiert:</b></i> Sie benötigen lediglich einen aktuellen Internet-Browser.</li>
+		<li><i><b>OSGeoLive 14.0: </b></i> Im Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als Virtuelle Box auf Ihrem Computer laufen. Hier finden Sie eine <a href="http://live.osgeo.org/de/index.html"> Anleitung zur Installation der OSGeoLive.</a></li>
+		<li><i><b>Individuell: </b></i> Sie erhalten in der Woche vor der Konferenz eine Mail mit detaillierten Informationen zum Workshop sowie die Möglichkeit in einem Termin Ihre Technik zu checken.</li>
 		</ul>
   	</p>
 
