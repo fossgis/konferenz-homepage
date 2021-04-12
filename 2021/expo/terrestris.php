@@ -40,7 +40,7 @@
 						<li>Umweltdatenportale</li>
 						<li>Visualisierung von geographischen 3D-Daten im Browser</li>
 						<li>Lösungen für mobile Endgeräte</li>
-						<li>Einsatz und Verwendung freier Geodaten wie OpenStreetMap</li>
+						<li>Einsatz und Verwendung freier Geodaten wie OpenStreetMap.</li>
 					</ul>
 					<p>Technologisch setzen wir unter anderem ein:</p>
 					<ul>
@@ -51,14 +51,14 @@
 						<li>react / react-geo</li>
 						<li>GeoNetwork OpenSource</li>
 						<li>ExtJS / GeoExt </li>
-						<li>PostgreSQL / PostGIS</li>
+						<li>PostgreSQL / PostGIS.</li>
 					</ul>
 					<p>Folgende Dienstleistungen bieten wir an:</p>
 					<ul>
 						<li>Beratung und Konzeption für den Aufbau von Geodateninfrastrukturen</li>
 						<li>Softwareentwicklung</li>
 						<li>Schulungen zu unseren eingesetzten und inhaltlich nahestehenden Technologien </li>
-						<li>Wartung und Support</li>
+						<li>Wartung und Support.</li>
 					</ul>
 
 

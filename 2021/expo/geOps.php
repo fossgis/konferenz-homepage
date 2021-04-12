@@ -21,10 +21,10 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="https://www.fossgis-konferenz.de/2021/expo/img/geOps_Headerbild.png" height="394" alt="geOps">
+			<img src="./expo/img/geOps_Headerbild.png" height="452" alt="geOps">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>We map the Future</h3>
+					<h2>We map the Future</h2>
 					<p>Intelligente Web-Applikationen auf Basis von Geo- und Echtzeitdaten mit den fachlichen Schwerpunkten öffentlicher Verkehr, Mobilität und Umwelt sind die Kernkompetenz von geOps.</p>
 
 					<p>Die Bandbreite reicht dabei von der Datenanalyse und -visualisierung über Auskunfts­systeme und Geschäfts­lösungen bis hin zu kompletten Geo­daten-Infrastrukturen und Daten­drehscheiben. Mit der Integration von Fahrplan- und Echtzeitdaten bietet geOps Fahrgastinformationssysteme des öffentlichen Verkehrs.</p>
@@ -110,7 +110,7 @@ Webdiensten und Open Source Software für Ihre Lösungen.</p>
 
 					</div>
 				</div>			
-				<p>weitere Projekte und Produkte finden Sie hier <a href="https://geops.ch/">>>></a></p>								
+				<p><b>weitere Projekte und Produkte finden Sie hier <a href="https://geops.ch/" style="color:#000000"><i class="fas fa-arrow-right"></i> </a><b></p>								
 			</div>
 		</div>
 
