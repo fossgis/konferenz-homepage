@@ -57,16 +57,7 @@ Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken 
 						<h6 class="mb-0">Webseite:</h6>
 						<a href="https://wheregroup.com">
 							wheregroup.com/</a>
-						<h6 class="mb-0">WhereGroup Blog:</h6>
-						<a href="https://wheregroup.com/blog/">
-							wheregroup.com/blog/</a>
-
-						<h6 class="mb-0">WhereGroup Infobrief:</h6>
-						<a href="https://wheregroup.com/unternehmen/infobrief/">
-							wheregroup.com/unternehmen/infobrief/</a>
-						<h6 class="mb-0">FOSS Academy:</h6>
-						<a href="https://foss-academy.com/">
-							foss-academy.com/</a>
+						
 					</div>
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
@@ -84,32 +75,23 @@ Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken 
 
 			<div class="row">
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/002_WhereGroup-zentriert.jpg" title="" alt="">
-						</div>
+					<div class="expo-box" style="background-color:#ffffff">
 						<div class="feature-content">
-						<a href="#">Zum Projekt XYZ</a>
+						<a href="https://wheregroup.com/blog/">WhereGroup Blog</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/002_WhereGroup-zentriert.jpg" title="" alt="">
-						</div>
+					<div class="expo-box" style="background-color:#ffffff">
 						<div class="feature-content">
-						<a href="#">Zum Video XYZ</a>
+						<a href="https://wheregroup.com/unternehmen/infobrief/">WhereGroup Infobrief</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/002_WhereGroup-zentriert.jpg" title="" alt="">
-						</div>
+					<div class="expo-box" style="background-color:#ffffff">
 						<div class="feature-content">
-						<a href="#">Zum Projekt XYZ</a>
+						<a href="https://foss-academy.com/">FOSS Academy</a>
 						</div>
 					</div>
 				</div>											
