@@ -49,7 +49,7 @@
 		<li>Online-Teilnahme (sie müssen nichts installieren, ein aktueller Browser reicht)</li>
 		<li>Chatmöglichkeiten mit den Teilnehmenden</li>
 		<li>Zugang zur <i>Netzwerkwelt</i> (dafür sind Kamera und Mikrofon hilfreich)</li>
-		<li>Tagungsband*</li>
+		<li>Tagungsband***</li>
 	</ul>
 
 	<p>
