@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2021 - Social Events</title>
+	<title>FOSSGIS 2021 - Rahmenprogramm - Social Events</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -16,36 +16,33 @@
 
 	<?php include "../inc/header.inc"; ?>
 
-	<h2>Social Events</h2>
+	<h2>Rahmenprogramm und Social Events</h2>
 
-	<p>Die Social Events der FOSSGIS-Konferenz werden in den nächsten Monaten hier erscheinen</p>
+	<h4>OSM-Event</h4>
+
+	<p>Am Sonntag, den 06. Juni findet von 10 bis 16 Uhr die beliebte OSM-Unconference als Online-Veranstaltung statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2021/OSM-Sonntag">OSM-Wiki</a>. Für das leibliche Wohl muss diesmal jeder selbst sorgen. Wir bitten um Anmeldung über das FOSSGIS-Konferenz-Teilnahmeanmeldesystem. </p>
 	
-<!--
+
 	<h4>Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am xx 2021 ab 18:30/19 Uhr alle schon angereisten Konferenzbesucher willkommen in xxxx zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend des 06. Juni laden wir Sie ein zum virtuellen "Warmup in der Netzwerkwelt". Nutzen Sie die Möglichkeit sich in der Onlineplattform umzuschauen und in der Netzwerkwelt andere Teilnehmende zu treffen. Bei Fragen finden Sie Hilfe am InfoDesk. Der Zugang wird in Ihrem Ticketbestelllink zur Verfügung gestellt. </p>
 	
 
-	<h4 Abendveranstaltung </h4>
-	<p>Ort und Zeit: </p>
-	<p>Die Abendveranstaltung <em>schöner Name</em> ... Der Eintritt ist im
-	FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. Dies wird bei der
-	Ticketbuchung abgefragt.</p>
+	<h4>Abendveranstaltung </h4>
+	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt. Auch wenn die FOSSGIS im Jahr 2021 ausschließlich online stattfindet, soll es für die Teilnehmenden die Möglichkeit geben sich bei einer Abendveranstaltung zu treffen. </p>
+
+	<p>Am 07.06.2021 laden wir Sie von 20 -23 Uhr zur Abendveranstaltung "Netzwerkweltdialoge" ein. Der gesamte virtuelle Campus Rapperswil steht zum Flanieren und Treffen zu Verfügung, auch ein Partyraum wird eingerichtet.</p>
+	<p>Live-Acts oder musikalische Beiträge sind im Partyraum der Netzwerkwelt möglich. Wer etwas beitragen möchte, meldet sich beim <a href="mailto:konferenz-orga@fossgis.de"> Konferenzorgateam</a>.</p>
+		
+	<h4>Diskussionspanel</h4>
+	<p>Am Dienstagabend wird ein Diskussionspanel stattfinden. Das Thema wird im Programm bekannt gegeben</p>
+	
+	<h4>Anwendertreffen</h4>
+	<p>Es können Anwendertreffen, Sprints und BOFs selber organisiert werden. Räume stehen virtuell zur Verfügung, bitte <a href="mailto:konferenz-orga@fossgis.de">per E-Mail</a> beim Konferenzteam anfragen. </p>
 
 	
-	<h4>Fototermin </H4>
-	<p>Circa. 15 Uhr</p>
-
-	<h4>FOSSGIS e.V. Mitgliederversammlung</h4>
-	<p>ab ...</p>
-
 	
-	<h4 id="sektempfang">Sektempfang am FOSSGIS-Stand </h4>
-	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 15:00 Uhr herzlich zum Sektausklang eingeladen.</p>
 
-	
-	<h4>OSM-Samstag </h4>-->
-	
 	<?php include "../inc/footer.inc"; ?>
 
 </body>
