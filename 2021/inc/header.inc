@@ -29,11 +29,11 @@
 		</li>
 		<li id="navStandort">
 			<a href="./standort/">Standort</a>
-		</li>
+		</li>-->
 		<li id="navEvents">
-			<a href="./socialevents/">Social Events</a>
+			<a href="./socialevents/">Rahmenprogramm</a>
 		</li>
-		<li id="navTeam">
+		<!--<li id="navTeam">
 			<a href="./loc/loc.php">Team</a>
 		</li>-->
 	</ul>

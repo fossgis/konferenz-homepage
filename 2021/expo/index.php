@@ -160,7 +160,71 @@
 							</a>				
 						</div>
 					</div>
-				</div>-->
+				</div>
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/409_opencage-logo.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>OpenCage</h5>
+							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<a href="expo/OpenCage.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/203_Geoinfo_Logo.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>GEOINFO AG</h5>
+							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<a href="expo/GEOINFO.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>ESRI Schweiz</h5>
+							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<a href="expo/esri.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/102_Maptiler-logo-FINAL.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>MapTiler AG</h5>
+							<p class="small">MapTiler ist eine Software-Plattform für die Erstellung von digitalen Karten. Unsere Karten und Tools für Developer sind basiert auf Open-Source, und lassen sich für jeden Anwendungsfall anpassen.</p>
+							<a href="expo/maptiler.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
+
+
+
+-->
 
 				
 			</div>

@@ -20,7 +20,7 @@
 
 	<h4>OSM-Event</h4>
 
-	<p>Am Sonntag, den 06. Juni findet von 10 bis 16 Uhr die beliebte OSM-Unconference als Online-Veranstaltung statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2021/OSM-Sonntag">OSM-Wiki</a>. Für das leibliche Wohl muss diesmal jeder selbst sorgen. Wir bitten um Anmeldung über das FOSSGIS-Konferenz-Teilnahmeanmeldesystem. </p>
+	<p>Am Sonntag, den 06. Juni findet von 10 bis 16 Uhr die beliebte OSM-Unconference als Online-Veranstaltung statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Für das leibliche Wohl muss diesmal jeder selbst sorgen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2021/OSM-Sonntag">OSM-Wiki</a>. Wir bitten um <a href="https://fossgis-konferenz.de/2021/anmeldung/">Anmeldung</a>.</p>
 	
 
 	<h4>Inoffizieller Start</h4>
