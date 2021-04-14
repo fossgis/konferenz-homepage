@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <title>FOSSGIS 2020</title>
+        <title>FOSSGIS 2021</title>
         <meta name="description" content="FOSSGIS ist die Abkürzung für Freie und Open Source Software für Geoinformationssysteme und ist die führende Konferenz zu diesem Thema im deutschsprachigen Raum.">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
