@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="http://www.fossgis-konferenz.de/2021/expo/img/ESRI_Headergrafik.png" alt="Headerbild_ESRI">
+			<img src="http://www.fossgis-konferenz.de/2021/expo/img/ESRI_Headergrafik.png" class="img-fluid" height="370" alt="Headerbild_ESRI">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>ESRI</h3>
@@ -42,7 +42,7 @@
 
 				<div class="col-lg-3">
 					<div class="icon mt-3">
-						<img src="./img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" title="Vorlage" alt="Vorlage">
+						<img src="./img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" title="ESRI" alt="ESRI">
 					</div>
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
@@ -56,7 +56,7 @@
 					<div class="mb-4">
 						<h6 class="mb-0">Webseite</h6>
 						<a href="https://www.esri.ch/de-ch/home">
-							https://www.esri.ch/de-ch/home</a>
+							www.esri.ch/de-ch/home</a>
 					</div>
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>

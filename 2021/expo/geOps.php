@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="./expo/img/geOps_Headerbild.png" height="452" alt="geOps">
+			<img src="./expo/img/geOps_Headerbild.png" class="img-fluid" alt="geOps">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h2>We map the Future</h2>
@@ -40,12 +40,12 @@
 						<img src="./img/s/202_geOps.png" title="geOps" alt="geOps">
 					</div>
 					<div class="mb-4">
-						<h6 class="mb-2">Tags</h6>
-						<div class="post-tags">
+							<!--<h6 class="mb-2">Tags</h6>
+							<div class="post-tags">
 							<span class="badge badge-info">...</span>
 							<span class="badge badge-info">...</span>
 							<span class="badge badge-info">...</span>
-						</div>
+						</div>-->
 					</div>
 					<div class="mb-4">
 						<h6 class="mb-0">Webseite</h6>

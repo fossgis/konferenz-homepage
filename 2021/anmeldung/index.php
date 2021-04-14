@@ -58,7 +58,7 @@
 		<small>*** wenn bestellt und solange verfügbar</small>
 	</p>
 
-	<h3>Workshop buchen</h3>
+	<h3 id="Workshop">Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen. 
 		<ul>
 		<li><i><b>Browserbasiert:</b></i> Sie benötigen lediglich einen aktuellen Internet-Browser.</li>

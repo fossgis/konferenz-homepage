@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-<img src="http://www.fossgis-konferenz.de/2021/expo/img/01_Banner_WhereGroup.jpg" height="500" alt="wheregroup_Banner">
+<img src="http://www.fossgis-konferenz.de/2021/expo/img/01_Banner_WhereGroup.jpg" class="img-fluid" alt="wheregroup_Banner">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 		
@@ -33,7 +33,7 @@ Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter 
 Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
 <p>Das WhereGroup-Team umfasst über 40 Kollegen unterschiedlicher Fachrichtungen verteilt auf die Standorte Bonn (Hauptsitz), Freiburg und Berlin.
 Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V. und bei der OSGeo.</p>
-<p>Mehr zur WhereGroup unter www.wheregroup.com und www.foss-academy.com.
+<p>Mehr zur WhereGroup unter <a href="www.wheregroup.com">www.wheregroup.com</a> und <a href="www.foss-academy.com">www.foss-academy.com</a>.
 					</p>
 					
 				</div>	
@@ -56,7 +56,7 @@ Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken 
 					<div class="mb-4">
 						<h6 class="mb-0">Webseite:</h6>
 						<a href="https://wheregroup.com">
-							wheregroup.com/</a>
+							wheregroup.com</a>
 						
 					</div>
 					<div class="social-icon">
