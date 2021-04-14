@@ -38,7 +38,7 @@
 	<h3>Preise FOSSGIS-Konferenz 2021</h3>
 	<ul>
 		<li>Online-Konferenzticket (Normalpreis): 80 € </li>
-		<li>Online-Konferenzticket (Frühbucherrabatt zwei Wochen nach Start der Anmeldung bis zum 19.04.2021: 70 € </li>
+		<li>Online-Konferenzticket (Frühbucherrabatt bis zum 23.04.2021: 70 € </li>
 		<li>Online-Konferenzticket (reduzierter Preis*): 15 € </li>
 		<li>Online-Konferenzticket für Community<sup>**</sup>: € 0</li>
 		<li>Online-Konferenzticket für Helfende<sup>**</sup>: 6 h helfen</li>
