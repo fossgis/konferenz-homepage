@@ -27,7 +27,7 @@
 	<p>Die FOSSGIS-Konferenz findet vom 6.-9. Juni 2021 ausschließlich Online statt. Dazu nutzen wir die Online-Plattform Venueless. Der Zugang wird Ihnen über den Ticketbuchungslink am Vortag der Konferenz als Link zur Verfügung gestellt. Sie benötigen einen Zugang zum Internet sowie einen aktuellen Browser.<br>
 		Hier finden Sie Preise, Informationen zum Online-Event, Bildungsurlaub und wie Sie Helfer:in werden. </p>
 	
-	<p>Die Anmeldung zur Konferenz wird voraussichtlich am 12. April freigeschaltet. Sie finden das Buchungsformular dann direkt unten auf dieser Seite.</p>
+	<p>Die Anmeldung zur Konferenz wird voraussichtlich am 15. April freigeschaltet. Sie finden das Buchungsformular dann direkt unten auf dieser Seite.</p>
 
 	<!--<p class="highlight">
 		&darr; <a href="#shop">Direkt zur Anmeldung</a>
