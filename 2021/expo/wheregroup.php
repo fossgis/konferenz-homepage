@@ -29,10 +29,10 @@
 					<h3>WhereGroup GmbH</h3>
 					<p>Die WhereGroup gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland.</p>
 <p>Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme und Datenbanken mit freier Software. Angefangen bei der Beratung, Konzeption und Entwicklung bis hin zum Betrieb dynamischer Kartenanwendungen im Intra- und Internet.
-Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter Datenverwaltung bis hin zu hochverfügbaren Anwendungen für die freie Wirtschaft und die öffentliche Verwaltung.
-Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
-<p>Das WhereGroup-Team umfasst über 40 Kollegen unterschiedlicher Fachrichtungen verteilt auf die Standorte Bonn (Hauptsitz), Freiburg und Berlin.
-Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V. und bei der OSGeo.</p>
+Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter Datenverwaltung bis hin zu hochverfügbaren Anwendungen für die freie Wirtschaft und die öffentliche Verwaltung.</p>
+<p>Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
+<p>Das WhereGroup-Team umfasst über 40 Kollegen unterschiedlicher Fachrichtungen verteilt auf die Standorte Bonn (Hauptsitz), Freiburg und Berlin.</p>
+<p>Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V. und bei der OSGeo.</p>
 <p>Mehr zur WhereGroup unter <a href="www.wheregroup.com">www.wheregroup.com</a> und <a href="www.foss-academy.com">www.foss-academy.com</a>.
 					</p>
 					
@@ -51,6 +51,8 @@ Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken 
 							<span class="badge badge-info">QGIS</span>
 							<span class="badge badge-info">PostgreSQL/PostGIS</span>
 							<span class="badge badge-info">MapLibre</span>
+							<span class="badge badge-info">OSM</span>
+							<span class="badge badge-info">Mobile Maps</span>
 						</div>
 					</div>
 					<div class="mb-4">
@@ -76,22 +78,35 @@ Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken 
 			<div class="row">
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box" style="background-color:#ffffff">
+						<div class="project-tile d-flex align-items-center justify-content-center">
+							<img src="./expo/img/wg_blog.png" title="" alt="">
+						</div>
 						<div class="feature-content">
-						<a href="https://wheregroup.com/blog/">WhereGroup Blog</a>
+						<p>Tipps & Tricks von Experten:</p>
+						<a href="https://wheregroup.com/blog/">WhereGroup-Blog lesen</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box" style="background-color:#ffffff">
+						<div class="project-tile d-flex align-items-center justify-content-center">
+							<img src="./expo/img/wg_laufend.png" title="" alt="">
+						</div>
 						<div class="feature-content">
-						<a href="https://wheregroup.com/unternehmen/infobrief/">WhereGroup Infobrief</a>
+						<p>Auf dem Laufenden bleiben:</p>
+						<a href="https://wheregroup.com/unternehmen/infobrief/">Newsletter abonnieren</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box" style="background-color:#ffffff">
+						<div class="project-tile d-flex align-items-center justify-content-center">
+							<img src="./expo/img/wg_FA.png" title="" alt="">
+						</div>
 						<div class="feature-content">
-						<a href="https://foss-academy.com/">FOSS Academy</a>
+						<p>Know-how aufbauen:</p>
+						<a href="https://foss-academy.com/">
+Schulungen der FOSS Academy buchen</a>
 						</div>
 					</div>
 				</div>											
