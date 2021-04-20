@@ -19,8 +19,11 @@
 
 	<p><a href="https://fossgis-konferenz.de/2021/expo">Zurück zur Ausstellerliste</a>.</p>
 
+
+
 	<section class="section">
 		<div class="container">
+			<img src="./expo/img/MapTiler_FOSSGIS_Header.png" class="img-fluid" alt="MapTiler_Header">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>MapTiler AG</h3>
@@ -68,6 +71,7 @@
 							<li>
 								<a href="https://www.linkedin.com/company/maptiler?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web"><i class="fab fa-linkedin-in"></i></a>
 							</li>
+							<li>
 								<a href="https://www.youtube.com/channel/UCubcQeWuBKvqpMu172CLEXw?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web"><i class="fab fa-youtube"></i></a>
 							</li>
 							<li>

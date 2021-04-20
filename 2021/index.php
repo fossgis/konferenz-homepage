@@ -78,7 +78,7 @@
 						</a>
 					</li>
 					<li class="tile gold">
-						<a href="https://www.maptiler.com/" target="_blank">
+						<a href="https://maptiler.ch?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web" target="_blank">
 						<img src="./img/s/102_Maptiler-logo-FINAL.png" alt="Map Tiler AG">
 						</a>
 					</li>
