@@ -21,10 +21,10 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="./expo/img/virutelleExpo_mundialis.png" class="img-fluid" alt="wheregroup_Banner">
+			<img src="./expo/img/virutelleExpo_mundialis.png" class="img-fluid" alt="mundialis">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>mundialis</h3>
+					<h3>mundialis GmbH & Co. KG</h3>
 					<p>Die Firma <a href="https://www.mundialis.de">mundialis GmbH & Co. KG</a> ist auf die Auswertung von Fernerkundungsdaten und die Verarbeitung von voluminösen Geodaten unter Zuhilfenahme leistungsstarker Rechenzentren (actinia) spezialisiert. Ziel von mundialis ist es, verschiedenen Personengruppen, den Zugang zu den umfangreichen Fernerkundungsdaten zu ermöglichen.</p>
 
 					<h4>Inhaltliche Schwerpunkte</h4>
@@ -87,7 +87,7 @@
 							<img src="./expo/img/projektlogo_mundialis.png" class="img-fluid" title="mundialis" alt="mundialis">
 						</div>
 						<div class="feature-content">
-						<p>Projekt<a href="https://lst.mundialis.de/">lst</a></p>
+						<p>Projekt <a href="https://lst.mundialis.de/">lst</a></p>
 						</div>
 					</div>
 				</div>
