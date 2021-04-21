@@ -19,7 +19,7 @@ Run the following command in your terminal:
 docker-compose up -d
 ```
 
-After that you can access the website with your browser, e.g. [`http://localhost/2019`](https://lcaolhost/2019). You are
+After that you can access the website with your browser, e.g. [`http://localhost/2019`](https://localhost/2019). You are
 able to change content in this project and see the changes in your browser after a reload.
 
 When you are finished you can stop the server by running the following command in your terminal:
