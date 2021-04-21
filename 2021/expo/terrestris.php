@@ -60,8 +60,6 @@
 						<li>Schulungen zu unseren eingesetzten und inhaltlich nahestehenden Technologien </li>
 						<li>Wartung und Support.</li>
 					</ul>
-
-
 				
 				</div>	
 
@@ -78,9 +76,10 @@
 							<span class="badge badge-info">Geodaten</span>
 							<span class="badge badge-info">Cesium</span>
 							<span class="badge badge-info">GeoServer</span>
-							<span class="badge badge-info">Openlayers</span>
+							<span class="badge badge-info">OpenLayers</span>
 							<span class="badge badge-info">PostGIS</span>
 							<span class="badge badge-info">GeoStyler</span>
+							<span class="badge badge-info">react-geo</span>
 						</div>
 
 					</div>

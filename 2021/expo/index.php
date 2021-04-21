@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2021 - Standort</title>
+	<title>FOSSGIS 2021 - Aussteller</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -59,7 +59,7 @@
 						</div>
 						<div class="feature-content">
 							<h5>WhereGroup GmbH</h5>
-							<p class="small">Die WhereGroup gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland. Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme ...</p>
+							<p class="small">Die <a href="https://wheregroup.com/">WhereGroup</a> gehört zu den führenden Anbietern von Geoinformationssystemen mit Open-Source-Software in Deutschland. Wir bieten alle Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme ...</p>
 							<a href="expo/wheregroup.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
@@ -68,14 +68,18 @@
 					</div>
 				</div>
 
-			<!--	<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/201_terrestris.png" title="" alt="">
+							<img src="https://fossgis-konferenz.de/2021/img/s/201_terrestris.png" title="terrestris GmbH & Co. KG" alt="Logo der Firma terrestris GmbH & Co. KG">
 						</div>
 						<div class="feature-content">
-							<h5>terrestris GmbH & Co. KG</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<h5>terrestris GmbH &amp; Co. KG</h5>
+							<p class="small"><a href="https://www.terrestris.de/" title="Homepage von terrestris">terrestris</a> bietet
+							Dienstleistungen, Produkte und maßgeschneiderte Entwicklungen mit Freier
+							und Open Source Software an. Ein Fokus liegt insbesondere auf der Verarbeitung
+							sowie Darstellung raumbezogener Daten mit Geoinformationssystemen (GIS) in allen
+							Ausprägungen.</p>
 							<a href="expo/terrestris.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
@@ -87,11 +91,15 @@
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/401_mundialis.png" title="" alt="">
+							<img src="https://fossgis-konferenz.de/2021/img/s/401_mundialis.png" title="mundialis GmbH & Co. KG" alt="Logo der Firma mundialis GmbH & Co. KG">
 						</div>
 						<div class="feature-content">
 							<h5>mundialis GmbH & Co. KG</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<p class="small">Die Firma <a href="https://www.mundialis.de" title="Homepage von mundialis">mundialis</a> ist auf
+							die Auswertung von Fernerkundungsdaten und die Verarbeitung von voluminösen Geodaten
+							unter Zuhilfenahme leistungsstarker Rechenzentren (meist mittels
+							<a href="https://actinia.mundialis.de/" title="the cloud based geoprocessing platform actinia">actinia</a>)
+							spezialisiert.</p>
 							<a href="expo/mundialis.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
@@ -99,6 +107,8 @@
 						</div>
 					</div>
 				</div>
+
+				<!--
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="icon d-flex align-items-center justify-content-center">
