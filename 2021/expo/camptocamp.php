@@ -21,12 +21,13 @@
 
 	<section class="section">
 		<div class="container">
+			<img src="./expo/img/camptocamp_Headerbild.jpg" class="img-fluid" alt="camptocamp_Headerbild">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Camptocamp</h3>
 					<p>Camptocamp gehört zu den führenden Dienstleistern im Bereich Open-Source-GIS und ist in vielen unterschiedlichen Open-Source-Communitys stark engagiert.
 					</p>
-					<p>Unsere Dienstleistungen stützen sich auf über 15 Jahre Erfahrung in der Umsetzung von innovativen GIS-Lösungen für Behörden und Unternehmen und erlauben einen hochwertigen und individuellen Service. Das Besondere an Camptocamp sind die hochqualifizierten Mitarbeiter und ihr großes Engagement im "Ökosystem" der eingesetzten Open-Source Software-Lösungen, indem sehr enge Beziehungen zu den Herstellern der jeweiligen Produkte gepflegt werden.</p>
+					<p>Unsere Dienstleistungen stützen sich auf 20 Jahre Erfahrung in der Umsetzung von innovativen GIS-Lösungen für Behörden und Unternehmen und erlauben einen hochwertigen und individuellen Service. Das Besondere an Camptocamp sind die hochqualifizierten Mitarbeiter und ihr großes Engagement im "Ökosystem" der eingesetzten Open-Source Software-Lösungen, indem sehr enge Beziehungen zu den Herstellern der jeweiligen Produkte gepflegt werden.</p>
 
 					<p>Um die oft anspruchsvollen Projekte umzusetzen, erstellt Camptocamp individuelle Lösungen, die auf den am besten geeigneten und fortschrittlichsten Open Source-Technologien basieren. Camptcamp ist in München, Lausanne, Olten, Paris und Chambéry vertreten und bietet neben Lösungen im <a href="https://www.camptocamp.com/de/geospatial_solutions">GIS-Bereich</a> auch eine große Expertise im den Bereichen <a href="https://www.camptocamp.com/de/odoo-erp-integration">ERP</a> (Enterprise-Resource-Planning) und <a href="https://www.camptocamp.com/de/infrastructure_solutions_and_services">IT-Infrastruktur-Lösungen</a>.</p>
 
@@ -34,7 +35,7 @@
 
 				<div class="col-lg-3">
 					<div class="icon mt-3">
-						<img src="./img/s/001_camptocamp_logo.png" title="" alt="">
+						<img src="./img/s/001_camptocamp_logo.png" title="camptocamp" alt="camptocamp">
 					</div>
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
@@ -58,6 +59,11 @@
 						<h6 class="mb-0">Webseite</h6>
 						<a href="https://www.camptocamp.com">
 							www.camptocamp.com</a>
+						<h6 class="mb-0">News</h6>
+						<a href="https://www.camptocamp.com/de/news">
+							https://www.camptocamp.com/de/news</a>
+
+
 					</div>
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
@@ -90,21 +96,19 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
+							<img src="./expo/img/camptocamp_mountain_für_Video.png" title="camptocamp" alt="camptocamp">
 						</div>
 						<div class="feature-content">
-						<p>Zum Video</p>
-						<p><a href="https://www.youtube.com/watch?v=UNyFu-JNxfM">Get to know Camptocamp</a></p>
+						<p><a href="https://www.youtube.com/watch?v=UNyFu-JNxfM">Get to know <br>Camptocamp</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
+							<img src="./expo/img/camptocamp_customerjourney_deutschetelekom_new.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
 						<p><a href="https://www.camptocamp.com/de/erfolgsgeschichten/erfolgsgeschichte-deutsche-telekom">Erfolgsgeschichte Deutsche Telekom</a></p>
 						</div>
 					</div>
@@ -113,10 +117,9 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/001_camptocamp_logo.png" title="" alt="">
+							<img src="./expo/img/camptocamp_customerjourney_swisstopo_new.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
 						<p><a href="https://www.camptocamp.com/de/erfolgsgeschichten/erfolgsgeschichte-swisstopo">Erfolgsgeschichte Swisstopo</a></p>
 						</div>
 					</div>

@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-<img src="http://www.fossgis-konferenz.de/2021/expo/img/01_Banner_WhereGroup.jpg" class="img-fluid" alt="wheregroup_Banner">
+			<img src="http://www.fossgis-konferenz.de/2021/expo/img/01_Banner_WhereGroup.jpg" class="img-fluid" alt="wheregroup_Banner">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 		
@@ -40,7 +40,7 @@ Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter 
 
 				<div class="col-lg-3">
 					<div class="icon mt-3">
-						<img src="./img/s/002_WhereGroup-zentriert.jpg" title="" alt="">
+						<img src="./img/s/002_WhereGroup-zentriert.jpg" title="wheregroup" alt="wheregroup">
 					</div>
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
@@ -79,7 +79,7 @@ Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter 
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box" style="background-color:#ffffff">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/wg_blog.png" title="" alt="">
+							<img src="./expo/img/wg_blog.png" title="wheregroup blog" alt="wheregroup blog">
 						</div>
 						<div class="feature-content">
 						<p>Tipps & Tricks von Experten:</p>
@@ -90,7 +90,7 @@ Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter 
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box" style="background-color:#ffffff">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/wg_laufend.png" title="" alt="">
+							<img src="./expo/img/wg_laufend.png" title="wheregroup news" alt="wheregroup news">
 						</div>
 						<div class="feature-content">
 						<p>Auf dem Laufenden bleiben:</p>
@@ -101,7 +101,7 @@ Dabei reicht das Spektrum unserer Lösungen von Geoportalen und kartenbasierter 
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box" style="background-color:#ffffff">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/wg_FA.png" title="" alt="">
+							<img src="./expo/img/wg_FA.png" title="wheregroup FOSS Academy" alt="wheregroup FOSS Academy">
 						</div>
 						<div class="feature-content">
 						<p>Know-how aufbauen:</p>

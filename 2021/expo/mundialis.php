@@ -87,7 +87,7 @@
 							<img src="./expo/img/projektlogo_mundialis.png" class="img-fluid" title="mundialis" alt="mundialis">
 						</div>
 						<div class="feature-content">
-						<p>Projekt <a href="https://lst.mundialis.de/">lst</a></p>
+						<p>Projekt <a href="https://lst.mundialis.de/">Land Surface Temperature</a></p>
 						</div>
 					</div>
 				</div>

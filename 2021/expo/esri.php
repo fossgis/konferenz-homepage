@@ -25,19 +25,16 @@
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>ESRI</h3>
-			<!--		<p><b>Firmenprofil Esri Deutschland GmbH </b></p>
-					<p>Für raumbezogenes Analysieren, Planen und Entscheiden sind Geoinformationslösungen basierend auf ArcGIS von Esri die erste Wahl für Privatwirtschaft, Verwaltung und Wissenschaft. Anpassungsfähigkeit, Intuitivität und Integrationsfähigkeit kennzeichnen den Industriestandard ArcGIS: mobil, auf dem Desktop und auf Serverebene. Mehr als eine Million Anwender weltweit wissen dies zu schätzen.</p>
+					<p>Esri ist weltweiter Marktführer von Geoinformationssystemen, welche unter dem Namen ArcGIS als je eine Produktfamilie für den Cloud-, Server- und den Desktop-Bereich zusammengefasst werden. Anpassungsfähigkeit, Intuitivität und Integrationsfähigkeit kennzeichnen den Industriestandard ArcGIS. Mehr als eine Million Anwender weltweit wissen dies zu schätzen. Mit über 100 Niederlassungen in weltweit 67 Ländern unterstützt Esri Organisationen des privaten und öffentlichen Sektors, Big Data sowie Echtzeit- und raumbezogene Daten in gewinnbringende Informationen zu verwandeln, um so die operativen und geschäftlichen Ergebnisse zu verbessern.</p>
 
-<p>Die Esri Deutschland GmbH mit Sitz in Kranzberg bei München vertreibt als Distributor die Produkte von Esri Inc. exklusiv über acht Standorte in Deutschland. Esri unterstützt die Anwender mit einem breit gefächerten Schulungs-, Support- und Consultingangebot und dem gesamten Erfahrungsreichtum von mehr als 250 Mitarbeitern. 
-					</p>-->
-					<p><b>Firmenprofil Esri Schweiz AG</b></p>
-<p>Für raumbezogenes Analysieren, Planen und Entscheiden sind Geoinformationslösungen basierend auf ArcGIS von Esri die erste Wahl für Privatwirtschaft, Verwaltung und Wissenschaft. Anpassungsfähigkeit, Intuitivität und Integrationsfähigkeit kennzeichnen den Industriestandard ArcGIS: mobil, auf dem Desktop und auf Serverebene. Mehr als eine Million Anwender weltweit wissen dies zu schätzen.</p>
-<p>Die Esri Schweiz AG mit Sitz in Zürich unterstützt die Anwender mit Vertrieb, Schulungen, Support und Consulting – seit 1993 und mit dem ganzen Erfahrungsreichtum ihrer mehr als 50 Mitarbeiter am Hauptsitz in Zürich und in der Dependance in Nyon bei Genf.</p>
+					<p>Für die FOSSGIS- und OSM-Community sind die OSM-Integration, OpenData-Schnittstellen und OS-APIs von OpenSource-Drittanbietern von grosser Bedeutung.</p>
+					<p>In den letzten Jahren hat Esri OSM Daten in ArcGIS leichter zugänglich gemacht. Esri hostet eine Live-Replik der OpenStreetMap (OSM)-Daten und führte seit über zwei Jahren eine neue OpenStreetMap Vector Basemap ein. Die Karte wird ausschließlich mit OSM-Daten erstellt und ist für alle Benutzer frei verfügbar. Mit dem <u>Vector Tile Style Editor</u> können Developers die OpenStreetMap-Basiskarte auch anpassen. In Zusammenarbeit mit Facebook ermöglicht die aktuelle Version von <u>RapiD </u> und dem <u>MapWithAI Plugin</u> den Zugang zu einer Sammlung offener ArcGIS-Datensätze, die von den Regierungen der lokalen Gebiete freigegeben wurden. Dies bedeutet, dass für die Bearbeitung genauere Gebäudeumrisse oder Hausnummern hinzugefügt werden können.</p>
+	
+					<p>ArcGIS unterstützt mit <u>ArcGIS Online</u> und <u>ArcGIS Hub</u> nicht nur die Interoperabilität aller wichtigen GIS-Datentypen, Formate und Spezifikationen von Daten inklusive den OGC Standards, sondern ermöglicht auch den Austausch und die Arbeit mit offenen Daten, um effektiv zu kommunizieren, vorgeschriebene Transparenzanforderungen zu erfüllen und einen besseren Einblick zu ermöglichen. Esri Inc. stellt zudem mit dem <u>Living Atlas</u> die grösste Sammlung von geografischen Informationen aus aller Welt zur Verfügung. Für die Schweiz stehen standortbasierte offene Daten in der <u>Esri Schweiz Subskription</u> und für Deutschland im <u>Esri Deutschland Open Data Portal</u> zur Verfügung.</p>
 
-				<!--	<p><b>Firmenprofil Esri Deutschland GmbH mit Bezug zu Esri Inc.</b></p>
-					<p>Für raumbezogenes Analysieren, Planen und Entscheiden sind Geoinformationslösungen basierend auf ArcGIS von Esri die erste Wahl für Privatwirtschaft, Verwaltung und Wissenschaft. Anpassungsfähigkeit, Intuitivität und Integrationsfähigkeit kennzeichnen den Industriestandard ArcGIS: mobil, auf dem Desktop und auf Serverebene. Mehr als eine Million Anwender weltweit wissen dies zu schätzen.</p>
-					<p>Die Esri Deutschland GmbH mit Sitz in Kranzberg bei München vertreibt als Distributor die Produkte von Esri Inc. exklusiv über acht Standorte in Deutschland. Esri unterstützt die Anwender mit einem breit gefächerten Schulungs-, Support- und Consultingangebot und dem gesamten Erfahrungsreichtum von mehr als 250 Mitarbeitern. </p>
-					<p>Esri Inc. mit Sitz in Redlands/Kalifornien (USA) gilt als Wegbereiter professioneller Geoinformationslösungen und damit eines modernen Verständnisses der Umwelt sowie ihrer geografischen, kulturellen und ökonomischen Zusammenhänge.</p>-->
+					<p>Zusätzlich zu den eigenen APIs und SDKs unterstützt ArcGIS die wichtigsten Open-Source-Drittanbieter mit Funktionen und Tutorials von Open-Source-JavaScript-Mapping-APIs. Die APIs erlaubt ArcGIS REST Services einfach und kostenlos zu nutzen. ArcGIS-Standortdienste mit Leaflet können durch ein leichtgewichtiges Set von Werkzeugen namens <a href="https://developers.arcgis.com/esri-leaflet/">Esri Leaflet</a> verwendet werden. Mit OpenLayers und ArcGIS Location Services können eine Reihe verschiedener Arten von <a href="https://developers.arcgis.com/openlayers/">Mapping-Anwendungen</a> entwickelt werden. Mit der <a href="https://developers.arcgis.com/mapbox-gl-js/">Mapbox GL JS und ArcGIS Location Services</a> können interaktive Karten aus Vector Tiles erstellt werden.</p>
+
+			
 				</div>	
 
 				<div class="col-lg-3">
@@ -79,41 +76,29 @@
 				</div>
 			</div>
 
-		<!--	<div class="row">
+			<div class="row">
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
-						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="bild.png" title="" alt="">
-						</div>
 						<div class="feature-content">
-						<p>Zum Video</p>
-						<p><a href="Link">...</a></p>
+						<p><a href="https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/arcgis-data-support-in-osm-editors/">Blog ArcGIS Data Support in OSM Editors</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
-						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
-						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="Link">Projekt</a></p>
+						<p><a href="https://livingatlas.arcgis.com/en/home/">Open Data Hub <br>Living Atlas</a></p>
 						</div>
 					</div>
 				</div>
 				
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
-						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
-						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="Link">Projekt</a></p>
+						<p><a href="https://developers.arcgis.com/documentation/mapping-apis-and-services/apis-and-sdks/">Open-Source-JavaScript-Mapping-APIs</a></p>
 						</div>
 					</div>
-				</div>	-->										
+				</div>								
 			</div>
 		</div>
 
