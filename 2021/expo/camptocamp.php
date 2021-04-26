@@ -96,7 +96,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/camptocamp_mountain_für_Video.png" title="camptocamp" alt="camptocamp">
+							<img src="./expo/img/c2c_mountain_Video.png" title="camptocamp" alt="camptocamp">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.youtube.com/watch?v=UNyFu-JNxfM">Get to know <br>Camptocamp</a></p>
