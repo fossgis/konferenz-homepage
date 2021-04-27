@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-		<img src="./expo/img/gbd_eyecatcher.jpg" class="img-fluid" alt="GBD">
+		<img src="./expo/img/gbd_eyecatcher.png" class="img-fluid" alt="GBD">
 
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
