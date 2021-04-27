@@ -89,7 +89,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/gbd_gdi_marburg-biedenkopf.png" title="GBD" alt="GBD">
+							<img src="./expo/img/gbd_gdi_mittelsachsen.png" title="GBD" alt="GBD">
 						</div>
 						<div class="feature-content">
 						<p>GDI:</p>
