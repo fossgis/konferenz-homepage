@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-		<img src="./expo/img/gbd_eyecatcher.png" class="img-fluid" alt="GBD">
+		<img src="./expo/img/gbd_eyecatcher.jpg" class="img-fluid" alt="GBD">
 
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
@@ -58,30 +58,7 @@
 						<a href="https://gbd-websuite.de">
 							gbd-websuite.de</a>
 					</div>
-					<div class="social-icon">
-						<h6 class="font-weight-bold mb-0">Social</h6>
-						<ul>
-							<li>
-								<a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://www.linkedin.com/company/"><i class="fab fa-linkedin-in"></i></a>
-							</li>
-							<li>
-								<a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-							</li>
-							<li>
-								<a href="https://github.com/"><i class="fab fa-github"></i></a>
-							</li>
-							<li>
-								<a href="https://www.youtube.com/user/"><i class="fab fa-youtube"></i></a>
-							</li>
-							<li>
-								<a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
-							</li>
-
-						</ul>
-					</div>
+					
 				</div>
 			</div>
 
@@ -89,7 +66,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="bild.png" title="GBD" alt="GBD">
+							<img src="./expo/img/gbd_georisks.png" title="GBD" alt="GBD">
 						</div>
 						<div class="feature-content">
 						<p>Projekt:</p>
@@ -112,7 +89,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="GBD" alt="GBD">
+							<img src="./expo/img/gbd_gdi_marburg-biedenkopf.png" title="GBD" alt="GBD">
 						</div>
 						<div class="feature-content">
 						<p>GDI:</p>

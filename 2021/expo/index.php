@@ -29,7 +29,7 @@
 						<p>Jeder Ausstellungsstand wird mit dem eignen Logo gekennzeichnet, bekommt einen eignen Videokonferenzraum sowie eine Infoseite, die per Mouseover angezeigt wird. In der Netzwerkwelt, die den OST Campus Rapperswil nachbilden wird, können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen.  Zum Einstieg gibt man sich einen Namen und wählt einen Avatar aus. Nach der Landung im Eingangsbereich können Sie sich mit Hilfe der Tastatur bewegen. Sie können die Netzwerkwelt erkunden, sehen auch, ob weitere Teilnehmende unterwegs sind.
 						</p>
 						<p>Bei Begegnung von zwei Avataren öffnet sich ein Videochat, welcher sich mit einem kurzen Geräusch ankündigt. Räume können betreten werden, dort sind Informationen zu finden oder eine Videokonferenz findet statt. Das heißt Sie, als Aussteller, können die Teilnehmenden sehen und auch aktiv auf diese zugehen.</p>
-						<p>Der Ausstellerstand ist im Sponsoringpaket der FOSSGIS-Konferenz enthalten und bis zum 10.04.2021 kostenfrei buchbar. </p>
+						<p>Der Ausstellerstand ist im Sponsoringpaket der FOSSGIS-Konferenz enthalten und war bis zum 10.04.2021 kostenfrei buchbar. </p>
 					</div>
 				</div>
 			</div>
@@ -108,6 +108,68 @@
 					</div>
 				</div>
 
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/202_geOps.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>geOps GmbH</h5>
+							<p class="small">Intelligente Web-Applikationen auf Basis von Geo- und Echtzeitdaten mit den fachlichen Schwerpunkten öffentlicher Verkehr, Mobilität und Umwelt sind die Kernkompetenz von geOps.</p>
+							<a href="expo/geOps.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>			
+						</div>
+					</div>
+				</div>
+
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/404_GBD.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>Geoinformatikbüro Dassau GmbH</h5>
+							<p class="small">Das Geoinformatikbüro Dassau kommt aus Düsseldorf und ist seit 2006 spezialisiert auf die Umsetzung von GIS und WebGIS Projekten sowie Geodateninfrastrukuren.</p>
+							<a href="expo/GBD.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/102_Maptiler-logo-FINAL.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>MapTiler AG</h5>
+							<p class="small">MapTiler ist eine Software-Plattform für die Erstellung von digitalen Karten. Unsere Karten und Tools für Developer sind basiert auf Open-Source, und lassen sich für jeden Anwendungsfall anpassen.</p>
+							<a href="expo/maptiler.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>ESRI Schweiz</h5>
+							<p class="small">ESRI ist weltweiter Marktführer von Geoinformationssystemen, welche unter dem Namen ArcGIS als je eine Produktfamilie für den Cloud-, Server- und den Desktop-Bereich zusammengefasst werden.</p>
+							<a href="expo/esri.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
+
 				<!--
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
@@ -124,37 +186,9 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/404_GBD.png" title="" alt="">
-						</div>
-						<div class="feature-content">
-							<h5>Geoinformatikbüro Dassau GmbH</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<a href="expo/GBD.php" 
-								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
-								Details anschauen
-							</a>
-						</div>
-					</div>
-				</div>
+				
 
-				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/202_geOps.png" title="" alt="">
-						</div>
-						<div class="feature-content">
-							<h5>geops GmbH</h5>
-							<p class="small">Intelligente Web-Applikationen auf Basis von Geo- und Echtzeitdaten mit den fachlichen Schwerpunkten öffentlicher Verkehr, Mobilität und Umwelt sind die Kernkompetenz von geOps.</p>
-							<a href="expo/geOps.php" 
-								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
-								Details anschauen
-							</a>			
-						</div>
-					</div>
-				</div>
+				
 
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
@@ -201,36 +235,8 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" title="" alt="">
-						</div>
-						<div class="feature-content">
-							<h5>ESRI Schweiz</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<a href="expo/esri.php" 
-								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
-								Details anschauen
-							</a>				
-						</div>
-					</div>
-				</div>
-				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/102_Maptiler-logo-FINAL.png" title="" alt="">
-						</div>
-						<div class="feature-content">
-							<h5>MapTiler AG</h5>
-							<p class="small">MapTiler ist eine Software-Plattform für die Erstellung von digitalen Karten. Unsere Karten und Tools für Developer sind basiert auf Open-Source, und lassen sich für jeden Anwendungsfall anpassen.</p>
-							<a href="expo/maptiler.php" 
-								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
-								Details anschauen
-							</a>				
-						</div>
-					</div>
-				</div>
+				
+				
 
 
 

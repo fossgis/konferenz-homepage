@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="./expo/img/camptocamp_Headerbild.jpg" class="img-fluid" alt="camptocamp_Headerbild">
+			<img src="./expo/img/C2C_Headerbild.png" class="img-fluid" alt="camptocamp_Headerbild">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Camptocamp</h3>
@@ -106,7 +106,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/camptocamp_customerjourney_deutschetelekom_new.png" title="" alt="">
+							<img src="./expo/img/camptocamp_customerjourney_deutschetelekom_new.png" title="camptocamp" alt="camptocamp">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.camptocamp.com/de/erfolgsgeschichten/erfolgsgeschichte-deutsche-telekom">Erfolgsgeschichte Deutsche Telekom</a></p>
@@ -117,7 +117,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/camptocamp_customerjourney_swisstopo_new.png" title="" alt="">
+							<img src="./expo/img/camptocamp_customerjourney_swisstopo_new.png" title="camptocamp" alt="camptocamp">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.camptocamp.com/de/erfolgsgeschichten/erfolgsgeschichte-swisstopo">Erfolgsgeschichte Swisstopo</a></p>

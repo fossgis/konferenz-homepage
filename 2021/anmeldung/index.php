@@ -67,6 +67,12 @@
 
 	<h3>Bildungsurlaub</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub ist beantragt, zunächst für die Bundesländer in Deutschland, wo die Beantragung keine zusätzlichen Kosten verursacht (BE, BB, HB, HH, NI, RP, SL, ST und SH). Weitere können bei Bedarf beantragt werden. Teilnehmer:innen, die dieses Angebot nutzen wollen, beantragen dies bei beim Arbeitgeber. Informationen zum Bildungsurlaub finden Sie unter <a href="https://www.bildungsurlaub.de/home.html"> www.Bildungsurlaub.de</a>.</p>
+	<h4>Folgende Bundesländer erkennen die FOSSGIS-Konferenz als Bildungsurlaub an:</h4>
+	<ul>
+	<li>Berlin - <a href="data/BE_FOSSGIS-2021_Anerkennung.pdf">Download Anerkennung</a></li>
+	<li>Brandenburg - <a href="data/BB_FOSSGIS-2021_Anerkennung.pdf">Download Anerkennung</a></li>
+	<li>Rheinland-Pfalz - <a href="data/RP_FOSSGIS-2021_AnerkennungsBescheid_76484.pdf">Download Anerkennung</a></li>
+	</ul>
 
 	
 	<h3>Netzwerkwelt</h3>

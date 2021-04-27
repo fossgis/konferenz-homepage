@@ -23,7 +23,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>terrestris</h3>
+					<h3>terrestris GmbH & Co. KG</h3>
 					<p>terrestris bietet Dienstleistungen, Produkte und maßgeschneiderte Entwicklungen mit Freier und Open Source Software an. Ein Fokus liegt insbesondere auf der Verarbeitung sowie Darstellung raumbezogener Daten mit Geoinformationssystemen (GIS) in allen ihren Ausprägungen.</p>
 
 					<p>Dabei orientieren wir uns an den Anforderungen unserer Kunden und bieten auf den jeweiligen Bedarf zugeschnittene Lösungen an. Als Grundlage verwenden wir bewährte und vielfach eingesetzte Open Source Technologien in Kombination mit OGC- und anderen offenen Standards sowie freien Daten (etwa auch solche aus dem OpenStreetMap-Projekt). Darauf aufbauend entwickeln wir innovative und maßgeschneiderte Lösungen, die zudem oft nahtlos in bestehende Architekturen eingebettet sind.</p>
