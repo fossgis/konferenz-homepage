@@ -160,8 +160,8 @@
 							<img src="https://fossgis-konferenz.de/2021/img/s/406_Esri_Suisse_Emblem_tag_ohne_1C.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-							<h5>ESRI Schweiz</h5>
-							<p class="small">ESRI ist weltweiter Marktführer von Geoinformationssystemen, welche unter dem Namen ArcGIS als je eine Produktfamilie für den Cloud-, Server- und den Desktop-Bereich zusammengefasst werden.</p>
+							<h5>Esri Schweiz</h5>
+							<p class="small">Esri ist weltweiter Marktführer von Geoinformationssystemen, welche unter dem Namen ArcGIS als je eine Produktfamilie für den Cloud-, Server- und den Desktop-Bereich zusammengefasst werden.</p>
 							<a href="expo/esri.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
