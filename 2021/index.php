@@ -154,6 +154,11 @@
 						<img src="./img/s/409_opencage-logo.png" alt="OpenCage">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="http://www.dvz-mv.de/" target="_blank">
+						<img src="./img/s/410_Logo DVZ M-V GmbH Logo.png" alt="dvz-mv">
+						</a>
+					</li>
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
 				<ul class="tiles">
