@@ -156,7 +156,7 @@
 					</li>
 					<li class="tile bronze">
 						<a href="http://www.dvz-mv.de/" target="_blank">
-						<img src="./img/s/410_Logo DVZ M-V GmbH Logo.png" alt="dvz-mv">
+						<img src="./img/s/410_Logo_DVZ_M-V.png" alt="dvz-mv">
 						</a>
 					</li>
 				</ul>
