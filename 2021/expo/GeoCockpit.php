@@ -90,7 +90,7 @@ Wir führen Ihre Leitungskataster in Abstimmung mit den Tiefbauingenieuren oder 
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/408_YEY-Maps_Logo.png" title="" alt="">
+							<img src="./expo/img/GeoCockpit_youtube.png" title="" alt="">
 						</div>
 
 						<div class="feature-content">
@@ -101,7 +101,7 @@ Wir führen Ihre Leitungskataster in Abstimmung mit den Tiefbauingenieuren oder 
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/408_YEY-Maps_Logo.png" title="" alt="">
+							<img src="./expo/img/GeoCockpit_blog.png" title="" alt="">
 						</div>
 						<div class="feature-content">
 						<p><a href="http://www.yeymaps.de/yeymaps-gis-blog">yey'maps Blog</a></p>
@@ -112,7 +112,7 @@ Wir führen Ihre Leitungskataster in Abstimmung mit den Tiefbauingenieuren oder 
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/408_YEY-Maps_Logo.png" title="" alt="">
+							<img src="./expo/img/GeoCockpit_smart_Cities.png" title="" alt="">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.yeymaps.de/gis-l%C3%B6sungen-f%C3%BCr-gemeinden">Smart Cities</a></p>

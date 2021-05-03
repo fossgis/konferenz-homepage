@@ -169,7 +169,21 @@
 						</div>
 					</div>
 				</div>
-
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/408_YEY-Maps_Logo.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>GeoCockpit UG</h5>
+							<p class="small">GeoCockpit entwickelt intelligente und flexible Werkzeuge für die optimale Organisation von Geodaten.</p>
+							<a href="expo/GeoCockpit.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
 				<!--
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
@@ -190,21 +204,7 @@
 
 				
 
-				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
-					<div class="expo-box">
-						<div class="icon d-flex align-items-center justify-content-center">
-							<img src="https://fossgis-konferenz.de/2021/img/s/408_YEY-Maps_Logo.png" title="" alt="">
-						</div>
-						<div class="feature-content">
-							<h5>GeoCockpit UG</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
-							<a href="expo/GeoCockpit.php" 
-								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
-								Details anschauen
-							</a>				
-						</div>
-					</div>
-				</div>
+	
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="icon d-flex align-items-center justify-content-center">
