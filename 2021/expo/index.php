@@ -192,7 +192,7 @@
 						</div>
 						<div class="feature-content">
 							<h5>Sourcepole</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<p class="small">Sourcepole entwickelt kundenspezifische Lösungen im Bereich Geoinformatik, erweitert und integriert Open Source Software nach Ihren Bedürfnissen.  </p>
 							<a href="expo/sourcepole.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen

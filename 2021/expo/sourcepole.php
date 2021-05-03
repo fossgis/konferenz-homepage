@@ -32,7 +32,7 @@ Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in d
 					<p>Mit QGIS Cloud können Karten auf einfache Weise im Internet publiziert werden. Ein Plugin für QGIS Desktop ermöglicht das Hochladen von Daten und das Publizieren fertiger Karten. Auf Knopfdruck werden sie auf <a href="http://qgiscloud.com/">qgiscloud.com</a> für Web-Browser, mobile Clients und als OGC WMS verfügbar.</p>
 
 					<p><img src="./expo/img/logo-mobile_sp.svg" alt="sourcepole text"></p>
-					<p>Der <a href="http://qwc2.sourcepole.ch/">QGIS WebClient 2 (QWC2)</a> ist ein moderner Kartenclient, der auf die Publikation von Karten mit QGIS Server spezialisiert ist. Dank dem Einsatz von Micro-Services ist er sowohl für die Erstellung einfacher In-House Clients, als auch für umfangreiche Lösungen in Enterprise-Infrastrukturen geeignet.</p>
+					<p>Seit 2016 wird von Sourcepole die QWC2 und QWC-Services Infrastruktur entwickelt. Der Der <a href="http://qwc2.sourcepole.ch/">QGIS WebClient 2 (QWC2)</a> ist auf die Publikation von Karten mit dem QGIS Server spezialisiert. Die gesamte Infrastruktur baut auf Micro-Services auf. Damit lassen sich extem flexible und ausbaufähige Infrastrukturen realisieren. Von einfachen In-House Clients bis hin zu umfangreichen Lösungen in Enterprise-Infrastrukturen ist alles möglich. <br>Gerne beraten wir Sie.</p>
 
 				</div>	
 
@@ -84,22 +84,20 @@ Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in d
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="bild.png" title="" alt="">
+							<img src="./expo/img/SP_logo-grau.svg" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p>Zum ... </p>
-						<p><a href="www.sourcepole.com">...</a></p>
+						<p><a href="https://blog.sourcepole.ch/">Sourcepole Blog</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+							<img src="./expo/img/SP_icon_cloud.svg" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="www.qgiscloud.com">Projekt</a></p>
+						<p><a href="https://qgiscloud.com/">QGIS Cloud</a></p>
 						</div>
 					</div>
 				</div>
@@ -107,11 +105,10 @@ Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in d
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+							<img src="./expo/img/SP_geoviewer_icon.svg" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="www.qgisenterprise.com">Projekt</a></p>
+						<p><a href="https://map.geo.gl.ch/?l=ch.gl.basemaps.kantonsmaske%5B40%5D&bl=pixelkarte&t=default&c=2725000%2C1206500&s=200000"> Geoviewer des Kantons Glarus</a></p>
 						</div>
 					</div>
 				</div>											
