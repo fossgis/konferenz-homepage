@@ -184,7 +184,7 @@
 						</div>
 					</div>
 				</div>
-				<!--
+				
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="icon d-flex align-items-center justify-content-center">
@@ -192,7 +192,7 @@
 						</div>
 						<div class="feature-content">
 							<h5>Sourcepole</h5>
-							<p class="small">Sourcepole entwickelt kundenspezifische Lösungen im Bereich Geoinformatik, erweitert und integriert Open Source Software nach Ihren Bedürfnissen.  </p>
+							<p class="small">Sourcepole entwickelt kundenspezifische Lösungen im Bereich Geoinformatik, erweitert und integriert Open Source Software nach Kunden-Bedürfnissen.  </p>
 							<a href="expo/sourcepole.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
@@ -203,7 +203,7 @@
 				
 
 				
-
+<!--
 	
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">

@@ -43,9 +43,18 @@ Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in d
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
 						<div class="post-tags">
-							<span class="badge badge-info">...</span>
-							<span class="badge badge-info">...</span>
-							<span class="badge badge-info">...</span>
+							<span class="badge badge-info">Geo-IT-Dienstleitungen</span>
+							<span class="badge badge-info">Schulungen</span>
+							<span class="badge badge-info">QGIS</span>
+							<span class="badge badge-info">QGIS-Entwicklung</span>
+							<span class="badge badge-info">Python</span>
+							<span class="badge badge-info">PyQGIS</span>
+							<span class="badge badge-info">QWC2</span>
+							<span class="badge badge-info">QWC-Micro-Services</span>
+							<span class="badge badge-info">QGIS Cloud</span>
+							<span class="badge badge-info">PostgreSQL/PostGIS</span>
+							<span class="badge badge-info">GDI Hosting</span>
+							<span class="badge badge-info">Support</span>
 						</div>
 					</div>
 					<div class="mb-4">
@@ -56,24 +65,17 @@ Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in d
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
+							
+							<li>
+								<a href="https://twitter.com/sourcepole"><i class="fab fa-twitter"></i></a>
+							</li>
 							<li>
 								<a href="https://twitter.com/qgiscloud"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com/company/"><i class="fab fa-linkedin-in"></i></a>
+								<a href="github.com/sourcepole"><i class="fab fa-github"></i></a>
 							</li>
-							<li>
-								<a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-							</li>
-							<li>
-								<a href="https://github.com/"><i class="fab fa-github"></i></a>
-							</li>
-							<li>
-								<a href="https://www.youtube.com/user/"><i class="fab fa-youtube"></i></a>
-							</li>
-							<li>
-								<a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
-							</li>
+						
 
 						</ul>
 					</div>
@@ -108,7 +110,7 @@ Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in d
 							<img src="./expo/img/SP_geoviewer_icon.svg" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p><a href="https://map.geo.gl.ch/?l=ch.gl.basemaps.kantonsmaske%5B40%5D&bl=pixelkarte&t=default&c=2725000%2C1206500&s=200000"> Geoviewer des Kantons Glarus</a></p>
+						<p><a href="https://map.geo.gl.ch/?l=ch.gl.basemaps.kantonsmaske%5B40%5D&bl=pixelkarte&t=default&c=2725000%2C1206500&s=200000"> Geoviewer Kanton Glarus</a></p>
 						</div>
 					</div>
 				</div>											
