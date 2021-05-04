@@ -21,12 +21,12 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="./expo/img/GEOINFO_0N6A6538.JPG" class="img-fluid" alt="GEOINFO">
+			<img src="./expo/img/GEOINFO_Titelbild.png" class="img-fluid" alt="GEOINFO">
 
 
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>GEOINFO AG</h3>
+					<h3>GEOINFO Applications AG</h3>
 					<p>Die GEOINFO Applications AG verbindet die Leidenschaft für Geoinformationen mit der Begeisterung für Softwaretechnologien. Aus den Ideen unserer Kunden entstehen innovative Lösungen. Darunter bedürfnisgerechte Fachanwendungen für Infrastruktur, Sicherheit, Vegetation und Landwirtschaft. Unsere Agrarinformationssysteme bilden komplexe Vollzugsprozesse wie landwirtschaftliche Direktzahlungen umfassend ab.</p>
 					<p>Die meisten unserer Lösungen werden im SaaS-Modell auf den eigenen Servern im Rechenzentrum Ostschweiz betrieben. Die GEOINFO Applications AG gehört schweizweit zu den führenden Anbietern von umfassenden prozessorientierten Geodateninfrastrukturen und Agrarinformationssystemen.</p>
 
@@ -79,7 +79,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/203_Geoinfo_Logo.png" title="" alt="">
+							<img src="./expo/img/GEOINFO_Start_Phillipe.jpg" title="" alt="">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.youtube.com/embed/-D7CxAhbNSQ">Ein Tag im Homeoffice</a></p>
@@ -89,7 +89,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/203_Geoinfo_Logo.png" title="" alt="">
+							<img src="./expo/img/GEOINFO_Geoinfra.png" title="" alt="">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.geoinfo.ch/die-geoinfo-gruppe/aktuelles/na/show/nc/News/n/fachanwendung-geoinfra-neue-werkzeuge.html">Fachanwendung GEOInfra</a></p>
@@ -100,7 +100,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/203_Geoinfo_Logo.png" title="" alt="">
+							<img src="./expo/img/GEOINFO_Geoportal.png" title="" alt="">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.geoinfo.ch/die-geoinfo-gruppe/aktuelles/na/show/nc/News/n/geoportal-in-neuem-design-weiterhin-auf-erfolgskurs.html">Geoportal</a></p>
