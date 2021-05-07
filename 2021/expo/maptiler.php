@@ -87,7 +87,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./expo/img/Maptiler_Intro Video Thumbnail.png" title="Intro Video" alt="Intro Video">
+							<img src="./expo/img/Maptiler_Intro_Video_Thumbnail.png" title="Intro Video" alt="Intro Video">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.youtube.com/watch?v=qyU5FWsrLNg&ab_channel=MapTiler?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web">Intro Video</a></p>
