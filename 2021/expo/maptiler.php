@@ -87,7 +87,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/maptiler.png" title="Intro Video" alt="Intro Video">
+							<img src="./expo/img/Maptiler_Intro Video Thumbnail.png" title="Intro Video" alt="Intro Video">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.youtube.com/watch?v=qyU5FWsrLNg&ab_channel=MapTiler?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web">Intro Video</a></p>
@@ -97,7 +97,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/maptiler.png"  title="MapLibre News Article" alt="Swisstopo customer success story">
+							<img src="./expo/img/MapTiler_city-map.png"  title="Swisstopo customer success stor" alt="Swisstopo customer success story">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.maptiler.com/story/swisstopo?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web">Swisstopo customer success story</a></p>
@@ -108,7 +108,7 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="./img/s/maptiler.png" title="MapLibre News Article" alt="MapLibre News Article">
+							<img src="./expo/img/MapTiler_2021-01-08-mapbox-gl-open-source-fork-1.png" title="MapLibre News Article" alt="MapLibre News Article">
 						</div>
 						<div class="feature-content">
 						<p><a href="https://www.maptiler.com/news/2021/01/mapbox-gl-open-source-fork?utm_source=fossgis&utm_medium=referrals&utm_campaign=fossgis_web">MapLibre News Article</a></p>

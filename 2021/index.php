@@ -159,6 +159,11 @@
 						<img src="./img/s/410_Logo_DVZ_M-V.png" alt="dvz-mv">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="http://www.gkg-kassel.de/" target="_blank">
+						<img src="./img/s/411_gkg_logo.png" alt="gkg">
+						</a>
+					</li>
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
 				<ul class="tiles">

@@ -82,9 +82,9 @@
 
 	<h3>Helfer</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz bei der technischen Vorbereitung und während der Konferenz bei der technischen Betreuung oder als Sessionleitung zu unterstützen. Bei Interesse bitte im <a href="https://helfer.fossgis.de/" target="_blank">Helfersystem</a> registrieren und eine E-Mail an das <a href="mailto:helfer@fossgis.de"> Helferteam</a> senden, damit wir Sie kontaktieren können. Helfer:innen dürfen das kostenfreie "Online-Konferenzticket für Helfende" buchen.
-Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
+Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer/" target="_blank">Helfer-FAQ</a> zu lesen.</p>
 
-	<h3>Anmeldung</h3>
+   	<h3>Anmeldung</h3>
 	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2021/">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2021/"></pretix-widget>
@@ -96,6 +96,17 @@ Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer
     		</div>
 		</noscript>
 			
+
+	<h3>Sie haben Fragen?</h3>
+	<p>Lesen Sie die <a href="https://pretix.eu/fossgis/2021/page/faq/">FAQ</a>, wenn Sie dort auf Ihre Frage keine Antwort finden, kontaktieren Sie das Konferenzorgateam via:
+	<ul>
+	<li>Matrixkanal: <a href="https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org?">#FOSSGIS2021:matrix.org </a></li>
+	<li>E-Mail an <a href="mailto:konferenz-orga@fossgis.de ">konferenz-orga@fossgis.de</a> </li>
+	<li>Fragen zum Programm an das <a href="mailto:PKO@fossgis.de">Programmkomitee</a> </li>
+	</ul>
+	</p>
+
+
 
 	<?php include('../inc/footer.inc'); ?>
 
