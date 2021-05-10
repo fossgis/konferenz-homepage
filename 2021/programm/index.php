@@ -15,18 +15,28 @@
 <body id="programm">
 	<?php include "../inc/header.inc"; ?>
 
-	<h2>Programm</h2>
+        <h2>Programm</h2>
 
-	<p>Das Konferenz-Programm ist im ersten Entwurf veröffentlicht.</p>
+	<p>Wählen Sie den gewünschten Konferenztag aus.</p>
 	<ul>
 		<li>
-			<a href="https://pretalx.com/fossgis2021/schedule/"target="_blank" rel="noopener nofollow">Link zum Programm</a>
-		</li>
-		
+			<a href="programm/sonntag.php" target="_blank" rel="noopener nofollow">OSM-Sonntag, 06.06.2021</a>
+                </li>
 		<li>
-			<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Vortragende</a>
+			<!-- href-old "https://pretalx.com/fossgis2021/schedule/" -->
+			<a href="programm/montag.php">Montag, 07.06.2021</a>
 		</li>
-	</ul>
+		<li>
+			<a href="programm/dienstag.php">Dienstag, 08.06.2021</a>
+		</li>
+		<li>
+			<a href="programm/mittwoch.php">Mittwoch, 09.06.2021</a>
+		</li>
+        </ul>
+
+	<p>
+		<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Liste der Vortragenden</a>
+	</p>
 
 	<p>An der Öffentlichen Abstimmung (Community-Voting) haben sich fast 200 Teilnehmer:innen beteiligt. <br>Vielen Dank dafür!</p>
 
