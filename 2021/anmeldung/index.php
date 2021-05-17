@@ -100,7 +100,7 @@ Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer
 	<h3>Sie haben Fragen?</h3>
 	<p>Lesen Sie die <a href="https://pretix.eu/fossgis/2021/page/faq/">FAQ</a>, wenn Sie dort auf Ihre Frage keine Antwort finden, kontaktieren Sie das Konferenzorgateam via:
 	<ul>
-	<li>Matrixkanal: <a href="https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org?">#FOSSGIS2021:matrix.org </a></li>
+	<li>Matrixkanal: <a href="https://matrix.to/#/#FOSSGIS2021:matrix.org">#FOSSGIS2021:matrix.org </a></li>
 	<li>E-Mail an <a href="mailto:konferenz-orga@fossgis.de ">konferenz-orga@fossgis.de</a> </li>
 	<li>Fragen zum Programm an das <a href="mailto:PKO@fossgis.de">Programmkomitee</a> </li>
 	</ul>

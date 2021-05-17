@@ -114,7 +114,7 @@
 							<img src="https://fossgis-konferenz.de/2021/img/s/202_geOps.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-							<h5>geOps GmbH</h5>
+							<h5>geOps AG</h5>
 							<p class="small">Intelligente Web-Applikationen auf Basis von Geo- und Echtzeitdaten mit den fachlichen Schwerpunkten öffentlicher Verkehr, Mobilität und Umwelt sind die Kernkompetenz von geOps.</p>
 							<a href="expo/geOps.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
