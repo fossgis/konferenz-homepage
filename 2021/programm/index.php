@@ -38,12 +38,25 @@
 		<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Liste der Vortragenden</a>
 	</p>
 
-	<p>An der Öffentlichen Abstimmung (Community-Voting) haben sich fast 200 Teilnehmer:innen beteiligt. <br>Vielen Dank dafür!</p>
+	<h3>FOSSGIS-Konferenz per Android-APP</h3>
+	<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
+	<p>Ansicht der App für Smartphone:	
+                    <a href="https://www.fossgis.de/">
+                      	<img src="./data/FOSSGIS-2021-Phones.png" class="img-fluid"  alt="APP">
+                    </a>
+                 </p>
+	<p>Ansicht der App für Tablet:	
+                    <a href="https://www.fossgis.de/">
+                         <img src="./data/FOSSGIS-2021-Tablet-Phone.jpg" class="img-fluid" alt="APP">
+					</a>
+                 </p>
+
+
+
+	<h3>Community Voting</h3>
+	<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich fast 200 Teilnehmer:innen beteiligt. <br>Vielen Dank dafür!</p>
 
 	<p>Hier ist der <a href="https://fossgis-konferenz.de/2021/callforpapers/">Call for Participation</a> zum nachlesen verlinkt.</p>
-
-
-
 
 
 		
