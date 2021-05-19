@@ -29,8 +29,8 @@
             </p>
 
                         
-            <p>Das Tilemaker-Projekt bietet eine ressourcenarme Erstellung von VectorTiles aus OpenSTreetMap-Daten. </p>
-<p>Das Tilemaker-Projekt unterstützt das OpenMapTile-Daten-Schemata und ist somit kompatibel mit mehreren Kartenstilen für die Webanwendungen, die von der MapBox, MapLibre  oder der OpenLayers-JavaScript-Bibliothek unterstützt werden, sowie in nativen mobilen SDKs für iOS und Android.</p>
+            <p>Das Tilemaker-Projekt bietet eine ressourcenarme Erstellung von VectorTiles aus OpenStreetMap-Daten. </p>
+<p>Das Tilemaker-Projekt unterstützt das OpenMapTile-Daten-Schema und ist somit kompatibel mit mehreren Kartenstilen für die Webanwendungen, die von der MapBox, MapLibre  oder der OpenLayers-JavaScript-Bibliothek unterstützt werden, sowie in nativen mobilen SDKs für iOS und Android.</p>
 <p>Im Gegensatz zu anderen Ansätzen kommt Tilemaker dabei ohne den Umweg über eine Postgres-Datenbank aus. Dadurch ist dieser Prozessierungsschritt deutlich schneller und lässt sich auch in Cloud-Umgebungen kostengünstig umsetzen. Die erzeugten Kacheln können in verschiedenen Viewern wie Leaflet, OpenLayers, QGIS oder ArcGIS, etc. geöffnet werden. </p>
 <p>Dieser Vortrag bietet einen Überblick über den Einsatz und Prozessierung bis zur Einbindung von VectorTiles in einer Webkarte. Weitere Ansätze für das unabhängige Einbinden, sowie das Styling von Vektorkacheln wird ebenfalls vorgestellt.</p>
         <div class='abstract-bio'>

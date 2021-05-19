@@ -23,7 +23,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Diverses</span>                von <span class='abstract-speakers'>Jörg Thomsen</span></p>
-                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 09. Juni 15:00 Uhr
+                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 09. Juni 15:30 Uhr
                 <br><span class='abstract-room-heading'>Ort: </span>Bühne 1
                 <br><span class='abstract-room-heading'>Dauer: </span>60 Minuten
             </p>

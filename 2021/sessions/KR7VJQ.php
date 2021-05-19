@@ -29,7 +29,43 @@
             </p>
 
                         
-            <p>MapServer selbst kann keinen transaktionalen WFS bereit stellen. Mit dem Partner-Projekt TinyOWS ist das auf einfache Weise möglich. Dabei kann der TinyOWS auch über eine Map-Datei konfiguriert werden. Die Demo-Session zeigt wie das funktioniert. Darüberhinaus wird gezeigt wie TinyOWS als stand-alone-Anwenndung über kurze XML-Dateien konfiguriert werden kann und wie über die Konfiguration des Webservers mehrere WFS parallel betrieben werden können.</p>
+            <p>MapServer selbst kann keinen transaktionalen WFS bereit stellen. Mit dem Partner-Projekt TinyOWS ist das auf einfache Weise möglich. Dabei kann der TinyOWS auch über eine Map-Datei konfiguriert werden. Die Demo-Session zeigt wie das funktioniert. Darüber hinaus wird gezeigt wie TinyOWS als stand-alone-Anwendung über kurze XML-Dateien konfiguriert werden kann und wie über die Konfiguration des Webservers mehrere WFS parallel betrieben werden können.
+Ein WFS-T mit XML-Konfiguration benötigt nur wenige Zeilen:
+<tinyows online_resource="http://schulung.foss.academy/cgi-bin/tinyows"
+  schema_dir="/usr/local/tinyows/schema/" check_schema="0"></p>
+<p><pg host="localhost" user="xxxx" password="xxxx" dbname="mapserver" port="5432"/>
+  <metadata name="TinyOWS Server" title="TinyOWS Server - Demo Service" /></p>
+<p><layer retrievable="1" writable="1"  ns_prefix="tows" ns_uri="http://www.tinyows.org"
+         name="ne_10m_urban_areas" title="World Administrative Urban Areas" />
+</tinyows></p>
+<p>Auch für eine TinyOWS-Konfiguration innerhalb einer Mapdatei sind nur wenige Einträge notwendig:
+MAP
+    NAME "TinyOWS"
+    WEB
+         METADATA
+            "tinyows_schema_dir" "/usr/local/share/tinyows/schema/"
+            "tinyows_onlineresource" "http://schulung.foss.academy/cgi-bin/tinyowsmapfile"
+            "tinyows_check_schema" "0"
+            ...
+         END
+    END
+    LAYER
+        ...
+        METADATA
+            'wfs_title' 'Urban Areas'
+            'wfs_namespace_prefix' 'towsmap'
+            'wfs_namespace_uri' 'http://www.mapserver.org/tinyows/'
+            'wfs_srs' 'EPSG:4326'
+            'tinyows_table'  'ne_10m_urban_areas'
+            'tinyows_writable' '1'
+            'tinyows_retrievable' '1'
+        END
+    END
+END</p>
+<p>Quellen
+[1] https://mapserver.org/tinyows/
+[2] https://github.com/MapServer/tinyows
+[3] https://www.fossgis-konferenz.de/2012/programm/attachments/353_fossgis2012_tinyows.pdf</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jörg Thomsen</h3>
             <p>Jörg Thomsen arbeitet seit dem Ende des letzten Jahrhunderts mit freier GI-Software und war bereits die FOSSGIS-Konferenz bereits mit gestaltet, als sie noch MapServer Anwender-Konferenz hieß.</p>

@@ -27,7 +27,7 @@
                     <th>Bühne 1</th>
                     <th>Bühne 2</th>
                     <th>Bühne 3</th>
-                    <th>Bühne 4 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
+                    <th>Bühne 4</th>
                     <th>Workshop 1 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>Workshop 2 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>BoF 2 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
@@ -239,7 +239,11 @@
     <br><span class="session-speakers">Mathias Gröbe</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="2" id="session_WVJRSR">
+            <a class="session-title" href="sessions/WVJRSR.php">Erster Mapathon am Bundesamt für Kartographie und Geodäsie (BKG)</a>
+    <br><span class="session-speakers">Joachim Eisenberg, Sonja Werhahn</span>
+</td>
+
                             <td></td>
                                                 </tr>
                                 <tr>
@@ -262,7 +266,7 @@
                             
                             
                             
-                            <td></td>
+                            
                             <td></td>
                                                 </tr>
                                 <tr>
@@ -277,11 +281,7 @@
     <br><span class="session-speakers">Nikolai Janakiev</span>
 </td>
 
-                            <td rowspan="1" id="session_SSTGDP">
-            <a class="session-title" href="sessions/SSTGDP.php">Docker-basierte GDI in der freien Wildbahn</a>
-    <br><span class="session-speakers">Christian Mayer</span>
-</td>
-
+                            <td></td>
                             <td></td>
                             
                             

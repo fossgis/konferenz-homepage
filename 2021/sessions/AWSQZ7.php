@@ -39,7 +39,7 @@
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Charlotte Pusch</h3>
-            <p>Durch meinem letzen Job bin ich erst so richtig in die QGIS und PostgreSQL Welt eingestiegen und habe parallel meine Freude an der FOSSGIS entdeckt. Mein GIS-Schwerpunkt  lag auf Erreichbarkeitsanalysen. Wir haben ein Open Source Planungstools nutzerorientiert entwickelt, das kleinräumige Raum- und Erreichbarkeitsanalysen berechnet und visualisiert und momentan in Niedersachsen getestet wird. Wenn ihr also mal was vom Daseinsvorsorgeatlas hört, dann denk an mich :) Ich bin ein großer Quiz-Fan und freue mich, Hannes bei einer spaßige FOSSGIS-Jeopardy-Session zu unterstützen...</p>
+            <p>Kleinräumige Erreichbarkeitsanalysen, PostgreSQL und PostGIS, nutzerorientierte Open Source Planungstools für die Daseinsvorsorge</p>
         </div>
         </section>
 

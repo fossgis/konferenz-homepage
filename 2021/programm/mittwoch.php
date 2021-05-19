@@ -27,7 +27,7 @@
                     <th>Bühne 1</th>
                     <th>Bühne 2</th>
                     <th>Bühne 3</th>
-                    <th>Bühne 4 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
+                    <th>Bühne 4</th>
                     <th>Workshop 1 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>Workshop 2 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>BoF 2 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
@@ -220,13 +220,13 @@
 </td>
 
                             <td></td>
-                            <td rowspan="5" id="session_VLZRZP">
+                            <td rowspan="3" id="session_VLZRZP">
     <span class='session-type'>Workshop</span><br>
             <a class="session-title" href="sessions/VLZRZP.php">QGIS GRASS Plugin</a>
     <br><span class="session-speakers">Klaus Mithöfer</span>
 </td>
 
-                            <td rowspan="5" id="session_CVVPRQ">
+                            <td rowspan="3" id="session_CVVPRQ">
     <span class='session-type'>Workshop</span><br>
             <a class="session-title" href="sessions/CVVPRQ.php">WebGIS-GDI mit Docker-Microservices</a>
     <br><span class="session-speakers">Christian Kuntzsch</span>
@@ -258,9 +258,9 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">15:00</td>
-                        <td rowspan="2" id="session_YULPMW">
-            <a class="session-title" href="sessions/YULPMW.php">Abschluss der FOSSGIS-Konferenz 2021</a>
-    <br><span class="session-speakers">Jörg Thomsen</span>
+                        <td rowspan="1" id="session_DCXBZY">
+            <a class="session-title" href="sessions/DCXBZY.php">Open Data, Open Source – Open End?</a>
+    <br><span class="session-speakers">Prof. Paul Becker</span>
 </td>
 
                             <td></td>
@@ -268,6 +268,20 @@
                             <td></td>
                             
                             
+                            <td></td>
+                                                </tr>
+                                <tr>
+                        <td class="program-time">15:30</td>
+                        <td rowspan="1" id="session_YULPMW">
+            <a class="session-title" href="sessions/YULPMW.php">Abschluss der FOSSGIS-Konferenz 2021</a>
+    <br><span class="session-speakers">Jörg Thomsen</span>
+</td>
+
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                             <td></td>
                                                 </tr>
                                              </tbody>

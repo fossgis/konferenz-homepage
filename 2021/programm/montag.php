@@ -27,7 +27,7 @@
                     <th>Bühne 1</th>
                     <th>Bühne 2</th>
                     <th>Bühne 3</th>
-                    <th>Bühne 4 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
+                    <th>Bühne 4</th>
                     <th>Workshop 1 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>Workshop 2 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
                     <th>Workshop 3 <img class="program-no-recording" src="./img/novideo-bright.svg" height="25" alt="ohne Videoaufzeichnung" title="In diesem Raum gibt es keine Videoaufzeichnung."></th>
@@ -106,7 +106,11 @@
     <br><span class="session-speakers">Till Adams, Guido Riembauer</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="2" id="session_S7P93Z">
+    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/S7P93Z.php">Einführung in OpenStreetMap</a>
+    <br><span class="session-speakers">Thomas Skowron</span>
+</td>
+
                             <td rowspan="2" id="session_PNGTBU">
     <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/PNGTBU.php">Maßgeschneiderte QGIS-Arbeitsumgebung mittels Python</a>
     <br><span class="session-speakers">Thomas Baumann</span>
@@ -144,7 +148,7 @@
     <br><span class="session-speakers">Thomas Wiatr, Sandra Beyer, Trosset</span>
 </td>
 
-                            <td></td>
+                            
                             
                             
                             
@@ -342,7 +346,7 @@
                                                 </tr>
                                 <tr>
                         <td class="program-time">17:30</td>
-                        <td rowspan="1" id="session_DSXKQN">
+                        <td rowspan="2" id="session_DSXKQN">
             <a class="session-title" href="sessions/DSXKQN.php">FOSSGIS-Jeopardy #1</a>
     <br><span class="session-speakers">Johannes Kröger, Charlotte Pusch</span>
 </td>
@@ -354,6 +358,21 @@
                             <td></td>
                             <td></td>
                             <td></td>
+                                                </tr>
+                                <tr>
+                        <td class="program-time">18:00</td>
+                        
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td rowspan="2" id="session_PT7NCH">
+            <a class="session-title" href="sessions/PT7NCH.php">Lizmap Anwendertreffen</a>
+    <br><span class="session-speakers">Günter Wagner, Niko Trujanovic</span>
+</td>
+
                                                 </tr>
                                              </tbody>
         </table>

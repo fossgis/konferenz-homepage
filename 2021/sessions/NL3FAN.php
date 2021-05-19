@@ -29,8 +29,7 @@
             </p>
 
                         
-            <p>PostGIS wird in diesem Jahr 20 Jahre al. Dazu gibt es 20 hilfreiche Tipps rund um PostGIS - mehr wird noch nicht verraten.
-Dann werden die Neuerungen der PostGIS-Version 3.1 Version, auf die die PostGIS Welt eine Weile gewartet hat vorgestellt. Mit PostGIS 3.1 hat sich auch die GEOS Version geändert und hexagonale und quadratische Grids können erstellt werden. Dann geht der Blick ins Umfeld von PostGIS und die zwei Softwareprojeke pg_tileserv und pg_featureserv werden vorgestellt.</p>
+            <p>Mit PostGIS 3.1 hat sich auch die GEOS Version geändert und hexagonale und quadratische Grids können erstellt werden. Dann geht der Blick ins Umfeld von PostGIS und die zwei Softwareprojeke pg_tileserv und pg_featureserv werden vorgestellt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Astrid Emde</h3>
             <p>Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2021 in Rapperswil oder auch Online!</p>

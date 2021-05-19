@@ -29,7 +29,10 @@
             </p>
 
                         
-            <p>Seit der FOSSGIS 2020 mussten viele vor Ort-Veranstaltungen ausfallen, darunter auch zahlreiche Schulungen die ich für OSGEO-Software gebe (MapServer, Mapbender, QGIS, PostGIS, GeoServer, Goedaten-Infrastrukturen). Die Schulungen wurden in kurzer Zeit erfolgreich auf Online-Formate umgestellt. Was sollte beachtet werden, wenn Schulungen mit hohem Praxisanteil online durchgeführt werden? Welche Technik wird eingesetzt? Wie ist können die Übungen effektiv betreut werden?</p>
+            <p>Seit einem Jahr führe ich Pandemie-bedingt viele Schulungen online durch. Was sollte beachtet werden, wenn Schulungen mit hohem Praxisanteil online durchgeführt werden? Welche Technik wird eingesetzt? Wie ist können die Übungen effektiv betreut werden?
+Seit der FOSSGIS 2020 mussten viele vor Ort-Veranstaltungen ausfallen, darunter auch zahlreiche Schulungen die ich für OSGeo-Software gebe (MapServer, Mapbender, QGIS, PostGIS, GeoServer, Geodaten-Infrastrukturen). Die Schulungen wurden in kurzer Zeit erfolgreich auf Online-Formate umgestellt.
+Eine Umstellung oder gar Reduzierung der Inhalte, wie zunächst befürchtet, war nicht nötig. Im Gegenteil können teilweise sogar mehr Inhalte vermittelt werden. Die online-Schulungen finden nur halb-tägig statt, aus 2 ganzen Tagen wurden 4 halbe Tage. Das eröffnet für die Teilnehmenden die Möglichkeit nachmittags das gelernte zu vertiefen, neues auszuprobieren und die aufkommenden Fragen am nächsten Tag zu besprechen.
+Für die Online-Formate sind in erster Linie technische und psychologische Hürden zu nehmen, die Schulungsunterlagen und Daten müssen im Vorfeld verteilt werden. Die Teilnehmenden müssen auf ihren Rechnern zusätzlich Software installieren, sei es die geschulte Software selbst oder für den Zugriff auf zentral bereit gestellte Schulungsserver. Und auch die Gruppendynamik ist online eine andere, als wenn alle zusammen in einem Raum sitzen und gemeinsame Kaffee- und Mittagspausen machen.</p>
         </section>
 
 
