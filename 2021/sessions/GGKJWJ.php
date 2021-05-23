@@ -40,7 +40,7 @@
 <p>Der Workshop richtet sich alle Interessierten, die sich näher mit den Stylingmöglichkeiten von Kartendiensten über den GeoServer beschäftigen möchten. Vorkenntnisse in der Verwaltung von Layern über den GeoServer sind nicht zwingend notwendig.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Daniel Koch</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/U7QH7V_me_FVV9vKf.jpg'>            <p>Lead Developer der terrestris GmbH &amp; Co. KG und OpenSource Enthusiast.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/U7QH7V.jpg'>            <p>Lead Developer der terrestris GmbH &amp; Co. KG und OpenSource Enthusiast.</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Hannes Blitza</h3>

@@ -32,7 +32,7 @@
             <p>Für alle, die neu sind in der Welt der kollaborativen Weltkarte oder das Projekt eine Weile aus den Augen verloren haben, empfiehlt sich diese Session: Es wird gezeigt, woher OpenStreetMap kommt, wem es hilft und wo es hingeht.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Thomas Skowron</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/9QQ9DG_7f666b042e16a479e9c83c0de0f2f6a3'>            <p>Thomas Skowron ist freier Softwareentwickler aus Köln. Er entwickelt GIS-Anwendungen mit und berät zum Einsatz von OpenStreetMap, zudem ist er Maintainer von ein paar Open Source-Projekten, unter anderem dem "OpenStreetMap Calendar".</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/9QQ9DG.jpg'>            <p>Thomas Skowron ist freier Softwareentwickler aus Köln. Er entwickelt GIS-Anwendungen mit und berät zum Einsatz von OpenStreetMap, zudem ist er Maintainer von ein paar Open Source-Projekten, unter anderem dem "OpenStreetMap Calendar".</p>
 <p>Zu OpenStreetMap ist er 2011 gestoßen, hat auf etlichen Konferenzen Vorträge zum Thema OSM gehalten und in letzten Jahren vermehrt mit Vector Tile-Technologie gearbeitet.</p>
         </div>
         </section>

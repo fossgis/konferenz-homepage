@@ -33,7 +33,7 @@
 Dieser Vortrag gibt ein update zu den "heißen" Themen rund um OGC APIs und offenen Standards des OGC, die Zusammenarbeit der OSGeo und des OGC und wie wir gemeinsam offene Standards weiter entwickeln können.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Athina Trakas</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/7TFZFE_91c6175e36feb5e8e5edf901f5583c78'>            <p>Athina ist seit vielen Jahren im Bereich Freier Software unterwegs. Seit 2006 arbeitet sie beim OGC. Die Vernetzung beider Communities ist ein wichtiger Bestandteil ihrer Arbeit. Als Direktor für Member Services ist die unter anderem für die Mitgliederbetreuung zuständig.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/7TFZFE.jpg'>            <p>Athina ist seit vielen Jahren im Bereich Freier Software unterwegs. Seit 2006 arbeitet sie beim OGC. Die Vernetzung beider Communities ist ein wichtiger Bestandteil ihrer Arbeit. Als Direktor für Member Services ist die unter anderem für die Mitgliederbetreuung zuständig.</p>
         </div>
         </section>
 

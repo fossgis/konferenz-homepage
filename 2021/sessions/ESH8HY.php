@@ -32,7 +32,7 @@
             <p>Der Vortrag stellt die aktuelle Version 3.2 des bewährten WebGIS-Clients Mapbender vor und demonstiert die wichtigsten Neuerungen. Außerdem werden die Ergebnisse des Anwendertreffen im März 2021, die Projekt Roadmap sowie geplante Entwicklungen vorgestellt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Olaf Knopp</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/XV33WU_OK_Bild_wE9D4xb.png'>            <p>Olaf ist Gründer und Geschäftsführer der WhereGroup GmbH mit Niederlassungen in Bonn, Berlin und Freiburg. Er studierte Geographie in Düsseldorf und Bonn und machte sich nach seinem Abschluss als GIS-Berater selbstständig. Olaf arbeitet seit über 15 Jahren mit freier GIS-Software, ist Project Chair des OSGeo-Projekts Mapbender und Mitglied des Vorstands des QGIS-DE e.V..</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/XV33WU.jpg'>            <p>Olaf ist Gründer und Geschäftsführer der WhereGroup GmbH mit Niederlassungen in Bonn, Berlin und Freiburg. Er studierte Geographie in Düsseldorf und Bonn und machte sich nach seinem Abschluss als GIS-Berater selbstständig. Olaf arbeitet seit über 15 Jahren mit freier GIS-Software, ist Project Chair des OSGeo-Projekts Mapbender und Mitglied des Vorstands des QGIS-DE e.V..</p>
         </div>
         </section>
 

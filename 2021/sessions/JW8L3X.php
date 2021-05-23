@@ -39,11 +39,11 @@
     • Neue Werkzeuge der Symboldarstellung</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Otto Dassau</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/PPGCHK_26839619320a581e5177cf009d62e233'>            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/PPGCHK.jpg'>            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Klaus Mithöfer</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/ST3EE7_klaus_MdEwTkX.jpeg'>            <p>Ich bin Geograf und Geoinformatiker und habe zu beginn meiner Karriere im Bereich Bodendaten und Bodenfunktionsbewertung mit GIS gearbeitet und meinen Fokus zunehmend auf Geoinformatik und Open Source GIS gesetzt. Nach einem Auslandsaufenthalt arbeite ich seit 2016 beim Geoinformatikbüro Dassau mit QGIS, GRASS GIS und PostGIS im Schwerpunkt Datenanalyse und Schulung.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/ST3EE7.jpg'>            <p>Ich bin Geograf und Geoinformatiker und habe zu beginn meiner Karriere im Bereich Bodendaten und Bodenfunktionsbewertung mit GIS gearbeitet und meinen Fokus zunehmend auf Geoinformatik und Open Source GIS gesetzt. Nach einem Auslandsaufenthalt arbeite ich seit 2016 beim Geoinformatikbüro Dassau mit QGIS, GRASS GIS und PostGIS im Schwerpunkt Datenanalyse und Schulung.</p>
         </div>
         </section>
 

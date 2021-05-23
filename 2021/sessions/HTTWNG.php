@@ -32,7 +32,7 @@
             <p>Der Vortrag wird auf die Neuerungen bei osm2pgsql eingehen und zeigen, wie die neuen Features auf vielfältige Art genutzt werden können. Natürlich kann man sie zum Erzeugen von Bitmap- oder Vector-Tiles verwenden. Aber auch die Nutzung aus GIS-Programmen wie QGIS ist einfach möglich. Daneben können die Daten für geographische und statistische Analysen und für viele andere Dinge genutzt werden.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jochen Topf</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/LULDTS_2d4dfcdcde73aa5e2ffa4a9b3a7cb51d'>            <p>Jochen Topf ist seit vielen Jahren bei OpenStreetMap als Mapper und Software-Entwickler aktiv. Er ist der Autor des Flex-Outputs von osm2pgsql und betreut auch das Osmium Framework und viele andere OSM-Software.
+            <img class='abstract-speaker-avatar' src='/2021/avatars/LULDTS.jpg'>            <p>Jochen Topf ist seit vielen Jahren bei OpenStreetMap als Mapper und Software-Entwickler aktiv. Er ist der Autor des Flex-Outputs von osm2pgsql und betreut auch das Osmium Framework und viele andere OSM-Software.
 Auch beruflich ist er als Software-Entwickler und Consultant im Bereich OpenStreetMap und der GIS-Welt unterwegs.</p>
         </div>
         </section>

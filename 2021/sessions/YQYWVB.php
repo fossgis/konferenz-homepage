@@ -35,7 +35,7 @@
 Der Vortrag schließt mit einer Demonstration, wie im Projekt SAUBER zeitbasierte Dienste mittels GeoServer erstellt werden. Außerdem zeigen wir unseren auf Wegue (Vue.js und OpenLayers) basierenden Web-Client mit dem zeitliche Abfragen benutzerfreundlich durchgeführt werden können.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jakob Miksch</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/7RZJR9_9888e9fcab3126f81a68395e35b50b20'>            <p>Software Entwickler für Geo-Anwendungen bei <a href="www.meggsimum.de">Meggsimum</a> in Mutterstadt. Haupsächlich mit JavaScript, PostGIS, Shell, Python, GDAL/OGR und QGIS.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/7RZJR9.jpg'>            <p>Software Entwickler für Geo-Anwendungen bei <a href="www.meggsimum.de">Meggsimum</a> in Mutterstadt. Haupsächlich mit JavaScript, PostGIS, Shell, Python, GDAL/OGR und QGIS.</p>
 <ul>
 <li>Mitorganisator von <a href="http://maptime.io/salzburg/">Maptime Salzburg</a></li>
 <li>OSGeo <a href="https://www.osgeo.org/member/miksch/">Charter Member</a></li>

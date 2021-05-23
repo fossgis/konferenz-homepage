@@ -36,7 +36,7 @@
 <p>Im Vortrag wird aufgezeigt, was die Gründe für dieses Vorgehen waren, welche technischen und konzeptionellen Herausforderungen aufgetreten sind (beispielsweise die GeoServer SLD-Verarbeitung mit JSON-Attributen) und wo auch aktuell noch Grenzen bestehen (beispielsweise beim A0-Druck). Die während der Umsetzung gesammelte Erfahrung und erarbeiteten Lösungsansätze werden offengelegt und zur Diskussion freigestellt. Des Weiteren resultierten aus den Arbeiten Opensource-Bibliotheken (https://github.com/geoinfo-applications), deren Verwendung und Weiterentwicklung wir gerne propagieren möchten.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Hümeyra Hubacher</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/KBCKSM_75dac310329005d64626853aee620544'>            <p>Software Entwicklerin für GEOINFO Applications AG</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/KBCKSM.jpg'>            <p>Software Entwicklerin für GEOINFO Applications AG</p>
         </div>
         </section>
 

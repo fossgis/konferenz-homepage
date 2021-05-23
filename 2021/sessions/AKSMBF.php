@@ -33,7 +33,7 @@
 Es werden die Vor- und Nachteile der einzelnen Lösungen aufgezeigt und Lösungen für Probleme in der Orchestrierung  der einzelnen Komponenten erläutert. Zudem wird ein Ausblick auf zukünftige Entwicklungen gegeben, u.a. die Bereitstellung eines AAA-konformen WFS mit FOSS und die kommende Umstellung auf GID 7.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Oliver Schmidt</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/9CXKJP_OliverSchmidt_a00y4If.png'>            <p>Oliver Schmidt ist Diplom-Geograph mit den Fachrichtungen Fernerkundung/Geoinformatik und Meteorologie. Nach dem Studium an der Universität Trier und einer Mitarbeit an Forschungsprojekten an der Universität Leipzig ist er seit 2014 Mitarbeiter des Landesamtes für Vermessung und Geobasisinformation Rheinland-Pfalz in Koblenz. Dort betreut er ein Serversystem zur Bereitstellung von WMS, WFS und INSPIRE-Diensten.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/9CXKJP.jpg'>            <p>Oliver Schmidt ist Diplom-Geograph mit den Fachrichtungen Fernerkundung/Geoinformatik und Meteorologie. Nach dem Studium an der Universität Trier und einer Mitarbeit an Forschungsprojekten an der Universität Leipzig ist er seit 2014 Mitarbeiter des Landesamtes für Vermessung und Geobasisinformation Rheinland-Pfalz in Koblenz. Dort betreut er ein Serversystem zur Bereitstellung von WMS, WFS und INSPIRE-Diensten.</p>
         </div>
         </section>
 

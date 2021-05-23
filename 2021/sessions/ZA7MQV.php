@@ -33,7 +33,7 @@
 <p>OSM ist ein optimales Werkzeug, um solche Daten zu erfassen und auswertbar zu machen. Im Berliner Stadtteil Neukölln haben wir demonstriert, wie urbaner Parkraum systematisch auf OSM-Basis kartiert und mit GIS und unter Einbezug externer offener Daten hochaufgelöst analysiert werden kann. Im Vortrag sollen die Herangehensweise und Ergebnisse des Projekts vorgestellt werden; wir haben aber auch viele Erfahrungen für die Mapping- und Auswertungspraxis gesammelt, die wir gern teilen möchten, damit Andere an anderen Orten bei Bedarf darauf aufbauen können.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Alex Seidel</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/JYBMSF_SouthParkAvatar_square_Vov4YGU.jpg'>            <p>OSM-Mapper und Stadtgeograph aus Berlin.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/JYBMSF.jpg'>            <p>OSM-Mapper und Stadtgeograph aus Berlin.</p>
         </div>
         </section>
 

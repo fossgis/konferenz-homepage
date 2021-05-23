@@ -33,7 +33,7 @@
 <p>Die Flexibilität, die eine Microservice Architektur bei der Entwicklung, dem Test und dem Betrieb mit sich bringt, soll in diesem Vortrag genauer vorgestellt werden.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>David Arndt</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/EZ33FT_csm_David_Arndt.jpg_c84a31a917_kewc1Mc.jpg'>            <p>Teamleiter Team Geodaten-Technik beim Regionalverband Ruhr in Essen</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/EZ33FT.jpg'>            <p>Teamleiter Team Geodaten-Technik beim Regionalverband Ruhr in Essen</p>
 <p>Konzeption und Betrieb der Geodateninfrastruktur des Regionalverbandes</p>
         </div>
         </section>

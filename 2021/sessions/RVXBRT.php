@@ -35,7 +35,7 @@
 <p>Dieser Vortrag stellt die Funktion zunächst grundlegend vor und zeigt dann anhand einiger kleiner, praxisnaher Beispiele ihre Einsatzmöglichkeiten.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Johannes Kröger</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/VEHRRN_fossgis_hannes_jSGhabG.jpg'>            <p>Kartografiefreund, Bastler, ([Q]GIS/Python)-(Entwickler|Berater) bei der WhereGroup</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/VEHRRN.jpg'>            <p>Kartografiefreund, Bastler, ([Q]GIS/Python)-(Entwickler|Berater) bei der WhereGroup</p>
         </div>
         </section>
 

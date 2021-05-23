@@ -33,7 +33,7 @@
 <p>Im Rahmen des Vortrags sollen mit PotreeConverter und PotreeViewer zwei Anwendungen aus dem OpenSource Bereich vorgestellt werden, die in Kombination mit einem simplen FrontEnd das Potential bergen, 3D-Punktwolken zugänglicher zu machen. Durch Anpassungen am Viewer können außerdem unterschiedliche Nutzergruppen bedient werden (bspw. mobile Anwender, deren Web-Ansicht der Punktwolke so vorkonfiguriert ist, dass Punktwolken nur in Ausschnitten geladen werden, sodass Datenvolumen eingespart werden kann).</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Güren Tan Dinga</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/UUD8SP_dinga_i7AT2nO.jpg'>            <ul>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/UUD8SP.jpg'>            <ul>
 <li>Wissenschaftlicher Mitarbeiter im <a href="http://www.geomatik-hamburg.de/g2lab/">g2lab</a> der HafenCity Universität Hamburg</li>
 <li>Remote Sensing und Data Science mit Python als Arbeitsgebiete</li>
 </ul>

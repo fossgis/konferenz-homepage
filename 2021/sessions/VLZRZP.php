@@ -38,7 +38,7 @@
     • Werkzeuge von Raster- und Vektordaten</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Klaus Mithöfer</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/ST3EE7_klaus_MdEwTkX.jpeg'>            <p>Ich bin Geograf und Geoinformatiker und habe zu beginn meiner Karriere im Bereich Bodendaten und Bodenfunktionsbewertung mit GIS gearbeitet und meinen Fokus zunehmend auf Geoinformatik und Open Source GIS gesetzt. Nach einem Auslandsaufenthalt arbeite ich seit 2016 beim Geoinformatikbüro Dassau mit QGIS, GRASS GIS und PostGIS im Schwerpunkt Datenanalyse und Schulung.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/ST3EE7.jpg'>            <p>Ich bin Geograf und Geoinformatiker und habe zu beginn meiner Karriere im Bereich Bodendaten und Bodenfunktionsbewertung mit GIS gearbeitet und meinen Fokus zunehmend auf Geoinformatik und Open Source GIS gesetzt. Nach einem Auslandsaufenthalt arbeite ich seit 2016 beim Geoinformatikbüro Dassau mit QGIS, GRASS GIS und PostGIS im Schwerpunkt Datenanalyse und Schulung.</p>
         </div>
         </section>
 

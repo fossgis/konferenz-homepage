@@ -34,7 +34,7 @@
 <p>In diesem Vortrag werden wir die neuesten Entwicklungen und die Roadmap für die nächste Version von GeoNetwork vorstellen, einschließlich der Unterstützung der neuen ogcapi-records Spezifikation.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Emmanuel Belo</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/CSVTU3_54662d7017adcb9b30f19a59c31bd497'>            <p>Head of Camptocamp Geospatial Solutions department, with a sharp focus on GIS Open Source software, tailored solutions, innovation and Agile/DevOps projects.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/CSVTU3.jpg'>            <p>Head of Camptocamp Geospatial Solutions department, with a sharp focus on GIS Open Source software, tailored solutions, innovation and Agile/DevOps projects.</p>
         </div>
         </section>
 

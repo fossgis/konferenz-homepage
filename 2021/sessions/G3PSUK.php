@@ -38,7 +38,7 @@
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Christian Fremd</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/X8FAFC_user-avatar_F9eMVRt.jpeg'>            <p>Stadtplankartographie für Druckprodukte und Internet sowie GIS-Analysen für Fachthemen im Stadtmessungsamt Stuttgart</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/X8FAFC.jpg'>            <p>Stadtplankartographie für Druckprodukte und Internet sowie GIS-Analysen für Fachthemen im Stadtmessungsamt Stuttgart</p>
         </div>
         </section>
 

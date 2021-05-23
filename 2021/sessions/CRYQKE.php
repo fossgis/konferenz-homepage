@@ -33,7 +33,7 @@
 <p>Die Projekte die verglichen werden, sind PosgreSQL mit PostGIS, Apache Spark mit GeoMesa und Hadoop, Presto, Dask mit GeoPandas und einige weitere mit geographischer Funktionalität. Der Vortrag stellt die einzelnen Projekte vor, vergleicht die Performanz und zeigt mögliche Anwendungsfälle.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Nikolai Janakiev</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/NEBLKT_ad7776885ff67bf57e46cab64e1addf5'>            <p>Geospatial Data Scientist bei <a href="triply.at/">Triply</a> und freiberuflicher <a href="https://janakiev.com/">Data Scientist und Data Engineer</a> mit Fokus auf geographische Datenverarbeitung, Routing, OpenStreetMap und offene Daten.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/NEBLKT.jpg'>            <p>Geospatial Data Scientist bei <a href="triply.at/">Triply</a> und freiberuflicher <a href="https://janakiev.com/">Data Scientist und Data Engineer</a> mit Fokus auf geographische Datenverarbeitung, Routing, OpenStreetMap und offene Daten.</p>
         </div>
         </section>
 
