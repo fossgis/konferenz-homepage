@@ -34,7 +34,7 @@
 <p>In diesem Vortrag wird die Architektur von GeoServer Microservices erläutert und dessen Einsatz im Projekt NexSIS erklärt, in dem die GeoServer Microservices in einem Kubernetes-Cluster betrieben werden und somit hochverfügbare Kartendienste innerhalb der Notruf-Bearbeitung sicherstellen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Wolfgang Kaltz</h3>
-            <p>Projektleiter und GIS-Berater bei Camptocamp SA, Standort Olten (Schweiz)</p>
+                        <p>Projektleiter und GIS-Berater bei Camptocamp SA, Standort Olten (Schweiz)</p>
         </div>
         </section>
 

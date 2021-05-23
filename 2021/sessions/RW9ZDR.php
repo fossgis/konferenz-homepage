@@ -34,7 +34,7 @@
 <p>Im ersten Teil des Vortrags wird anhand von Anwendungsbeispielen gezeigt, was mit MapLibre möglich ist und wie es sich zu ähnlichen Open-Source-Libraries abgrenzt. Im zweiten Teil werden die Hintergründe der Mapbox-Entscheidung aus Open-Source-Sicht beleuchtet und aus den ersten Stunden des MapLibre-Projektes berichtet. Abschließend gibt es eine Einschätzung zum aktuellen Stand und den Perspektiven des Projekts.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Marcel Normann</h3>
-            <p>1999 im Zuge der DotCom-Blase als Quereinsteiger in die Software-Entwicklung gekommen, danach zahlreiche Stationen rund um das Thema Web-Entwicklungen. 2006 aus privatem Interesse Fernstudium Geoinformatik. Seit 2018 Leiter der Software-Entwicklungen bei der WhereGroup, seit 2020 technischer Leiter Gesamtfirma.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/8JBSED_Kopf_kleiner_pSeHUco.jpg'>            <p>1999 im Zuge der DotCom-Blase als Quereinsteiger in die Software-Entwicklung gekommen, danach zahlreiche Stationen rund um das Thema Web-Entwicklungen. 2006 aus privatem Interesse Fernstudium Geoinformatik. Seit 2018 Leiter der Software-Entwicklungen bei der WhereGroup, seit 2020 technischer Leiter Gesamtfirma.</p>
         </div>
         </section>
 

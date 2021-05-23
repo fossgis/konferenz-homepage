@@ -35,7 +35,7 @@ Ein weiterer Anwendungsfall ergab sich, als im Januar 2021 nach einer einfachen 
 Im Vortrag werden die etablierten Prozesse am praktischen Beispiel vorgestellt und es wird erläutert, worauf man bei der Einrichtung solcher Verfahren achten muss.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Armin Retterath</h3>
-            <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
+                        <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
         </div>
         </section>
 

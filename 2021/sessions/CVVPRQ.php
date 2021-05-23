@@ -33,7 +33,7 @@
             <p>Docker ist schon seit Jahren aus der Software-Entwicklung nicht mehr wegzudenken. Während es relativ einfach ist, neue Applikationen mit leichtgewichtigen Containern aufzubauen, ist die Lernkurve bei der Migration bestehender Anwendungen deutlich steiler. Christian zeigt anhand von Erfahrungen bei der Docker-Migration von Mapbender-Anwendungen, welche Best Practices sich dabei herauskristallisiert haben. Dabei geht es nicht nur um Mapbender an sich, sondern auch um die umgebende GDI, so dass sich der Vortrag problemlos auf andere WebGIS übertragen lässt. Am Rande wird auch das Thema Cloud angeschnitten und erläutert, mit welchen Tricks man Dockeranwendungen dort noch schneller machen kann.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Christian Kuntzsch</h3>
-            <p>Full Stack Software Entwickler bei WhereGroup GmbH seit 2017</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/GMWBGF_FSM_1271_SnvQ6EM.jpg'>            <p>Full Stack Software Entwickler bei WhereGroup GmbH seit 2017</p>
 <p>FOSS-(GIS) Enthusiast seit dem Geoinformatik-Studium</p>
         </div>
         </section>

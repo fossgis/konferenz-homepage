@@ -38,7 +38,7 @@ Darüber hinaus bieten Vektorkacheln die Möglichkeit, einen eigenen kartografis
 swisstopo publizierte basierend auf dieser Technologie ein erstes Produkt: eine Leichte Basiskarte (https://test.map.geo.admin.ch/) (zum Zeitpunkt des Vortrags ev. bereits auf map.geo.admin.ch migriert). Diese ist im Gegensatz zu den traditionellen swisstopo Landeskarten inhaltlich und stylistisch leichter gehalten, um einer überlagernden Zusatzthematik genügend Raum zu geben und bietet in Kombination mit OSM-Daten weltweite Abdeckung.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Sebastian Denier</h3>
-            <p>GIS-Kartographie, swisstopo</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/NMLNRV_DSC_0106_OK_Sebastian_Denier_Pass_SW_ZLUhEZh.JPG'>            <p>GIS-Kartographie, swisstopo</p>
         </div>
         </section>
 

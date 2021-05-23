@@ -57,7 +57,7 @@ sein, beliebige Dienste sinnvoll über MapProxy zu cachen und somit zu
 beschleunigen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Hannes Blitza</h3>
-            <p>Studium der Geographie in Marburg und Bonn. Mitarbeiter von terrestris in Bonn.</p>
+                        <p>Studium der Geographie in Marburg und Bonn. Mitarbeiter von terrestris in Bonn.</p>
         </div>
         </section>
 

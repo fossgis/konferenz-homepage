@@ -36,7 +36,7 @@
 * https://github.com/terrestris/shogun</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Marc Jansen</h3>
-            <p>Ich bin seit vielen Jahren in der OpenSource GIS-Szene aktiv, als Entwickler (u.a. <a href="http://openlayers.org/">OpenLayers</a>, <a href="http://openlayers.org/">GeoExt</a>, <a href="https://github.com/terrestris/shogun">SHOGun</a> usw.), als konzeptuell Beitragender (u.a. <a href="https://github.com/terrestris/react-geo">react-geo</a>, <a href="https://geostyler.org/">GeoStyler</a> usw.), als Sprecher und Workshopleiter (international &amp; national), als OSGeo Charter Member und als Geschäftsführer der zwei Bonner Firmen <a href="https://www.terrestris.de/">terrestris</a> (OpenSource GIS-Lösungen, Beratungen und mehr) und <a href="https://www.mundialis.de/">mundialis</a> (Earth Observation &amp; Geo-Expertise mit freier Software).</p>
+                        <p>Ich bin seit vielen Jahren in der OpenSource GIS-Szene aktiv, als Entwickler (u.a. <a href="http://openlayers.org/">OpenLayers</a>, <a href="http://openlayers.org/">GeoExt</a>, <a href="https://github.com/terrestris/shogun">SHOGun</a> usw.), als konzeptuell Beitragender (u.a. <a href="https://github.com/terrestris/react-geo">react-geo</a>, <a href="https://geostyler.org/">GeoStyler</a> usw.), als Sprecher und Workshopleiter (international &amp; national), als OSGeo Charter Member und als Geschäftsführer der zwei Bonner Firmen <a href="https://www.terrestris.de/">terrestris</a> (OpenSource GIS-Lösungen, Beratungen und mehr) und <a href="https://www.mundialis.de/">mundialis</a> (Earth Observation &amp; Geo-Expertise mit freier Software).</p>
         </div>
         </section>
 

@@ -34,7 +34,7 @@
 <p>In dem Vortrag wird der aktuelle Entwicklungsstand der Bibliothek und die Einsatzmöglichkeiten der Features und Daten von CesiumJS am Beispiel von Projekten kurz vorgestellt. Dabei wird auch ein Fokus auf die Anforderungen des Browsers gelegt. Neben der allgemeinen Verfügbarkeit und Bereitstellung von Daten sollen auch die Einsatzmöglichkeiten einzelner ausgewählter Features der Bibliothek vorgestellt und diskutiert werden.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Michael Holthausen</h3>
-            <ul>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/BPEWWR_mh_2019_yRkPvfG.jpg'>            <ul>
 <li>M.Sc. Geographie</li>
 <li>Anwedungsentwickler bei terrestris GmbH &amp; Co. KG</li>
 </ul>

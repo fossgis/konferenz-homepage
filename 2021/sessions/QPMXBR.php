@@ -41,7 +41,7 @@ https://access.crunchydata.com/documentation/pg_featureserv/latest/
 https://pygeoapi.io/</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Astrid Emde</h3>
-            <p>Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2021 in Rapperswil oder auch Online!</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/XTSTXB_ae_2_MO9A7jc.jpg'>            <p>Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2021 in Rapperswil oder auch Online!</p>
 <p>Sie befasst sich seit vielen Jahren mit Geodaten und FOSSGIS und hat schon zahlreiche Projekte vor allem im WebGIS-Bereich umgesetzt.</p>
 <p>Sie weist Erfahrung mit PostgreSQL und PostGIS, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin Apache Solr, OpenLayers, MapProxy, OGC Standards &amp; Skripting.</p>
 <p>Astrid Emde arbeitet bei der WhereGroup in Bonn und hat schon viele Workshops und Präsentationen zu Mapbender, MapServer, GeoServer, PostgreSQL/PostGIS, OWS oder allgemein zum Aufbau einer GDI gehalten. Sie ist Dozentin der [FOSS Academy] (https://www.foss-academy.com), dem Schulungsinstitut der WhereGroup (https://www.wheregroup.com)</p>

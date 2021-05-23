@@ -34,7 +34,7 @@ MapFish Print lässt sich in einem klassischen Servlet-Container (z.B. Tomcat) a
 <p>MapFish Print unterstützt viele gängige Formate und Standards (z.B. WMS, WFS, WMTS, GeoJSON). Zudem bietet die Anwendung zahlreiche kartographische Gestaltungsmöglichkeiten wie Drehungen, Nordpfeile, Legenden oder Grids. Der Ausdruck wird über ein JasperReports-Template gestaltet und über eine YAML-Konfigurationsdatei definieren. Über einen JSON-Request wird dann vom Client der konkrete Druck-Inhalt (Layer, AOI, etc) übergeben.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Björn Höfling</h3>
-            <p>Björn Höfling ist Mitarbeiter der Camptocamp Germany GmbH, Java-Entwickler, GIS-Experte, mag freie Software und offene Daten.</p>
+                        <p>Björn Höfling ist Mitarbeiter der Camptocamp Germany GmbH, Java-Entwickler, GIS-Experte, mag freie Software und offene Daten.</p>
         </div>
         </section>
 

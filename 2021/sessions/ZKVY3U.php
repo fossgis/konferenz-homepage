@@ -33,7 +33,7 @@
 Die Entwicklung des Geoportal.de wird von einem Team von Entwicklern im Betrieb GDI-DE im BKG durchgeführt. Dabei wird das Portal auf der Basis der OSS Masterportal (https://www.masterportal.org/) entwickelt. In dem Vortrag werden die Vorzüge des Einsatzes der Masterportal-Software erläutert. Zudem wird das Potential bzgl. der zukünftigen Weiterentwicklung der Software, insbesondere durch die Gründung der Implementierungspartnerschaft Masterportal, aufgezeigt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Manuel Fischer</h3>
-            <p>Ich habe von 2002 bis 2006 (Diplom) und von 2007 bis 2009 (Master) an der FH Mainz Geoinformatik studiert. Seit 2006 bin ich im BKG angestellt und war hier insgesamt über 10 Jahre im Bereich der Softwareentwicklung (u.a. TopPlus-Verfahren) tätig. Aktuell bin ich Leiter des Betrieb GDI-DE im Bundesamt für Kartographie und Geodäsie (BKG) und hier insbesondere für den Betrieb und Ausbau der National Technischen Komponenten (Geoportal.de, GDI-DE Testsuite, GDI-DE Registry, Geodatenkatalog.de) der GDI-DE verantwortlich.</p>
+                        <p>Ich habe von 2002 bis 2006 (Diplom) und von 2007 bis 2009 (Master) an der FH Mainz Geoinformatik studiert. Seit 2006 bin ich im BKG angestellt und war hier insgesamt über 10 Jahre im Bereich der Softwareentwicklung (u.a. TopPlus-Verfahren) tätig. Aktuell bin ich Leiter des Betrieb GDI-DE im Bundesamt für Kartographie und Geodäsie (BKG) und hier insbesondere für den Betrieb und Ausbau der National Technischen Komponenten (Geoportal.de, GDI-DE Testsuite, GDI-DE Registry, Geodatenkatalog.de) der GDI-DE verantwortlich.</p>
         </div>
         </section>
 

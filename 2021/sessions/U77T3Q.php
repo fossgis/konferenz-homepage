@@ -43,7 +43,7 @@
 <p>Dieser Workshop richtet sich an (zukünftige) Entwickler von WebGIS-Anwendungen, die ihren Nutzern die Möglichkeit bieten wollen, Geodaten in ihrem WebGIS zu stylen. Vorkenntnisse in JavaScript oder ReactJS sind hilfreich, aber nicht zwingend erforderlich.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jan Suleiman</h3>
-            <ul>
+                        <ul>
 <li>M.Sc. Geoinformatics</li>
 <li>Full-Stack Entwickler bei terrestris GmbH &amp; Co. KG</li>
 <li>GeoStyler Kernentwickler</li>
@@ -53,7 +53,7 @@
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Daniel Koch</h3>
-            <p>Lead Developer der terrestris GmbH &amp; Co. KG und OpenSource Enthusiast.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/U7QH7V_me_FVV9vKf.jpg'>            <p>Lead Developer der terrestris GmbH &amp; Co. KG und OpenSource Enthusiast.</p>
         </div>
         </section>
 

@@ -35,7 +35,7 @@ Nach einer Analyse der Anforderungen und Randbedingungen wurde ein Entwurf für 
 Im Vortrag werden die Erfahrungen beim Projektmanagement und bei der Implementierung der WebApp erläutert und veranschaulicht. Auch werden konkrete Fragen der Umsetzung thematisiert: Wie können sogenannte Router Components den Code übersichtlich halten und Page-Events, benötigte Daten sowie zusätzliche Methoden sinnvoll strukturiert werden? Wie kann das dynamische Nachladen von Inhalten realisiert werden? Welche Herausforderungen wurden gelöst und können den Einstieg für andere erleichtern? Gegebenenfalls können auch noch Erfahrungen aus der Testphase präsentiert werden. Zudem soll die Übertragbarkeit solch eines Projektes auf andere Fragestellungen und Use Cases diskutiert werden.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Theodor Rieche</h3>
-            <p><b>2018</b> - Hochschule für Technik und Wirtschaft (HTW) Dresden: Bachelor of Engineering in Kartographie und Geoinformatik <p>
+                        <p><b>2018</b> - Hochschule für Technik und Wirtschaft (HTW) Dresden: Bachelor of Engineering in Kartographie und Geoinformatik <p>
 <b>vsl. 2021</b> - Hochschule für Technik und Wirtschaft (HTW) Dresden: Master of Engineering in Geoinformatik/ Management<p>
 <b>seit Oktober 2018</b>- Tätigkeit als wissenschaftliche Hilfskraft am Leibniz-Institut für ökologische Raumentwicklung e.V.</p>
         </div>

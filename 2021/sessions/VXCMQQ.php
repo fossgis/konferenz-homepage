@@ -33,7 +33,7 @@
 <p>In den letzten Jahren hat sich viel getan, um die Installation von Nominatim einfacher zu machen. In dieser Demo-Session zeige ich, wie man in nur 20 Minuten seinen eigene Installation von Nominatim aufsetzen, Daten einer Region importieren und eine erste Liste von Adressen geocodieren kann.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Sarah Hoffmann</h3>
-            <p>Sarah Hoffmann ist langjährige OpenStreetMapperin. Sie ist Maintainer für pyosmium, osm2pgsql und Nominatim und betreibt die Webseite waymarkedtrails.org. Sie arbeitet inzwischen als freiberufliche Beraterin und Softwareentwicklerin für Geocoding und Open-Source-Softwareentwicklung.</p>
+                        <p>Sarah Hoffmann ist langjährige OpenStreetMapperin. Sie ist Maintainer für pyosmium, osm2pgsql und Nominatim und betreibt die Webseite waymarkedtrails.org. Sie arbeitet inzwischen als freiberufliche Beraterin und Softwareentwicklerin für Geocoding und Open-Source-Softwareentwicklung.</p>
         </div>
         </section>
 

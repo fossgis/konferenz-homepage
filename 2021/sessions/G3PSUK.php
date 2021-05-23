@@ -34,7 +34,11 @@
 <p>Diese und weitere Herausforderungen sollen in diesem Vortrag am Beispiel der neuen Basiskarten des Stadtmessungsamt Stuttgarts erläutert und diskutiert werden. Hintergrund ist die Migration von proprietärer zur quelloffener Software, in diesem Fall in erster Linie GeoServer, sowie der Nach- bzw. Neubau von Basiskarten in offenen Stilformaten. Konkret geht es um die Ausgestaltung von 60 Layern, vorliegend im GeoPackage Format, und das Zusammenstecken zu einer Basiskarte.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Hannes Blitza</h3>
-            <p>Studium der Geographie in Marburg und Bonn. Mitarbeiter von terrestris in Bonn.</p>
+                        <p>Studium der Geographie in Marburg und Bonn. Mitarbeiter von terrestris in Bonn.</p>
+        </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Christian Fremd</h3>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/X8FAFC_user-avatar_F9eMVRt.jpeg'>            <p>Stadtplankartographie für Druckprodukte und Internet sowie GIS-Analysen für Fachthemen im Stadtmessungsamt Stuttgart</p>
         </div>
         </section>
 

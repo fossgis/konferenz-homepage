@@ -391,6 +391,13 @@ img.abstract-novideo-img {
 	margin-top: 15px;
 }
 
+.abstract-speaker-avatar {
+	width: 100px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
 /* Video-Vorschau */
 .video-container {
 	width: 400px;

@@ -250,7 +250,11 @@
     <br><span class="session-speakers">Jan Schmalfuß-Schwarz, Julian Striegl</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_38SRQD">
+            <a class="session-title" href="sessions/38SRQD.php">Kartographische Generalisierung mit PostgreSQL und PostGIS</a>
+    <br><span class="session-speakers">Mathias Gröbe</span>
+</td>
+
                             <td></td>
                             
                             

@@ -249,7 +249,7 @@
                                 <tr>
                         <td class="program-time">14:30</td>
                         <td rowspan="1" id="session_YQYWVB">
-            <a class="session-title" href="sessions/YQYWVB.php">Wer hat an der Uhr gedreht? - Zeitbasierte Geodaten modellieren, abfragen und visualiseren</a>
+            <a class="session-title" href="sessions/YQYWVB.php">Wer hat an der Uhr gedreht? - Zeitbasierte Geodaten modellieren, abfragen und visualisieren</a>
     <br><span class="session-speakers">Jakob Miksch</span>
 </td>
 
@@ -281,7 +281,11 @@
     <br><span class="session-speakers">Nikolai Janakiev</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_LSRYBH">
+            <a class="session-title" href="sessions/LSRYBH.php">Die Benutzerfreundliche Pflege einer Geodateninfrastruktur mit GeOrchestra Datafeeder</a>
+    <br><span class="session-speakers">Wolfgang Kaltz, Björn Höfling</span>
+</td>
+
                             <td></td>
                             
                             

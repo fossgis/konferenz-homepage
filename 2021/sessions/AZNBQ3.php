@@ -33,7 +33,7 @@
 Es werden die Schritte vorgestellt, die notwendig sind, um den Import durchzuführen: welche OSM-Tags sollten ergänzt oder OSM-Werte verfeinert werden, die Diskussion zum Tagging und zum Import mit der OSM-Community, Bildung eines Importteams, die Beschreibung des eigentlichen Imports sowie Qualitätssicherungsdienste. Die erhobenen Daten und umfangreiches Bildmaterial werden der Öffentlichkeit unter einer offenen Datenlizenz bereitgestellt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Dietmar Seifert</h3>
-            <p>Seit Ende 2009 als OpenStreetMapper aktiv, zunächst in Augsburg und Umgebung Straßennamen und Hausnummern ergänzt. Heute in Baden-Württemberg im Bereich ÖPNV-Mapping aktiv.</p>
+                        <p>Seit Ende 2009 als OpenStreetMapper aktiv, zunächst in Augsburg und Umgebung Straßennamen und Hausnummern ergänzt. Heute in Baden-Württemberg im Bereich ÖPNV-Mapping aktiv.</p>
         </div>
         </section>
 

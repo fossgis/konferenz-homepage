@@ -33,7 +33,7 @@
 Alle Interessierten sind herzlich eingeladen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Torsten Friebe</h3>
-            <p>Torsten Friebe ist Committer und Mitglied des TMC im OSGeo-Projekt deegree (https://www.deegree.org). Seit 2011 ist er Gesellschafter und Geschäftsführer bei der lat/lon GmbH in Bonn.</p>
+                        <p>Torsten Friebe ist Committer und Mitglied des TMC im OSGeo-Projekt deegree (https://www.deegree.org). Seit 2011 ist er Gesellschafter und Geschäftsführer bei der lat/lon GmbH in Bonn.</p>
         </div>
         </section>
 

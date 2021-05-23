@@ -32,7 +32,7 @@
             <p>Die AG SmartMapping der AdV wurde beauftragt, amtliche Daten mit neuen Technologien bereitzustellen. Nach einer anfänglichen Phase in der umfangreiche Konzeptpapiere entstanden sind, arbeitet seit Mitte 2019 eine Gruppe von 25 Entwicklern aus verschiedenen Bundesländern auf einer gemeinsamen Plattform an einem gemeinsamen Verfahren. Dabei ist ein bemerkenswertes Projekt entstanden, welches wirklich neue Wege geht, dabei den Kontakt zu den Geobasisdaten aber nicht verloren hat. Weitere Informationen sind auf der Projektwebseite https://adv-smart.de zu finden</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Arnulf Christl</h3>
-            <p>Arulf Christl ist IT Berater für Open Source Technologien und Entwicklung mit agilen Methoden. Er ist Mitgründer der OSgeo und der FOSSGIS-Konferez. Weitere Informationen sind über die Webseite Metaspatial und einschlägige Plattformen (Linkedin, Xing, etc.) zu finden.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/BDJ9CF_0f068ba3fe5ee29bb3ed67f1b7b59aba'>            <p>Arulf Christl ist IT Berater für Open Source Technologien und Entwicklung mit agilen Methoden. Er ist Mitgründer der OSgeo und der FOSSGIS-Konferez. Weitere Informationen sind über die Webseite Metaspatial und einschlägige Plattformen (Linkedin, Xing, etc.) zu finden.</p>
         </div>
         </section>
 

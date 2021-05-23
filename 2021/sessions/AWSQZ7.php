@@ -35,11 +35,11 @@
 <p><b>Wenn du Lust hast aktiv teilzunehmen, melde dich bei fossgis ät johanneskroeger punkt de</b>. Wir spielen Runden mit maximal vier gleichzeitigen Teilnehmer/-innen. Alle anderen können sich nach einem Konferenztag zurücklehnen und den Tag mit etwas Entertainment ausklingen lassen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Johannes Kröger</h3>
-            <p>Kartografiefreund, Bastler, ([Q]GIS/Python)-(Entwickler|Berater) bei der WhereGroup</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/VEHRRN_fossgis_hannes_jSGhabG.jpg'>            <p>Kartografiefreund, Bastler, ([Q]GIS/Python)-(Entwickler|Berater) bei der WhereGroup</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Charlotte Pusch</h3>
-            <p>Kleinräumige Erreichbarkeitsanalysen, PostgreSQL und PostGIS, nutzerorientierte Open Source Planungstools für die Daseinsvorsorge</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/9S37PN_Picture_Charlotte_2_2_XxjImsm.jpg'>            <p>Kleinräumige Erreichbarkeitsanalysen, PostgreSQL und PostGIS, nutzerorientierte Open Source Planungstools für die Daseinsvorsorge</p>
         </div>
         </section>
 

@@ -33,7 +33,7 @@
 <p>In diesen Vortrag geht es um die Erstellung und Schätzung von GTFS Dateien mithilfe von OpenStreetMap Daten. Weiters zeigen wir die Schwierigkeiten und Herausforderungen die auftauchen wenn man mit GTFS arbeitet, die verschiedenen Routing Engines die wir damit getestet haben und die Vollständigkeit von OpenStreetMap für diese Anwendung.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Nikolai Janakiev</h3>
-            <p>Geospatial Data Scientist bei <a href="triply.at/">Triply</a> und freiberuflicher <a href="https://janakiev.com/">Data Scientist und Data Engineer</a> mit Fokus auf geographische Datenverarbeitung, Routing, OpenStreetMap und offene Daten.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/NEBLKT_ad7776885ff67bf57e46cab64e1addf5'>            <p>Geospatial Data Scientist bei <a href="triply.at/">Triply</a> und freiberuflicher <a href="https://janakiev.com/">Data Scientist und Data Engineer</a> mit Fokus auf geographische Datenverarbeitung, Routing, OpenStreetMap und offene Daten.</p>
         </div>
         </section>
 

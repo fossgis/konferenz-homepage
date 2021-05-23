@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>Wer hat an der Uhr gedreht? - Zeitbasierte Geodaten modellieren, abfragen und visualiseren – FOSSGIS 2021</title>
+	<title>Wer hat an der Uhr gedreht? - Zeitbasierte Geodaten modellieren, abfragen und visualisieren – FOSSGIS 2021</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/dienstag.php#session_YQYWVB">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>Wer hat an der Uhr gedreht? - Zeitbasierte Geodaten modellieren, abfragen und visualiseren</h2>
+        <h2 class='abstract-title'>Wer hat an der Uhr gedreht? - Zeitbasierte Geodaten modellieren, abfragen und visualisieren</h2>
         <section>
             <p>
                 <span class='abstract-sessiontype'>Vortrag</span>                von <span class='abstract-speakers'>Jakob Miksch</span></p>
@@ -35,7 +35,7 @@
 Der Vortrag schließt mit einer Demonstration, wie im Projekt SAUBER zeitbasierte Dienste mittels GeoServer erstellt werden. Außerdem zeigen wir unseren auf Wegue (Vue.js und OpenLayers) basierenden Web-Client mit dem zeitliche Abfragen benutzerfreundlich durchgeführt werden können.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jakob Miksch</h3>
-            <p>Software Entwickler für Geo-Anwendungen bei <a href="www.meggsimum.de">Meggsimum</a> in Mutterstadt. Haupsächlich mit JavaScript, PostGIS, Shell, Python, GDAL/OGR und QGIS.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/7RZJR9_9888e9fcab3126f81a68395e35b50b20'>            <p>Software Entwickler für Geo-Anwendungen bei <a href="www.meggsimum.de">Meggsimum</a> in Mutterstadt. Haupsächlich mit JavaScript, PostGIS, Shell, Python, GDAL/OGR und QGIS.</p>
 <ul>
 <li>Mitorganisator von <a href="http://maptime.io/salzburg/">Maptime Salzburg</a></li>
 <li>OSGeo <a href="https://www.osgeo.org/member/miksch/">Charter Member</a></li>

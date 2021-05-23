@@ -43,7 +43,7 @@ Die präzise Steuerung von Blattschnitten, Seitenformaten, Drehungen, Beschriftu
 - etc.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Claas Leiner</h3>
-            <p>Claas Leiner arbeitet miit seinem Büro GKG freiberuflich in Kassel und bietet Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme QGIS, GRASS, SpatiaLite, Postgis sowie GDAL/OGR an. Desweiteren bearbeitet er Aufträge zu Geodatenaufbereitung, -analysen und thematische Kartografie. Besonders verbunden ist er mit QGIS - als Mitglied des QGIS-Anwendervereins QGIS-DE, als Mitorganisator der QGIS-Anwendertreffen 2011 - 2018 sowie als Bronze-Sponsor des Projektes.</p>
+                        <p>Claas Leiner arbeitet miit seinem Büro GKG freiberuflich in Kassel und bietet Schulungen, Dienstleistungen und Support rund um die freien Geoinformationssysteme QGIS, GRASS, SpatiaLite, Postgis sowie GDAL/OGR an. Desweiteren bearbeitet er Aufträge zu Geodatenaufbereitung, -analysen und thematische Kartografie. Besonders verbunden ist er mit QGIS - als Mitglied des QGIS-Anwendervereins QGIS-DE, als Mitorganisator der QGIS-Anwendertreffen 2011 - 2018 sowie als Bronze-Sponsor des Projektes.</p>
         </div>
         </section>
 

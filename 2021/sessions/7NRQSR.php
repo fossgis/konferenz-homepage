@@ -32,11 +32,11 @@
             <p>GRASS GIS ist ein modular aufgebautes geographisches Analyse-System. Es besteht aus mehreren Hundert Kern-Modulen und einer beständig wachsenden Zahl von Erweiterungs-Modulen (GRASS addons). Diese Module sind in erster Linie eigenständige Programme, die in der Befehlszeile aufgerufen werden. Zusätzlich gibt es eine eigene graphische Benutzeroberfläche, die in dieser Demo-Session vorgestellt werden soll. Wir werden mit der Darstellung von Raster- und Vektorkarten beginnen und dazu die verschiedenen Möglichkeiten zum Styling vorstellen. Zwei verschiedene Rasterkarten können visuell mit dem mapswipe Werkzeug und analytisch mit einem Scatterplot verglichen werden. In der Kartenansicht steht auch 3D-Visualisierung zur Verfügung, mit der z.B. Orthophotos über ein DEM gelegt werden können. Mit GRASS GIS können auch Zeitreihen erstellt, verarbeitet und über die graphische Benutzeroberfläche untersucht werden. Im Ausblick zeigen wir, wie GRASS GIS mit anderer Software wie QGIS, R, usw. zusammenarbeitet.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Markus Neteler</h3>
-            <p>Dr. Markus Neteler ist Mitgründer von der mundialis GmbH &amp; Co KG in Bonn (https://www.mundialis.de/). Seine Interessenschwerpunkte sind Fernerkundung, Analyse großer Geodaten und Entwicklung freier und offener GIS, insbesondere GRASS GIS.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/GTQX8R_mn_bild_JoHempel_201709_Mundialis_MN_Cut_dsc_8483.jpg'>            <p>Dr. Markus Neteler ist Mitgründer von der mundialis GmbH &amp; Co KG in Bonn (https://www.mundialis.de/). Seine Interessenschwerpunkte sind Fernerkundung, Analyse großer Geodaten und Entwicklung freier und offener GIS, insbesondere GRASS GIS.</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Markus Metz</h3>
-            <p>langjähriger GRASS GIS Entwickler, gelegentliche Beiträge zu GDAL und QGIS, seit 3 Jahren bei mundialis</p>
+                        <p>langjähriger GRASS GIS Entwickler, gelegentliche Beiträge zu GDAL und QGIS, seit 3 Jahren bei mundialis</p>
         </div>
         </section>
 

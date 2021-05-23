@@ -39,7 +39,7 @@ Dazu wollen wir zusammen eine Infrastruktur aufbauen bestehend aus einer PostGIS
 <p>Für den Workshop sind Grundkenntnisse im Umgang mit der Kommandozeile auf Linux hilfreich.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Otto Dassau</h3>
-            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/PPGCHK_26839619320a581e5177cf009d62e233'>            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
         </div>
         </section>
 

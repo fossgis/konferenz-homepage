@@ -38,7 +38,7 @@ Im Moment befindet sich swissgeol.ch in der Beta-Phase, da laufend neue Funktion
 Mittels einer Übersicht der Tools und Techniken, die in diesem Projekt verwendet werden sowie einem Showcase der verschieden Funktionalitäten und Daten zeigt diese Präsentation, dass die als komplex geltenden 3D-Visualisierungen schlank und performant auf dem Web für ein breites (Fach-)Publikum durch den Einsatz von Open-Source Software zugänglich gemacht werden können.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Elisabeth Leu</h3>
-            <p>Aus der Geo-Ecke nun seit Jahren in der Software-Ecke: Ob kartografisch repräsentiert oder mittels Globus im dreidimensionalen Raum abgebildet, begleite ich bei Camptocamp die Realisierung komplexer Projekte von der Idee übers Go-Live bis hin zur stetigen Weiterentwicklung.
+            <img class='abstract-speaker-avatar' src='/2021/avatars/X8D7SW_HA_EC1580-Elisabeth_Leu-001_o3x65G8.jpg'>            <p>Aus der Geo-Ecke nun seit Jahren in der Software-Ecke: Ob kartografisch repräsentiert oder mittels Globus im dreidimensionalen Raum abgebildet, begleite ich bei Camptocamp die Realisierung komplexer Projekte von der Idee übers Go-Live bis hin zur stetigen Weiterentwicklung.
 Scrum Enthusiast, Geomatik-Ing. Background und Open Source erfahren.</p>
         </div>
         </section>

@@ -35,7 +35,7 @@
 Der Vortrag richtet sich an ein breites Publikum und erfordert keine besonderen Kenntnisse der multi- und hyperspektralen Fernerkundung.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Benjamin Jakimow</h3>
-            <p>Wissenschaftlicher Mitarbeiter, Doktorand und Entwickler der EnMAP-Box aus dem Earth Observation Lab der Humboldt-Universität zu Berlin.</p>
+                        <p>Wissenschaftlicher Mitarbeiter, Doktorand und Entwickler der EnMAP-Box aus dem Earth Observation Lab der Humboldt-Universität zu Berlin.</p>
         </div>
         </section>
 

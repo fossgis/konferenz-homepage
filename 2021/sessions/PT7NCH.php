@@ -33,13 +33,13 @@
 Das Anwendertreffen richtet sich sowohl an neu Interessierte, als auch an Anwender, die bereits mit Lizmap arbeiten.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Günter Wagner</h3>
-            <p>Ich betreue seit über 20 Jahren kleinere Gemeinden und Städte in Bezug auf CAD/GIS/WebGIS-Anwendungen und Dienstleistungen.</p>
+                        <p>Ich betreue seit über 20 Jahren kleinere Gemeinden und Städte in Bezug auf CAD/GIS/WebGIS-Anwendungen und Dienstleistungen.</p>
 <p>Individuelle, an die Bedürfnisse des Kunden angepasste Lösungen werden auf Basis von Standardkomponenten, möglichst aus dem Open-Source Bereich, realisiert. Seit 2017 wird dazu auch der Lizmap-Client in Verbindung mit QGIS/QGIS-Server eingesetzt.</p>
 <p>Seit 2011 betreibe ich das Ingenieurbüro Wagner-IT. Ich bin Mitglied im FOSSGIS e.V. und QGIS-DE e.V. und unterstütze das QGIS-Projekt als Bronze-Sponsor.</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Niko Trujanovic</h3>
-            <ul>
+                        <ul>
 <li>Geoinformatikingenieur (Masterabschluss an der HS Anhalt)</li>
 <li>Leiter der Stabstelle Geodatenmanagement</li>
 <li>Laufendes Projekt: Aufbau einer Open-Source basierter Geodateninfrastruktur </li>

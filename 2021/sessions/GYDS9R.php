@@ -41,7 +41,7 @@
 <p>Im angehängten Bild wird der vereinfachte Analyseablauf gezeigt, ohne Zwischenschritte für Geometriereparaturen oder das Management relevanter Attribute.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Andreas Neumann</h3>
-            <p>Andreas Neumann ist Projektleiter am Amt für Geoinformation des Kantons Solothurn. Er ist engagiert im Steuerungskommittee des QGIS-Projekts und im Vorstand der QGIS Anwendergruppe Schweiz.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/QX9L97_e86ae337c55ddb43b7fb424cce1e3a4d'>            <p>Andreas Neumann ist Projektleiter am Amt für Geoinformation des Kantons Solothurn. Er ist engagiert im Steuerungskommittee des QGIS-Projekts und im Vorstand der QGIS Anwendergruppe Schweiz.</p>
         </div>
         </section>
 

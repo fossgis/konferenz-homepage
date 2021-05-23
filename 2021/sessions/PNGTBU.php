@@ -77,7 +77,7 @@ Ich zeige einen Ausblick darauf, wie man:
 ( Ab QGIS 3.14 auch Aufruf eigener Processing-Scripte über „qgis_process run“ außerhalb der GUI)</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Thomas Baumann</h3>
-            <p>QGIS und weitere GIS-/WebGIS-Technologien sind nun seit mehr als 10 Jahren schon mein beruflicher Fokus.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/QYN7SA_tbaumann_6HC31hd.jpg'>            <p>QGIS und weitere GIS-/WebGIS-Technologien sind nun seit mehr als 10 Jahren schon mein beruflicher Fokus.</p>
 <p>Nachdem ich von 2010-2015 neben dem Projektgeschäft in vielen GIS-Weiterbildungen unterrichtet habe konzentriere ich mich inzwischen bei meiner Tätigkeit mehr auf die Administration und den Neuaufbau von Geodateninfrastrukturen, sowie Consulting zu GIS-Themen.</p>
 <p>Hausintern betreue ich auch unsere QGIS-Installation hinsichtlich Rollout, Plugin-Entwicklung und Support für mehr als 20 firmeninterne QGIS-Nutzer.</p>
         </div>

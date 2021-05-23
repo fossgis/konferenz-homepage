@@ -35,11 +35,11 @@
 <p>Dieser Vortrag bietet einen Überblick über den Einsatz und Prozessierung bis zur Einbindung von VectorTiles in einer Webkarte. Weitere Ansätze für das unabhängige Einbinden, sowie das Styling von Vektorkacheln wird ebenfalls vorgestellt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Marcel Normann</h3>
-            <p>1999 im Zuge der DotCom-Blase als Quereinsteiger in die Software-Entwicklung gekommen, danach zahlreiche Stationen rund um das Thema Web-Entwicklungen. 2006 aus privatem Interesse Fernstudium Geoinformatik. Seit 2018 Leiter der Software-Entwicklungen bei der WhereGroup, seit 2020 technischer Leiter Gesamtfirma.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/8JBSED_Kopf_kleiner_pSeHUco.jpg'>            <p>1999 im Zuge der DotCom-Blase als Quereinsteiger in die Software-Entwicklung gekommen, danach zahlreiche Stationen rund um das Thema Web-Entwicklungen. 2006 aus privatem Interesse Fernstudium Geoinformatik. Seit 2018 Leiter der Software-Entwicklungen bei der WhereGroup, seit 2020 technischer Leiter Gesamtfirma.</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Robert Klemm</h3>
-            <p>Ich bin studierter Geoinformatiker und Kartograph und seit 2017 als GIS-Consultant und Entwickler bei der <a href="https://wheregroup.com">WhereGroup</a>nin Berlin tätig.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/AUXGEB_Profilbild_O2L15Ov.jpg'>            <p>Ich bin studierter Geoinformatiker und Kartograph und seit 2017 als GIS-Consultant und Entwickler bei der <a href="https://wheregroup.com">WhereGroup</a>nin Berlin tätig.</p>
 <p>Ich weise Erfahrung mit PostgreSQL und PostGIS, Imposm, Mapnik, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin in Apache, Solr, OpenLayers, MapProxy, OGC Standards, GraphHopper und im Skripting.</p>
         </div>
         </section>

@@ -35,11 +35,11 @@
 <p>Zielgruppe sind alle Interessierten, die die Möglichkeiten vom GeoServer kennenlernen wollen. Vorkenntnisse im GeoServer sind nicht notwendig.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Daniel Koch</h3>
-            <p>Lead Developer der terrestris GmbH &amp; Co. KG und OpenSource Enthusiast.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/U7QH7V_me_FVV9vKf.jpg'>            <p>Lead Developer der terrestris GmbH &amp; Co. KG und OpenSource Enthusiast.</p>
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Hannes Blitza</h3>
-            <p>Studium der Geographie in Marburg und Bonn. Mitarbeiter von terrestris in Bonn.</p>
+                        <p>Studium der Geographie in Marburg und Bonn. Mitarbeiter von terrestris in Bonn.</p>
         </div>
         </section>
 

@@ -35,7 +35,7 @@ Mit QGIS Server wird die Konfiguration der Layers in QGIS Desktop definiert und 
 Das Access Control QGIS Plugin erlaubt eine feingranulare Rechtekontrolle über die Daten: gewisse Layer und Attribute können nur für gewisse Benutzer sichtbar sein. Die Konfiguration wird im QGIS Desktop eingestellt. Das Plugin erlaubt die Anbindung von externen Authentifizierungs- und Userverwaltungs-Systemen. Die Rechteverwaltung integriert sich kohärent auch mit anderen Karten-Quellen im Projekt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Cécile Vuilleumier</h3>
-            <p>Geospatial Developer bei Camptocamp</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/HNN8FP_Vuilleumier_Cecile-1_cropped_8QRA5k1.jpg'>            <p>Geospatial Developer bei Camptocamp</p>
         </div>
         </section>
 

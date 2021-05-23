@@ -34,7 +34,7 @@
 <p>Die GDAL Werkzeuge gdalinfo, gdal_translate, gdalwarp, ogrinfo, ogr2ogr werden im Detail mit Beispielen erläutert.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Markus Metz</h3>
-            <p>langjähriger GRASS GIS Entwickler, gelegentliche Beiträge zu GDAL und QGIS, seit 3 Jahren bei mundialis</p>
+                        <p>langjähriger GRASS GIS Entwickler, gelegentliche Beiträge zu GDAL und QGIS, seit 3 Jahren bei mundialis</p>
         </div>
         </section>
 

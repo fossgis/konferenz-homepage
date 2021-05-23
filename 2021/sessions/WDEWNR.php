@@ -36,7 +36,7 @@ Im ersten Teil des Vortrages sollen die Unterschiede zwischen den Endgeräten da
 Im zweiten Teil soll per Live-Coding und -Konfiguration beispielhaft gezeigt werden, wie mit OGC-Diensten eine für Smartphones optimierte Kartendarstellung und Interaktion mit den Geodaten erreicht werden kann und welche weiteren Möglichkeiten und Funktionen native Apps für die Nutzung  von Geodaten bieten.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Christoph Jung</h3>
-            <ul>
+                        <ul>
 <li>Abschluss in Geoinformation/Management an der HTW Dresden</li>
 <li>IT-Administrator im GIS-Umfeld</li>
 <li>Entwickler mehrerer QGIS-Plugins (Offline-MapMatching, Closest Points)</li>

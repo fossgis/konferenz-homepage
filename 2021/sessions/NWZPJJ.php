@@ -40,7 +40,7 @@
 Am Ende des Vortrags werden wir heiße Themen für die zukünftige Entwicklung besprechen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Emmanuel Belo</h3>
-            <p>Head of Camptocamp Geospatial Solutions department, with a sharp focus on GIS Open Source software, tailored solutions, innovation and Agile/DevOps projects.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/CSVTU3_54662d7017adcb9b30f19a59c31bd497'>            <p>Head of Camptocamp Geospatial Solutions department, with a sharp focus on GIS Open Source software, tailored solutions, innovation and Agile/DevOps projects.</p>
         </div>
         </section>
 

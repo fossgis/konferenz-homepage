@@ -33,7 +33,7 @@
 <p>Dieser Vortrag stellt ein breites Spektrum an etablierten Kommandozeilen-Werkzeugen vor, die sowohl auf Windows als auch auf Linux einsetzbar sind. Zum einen gibt es einen Überblick über Langzeit-Klassiker wie GDAL/OGR, Proj oder GEOS. Andererseits über eher leichtgewichtigen Tools liegen wie Fiona, Rasterio, mapshaper, topojson oder geojsonio. Es folgt ein Einblick in Desktopprogramme mit Schnittstelle zur Kommandozeile z.B. QGIS, GRASS oder SAGA GIS. Anschließend begeben wir uns auf ein Exkurs zum Ansprechen von Web-APIs für beispielsweise Routenplanung oder Geocoding. Zu guter Letzt gibt es einen Ausblick wie man Befehle in der Kommandozeile miteinander verketten und in wiederverwendbare Skripte speichern kann, um regelmäßige Aufgaben zu automatisieren.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jakob Miksch</h3>
-            <p>Software Entwickler für Geo-Anwendungen bei <a href="www.meggsimum.de">Meggsimum</a> in Mutterstadt. Haupsächlich mit JavaScript, PostGIS, Shell, Python, GDAL/OGR und QGIS.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/7RZJR9_9888e9fcab3126f81a68395e35b50b20'>            <p>Software Entwickler für Geo-Anwendungen bei <a href="www.meggsimum.de">Meggsimum</a> in Mutterstadt. Haupsächlich mit JavaScript, PostGIS, Shell, Python, GDAL/OGR und QGIS.</p>
 <ul>
 <li>Mitorganisator von <a href="http://maptime.io/salzburg/">Maptime Salzburg</a></li>
 <li>OSGeo <a href="https://www.osgeo.org/member/miksch/">Charter Member</a></li>

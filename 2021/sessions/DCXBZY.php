@@ -33,7 +33,7 @@
 Es wird auch über die Potentiale und Risiken der Entwicklung und Benutzung der Open Source Software bei einer Behörde berichtet.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Prof. Paul Becker</h3>
-            <p><b>Präsident und Professor des Bundesamtes für Kartographie und Geodäsie (BKG) </b></p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/XAUW3V_Prof_Becker_5vv9png.png'>            <p><b>Präsident und Professor des Bundesamtes für Kartographie und Geodäsie (BKG) </b></p>
 <p>Prof. Dr. Paul Becker ist seit April 2019 Präsident des Bundesamts für Kartographie und Geodäsie (BKG). Er war zuvor Vizepräsident beim Deutschen Wetterdienst (DWD) und Vertreter Deutschlands bei der Group on Earth Observation (GEO). Daneben hat er eine Honorarprofessur an der Goethe-Universität in Frankfurt am Main und einen Lehrauftrag an der Universität Hamburg inne.</p>
 <p>Kontakt:
 Richard-Strauss-Allee 11, 60598 Frankfurt a.M. 

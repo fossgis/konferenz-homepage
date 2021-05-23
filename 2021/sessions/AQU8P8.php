@@ -51,7 +51,7 @@ Information von Fachwelt und Publikumspresse über unseren Standard, welches Pro
 <p>Wir laden alle Interessierten und Experten aus der OSM Community ein, in einer weiteren Veranstaltung Lösungsansätze zu finden und zu konkretisieren.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Sebastian Sarx</h3>
-            <p>M.Sc. Geographie</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/CG3EKC_1606304359401_F3UJHBw.jpg'>            <p>M.Sc. Geographie</p>
 <p>Projektmanager: Digitize the Planet e.V.</p>
         </div>
         </section>

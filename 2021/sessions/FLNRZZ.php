@@ -30,15 +30,15 @@
 
                         
             <p>Im Vortrag wird der aktuelle Stand der Entwicklung des auf Django basierenden neuen Backends für das GeoPortal.rlp vorgestellt. Das Backend wird unter dem Namen MrMap seit 2019 entwickelt, und der erste Prototyp wurde schon auf der FOSSGIS2020 präsentiert. Im Verlauf des letzten Jahres sind viele neue Funktionalitäten hinzugekommen u.a.:
-<em> Monitoring von OWS-Ressourcen
-</em> Generische Integration der API des ETF testing frameworks
-<em> Einführung von generic views
-</em> CSW-Client und Server
+* Monitoring von OWS-Ressourcen
+* Generische Integration der API des ETF testing frameworks
+* Einführung von generic views
+* CSW-Client und Server
 * Neue mapContext Ressource mit OWS-Context API</p>
 <p>Die Software und ihre Einsatzmöglichkeiten werden anhand praktischer Beispiele vorgeführt und es wird ein Ausblick auf die Roadmap des Projektes gegeben.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Armin Retterath</h3>
-            <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
+                        <p>Armin Retterath ist Leiter des Bund/Länder Arbeitskreises Geodienste der GDI-DE sowie Architekt der Geodateninfrastruktur des Landes Rheinland-Pfalz. Er beschäftigt sich seit 2005 mit dem Aufbau und Betrieb von Geodateninfrastrukturen auf den unterschiedlichsten Ebenen der öffentlichen Verwaltung.</p>
         </div>
         </section>
 

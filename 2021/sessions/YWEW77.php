@@ -35,7 +35,7 @@
 <p>Der Vortragende gibt zudem einen Erfahrungsbericht über die Erstellung von Gewässerentwicklungsplänen mit QGIS in Lehre und Ehrenamt und diskutiert weitere Publikationformen wie (partizipative) WebGIS-Anwendungen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jens Eligehausen</h3>
-            <p>Dipl.-Ing. Landschaftsplanung, M.Sc.
+                        <p>Dipl.-Ing. Landschaftsplanung, M.Sc.
 Lehrkraft für Geographische Informationssysteme 
 und Geodaten-Koordinator am FB 06 (ASL) 
 Fachgebiet Vegetations- und Landschaftsökologie
