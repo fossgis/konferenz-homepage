@@ -31,8 +31,9 @@
                         
             <p>Das FOSSGIS-Jeopardy bietet als Fortsetzung der OSM-Quizze der Vorjahre wieder spannende Fragen zu (mehr oder weniger) wissenswerten Fakten und vor allem viel Spaß für jung und alt, alt und neu.</p>
 <p>Jede/r ist herzlich eingeladen mitzuraten, um das eigene Wissen im Umfeld von GIS, OpenStreetMap, Kartografie, FOSS zu testen und vielleicht auch etwas aufzufrischen.</p>
-<p>Du kennst sämtliche Parameter der OpenLayers-API, kannst jede Karte lesen und übst zum Spaß EPSG-Codes? Beste Voraussetzungen den (Vor-)Vorjahressieger zu entthronen! Wer weiß, vielleicht gibt es sogar Preise?</p>
-<p><b>Wenn du Lust hast aktiv teilzunehmen, melde dich bei fossgis ät johanneskroeger punkt de</b>. Wir spielen Runden mit maximal vier gleichzeitigen Teilnehmer/-innen. Alle anderen können sich nach einem Konferenztag zurücklehnen und den Tag mit etwas Entertainment ausklingen lassen.</p>
+<p>Dank spendabler Sponsoren gibt es <b>grandiose Preise</b> für alle TeilnehmerInnen, mit einigen sehr besonderen Hauptgewinnen. Informationen zum Ablauf, zu den Preisen und zur <b>Anmeldung</b> gibt es unter <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2021/">https://hannes.enjoys.it/blog/fossgis-jeopardy-2021/</a>.</p>
+<p>Es wird garantiert lustig, chaotisch, lehrreich, amüsant und für alle Beteiligten ein Heidenspaß. Nur keine Hemmungen! Welche Kartenprojektion ist nochmal die, wo Grönland so groß wie Afrika dargestellt wird? Was macht <a href="https://docs.qgis.org/2.8/en/_images/mActionCalculateField.png">dieses Icon</a> in QGIS? Was für ein Datenformat ist <code>{"type": "Point", "coordinates": [10, 20]}</code>?</p>
+<p>Wir spielen Runden mit maximal vier gleichzeitigen Teilnehmer/-innen. Alle anderen können sich nach einem Konferenztag zurücklehnen und den Tag mit etwas Entertainment ausklingen lassen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Johannes Kröger</h3>
             <img class='abstract-speaker-avatar' src='/2021/avatars/VEHRRN.jpg'>            <p>Kartografiefreund, Bastler, ([Q]GIS/Python)-(Entwickler|Berater) bei der WhereGroup</p>

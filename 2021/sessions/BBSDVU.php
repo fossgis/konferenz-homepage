@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>Keynote: Nach Opendata bei swisstopo ist vor Geodata on stereoids. – FOSSGIS 2021</title>
+	<title>Keynote: Geodata on Stereoids: Open-Government-Geodata und OSS – FOSSGIS 2021</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,17 +19,21 @@
              edit contents in Pretalx, regenerate the PHP files and commit them
              in the Git repository of the website. -->
         <p><a href="programm/montag.php#session_BBSDVU">&#9668;&#9668; zurück zum Programm</a> </p>
-        <h2 class='abstract-title'>Keynote: Nach Opendata bei swisstopo ist vor Geodata on stereoids.</h2>
+        <h2 class='abstract-title'>Keynote: Geodata on Stereoids: Open-Government-Geodata und OSS</h2>
         <section>
             <p>
-                                <span class='abstract-speakers'>David Oesch</span></p>
-                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 09:50 Uhr<br><span class='abstract-room-heading'>Ort: </span>Bühne 1</p>
+                <span class='abstract-sessiontype'>Vortrag</span>                von <span class='abstract-speakers'>David Oesch</span></p>
+                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 09:25 Uhr
+                <br><span class='abstract-room-heading'>Ort: </span>Bühne 1
+                <br><span class='abstract-room-heading'>Dauer: </span>20 Minuten
+            </p>
 
                         
-            <p>Basisdaten Landeskarten, Höhenmodell und Luft/Orthobilder schweizweit frei verfügbar - als Geodienste und Rohdatendownload. Dabei spielt und spielte OSS, OpenStandards und eine OpenMind Einstellung zu Technologien eine wichtige Rolle: Lessons learned .Ausblick: Digitalisierung Datenpublikation bei der Verwaltung konkret: Vom Word Formular zur Self Serving Spatial Data Infrastructure - Bundes Geodaten Infrastruktur on stereoids.</p>
+            <p>Basisdaten Landeskarten, Höhenmodell und Luft-/Orthobilder sind ab 1.3.2021 schweizweit frei verfügbar – als Geodienste und Rohdatendownload. Wenn zu Open Data – als Dienst oder als Rohdatensatz – die entsprechenden OSS-Werkzeuge bereitgestellt werden: dann wird das Potential erst freigesetzt.</p>
+<p>Es wird auf die Rolle von OSS (Openlayers, Maplibre, VueJS), OpenStandards (Spatial Asset Temporal Catalog, OGC) und das Open Mindset bezüglich Technologien und Partnerschaften (OSM, SW Provider) in der Bereitstellung und Nutzung von amtlichen Geodaten eingegangen.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>David Oesch</h3>
-            <p>David Oesch studierte Geographie und Geschichte an der University of North Carolina at Greensboro und der Universität Bern. Sein Masterstudium in Geographie absolvierte er in Meteorologie / Klimatologie im Fachgebiet Fernerkundung. Während seiner Promotion initialisierte er die operative Verarbeitung von Satellitendaten für den Datenassimilationsprozess in numerischen Wettervorhersagemodellen. Mehrere Jahre war er als Service Manager bei Syngenta für agrarmeteorologische und klimatologische Produkte verantwortlich. Seit 2008 ist er als Senior Projektleiter für die Geodateninfrastruktur des Bundes bei swisstopo tätig und zuständig als ProductOwner für die Plattform geo.admin.ch.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/MG3NLW.jpg'>            <p>David Oesch  studied geography and history at University of North Carolina at Greensboro and University of Bern. He completed his masters studies in geography in the meteorology and climatology on remote sensing methods. During his PhD studies initialized operational processing do ingest satellite data for data assimilation process in numerical weather forecast models. For several years he was responsible as service manager at Syngenta for agrarmeteorology and climatology products. Since 2008 he holds the position as a Senior Project Manager for Federal Geodata Data Infrastructure at swisstopo and set up and operates the geo.admin.ch platform.</p>
         </div>
         </section>
 

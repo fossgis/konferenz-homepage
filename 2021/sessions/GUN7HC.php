@@ -36,6 +36,10 @@
 <p>Literatur: </p>
 <p>Wilkinson et al., 2016: The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018. https://doi.org/10.1038/sdata.2016.18 </p>
 <p>Ganske etal., 2020: ATMODAT Standard (v3.0). https://doi.org/10.35095/WDCC/atmodat_standard_en_v3_0</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Anette Ganske</h3>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/JYVBTS.jpg'>            <p>Anette Ganske ist Meteorologin und arbeitet für die Technische Informationsbibliothek (TIB) im Projekt AtMoDat. Dabei erforscht sie, wie man Geodaten so veröffentlicht, dass sie auffindbar, zugänglich, interoperabel und wiederverwendbar (=FAIR) sind.</p>
+        </div>
         </section>
 
 

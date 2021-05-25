@@ -53,7 +53,8 @@
                                 <tr>
                         <td class="program-time">09:25</td>
                         <td rowspan="1" id="session_BBSDVU">
-            <span class="session-title">Keynote:   Geodata on stereoids: open government geodata und OSS</span><br><span class="session-speakers">David Oesch</span>
+            <a class="session-title" href="sessions/BBSDVU.php">Keynote: Geodata on Stereoids: Open-Government-Geodata und OSS</a>
+    <br><span class="session-speakers">David Oesch</span>
 </td>
 
                             <td></td>
@@ -167,7 +168,11 @@
     <br><span class="session-speakers">Patrick Knöfel</span>
 </td>
 
-                            <td></td>
+                            <td rowspan="1" id="session_SCAEMA">
+            <a class="session-title" href="sessions/SCAEMA.php">Was ist Open Source?</a>
+    <br><span class="session-speakers">Astrid Emde</span>
+</td>
+
                             <td></td>
                             
                             

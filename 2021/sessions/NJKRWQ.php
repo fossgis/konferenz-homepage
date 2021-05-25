@@ -51,7 +51,7 @@
 </code></pre>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Otto Dassau</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/PPGCHK.jpg'>            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/PPGCHK.jpg'>            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland e.V.. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
         </div>
         </section>
 
