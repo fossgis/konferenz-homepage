@@ -48,9 +48,13 @@
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
 						<div class="post-tags">
-							<span class="badge badge-info">...</span>
-							<span class="badge badge-info">...</span>
-							<span class="badge badge-info">...</span>
+							<span class="badge badge-info">GIS</span>
+							<span class="badge badge-info">Geodaten</span>
+							<span class="badge badge-info">deegree</span>
+							<span class="badge badge-info">INSPIRE</span>
+							<span class="badge badge-info">OGC</span>
+							<span class="badge badge-info">Masterportal</span>
+							<span class="badge badge-info">PostgreSQL/PostGIS</span>
 						</div>
 					</div>
 					<div class="mb-4">
@@ -98,10 +102,10 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+							<img src="./expo/img/latlon_xPlanBox_logo.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p><a href="Link">Projekt xPlanBox</a></p>
+						<p><a href="https://bitbucket.org/latlon/xplanbox-ep/wiki/Home">Projekt xPlanBox</a></p>
 						</div>
 					</div>
 				</div>
@@ -109,10 +113,10 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+							<img src="./expo/img/latlon_deegree_oaf_logo.png" title="" alt="">
 						</div>
 						<div class="feature-content">
-						<p><a href="Link">Projekt</a></p>
+						<p><a href="https://oaf.lat-lon.de/deegree-services-oaf/datasets/">Projekt</a></p>
 						</div>
 					</div>
 				</div>											

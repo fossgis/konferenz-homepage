@@ -215,7 +215,21 @@
 						</div>
 					</div>
 				</div>
-				
+				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
+					<div class="expo-box">
+						<div class="icon d-flex align-items-center justify-content-center">
+							<img src="https://fossgis-konferenz.de/2021/img/s/405_logo_latlon_web.png" title="" alt="">
+						</div>
+						<div class="feature-content">
+							<h5>lat/lon GmbH</h5>
+							<p class="small">lat/lon bietet Dienstleistungen auf dem Gebiet raumbezogener und moderner Internet gestützter Informationssysteme auf Basis von Open-Source Software.</p>
+							<a href="expo/latlon.php" 
+								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
+								Details anschauen
+							</a>				
+						</div>
+					</div>
+				</div>
 
 				
 <!--
