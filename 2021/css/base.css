@@ -94,6 +94,8 @@ body#socialEvents nav .main > li#navEvents > a:link,
 body#socialEvents nav .main > li#navEvents > a:visited,
 body#team nav .main > li#navTeam > a:link,
 body#team nav .main > li#navTeam > a:visited,
+body#expo nav .main > li#navExpo > a:link,
+body#expo nav .main > li#navExpo > a:visited,
 body#programm nav .main > li#navProgramm > a:link,
 body#programm nav .main > li#navProgramm > a:visited {
 	color: #eb7f00;

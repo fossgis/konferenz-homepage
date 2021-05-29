@@ -33,8 +33,8 @@
 		<li id="navEvents">
 			<a href="./socialevents/">Rahmenprogramm</a>
 		</li>		
-		<li id="navEvents">
-			<a href="./expo/">EXPO</a>
+		<li id="navExpo">
+			<a href="./expo/">Expo</a>
 		</li>
 		<li id="navTeam">
 			<a href="./loc/loc.php">Team</a>
