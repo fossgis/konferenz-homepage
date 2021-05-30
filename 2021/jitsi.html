@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title>Weiterleitung zu Jitsi-Räumen</title>
+    <script>
+const JITSI_INSTANCE = 'https://meet.ffmuc.net'
+
+// The hash of the URLs has the following shape
+// <hash-bang><slash><type(speaker or regie)><slash><jitsi-room>
+// e.g.  #!/speaker/my-actual-jitsi-room
+const [type, room] = window.location.hash.substr(3).split('/')
+
+let parameters
+switch (type) {
+    case 'regie':
+        parameters = '#interfaceConfig.AUTO_PIN_LATEST_SCREEN_SHARE=false&interface.Config&DISABLE_JOIN_LEAVE_NOTIFICATIONS=true&config.startAudioMuted=1&config.resolution=1080&config.constraints={"video":{"height":{"ideal":1080,"max":1080,"min":240}}}&config.startWithVideoMuted=true&config.startWithAudioMuted=true&userInfo.displayName="regie"&config.prejoinPageEnabled=false'
+        break
+    case 'speaker':
+        parameters = '#config.startWithVideoMuted=true&config.startWithAudioMuted=true'
+        break
+    default:
+        console.error(`type "${type}" is not supported.`)
+}
+
+const url = `${JITSI_INSTANCE}/${room}#${parameters}`
+window.location.replace(url)
+    </script>
+  </head>
+  <body>
+    <p>Weiterleitung zu Jitsi-Räumen mit den richtigen Parametern.</p>
+  </body>
+</html>
