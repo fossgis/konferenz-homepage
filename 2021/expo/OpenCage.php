@@ -21,14 +21,14 @@
 
 	<section class="section">
 		<div class="container">
+			<img src="./expo/img/opencage-header.png" class="img-fluid" alt="opencage_Banner">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Open Cage GmbH</h3>
-					<p>Text 1.
-					</p>
-					<p>Text 2.</p>
+					<p>OpenCage GmbH bietet eine auf offene Daten basierende API für Geokodierung. Sowohl <a href="https://thegeomob.com/"><i>forward geocoding</i></a> wie auch <i>forward geocoding</i> werden unterstützt. Unsere Kunden sind kleine und große Firmen weltweit die Geocoding brauchen, die Vorteile offene Daten schätzen und sich die Arbeit sparen wollen ein komplexes System selber am Laufen zu halten.</p>
+					<p>Ob es um die einmalige Datenverarbeitung geht oder maßgeschneiderte highly-available Systeme mit mehreren Millionen Anfragen pro Tag, nehmen auch Sie Kontakt mit uns auf, wenn Sie Bedarf an Geocoding haben.</p>
 
-					<p><a href="https://www.">Text 3</a>.</p>
+					<p>Wir sind Firmenmitglied im OpenStreetMap Foundation (Silver Tier), unterstützten die Entwicklung von Nominatim, sind regelmäßiger Sponsor von OpenStreetMap Veranstaltungen, und organisieren Geomob.<br>Firmensitz ist Münster, NRW.</p>
 
 				</div>	
 
@@ -39,9 +39,11 @@
 					<div class="mb-4">
 						<h6 class="mb-2">Tags</h6>
 						<div class="post-tags">
-							<span class="badge badge-info">...</span>
-							<span class="badge badge-info">...</span>
-							<span class="badge badge-info">...</span>
+							<span class="badge badge-info">Geokodierung</span>
+							<span class="badge badge-info">Geocoding</span>
+							<span class="badge badge-info">Adressen</span>
+							<span class="badge badge-info">SaaS</span>
+							<span class="badge badge-info">OSM</span>
 						</div>
 					</div>
 					<div class="mb-4">
@@ -68,22 +70,20 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="bild.png" title="" alt="">
+							<img src="./expo/img/opencage-link1.png" title="opencage" alt="opencage">
 						</div>
 						<div class="feature-content">
-						<p>Zum Video</p>
-						<p><a href="Link">...</a></p>
+						<p><a href="https://opencagedata.com/sdks">SDKs und Beispiele für 30+ Programmiersprachen</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+							<img src="./expo/img/opencage-link2.png" title="opencage" alt="opencage">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="Link">Projekt</a></p>
+						<p><a href="https://opencagedata.com/reverse-geocoding">Guide to reverse geocoding </a></p>
 						</div>
 					</div>
 				</div>
@@ -91,11 +91,10 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+							<img src="./expo/img/opencage-link3.png" title="opencage" alt="opencage">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="Link">Projekt</a></p>
+						<p><a href="https://blog.opencagedata.com/">OpenCage Firmenblog</a></p>
 						</div>
 					</div>
 				</div>											
