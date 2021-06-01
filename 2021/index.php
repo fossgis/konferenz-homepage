@@ -187,6 +187,16 @@
 						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
 						</a>
 					</li>
+					<li class="tile media">
+						<a href="https://ffmuc.net/" target="_blank">
+						<img src="./img/s/505_image_fffmuc.png" alt="ffmuc">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="http://www.oreilly.de/" target="_blank">
+						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
+						</a>
+					</li>
 				</ul>
 
 
