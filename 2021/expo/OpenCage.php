@@ -25,10 +25,10 @@
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Open Cage GmbH</h3>
-					<p>OpenCage GmbH bietet eine auf offene Daten basierende API für Geokodierung. Sowohl <a href="https://thegeomob.com/"><i>forward geocoding</i></a> wie auch <i>forward geocoding</i> werden unterstützt. Unsere Kunden sind kleine und große Firmen weltweit die Geocoding brauchen, die Vorteile offene Daten schätzen und sich die Arbeit sparen wollen ein komplexes System selber am Laufen zu halten.</p>
+					<p>OpenCage GmbH bietet eine auf offene Daten basierende API für Geokodierung. Sowohl <i>forward geocoding</i> wie auch <i>reverse geocoding</i> werden unterstützt. Unsere Kunden sind kleine und große Firmen weltweit die Geocoding brauchen, die Vorteile offene Daten schätzen und sich die Arbeit sparen wollen ein komplexes System selber am Laufen zu halten.</p>
 					<p>Ob es um die einmalige Datenverarbeitung geht oder maßgeschneiderte highly-available Systeme mit mehreren Millionen Anfragen pro Tag, nehmen auch Sie Kontakt mit uns auf, wenn Sie Bedarf an Geocoding haben.</p>
 
-					<p>Wir sind Firmenmitglied im OpenStreetMap Foundation (Silver Tier), unterstützten die Entwicklung von Nominatim, sind regelmäßiger Sponsor von OpenStreetMap Veranstaltungen, und organisieren Geomob.<br>Firmensitz ist Münster, NRW.</p>
+					<p>Wir sind Firmenmitglied im OpenStreetMap Foundation (Silver Tier), unterstützten die Entwicklung von Nominatim, sind regelmäßiger Sponsor von OpenStreetMap Veranstaltungen, und organisieren <a href="https://thegeomob.com/">Geomob</a>.<br>Firmensitz ist Münster, NRW.</p>
 
 				</div>	
 
@@ -60,6 +60,9 @@
 							
 							<li>
 								<a href="https://github.com/OpenCageData/"><i class="fab fa-github"></i></a>
+							</li>
+							<li>
+								<a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g/"><i class="fab fa-youtube"></i></a>
 							</li>
 						</ul>
 					</div>
