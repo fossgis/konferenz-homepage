@@ -21,6 +21,7 @@
 
 	<section class="section">
 		<div class="container">
+		<img src="./expo/img/terrestris_title.jpg" class="img-fluid" alt="terrestris">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>terrestris GmbH & Co. KG</h3>
