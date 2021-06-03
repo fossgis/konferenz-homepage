@@ -45,6 +45,11 @@
 							<span class="badge badge-info">OpenSource-Firmen</span>
 						</div>
 					</div>
+					<div class="mb-4">
+						<h6 class="mb-0">Jobankündigung einreichen:</h6>
+						<a href="mailto:konferenz-orga@fossgis.de">per Mail</a><br>
+						<a href="https://github.com/fossgis/konferenz-homepage/blob/master/2021/expo/jobs.php">per GitHub</a>
+					</div>
 					
 					
 				</div>
