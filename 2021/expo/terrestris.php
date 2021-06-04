@@ -27,13 +27,7 @@
 					<h3>terrestris GmbH & Co. KG</h3>
 					<p>terrestris bietet Dienstleistungen, Produkte und maßgeschneiderte Entwicklungen mit Freier und Open Source Software an. Ein Fokus liegt insbesondere auf der Verarbeitung sowie Darstellung raumbezogener Daten mit Geoinformationssystemen (GIS) in allen ihren Ausprägungen.</p>
 
-					<p>Dabei orientieren wir uns an den Anforderungen unserer Kunden und bieten auf den jeweiligen Bedarf zugeschnittene Lösungen an. Als Grundlage verwenden wir bewährte und vielfach eingesetzte Open Source Technologien in Kombination mit OGC- und anderen offenen Standards sowie freien Daten (etwa auch solche aus dem OpenStreetMap-Projekt). Darauf aufbauend entwickeln wir innovative und maßgeschneiderte Lösungen, die zudem oft nahtlos in bestehende Architekturen eingebettet sind.</p>
-
-					<p>Wir sind national wie international gut vernetzt und adaptieren frühzeitig neueste Technologien. Dank des hohen Know-hows unserer Mitarbeiter und einer lebendigen Firmenkultur folgen wir unserem eigenen Anspruch nur Technologie einzusetzen, die uns vollständig überzeugt. </p>
-
-					<p>Diese Rahmenbedingungen erlauben es uns unvoreingenommen Lösungen zu entwickeln und anzubieten, die tatsächlich alle Anforderungen unserer Kunden erfüllen. Dies ist nach unserem eigenen Verständnis auch Grundlage unserer fairen, transparenten und häufig langfristigen Kundenbeziehungen.</p>
-
-					<p>Unser Leistungsspektrum erstreckt sich auf folgende Bereiche:</p>
+					<p>Auf Basis bewährter und vielfach eingesetzter Open Source Technologien in Kombination mit OGC- und anderen offenen Standards entwickeln wir innovative und individuelle Lösungen, die sich oft nahtlos in bestehende Architekturen integrieren lassen. Unser Leistungsspektrum erstreckt sich auf die folgenden Bereiche, in denen wir faire, transparente und folglich auch langfristige Kundenbeziehungen pflegen:</p>
 					<ul>
 						<li>Geoportale auf Bundes-, Landes-, Kreis- und Kommunalebene</li>
 						<li>Stadtplandienste</li>
@@ -42,17 +36,6 @@
 						<li>Visualisierung von geographischen 3D-Daten im Browser</li>
 						<li>Lösungen für mobile Endgeräte</li>
 						<li>Einsatz und Verwendung freier Geodaten wie OpenStreetMap.</li>
-					</ul>
-					<p>Technologisch setzen wir unter anderem ein:</p>
-					<ul>
-						<li>QGIS</li>
-						<li>OpenLayers</li>
-						<li>GeoServer</li>
-						<li>SHOGun</li>
-						<li>react / react-geo</li>
-						<li>GeoNetwork OpenSource</li>
-						<li>ExtJS / GeoExt </li>
-						<li>PostgreSQL / PostGIS.</li>
 					</ul>
 					<p>Folgende Dienstleistungen bieten wir an:</p>
 					<ul>
@@ -116,26 +99,26 @@
 				</div>
 			</div>
 
-		<!--	<div class="row">
+			<div class="row">
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="bild.png" title="" alt="">
+							<img src="./expo/img/terrestris_projekt_1.png" class="img_fluid" title="Geoportal Koblenz" alt="Geoportal Koblenz">
 						</div>
 						<div class="feature-content">
-						<p>Zum Video</p>
-						<p><a href="https://www.terrestris.de/">...</a></p>
+						<p>Zum Projekt</p>
+						<p><a href="https://geoportal.koblenz.de/">Geoportal Koblenz</a></p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+						<img src="./expo/img/terrestris_projekt_2.png" class="img_fluid" title="BfS Geoportal" alt="BfS Geoportal">
 						</div>
 						<div class="feature-content">
 						<p>Zum Projekt </p>
-						<p><a href="https://www.terrestris.de/">Projekt</a></p>
+						<p><a href="https://www.imis.bfs.de/geoportal/">BfS-Geoportal</a></p>
 						</div>
 					</div>
 				</div>
@@ -143,14 +126,14 @@
 				<div class="col-sm-6 col-lg-4 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="project-tile d-flex align-items-center justify-content-center">
-							<img src="Link Bild.png" title="" alt="">
+						<img src="./expo/img/terrestris_projekt_3.png" class="img_fluid" title="SHOGun Demo" alt="SHOGun Demo">
 						</div>
 						<div class="feature-content">
-						<p>Zum Projekt </p>
-						<p><a href="https://www.terrestris.de/">Projekt</a></p>
+						<p>Zur Demo</p>
+						<p><a href="https://www.terrestris.de/">SHOGun Demo</a></p>
 						</div>
 					</div>
-				</div>	-->										
+				</div>								
 			</div>
 		</div>
 
