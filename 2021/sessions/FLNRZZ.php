@@ -30,10 +30,10 @@
 
                         
             <p>Im Vortrag wird der aktuelle Stand der Entwicklung des auf Django basierenden neuen Backends für das GeoPortal.rlp vorgestellt. Das Backend wird unter dem Namen MrMap seit 2019 entwickelt, und der erste Prototyp wurde schon auf der FOSSGIS2020 präsentiert. Im Verlauf des letzten Jahres sind viele neue Funktionalitäten hinzugekommen u.a.:
-* Monitoring von OWS-Ressourcen
-* Generische Integration der API des ETF testing frameworks
-* Einführung von generic views
-* CSW-Client und Server
+<em> Monitoring von OWS-Ressourcen
+</em> Generische Integration der API des ETF testing frameworks
+<em> Einführung von generic views
+</em> CSW-Client und Server
 * Neue mapContext Ressource mit OWS-Context API</p>
 <p>Die Software und ihre Einsatzmöglichkeiten werden anhand praktischer Beispiele vorgeführt und es wird ein Ausblick auf die Roadmap des Projektes gegeben.</p>
         <div class='abstract-bio'>

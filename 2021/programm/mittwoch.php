@@ -108,7 +108,11 @@
                             <td></td>
                             
                             
-                            <td></td>
+                            <td rowspan="1" id="session_YMUPEX">
+            <a class="session-title" href="sessions/YMUPEX.php">Auswirkungen der Open Data- und PSI-Richtlinie auf die Geodaten der deutschen Behörden</a>
+    <br><span class="session-speakers">Andreas Illert, Ute Plötz</span>
+</td>
+
                                                 </tr>
                                 <tr>
                         <td class="program-time">10:30</td>

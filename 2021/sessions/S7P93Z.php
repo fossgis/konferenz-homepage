@@ -22,10 +22,10 @@
         <h2 class='abstract-title'>Einführung in OpenStreetMap</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Demo-Session</span>                von <span class='abstract-speakers'>Thomas Skowron</span></p>
-                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 11:00 Uhr
+                <span class='abstract-sessiontype'>Vortrag</span>                von <span class='abstract-speakers'>Thomas Skowron</span></p>
+                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 11:30 Uhr
                 <br><span class='abstract-room-heading'>Ort: </span>Bühne 3
-                <br><span class='abstract-room-heading'>Dauer: </span>55 Minuten
+                <br><span class='abstract-room-heading'>Dauer: </span>20 Minuten
             </p>
 
                         

@@ -107,9 +107,9 @@
     <br><span class="session-speakers">Till Adams, Guido Riembauer</span>
 </td>
 
-                            <td rowspan="2" id="session_S7P93Z">
-    <span class='session-type'>Demo-Session</span><br>        <a class="session-title" href="sessions/S7P93Z.php">Einführung in OpenStreetMap</a>
-    <br><span class="session-speakers">Thomas Skowron</span>
+                            <td rowspan="1" id="session_SCAEMA">
+            <a class="session-title" href="sessions/SCAEMA.php">Was ist Open Source?</a>
+    <br><span class="session-speakers">Astrid Emde</span>
 </td>
 
                             <td rowspan="2" id="session_PNGTBU">
@@ -149,7 +149,11 @@
     <br><span class="session-speakers">Thomas Wiatr, Sandra Beyer, Trosset</span>
 </td>
 
-                            
+                            <td rowspan="1" id="session_S7P93Z">
+            <a class="session-title" href="sessions/S7P93Z.php">Einführung in OpenStreetMap</a>
+    <br><span class="session-speakers">Thomas Skowron</span>
+</td>
+
                             
                             
                             
@@ -168,11 +172,7 @@
     <br><span class="session-speakers">Patrick Knöfel</span>
 </td>
 
-                            <td rowspan="1" id="session_SCAEMA">
-            <a class="session-title" href="sessions/SCAEMA.php">Was ist Open Source?</a>
-    <br><span class="session-speakers">Astrid Emde</span>
-</td>
-
+                            <td></td>
                             <td></td>
                             
                             

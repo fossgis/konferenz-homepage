@@ -35,7 +35,7 @@
 <p>Der Workshop wird online auf einer Mapbender-Installation auf einem Server des Projekts durchgeführt.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jörg Thomsen</h3>
-                        <p>Jörg Thomsen arbeitet seit dem Ende des letzten Jahrhunderts mit freier GI-Software und war bereits die FOSSGIS-Konferenz bereits mit gestaltet, als sie noch MapServer Anwender-Konferenz hieß.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/7FCWE3.jpg'>            <p>Jörg Thomsen arbeitet seit dem Ende des letzten Jahrhunderts mit freier GI-Software und hat bereits die FOSSGIS-Konferenz mit gestaltet, als sie noch MapServer Anwender-Konferenz hieß.</p>
 <p>In den vergangenen 20 Jahren hat Jörg Thomsen zahlreiche WebGIS-Projekte umgesetzt und noch mehr Teilnehmern in seinen Workshops und Schulungen die Themen PostgreSQL und PostGIS, MapServer, GeoServer, QGIS, QGIS Server und Mapbender näher gebracht.</p>
 <p>Jörg Thomsen arbeitet bei der WhereGroup in Berlin und ist Dozent der [FOSS Academy] (https://www.foss-academy.com), dem Schulungsinstitut der WhereGroup (https://www.wheregroup.com)</p>
 <p>Jörg Thomsen ist im FOSSGIS e.V. und der OSGeo Foundation (http://osgeo.org) aktiv.</p>

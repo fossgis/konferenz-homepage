@@ -28,7 +28,7 @@
                 <br><span class='abstract-room-heading'>Dauer: </span>5 Minuten
             </p>
 
-                        
+                        <p><a href="/2021/attachments/CQDB8M_LightningTalk_-_CargoRocket_XUFEk7j.pdf">Vortragsfolien (PDF) </a></p>
             <p>OpenStreetMap enthält mittlerweile viele Attribute über den Zustand bzw. die Beschaffenheit von Straßen und Wegen, sowie zu Pollern und Bordsteinen. Diese Informationen haben wir verwendet um die Straßen in Baden-Württemberg auf ihre Lastenradfreundlichkeit zu bewerten. Da viele Teile der Infrastruktur noch nicht den Anforderungen von Lastenfahrrädern entsprechen, möchten wir in der bestehenden Infrastruktur Problemstellen identifizieren und durch Routing eine einfache Umfahrung ermöglichen. Hierfür haben unseren beide freien Produkte entwickelt: mit R berechnen wir den CargoBikeIndex und auf Basis von der Routing Software Graphhopper das CargoRocket Routing. Alle Erkenntnisse und Entwicklungen sind offen und frei verfügbar. Zusätzlich haben wir uns damit beschäftigt, wie fehlende Daten gesammelt werden können und den Einbezug von bestehenden Apps wie StreetComplete erprobt.</p>
         </section>
 

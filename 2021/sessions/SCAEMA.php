@@ -22,10 +22,10 @@
         <h2 class='abstract-title'>Was ist Open Source?</h2>
         <section>
             <p>
-                <span class='abstract-sessiontype'>Langer Vortrag</span>                von <span class='abstract-speakers'>Astrid Emde</span></p>
-                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 12:00 Uhr
+                <span class='abstract-sessiontype'>Vortrag</span>                von <span class='abstract-speakers'>Astrid Emde</span></p>
+                                                                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 11:00 Uhr
                 <br><span class='abstract-room-heading'>Ort: </span>Bühne 3
-                <br><span class='abstract-room-heading'>Dauer: </span>30 Minuten
+                <br><span class='abstract-room-heading'>Dauer: </span>20 Minuten
             </p>
 
                         

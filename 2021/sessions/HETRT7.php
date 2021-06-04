@@ -30,6 +30,12 @@
 
                         
             <p>Das von der Helmholtz-Stiftung geförderte Wissenstransfer-Projekt SAPIENS (Satellitendaten für Planung, Industrie, Energiewirtschaft und Naturschutz) vermittelt Fernerkundungs- und GIS-Kompetenzen über Web-Seminare, Lehrvideos und weitere E-Learning-Formate, in denen frei zugängliche Methoden und Daten priorisiert werden. Das Angebot frei verfügbarer Fernerkundungsdaten (z.B. Copernicus Programm) wächst zwar exponentiell an, aber die Nutzung ist bisher noch wenig in den Arbeitsalltag und in Entscheidungsprozesse der öffentlichen Verwaltung integriert. In unserem Vortrag möchten wir die Ziele des Projektes genauer erläutern und Erfahrungen sowohl zu Online-Kursdesign und -didaktik als auch zu Projektmanagement teilen. Außerdem geben wir eine Vorschau auf das größer angelegte, auf Fernerkundung fokussierte E-Learning-Projekt fern.LERN.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Nora Meyer zu Erpen</h3>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/S9F8RG.jpg'>            <p>Schon auf dem Gymnasium habe ich Erdkunde geliebt und aus Leidenschaft Geographie
+studiert. Nach einer kurzen Stippvisite in der Wissenschaft bin ich 2009 in die
+Privatwirtschaft zu Airbus Defence and Space gewechselt und habe an unterschiedlichsten Themen in der Erdfernerkundung gearbeitet. Nach über 11+ Jahren bei Airbus freue ich mich nun (seit Anfang 2021) meine Expertise im Wissenstransfer-Projekt SAPIENS am GeoForschungsZentrum Potsdam anzuwenden.  Ich bin der Überzeugung, dass freie Satellitendaten wichtige Ressourcen im Bereich Nachhaltigkeit sowie Klima- und Naturschutz sind und  möchte das Wissen um die Potenzial und den Umgang mit diesen Daten mit möglichst vielen interessierten Menschen teilen.</p>
+        </div>
         </section>
 
 

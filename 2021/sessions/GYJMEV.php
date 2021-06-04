@@ -29,10 +29,10 @@
             </p>
 
                         
-            <p>Die AG SmartMapping der AdV wurde beauftragt, amtliche Daten mit neuen Technologien bereitzustellen. Nach einer anfänglichen Phase in der umfangreiche Konzeptpapiere entstanden sind, arbeitet seit Mitte 2019 eine Gruppe von 25 Entwicklern aus verschiedenen Bundesländern auf einer gemeinsamen Plattform an einem gemeinsamen Verfahren. Dabei ist ein bemerkenswertes Projekt entstanden, welches wirklich neue Wege geht, dabei den Kontakt zu den Geobasisdaten aber nicht verloren hat. Weitere Informationen sind auf der Projektwebseite https://adv-smart.de zu finden</p>
+            <p>Die AG SmartMapping der AdV wurde beauftragt, amtliche Daten innovativ und mit neuen Technologien bereitzustellen. In der ersten Phase wurden umfangreiche Konzeptpapiere und ein Lastenheft erstellt. Innovation und Lastenheft passen aber nicht zusammen, da Innovation jede Menge Unbekannte enthält. Die Anforderungen wurden so umfangreich, dass sie nicht umgesetzt werden konnten. Deswegen musste das Projekt mit minimalen Voraussetzungen gestartet werden. Seit Mitte 2019 arbeitet eine Gruppe von 25 Entwicklern aus verschiedenen Bundesländern auf einer selbst geschaffenen gemeinsamen Entwicklungsplattform an diesem neuen Verfahren. Dabei ist ein bemerkenswertes Projekt entstanden, welches wirklich neue Wege geht, dabei aber den Kontakt zu den Geobasisdaten und  dem ursprünglichen Ziel nicht verloren hat. Im Vortrag wird erläutert wie das möglich ist. Weitere Informationen sind auf der Projektwebseite https://adv-smart.de zu finden.</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Arnulf Christl</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/BDJ9CF.jpg'>            <p>Arulf Christl ist IT Berater für Open Source Technologien und Entwicklung mit agilen Methoden. Er ist Mitgründer der OSgeo und der FOSSGIS-Konferez. Weitere Informationen sind über die Webseite Metaspatial und einschlägige Plattformen (Linkedin, Xing, etc.) zu finden.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/BDJ9CF.jpg'>            <p>Arnulf Christl ist IT Berater für Open Source Technologien und agile Software Entwicklung. Er arbeitet als Senior Consultant für die Firma terrestris und als agile Coach unter seinem Label Metaspatial. Er ist Mitgründer der OSGeo und der FOSSGIS-Konferenz und wohnt in Innsbruck. Weitere Informationen finden Sie über die Seiten https://terrestris.de und https://metaspatial.com.</p>
         </div>
         </section>
 

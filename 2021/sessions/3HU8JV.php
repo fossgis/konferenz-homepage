@@ -30,6 +30,30 @@
 
                         
             <p>Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl muss diesmal jeder selbst sorgen. Wir bitten um Anmeldung über das FOSSGIS-Konferenz-Teilnahmeanmeldesystem.</p>
+<p>OSM-Sonntag - Das Programm</p>
+<ul>
+<li>
+<p>10:00 Kurze Begrüßung durch Frederik Ramm</p>
+</li>
+<li>
+<p>10:15 Tordanik: Erfahrungsaustausch Mappertreffen</p>
+</li>
+<li>
+<p>11:15 ToniE: ÖPNV-Mapping</p>
+</li>
+<li>
+<p>12:15 DD1GJ: Spannungsfeld Naturschutz/Outdoor-Apps</p>
+</li>
+<li>
+<p>13:15 Tordanik: Attribution Plus</p>
+</li>
+<li>
+<p>14:15 Christopher/Tordans: OSM Verkehswende</p>
+</li>
+<li>
+<p>15:15 Geonick: Ask-us-Anything/Schul-Mapathon</p>
+</li>
+</ul>
         </section>
 
 

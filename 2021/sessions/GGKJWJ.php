@@ -31,7 +31,7 @@
 
                         
             <p>Das Aushängeschild einer jeden Geo-Webanwendung sind ihre Daten und damit auch ihre ansprechende sowie intuitive Darstellung in Form von Karten. Die Veröffentlichung von Kartendiensten kann dabei über den GeoServer, einen Open-Source-Kartenserver, der die wichtigsten Standards des OGC wie WMS, WMTS, WFS oder WCS unterstützt, realisiert werden. Der GeoServer erleichtert die Konfiguration von Diensten durch eine breite Unterstützung von Datenquellen, eine sehr detaillierte Dokumentation sowie eine übersichtliche Benutzeroberfläche.</p>
-<p>In diesem Workshop werden die Teilnehmer die Grundlagen des Stylings von Kartendiensten über den GeoServer kennenlernen und dabei wichtige Hinweise zur Gestaltung dieser erlernen. Ziel wird es sein, eine ansprechende Hintergrundkarte auf Basis von OpenStreetMap Daten zu erstellen wobei folgende Themen behandelt werden:</p>
+<p>In diesem Workshop werden die Teilnehmer die Grundlagen des Stylings von Kartendiensten über den GeoServer kennenlernen und dabei wichtige Hinweise zur Gestaltung dieser erlernen. Ziel wird es sein, eine ansprechende Hintergrundkarte auf Basis von Natural Earth Daten zu erstellen wobei folgende Themen behandelt werden:</p>
 <ul>
 <li>Kurze Einführung in das Styling-Format SLD (Styled Layer Descriptor)</li>
 <li>Die Nutzung des GeoStyler-Plugins für den GeoServer, um auch umfangreichere Stile komfortabel über ein UI setzen zu können</li>

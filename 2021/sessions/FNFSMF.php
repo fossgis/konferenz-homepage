@@ -35,6 +35,11 @@
             <h3 class='abstract-bio-name'>Tobias Weber</h3>
                         <p>Tobias Weber ist seit Januar 2021 Software Entwickler bei der WhereGroup GmbH (https://wheregroup.com) in Bonn. Als Full-Stack Developer hat er den letzten 15 Jahren diversen Projekten mit verschiedenen Technologien wie Javascript (client &amp; server), React, Vue.js, Docker, PHP, ExtJS, MySQL, Three.js gearbeitet. Während sich die Arbeit bei dem ehemaligen Arbeitgeber dahabtours GmbH auf die Entwicklung von CRM und Shop-Systemen konzentrierte, war er in seiner Freiberuflichen Arbeit bei dem Projekt Mujumaps auch mit der Einrichtung von OSM-Tile Servern beschäftigt. Bei seinem privaten Projekt Nametag Designer (www.nametag-designer.com) lag der Fokus seit 2 Jahren verstärkt auf der Entwicklung moderner Benutzeroberflächen mit dem frontend Framework React.</p>
         </div>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>David Patzke</h3>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/DTYDAG.jpg'>            <p>David Patzke arbeitet seit einem halben Jahrzehnt als Software-Entwickler und Software-Architekt im OpenSource WebGIS Bereich und hat dabei viele Projekte unter anderem mit der Hilfe des Mapbenders, Mapservers, Mapbox/MapLibre und Postgis geplant und umgesetzt. </p>
+<p>Er arbeitet seit 2015 bei der WhereGroup GmbH und ist seitdem auch aktives Mitglied und Entwickler im Mapbender Projekt.</p>
+        </div>
         </section>
 
 

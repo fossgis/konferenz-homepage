@@ -39,8 +39,8 @@
         </div>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Robert Klemm</h3>
-            <img class='abstract-speaker-avatar' src='/2021/avatars/AUXGEB.jpg'>            <p>Ich bin studierter Geoinformatiker und Kartograph und seit 2017 als GIS-Consultant und Entwickler bei der <a href="https://wheregroup.com">WhereGroup</a>nin Berlin tätig.</p>
-<p>Ich weise Erfahrung mit PostgreSQL und PostGIS, Imposm, Mapnik, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin in Apache, Solr, OpenLayers, MapProxy, OGC Standards, GraphHopper und im Skripting.</p>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/AUXGEB.jpg'>            <p>Studierter Geoinformatiker und Kartograph, seit 2017 als GIS-Consultant und Entwickler bei der  <a href="https://wheregroup.com">WhereGroup</a> in Berlin tätig.</p>
+<p>Er besitzt umfangreiche Erfahrungen mit PostgreSQL und PostGIS, Imposm, Mapnik, MapServer, GeoServer, QGIS, QGIS Server und Mapbender. Auch Apache, Solr, OpenLayers, MapProxy, OGC Standards, GraphHopper und Skripting gehören in sein Repertoire.</p>
         </div>
         </section>
 
