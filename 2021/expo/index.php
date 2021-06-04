@@ -230,10 +230,6 @@
 						</div>
 					</div>
 				</div>
-
-				
-<!--
-	
 				<div class="col-sm-6 col-lg-6 mt-3 mb-3">
 					<div class="expo-box">
 						<div class="icon d-flex align-items-center justify-content-center">
@@ -241,21 +237,14 @@
 						</div>
 						<div class="feature-content">
 							<h5>OpenCage</h5>
-							<p class="small">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores </p>
+							<p class="small">OpenCage GmbH bietet eine auf offene Daten basierende API für Geokodierung.</p>
 							<a href="expo/OpenCage.php" 
 								class="btn btn-sm btn-primary active" role="button" aria-pressed="true">
 								Details anschauen
 							</a>				
 						</div>
 					</div>
-				</div>
-		
-
-
-
--->
-
-				
+				</div>				
 			</div>
 		</div>
 	</section>
