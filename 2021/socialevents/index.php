@@ -41,7 +41,7 @@
 	<p>Am Dienstagabend wird ein Diskussionspanel stattfinden. Das Thema wird im Programm bekannt gegeben</p>-->
 
 	<h4>Gruppenfoto auf der Fotowiese</h4>
-	<p>Auch in deisem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden ein am Dienstag, den 08. Juni um 15.30 Uhr beim Gruppenfoto in der Netzwerkwelt auf der Fotowiese auf dem virtuellen Campus dabei zu sein. </p>
+	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden ein am Dienstag, den 08. Juni um 15.30 Uhr beim Gruppenfoto in der Netzwerkwelt auf der Fotowiese auf dem virtuellen Campus dabei zu sein. </p>
 	
 	<p><img src="./socialevents/img/Fotowiese_Netzwerkwelt.png" class="img-fluid" alt="Fotowiese Netzwerkwelt"></p>
 	
