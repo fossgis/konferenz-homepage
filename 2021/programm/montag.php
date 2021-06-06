@@ -96,6 +96,10 @@
                             <td></td>
                                                 </tr>
                                 <tr>
+                        <td class="program-time">10:30</td>
+                        <td colspan="8" class="program-break">Pause</td>
+                                            </tr>
+                                <tr>
                         <td class="program-time">11:00</td>
                         <td rowspan="1" id="session_NWZPJJ">
             <a class="session-title" href="sessions/NWZPJJ.php">OpenLayers: Was ist neu und was kommt als nächstes</a>
