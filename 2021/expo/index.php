@@ -24,12 +24,11 @@
 				<div class="col-lg-12">
 					<div class="section-title">
 					    <h2>Ausstellerstand auf der FOSSGIS</h2>
-					    <p>Die bewährte Firmen- und Projektausstellung, die einen direkten Kontakt zwischen Dienstleistern, Projekten und Teilnehmer:innen bietet, wird in diesem Jahr in einem besonderen Format stattfinden. Dazu werden wir in der Netzwerkwelt einen Expobereich einrichten.</p>
-						<p>Im Expobereich können sich Firmen und Open Source Projekte präsentieren.</p>
-						<p>Jeder Ausstellungsstand wird mit dem eignen Logo gekennzeichnet, bekommt einen eignen Videokonferenzraum sowie eine Infoseite, die per Mouseover angezeigt wird. In der Netzwerkwelt, die den OST Campus Rapperswil nachbilden wird, können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen.  Zum Einstieg gibt man sich einen Namen und wählt einen Avatar aus. Nach der Landung im Eingangsbereich können Sie sich mit Hilfe der Tastatur bewegen. Sie können die Netzwerkwelt erkunden, sehen auch, ob weitere Teilnehmende unterwegs sind.
-						</p>
-						<p>Bei Begegnung von zwei Avataren öffnet sich ein Videochat, welcher sich mit einem kurzen Geräusch ankündigt. Räume können betreten werden, dort sind Informationen zu finden oder eine Videokonferenz findet statt. Das heißt Sie, als Aussteller, können die Teilnehmenden sehen und auch aktiv auf diese zugehen.</p>
-						<p>Der Ausstellerstand ist im Sponsoringpaket der FOSSGIS-Konferenz enthalten und war bis zum 10.04.2021 kostenfrei buchbar. </p>
+					    <p>Die bewährte Firmen- und Projektausstellung, die einen direkten Kontakt zwischen Dienstleistern, Projekten und Teilnehmer:innen bietet, wird in diesem Jahr in einem besonderen Format stattfinden. Dazu ist in der Netzwerkwelt ein Expobereich eingerichtet.</p>
+						<p>Im Expobereich präsentieren sich 13 Firmen sowie FOSSGIS e.V., OSM und OSGeo.</p>
+						<p>Jeder Ausstellungsstand ist mit dem Firmen-Logo gekennzeichnet, über das man zu einer Infoseite gelangt. In der Netzwerkwelt ist der OST Campus Rapperswil nachgebildet, hier können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen. Eine genauere Beschreibung ist in der Online-Plattform zu finden. </p>
+						<p>Für die Kommunikation am Stand wird die Videochatfunktion genutzt, die sich bei der Begegnung von zwei Avataren öffnet. Wenn Sie einen Avatar am Ausstellerstand sehen, ist der Stand besetzt.</p>
+						<p>Hier eine Jobbörse eingerichtet: <a href="https://fossgis-konferenz.de/2021/expo/jobs.php">Link Jobbörse</a> Wenn jemand eine Stelle einragen möchte, sendet dazu eine Mail an das Orgateam.</p>
 					</div>
 				</div>
 			</div>

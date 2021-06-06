@@ -38,6 +38,9 @@
 		<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Liste der Vortragenden</a>
 	</p>
 
+	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
+	<p>Die FOSSGIS 2021 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2021/"> https://streaming.media.ccc.de/fossgis2021/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink im Bestelllink.</p>
+
 	<h3>FOSSGIS-Konferenz per Android-APP</h3>
 	<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
 	<p>Ansicht der App für Smartphone:	
