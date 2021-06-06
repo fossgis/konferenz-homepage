@@ -9,7 +9,9 @@ const JITSI_INSTANCE = 'https://meet.ffmuc.net'
 // The hash of the URLs has the following shape
 // <hash-bang><slash><type(speaker or regie)><slash><jitsi-room>
 // e.g.  #!/speaker/my-actual-jitsi-room
-const [type, room] = window.location.hash.substr(3).split('/')
+// The "bang" is optional, i.e. a URL like this is equal to the example above:
+// #/speaker/my-actual-jitsi-room
+const [_prefix, type, room] = window.location.hash.split('/')
 
 let parameters
 switch (type) {
