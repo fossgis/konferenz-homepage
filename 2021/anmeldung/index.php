@@ -80,6 +80,11 @@
 	<p>Um optimales Netzwerken während der Veranstaltung zu ermöglichen, wird es eine virtuelle Variante des OST Campus Rapperswil geben, wir nennen es die <i>Netzwerkwelt</i>.<br>
 	   In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen. Zum Einstieg gibt man sich einen Namen und wählt einen Avatar aus. Nach der Landung im Eingangsbereich bewegen Sie sich mit Hilfe der Tastatur. Sie können die <i>Netzwerkwelt</i> erkunden (Informationsräume, Firmenausstellung betreten) und Sie sehen auch, ob weitere Teilnehmende unterwegs sind. Wenn Sie einer Person begegnen, öffnet sich ein Videochat, welcher sich mit einem Geräusch ankündigt, Sie können sich austauschen oder weglaufen - fast wie im echten Leben ;-).</p>
 
+	<h3>Erklärfilm Netzwerkwelt</h3>
+	<p>Klicken Sie <a href="https://vortraege.fossgis.de/d/ad38d2da8d8d40de86a0/">hier</a>, um den Film anzusehen.</p>
+	<div>
+	<img src="./data/Foto_Erklaerfilm_Netzwerkwelt.png" alt="Erklärfilm Netzwerkwelt">
+
 	<h3>Helfer</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz bei der technischen Vorbereitung und während der Konferenz bei der technischen Betreuung oder als Sessionleitung zu unterstützen. Bei Interesse bitte im <a href="https://helfer.fossgis.de/" target="_blank">Helfersystem</a> registrieren und eine E-Mail an das <a href="mailto:helfer@fossgis.de"> Helferteam</a> senden, damit wir Sie kontaktieren können. Helfer:innen dürfen das kostenfreie "Online-Konferenzticket für Helfende" buchen.
 Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer/" target="_blank">Helfer-FAQ</a> zu lesen.</p>
