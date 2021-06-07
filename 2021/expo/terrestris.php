@@ -130,7 +130,7 @@
 						</div>
 						<div class="feature-content">
 						<p>Zur Demo</p>
-						<p><a href="https://www.terrestris.de/">SHOGun Demo</a></p>
+						<p><a href="https://www.shogun.terrestris.de/">SHOGun Demo</a></p>
 						</div>
 					</div>
 				</div>								
