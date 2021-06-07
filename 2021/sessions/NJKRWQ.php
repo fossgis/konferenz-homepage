@@ -35,20 +35,41 @@
 <p>Technisch basiert die Lösung vollständig auf Open Source Software installiert auf einem Ubuntu Server. Komponenten sind PostgreSQL und die GBD WebSuite der Geoinformatikbüro Dassau GmbH. Die GBD WebSuite wurde dazu um ein INSPIRE Modul erweitert, um Daten der Bauleitplanung über eine Administrationsoberfläche durch die Kommunen hochladen und pflegen zu können die Informationen auf Anfrage INSPIRE-konform als WMS und WFS zur Verfügung zu stellen. Eine Besonderheit besteht darin, dass die Datenharmonisierung für die INSPIRE-konforme Bereitstellung der in PostGIS verwalteten Daten in Echtzeit, dynamisch stattfindet.</p>
 <p>Das kommunale Geoportal umfasst folgende Funktionalität:</p>
 <p>Suchdienst</p>
-<pre><code>• Bereitstellung eines INSPIRE konformen Web Catalogue Service (CSW), um diesen in externe Geoportale, z.B. dem Geoportal Hessen, übernehmen zu können.
-• Die Fortführung der Metadaten (einfügen, aktualisieren, entfernen) des CSW kann durch berechtigte Nutzer aus den Kommunen über die Administrationsoberfläche stattfinden.
-</code></pre>
+<ul>
+<li>
+<p>Bereitstellung eines INSPIRE konformen Web Catalogue Service (CSW), um diesen in externe Geoportale, z.B. dem Geoportal Hessen, übernehmen zu können.</p>
+</li>
+<li>
+<p>Die Fortführung der Metadaten (einfügen, aktualisieren, entfernen) des CSW kann durch berechtigte Nutzer aus den Kommunen über die Administrationsoberfläche stattfinden.</p>
+</li>
+</ul>
 <p>Darstellungsdienste und Downloaddienste</p>
-<pre><code>• INSPIRE-konforme Daten werden dynamisch erzeugt und als WMS 1.1.0, 1.1.1 und 1.3.0 sowie WMTS 1.0.0 in den WebGIS Client des Geoportals Marburg-Biedenkopf eingebunden.
-• Dynamische Bereitstellung INSPIRE-konformer WMS 1.1.0, 1.1.1, 1.3.0 oder WMTS 1.0.0 Dienste zum Einbinden in externe Anwendungen.
-• Dynamische Bereitstellung INSPIRE-konformer WFS 2.0 Dienste für Vektordaten zum Einbinden in externe Anwendungen.
-• Dynamische Bereitstellung INSPIRE-konformer WCS 1.0.0, 2.0.1 Dienste für Rasterdaten zum Einbinden in externe Anwendungen.
-</code></pre>
+<ul>
+<li>
+<p>INSPIRE-konforme Daten werden dynamisch erzeugt und als WMS 1.1.0, 1.1.1 und 1.3.0 sowie WMTS 1.0.0 in den WebGIS Client des Geoportals Marburg-Biedenkopf eingebunden.</p>
+</li>
+<li>
+<p>Dynamische Bereitstellung INSPIRE-konformer WMS 1.1.0, 1.1.1, 1.3.0 oder WMTS 1.0.0 Dienste zum Einbinden in externe Anwendungen.</p>
+</li>
+<li>
+<p>Dynamische Bereitstellung INSPIRE-konformer WFS 2.0 Dienste für Vektordaten zum Einbinden in externe Anwendungen.</p>
+</li>
+<li>
+<p>Dynamische Bereitstellung INSPIRE-konformer WCS 1.0.0, 2.0.1 Dienste für Rasterdaten zum Einbinden in externe Anwendungen.</p>
+</li>
+</ul>
 <p>Datenharmonisierung</p>
-<pre><code>• Bereitstellung einer INSPIRE-konformen Transformation von Raster und Vektordaten (Schema− und Koordinatentransformation).
-• Die Konfiguration kann durch berechtigte Nutzer stattfinden.
-• Vor der Bereitstellung der Daten findet eine Prüfung durch einen INSPIRE Validator statt.
-</code></pre>
+<ul>
+<li>
+<p>Bereitstellung einer INSPIRE-konformen Transformation von Raster und Vektordaten (Schema− und Koordinatentransformation).</p>
+</li>
+<li>
+<p>Die Konfiguration kann durch berechtigte Nutzer stattfinden.</p>
+</li>
+<li>
+<p>Vor der Bereitstellung der Daten findet eine Prüfung durch einen INSPIRE Validator statt.</p>
+</li>
+</ul>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Otto Dassau</h3>
             <img class='abstract-speaker-avatar' src='/2021/avatars/PPGCHK.jpg'>            <p>Otto Dassau ist Gründer und Geschäftsführer der Geoinformatikbüro Dassau GmbH aus Düsseldorf. Er ist Diplom-Geograph und hat in Hannover Physische Geographie mit Schwerpunkt Geographische Informationssysteme studiert. Er ist seit über 20 Jahren aktiv in den Open Source GIS Projekten QGIS und GRASS GIS sowie dem FOSSGIS e.V. und der QGIS Anwendergruppe Deutschland e.V.. Zwischen 2008 und 2017 war er Mitglied im QGIS Project Steering Committee (PSC).</p>
