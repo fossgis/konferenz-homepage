@@ -29,7 +29,8 @@
             </p>
 
                         
-            <p>Mit PostGIS 3.1 hat sich auch die GEOS Version geändert und hexagonale und quadratische Grids können erstellt werden. Dann geht der Blick ins Umfeld von PostGIS und die zwei Softwareprojeke pg_tileserv und pg_featureserv werden vorgestellt.</p>
+            <p>PostGIS wird in diesem Jahr 20 Jahre alt. Am 31. Mai 2001 kam die PostGIS Version 0.1 heraus. Die Meldung zum initialen Release erfolgte auf diversen Kanälen, so auch auf der frisch eingerichteten PostGIS Yahoo! Groups Liste (PostGIS Release 0.1 Mail https://lists.osgeo.org/pipermail/postgis-users/2001-May/000000.html). Die Nachricht über das neue Projekt verbreitete sich rasant und zog schon bald weite Kreise. Heute ist PostGIS in Kombination mit PostgreSQL die favorisierte Lösung zur Speicherung und Verarbeitung von Geodaten in der Datenbank. PostGIS ist performant, vielseitig, leistungsstark, weltweit verbreitet, wird von zahlreichen Projekten unterstützt und verfügt über diverse angegliederte Projekte (PostGIS Feature und angegliederte Projekte http://postgis.net/features/). Es gibt also viele Gründe PostGIS in 2021 zu feiern.</p>
+<p>PostGIS at 20, The Beginning http://blog.cleverelephant.ca/2021/05/postgis-20-years.html</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Astrid Emde</h3>
                         <p>Astrid Emde war bisher bei allen FOSSGIS-Konferenzen dabei und freut sich auf die FOSSGIS 2021 in Rapperswil oder auch Online!</p>
