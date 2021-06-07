@@ -28,7 +28,7 @@
                 <br><span class='abstract-room-heading'>Dauer: </span>20 Minuten
             </p>
 
-                        
+                        <p><a href="/2021/attachments/38SRQD_2021-05-31-Generalisierung-PostGIS-FOSSGIS_expo_tj8qDsd.pdf">Vortragsfolien (PDF) </a></p>
             <p>PostgreSQL bildet mit seiner räumlichen Erweiterung PostGIS die Grundlage für viele Webkarten und eignet sich hervorragend für die Verarbeitung von großen Datensätzen. Generalisierung ist ein essenzieller Teil der Kartenproduktion und ein Kernproblem der Kartographie. Durch seine Vielzahl an Funktionen und seiner Performance eignet sich PostGIS besonders für diesen Anwendungszweck. Dabei geht es keineswegs nur um die Auswahl von Objekten und die Vereinfachung von Linien. Anhand von Beispielen soll die Möglichkeiten der Generalisierung mittels Typisierung und komplexerer Auswahlverfahren vorgestellt werden. Ziel ist ein für die Visualisierung optimiertes Datenmodell, ein „kartographisches“ Landschaftsmodell, um dann aus den Daten verschiedenen Visualisierungen abzuleiten.</p>
         </section>
 

@@ -33,6 +33,10 @@
 Das BKG führt zahlreiche Recherchen zu den verschiedensten Themen durch. Die so gewonnenen Informationen möchten wir auch in OSM einpflegen und so zu einer Verbesserung des OSM-Datenbestandes und somit zu einer besseren Nutzbarkeit der Daten beitragen. Dieses Vorhaben wird im Zuge verschiedener Mapathons vorerst innerhalb des BKG umgesetzt. Ein erster Mapathon wurde zur Vervollständigung allgemeinbildender Schulen in OSM durchgeführt. Die Änderungen wurden mit dem Hashtag #BKG markiert.
 Im Rahmen des ersten BKG-internen Mapathons wurden am 18. und 19. Mai 2021 Schul-Standorte recherchiert und in OSM – sofern noch nicht enthalten – als auch im BKG-POI-Datensatz ergänzt. Datenquellen waren die Homepage der jeweiligen Schule, Zeitungsartikel oder andere öffentliche Bekanntmachungen. Im Einzelfall waren dies auch Ortskenntnisse der Mapper.
 Der BoF dient zum Austausch zwischen erfahrenen OSM-Mappern und BKG-MitarbeiterInnen hinsichtlich einer den Grundsätzen von OSM entsprechenden Durchführung von Mapathons in Behörden (benutzte Tools, Arbeitsanweisung, Fehlerkorrektur) und stellt die Ergebnisse des Mapathons vor.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Joachim Eisenberg</h3>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/KKJNDY.jpg'>            <p>Joachim Eisenberg arbeitet als Geograph und Geoinformatiker am Bundesamt für Kartographie und Geodäsie (BKG) im Referat GD1 "Informationsgewinnung und Ausbildung".</p>
+        </div>
         </section>
 
 
