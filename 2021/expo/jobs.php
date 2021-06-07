@@ -54,6 +54,19 @@
 							<br>(Stadt Hamburg)
 						</li>
 						<br>
+						
+						<li>
+							<a href="https://stellen.hamburg.de/index.php?ac=jobad&id=2165" rel="noopener" target="_blank">		Fachbereichsleitung Urban Data Hub
+							</a>
+							<br>(Stadt Hamburg)
+						</li>
+						<br>
+						<li>
+							<a href="https://stellen.hamburg.de/index.php?ac=jobad&id=1961" rel="noopener" target="_blank">		Sachbearbeiterin bzw. Sachbearbeiter (m/w/d) Datenintegration und –transformation
+							</a>
+							<br>(Stadt Hamburg)
+						</li>
+						<br>
 
 						<li>...</li>
 					</ul>
