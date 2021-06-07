@@ -28,6 +28,7 @@
 					<li><a href="https://www.mundialis.de/de/stellenausschreibung-projektleiterin-m-w-d-in-vollzeit-40h-woche/">Projektleitung in Bonn</a> (Firma mundialis)</li><br>
 					<li><a href="https://jobs.maxime-media.de/wheregroup-gmbh/7330103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">Software-Entwickler (m/w/d) in Bonn, Berlin und Freiburg oder Hamburg</a> (Firma WhereGroup)</li><br>
 					<li><a href="https://jobs.maxime-media.de/wheregroup-gmbh/7328899">Software-Architekt GIS (m/w/d) in Bonn</a> (Firma WhereGroup)</li><br>
+					<li><a href="https://stellen.hamburg.de/index.php?ac=jobad&id=1251">Teamleiterin bzw. Teamleiter (m/w/d) Webentwicklung</a> (Stadt Hamburg)</li><br>
 
 					<li>...</li>
 
