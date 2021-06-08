@@ -26,6 +26,12 @@
 					<h3>Jobbörse</h3>
 					<ul>
 						<li>
+							<a href="https://bewerbung.maxime-media.de/unternehmen/wheregroup-gmbh-2235/job/4116" rel="noopener" target="_blank">
+								OpenStreetMap-Experte (m/w/d) in Bonn/Berlin/Freiburg/Hamburg
+							</a>
+							<br>(Firma WhereGroup)
+						</li>
+						<li>
 							<a href="https://www.mundialis.de/de/stellenausschreibung-projektleiterin-m-w-d-in-vollzeit-40h-woche/" rel="noopener" target="_blank">
 								Projektleiter:in (m/w/d) in Bonn
 							</a>
