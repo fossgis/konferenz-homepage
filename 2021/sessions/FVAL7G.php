@@ -28,7 +28,7 @@
                 <br><span class='abstract-room-heading'>Dauer: </span>20 Minuten
             </p>
 
-                        
+                        <p><a href="/2021/attachments/FVAL7G_swisstopo_VectorTiles_PjbSUal.pdf">Vortragsfolien (PDF) </a></p>
             <p>swisstopo publiziert per 1.3.2021 einen frei verfügbaren VectorTile-Dienst (https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/darstellungsdienste-webmapping-webgis-anwendungen/vector_tiles_service.html).
 Vector Tiles sind Pakete von Geodaten, die in vordefinierte, etwa quadratisch geformte "Kacheln" verpackt und über das Web übertragen werden. Sie können für die Bereitstellung von stilisierten Webkarten verwendet werden und kombinieren die Vorteile von vorgerenderten Rasterkartenkacheln mit Vektorkartendaten. Wie bei WMTS, werden die Daten vom Client als ein Satz von "Kacheln" angefordert, die quadratischen Landbereichen mit einer vordefinierten Grösse und Position entsprechen. Vektorkacheln enthalten Vektordarstellungen von Daten über eine Reihe von Skalen. Im Gegensatz zu Rasterkacheln,
 - können sie sich an die Auflösung ihres Anzeigegerätes anpassen

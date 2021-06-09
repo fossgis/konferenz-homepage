@@ -28,7 +28,7 @@
                 <br><span class='abstract-room-heading'>Dauer: </span>5 Minuten
             </p>
 
-                        
+                        <p><a href="/2021/attachments/QWFKTH_openEngiadina_-_FOSSGIS_2021_3NuhHz5.pdf">Vortragsfolien (PDF) </a></p>
             <p>Das Internet schafft neue Möglichkeiten für partizipatives Kreieren und Kurieren von Wissen. Allerdings wird das Medium von grossen, kommerziellen Anbietern dominiert.</p>
 <p>Kleine politische Gemeinden in der Schweiz und lokale Organisationen die sich für gemeinwohlorientierte Lebensweisen einsetzen sind vom Internet abgehängt. Entweder es muss zu Kosten der Datensicherheit und Datensouveränität auf kommerzielle Anbieter vertraut werden oder das zu erfassende Wissen passt schlichtweg nicht in das Schema von Google oder Facebook.</p>
 <p>Im Rahmen der <a href="https://openengiadina.net/">openEngiadina</a> und <a href="https://dream.public.cat/">DREAM</a> Projekte erforschen und entwickeln wir Ideen und Technologien um einen nachhaltigen, sicheren und offenen Austausch über lokales Wissen zu ermöglichen. Kartographische Daten spielen dabei eine zentrale Rolle.</p>

@@ -28,7 +28,7 @@
                 <br><span class='abstract-room-heading'>Dauer: </span>5 Minuten
             </p>
 
-                        
+                        <p><a href="/2021/attachments/DZCNKG_Gasleuchten_Rudzick_Jura_Fossgis21_kolf3jJ.pdf">Vortragsfolien (PDF) </a></p>
             <p>In Berlin gibt es noch ca. 25000 Gasleuchten, davon stehen 3300 unter Denkmalschutz.&nbsp;[1]
 Die ersten Gasleuchten wurden 1826 aufgestellt, die letzten um die Jahrtausendwende.
 Gemeinsam mit Gaslicht-Kultur e.V., einem gemeinnützigen Verein, der sich in Berlin für
