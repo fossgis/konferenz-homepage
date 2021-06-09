@@ -28,7 +28,7 @@
                 <br><span class='abstract-room-heading'>Dauer: </span>20 Minuten
             </p>
 
-                        
+                        <p><a href="/2021/attachments/BBSDVU_FOSSGIS-2021-BBSDVU-Oesch_Keynote_h0fxJEY.pdf">Vortragsfolien (PDF) </a></p>
             <p>Basisdaten Landeskarten, Höhenmodell und Luft-/Orthobilder sind ab 1.3.2021 schweizweit frei verfügbar – als Geodienste und Rohdatendownload. Wenn zu Open Data – als Dienst oder als Rohdatensatz – die entsprechenden OSS-Werkzeuge bereitgestellt werden: dann wird das Potential erst freigesetzt.</p>
 <p>Es wird auf die Rolle von OSS (Openlayers, Maplibre, VueJS), OpenStandards (Spatial Asset Temporal Catalog, OGC) und das Open Mindset bezüglich Technologien und Partnerschaften (OSM, SW Provider) in der Bereitstellung und Nutzung von amtlichen Geodaten eingegangen.</p>
         <div class='abstract-bio'>
