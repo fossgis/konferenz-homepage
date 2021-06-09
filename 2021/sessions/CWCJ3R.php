@@ -30,6 +30,10 @@
 
                         
             <p>Das Einsatzleitsystem von Schutz &amp; Rettung Zürich dient einerseits der schnellen Suche nach Geonamen und andererseits, um die nächstgelegenen Einsatzteams optimal ans Ziel zu führen. Am Zielobjekt ist zudem interessant, wo der optimale Zugang zum Eingang liegt. Die Daten von OpenStreetMap (OSM) leisten dabei einen unentbehrlichen Beitrag, nebst den Daten vom Eidg. Gebäude- und Wohnungsregister (GWR) und von swisstopo. Die OSM-Daten werden dabei periodisch heruntergeladen, aufbereitet und über einen Software-Dienstleister zur Verfügung gestellt. Um unerwünschte Edits in OSM frühzeitig zu erkennen und zu korrigieren werden einerseits bestimmte Tags verwendet und anderseits ist ein Monitoring Tool auf der Basis einer individuell erweiterten OSMCha-Webapplikation geplant. Ein kleines Team kümmert sich um das Monitoring und OSM-Editing mittels JOSM. Inwischen wurde auch eine Kerngruppe Notfallorganisationen im Rahmen der Swiss OSM Association gegründet.</p>
+        <div class='abstract-bio'>
+            <h3 class='abstract-bio-name'>Michael Schmid</h3>
+            <img class='abstract-speaker-avatar' src='/2021/avatars/UJQLLY.jpg'>            <p>Datenmanager &amp; Applikationsbetreuer bei Schutz &amp; Rettung Zürich</p>
+        </div>
         </section>
 
 
