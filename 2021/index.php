@@ -18,7 +18,7 @@
 
             <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
 
-            <p>Die FOSSGIS-Konferenz 2021 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> mit Unterstützung des <a href="https://www.ifsoftware.ch">Instituts für Software</a> des OST Campus Rapperswil organisiert.</p>
+            <p>Die FOSSGIS-Konferenz 2021 wurde vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> mit Unterstützung des <a href="https://www.ifsoftware.ch">Instituts für Software</a> des OST Campus Rapperswil organisiert und fand als Online-Event vom 06. bis 09. Juni 2021 statt. Eine Nachlese zur Konferenz ist <a href="https://fossgis.de/news/2021_06_09_erfolgreiche_fossgis-konferenz-2021/">hier</a> zu finden.</p>
 
 
             <ul class="tiles">

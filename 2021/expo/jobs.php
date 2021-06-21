@@ -24,6 +24,7 @@
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Jobbörse</h3>
+					<p>Die Jobbörse wurde im Rahmen der FOSSGIS-Konferenz, die vom 06. - 09. Juni 2021 stattfand, erstellt. Es erfolgt keine Fortschreibung</p>
 					<ul>
 						<li>
 							<a href="https://jobs.maxime-media.de/wheregroup-gmbh/7334684" rel="noopener" target="_blank">

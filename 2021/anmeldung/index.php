@@ -89,7 +89,7 @@
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz bei der technischen Vorbereitung und während der Konferenz bei der technischen Betreuung oder als Sessionleitung zu unterstützen. Bei Interesse bitte im <a href="https://helfer.fossgis.de/" target="_blank">Helfersystem</a> registrieren und eine E-Mail an das <a href="mailto:helfer@fossgis.de"> Helferteam</a> senden, damit wir Sie kontaktieren können. Helfer:innen dürfen das kostenfreie "Online-Konferenzticket für Helfende" buchen.
 Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer/" target="_blank">Helfer-FAQ</a> zu lesen.</p>
 
-   	<h3>Anmeldung</h3>
+   	<!--<h3>Anmeldung</h3>
 	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2021/">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2021/"></pretix-widget>
@@ -99,7 +99,7 @@ Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2021/page/helfer
             		JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2021/">hier</a>.
         		</div>
     		</div>
-		</noscript>
+		</noscript>-->
 			
 
 	<h3>Sie haben Fragen?</h3>

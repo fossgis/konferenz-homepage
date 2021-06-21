@@ -3,9 +3,9 @@
 		<img class="page-logo" src="./img/FOSSGIS Konferenz Logo 2021_BGw.png">
 	</a>
 	<h2 class="page-title">
-		FOSSGIS-Konferenz 2021<br>
+		FOSSGIS-Konferenz <br>
 		<span class="amp">Online-Event</span> <br>
-		<span class="main">06.&ndash;09. Juni</span>
+		<span class="main">06.&ndash;09. Juni 2021</span>
 	</h2>
 </header>
 
@@ -14,9 +14,9 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-		<li id="navAnmeldung">
+		<!--<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
-		</li>
+		</li>-->
 		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
