@@ -37,11 +37,11 @@
                          <img src="img/osgeo.png" width="180px" Alt="OSGeo">
 					 </a>
 				 </li>
-				<!-- <li class="tile bronze">
-					 <a href="http://www.ost.ch/index.php/">
-						 <img src="./img/ost_logo_de_rgb.png" alt="OST Campus Rapperswil" width="180px">
+				<li class="tile bronze">
+					 <a href="http://www.uni-marburg.de/">
+						 <img src="./img/PhUniMa_Logo_4c.jpg" alt="Uni Marburg" width="180px">
 					 </a>
-                 </li>     -->               
+                 </li>           
             </ul>
            
 
