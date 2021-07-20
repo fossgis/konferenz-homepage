@@ -38,6 +38,9 @@
 		<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Liste der Vortragenden</a>
 	</p>
 
+	<h3>Tagungsband</h3>
+	<p>Auch im Jahr 2021 erscheint ein Tagungsband zur Konferenz, dieser ist <a href="data/FOSSGIS_Tagungsband_2021.pdf">hier als PDF</a> downloadbar.
+
 	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2021 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2021/"> https://streaming.media.ccc.de/fossgis2021/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink im Bestelllink.</p>
 
