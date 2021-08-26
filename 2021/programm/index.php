@@ -16,14 +16,17 @@
 	<?php include "../inc/header.inc"; ?>
 
         <h2>Programm</h2>
+	<p>
+		<a href="https://pretalx.com/fossgis2021/schedule/" target="_blank" rel="noopener nofollow">hier geht es zum Konferenzprogramm</a>
+	</p>
 
-	<p>Wählen Sie den gewünschten Konferenztag aus.</p>
+	<!-- <p>Wählen Sie den gewünschten Konferenztag aus.</p>
 	<ul>
 		<li>
 			<a href="programm/sonntag.php" target="_blank" rel="noopener nofollow">OSM-Sonntag, 06.06.2021</a>
                 </li>
 		<li>
-			<!-- href-old "https://pretalx.com/fossgis2021/schedule/" -->
+			 href-old "https://pretalx.com/fossgis2021/schedule/" 
 			<a href="programm/montag.php">Montag, 07.06.2021</a>
 		</li>
 		<li>
@@ -32,33 +35,41 @@
 		<li>
 			<a href="programm/mittwoch.php">Mittwoch, 09.06.2021</a>
 		</li>
-        </ul>
+        </ul> -->
 
 	<p>
 		<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Liste der Vortragenden</a>
 	</p>
 
 	<h3>Tagungsband</h3>
-	<p>Auch im Jahr 2021 erscheint ein Tagungsband zur Konferenz, dieser ist <a href="data/FOSSGIS_Tagungsband_2021.pdf">hier als PDF</a> downloadbar.
+	<p>Der Tagungsband zur Konferenz steht <a href="data/FOSSGIS_Tagungsband_2021.pdf">als PDF zum Download </a> zur Verfügung.
 
-	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
-	<p>Die FOSSGIS 2021 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2021/"> https://streaming.media.ccc.de/fossgis2021/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink im Bestelllink.</p>
+	<!-- 	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
+	<p>Die FOSSGIS 2021 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2021/"> https://streaming.media.ccc.de/fossgis2021/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink im Bestelllink.</p>-->
 
 	<h3>Vortragsaufzeichnungen</h3>
-	<p>Die Vorträge und Demos werden aufgezeichnet und im Anschluss der Konferenz auf <a href="https://media.ccc.de/c/fossgis2021" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2021</a> veröffentlicht.</p> 
+	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
+		<ul>
+			<li> <a href="https://media.ccc.de/c/fossgis2021" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2021</a></p> 
+			</li>
+			<li> <a href="https://www.tib.eu/de/suchen?id=198&tx_tibsearch_search%5Bquery%5D=FOSSGIS+2021&tx_tibsearch_search%5Bsrt%5D=rank&tx_tibsearch_search%5Bcnt%5D=20" target="_blank" rel="noopener nofollow">TIB</a></p> 
+			</li>
+			<li> <a href="https://www.youtube.com/results?search_query=FOSSGIS+2021" target="_blank" rel="noopener nofollow">YouTube</a></p> 
+			</li>
+		</ul>
 
 	<h3>FOSSGIS-Konferenz per Android-APP</h3>
-	<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
-	<p>Ansicht der App für Smartphone:	
+		<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
+	<!--<p>Ansicht der App für Smartphone:	
                     <a href="https://www.fossgis.de/">
                       	<img src="./data/FOSSGIS-2021-Phones.png" class="img-fluid"  alt="APP">
                     </a>
                  </p>
-	<p>Ansicht der App für Tablet:	
+		<p>Ansicht der App für Tablet:	
                     <a href="https://www.fossgis.de/">
                          <img src="./data/FOSSGIS-2021-Tablet-Phone.jpg" class="img-fluid" alt="APP">
 					</a>
-                 </p>
+                 </p>-->
 
 
 
