@@ -52,7 +52,7 @@
 		<ul>
 			<li> <a href="https://media.ccc.de/c/fossgis2021" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2021</a></p> 
 			</li>
-			<li> <a href="https://www.tib.eu/de/suchen?id=198&tx_tibsearch_search%5Bquery%5D=FOSSGIS+2021&tx_tibsearch_search%5Bsrt%5D=rank&tx_tibsearch_search%5Bcnt%5D=20" target="_blank" rel="noopener nofollow">TIB</a></p> 
+			<li> <a href="https://av.tib.eu/series/1102/fossgis+konferenz+2021+online+event+06+09+juni+2021" target="_blank" rel="noopener nofollow">TIB</a></p> 
 			</li>
 			<li> <a href="https://www.youtube.com/results?search_query=FOSSGIS+2021" target="_blank" rel="noopener nofollow">YouTube</a></p> 
 			</li>
