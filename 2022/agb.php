@@ -4,7 +4,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 
-	<title>FOSSGIS 2019 - AGB</title>
+	<title>FOSSGIS 2022 - AGB</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -21,7 +21,7 @@
 Für die Konferenz werden die Tickets, Workshops, Sponsorenpakete und Ausstellerpakete über die Internetseite <a href="
 https://pretix.eu/fossgis/2021" target="_blank"> </a> verkauft. Für das Vertragsverhältnis gelten die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
 
-<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite <a href="https://pretix.eu/fossgis/2021" target="_blank"> </a> gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
+<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
 
 <h3>Konferenztickets</h3>
 <h3>Konferenztickets für Verbraucher</h3>
@@ -31,7 +31,7 @@ https://pretix.eu/fossgis/2021" target="_blank"> </a> verkauft. Für das Vertrag
 
 <ul class="list">
 			<li> Email: konferenz-orga@fossgis.de</li>
-			<li> Telefon: +49 (0)30 62 93 203 </li>
+			<li> Telefon: +49 (0)30 62 93 2037 </li>
 </ul>
 
 <p>Aus der Erklärung muss der Entschluss zum Widerruf des Vertrags eindeutig hervorgehen. Der Widerruf muss keine Begründung enthalten.</p>
@@ -44,22 +44,22 @@ Für die eine Stornierung senden Sie bitte eine E-Mail an: konferenz-orga@fossgi
 
 <h3>Ausstellerpaket</h3>
 
-<p>Die Kündigung oder Stornierung des Ausstellerpaketes durch den Aussteller ist, unabhängig von der Inanspruchnahme des bereitgestellten Stellplatzes, ausgeschlossen. Der Stellplatz wird dem Aussteller vom FOSSGIS e. V. oder dessen Vertretern vor Ort zugewiesen. Ein Anspruch auf einen bestimmten Stellplatz in den Konferenzräumlichkeiten besteht für den Aussteller nicht.</p>
+<p>Die Kündigung oder Stornierung des Ausstellerpaketes durch den Aussteller ist, unabhängig von der Inanspruchnahme des bereitgestellten Stellplatzes, ausgeschlossen. Der Stellplatz wird dem Aussteller vom FOSSGIS e.V. oder dessen Vertretern vor Ort zugewiesen. Ein Anspruch auf einen bestimmten Stellplatz in den Konferenzräumlichkeiten besteht für den Aussteller nicht.</p>
 
 <p>Die vom Aussteller präsentierten Produkten, Software und Dienstleistungen haben sich an den Zielen der Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data zu orientieren.</p>
 
 <p>Der FOSSGIS e.V. ist zur fristlosen Sonderkündigung des Ausstellerpakets berechtigt, soweit der Aussteller gegen die Vereinszwecke des FOSSGIS e.V. (Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data) verstößt. Schadensersatzansprüche des Ausstellers sind insoweit ausgeschlossen.</p>
 
-<p>Der FOSSGIS e.V haftet nicht für durch einfache Fahrlässigkeit verursachte Schäden, es sei denn, es handelt sich um eine mit einfacher Fährlässigkeit begangene Verletzung einer wesentlichen Vertragspflicht oder um die Verletzung von Leben, Körper oder Gesundheit. Im Falle der mit einfacher Fahrlässigkeit verursachten
+<p>Der FOSSGIS e.V. haftet nicht für durch einfache Fahrlässigkeit verursachte Schäden, es sei denn, es handelt sich um eine mit einfacher Fährlässigkeit begangene Verletzung einer wesentlichen Vertragspflicht oder um die Verletzung von Leben, Körper oder Gesundheit. Im Falle der mit einfacher Fahrlässigkeit verursachten
 Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. beschränkt auf den vorhersehbaren, vertragstypischen Schaden.</p>
 
 <h3>Sponsorenpaket</h3>
 
-<p>Der FOSSGIS e. V. ist zur fristlosen Sonderkündigung des Sponsorenpakets berechtigt, soweit der Sponsor gegen die Vereinszwecke des FOSSGIS e.V. (Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data) verstößt. Schadensersatzansprüche des Sponsors sind insoweit ausgeschlossen.</p>
+<p>Der FOSSGIS e.V. ist zur fristlosen Sonderkündigung des Sponsorenpakets berechtigt, soweit der Sponsor gegen die Vereinszwecke des FOSSGIS e.V. (Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data) verstößt. Schadensersatzansprüche des Sponsors sind insoweit ausgeschlossen.</p>
 
 <h3>Haftung</h3>
 
-<p>Der FOSSGIS e.V haftet nicht für durch einfache Fahrlässigkeit verursachte Schäden, es sei denn, es handelt sich um eine mit einfacher Fährlässigkeit begangene Verletzung einer wesentlichen Vertragspflicht oder um die Verletzung von Leben, Körper oder Gesundheit. Im Falle der mit einfacher Fahrlässigkeit verursachten Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. beschränkt auf den vorhersehbaren, vertragstypischen Schaden.</p>
+<p>Der FOSSGIS e.V. haftet nicht für durch einfache Fahrlässigkeit verursachte Schäden, es sei denn, es handelt sich um eine mit einfacher Fährlässigkeit begangene Verletzung einer wesentlichen Vertragspflicht oder um die Verletzung von Leben, Körper oder Gesundheit. Im Falle der mit einfacher Fahrlässigkeit verursachten Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. beschränkt auf den vorhersehbaren, vertragstypischen Schaden.</p>
 
 
 <p>Die hier geregelten Haftungsausschlüsse bzw. Haftungsbeschränkungen gelten auch für die Haftung der Erfüllungs- und Verrichtungsgehilfen des FOSSGIS e.V.</p>
@@ -67,7 +67,7 @@ Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. b
 <h3>Bildaufzeichnungen</h3>
 <p>Auf der FOSSGIS-Konferenz werden üblicherweise Video-, Fernseh- und Fotoaufnahmen angefertigt. Dabei kann es vorkommen, dass Besucher abgelichtet werden. Jede:r Besucher:in erklärt mit der Teilnahme an der FOSSGIS-Konferenz sein/ihr Einverständnis, dass entsprechend Aufnahmen von ihm/ihr als Besucher:in im Rahmen der Konferenz ohne Vergütungsanspruch angefertigt und veröffentlicht werden dürfen.</p>
 
-<p>Ein entsprechender Hinweis ist auch auf den Tickets enthalten. Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen verarbeitet: <a href="https://pretix.eu/fossgis/2021/privacy/" target="_blank">siehe Datenschutzerklärung</a> </p>
+<p>Ein entsprechender Hinweis ist auch auf den Tickets enthalten. Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen verarbeitet: <a href="https://pretix.eu/fossgis/2022/privacy/" target="_blank">siehe Datenschutzerklärung</a> </p>
 
 <h3>Streitbeilegung</h3>
 <p>Die EU-Kommission stellt für die außergerichtliche Streitschlichtung eine Plattform bereit. Sie gibt Verbrauchern die Möglichkeit, Rechtsstreitigkeiten aus Verträgen oder Streitigkeiten über das Bestehen solcher Verträge zunächst ohne Einschaltung eines Gerichts zu klären. Die Streitbeilegungsplattform kann unter dem Link
@@ -84,7 +84,7 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 <h3>Anwendbares Recht</h3>
 <p>Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.</p>
 
-<p>Stand der AGB: 25. März 2021</p>
+<p>Stand der AGB: 16. September 2021</p>
 
 	<?php include "inc/footer.inc"; ?>
 
