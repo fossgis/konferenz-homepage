@@ -4,8 +4,8 @@
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>
-		<span class="amp">Marburg</span> <br>
-		<span class="main">März 2022</span>
+		<span class="amp">Marburg + online</span> <br>
+		<span class="main">9. - 12. März 2022</span>
 	</h2>
 </header>
 
