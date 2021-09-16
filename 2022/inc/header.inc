@@ -22,12 +22,12 @@
 		</li>
 		<!--<li id="navCall">
 		<a href="./callforpapers/">Call for Participation</a>
-		</li>
+		</li>-->
 		
 		<li id="navAnreise">
 			<a href="./anreise/">Anreise</a>
 		</li>
-		<li id="navStandort">
+		<!--<li id="navStandort">
 			<a href="./standort/">Standort</a>
 		</li>
 		<li id="navEvents">
