@@ -43,6 +43,8 @@
 		
     </p>
 
+	<p>Die Stadt Marburg veröffentlicht Informationen zur Pandemielage und aktuellen Bestimmungen auf der Website unter <a href="https://www.marburg-tourismus.de/corona" target="_blank">Corona-Update</a>. 
+
     <h3>Anreise mit öffentlichen Verkehrsmitteln</h3>
 
 	<p>Am klimafreundlichsten gelangen Sie mit der Bahn nach Marburg, welches über zwei Bahnhöfe verfügt, von denen die ganze Stadt und die Umgebung zu Fuß, mit dem Bus oder Fahrrad erkundet werden kann. </p>
