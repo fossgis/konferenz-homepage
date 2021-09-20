@@ -31,7 +31,7 @@
 	</ul>-->
 
     <p>
-        Die FOSSGIS-Konferenz findet vom 9-12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal im Hörsaalgebäude in der Biegenstraße 14 statt.
+        Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal im großen Hörsaalgebäude in der Biegenstraße 14 statt.
     </p>
 
     <h3>Konferenzstandort</h3>
@@ -67,6 +67,7 @@
 		</li>
 		<li> Adresse: Elisabethstraße 12, 35037 Marburg</li>
 		<li> Telefon: +49 6421 590750</li>
+		<li> Kontingentabruf für Zimmer mit Frühstück per Mail oder Telefon unter <em>`Fossgis`</em></li>
 	</ul>
 
 	<p><i>Welcome Hotel Marburg</i></p>
