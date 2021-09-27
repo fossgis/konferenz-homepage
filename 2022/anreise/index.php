@@ -67,7 +67,9 @@
 		</li>
 		<li> Adresse: Elisabethstraße 12, 35037 Marburg</li>
 		<li> Telefon: +49 6421 590750</li>
-		<li> Kontingentabruf für Zimmer mit Frühstück per Mail oder Telefon unter <em>`Fossgis`</em></li>
+		<li> Kontingentabruf für Zimmer mit Frühstück per Mail oder Telefon unter <em>`Fossgis`</em>, <a href="https://files.fossgis.de/Konferenz/Hotelzimmerkontingente Marburger Hof_2021_09_20.pdf">Informationen zum Kontingentangebot als PDF</a>.</li>
+
+
 	</ul>
 
 	<p><i>Welcome Hotel Marburg</i></p>
@@ -76,6 +78,7 @@
 		</li>
 		<li> Adresse: Pilgrimstein 29, 35037 Marburg</li>
 		<li> Telefon: +49 6421 9180</li>
+		<li> Kontingentabruf für Zimmer mit Frühstück per Mail oder Telefon mit dem Stichwort <em>'FOSSGIS'</em>, <a href="https://files.fossgis.de/Konferenz/WelcomeHotel_Marburg_Kontingentinfo_20210927_083119_0159_FOSSGIS_sign.pdf">Informationen als PDF zum Kontingentangebot</a>.</li>
 	</ul>
 
 	<p><i>B&B Hotel Marburg</i></p>
