@@ -61,8 +61,8 @@
 			
 			<h4 class="highlight">   </h4>
 			<h3>Werden Sie Sponsor!</h3>
-           	<p>Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Informationen zum Sponsoring sind in Kürze hier verfügbar</p>
-			<!-- <p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Sie finden Informationen für Sponsoren und Aussteller in der <a href="data/Sponsoreninformationen_FOSSGIS-2021.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, können Sie die <a href="data/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_online_2021.pdf">Sponsoringvereinbarung hier</a> herunterladen.<br>-->
+           	<p>Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p>
+			<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Sie finden Informationen für Sponsoren und Aussteller in der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, können Sie die <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2022.pdf">Sponsoringvereinbarung hier</a> herunterladen.<br>
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
   
   
