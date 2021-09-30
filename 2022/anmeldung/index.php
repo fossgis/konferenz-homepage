@@ -26,65 +26,78 @@
 
 	<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal im großen Hörsaalgebäude in der Biegenstraße 14 sowie online statt. 
 Das heißt die FOSSGIS wird als hybrides Event stattfinden, es wird Konferenztickets und Online-Konferenztickets geben.</p>
-	<p><b>Der Ticketverkauf startet in der ersten Januarwoche 2022.</b></p>
-		
 	<p>Im Folgenden finden Sie Informationen zur Teilnahme, Bildungsurlaub und wie Sie Helfer:in werden.</p>
 	
+	
+	<p><b>Der Ticketverkauf startet in der ersten Januarwoche 2022.</b></p>
+		
 	<!--<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2021/">Direkt zur Anmeldung</a>
 	</p>-->
 
 
 
-	#### Informationen zu den Preisen
-folgen in Kürze
+	<p><b>Informationen zu den Preisen folgen in Kürze</b></p>
 
-<!--## Preise FOSSGIS-Konferenz 2022
+<!--<h3>Preise FOSSGIS-Konferenz 2022</h3>
 
-### Teilnahme in Marburg
+	<li><b>Teilnahme in Marburg</b></i>
+		<ul>
+		<li>Konferenzticket (Normalpreis): 220 €</i>
+		<li>Konferenzticket (reduzierter Preis*): 50 €</i>
+		<li>Konferenzticket für Community**: € 0</i>
+		<li>Konferenzticket für Helfende**: 6 h helfen</i>
+		<li>Workshop***: 120 €</i>
+	</ul>
+		
 
-    Konferenzticket (Normalpreis): 220 €
-    Konferenzticket (reduzierter Preis*): 50 €
-    Konferenzticket für Community**: € 0
-    Konferenzticket für Helfende**: 6 h helfen
-    Workshop***: 120 €
+	<ul><p><b>Das Konferenzticket enthält:</b></p>
+	<ul>
+		<li>FOSSGIS-Konferenz-Teilnahme in Marburg</li>
+		<li>Zugang Online-Plattform</li>
+		<li>ordentliche Rechnung</li>
+		<li>Pausensnack</li>
+		<li>Tasche, T-Shirt***</li>
+		<li>Tagungsband***</li>
+		<li>Abendveranstaltung***</li>
+</ul>
+
+
+	<p>
+		<small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:inn.</small><br>
+		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small><br>
+		<small>*** wenn bestellt und solange verfügbar.</small>
+	</p>
+	</ul>
+</ul>
     
-*Im Konferenzticket enthalten:*
+	<li><b>Online-Teilnahme</b></i>
+		<ul>
+		<li>Online-Konferenzticket (Normalpreis): 90 €</i>
+		<li>Online-Konferenzticket (reduzierter Preis*): 15 €</i>
+		<li>Online-Konferenzticket für Community**: € 0</i>
+		<li>Online-Konferenzticket für Helfende**: 6 h helfen</i>
+		<li>Online-Workshop***: 120 €</i>
+    	</ul>
 
-* FOSSGIS-Konferenz-Teilnahme in Marburg
-* Zugang Online-Plattform
-* ordentliche Rechnung
-* Pausensnack
-* Tasche, Tagungsband***
-* T-Shirt***
-* Abendveranstaltung***
-    
-      * reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:innen
-      ** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.
-      *** wenn bestellt und solange verfügbar 
-    
-### Online-Teilnahme
+	<ul><p><b>Im Konferenzticket enthalten:</b></p>
+	<ul>
+		<li>Zugang zur Online-Plattform (sie müssen nichts installieren, ein aktueller Browser reicht)</li>
+		<li>ordentliche Rechnung</li>
+		<li>Chatmöglichkeiten mit den Teilnehmenden</li>
+		<li>Zugang zur Netzwerkwelt (dafür sind Kamera und Mikrofon hilfreich)</li>
+		<li>Tasche, T-Shirt***</li>
+		<li>Tagungsband***</li>
+	</ul>
 
-    Online-Konferenzticket (Normalpreis): 90 €
-    Online-Konferenzticket (reduzierter Preis*): 15 €
-    Online-Konferenzticket für Community**: € 0
-    Online-Konferenzticket für Helfende**: 6 h helfen
-    Online-Workshop***: 120 €
-    
-*Im Konferenzticket enthalten:*
+	<p>
+		<small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:inn.</small><br>
+		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small><br>
+		<small>*** wenn bestellt und solange verfügbar.</small>
+	</p>
+</ul>
 
-* Zugang zur Online-Plattform (sie müssen nichts installieren, ein aktueller Browser reicht)
-* ordentliche Rechnung
-* Chatmöglichkeiten mit den Teilnehmenden
-* Zugang zur Netzwerkwelt (dafür sind Kamera und Mikrofon hilfreich)
-* Tagungsband***
- 
-
-      * reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:innen
-      ** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.
-      *** wenn bestellt und solange verfügbar-->
-
-	<p>Der Zugang zur Online-Plattform wird Ihnen über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>
+	<p>Der Zugang zur Online-Plattform wird Ihnen über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>-->
 
 	<h3>Corona</h3>
 <p>Es ist geplant die Konferenz unter der 2G-Regel stattfinden zu lassen.<br>
