@@ -160,6 +160,7 @@ Für diejenigen, die vor Ort teilnehmen wollen, ist zu berücksichtigen, dass Si
 		<li>Pirmin Kalberer (FOSSGIS-Vorstand, GIS-Entwickler & -Anbieter)</li>
 		<li>Marc Jansen (GIS und Fernerkundung; ❤️ FOSS)</li>
 		<li>Torsten Wiebke (Forstwissenschaftler mit ❤️ für Freie- und OpenSource-(GIS)-Software)</li>
+		<li>Bernhard Seeger (Philipps Universität Marburg, Arbeitsgruppe Datenbanksysteme)</li>
 
 	</ul>
 
