@@ -25,8 +25,8 @@
 	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz 2022 zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
 	<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal im großen Hörsaalgebäude in der Biegenstraße 14 sowie online statt. 
-Das heißt die FOSSGIS wird als hybrides Event stattfinden, es wird Konferenztickets und Online-Konferenztickets geben.</p>
-	<p>Im Folgenden finden Sie Informationen zur Teilnahme, Bildungsurlaub und wie Sie Helfer:in werden.</p>
+Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konferenztickets und Online-Konferenztickets geben.</p>
+	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
 	
 	
 	<p><b>Der Ticketverkauf startet in der ersten Januarwoche 2022.</b></p>
