@@ -32,12 +32,12 @@ Das heißt die FOSSGIS wird als hybrides Event stattfinden, es wird Konferenztic
 	<p><b>Der Ticketverkauf startet in der ersten Januarwoche 2022.</b></p>
 		
 	<!--<p class="highlight">
-		&darr; <a href="https://pretix.eu/fossgis/2021/">Direkt zur Anmeldung</a>
+		&darr; <a href="https://pretix.eu/fossgis/2022/">Direkt zur Anmeldung</a>
 	</p>-->
 
 
 
-	<p><b>Informationen zu den Preisen folgen in Kürze</b></p>
+	<p><b>Informationen zu den Preisen folgen in Kürze.</b></p>
 
 <!--<h3>Preise FOSSGIS-Konferenz 2022</h3>
 
@@ -99,10 +99,10 @@ Das heißt die FOSSGIS wird als hybrides Event stattfinden, es wird Konferenztic
 
 	<p>Der Zugang zur Online-Plattform wird Ihnen über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>-->
 
-	<h3>Corona</h3>
-<p>Es ist geplant die Konferenz unter der 2G-Regel stattfinden zu lassen.<br>
-Das heißt diejenigen, die vor Ort teilnehmen, müssen beim Checkin einen entsprechenden Genesenen- oder Impfnachweis vorweisen. <br>
-Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygienregeln ein ein entsprechndes Hygienekonzept vor.</p>
+	<h3>COVID-19</h3>
+<p>Es ist geplant, die Konferenz unter der 2G-Regel stattfinden zu lassen.<br>
+Das heißt, dass diejenigen, die vor Ort teilnehmen, beim Check-nn einen entsprechenden Genesenen- oder Impfnachweis vorweisen müssen. <br>
+Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygieneregeln ein entsprechendes Hygienekonzept vor.</p>
 
 	<h3 id="Workshop">Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket buchen.<br>
