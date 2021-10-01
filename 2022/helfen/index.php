@@ -30,7 +30,7 @@ Ohne die Unterstützung durch zahlreiche Mitorganisierende vor der Veranstaltung
 		<span style="color:grey">* wer in der Community aktiv ist, wird geduzt :-)
          </span></p>
 	
-	<p>Auf dieser Seite könnten immer wieder neue Informationen hinzukommen, also gerne wiederkommen.</p>
+	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>
 
 	<h3>Wo kannst Du bei der Konferenzorganisation unterstützen?</h3>
 	<ul>
@@ -153,7 +153,6 @@ Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Info Desk He
 		<li>bei Fragen einfach fragen, z.B. <a href="mailto:helfer@fossgis.de"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037</li> 
 		<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> 
 		<li>ab Nov/Dez. im Helfersystem registrieren: <a href="https://helfer.fossgis.de">https://helfer.fossgis.de</a></li> 
-
 
 	<?php include('../inc/footer.inc'); ?>
 

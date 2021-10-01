@@ -22,9 +22,10 @@
 	<p>Die FOSSGIS-Konferenz ist die größte deutschsprachige Konferenz für OpenStreetMap und Open-Source-Software für Geoinformationen und wird im Jahr 2022 zum 16. Mal veranstaltet.<br>
 Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Community und die Phillipps Universität Marburg.</p>
 
-	<p>Die FOSSGIS-Konferenz ist eine Community-Konferenz und Plattform für neue Ideen, Projekte und Erfahrungsberichte. Sie wird größtenteils ehrenamtlich organisiert und getragen. Die Veranstaltung fördert die Wissensvermittlung zu Freier und Open-Source-Software für Geoinformationssysteme (FOSSGIS) und treibt so die Verbreitung dieser Software voran.</p>
+	<p>Die FOSSGIS-Konferenz biete eine Plattform für neue Ideen, Projekte und Erfahrungsberichte. Sie wird größtenteils ehrenamtlich organisiert. Teilnehmer:innen der Konferenz sind sowohl professionelle Anwender:innen genauso wie Enthusiasten:innen aus dem GIS-Umfeld, von OpenStreetMap und anderen Projekten. Die Veranstaltung vermittelt Wissen zu Freier und Open-Source-Software für Geoinformationssysteme (FOSSGIS).</p>
 
-	<p>Die Konferenz findet vom Mittwoch, dem 9. März bis Freitag, dem 11. März 2022 mit Vorträgen, Workshops, Demo-Sessions und Anwendertreffen in Marburg und gleichzeitig als Online-Event statt. An diesen vier Tagen treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs- und Einsatzmöglichkeiten und diskutieren neuste Entwicklungen. Die gleichzeitig stattfindende Firmen- und Projektausstellung ermöglicht einen direkten Kontakt zu Dienstleistern und Projekten.</p>
+	<p>Die Konferenz findet vom Mittwoch, dem 9. März bis Freitag 11. März 2022 mit Vorträgen, Workshops, Demo-Sessions und Anwendertreffen in Marburg und gleichzeitig als Online-Event statt. An diesen vier Tagen treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs- und Einsatzmöglichkeiten und diskutieren neuste Entwicklungen. Die gleichzeitig stattfindende Firmen- und Projektausstellung ermöglicht einen direkten Kontakt zu Dienstleistern und Projekten.</p>
+
 	<p>Samstag, der 12. März ist dem "OSM-Event" gewidmet, einer Unkonferenz der deutschsprachigen OpenStreetMap-Community. Schwerpunkt sind längere Vorträge und Diskussionsrunden zu den aktuellen Themen im OpenStreetMap-Projekt.</p>
 
     <p>Der <a href="https://pretalx.com/fossgis2022/cfp">Call for Participation FOSSGIS 2022</a> ist bis zum 21. November 2021 geöffnet.</p>
@@ -76,7 +77,7 @@ Anwendertreffen oder "Birds of a Feather"-Sessions (BoF) ermöglichen es Gleichg
 Ein neues Online-Format startet in Form der Expert:innenfragestunde. Die Idee ist, dass Expert:innen, die idealerweise an mehreren Open Source Projekten / Themen beteiligt sind für 60 Minuten für Fragen von Teilnehmenden zur Verfügung stehen.
 
 		<li><strong>Sonstiges</strong><br>
-Ihre Einreichung passt nicht zu einem der Einreichungstypen? Oder Sie wünschen ein Gutachten (Peer-Review). Dann setzen Sie sich bitte vor dem Ende der Einreichungsfrist mit dem Programm-Komitee per <a href="mailto:pko@fossgis.de? subject=Frage%an%das%Programmkomitee"> per E-Mail</a> in Verbindung.</li>
+Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sich bitte vor dem Ende der Einreichungsfrist mit dem Programm-Komitee per <a href="mailto:pko@fossgis.de? subject=Frage%an%das%Programmkomitee"> per E-Mail</a> in Verbindung.</li>
 	</ul>
 
 
@@ -98,7 +99,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Oder Sie wünschen 
 			<li>Einreichungen werden nach inhaltlichen Kriterien bewertet. Daher ist eine aussagekräftige Beschreibung wichtig. </li>
 			<li>Beiträge von Sponsoren werden nicht bevorzugt behandelt, die Vorträge dienen nicht der reinen Firmenpräsentation.</li>
 			<li>Mitglieder des Programm-Komitees bewerten nicht ihre eigenen Beiträge sowie die ihrer Kollegen und Verwandten.</li>
-			<li>Erstmals wird ein Community-Voting stattfinden. Das Ergebnis wird vom Programm-Komitee als Stimmungsbild aus der Community einbezogen.</li>
+			<li>Es wird wieder ein Community-Voting stattfinden. Das Ergebnis wird vom Programm-Komitee als Stimmungsbild aus der Community einbezogen.</li>
 			
 			<h3>Zusätzlich für Workshops:</h3>
 			<li>Wir bevorzugen Workshops zu aktuellen und nachgefragten Themen.</li>

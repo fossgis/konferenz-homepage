@@ -29,19 +29,15 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
 	
 	
-	<p><b>Der Ticketverkauf startet in der ersten Januarwoche 2022.</b></p>
+	<p>Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
 		
 	<!--<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2022/">Direkt zur Anmeldung</a>
 	</p>-->
 
+	<h3>Preise FOSSGIS-Konferenz 2022</h3>
 
-
-	<p><b>Informationen zu den Preisen folgen in Kürze.</b></p>
-
-<!--<h3>Preise FOSSGIS-Konferenz 2022</h3>
-
-	<li><b>Teilnahme in Marburg</b></i>
+	<b>Teilnahme in Marburg</b>
 		<ul>
 		<li>Konferenzticket (Normalpreis): 220 €</i>
 		<li>Konferenzticket (reduzierter Preis*): 50 €</i>
@@ -51,7 +47,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</ul>
 		
 
-	<ul><p><b>Das Konferenzticket enthält:</b></p>
+	<ul><p><b><i>Das Konferenzticket enthält:</i></b></p>
 	<ul>
 		<li>FOSSGIS-Konferenz-Teilnahme in Marburg</li>
 		<li>Zugang Online-Plattform</li>
@@ -71,7 +67,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</ul>
 </ul>
     
-	<li><b>Online-Teilnahme</b></i>
+	<b>Online-Teilnahme</b>
 		<ul>
 		<li>Online-Konferenzticket (Normalpreis): 90 €</i>
 		<li>Online-Konferenzticket (reduzierter Preis*): 15 €</i>
@@ -80,7 +76,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 		<li>Online-Workshop***: 120 €</i>
     	</ul>
 
-	<ul><p><b>Im Konferenzticket enthalten:</b></p>
+	<ul><p><b><i>Das Konferenzticket enthält:</i></b></p>
 	<ul>
 		<li>Zugang zur Online-Plattform (sie müssen nichts installieren, ein aktueller Browser reicht)</li>
 		<li>ordentliche Rechnung</li>
@@ -97,11 +93,10 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</p>
 </ul>
 
-	<p>Der Zugang zur Online-Plattform wird Ihnen über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>-->
+	<p>Der Zugang zur Online-Plattform wird Ihnen über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>
 
 	<h3>COVID-19</h3>
-<p>Es ist geplant, die Konferenz unter der 2G-Regel stattfinden zu lassen.<br>
-Das heißt, dass diejenigen, die vor Ort teilnehmen, beim Check-nn einen entsprechenden Genesenen- oder Impfnachweis vorweisen müssen. <br>
+<p>Es ist geplant, die Konferenz unter der 2G-Regel stattfinden zu lassen. Das heißt, dass diejenigen, die vor Ort teilnehmen, beim Check-inn einen entsprechenden Genesenen- oder Impfnachweis vorweisen müssen. <br>
 Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygieneregeln ein entsprechendes Hygienekonzept vor.</p>
 
 	<h3 id="Workshop">Workshop buchen</h3>
@@ -131,12 +126,12 @@ Am Online-Workshop nehmen Sie mit Ihrem eigenen Gerät teil, den Zugang erhalten
 
 <p>Um optimales Netzwerken während der Veranstaltung zu ermöglichen, wird es wieder eine <i>Netzwerkwelt</i> geben.<br>
 In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen. Zum Einstieg gibt man sich einen Namen und wählt einen Avatar aus. Nach der Landung im Eingangsbereich bewegen Sie sich mit Hilfe der Tastatur. Sie können die <i>Netzwerkwelt</i> erkunden und Sie sehen auch, ob weitere Teilnehmende unterwegs sind. Wenn Sie einer Person begegnen, öffnet sich ein Videochat, welcher sich mit einem Geräusch ankündigt, Sie können sich austauschen oder weglaufen - fast wie im echten Leben ;-).
-Erklärfilm Netzwerkwelt
+<!--Erklärfilm Netzwerkwelt
 
 	<h3>Erklärfilm Netzwerkwelt</h3>
 	<p>Klicken Sie <a href="https://vortraege.fossgis.de/f/d575438dc2fb42c0a253/" target="_blank">hier</a>, um den Film anzusehen.</p>
 	<div>
-	<img src="./data/Foto_Erklaerfilm_Netzwerkwelt.png" alt="Erklärfilm Netzwerkwelt">
+	<img src="./data/Foto_Erklaerfilm_Netzwerkwelt.png" alt="Erklärfilm Netzwerkwelt">-->
 
 	<h3>Helfen</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2022/helfen/">Website <i>Helfen</i></a> lesen, dort sind viele Details erklärt.</p>
