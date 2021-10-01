@@ -49,7 +49,7 @@
 
             <h3>Was ist die FOSSGIS Konferenz?</h3>
 
-            <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>	
+            <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing, Datenbanken und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>	
 
 			<!--<p>Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS ausschließlich als Online-Event stattfinden. Es wird die Möglichkeit geben den Campus Rapperswil virtuell zu erkunden, lassen Sie sich überraschen.</p>-->
 
@@ -62,7 +62,7 @@
 			<h4 class="highlight">   </h4>
 			<h3>Werden Sie Sponsor!</h3>
            	<p>Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p>
-			<p>Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Sie finden Informationen für Sponsoren und Aussteller in der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, können Sie die <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2022.pdf">Sponsoringvereinbarung hier</a> herunterladen.<br>
+			<p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, können Sie die <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2022.pdf">Sponsoringvereinbarung hier</a> herunterladen.<br>
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
   
   
