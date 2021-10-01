@@ -44,7 +44,7 @@
 
 <div class="hero">
 	<figure>
-		<img class="img-fluid" src="./img/Stadtansicht_Marburg _c_Markus_Farnung.png" alt="Stadtansicht Marburg">
+		<img class="img-fluid" src="./img/stadtansicht_marburg_c_markus_farnung.png" alt="Stadtansicht Marburg">
 		<figcaption><b>Photo: (C) by Markus Farnung</b></figcaption>
 	</figure>
 </div>
