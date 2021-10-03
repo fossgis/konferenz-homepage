@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <conference>
+    <title>FOSSGIS 2011</title>
+    <subtitle>Freie und Open Source Software f&#252;r Geoinformationssysteme</subtitle>
+    <venue>Universit&#228;t Heidelberg</venue>
+    <city>Heidelberg</city>
+    <start>2011-04-05</start>
+    <end>2011-04-07</end>
+    <days>3</days>
+    <release>#&lt;Conference_release::Row:0x2b99f3bcbea8&gt;</release>
+    <day_change>07:00</day_change>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day date="2011-04-05" index="1">
+    <room name="Gro&#223;er H&#246;rsaal Geb. 308">
+      <event id="160">
+        <start>13:30</start>
+        <duration>00:15</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug>eroeffnung</slug>
+        <title>Er&#246;ffnung</title>
+        <subtitle></subtitle>
+        <track>Allgemeines</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Er&#246;ffnung der FOSSGIS 2011</abstract>
+        <description></description>
+        <persons>
+          <person id="113">Roland Hachmann</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="260">
+        <start>13:45</start>
+        <duration>00:15</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug>crowdsourced_gi</slug>
+        <title>Crowdsourced GI - Beginn einer neuen &#196;ra freier Geodaten? </title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Mit OSM-3D.org besteht seit 2009 die M&#246;glichkeiteit sich interaktiv durch eine nur aus freien Geodaten basierende 3D-Welt inklusive Gel&#228;ndemodell, 3D-Geb&#228;ude oder 3D-Visualisierung diverser POIs zu bewegen. Nachdem die erste Version auf Deutschland beschr&#228;nkt war, gab es zun&#228;chst Erweiterungen auf ein etwas gr&#246;&#223;eres Gebiet. Bis zur FOSSGIS 2011 wird die 3D-Platform (mindestens) auf ganz Europa ausgeweitet (wegen SRTM Abdeckung: &lt;60&#176;N) sein. Die Darstellung beschr&#228;nkt sich nicht mehr auf eine Szene f&#252;r einen beschr&#228;nkten Bereich, sondern durch eine starke Erweiterung des 3D-Viewers und der Berechnung weiterer Level of Details (Zoomstufen) ist nun eine globale Darstellung des Planeten als interaktiver virtueller Globus m&#246;glich. 
+Im Vortrag werden Details zur Datenprozessierung, Datenhaltung und neuen Nutzungsm&#246;glichkeiten (wie etwa dem virtuellen Abfliegen eigener GPS-Tracks in 3D oder animierte 3D-Objekte) vorgestellt. Die Berechnungsdauer f&#252;r die vektorielle Integration der OSM-Daten in das SRTM Gel&#228;ndemodell f&#252;r ganz Europa lag bei mehreren Wochen. Dank Datenspenden z.B. in Frankreich werden nun schon &#252;ber 20 Mio Geb&#228;ude in 3D visualisiert.</abstract>
+        <description></description>
+        <persons>
+          <person id="189">Alexander Zipf</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="309">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug>egovernment</slug>
+        <title>eGovernment: Freie Software, Open Source und Open Data</title>
+        <subtitle>Eine Einf&#252;hrung zu Freie Software, Open Source und Open Data</subtitle>
+        <track>Allgemeines</track>
+        <type>podium</type>
+        <language></language>
+        <abstract>Die Kenyote der FOSSGIS 2011 geht auf die Grundlagen der Konferenz ein und erl&#228;utert Freie Software, Open Source, Open Data und stellt sie in den Kontext geographischer Daten. Zusammen bilden sie die Grundlage f&#252;r ein erweitertes Verst&#228;ndnis von eGovernment und sind gleichzeitig lukrative Basis f&#252;r Nutzern und Anbieter von Software, Daten und Dienstleitung. 
+
+Die Grenzen zwischen Anwender und Anbieter verschwimmen und die Distanz zwischen B&#252;rger und Politik wird durchl&#228;&#223;iger, das gilt f&#252;r Rechte, Pflichten, Aufgaben und Zust&#228;ndigkeiten. 
+
+Es werden Aspekte der Nachhaltigkeit von Open Source angesprochen und auf Fragen des Lizenzrechts, Copyright und Geodaten der &#246;ffentlichen Verwaltung eingegangen. Vor diesem Hintergrund werden digitale Daten und der Begriff Allgemeingut in einen politisch motivierten Zusammenhang gebracht. 
+
+Und wer glaubt das ginge alles gar nicht zusammen, der sollte sich den Vortrag anh&#246;ren und im Laufe der Konferenz selbst beurteilen wie viel davon tats&#228;chlich realisierbar ist.</abstract>
+        <description></description>
+        <persons>
+          <person id="51">Arnulf Christl</person>
+        </persons>
+        <links>
+          <link href="http://osgeo.org">OSGeo</link>
+          <link href="http://openstreetamap.org">OpenStreetMap</link>
+          <link href="http://www.opengeospatial.org">Open Geospatial Consortium</link>
+          <link href="http://www.opendefinition.org/">The Definition of Openness</link>
+        </links>
+      </event>
+      <event id="319">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug>lightning_gis</slug>
+        <title>Lightning Talks im Plenum </title>
+        <subtitle></subtitle>
+        <track>Lightning Talks (GIS)</track>
+        <type></type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="280">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Freie Geodaten und -dienste in der Landwirtschaft</title>
+        <subtitle>Anwendungen und Potentiale</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type></type>
+        <language>de</language>
+        <abstract>Durch den direkten Bezug zum Boden als Anbaufl&#228;che und Wirtschaftsgut ist die Landwirtschaft unmittelbar mit dem Raum, beziehungsweise mit den zu kultivierenden Agrarfl&#228;chen verbunden. Eine Vielzahl von Entscheidungen, die in diesem Sektor getroffen werden, steht mit diesen Fl&#228;chen und ihrer geographischen Lage in Verbindung. Zudem besitzen viele Prozesse, die die landwirtschaftliche Produktion beeinflussen einen geographischen Bezug (wie z.B. Wetter, Erosion, Sch&#228;dlingsausbreitung, etc.). 
+Dies macht geographische Informationssysteme (GIS) in zunehmendem Ma&#223;e interessant f&#252;r Anwendungen in der Landwirtschaft: Precision Farming, Parallelfahrsysteme (Lenkhilfe f&#252;r pr&#228;zise Anschlussfahrten bei der Bewirtschaftung landwirtschaftlicher Fl&#228;chen), Routing und Logistikoptimierung, Betriebsdokumentation zur Qualit&#228;tssicherung und der GIS basierte InVeKoS-Antrag[1] sind prominente Beispiele, bei welchen Geoinformationssysteme wertvolle &#246;konomische und &#246;kologische Beitr&#228;ge zum Ergebnis einer landwirtschaftlichen Prozesskette liefern k&#246;nnen. 
+Vor Kurzem abgeschlossene und laufende Forschungsprojekte wie bspw. pre agro, Pirol, iGreen  und futurefarm verfolgen unter anderem das Ziel, bestehende GIS-Applikationen in der Landwirtschaft &#252;ber das Internet nutzbar zu machen, um konzertierte Entscheidungen in Echtzeit zwischen den einzelnen der Prozesskette zu erm&#246;glichen und so ihre Arbeitseffizienz zu erh&#246;hen. 
+Den angestrebten Ver&#228;nderungen im Informationsmanagement der Landwirtschaft hin zu einer breiteren Nutzung von Geodaten stehen jedoch weiterhin sehr restriktive Datennutzungsrechte, oft mit hohen monet&#228;ren Kosten verbunden, gegen&#252;ber. Die derzeitigen Nutzungsrechte sind nicht unbegr&#252;ndet, jedoch wirft der Anstieg der Nutzungsm&#246;glichkeiten auch neue Fragen auf, die deren Argumentation in Zweifel ziehen k&#246;nnen. 
+Die Lizenzierung freier Geodaten ist, bez&#252;glich ihrer Nutzungsm&#246;glichkeiten offener und vielf&#228;ltiger. Vor dem Diskussionshintergrund, inwieweit die bestehenden Rechte einen Einfluss auf eine breitere Einf&#252;hrung von GIS in der Landwirtschaft haben, behandelt der Beitrag die Rolle von freien Geodaten und -diensten in der Landwirtschaft.
+Es werden m&#246;gliche Vor- und Nachteile gegen&#252;ber propriet&#228;ren Angeboten (bspw. im Hinblick auf Qualit&#228;t, Verf&#252;gbarkeit, Datensicherheit, Kompatibilit&#228;t, etc.) und daraus resultierende Anwendungsgebiete sowie die Rezeption von freien Daten und L&#246;sungen in der Agrarbranche werden herausgestellt. 
+Als Informationsbasis dienen neben verschiedenen Literatur- und Internetquellen, vor allem Interviews mit Experten aus der Agrarbranche, wobei sowohl Datenanbieter als auch Datenanwender (u. a. aus Verwaltung, Agrarsoftwareunternehmen, Lohnunternehmen und Landwirte) befragt wurden.
+
+[1]: InVeKoS: Integriertes Verwaltungs und Kontrollsystem zur Durchsetzung einer europaweit einheitlichen Agrarpolitik.</abstract>
+        <description></description>
+        <persons>
+          <person id="140">Johannes Lauer</person>
+          <person id="221">Simon Witti</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="295">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Hochskalierbare INSPIRE Koordinatentransformation mittels Hybrid Clouds</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Koordinatentransformation kann ein aufw&#228;ndiger Prozess sein. Dieser Vortrag zeigt, wie mit dem Einsatz bestehender IT-Infrastruktur skalierbare L&#246;sungen geschaffen werden k&#246;nnen, die in der Lage sind auch gro&#223;e Lastspitzen abzufangen auf Grundlage von Open Source Software.
+Dazu wird gezeigt, wie ein Hybrid Cloud erstellt und benutzt werden kann: Die eigene IT-Infrastruktur wird hierbei zur Private Cloud. Bei Bedarf k&#246;nnen zur Laufzeit Ressourcen aus anderen Rechenzentren oder von &#246;ffentlichen Anbietern wie beispielsweise Amazon automatisch hinzugeschaltet werden, um z.B. Spitzenlasten abzufangen und Ausf&#228;lle zu kompensieren.
+
+Als Anwendungsfall diente hierf&#252;r die Koordinatentransformation. Der 52&#176;North OGC Web Processing Service (OGC), der das INSPIRE Koordinatentransformationsprofil erf&#252;llt, wurde hierbei in der eigenen, &#8222;cloudifizierten&#8220; IT-Infrastruktur aufgesetzt. Koordinatentransformationsanfragen werden an WPS Dienste in die eigene &#8222;private&#8220; Cloud weitergeleitet. Wie in einer &#8222;public&#8220; Cloud (z.B. Amazon), werden neue WPS Instanzen automatisch erstellet, wenn die Last steigt und die Ressourcen wieder frei gegeben, wenn sie nicht mehr gebraucht werden. Somit kann flexibel die eigenen IT-Ressourcen genau dort eingesetzt werden, wo sie grade gebraucht werden. Auf der einen Seite l&#228;sst sich so die Auslastung der eigenen IT-Ressourcen erh&#246;hen und auf der anderen Seite Lastspitzen besser entgegnen.
+Sollten die eigenen IT-Ressourcen doch nicht ausreichen, so werden automatisch Ressourcen aus einer &#8222;public&#8220; Cloud wie z.B. Amazon oder ein in-house Rechnerpool hinzugezogen und dort die relevanten Dienste (in diesem Fall ein Koordinatentransformations WPS) bereitgestellt. F&#252;r den Nutzer l&#228;uft dies transparent ab, so dass er nicht damit besch&#228;ftigt wird, wo sein Prozess l&#228;uft, sondern nur m&#246;glichst schnell bedient wird. Der Anbieter von Diensten kann somit sehr flexibel auch gro&#223;e Lasten abfedern und gleichzeitig kosteneffizient arbeiten, da nur dann f&#252;r public cloud IT-Ressourcen gezahlt wird, wenn Sie auch wirklich gebraucht werden.
+</abstract>
+        <description>Koordinatentransformation kann ein aufw&#228;ndiger Prozess sein. Dieser Vortrag zeigt, wie mit dem Einsatz bestehender IT-Infrastruktur skalierbare L&#246;sungen geschaffen werden k&#246;nnen, die in der Lage sind auch gro&#223;e Lastspitzen abzufangen auf Grundlage von Open Source Software.
+Dazu wird gezeigt, wie ein Hybrid Cloud erstellt und benutzt werden kann: Die eigene IT-Infrastruktur wird hierbei zur Private Cloud. Bei Bedarf k&#246;nnen zur Laufzeit Ressourcen aus anderen Rechenzentren oder von &#246;ffentlichen Anbietern wie beispielsweise Amazon automatisch hinzugeschaltet werden, um z.B. Spitzenlasten abzufangen und Ausf&#228;lle zu kompensieren.
+
+Als Anwendungsfall diente hierf&#252;r die Koordinatentransformation. Der 52&#176;North OGC Web Processing Service (OGC), der das INSPIRE Koordinatentransformationsprofil erf&#252;llt, wurde hierbei in der eigenen, &#8222;cloudifizierten&#8220; IT-Infrastruktur aufgesetzt. Koordinatentransformationsanfragen werden an WPS Dienste in die eigene &#8222;private&#8220; Cloud weitergeleitet. Wie in einer &#8222;public&#8220; Cloud (z.B. Amazon), werden neue WPS Instanzen automatisch erstellet, wenn die Last steigt und die Ressourcen wieder frei gegeben, wenn sie nicht mehr gebraucht werden. Somit kann flexibel die eigenen IT-Ressourcen genau dort eingesetzt werden, wo sie grade gebraucht werden. Auf der einen Seite l&#228;sst sich so die Auslastung der eigenen IT-Ressourcen erh&#246;hen und auf der anderen Seite Lastspitzen besser entgegnen.
+Sollten die eigenen IT-Ressourcen doch nicht ausreichen, so werden automatisch Ressourcen aus einer &#8222;public&#8220; Cloud wie z.B. Amazon oder ein in-house Rechnerpool hinzugezogen und dort die relevanten Dienste (in diesem Fall ein Koordinatentransformations WPS) bereitgestellt. F&#252;r den Nutzer l&#228;uft dies transparent ab, so dass er nicht damit besch&#228;ftigt wird, wo sein Prozess l&#228;uft, sondern nur m&#246;glichst schnell bedient wird. Der Anbieter von Diensten kann somit sehr flexibel auch gro&#223;e Last abfedern und gleichzeitig kosteneffizient arbeiten, da nur dann f&#252;r public cloud IT-Ressourcen gezahlt wird, wenn Sie auch wirklich gebraucht werden.
+</description>
+        <persons>
+          <person id="52">Bastian Sch&#228;ffer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="211">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Virtual-Raster-Tables und andere GDAL-Tools</title>
+        <subtitle>Performante und einfache Rasterdatenprocessierung </subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Was ist VRT? Dieser Leitfrage geht der Vortrag auf den Grund und
+l&#246;st sie vorbehaltlos auf.
+
+VRT - Virtual Raster Table - ist ein Datenformat, um gro&#223;e Mengen an
+Rasterdaten effizient zu einem einzigen zusammenzufassen.
+Er ist Bestandteil der GDAL/OGR Bibliothek und hat einiges an Potential.
+
+Neben der reinen Formatbeschreibung bringt der Vortrag ma&#223;geblich
+Praxisbeispiele, wo das Format seine Vorteile voll ausspielen kann. Gerade
+vor dem Hintergrund der immer gr&#246;&#223;er werdenden Rasterdatenbest&#228;nde (und
+somit dessen Kachelung) bietet das Format hervorragende M&#246;glichkeiten,
+gekachelte Datens&#228;tze wieder zusammenzuf&#252;hren und einheitlich auf diesen
+zu arbeiten. Auch der UMN MapServer kann durch geschickte Nutzung dieses
+Formats enorme Performance-Vorteile bekommen.
+
+Jedes GDAL-Kommando kann mit dem Format arbeiten, was eine ideale
+Erg&#228;nzung f&#252;r die Rasterdatenbearbeitung abgibt.
+</abstract>
+        <description>Was ist VRT? Dieser Leitfrage geht der Vortrag auf den Grund und
+l&#246;st sie vorbehaltlos auf.
+
+VRT - Virtual Raster Table - ist ein Datenformat, um gro&#223;e Mengen an
+Rasterdaten effizient zu einem einzigen zusammenzufassen.
+Er ist Bestandteil der GDAL/OGR Bibliothek und hat einiges an Potential.
+
+Neben der reinen Formatbeschreibung bringt der Vortrag ma&#223;geblich
+Praxisbeispiele, wo das Format seine Vorteile voll ausspielen kann. Gerade
+vor dem Hintergrund der immer gr&#246;&#223;er werdenden Rasterdatenbest&#228;nde (und
+somit dessen Kachelung) bietet das Format hervorragende M&#246;glichkeiten,
+gekachelte Datens&#228;tze wieder zusammenzuf&#252;hren und einheitlich auf diesen
+zu arbeiten. Auch der UMN MapServer kann durch geschickte Nutzung dieses
+Formats enorme Performance-Vorteile bekommen.
+
+Jedes GDAL-Kommando kann mit dem Format arbeiten, was eine ideale
+Erg&#228;nzung f&#252;r die Rasterdatenbearbeitung abgibt.
+</description>
+        <persons>
+          <person id="46">Stephan Holl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Kleiner H&#246;rsaal Geb. 308">
+      <event id="168">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>mapper_recht</slug>
+        <title>Der Mapper und sein Recht</title>
+        <subtitle>OpenStreetMap</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Einer der wichtigsten Grundpfeiler des Datenbestandes von OpenStreetMap ist die Datenerhebung und -&#252;berpr&#252;fung durch den Mapper vor Ort. Der dabei in Deutschland zu beachtende rechtliche Rahmen bildet den Gegenstand dieses Vortrags.</abstract>
+        <description>Der erste Teil hat die verschiedenen rechtlichen Aspekte zum Gegenstand, die der Mapper beim Datensammeln beachten sollte. Sollen die Daten auf einem umfriedeten Grundst&#252;ck erhoben  werden oder befindet sich das zu erfassende Objekt mitten auf dem Feld? Was ist zu ber&#252;cksichtigen bzw. unter welchen Voraussetzungen ist es &#252;berhaupt zul&#228;ssig auf fremden Grundst&#252;cken Daten zu erheben?  Antworten auf diese Fragen geben Rechtsinstitute wie die Unverletzlichkeit der Wohnung, Hausrecht und Landschaftsbetretungsrecht, die im Rahmen des Vortrags vorgestellt werden. 
+
+In einem zweiten Teil geht der Vortrag auf die rechtlichen Besonderheiten ein, die beim Foto- oder Videomapping zu beachten sind. In welchem Rahmen sind Aufnahmen von fremden Geb&#228;uden erlaubt? Was ist zu beachten, wenn ich die gesammelten Aufnahmen auch anderen Nutzern zur Datengewinnung bereitstellen m&#246;chte? Panoramafreiheit und das Recht am eigenen Bild sind hierbei Aspekte, auf die der Vortrag eingehen wird.</description>
+        <persons>
+          <person id="147">Falk Zscheile</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="320">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>kontakte_verwaltung</slug>
+        <title>Kontakte von OSM zu Verwaltung und Regierung</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="217">Joachim Kast</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="288">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>osm_forschung</slug>
+        <title>OpenStreetMap in der Forschung?</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Manuela Schmidt ist Kartographin und arbeitet als Assistentin in der Forschungsgruppe Kartographie der Technischen Universit&#228;t mit Schwerpunkt auf den Themen Web Mapping und Volunteered Geographic Information. 
+
+Pascal Neis ist Wissenschaftlicher Mitarbeiter in der Abteilung f&#252;r Geoinformatik der Universit&#228;t Heidelberg. Seine Interessensschwerpunkte sind OpenGIS Location Services, OpenGIS Web Services, sowie OpenStreetMap und freie Geodaten.</abstract>
+        <description>OpenStreetMap ist in den letzten Jahren in der akademischen Welt zu einem wichtigen Werkzeug und Forschungsthema geworden. In der Lehre wird OSM z.B. in &#220;bungen zur Vermessungslehre, zur Verdeutlichung der Funktionsweise von Geodatenbanken oder als Datengrundlage f&#252;r diverse Projekte verwendet. In der Forschung wird OSM h&#228;ufig als Paradebeispiel der sog. &#8222;Volunteered Geographic Information&#8220; unter vielerlei Gesichtspunkten erforscht. Schwerpunkte sind Fragen der Datenqualit&#228;t, der Verwendbarkeit der Daten in verschiedenen Kontexten, sowie die Erforschung der Motivation der Teilnehmenden. Neben Projekten, die sich explizit mit OSM besch&#228;ftigen, gibt es eine Reihe von Projekten, die OSM als Datengrundlage verwenden. Mit wenigen Ausnahmen geschehen diese Aktivit&#228;ten allerdings abseits der Community: Projekte werden nicht kommuniziert, noch werden die Ergebnisse frei zur Verf&#252;gung gestellt.
+
+In unserem Vortrag zeigen wir eine &#220;bersicht der Hochschulen, an denen mit OpenStreetMap gearbeitet wird (mit Fokus auf dem deutschsprachigen Raum). Eine Auswahl von Forschungsarbeiten soll das Spektrum der entstehenden Themen aufzeigen. Zus&#228;tzlich werden L&#246;sungsans&#228;tze diskutiert, wie die derzeit h&#228;ufig fehlende Kommunikation zwischen OSM-Forschern und der OSM-Community erm&#246;glicht und verbessert werden kann.</description>
+        <persons>
+          <person id="210">Manuela Schmidt</person>
+          <person id="66">Pascal Neis</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="322">
+        <start>17:15</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>osm_quiz</slug>
+        <title>OSM Quiz</title>
+        <subtitle></subtitle>
+        <track>Allgemeines</track>
+        <type></type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="H&#246;rsaal Geb. 227">
+      <event id="220">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>FGSK: WebGIS zur Erfassung von Gew&#228;sserstrukturen</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Wasserwirtschaftliche Fachanwendungen und Freie GIS-Software passen prima
+zusammen. Im konkreten Fall wird eine Anwendung zum Datenmanagement f&#252;r
+die Kartierung der Flie&#223;gew&#228;sserstruktur in Mecklenburg-Vorpommern auf
+Basis von Mapfish, GeoExt, PostGIS und UMN MapServer vorgestellt, die die
+Fachverfahren zur Bewertung der Flie&#223;gew&#228;sserstrukturg&#252;te in norddeutschen
+Bundesl&#228;ndern unterst&#252;tzt und OGC-konform darstellt. Neben einer
+fachlichen Vorstellung der zu l&#246;senden Aufgabe wird die Fachschale
+pr&#228;sentiert. 
+
+Ein Fokus wird auf die Nutzungen der linearen
+Referenzierungen (LRS) und Stationierungen von Elementen auf dem
+Gew&#228;ssernetzwerk innerhalb von PostgreSQL/PostGIS liegen.
+Dar&#252;ber hinaus wird die Erfassungskomponente vorgestellt, die dem
+Kartierer die Digitalisierung der im Gel&#228;nde erfassten Strukturparameter
+erm&#246;glicht und mit einem komplexen Bewertungsschl&#252;ssel den G&#252;teindex der Abschnitte ermittelt.
+
+Besonderheiten der Fachschale 'Flie&#223;gew&#228;sserstrukturg&#252;te':
+* Verteilte Nutzung &#252;ber Netzwerk m&#246;glich
+* Integration in WRRL-relevante Anwendungen
+* Freie Software (GPL)
+* leichte Konfigurierbarkeit aufgrund von komplett datenbankgesteuerter
+  Auswertelogik
+* OGC-konforme Darstellung in B&#228;nderform zur Visualisierung der
+  G&#252;testrukturen, dadurch Integration in jede GDI problemlos m&#246;glich.
+
+Der Vortrag zeigt, wie fachlich komplexe Anforderungen mit Freier Software
+nachhaltig umgesetzt werden k&#246;nnen.
+</abstract>
+        <description>Inhalt des Vortrags:
+&amp;rarr; fachlicher Hintergrund:
+Veranlassung und Zielstellung
+Kartierbogen/Erfassungskomponente
+Bewertungs-/Darstellungskomponente
+
+&amp;rarr; technische Umsetzung:
+Einsatz der Freien Komponenten
+MapFish/GeoExt, UMN MapServer
+PostgreSQL/PostGIS
+
+&amp;rarr; Schwerpunkt:
+Linear Referencing
+Regelbasierte Bewertung in Postgres/PostGIS
+</description>
+        <persons>
+          <person id="178">Andr&#233; Steinh&#228;user</person>
+          <person id="46">Stephan Holl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="224">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Die h&#228;ufigsten Fallstricke beim Einsatz von OpenLayers und m&#246;gliche L&#246;sungsans&#228;tze</title>
+        <subtitle>"Access to restricted URI denied", "Meine Features sind alle am &#196;quator" und &#228;hnliche Probleme beseitigen</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type></type>
+        <language>de</language>
+        <abstract>OpenLayers (http://openlayers.org) ist wahrscheinlich der WebMapping Client der OpenSource Gemeinde und findet sich mittlerweile in verschiedensten Anwendungen. Diese reichen von einfachen Karten (z.B. auf der Seite von B. Obama) &#252;ber B&#252;rgerbeteiligungsportale (z.B. bei der Stadt K&#246;ln), Stadtplandienste (z.B. Stadt Wolfsburg) bis hin zu komplexen Geoportalen (z.B. Geoportal Raumordnung Baden-W&#252;rttemberg).
+
+Die enorme Verbreitung zeigt auch, dass die Einstiegsh&#252;rde beim Einsatz von OpenLayers relativ niedrig ist. Dennoch treten bei der konkreten Umsetzung von Anwendungen mit OpenLayers immer wieder Probleme an &#228;hnlichen Stellen auf. So beispielsweise bei der Verwendung von Layern mit unterschiedlichen Projektionen, bei der Einbindung gekachelter Dienste, bei Ajax-Anfragen im Rahmen der Same Origin Policy, oder &#8211; Stichworte Performance und Hovern &#8211; bei Vektorlayern u.v.m.
+
+Der Autor hat die Emails auf OpenLayers Userliste aufmerksam durchforstet und nach &#8222;typischen F&#228;llen&#8220; von Problemen gesucht. Diese werden vorgestellt und anhand von konkreten Projektbeispielen wird ein m&#246;glicher L&#246;sungsweg aufgezeigt.
+
+Der Vortrag wendet sich nicht nur an Personen, die mit OpenLayers programmieren und selber bereits vor einem konkreten Problem standen, sondern l&#228;dt durch die Aufl&#246;sung der aufgezeigten Probleme anhand von Projektbeispielen auch diejenigen ein, die &#252;ber den Einsatz eines OpenSource WebMapping Clienten nachdenken. Die Vielseitigkeit der Beispiele zeigt eine breite Palette dessen auf, was mittels OpenLayers zu bewerkstelligen ist.
+
+
+Die Folien befinden sich hier:
+http://maps.terrestris.de/dokuwiki/doku.php?id=fallenmitol
+</abstract>
+        <description></description>
+        <persons>
+          <person id="34">Marc Jansen</person>
+          <person id="23">Till Adams</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="246">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Konzepte zum Druck von Berichten mit Kartendaten aus Webapplikationen</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Fachapplikationen im GIS-Umfeld integrieren Karten mit weiteren Fachdaten. F&#252;r Web und Desktop stehen zahlreiche bew&#228;hrte Komponenten aus dem OSGeo-Stack f&#252;r zuverl&#228;ssige, schnelle und sichere Anwendungen zur Verf&#252;gung. Der Gro&#223;teil der Komponenten konzentriert sich allerdings auf die Liveansicht der Daten in der Benutzeroberfl&#228;che, obwohl in den meisten Fachapplikationen auch umfangreiche Berichtfunktionalit&#228;ten gefordert sind. Wenn einzelne Schritte im Gesch&#228;ftsprozess auf Grund rechtlicher Vorgaben die Schriftform erfordern, wird die Erstellung druckbarer Ausgabeformate sogar der Hauptzweck der Applikation.
+
+Wir stellen einige L&#246;sungen mit Open Source-Komponenten vor, mit denen wichtige Anforderungen an die Berichterstellung aus GIS-Applikationen abgedeckt werden:
+
+* ReportGen zur Steuerung der Berichterstellung aus Datenbankabfragen oder XML-Formaten
+* OpenOffice als WYSIWYG-Editor f&#252;r Berichtvorlagen
+* Integration dynamischer Kartensichten &#252;ber OGC-konforme Webdienste
+* Unterschiedliche Ausgabeformate mit serverseitigem OpenOffice
+* Verlagerung zeitaufwendiger Berichterstellung in den Hintergrund der Applikation </abstract>
+        <description></description>
+        <persons>
+          <person id="176">Uli M&#252;ller</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Pool 002">
+      <event id="185">
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>Einf&#252;hrung in die JavaScript-Kartenbibliothek OpenLayers</title>
+        <subtitle>Dynamische Kartenanwendungen f&#252;r jede Webseite</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>OpenLayers (http://openlayers.org) ist wahrscheinlich die bekannteste und weit 
+verbreitetste JavaScript-Bibliothek, um Kartenmaterial verschiedenster Quellen 
+im Web bereitzustellen. Der Workshop soll die M&#246;glichkeiten der Bibliothek 
+aufzeigen, und die Teilnehmer in die Lage versetzen, eigene Kartenanwendungen 
+auf Basis von OpenLayers zu entwickeln. 
+
+Im Workshop, der von Andreas Hocevar (einem der Kernentwickler von OpenLayers 
+mit Commit-Rechten auf den trunk des Projektes) und Marc Jansen (einem der 
+Autoren des deutschsprachigen Buches zu OpenLayers und Patch-Contributor zum 
+Projekt) gehalten wird, werden die folgenden Themen behandelt werden:
+
+1. OpenLayers Grundlagen
+   Wie f&#252;gt man mit OpenLayers eine Karte zu einer Webseite hinzu?
+2. Arbeiten mit Layern (Themen)
+   Wie kann man Raster- und Vektorlayer in einer OpenLayers Karte kombinieren?
+3. Arbeiten mit Controls (Kartenwerkzeugen)
+   Wie erweitere ich meine Karte um spezifische Bedienelemente?
+
+Zus&#228;tzlich zu oben genannten Themen werden wir -- je nach zur Verf&#252;gung 
+stehender Zeit und den konkreten W&#252;nschen der Teilnehmer -- gegebenenfalls die 
+folgenden Aspekte behandeln:
+
+4. Vektorlayer f&#252;r Fortgeschrittene
+   Wir schauen uns die verschiedenen M&#246;glichkeiten der Vektorlayer in OpenLayers
+   an.
+5. Integration mit anderen Bibliotheken
+   Wir stellen vor, wie man OpenLayers mit anderen Bibliotheken kombiniert, um 
+   noch reichhaltigere Kartenanwendungen im Web zu erstellen.
+   
+Zielgruppe sind alle an Webkartographie interessierten, die OpenLayers kennen
+lernen wollen. Auch Teilnehmer, die OpenLayers bereits einsetzen, k&#246;nnen von 
+einem Besuch sicherlich profitieren. Wenn Sie absch&#228;tzen m&#246;chten, ob OpenLayers 
+Ihnen bei Ihrer Fragestellung helfen kann, kann der Workshop sicherlich erste 
+Antworten liefern.
+
+Vorwissen: Grunds&#228;tzliche Kenntnisse von JavaScript sind n&#252;tzlich, werden aber 
+nicht zwingend vorausgesetzt.
+
+Referenten:
+   - Andreas Hocevar, OpenGeo, ahocevar@opengeo.org
+   - Marc Jansen, terrestris GmbH &amp; Co. KG, jansen@terrestris.de</abstract>
+        <description></description>
+        <persons>
+          <person id="173">Andreas Hocevar</person>
+          <person id="34">Marc Jansen</person>
+        </persons>
+        <links>
+          <link href="http://openlayers.org">Homepage des OpenLayers-Projektes</link>
+        </links>
+      </event>
+      <event id="165">
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>Mit Legato OpenLayers einfach konfigurieren und erweitern - eine praktische Einf&#252;hrung</title>
+        <subtitle>Workshop</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Der Web-Mapping-Client Legato wurde von der disy Informationssysteme GmbH im November 2010 als Open Source Projekt unter der Linzenz GNU GPL V3 ver&#246;ffentlicht. Mit Legato k&#246;nnen Kartenviewer f&#252;r Webseiten einfach per Konfiguration aus vorgefertigten Komponenten erstellt werden, ohne dabei JavaScript zu programmieren oder aufw&#228;ndige Server-Infrastrukturen einrichten zu m&#252;ssen. Die einfache Handhabung und die Leichtgewichtigkeit von Legato erlaubt es jedem Webdesigner bzw. jeder Webdesignerin, Web-Mapping-Anwendungen personalisiert zu gestalten und in seine bzw. ihre eigene Webseiten zu integrieren. Dabei gen&#252;gt es XML- oder JSON-Konfigurationen zu erstellen &#8211; das macht Legato einfach, flexibel, m&#228;chtig und erweiterbar.
+
+Dieser Workshops zeigt den Teilnehmern, wie mit Legato unterschiedlich komplexe Web-Mapping-Anwendungen konfiguriert werden. Nach einer Einf&#252;hrung in das zugrundeliegende Konzept wird mit Legato ein praktisches Projekt aufgesetzt. Gemeinsam wird ein sehr einfacher Client erstellt und der Karteninhalt dynamisch konfiguriert. In einem zweiten Teil wird gezeigt, wie man Web-Mapping-Clients mit erweiterten Benutzungselementen ohne Programmierung konfiguriert. In dem dritten Teil schlie&#223;lich wird eine selbst programmierte Komponente in den Client eingebettet.
+
+Nach dem Workshop sollten die Teilnehmer in der Lage sein, Legato in ihr Web-Portal selbst&#228;ndig zu integrieren.
+
+Das Open-Source-Projekt Legato ist auf dem englischsprachigen Webauftritt www.legato.net ausf&#252;hrlich dokumentiert und steht bei SourceForge zum Download bereit.
+
+Links:
+http://www.legato.net
+http://sourceforge.net/projects/legato</abstract>
+        <description></description>
+        <persons>
+          <person id="108">Aleksei Valikov</person>
+        </persons>
+        <links>
+          <link href="http://www.legato.net">http://www.legato.net</link>
+          <link href="http://sourceforge.net/projects/legato">http://sourceforge.net/projects/legato</link>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Pool 003">
+      <event id="212">
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>Einf&#252;hrung in PostgreSQL/PostGIS</title>
+        <subtitle>Datenbankbasiertes Kartenerstellen mit PostGIS</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Programm:
+ * Was ist PostGIS?
+ * Einspielen/Exportieren von Geodaten
+ * R&#228;umliche Indizierungen effizient nutzen
+ * Abfragen mit r&#228;umlichen Operationen
+ * Einbinden in Freie Clients zur Kartengenerierung
+
+
+Ablauf und Zielgruppe:
+Der Workshop zielt auf Interessierte GIS-Anwender, die den Umgang mit PostGIS kennenlernen und
+darauf aufbauen wollen. Dabei werden Shapedateien in PostGIS importiert
+und in einem GIS dargestellt. 
+Einfache r&#228;umliche Operationen werden gezeigt, um den Umgang mit PostGIS
+zu veranschaulichen.
+Der Workshop sieht sich als Einf&#252;hrung und ist so konzipiert, dass
+aktive Mitarbeit der Teilnehmer nicht m&#246;glich ist.
+
+Ein grunds&#228;tzliches Verst&#228;ndnis von Datenbanken sowie SQL sollte
+vorhanden sein, um dem Workshop folgen zu k&#246;nnen.
+</abstract>
+        <description>Programm:
+ * Was ist PostGIS?
+ * Einspielen/Exportieren von Geodaten
+ * R&#228;umliche Indizierungen effizient nutzen
+ * Abfragen mit r&#228;umlichen Operationen
+ * Einbinden in Freie Clients zur Kartengenerierung
+
+
+Ablauf und Zielgruppe:
+Der Workshop zielt auf Interessierte GIS-Anwender, die den Umgang mit PostGIS kennenlernen und
+darauf aufbauen wollen. Dabei werden Shapedateien in PostGIS importiert
+und in einem GIS dargestellt. 
+Einfache r&#228;umliche Operationen werden gezeigt, um den Umgang mit PostGIS
+zu veranschaulichen.
+Der Workshop sieht sich als Einf&#252;hrung und ist so konzipiert, dass
+aktive Mitarbeit der Teilnehmer nicht m&#246;glich ist.
+
+Ein grunds&#228;tzliches Verst&#228;ndnis von Datenbanken sowie SQL sollte
+vorhanden sein, um dem Workshop folgen zu k&#246;nnen.
+</description>
+        <persons>
+          <person id="31">Harald Schwenk</person>
+          <person id="46">Stephan Holl</person>
+        </persons>
+        <links>
+          <link href="http://ftp.intevation.de/users/stephan/fossgis-2011/ws/postgis/postgis-fossgis2011.tar.gz">Workshop-Daten</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="186">
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>Einf&#252;hrung in Rich Map Clients mit GeoExt</title>
+        <subtitle>Anspruchsvolle Benutzeroberfl&#228;chen f&#252;r Kartenanwendungen programmieren</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>GeoExt (http://geoext.org) ist eine auf den JavaScript-Bibliotheken OpenLayers 
+(f&#252;r Karten im Web, http://openlayers.org) und Ext JS (u.a. f&#252;r graphische 
+Benutzeroberfl&#228;chen, http://www.sencha.com/products/js/) aufbauende JavaScript-
+Bibliothek, die es vereinfacht, Kartenmaterial in ansprechenden und komplexen 
+Oberfl&#228;chen im Web zu pr&#228;sentieren.
+
+Im Workshop, der von Andreas Hocevar (einem der Kernentwickler von GeoExt und 
+OpenLayers und Mitglied des Project Steering Comitees von GeoExt) und Marc 
+Jansen (einem der Autoren des deutschsprachigen Buches zu OpenLayers und
+Patch-Contributor bei OpenLayers und GeoExt) gehalten wird, werden die folgenden
+Themen behandelt werden:
+
+1) GeoExt Grundlagen
+   Wie erzeugt man ein verschiebbares Kartenfenster mit einem WMS-Layer mit 
+   GeoExt? 
+2) WMS mit Readern und Stores 
+   Wir entwickeln ein WMS-Verzeichnis und verwenden die Methoden 
+   GetCapabilities, GetMap, GetFeatureInfo und GetLegendGraphic
+3) WFS einfach gemacht
+   Wir entwickeln einen WFS-T Editor mit automatisch synchronisierter Karten- 
+   und Tabellendarstellung der geographischen Features
+
+Zus&#228;tzlich zu oben genannten Themen werden wir -- je nach zur Verf&#252;gung 
+stehender Zeit und den konkreten W&#252;nschen der Teilnehmer -- gegebenenfalls den 
+folgenden Aspekt behandeln:
+
+4) Weitere OGC Services
+   - WFS GetCapabilities und DescribeFeatureType
+   - Filter Encoding (FE) and Styled Layer Descriptor (SLD)
+
+Zielgruppe sind alle an Webkartographie interessierten, die bereits OpenLayers 
+kennen und ansprechende Oberfl&#228;chen mit Ext JS / GeoExt entwickeln m&#246;chten. Auch
+Teilnehmer, die GeoExt bereits einsetzen, k&#246;nnen von einem Besuch sicherlich 
+profitieren, etwa um die Eigenschaften der k&#252;rzlich erschienenen Versioon 1.0
+kennenzulernen. Wenn Sie absch&#228;tzen m&#246;chten, ob OpenLayers, Ext Js und GeoExt
+Ihnen bei Ihrer Fragestellung helfen kann, wird der Workshop sicherlich erste 
+Antworten liefern.
+
+Vorwissen: Grunds&#228;tzliche Kenntnisse von JavaScript, OpenLayers und Ext JS sind 
+sicherlich n&#252;tzlich, werden aber nicht zwingend vorausgesetzt. 
+
+Referenten:
+   - Andreas Hocevar, OpenGeo, ahocevar@opengeo.org
+   - Marc Jansen, terrestris GmbH &amp; Co. KG, jansen@terrestris.de
+</abstract>
+        <description></description>
+        <persons>
+          <person id="173">Andreas Hocevar</person>
+          <person id="34">Marc Jansen</person>
+        </persons>
+        <links>
+          <link href="http://geoext.org">Homepage des GeoExt-Projektes</link>
+          <link href="http://openlayers.org">Homepage des OpenLayers-Projektes</link>
+          <link href="http://www.sencha.com/products/js/">Homepage des Ext JS-Projektes</link>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Seminarraum">
+    </room>
+    <room name="Sitzfl&#228;chen Geb. 308">
+    </room>
+    <room name="SR2.401 Geb. 227">
+      <event id="201">
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>SR2.401 Geb. 227</room>
+        <slug>community_relationen</slug>
+        <title>Community Session zu Relationen</title>
+        <subtitle>Was sind Relationen bei OpenStreetMap und wie bearbeitet man sie in JOSM?</subtitle>
+        <track>Community Sessions</track>
+        <type>community_session</type>
+        <language>de</language>
+        <abstract>Relationen in OpenStreetMap (OSM) sind ein m&#228;chtiges Mittel, um Objekten einen Zusammenhang zu geben, der bei den einzelnen Objekten nicht unmittelbar aus ihren Eigenschaften erkennbar ist. Relationen haben eigene Eigenschaften und enthalten Mitglieder (Verweise auf die Einzelobjekte). Mitgliedern kann eine Rolle zugewiesen werden, die die Bedeutung eines Einzelobjekts innerhalb der Relation festlegt. 
+
+In dieser Community Session sollen die Teilnehmer erfahren, was Relationen bei OpenStreetMap sind, wie sie Relationen in JOSM fin&#173;den, wie sie Eigenschaften einer Relation &#228;ndern und mit dem Relatio&#173;nen-Editor von JOSM Mitglieder einer Relation verwalten. 
+
+Zielgruppe: Personen, die wissen wollen, wie man in OSM/JOSM mit Relationen arbeitet.  
+</abstract>
+        <description>Relationen in OpenStreetMap (OSM) sind ein m&#228;chtiges Mittel, um Objekten einen Zusammenhang zu geben, der bei den einzelnen Objekten nicht unmittelbar aus ihren Eigenschaften erkennbar ist. Beispiele sind Routen f&#252;r Wandern/Radfahren, Routen f&#252;r den &#246;ffentlichen Personen Nahverkehr (Bus und Bahn) und Grenzen, die oft aus vielen Teilst&#252;cken bestehen. 
+
+Relationen haben einerseits eigene Eigenschaften und andererseits enthalten sie Mitglieder (die Einzelobjekte). Die Eigenschaften einer Relation bestimmen zuerst die Art/Unterart der Relation, also den Zusammenhang zwischen den Mitgliedern der Relation. Weitere Eigenschaften bestimmen Dinge wie Betreiber, Referenznummer, Name und vieles anderes mehr. 
+
+Die Mitglieder einer Relation sind die Objekte, f&#252;r die der durch die Eigenschaften der Relation definierte Zusammenhang gilt. Die Bedeutung von Mitglieder innerhalb einer Relation kann unterschiedlich sein. Daher kann jedem Mitglied eine Rolle zugewie&#173;sen werden, die diese Bedeutung darstellt. Durch die Art/Unterart einer Relation wird festgelegt, welche Rollen Mitglieder haben k&#246;nnen und wie die Beziehung zwischen Mitgliedern mit spezifischen Rollen sind. 
+
+In dieser Community Session sollen die Teilnehmer erfahren, was Relationen in OpenStreetMap sind und wie mit ihnen gearbeitet wird. Dies wird anhand des Relationen-Editors von JOSM dargestellt. Wie fin&#173;det man Relationen in JOSM, wie &#228;ndert man die Eigenschaften einer Relation und wie kann man mit dem Relatio&#173;nen-Editor von JOSM die Mitglieder einer Relation verwalten, insbesondere neue Mitglieder hinzuf&#252;gen, vorhandene Mitglieder entfernen oder einfach die Rollen einzelner Mitglieder setzen. 
+
+Entsprechend den Bed&#252;rfnissen der Teilnehmer werden unterschiedliche Aspekte von Relationen und/oder ihrer Bearbeitung vertieft. Auswirkung auf die Auswertbarkeit von Daten mit/ohne Relationen k&#246;nnen diskutiert werden. </description>
+        <persons>
+          <person id="171">Edbert van Eimeren</person>
+        </persons>
+        <links>
+          <link href="http://wiki.openstreetmap.org/wiki/DE:Relations">Artikel Relationen im OSM-Wiki</link>
+          <link href="http://wiki.openstreetmap.org/wiki/Data_Primitives">Artikel Data Primitives im OSM-Wiki</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2011-04-06" index="2">
+    <room name="Gro&#223;er H&#246;rsaal Geb. 308">
+      <event id="177">
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Hochperformante WebGIS Systeme - Tipps aus der Praxis</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Kartenanwendungen wie Google Maps sind auf gro&#223;e Benutzerzahlen spezialisiert und f&#252;r hohe Geschwindigkeiten bekannt. Einfache WebGIS-Systeme von St&#228;dten oder Kommunen besitzen meist das bessere Kartenmaterial verlieren aber durch die geringe Geschwindigkeit an Attraktivit&#228;t.
+
+Der Vortrag zeigt an Hand von Beispielen wie WebGIS Systeme f&#252;r hohe Benutzerzahlen angepasst werden k&#246;nnen. Hierbei wird ein Einblick gegeben wie die Ladezeiten von komplexen Web-Anwendungen deutlich reduziert werden k&#246;nnen. Die Tipps erl&#228;utern JavaScript/CSS Optimierungen und Webserver-Einstellungen.
+
+Es wird au&#223;erdem gezeigt wie Daten mit Kachell&#246;sungen, wie z.B. MapProxy, beschleunigt werden k&#246;nnen. Hier wird auch die Fragestellung behandelt wann Caching sinnvoll ist, wann lieber darauf verzichtet werden sollte und welche Alternativen es gibt.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="153">Oliver Tonnhofer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="184">
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Beschleunigung von WebMapServices mit Hilfe verschiedener Proxies</title>
+        <subtitle>Wenns mal wieder schnell gehen muss</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Wenns mal wieder schnell gehen muss:
+Beschleunigung von WebMapServices mit Hilfe verschiedener Proxies
+
+
+Viele WMS-Dienste leiden unter einem Geschwindigkeitsproblem. F&#252;r den Nutzer bedeutet dies eine lange Wartezeit beim Bildaufbau und w&#228;hrend der Bewegung innerhalb der Karte. Vor allem Dienste mit aufw&#228;ndigen Darstellungen oder Inhalten aus mehreren Quellen ben&#246;tigen viel Zeit beim Rendering und somit auch bei der Beantwortung einer Clientanfrage.
+Um die Antwortzeiten und somit auch die Usability von WebGIS und DesktopGIS-Anwendungen, die einen WMS nutzen, zu verbessern, bietet sich der Einsatz eines Proxys an. Ein Proxy dient dazu, die vom WMS generierten und &#252;bermittelten Bildinhalte als Kacheln zwischenzuspeichern und diese an den Client auszuliefern. Der Vorteil liegt hierbei vor allem in der Geschwindigkeit: Da die Kacheln bereits gerendert auf dem Proxy bereitgehalten werden, entf&#228;llt die Generierung bzw. das Rendering auf Seiten des WMS. Somit beschr&#228;nkt sich das Verfahren bei einer Anfrage durch den Client lediglich auf die Auslieferung der jeweiligen gespeicherten Kacheln. 
+Ein WMS-Proxy dient aber nicht nur der Geschwindigkeitsverbesserung, er entlastet gleichzeitig den WMS und stellt durch die separate Datenhaltung eine Art Backup dar und kann so ein gewisses Ma&#223; an Ausfallsicherheit f&#252;r einen Dienst darstellen.
+Im OpenSource-Bereich haben sich mittlerweile drei solche WMS-Proxies mit sehr unterschiedlichem Funktionsumfang etabliert:
+TileCache (http://tilecache.org/), 
+GeoWebCache (http://geowebcache.sourceforge.net/) und 
+MapProxy (http://mapproxy.org/).
+Alle haben jedoch gemeinsam, dass die Anfragen vom Client, im Verh&#228;ltnis zum tats&#228;chlichen WMS, um ein Vielfaches schneller beantwortet werden k&#246;nnen.
+Im Vortrag sollen die grundlegenden Vorteile und M&#246;glichkeiten eines WMS-Proxys dargestellt und n&#252;tzliche Funktionen der verschiedenen Produkte erl&#228;utert werden. Weiterhin werden m&#246;gliche Probleme hinsichtlich der Darstellung oder Aktualisierung der Daten und verschiedene L&#246;sungsvorschl&#228;ge und Empfehlungen genannt.</abstract>
+        <description></description>
+        <persons>
+          <person id="162">Johannes Weskamm</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="188">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>SDI-Architektur mit verteilter Datenhaltung</title>
+        <subtitle>Aggregation von OGC Diensten</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Um OGC-Dienste verschiedener Anbieter (z.B. Bundesl&#228;nder) zu einem zentralen Dienst zusammenzufassen, m&#252;ssen neben der Kaskadierung noch einige weitere Operationen ausgef&#252;hrt werden. Eine hohe Performance und Ausfallsicherheit kann mit einem Tile-Cache auf Basis der aggregierten Dienste gew&#228;hrleistet werden. Dieser Vortrag zeigt die Problempunkte, die es bei bei einer solchen SDI-Architektur zu ber&#252;cksichtigen gilt und stellt entsprechende L&#246;sungen vor.</abstract>
+        <description></description>
+        <persons>
+          <person id="99">Pirmin Kalberer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="228">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Ein alternativer Geostack mit GeoCouch, OpenLayers und jQuery (MapQuery)</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Seit Jahren hat sich die Kombination aus PostGIS, einem Webmappingserver wie GeoServer oder MapServer und OpenLayers als Frontend bew&#228;hrt. Es gibt jedoch mitlerweile auch Alternativen, um Geodaten noch schneller einem breiten Publikum zug&#228;nglich zu machen.
+
+Eine Alternative besteht auf Seite des Servers aus CouchDB mit der Geoerweiterung GeoCouch, auf der Clientseite aus dem Projekt MapQuery, dass zum Ziel hat, OpenLayers leichter zug&#228;nglich f&#252;r diejenigen zu machen, die jQuery im Einsatz haben.
+
+CouchDB ist eine auf nicht-relationalen Dokumenten basierende Datenbank. Somit ist CouchDB sehr gut f&#252;r Daten geeignet, die nicht bereits in einem relationalen Schema vorliegen. Es k&#246;nnen sehr viel Zeit und Kosten gespart werden, da kein starres, wie von relationalen Datenbanken bekanntes, Schema erstellt werden muss.
+
+Ein weitere St&#228;rke von CouchDB ist die Replikation, mit der sich Daten sehr leicht synchronisieren lassen. Dabei handelt es sich nicht um Master-Slave-, sondern um Master-Master-Replikation, mit der man komplexe peer-to-peer Topologien aufbauen kann. Selbst die integration mobiler Endger&#228;te ist m&#246;glich.
+
+MapQuery, das vormals als geojquery bekannt war, hat seinen Ursprung bei der FOSS4G 2009 in Syndey, bekam aber einen sehr gro&#223;en Schub letztes Jahr, bei der FOSSGIS. Es versucht die Welt von OpenLayers mit der von jQuery zu verbinden. Dabei wird OpenLayers keineswegs ersetzt, sondern nur in neue Kleider geh&#252;llt. So wird die Integration mit jQuery viel tiefer und wird sehr einfach, um wiederverwendbare Komponenten zu schreiben.
+
+Dieser Vortrag gibt einen &#220;berblick &#252;ber eine Alternative zum bekannten Geostack PostGIS, GeoServer/MapServer, Openlayers. Dabei sind die Konzepte &#228;hnlich, die Ausf&#252;hrung aber um einiges einfacher. Es wird sich darauf beschr&#228;nkt, vektorbasierende Daten zug&#228;nglich zu machen.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="33">Volker Mische</person>
+        </persons>
+        <links>
+          <link href="http://couchdb.apache.org/">CouchDB</link>
+          <link href="http://vmx.cx/cgi-bin/blog/index.cgi/geocouch-the-future-is-now:2010-05-03:en,CouchDB,Python,Erlang,geo">GeoCouch</link>
+          <link href="http://gitorious.org/mapquery">MapQuery</link>
+        </links>
+      </event>
+      <event id="198">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Teamwork on WebGIS &#8211; auf Basis des MapFish frameworks</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Teamwork on WebGIS &#8211; auf Basis des MapFish frameworks
+Anja Sigesmund, Kreis Recklinghausen und Michael Jandewerth, Fraunhofer UMSICHT
+
+Der Vortrag skizziert den gemeinsamen Arbeits- und Entwicklungsprozess von unterschiedlichen WebGIS-Applikationen auf Grundlage des MapFish frameworks und kann als gelungenes Beispiel der Kooperation zwischen einer Kreisverwaltung und einem Forschungsinstitut im Open Source GIS Bereich betrachtet werden.</abstract>
+        <description></description>
+        <persons>
+          <person id="48">Anja Sigesmund</person>
+          <person id="223">Michael Jandewerth</person>
+        </persons>
+        <links>
+          <link href="http://www.energieatlas.org">http://www.energieatlas.org</link>
+          <link href="http://www.standortvest.de/download/2011_FOSSGIS-Teamwork_on_WebGIS-auf_Basis_des_MapFish_frameworks.pdf">http://www.standortvest.de/download/2011_FOSSGIS-Teamwork_on_WebGIS-auf_Basis_des_MapFish_frameworks.pdf</link>
+          <link href="www.ben-project.eu">www.ben-project.eu</link>
+        </links>
+      </event>
+      <event id="265">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Legato - Der leichtgewichtige und konfigurierbare Web-Mapping-Client</title>
+        <subtitle>Vortrag</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Der Web-Mapping-Client Legato wurde von der disy Informationssysteme GmbH im November 2010 als Open Source Projekt ver&#246;ffentlicht. Mit Legato k&#246;nnen Kartenviewer f&#252;r Webseiten einfach per Konfiguration aus vorgefertigten Komponenten erstellt werden, ohne dabei JavaScript zu programmieren oder aufw&#228;ndige Server-Infrastrukturen einrichten zu m&#252;ssen. Die einfache Handhabung und die Leichtgewichtigkeit von Legato erlaubt es jedem Webdesigner bzw. jede Webdesignerin, Web-Mapping-Anwendungen personalisiert zu gestalten und in seine bzw. ihre eigene Webseiten zu integrieren. Dabei gen&#252;gt es XML oder JSON-Konfigurationen zu erstellen &#8211; das macht Legato einfach, flexibel, m&#228;chtig und erweiterbar.
+
+Dieser Vortrag stellt den Web-Mapping-Client Legato detailliert vor. Er erl&#228;utert die grundlegenden Features von Legato:
+
+*	Wie k&#246;nnen einfache bis komplexe Karten-Clients mit Legato einfach per Konfiguration und ganz ohne Programmierung erstellt werden.
+*	Wie wird ein Legato-Karten-Client in eine Webseite ohne iframes o.&#228;. integriert.
+*	Wie wird in Legato der Web Map Context Standard benutzt, um die Definition der Karteninhalte von der Konfiguration der Funktionalit&#228;t zu trennen.
+*	Wie k&#246;nnen eigene Komponenten f&#252;r Legato gebaut werden.
+
+Die Inhalte dieses Vortrages werden durch den separaten Workshop &#8222;Mit Legato Open-Layers einfach konfigurieren und erweitern - eine praktische Einf&#252;hrung&#8220; vertieft. Die Teilnehmer haben dort die M&#246;glichkeit selber zu erfahren und &#252;ben, wie mit Legato unterschiedlich komplexe Web-Mapping-Anwendungen konfiguriert werden k&#246;nnen.
+ 
+Das Open-Source-Projekt Legato ist auf dem englischsprachigen Webauftritt www.legato.net ausf&#252;hrlich dokumentiert und steht bei SourceForge zum Download bereit.
+
+</abstract>
+        <description></description>
+        <persons>
+          <person id="143">Markus Gebhard</person>
+        </persons>
+        <links>
+          <link href="https://www.legato.net">https://www.legato.net</link>
+          <link href="http://sourceforge.net/projects/legato">http://sourceforge.net/projects/legato</link>
+        </links>
+      </event>
+      <event id="257">
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Webgis mit QGIS und GeoExt </title>
+        <subtitle>Neues vom QGIS Server</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Der Vortrag zeigt die Fortschritte von QGIS Server auf, illustriert auch anhand von Beispielen aus der Praxis. QGIS Server kann neu .qgs Projektfiles aus dem Desktop-GIS-Bereich als zentrale Konfigurationsdatei von Webdiensten (derzeit nur WMS) verwenden. Das bietet verschiedene Vorteile:
+
+* Desktop-GIS, Web-GIS und WMS aus der gleichen Konfigurationsdatei
+* kein manuelles Editieren von .map-Files - auch Mapserver-Laien k&#246;nnen nun sehr einfach Webdienste erstellen
+* &#220;bernahme von Druck-Layouts f&#252;r das Drucken im Web (derzeit in Arbeit)
+* Verwendung der neuen Label-Engine und der erweiterten Symbolisierungsm&#246;glichkeiten aus der neuen Symbology-Engine 
+
+Die Client-Komponente wurde mit GeoExt (OpenLayers, ExtJS,GeoExt) realisiert. Es werden soviele Konfigurationen wie m&#246;glich aus dem Desktop-GIS-Bereich in den Web-GIS-Bereich &#252;bernommen, wie z.b. der Projektname, die Attributdatenbehandlung (Spaltenunterdr&#252;ckung, Spaltenaliases, etc.), das Selektierbarmachen von Layern, sowie das Verwenden bereits vordefinierter Drucklayouts.
+
+Wo m&#246;glich wurde der bestehende WMS Standard verwendet, wo n&#246;tig, wurden Erweiterungen im WMS-Protokoll vorgenommen, vorwiegend beim Drucken, aber auch bei den getFeatureInfo und getCapabilities Requests.
+
+Der Vortrag zeigt produktive Beispiele aus dem GIS der Stadt Uster und zeigt welche Arbeitsschritte auf dem Server und dem Client notwendig sind, um ein QGIS-Projekt ins Web zu bringen. </abstract>
+        <description></description>
+        <persons>
+          <person id="79">Andreas Neumann</person>
+          <person id="100">Marco Hugentobler</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="210">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>UMN MapServer 6.0 - Was k&#246;nnen wir erwarten?</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Der Vortrag greift den Beitrag aus dem letzten Jahr auf und zeigt weitere
+Poweruser-Features und kommende Funktionen, die in der n&#228;chsten
+Major-Version vom UMN MapServer zu erwarten sind:
+* INSPIRE-Konformit&#228;t
+* Pluggable Rendering-Engines
+* TileCache-Implementierungen
+* WFS-Erweiterungen und OGR
+* RESTful-Schnittstelle
+* KML-Schweinereien
+
+Dar&#252;ber hinaus werden (wie &#252;blich) Hinweise und Ideen zum professionellen
+Einsatz gegeben. Dazu z&#228;hlen das Optimieren im
+Hochverf&#252;gbarkeitsumfeld (Monitoring), Caching, Performance-Tuning.
+</abstract>
+        <description>Der Vortrag greift den Beitrag aus dem letzten Jahr auf und zeigt weitere
+Poweruser-Features und kommende Funktionen, die in der n&#228;chsten
+Major-Version vom UMN MapServer zu erwarten sind:
+* INSPIRE-Konformit&#228;t
+* Pluggable Rendering-Engines
+* TileCache-Implementierungen
+* WFS-Erweiterungen und OGR
+* RESTful-Schnittstelle
+* KML-Schweinereien
+
+Dar&#252;ber hinaus werden (wie &#252;blich) Hinweise und Ideen zum professionellen
+Einsatz gegeben. Dazu z&#228;hlen das Optimieren im
+Hochverf&#252;gbarkeitsumfeld (Monitoring), Caching, Performance-Tuning.
+</description>
+        <persons>
+          <person id="65">Astrid Emde</person>
+          <person id="46">Stephan Holl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="282">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>CampusGIS-3D</title>
+        <subtitle>deegree3 WPVS basierte 3D Geovisualisierung</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lightning</type>
+        <language></language>
+        <abstract>Das CampusGIS-3D ist ein Forschungsprojekt der AG &#8222;GIS &amp; Fernerkundung&#8220; am Geographischen Institut der Universit&#228;t zu K&#246;ln. Ziel des Forschungsprojektes ist der Aufbau einer 3D-GDI f&#252;r ein 3D (Geo-) Model des K&#246;lner Universit&#228;tscampus. Hierbei wird Wert auf die Umsetzung von vorhandenen OGC Standards und den Einsatz von Free und Open Source Software gelegt.
+Das CampusGIS-3D besteht momentan aus einem deegree3 WPVS Service und einem jQuery-basiertem Web User Interface. Es wurde eine Toolchain entwickelt, um Google Sketchup 3D Modelle nach CityGML zu &#252;berf&#252;hren und in das deegree3 WPVS Backend zu importieren. Dabei ist ein kleines Programm entstanden, der CityGMLConverter, welcher zum freien Download zur Verf&#252;gung steht und in Zukunft g&#228;nzlich als Open Source ver&#246;ffentlicht werden soll. 
+Der Beitrag gibt einen &#220;berblick &#252;ber das CampusGIS-3D Projekt und dessen Implementierung. Dabei wird die Erfassung, Modellierung und Beschaffung der Geodaten, sowie die Daten- Aufbereitung und Konvertierung f&#252;r die Verwendung im deegree3 Webservice vorgestellt. Des Weiteren wird auf die Konfiguration des deegree3 Web Perspective View Service und auf die Implementation der Browser basierten UI, sowie auf die Toolchain zur Integration von Sketchup 3D Modellen in den deegree3 WPVS eingegangen. </abstract>
+        <description></description>
+        <persons>
+          <person id="192">Christian Willmes</person>
+        </persons>
+        <links>
+          <link href="http://">http://</link>
+          <link href="http://campusgis.de/3D">http://campusgis.de/3D</link>
+        </links>
+      </event>
+      <event id="187">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Wie OpenSource Komponenten bei der &#252;berregionalen Wasserbewirtschaftung in einem WebGIS zusammenspielen</title>
+        <subtitle>Vorstellung des WebGIS UEWA bei der Wasser- und Schifffahrtsverwaltung des Bundes</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Co-Autor Till Adams
+
+Das Dienstleistungszentrum IT im Gesch&#228;ftsbereich des BMVBS (Bundesministerium 
+f&#252;r Verkehr, Bau und Stadtentwicklung) bei der Bundesanstalt f&#252;r Wasserbau in 
+Ilmenau betreibt zuk&#252;nftig ein zentrales webbasiertes System zur &#252;berregionalen
+Wasserbewirtschaftung des Kanalsystems zwischen Rhein und Oder. Dieses wurde zu 
+&#252;berwiegenden Teilen mittels OpenSource-Komponenten von den Firmen Fichtner IT 
+Consulting AG aus Stuttgart (http://fichtner.de) und der terrestris GmbH &amp; Co. 
+KG aus Bonn (http://www.terrestris.de) umgesetzt. 
+
+Der Vortrag wird das Gesamtsystem vorstellen und hierbei einen klaren 
+Schwerpunkt auf die Benutzeroberfl&#228;che legen: Die serverseitigen Komponenten 
+werden der Vollst&#228;ndigkeit halber nur kurz beschrieben.
+
+Das Frontend wurde mittels der JavaScript-Bibliotheken Ext JS 
+(http://www.sencha.com/products/js/), OpenLayers (http://openlayers.org), GeoExt
+(http://geoext.org) und Cherry On Ext (http://code.google.com/p/cherryonext/) 
+implementiert. Highlights der Anwendung, die hinsichtlich der Aufgabenstellung 
+und -L&#246;sung vorgestellt werden, sind:
+
+  - Verwendung vonDWR (Direct Web Remoting, http://directwebremoting.org/) als 
+    Schnittstelle, die Unabh&#228;ngigkeit zur konkreten Form der Datenhaltung 
+    garantiert
+  - Graphische Darstellung der Realweltgeometrien und topologischen Beziehungen
+    verschiedener hierarchisch gestufter Objekte 
+  - Intelligente, datengebundene tabellarische Darstellung von Objekten und
+    deren Eigenschaften mit Funktionalit&#228;ten wie Paging, Filterung, 
+    Oberfl&#228;chenkonfiguration etc.
+  - Initiale Darstellung dieser Datengrids ist schnittstellenbasiert: Um 
+    &#196;nderungen an der Darstellung im Client zu bewirken, ist keine Editierung 
+    von JavaScript-Quellcode notwendig
+  - Ausgew&#228;hlte Ver&#228;nderungen an der Oberfl&#228;che, welche durch Benutzer 
+    dynamisch vorgenommen werden k&#246;nnen, lassen sich persistent vorhalten. 
+    Diese Konfigurationen k&#246;nnen jederzeit wiederhergestellt werden
+
+Insbesondere die sogenannten User Extensions (UX) von Ext JS waren bei der 
+Implementierung der Funktionalit&#228;t sehr relevant. Vor allem die UX RowEditor, 
+Cherry On Ext und etwa der ToolbarReorderer sind hervorzuheben.
+
+Im Rahmen der Implementierung wurde dem Projekt Cherry On Ext ein Language-File
+f&#252;r die Lokalisierung / I18n in die deutsche Sprache bereitgestellt.</abstract>
+        <description></description>
+        <persons>
+          <person id="34">Marc Jansen</person>
+        </persons>
+        <links>
+          <link href="http://fichtner.de">Homepage der Firma Fichtner IT  Consulting AG</link>
+          <link href="http://www.terrestris.de">Homepage der Firma terrestris GmbH &amp; Co. KG</link>
+          <link href="http://code.google.com/p/cherryonext/">Homepage des Cherry On Ext-Projektes</link>
+          <link href="http://www.sencha.com/products/js/">Homepage des Ext JS-Projektes</link>
+          <link href="http://openlayers.org">Homepage des OpenLayers-Projektes</link>
+          <link href="http://geoext.org">Homepage des GeoExt-Projektes</link>
+        </links>
+      </event>
+      <event id="251">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>dataDIVER -- Geobezogene Auswertungen von Datawarehouse-Best&#228;nden mit Freier Software</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Das Bundesamt f&#252;r Seeschifffahrt und Hydrographie (BSH) nutzt den dataDIVER als einen zentralen Einstiegspunkt in die fachabteilungs&#252;bergreifende Geodateninfrastruktur (GDI). Der Zugriff, die Analyse, Visualisierung und der Export von umfangreichen marinen Fachdaten aus einem zentralen Datawarehouse werden &#252;ber eine rein browserbasierte Applikation f&#252;r jeden Mitarbeiter auf einfache Weise bereitgestellt.
+
+Rund 20 Fachinformationssysteme, die im zentralen Dataware-House der GDI-BSH vorgehalten werden, umfassen u.a. Daten zu Wassertemperaturen, Salzgehalt, Str&#246;mungsrichtungen, Windgeschwindigkeiten etc., die urspr&#252;nglich von Me&#223;bojen, Forschungsplattformen und &#252;ber Modellrechnungen ermittelt wurden. In Diagrammen oder nutzergenerieten Karten k&#246;nnen beliebige Zeitreihen, vertikale und horizontale Profile als auch freiw&#228;hlbare Schnitte, die durch 2D- und 3D-Interpolationen ermittelt werden, auf Knopfdruck visualisiert werden. Dazugeh&#246;rige Ergebnisdaten k&#246;nnen in offenen Formaten zur Weiterverarbeitung in externen Systemen genutzt werden; eine Integration in die bestehende GIS-Portallandschaft ist ebenso erfolgt. 
+
+Neben den Fachkomponenten des dataDIVER, der auf Freier Software u.a. wie JFreeChart, UMN MapServer, GeoTools, OpenLayers und iText basieren, sind neue Komponenten hinzugekommen, die in einem neuen Freien Software Projekt, dem dataDIVER, Ende 2010 publiziert werden. Kernst&#252;ck ist ein REST-basierter Server, der als Keimzelle eines verteilbares Systems mit Caching-M&#246;glichkeiten zur performanten Anbindung umfangreicher raum-zeitlicher Datenbest&#228;nde dienen kann. </abstract>
+        <description>Das Bundesamt f&#252;r Seeschifffahrt und Hydrographie (BSH) nutzt den dataDIVER als einen zentralen Einstiegspunkt in die fachabteilungs&#252;bergreifende Geodateninfrastruktur (GDI). Der Zugriff, die Analyse, Visualisierung und der Export von umfangreichen marinen Fachdaten aus einem zentralen Datawarehouse werden &#252;ber eine rein browserbasierte Applikation f&#252;r jeden Mitarbeiter auf einfache Weise bereitgestellt.
+
+Rund 20 Fachinformationssysteme, die im zentralen Dataware-House der GDI-BSH vorgehalten werden, umfassen u.a. Daten zu Wassertemperaturen, Salzgehalt, Str&#246;mungsrichtungen, Windgeschwindigkeiten etc., die urspr&#252;nglich von Me&#223;bojen, Forschungsplattformen und &#252;ber Modellrechnungen ermittelt wurden. In Diagrammen oder nutzergenerieten Karten k&#246;nnen beliebige Zeitreihen, vertikale und horizontale Profile als auch freiw&#228;hlbare Schnitte, die durch 2D- und 3D-Interpolationen ermittelt werden, auf Knopfdruck visualisiert werden. Dazugeh&#246;rige Ergebnisdaten k&#246;nnen in offenen Formaten zur Weiterverarbeitung in externen Systemen genutzt werden; eine Integration in die bestehende GIS-Portallandschaft ist ebenso erfolgt. 
+
+Neben den Fachkomponenten des dataDIVER, der auf Freier Software u.a. wie JFreeChart, UMN MapServer, GeoTools, OpenLayers und iText basieren, sind neue Komponenten hinzugekommen, die in einem neuen Freien Software Projekt, dem dataDIVER, Ende 2010 publiziert werden. Kernst&#252;ck ist ein REST-basierter Server, der als Keimzelle eines verteilbares Systems mit Caching-M&#246;glichkeiten zur performanten Anbindung umfangreicher raum-zeitlicher Datenbest&#228;nde dienen kann. </description>
+        <persons>
+          <person id="6">Hans Plum</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="239">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Online-Biodiversit&#228;tsportale mit Indicia, Drupal und OpenLayers</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Im Bereich des Biodiversit&#228;tsmanagements wird eine immer gr&#246;&#223;er werdende Menge an Informationen zur Entwicklung von Artbest&#228;nden erhoben. Hier bietet Webmapping viele Vorteile:  Onlineportale erm&#246;glichen eine leichtere Partizipation, da der Zugang ortsunabh&#228;ngig ist, Nutzer keine zus&#228;tzliche Software ben&#246;tigen und Daten in zentralen Datenbanken verwaltet werden k&#246;nnen. Mit einem effizienten und benutzerfreundlichen System zur Eingabe und Verwaltung von  Daten k&#246;nnen umfassende Netzwerke von Experten, Hobby-Naturbeobachtern, Beh&#246;rden und Umweltverb&#228;nden gebildet werden. 
+Aus Gro&#223;britannien kommt mit Indicia ein speziell f&#252;r das Biodiversit&#228;tsmonitoring konzipiertes System. Dieses im Rahmen des Projekts Open Air Laboratories Network (OPAL) entwickelte Baukastensystem aus PHP-Komponenten erlaubt ein schnelles und flexibles Erstellen von Online-Dateneingabeportalen. Indicia besteht aus 3 Teilen: der PostgreSQL/PostGIS-Datenbank (Indicia Warehouse), einer in eine Webseite eingebundene Verwaltungsoberfl&#228;che und einem Modul f&#252;r das Content Management System Drupal (Iform) mit anpassbaren Formularen zur Dateneingabe und zum Abruf von Verbreitungskarten. R&#228;umliche Daten werden im Zusammenspiel von PostGIS, Geoserver und OpenLayers verwaltet und dargestellt. So k&#246;nnen Nutzer Koordinaten der Fundorte punktgenau durch Klicken in eine Karte eingegeben und abfragen.
+F&#252;r den Botanischen Verein von Berlin/Brandenburg wurde basierend auf solch einem System ein floristisches GeoPortal erstellt, das dem Nutzer erm&#246;glicht, Fundorte in einer Karte sowie zus&#228;tzliche Angaben wie Datum, H&#228;ufigkeit und Fotos der Pflanze einzugeben und abzufragen. Die eingetragenen Fundorte der Arten werden in einer dynamischen Verbreitungskarte dargestellt. Au&#223;erdem k&#246;nnen bereits bestehende Datens&#228;tze mit Angaben zur Verbreitung der Pflanzenarten in Berlin/Brandenburg in das Indicia Warehouse integriert werden.</abstract>
+        <description></description>
+        <persons>
+          <person id="161">Gabriele Loh&#223; &amp; Vanessa Bremerich</person>
+        </persons>
+        <links>
+          <link href="http://flora.web-mapping.com">Floristisches Portal Berlin Brandenburg</link>
+        </links>
+      </event>
+    </room>
+    <room name="Kleiner H&#246;rsaal Geb. 308">
+      <event id="196">
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>osm_tmc</slug>
+        <title>Untersuchung der Nutzung von OpenStreetMap Daten zur Darstellung von TMC Verkehrsmeldeinformationen</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Damit Navigationssysteme bei ihrer Routenf&#252;hrung Staumeldungen nutzen k&#246;nnen, werden in der Regel die Daten des Traffic Message Channel (TMC) verwendet. TMC ist ein Dienst, der Verkehrswarnmeldungen in digitaler kodierter Form &#252;ber das UKW-Signal &#252;bermittelt. Im M&#228;rz diesen Jahres 2010 wurde von Seitens der BASt (Bundesanstalt f&#252;r Stra&#223;enbau) der Import der Location-Code-List (LCL 2010) f&#252;r Deutschland in den Datenbestand des OpenStreetMap (OSM) Projektes zugestimmt (BASt LCL 2010). Diese &#8222;standardisierte Liste&#8220; definiert alle Stra&#223;enabschnitte, Autobahnkreuze und Anschlussstellen des l&#228;nderspezifischen Stra&#223;ennetzes und beschreibt sie durch einen Code. Mittels dieser LCL ist es m&#246;glich einen Zusammenhang zwischen TMC Meldung und dem Stra&#223;ennetz zu erstellen und diese damit zum Beispiel bei einer Routenplanung zu verwenden oder auf einer Karte anzuzeigen. Seit Freigabe dieser Liste wird auf ganz Deutschland verteilt diese Liste in OSM eingepflegt. Jetzt stellt sich allerdings die Frage in welcher Anzahl die wichtigen LCL Objekte bereits in der OSM Datenbank enthalten sind und wie lassen sich diese bereits f&#252;r die Darstellung von Verkehrswarnmeldungen nutzen?
+
+Auf Basis eines Ausschnitts von OSM f&#252;r Deutschland wurden in einem ersten Versuch die wichtigsten TMC Objekte aus dem OSM Datenbestand f&#252;r Deutschland exportiert. F&#252;r OSM gibt es bereits zwei Tools die zur Qualit&#228;tskontrolle- und zur Vervollst&#228;ndigung von TMC Objekten verwendet werden k&#246;nnen (TMCmap 2010 &amp; TMChierarchical 2010). Die t&#228;glich generierten Layer, der Abteilung Geoinformatik der Universit&#228;t Heidelberg, mit den OSM TMC Objektes k&#246;nnten zus&#228;tzlich dazu genutzt werden die noch fehlenden Objekte im OSM Datenbestand zu kontrollieren und zu vervollst&#228;ndigen. 
+
+Insgesamt funktioniert der Ansatz, die f&#252;r die Anzeige und weitere Nutzung wichtigen OSM Objekte aus OSM zu exportieren. Genauere Zahlen zur Vollst&#228;ndigkeit von TMC Deutschland in OSM, wie die so erzeugten Datenlayer zur Vervollst&#228;ndigung und Kontrolle genutzt werden k&#246;nnen und was es noch f&#252;r Probleme gibt, wird im Vortrag gezeigt.
+
+
+Literaturverweise
+BASt LCL 2010: Kommunikation/BASt/LCL: http://wiki.openstreetmap.org/wiki/DE:Kommunikation/BASt/LCL
+
+LCL 2010: BASt Location Code List &#8211; http://www.bast.de/cln_007/nn_213316/DE/Aufgaben/abteilung-f/referat-f4/Location-Code-List/location-code-list-nutzungsbedingungen.html
+
+TMCmap 2010: TMC Validator map - http://osm-tmc.anders-hamburg.de/
+
+TMChierarchical 2010: TMC Validator hierarchical listing - http://osm-tmc.anders-hamburg.de/area.php?lcd=1</abstract>
+        <description></description>
+        <persons>
+          <person id="66">Pascal Neis</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="195">
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>mobile_oepnv</slug>
+        <title>Mobile Anwendung zur Routenplanung mit &#246;ffentlichen Verkehrsmitteln basierend auf Openstreetmap-Daten</title>
+        <subtitle>Mobiler &#214;PNV Routenplaner</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Das Netz &#246;ffentlicher Verkehrsmittel bestehend aus Bus, Tram-, U- und S-Bahn ist in vielen St&#228;dten im Laufe der Zeit stark gewachsen und sehr komplex geworden. Dabei ist es vor allem bei einer erstmaligen Reise zu einem bestimmten Ort unklar, wie dieser am schnellsten zu erreichen ist. Insbesondere wenn Abweichungen vom Fahrplan, die durch hohes oder niedriges Verkehrsaufkommen oder andere Zwischenf&#228;lle entstehen, dazu f&#252;hren, dass m&#246;gliche Anschlussverbindungen nicht rechtzeitig erreicht werden k&#246;nnen. Unter Ber&#252;cksichtigung entsprechender Schwankungen besteht die M&#246;glichkeit das Ziel auf einem anderen, schnelleren Weg zu erreichen. Die folgende Arbeit pr&#228;sentiert eine mobile Anwendung f&#252;r die Android Plattform in Anlehnung an [1], die mittels GPS-Daten und einem vom Benutzer eingegebenen Ziel die zum aktuellen Aufenthaltsort und Zeitpunkt ideale Route mit &#246;ffentlichen Verkehrsmitteln berechnet und gegebenenfalls aktualisiert. Die daf&#252;r notwendigen Strecken- und Haltestelleninformationen wurden aus dem OpenStreetMap Projekt extrahiert, nach bearbeitet und in ein geeignetes Datenformat &#252;berf&#252;hrt, welches die Anbindung weiterer Ressourcen, wie Stra&#223;ennamen, Abfahrtszeiten, Haltestellenbeschreibung, etc. erm&#246;glicht. Die dadurch entstandenen Wegnetze  werden als gerichtete Graphen (Stra&#223;en-, &#214;PNV-Netz) in unterschiedlichen BSP-B&#228;umen gespeichert. Die &#220;berg&#228;nge zwischen den Graphen wurden durch zus&#228;tzliche Kanten modelliert und erm&#246;glichen so eine multimodale Routenf&#252;hrung. Zu Testzwecken wurde der Gro&#223;raum M&#252;nchen verwendet, wobei das eingesetzte Routing-Verfahren bei der Ermittlung des k&#252;rzesten Weges die aktuellen Live-Abfahrtszeiten des Betreibers ber&#252;cksichtigt. </abstract>
+        <description></description>
+        <persons>
+          <person id="167">Markus Duchon</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="204">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>monav_osrm</slug>
+        <title>MoNav &amp; OSRM: 1 Jahr sp&#228;ter</title>
+        <subtitle>Mobile- und serverbasierte OSM Navigationssoftware</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Auf der FOSSGIS 2010 wurde der ein Prototyp von MoNav vorgestellt. Es bot als erstes Programm einen modernen Routenplanungsalgorithmus f&#252;r OpenStreetMap Daten und war auch f&#252;r den mobilen Einsatz geeignet.
+
+Im August 2010 wurde dann die erste &#246;ffentliche Version von MoNav verbreitet und fand gro&#223;en Anklang. Ein Jahr sp&#228;ter m&#246;chte ich nun einen Blick auf die Verbesserungen und geplanten &#196;nderungen werfen:
+ - Unterst&#252;tzung f&#252;r Maemo
+ - Umgestaltung der Benutzeroberfl&#228;che
+ - Verf&#252;gbarkeit von Fahranweisungen
+ - Routing Daemon Prozess f&#252;r LGPL Programme: Marble benutzt diesen f&#252;r Offline-Routenplanung
+ - Abbiegeverz&#246;gerungen und Verbote
+ - Lokalisierte Namensschemata
+ - Unterst&#252;tzung f&#252;r das neue Protobuf Binary Format (PBF)
+ - Automatischer Kartendownload
+
+
+==================
+
+Wie kann sehr schnelles Routing auf einem Server mit den Daten der OpenStreetMap realisiert werden. Dieser Frage widmet sich das Projekt der Open Source Routing Machine (OSRM). 
+
+Bei der FossGIS 2010 wurde die Open Source Routing Machine angek&#252;ndigt. Sie erschien zur SOTM 2010 als Open Source Projekt und erfreut sich seitdem einiger Beliebtheit. Bereits in der ersten Woche wurde der Code 1700 Mal heruntergeladen und die Demo-Website hat mehr als 8000 Anfragen an Spitzenzeiten beantwortet. Gemessen an den M&#246;glichkeiten ist das Projekt noch sehr jung und wird in Zukunft noch weiter wachsen. Die Erfahrung von OSRM zeigt, dass die Kartendaten von OpenStreetMap in Kombination mit guten Anwendungen das Potential haben nicht nur die Qualit&#228;t von bereits etablierten, kommerziellen Produkten zu erreichen, sondern diese auch noch in Punkto Qualit&#228;t zu &#252;bertreffen.
+
+Aus der OpenStreetMap-Community kamen seit der ersten Ank&#252;ndigung eine gro&#223;e Zahl an Verbesserungs- und Erweiterungsvorschl&#228;gen. Der h&#228;ufigste Vorschlag sind sinnvolle Fahranweisungen, die mit dem Release zur FOSSGIS 2011 voll unterst&#252;tzt werden. Exemplarisch f&#252;r die denkbaren Einsatzgebiete von OSRM werden zwei Projekte aus der Industrie und eins aus der Wissenschaft vorgestellt, in denen OSRM bereits sehr erfolgreich eingesetzt wird und wo sogar kommerzielle Produkte durch Open Source Software verdr&#228;ngt wurden. 
+
+Der Vortrag zeichnet die Entwicklung der vergangenen 12 Monate von der ersten Version bis zur aktuellen Fassung nach und gibt einen Ausblick auf kommende Neuerungen, die 2011 kommen werden.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="200">Christian Vetter</person>
+          <person id="129">Dennis Luxen</person>
+        </persons>
+        <links>
+          <link href="http://routed.sf.net">OSRM Projektseite</link>
+        </links>
+      </event>
+      <event id="279">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>haltestellen_import</slug>
+        <title>Haltestellen Import in der Schweiz</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Haltestellen Import in der Schweiz
+
+Das Schweizer Bundesamt f&#252;r Verkehr (BAV) hat das Verzeichnis der Schweizer Haltestellen
+(Didok-Liste)[1] OpenStreetMap zur Verf&#252;gung gestellt. In dieser Liste sind die meisten
+Schweizer Haltestellen mit Namen und Koordinaten, sowie einigen weitere Informationen aufgelistet.
+Da zu diesem Zeitpunkt schon einige tausend Haltestellen in der OpenStreetMap-Datenbank
+existierten, war ein einfacher Komplettimport ausgeschlossen. Stattdessen sollten die Didok-Daten
+die bereits bestehenden OSM-Daten erg&#228;nzen.
+
+Die Frage war nun: Wie importieren wir die Haltestellen, ohne dass OSM-Daten verloren gehen, aber
+auch keine Haltestellen danach doppelt vorhanden sind. Dies wurde mit einem halbautomatischen
+System erzielt. In einem ersten Schritt wurden die Haltestellen mit einem einfachen Skript
+einander zugeordnet. Als n&#228;chstes konnte das Ergebnis mit Hilfe eines Web-Frontend von den Mappern
+noch vor dem Import kontrolliert und einzelne Zuordnungen korrigiert werden. Im Vortrag werden wir
+auf unsere spezifische Umsetzung der beiden Stufen eingehen, und einige Probleme, auf die wir
+gestossen sind, und erl&#228;utern m&#246;gliche L&#246;sungen.
+
+[1] http://www.bav.admin.ch/dokumentation/publikationen/00475/01497/index.html</abstract>
+        <description></description>
+        <persons>
+          <person id="197">Michael Spreng</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="191">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>oepnv_vrs_aav</slug>
+        <title>&#214;PNV bei OpenStreetMap </title>
+        <subtitle>Warum der Verkehrsverbund Rhein-Sieg (VRS) und der Aachener Verkehrsverbund (AVV) sich bei OSM engagieren</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Der Verkehrsverbund Rhein-Sieg (VRS) und der Aachener Verkehrsverbund (AVV) sehen den &#214;ffentlichen Personenverkehr (&#214;PNV) als zentrales Element bei OSM, von dessen stetiger inhaltlicher Verbesserung und Weiterentwicklung beide Seiten &#8211; OSM und die Verkehrsverb&#252;nde &#8211; positiv partizipieren.</abstract>
+        <description>Der Einsatz von OpenStreetMap (OSM) bietet auch f&#252;r die Verkehrsverb&#252;nde in Deutschland mannigfaltige M&#246;glichkeiten. Schon fr&#252;hzeitig haben dies sowohl der VRS als auch der AVV erkannt und bringen sich seit 2008 intensiv bei OSM ein.
+Dies beinhaltet eine breite Palette: Vom Austausch mit den &#246;rtlichen Communities; als konkreter &#214;PNV-Ansprechpartner, wie und was bei den Verkehrsverb&#252;nden funktioniert bzw. umsetzbar ist; einem Bericht im OSMBlog (http://blog.openstreetmap.de/2010/09/openstreetmap-und-offentlicher-nahverkehr-vrs-avv/); einem erstem Workshop-Angebot zur Konkretisierung des &#214;PNV-Tagging (http://wiki.openstreetmap.org/wiki/VRS_Workshop) bis hin zu ersten Umsetzungen (http://www.avv.de/ressorts/meine-verbindung/verbindung-suchen/online/) auf den Internetseiten der Verb&#252;nde. So stellt z.B. die (Bundes-)l&#228;nder&#252;bergreifende Verf&#252;gbarkeit von OSM-Karten f&#252;r AVV und VRS eine wesentliche interne administrative Verbesserung bei hoher Qualit&#228;t dar.
+Vergangenheit und Zukunft
+Im VRS wurde Mitte 2009 die Datenfreigabe f&#252;r OSM beschlossen, so dass seitdem der Zugriff auf Haltestellen und Linienverlaufsinformationen besteht. Zuk&#252;nftig ist auch der Zugriff auf die Fahrplandaten geplant. Ferner wurde ein eigener OSM-WMS-Server wurde f&#252;r die zuk&#252;nftigen Aufgaben erstellt.
+Gemeinsam planen AVV und VRS auch die Erarbeitung und Finanzierung eines &#214;PNV-Plugin f&#252;r den Editor JOSM.
+OpenSource als Leitbild
+AVV und VRS setzen auf OpenSource. Server und Contentmanagementsystem beim AVV und VRS basieren schon seit l&#228;ngerem auf OpenSource-Komponenten. Die Umstellung der Benutzerschnittstelle der Internet-Fahrplanauskunft beim AVV auf OpenSource-Komponenten ist aber eine echte Innovation in diesem Bereich. Entwicklungsaufwand und -zeit konnten durch den Einsatz fertiger OpenSource-Komponenten erheblich reduziert werden. Der VRS wird ab 2011 nachziehen. Mit der Kombination von OpenSource-Komponenten und der OpenStreetMap-Karte kommen AVV und VRS ihrer Verantwortung nach, besonders sparsam mit den &#246;ffentlichen Mitteln zu haushalten. Ein weiterer Vorteil von OpenSource f&#252;r den AVV und VRS ist, dass sie nicht langfristig an einen einzelnen Softwareanbieter gebunden sind und so einen hohen Freiheitsgrad bei der Vergabe k&#252;nftiger Auftr&#228;ge im Zusammenhang mit der Fahrplanauskunft haben.</description>
+        <persons>
+          <person id="148">Marcel H&#246;velmann</person>
+          <person id="219">Thomas Reincke</person>
+        </persons>
+        <links>
+          <link href="http://www.vrsinfo.de/">http://www.vrsinfo.de/</link>
+          <link href="http://www.avv.de">http://www.avv.de</link>
+          <link href="http://wiki.openstreetmap.org/wiki/VRS">http://wiki.openstreetmap.org/wiki/VRS</link>
+          <link href="http://wiki.openstreetmap.org/wiki/AVV">http://wiki.openstreetmap.org/wiki/AVV</link>
+        </links>
+      </event>
+      <event id="200">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>oepnv-tagging</slug>
+        <title>&#214;PNV-Tagging in OpenStreetMap</title>
+        <subtitle>Der &#246;ffentliche Personennahverkehr und seine Erfassung in OpenStreetMap</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Zur Erfassung von Haltestellen / Linien des &#246;ffentlichen Personen Nahverkehrs (&#214;PNV) gibt es bei OpenStreetMap mehrere verbreitete Schemen. 
+
+- Das &#228;ltere Schema zeichnet sich durch relative Einfachheit aus, st&#246;&#223;t jedoch bei komplexen Situationen wie Alternativ-Routen an seine Grenzen. 
+- Das neuere Oxomoa Schema erfordert mehr Details, insbesondere eine Route je Richtung und Alternative. Dadurch k&#246;nnen auch sehr komplexe Situationen bei Haltestellen und Routen erfasst werden. 
+- Da die Praxis mit dem Oxomoa-Schema einige Unklarheiten aufgedeckt hat gibt es (Stand M&#228;rz 2011) einen Vorschlag der auf den Ideen und etablierten Tagging von Oxomoa aufbaut und offene Punkte sowie einige umstrittene Punkte durch zus&#228;tzliche Festlegungen addressiert. 
+
+Das Oxomoa Schema und der aktuelle Vorschlag werden in diesem Vortrag beleuchtet. 
+
+Zielgruppe: Personen, die sich f&#252;r das Erfassen von &#214;PNV interessieren </abstract>
+        <description>Das Erfassen von Haltestellen / Linien des &#246;ffentlichen Personen Nahverkehrs (&#214;PNV) ist eine komplexe Aufgabe. Es gilt hierbei eine Vielzahl von Fakten und Zusammenh&#228;n&#173;gen zu ber&#252;cksichtigen. Dazu gibt es mehrere verbreitete Schemen. Das ist einerseits das &#228;ltere, einfachere Schema (ohne einen speziellen Namen) und das nach dem User Oxomoa benannte neuere und komplexere Schema, sowie die Fortschreibung durch einen aktuellen Vorschlag. 
+
+Das &#228;ltere Schema zeichnet sich durch Einfachheit aus (ein Punkt je Haltestelle, eine Route je Linie), ist jedoch kaum in der Lage, komplexe Situationen wie Haltestellen &#252;ber Eck oder Linien mit Alternativ-Routen ad&#228;quat abzubilden. Sprich es st&#246;&#223;t in der kom&#173;plexen Realit&#228;t des &#214;PNV an seine Grenzen. 
+
+Das neue Schema nach Oxomoa und dessen Fortschreibung versuchen diese Nachteile zu vermeiden, indem es wesentlich mehr Details erfasst. Haltestellen werden nach Stopp- und Zugangsstelle getrennt. &#214;PNV-Linien werden je Fahrtrichtung als eigene Route erfasst. Damit entf&#228;llt das Problem der abweichenden Linienf&#252;hrung f&#252;r Hin- und R&#252;ckweg. 
+
+Im Vortrag werden das neuere Schema nach Oxomoa und dessen Fortschreibung vorgestellt. Es wird darauf eingegangen, welche Auswirkungen das detailierte Erfassen von Haltestellen und nach Fahrtrichtung getrennten Routen f&#252;r die M&#246;glichkeit haben, Informationen zum &#214;PNV in OpenStreetmap einzugeben. 
+
+Durch das getrennte Erfassen von Stopp- und Zugangsstellen k&#246;nnen auch komplexere Situationen wie Haltestellen &#252;ber Eck oder Bahnh&#246;fe mit mehreren Gleisen (Stoppstellen) und Bahnsteigen (Zugangsstellen) adequat erfasst werden. Die Teile einer solchen komplexen Haltestelle werden mit einer Relation zu einem zusammengeh&#246;rigen Objekt zusammen gefasst. 
+
+Die Erfassung der Linienf&#252;hrung in Relationen getrennt nach Fahrtrichtung und Varianten erlaubt es auch Linien mit komplizierter Streckenf&#252;hrung angemessen zu erfassen. Dies wiederum erfordert eine 'Sammelrelation' um alle Teile einer Linie zu einem Objekt zusammen zu fassen. </description>
+        <persons>
+          <person id="171">Edbert van Eimeren</person>
+        </persons>
+        <links>
+          <link href="http://wiki.openstreetmap.org/wiki/Proposed_features/Public_Transport">Vorschlag Public-Transport</link>
+          <link href="http://wiki.openstreetmap.org/wiki/User:Oxomoa/%C3%96PNV-Schema">Dokumentation des Oxomoa Schemas</link>
+        </links>
+      </event>
+      <event id="321">
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>lightning_osm_1</slug>
+        <title>Lightning Talks OSM I</title>
+        <subtitle></subtitle>
+        <track>Lightning Talks (OSM)</track>
+        <type></type>
+        <language></language>
+        <abstract>Lightning Talks OSM I</abstract>
+        <description>Lightning Talks OSM I</description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="264">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>navi_e-fahrzeuge</slug>
+        <title>Implementierung eines Navis f&#252;r E-Fahrzeuge - Auf Basis von OpenStreetMap Daten -</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>student_project</type>
+        <language>de</language>
+        <abstract>Fahrzeuge mit Elektromotoren (z.B. Rollst&#252;hle) sind in Ihrem Bewegungsraum durch ihre Akku-Kapazit&#228;t und ihren Stromerbrauch eingeschr&#228;nkt. Diese beiden Faktoren sind wiederum stark abh&#228;ngig von der Steigung und dem Belag des zur&#252;ckgelegten Weges. Je gr&#246;&#223;er die zu bew&#228;ltigende Steigung und je unebener der Belag, desto schneller sinkt der Akkustand und damit die maximal erreichbare Strecke. 
+Die Geodatensammlung des OpenStreetMap Projektes hat bereits gezeigt, dass  Informationen wie  Steigung und Oberfl&#228;chenbelag eines Weges teilweise in dem Datenbestand aufgenommen werden. Nur inwieweit lassen sie diese Informationen f&#252;r eine Routenplanung verwenden? Auf Basis des Routenplaners f&#252;r Rollstuhlfahrer von http://www.rollstuhlrouting.de wird eine prototypische Version eines Navigationssystems f&#252;r Elektro-Fahrzeuge entwickelt. Als Basis f&#252;r einen mobilen Client soll dabei die Open Source Android Navigations-Software AndNav (http://www.andnav.org ) eingesetzt werden, die auf die neuen Anforderungen f&#252;r die Navigation von Elektofahrzeugen angepasst wird.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="191">Dzenan Dzafic</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="215">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>wheelmap</slug>
+        <title>Mapping f&#252;r einen sozialen Zweck</title>
+        <subtitle>Ein Jahr Wheelmap.org</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>In Deutschland leben ca. 1,6 Millionen Menschen, die auf einen Rollstuhl angewiesen sind. Weltweit liegt die Zahl bei ca. 185 Millionen. Sie alle wollen am &#246;ffentlichen Leben teilnehmen. Wollen sie z.B. in ein Restaurant gehen, so lautet ihre wichtigste Frage: Ist dieser Ort rollstuhlgerecht?
+
+Wheelmap.org ist ein Online-Stadtplan der sich auf diese Frage spezialisiert. Seit September 2010 kann hier jeder rollstuhlgerechte Orte finden und selbst eintragen. Auch Orte, die nur eingeschr&#228;nkt oder gar nicht rollstuhlgerecht sind werden verzeichnet. Die Daten kommen aus Openstreetmap und neue Eintr&#228;ge werden auch wieder dort zur&#252;ckgespielt. Neben der Online-Karte steht auch eine kostenlose iPhone-Applikation zu Verf&#252;gung. Mehr als 20.000 Datens&#228;tze sind so bereits zusammen gekommen. T&#228;glich werden 300 Orte gemeldet, Tendenz steigend.
+
+Mit den generierten Daten gibt wheelmap.org zum einen Orientierung bei der Suche nach rollstuhlgerechten Orten. Zum anderen m&#246;chte das Projekt Ortsbesitzer motivieren, &#252;ber Barrierefreiheit in ihren R&#228;umlichkeiten nachzudenken und diese m&#246;glichst rollstuhlgerecht umzugestalten.
+
+Wheelmap.org ist ein Projekt der Sozialhelden - einer Gruppe von engagierten jungen Menschen, die seit 2004 gemeinsam kreative Projekte entwickeln, um auf soziale Probleme aufmerksam zu machen und sie im besten Fall zu beseitigen.
+
+Wie kann soziales Mapping funktionieren? Wie k&#246;nnen die betroffenen Gruppen an die Openstreetmap herangef&#252;hrt werden? Welche Herausforderungen bestanden und bestehen f&#252;r soziale Vereine, wenn sie Openstreetmap einsetzen? Dies und mehr ist das Thema dieses Vortrages.</abstract>
+        <description></description>
+        <persons>
+          <person id="172">Holger Dieterich</person>
+        </persons>
+        <links>
+          <link href="http://wheelmap.org">Wheelmap.org</link>
+          <link href="http://blog.wheelmap.org">Wheelmap Blog</link>
+          <link href="http://twitter.com/wheelmaporg">Wheelmap auf Twitter</link>
+        </links>
+      </event>
+      <event id="273">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>atkis_basis_dlm</slug>
+        <title>ATKIS-Basis-DLM und OpenStreetMap  </title>
+        <subtitle>Ein Datenvergleich anhand ausgew&#228;hlter Gebiete in Niedersachsen</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>student_project</type>
+        <language>de</language>
+        <abstract>Im Rahmen einer Bachelorarbeit an der Universit&#228;t Osnabr&#252;ck ist ein Vergleich der Basis-DLM-Daten des Amtlichen Topographisch-Kartographischen Informationssystems (ATKIS) mit den frei verf&#252;gbaren OpenStreetMap-Daten durchgef&#252;hrt worden. Der Vergleich erfolgte exemplarisch anhand eines Ober-, Mittel- und Grundzentrums in Niedersachsen. Letztlich konnte eine Aussage &#252;ber die Qualit&#228;t und Anwendbarkeit sowohl der amtlichen als auch der frei verf&#252;gbaren Geodaten getroffen werden.
+Die Datens&#228;tze wurden in erster Linie im Hinblick auf die Qualit&#228;tsmerkmale Vollst&#228;ndigkeit und Positionsgenauigkeit untersucht. F&#252;r den Vergleich wurden die Datens&#228;tze in PostgreSQL-/PostGIS-Datenbanken gespeichert, mit Hilfe von PL/pgSQL-Abfragen analysiert und in einem GIS sowie mittels Tabellen visuell aufbereitet. Dar&#252;ber hinaus wurden Tools und M&#246;glichkeiten zur Konvertierung von OpenStreetMap-Daten in das ESRI Shape-Format vorgestellt.
+Im Ergebnis hat sich gezeigt, dass die OpenStreetMap-Daten, vor allem in gr&#246;&#223;eren St&#228;dten, eine gute Positionsgenauigkeit und teilweise h&#246;here Vollst&#228;ndigkeit aufweisen als die ATKIS-Basis-DLM-Daten, welche jedoch eine konstant hohe Datendichte und Genauigkeit besitzen und somit verl&#228;sslicher sind.</abstract>
+        <description></description>
+        <persons>
+          <person id="193">Mareike Schoof</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="278">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>wanderwege</slug>
+        <title>Wanderwege weltweit</title>
+        <subtitle>Ein Karten-Overlay aus OpenStreetMap-Daten</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Wanderwege erfreuen sich auf der ganzen Welt wachsender Beliebtheit. Projekte reichen vom mehrere tausend Kilometer langen Transcanada-Trail &#252;ber die historischen Jakobswege in Europa bis zu wenige  Kilometer langen Stadtrundg&#228;ngen. OpenStreetMap (OSM) erlaubt zum ersten Mal, diese meist lokal vorangetriebenen Projekte in einer Datenbank zu sammeln und vor allem gemeinsam darzustellen.
+
+Das wiki-artige Konzept von OSM bietet theoretisch die besten Voraussetzungen zur Herstellung von Karten f&#252;r spezielle Interessen. In der Praxis bestehen jedoch einige H&#252;rden: das Erstellen eines eigenen Kartenstils ist sehr aufw&#228;ndig und das Rendern von Karten f&#252;r den ganzen Erdball stellt hohe Anforderungen an die Hardware. Um diese Schwierigkeiten zu umgehen sind wir bei der Erstellung der weltweiten Wanderkarte einen anderen Weg gegangen und erstellen anstatt einer vollst&#228;ndigen Karte nur einen Overlay. Eine spezielle Anwendung leitet daf&#252;r aus den OSM-Daten eine spezialisierte Wanderdatenbank ab, die dann benutzt wird, um genau die Gegenden zu rendern, f&#252;r die Karte von Interesse sind. Auf diese Weise kann auf einem Standard-PC eine t&#228;glich aktualisierte, weltweit verf&#252;gbare Karte hergestellt werden.
+
+Der Vortrag gibt einen &#220;berblick &#252;ber die Entwicklung der weltweiten Wanderkarte. Er beleuchtet etwas n&#228;her die Herausforderungen, die sich bei der Verarbeitung so heterogener Daten ergeben und erkl&#228;rt dann ausf&#252;hrlich den Erstellungs- und Aktualisierungsprozess des Overlays von der Datenaufbereitung bis zur Darstellung im Browser. </abstract>
+        <description></description>
+        <persons>
+          <person id="195">Sarah Hoffmann</person>
+        </persons>
+        <links>
+          <link href="http://osm.lonvia.de/world_hiking.html">Markierte Wanderwege der Welt</link>
+        </links>
+      </event>
+      <event id="164">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>wikipedia_osm</slug>
+        <title>Wikipedia &amp; OpenStreetMap</title>
+        <subtitle>Kartenintegration und Datenaustausch</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Viele Wikipedia-Artikel enthalten Koordinaten. Damit kann ein geografischer Ort in einer Karte gezeigt werden. Die OpenStreetMap-Einbindung in der Wikipedia &#246;ffnet dem Leser auf Knopfdruck eine im Artikel eingebundene OpenStreetMap-Karte mit Bildern und Links zu weiteren Wikipedia-Artikeln.
+
+Umgekehrt kann auch der Datenbestand von OpenStreetMap von der Zusammenarbeit profitieren, so verf&#252;gt die Wikipedia, dank der Interwikilinks &#252;ber eine Vielzahl von &#220;bersetzung zu geographischen Objekten. Es wurde u.a. ein Tool geschrieben um die Verkn&#252;pfung der Daten von OSM und Wikipedia vorran zu treiben. 
+
+Wikimedia e.V. wurde ein Server innerhalb des Toolserver-Clusters bereitgestellt, der Entwicklern von freien Tools zum Umgang mit Geodaten und zum Rendern von Kartenstyles offen steht.  
+ 
+Der Vortrag wird den Stand der Dinge und die M&#246;glichkeiten der weiteren Zusammenarbeit beider Projekte aufzeichnen.</abstract>
+        <description></description>
+        <persons>
+          <person id="96">Tim Alder</person>
+        </persons>
+        <links>
+          <link href="http://de.wikipedia.org/wiki/Hilfe:OpenStreetMap">http://de.wikipedia.org/wiki/Hilfe:OpenStreetMap</link>
+          <link href="http://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Georeferenzierung/Wikipedia-World">http://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Georeferenzierung/Wikipedia-World</link>
+          <link href="http://wiki.openstreetmap.org/wiki/JOSM/Plugins/RemoteControl/Add-tags">Add-tags Tool</link>
+          <link href="http://commons.wikimedia.org/wiki/File:Fossgis2011-WP-GEO.pdf">Slides</link>
+        </links>
+      </event>
+      <event id="323">
+        <start>17:30</start>
+        <duration>01:00</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>osm_lizenz</slug>
+        <title>Die neue OpenStreetMap-Lizenz</title>
+        <subtitle>Vorstellung und Er&#246;rterung</subtitle>
+        <track>Community Sessions</track>
+        <type></type>
+        <language></language>
+        <abstract>Dieser Vortrag stellt die neue ODbL-Lizenz vor, die bei OpenStreetMap zum Einsatz kommen soll, und vergleicht sie mit der alten CC-BY-SA-Lizenz. </abstract>
+        <description></description>
+        <persons>
+          <person id="95">Frederik Ramm</person>
+          <person id="82">Ulf M&#246;ller</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="H&#246;rsaal Geb. 227">
+      <event id="193">
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>gvSIG Desktop, Network, Sextante, GDI-Client, NavTable und mehr</title>
+        <subtitle>Einblick in die Komponenten einer freien Software</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>gvSIG als leistungsstarkes DesktopGIS hat sich seit 2004 kontinuierlich weiterentwickelt und als Alternative f&#252;r propiet&#228;re Software weiter etabliert. 
+Die Software bietet eine enorme Anzahl an Funktionen zur Geodatenverwaltung, -analyse, Tabellenmanagement und Gestaltung eines Drucklayouts an. 
+Zahlreiche Erweiterungen und die Interoperabilit&#228;t mit anderen FOSS-Produkten bieten zus&#228;tzliche M&#246;glichkeiten, die das Leistungsspektrum des DesktopGIS noch weiter st&#228;rken. 
+Der Beitrag will einen &#220;berblick zu gvSIG geben, welches sich durch Erweiterungen und die Anbindung an Zusatzsoftware in ein leistungsstarkes Open Source- Produkt entwickelt hat. </abstract>
+        <description></description>
+        <persons>
+          <person id="68">Ruth Sch&#246;nbuchner</person>
+        </persons>
+        <links>
+          <link href="http://gvig.org">Webplattform gvSIG</link>
+          <link href="http://forge.osor.eu/tracker/?func=browse&amp;group_id=89&amp;atid=732">Bug tracking</link>
+        </links>
+      </event>
+      <event id="167">
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Analyse von Punktwolken mit Open Source GIS SAGA</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Innerhalb der letzten Jahre hat sich flugzeuggest&#252;tztes Laserscanning (Airborne Laser Scanning, ALS) zu einem operationell einsetzbaren Fernerkundungsverfahren zur Ableitung hochaufl&#246;sender topographischer Information entwickelt. Die geometrische Information der gescannte Fl&#228;che wird in Form einer 3D Punktwolke abgespeichert, welche die Erdoberfl&#228;che im Aufnahmegebiet beschreibt. Neben den X,Y,Z Koordinaten werden f&#252;r jeden Punkt noch weitere Informationen, wie zum Beispiel die Intensit&#228;t des reflektierten Laserschusses erfasst. Die Verwaltung, Verarbeitung und Analyse der enormen Punktdaten stellen gro&#223;e Herausforderungen an die einzusetzende Software dar. Eine Prozessierung innerhalb von gew&#246;hnlichen Geographischen Informationssystemen (GIS) ist durch eine Konvertierung der 3D Punktwolke in ein 2.5D Rasterformat m&#246;glich. Dieser Schritt ist jedoch mit einem irreversiblen Verlust der dritten Dimension und einer damit einhergehenden Reduktion der Datenmengen verbunden. Dadurch k&#246;nnen allerdings sehr gro&#223;e Untersuchungsgebiete mit vergleichbar wenig Rechenaufwand innerhalb von Standard GIS Software prozessiert und analysiert werden. 
+Das Open Source GIS SAGA (System f&#252;r Automatisierte Geowissenschaftliche Analysen) wurde um eine neue Datenobjekt-Klasse f&#252;r die  Prozessierung und Analyse der originalen 3D Punktdaten erweitert. Dadurch k&#246;nnen viele Anwendungen wie zum Beispiel Solarpotenzialanalysen oder 3D Geb&#228;udemodellierungen mit einem h&#246;heren Grad an Genauigkeit ausgef&#252;hrt werden. Allerdings werden die in SAGA GIS implementierten punktwolkenbasierten Rechenoperationen haupts&#228;chlich im Hauptspeicher des Computers ausgef&#252;hrt und sind somit auf kleine Untersuchungsgebiete beschr&#228;nkt. Dieser Artikel stellt einen Workflow vor, mit welchem punktwolkenbasierte Analysen (z.B. Berechnung von Neigung, Exposition und Transparenz von Objekten) fl&#228;chendeckend ausgef&#252;hrt werden k&#246;nnen. Dabei werden die enormen Datenmengen in einer PostgreSQL/PostGIS Datenbank verwaltet. Eine Unterteilung des Untersuchungsgebietes in mehrere kleinere sich &#252;berlappende Kacheln erm&#246;glicht eine Prozessierung innerhalb von SAGA GIS. Eine Beschleunigung der Prozessierung des gesamten Untersuchungsgebietes kann durch den Einsatz von Computerclustern und der parallelen Verarbeitung der einzelnen Kacheln erreicht werden.</abstract>
+        <description></description>
+        <persons>
+          <person id="145">Andreas Jochem</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="261">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Neue Entwicklungen und Features vom Quantum GIS Projekt</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Das QGIS Projekt hat zum Ziel, ein plattformunabh&#228;ngiges, einfach zu bedienendes und offenes Desktop GIS zu entwickeln. Im vergangenen Jahr hat die Aktivit&#228;t in der QGIS-Community erneut zugenommen. Seit der letzten FOSSGIS Konferenz in Osnabr&#252;ck hat sich QGIS wieder enorm weiterentwickelt. Sucht man sich (aus der Liste der svn commits) alle Neuerungen des letzten Jahres heraus, so kommt man auf eine Liste, die den Rahmen dieses Artikels bei weitem sprengen w&#252;rde. Daher stellen wir im Rahmen des Vortrags lediglich eine kleine Auswahl der Entwicklungen der aktuellen und der kommenden Versionen vor. Dazu z&#228;hlen u.a.:
+
+* QGIS kann als Mapserver fungieren. QGIS Projektfiles k&#246;nnen als zentrale Konfigurationsdatei von Webdiensten verwendet werden und &#252;ber das OGC-WMS-Protokoll zur Verf&#252;gung zu stellen
+* QGIS unterst&#252;tzt nun auch WFS-T
+* RasterCalculator: Native (C++-) Rasterrechner-Implementierung, die effizient mit gro&#223;en Rastern umgehen kann.
+* Unterst&#252;tzung f&#252;r nicht-r&#228;umlicher Tabellen (gegenw&#228;rtig im OGR-, getrennter Text- und PostgreSQL-Provider)</abstract>
+        <description></description>
+        <persons>
+          <person id="121">J&#252;rgen Fischer</person>
+          <person id="151">Marco Hugentobler</person>
+          <person id="9">Otto Dassau</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="182">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Visualisierung raum-zeitlicher Daten in Geoinformationssystemen am Beispiel von Quantum GIS mit &#8222;Time Manager&#8220;-Plug-In</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Die Analyse raum-zeitlicher Daten in Geoinformationssystemen war bisher aufgrund fehlender Werkzeuge sehr aufwendig. Dieses Paper beschreibt Problemstellung und Ans&#228;tze zur Visualisierung raum-zeitlicher Daten. Im zweiten Abschnitt pr&#228;sentiert es die Implementation eines entsprechenden Werkzeuges f&#252;r das Open-Source Geoinformationssystem Quantum GIS.</abstract>
+        <description></description>
+        <persons>
+          <person id="156">Anita Graser</person>
+        </persons>
+        <links>
+          <link href="http://www.geofrogger.net/trac/">Time Manager project homepage</link>
+        </links>
+      </event>
+      <event id="171">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>gvSIG in der GIS-Ausbildung  &#8211; Best Practice Projekte an der HFT Stuttgart</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Im Rahmen der GIS Ausbildung im Masterkurs Photogrammetry and Geoinformatics an der Hochschule f&#252;r Technik Stuttgart findet ein zweiw&#246;chiges Studio statt, in dem die Studierenden mehrere Mini-Projekte bearbeiten m&#252;ssen. Diese decken einige typische GIS-Aufgaben ab, wie z.B. Hangrutschungsanalyse, Berechnung von Bodenerosion, Berechnung hydrologischer Parameter, Vektor- bzw. Rasterdaten basierte Standortanalysen. Bisher wurden die Projekte mit einer propriet&#228;ren GIS-Software bearbeitet. In einem studentischen Projekt wurde gepr&#252;ft, ob und in wie weit gvSIG mit SEXTANTE in Zukunft diese propriet&#228;re Software abl&#246;sen kann. In der Pr&#228;sentation werden einige der Projekte anhand der Arbeitsschritte kurz vorgestellt. Es wird diskutiert, welche Arbeitsschritte mit gvSIG und SEXTANTE m&#246;glich sind bzw. wo im Arbeitsablauf noch L&#252;cken vorhanden sind und Probleme aufgetreten sind.
+In einem abschlie&#223;enden Fazit wird die Einsatzm&#246;glichkeit von gvSIG in der Lehre beurteilt.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="150">Dietrich Schr&#246;der</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="227">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Konfektionierung von QGIS f&#252;r spezielle Projekte</title>
+        <subtitle>Qgis f&#252;r die eigenen Bed&#252;rfnisse einrichten</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Quantum GIS bietet vielf&#228;ltige M&#246;glichkeiten, sein Aussehen und seine Funktionalit&#228;t anzupassen und zu erweitern. Der Vortrag m&#246;chte diese M&#246;glichkeiten aufzeigen und an einem konkreten Beispiel illustrieren.</abstract>
+        <description>Quantum GIS bietet vielf&#228;ltige M&#246;glichkeiten, sein Aussehen und seinen Funktionsumfang anzupassen und zu erweitern. 
+Dazu geh&#246;ren die QGIS-internen Optionen sowie auch die M&#246;glichkeit spezielle Konfigurationsfiles einzusetzen. 
+Weiter sollen auch die M&#246;glichkeiten von PyQGis demonstiert werden, vom Plugin bis hin zur eigenst&#228;ndigen Standalone-Applikation.
+
+- Konfiguration von QGIS f&#252;r einzelne Benutzer in verschiedenen Benutzerrollen
+- Angepasste Formulare f&#252;r die Abfrage und Erfassung von Daten
+- Darstellung von Layern und Einsatz von Formularen (QT-Designer)
+- M&#246;glichkeiten von Plugins (Layerverwaltung, Darstellung, Erfassungswerkzeuge)
+- PyQGis als Standalone-Applikation f&#252;r spezifische Aufgaben 
+
+Als Beispiel dient dazu das Nachrichteninformationssystem des Kantonalen F&#252;hrungsstabes. 
+</description>
+        <persons>
+          <person id="14">C&#233;dric M&#246;ri</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="222">
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Imp &#8211; INSPIRE metadata parser</title>
+        <subtitle>PHP-basierter INSPIRE Metadaten Parser</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Im Zuge der INSPIRE-Richlinie (engl. INfrastructure for SPatial InfoRmation in Europe; "Richtlinie 2007/2/EG des Europ&#228;ischen Parlaments und des Rates vom 14. M&#228;rz 2007 zur Schaffung einer Geodateninfrastruktur in der Europ&#228;ischen Gemeinschaft") werden immer mehr Geodaten &#252;ber entsprechende Katalogdienste recherchierbar und auffindbar gemacht. Die OGC-konformen Katalogdienste, Catalogue Service Web (CS-W), geben Auskunft &#252;ber Aktualit&#228;t, Qualit&#228;t, r&#228;umliche Abdeckung und Herkunft von Geodaten, Geodatendiensten und Applikationen.
+Aus technischer Sicht werden die Metadaten gem&#228;&#223; dem INSPIRE-Profil als XML-Dateien ausgetauscht. Die Komplexit&#228;t der XML-Daten macht es dem Nutzer schwer, ein gezieltes Auslesen der gew&#252;nschten Informationen vorzunehmen. Auch die direkte Einbindung in (webbasierte) Applikationen ist nicht m&#246;glich. Um diesen Anforderungen gerecht zu werden muss ein entsprechendes XML-Verarbeitungsprogramm (Parser) vorhanden sein. Solch ein Parser soll in diesem Vortrag vorgestellt werden.
+Imp (INSPIRE metadata parser, engl. Teufelchen) ist in objektorientiertem PHP implementiert und stellt einen XML-Parser f&#252;r eine in der Praxis gebr&#228;uchliche Submenge der nach INSPIRE geforderten Auszeichnungen bereit. Neben der Ausgabe als natives PHP-Objekt wird eine R&#252;ckgabe der Daten als JSON/JSONP zur direkten Weiterverarbeitung in JavaScript-Applikationen angeboten. Auch eine HTML-Schnittstelle zur menschenlesbaren Ausgabe der Metadaten ist implementiert. Imp erwartet als Eingabeparameter eine &#8222;GetRecordsResponse&#8220;, das Antwortdokument eines CS-W. Der R&#252;ckgabewert JSON/JSONP ist f&#252;r viele Anwendungen deutlich einfacher verarbeitbar als das urspr&#252;ngliche XML und au&#223;erdem f&#252;r den Netzwerkverkehr unter Performanzgesichtspunkten besser geeignet.
+Erstmalig implementiert wurde Imp anl&#228;sslich der Umsetzung des Geoportals Brandenburg (http://www.geoportal.brandenburg.de) und kam des weiteren im Geoportal Raumordnung Baden-W&#252;rttemberg (dort im Zusammenspiel mit der Metadatensoftware Geonetwork Open Source) zum Einsatz.
+Im Vortrag wird die technische Implementierung pr&#228;sentiert sowie die Verwendbarkeit an ein bis zwei Beispielen demonstriert. 
+Das Projekt Imp soll auf der FOSSGIS 2011 pr&#228;sentiert und in diesem Rahmen unter einer Open-Source Lizenz der &#214;ffentlichkeit zur Verf&#252;gung gestellt werden.</abstract>
+        <description></description>
+        <persons>
+          <person id="163">Christian Mayer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="307">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Was bringt uns die Resourcen-orientierte Architektur?</title>
+        <subtitle>Ein Exkurs in das Web der Geodaten</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Nach dem SOA-Hype kam der Mash-Up-Hype und dann der RESTful-API-Hype. Was bedeuten diese Trends f&#252;r die Geodatenverarbeitung und OSM? Alle Ans&#228;tze lassen sich letztendlich auf die "Resource Oriented Architecture" zur&#252;ckf&#252;hren, die es schon so lange gibt wie das Internet selbst, aber erst in den letzten Jahren zunehmend als theoretisches Architekturmuster wahrgenommen wird. Die ROA setzte sich nun zunehmend auch in Architektur-Entw&#252;rfen durch, wird aber immer noch oft missverstanden oder es werden einzelne Aspekte mit religi&#246;sem Eifer als allein selig machende L&#246;sung angepriesen.  
+
+Wie so oft liegt die Ruhe in der Mitte. Der Vortrag stellt kurz die Grundlagen der Resource Oriented Architecture vor und zeigt welche M&#246;glichkeiten sie der Geodatenverarbeitung bietet.   </abstract>
+        <description></description>
+        <persons>
+          <person id="51">Arnulf Christl</person>
+        </persons>
+        <links>
+          <link href="http://arnulf.us/sevendipity/archives/35-The-Hierarchy-and-the-Graph.html">On the Graph</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="216">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Geoportal Raumordnung Baden-W&#252;rttemberg</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="38">David Arndt</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="297">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Aufbau zentraler Komponenten der GDI-DE mit freier Software</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Mit dem Geodatenkatalog-DE und den Mapserverkomponenten wurde Ende 2010 mit der Umsetzung von zwei zentralen Komponenten der GDI-DE begonnen. Beide basieren vollst&#228;ndig auf Open Source Software. W&#228;hrend der Kern des Geodatenkatalogs durch Geonetwork opensource gebildet wird, besteht der Mapserver aus der Software MapProxy, der f&#252;r diesen Zweck um viele Funktionen erweitert wurde. Als Clientkomponente fungiert in beiden Projekten Mapbender, entweder als Such- und Editieroberfl&#228;che f&#252;r Metadeten oder als graphische Konfigurationsoberfl&#228;che f&#252;r MapProxy.
+Der Vortrag stellt die beiden Projekte vor und erl&#228;utert die Architektur der umgesetzten L&#246;sungen sowie das Zusammenspiel der eingesetzten Komponenten.    </abstract>
+        <description></description>
+        <persons>
+          <person id="70">Olaf Knopp</person>
+        </persons>
+        <links>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="192">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Mobile Technology for Spatial Data Infrastructure</title>
+        <subtitle>How to provide a mobile solution for geodata diffusion</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>This presentation will provide an overview of the Geo Open Source Web Mobile technologies.
+Several Spatial Data Infrastructure are currently using OpenSource technologies in order to provide Web mapping solutions. The customers want now to access the geodata through mobile technologies. In the past few months, several libraries, like JQuery Mobile or Sencha Touch have been made available. The question is to know how it is possible to use these libraries with geodata.</abstract>
+        <description>The presentation will cover the following topics:
+- Definition of mobile use cases
+- Introduction to mobile development
+- Overview of availables OSS libraries for mobile development
+- Presentation of the mobile application of the Swiss Spatial Data Infrastructure
+- Trends in the Geo Mobile World </description>
+        <persons>
+          <person id="166">C&#233;dric Mouillet</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="296">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Relaunch des GeoPortal.rlp</title>
+        <subtitle>Neue Funktionen zur Vereinfachung der Suche, zur Umsetzung von INSPIRE sowie zur Ver&#246;ffentlichung von WMC Dokumenten  </subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Im Vortrag werden die wichtigsten Neuerungen im FOSS-Projekt GeoPortal.rlp vorgestellt. Diese beziehen sich zum einen auf das ge&#228;nderte - nun intuitive - Suchverfahren, zum anderen auf die Anpassungen, die aufgrund der Umsetzung der INSPIRE-Richtlinie notwendig wurden. Hier wird insbesondere auf die Verwaltung der Service- und Datenmetadaten, sowie auf ihre Bereitstellung mittels Geonetwork eingegangen.</abstract>
+        <description>Das Geoportal.rlp ist seit der Freischaltung 2007 die einzige vollkommen auf FOSS basierende Geoportall&#246;sung eines Bundeslandes in Deutschland. Das Konzept des Portals basiert auf einer dezentralen Registrierung und Verwaltung von OWS durch unterschiedlichste Anbieter.
+In den vergangenen 4 Jahren wurden viele Verbesserungen an der Basissoftware (Mapbender) durchgef&#252;hrt. Diese Anpassungen konnten, im Laufe des letzten Jahres, fast vollst&#228;ndig in die Entwicklung des Mapbender Projektes zur&#252;ckflie&#223;en. Einen besonderen Meilenstein stellt jetzt die Freischaltung der neuen Version des Portals dar.
+Die Erkenntnisse aus dem produktiven Betrieb der letzten 4 Jahre haben dazu gef&#252;hrt, die bisherige Suche komplett zu &#252;berarbeiten. Vielen Nutzern der Anwendung war das Prinzip 'Daten suchen - Ergebnis w&#228;hlen - Karte anzeigen' viel zu schwer begreiflich zu machen. Als Ausweg aus dem Dilemma wurde ein Konzept implementiert, wie datenanbietende Stellen nicht nur einzelne Webservices mit Metadaten beschreiben und ver&#246;ffentlichen k&#246;nnen, sondern dies nun auch f&#252;r Kartenzusammenstellungen (in Form von WebMapContext Dokumenten) m&#246;glich wird. Es ergibt sich damit eine neue - sehr einfache Einstiegsm&#246;glichkeit f&#252;r den Normalb&#252;rger. 
+Neben dieser &#196;nderung wurde auch die komplette Suchfunktion &#252;berarbeitet. Hier wurde Wert darauf gelegt, dass die Suche auch ohne Eingabe von Suchbegriffen m&#246;glich wird. Die Einschr&#228;nkung sowie die Erweiterung der Suchanfrage erfolgt einfach durch Aus- bzw. Abwahl dynamisch generierter Filter.
+Neben den Verbesserungen bei den Recherchem&#246;glichkeiten, wurde au&#223;erdem das Datenmodell dahingehend erweitert, dass aus dem Portal schon INSPIRE konforme Metadaten abgegeben werden k&#246;nnen. Dies bezieht sich insbesondere auf die Kopplung von Service- und Datenmetadaten. Der Ansatz erfolgt getreu dem Motto von Rheinland-Pfalz - 'Wir machen's einfach!'</description>
+        <persons>
+          <person id="207">Armin Retterath</person>
+        </persons>
+        <links>
+          <link href="http://www.mapbender.org">http://www.mapbender.org</link>
+          <link href="http://www.geonetwork-opensource.org/">http://www.geonetwork-opensource.org/</link>
+          <link href="http://www.geoportal.rlp.de">http://www.geoportal.rlp.de</link>
+          <link href="http://www.gdi-rp-dienste.rlp.de/redmine/">http://www.gdi-rp-dienste.rlp.de/redmine/</link>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Pool 002">
+      <event id="230">
+        <start>09:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>Mapbender Workshop</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Die WebGIS lient Software Mapbender hilft Ihnen, Ihre Karten- und Datendienste im Web zu ver&#246;ffentlichen. Das Besondere an Mapbender ist, dass Sie dazu keine Zeile Code schreiben m&#252;ssen. Die gesamte Konfiguration kann &#252;ber die Benutzeroberfl&#228;che erfolgen. 
+
+Dieser Workshop soll Ihnen einen Einblick in Mapbender geben und stellt die Basisfunktionalit&#228;ten vor. Anhand von Best-Practice Beispielen wird demonstriert, in welchen Bereichen Mapbender zum Einsatz kommen kann.
+
+Die Mapbender Geoportal Software beinhaltet Oberfl&#228;chen f&#252;r die Anzeige, Navigation und Abfrage von OGC standardisierten Diensten, Daten und Formaten (z.B. WMS, WFS-T, GML). Zus&#228;tzlich stehen in der Administration Module und Oberfl&#228;chen f&#252;r die Verwaltung der standardisierten Dienste, Benutzer, Benutzergruppen und Berechtigungen zur Verf&#252;gung. Mapbender ist ein Projekt der Open Source Geospatial Foundation.
+
+Der Workshop gibt eine Einf&#252;hrung in die aktuell verf&#252;gbaren Funktionen der Software Mapbender.
+
+    * Infrastruktur
+    * Installation
+    * Erstellen einer neuen Applikation
+    * Hinzuladen von Kartendiensten
+    * Konfigurieren von Karten
+    * Oberfl&#228;che konfigurieren und erweitern Mapbender Module
+    * Neue Kartendienste hinzuladen
+    * Anlegen eines neuen Benutzers und einer Gruppe
+    * Applikation Benutzern oder Gruppen zuweisen
+    * Einbinden einer Mapbender Applikation in eine Webanwendung </abstract>
+        <description></description>
+        <persons>
+          <person id="65">Astrid Emde</person>
+        </persons>
+        <links>
+          <link href="http://mapbender.org">http://mapbender.org</link>
+          <link href="http://live.osgeo.org/de/overview/mapbender_overview.html">Mapbender Overview (deutsch, OSGeo-Live)</link>
+          <link href="http://live.osgeo.org/de/quickstart/mapbender_quickstart.html">Mapbender Quickstart (deutsch,  OSGeo-Live)</link>
+        </links>
+      </event>
+      <event id="247">
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>OpenStreetMap f&#252;r Beh&#246;rden, Kommunen und andere &#246;ffentliche Einrichtungen</title>
+        <subtitle>Technische, lizenzrechtliche und soziale Fragen rund um OpenStreetMap</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Der Einsatz von OpenStreetMap-Daten bzw. -Karten erfolgt gerade in &#246;ffentlichen Einrichtungen noch sehr z&#246;gerlich. Neben technischen Fragen wird auch darauf eingegangen, wie man Kontakt zur Community bekommt und welche Auswirkungen die Lizenz auf bestimmte Anwendungsszenarien hat. </abstract>
+        <description>W&#228;hrend die Benutzung von OSM-Daten und Verarbeitungswerkzeugen jedem Mapper gel&#228;ufig sind, stehen einem Einsatz von OSM in &#246;ffentlichen Einrichtungen oftmals vermeintliche H&#252;rden im Weg.
+
+Dieser Workshop richtet sich an Interessierte, die einen Einsatz von OSM in Erw&#228;gung ziehen jedoch die Einstiegsh&#252;rde aufgrund der Vielfalt als zu gro&#223; einsch&#228;tzen. 
+Folgende Themengebiete werden behandelt:
+
+1) Werkzeuge f&#252;r OSM
+- Editoren
+- API/XAPI
+- osmosis, osm2pgsql
+- Mapnik, MapServer
+
+2) Datenverarbeitung
+- Wie komme ich an die Daten f&#252;r ein bestimmtes Gebiet?
+- Wie erstelle ich mir eine eigene Datenbank?
+- Wie halte ich diese aktuell?
+- Wie erstelle ich mir individuelle Shapefiles mit ausgew&#228;hlten Attributen?
+
+3) Lizenzfragen
+Anhand von Anwendungsbeispielen soll exemplarisch gezeigt werden, welche Bedingungen f&#252;r die Verwendung eingehalten werden m&#252;ssen. 
+
+4) Community
+- Wie bekomme ich Hilfe?
+- Regeln im Umgang mit der Community
+Die Teilnehmer werden selbst&#228;ndig am Workshop-Rechner die einzelnen Schritte mitverfolgen k&#246;nnen. Au&#223;erdem wird eine Dokumentation zur Verf&#252;gung gestellt, die auch au&#223;erhalb des Workshops eigenst&#228;ndig nachvollzogen werden kann.</description>
+        <persons>
+          <person id="8">Lars Lingner</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="194">
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>Einf&#252;hrung in gvSIG 1.10 mit Sextante 0.6 (Toolbox f&#252;r Vektor und Raster Funktionalit&#228;ten) und NavTable (Arbeiten mit Formularen)</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>gvSIG in der stabilen Version 1.10 ist ein leistungsstarkes Open Source DesktopGIS.
+Die aktuelle Version wurde um zahlreiche neue GIS- Funktionen erweitert.
+Wesentliche Neuerungen sind die Integration von Sextante 0.6 (die Arbeit mit GRASS wird erm&#246;glicht) und der NavTable &#8211; Erweiterung. </abstract>
+        <description></description>
+        <persons>
+          <person id="68">Ruth Sch&#246;nbuchner</person>
+        </persons>
+        <links>
+          <link href="http://www.gvsig.org/web/projects/gvsig-desktop/official">Download Official Version</link>
+          <link href="http://forge.osor.eu/plugins/wiki/index.php?id=13&amp;type=g">Sextante in Osor</link>
+          <link href="http://navtable.forge.osor.eu/index_en.html">NavTable</link>
+          <link href="http://www.osor.eu/projects/gvsig-network">Network Extension</link>
+        </links>
+      </event>
+      <event id="223">
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>Geoprozessieren mit PostgreSQL/PostGIS</title>
+        <subtitle>PostGIS-Workshop f&#252;r Fortgeschrittene</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Geoprozessieren mit PostgreSQL/PostGIS
+Workshop f&#252;r Fortgeschrittene
+
+Ziel:
+Der Ablauf des Workshop wird m&#246;glichst praxisnah gestaltet.
+Das Spektrum der &#220;bungen umfasst:
+ Verschneidung (intersection)
+ Vereinigung (union, join)
+ Gemeinsamkeiten (touche)
+ Geometrien konstruieren (boundary, difference, dump, dumprings)
+ u.a.
+
+
+Zielgruppe:
+Anwender die Erfahrung mit der Funktionalit&#228;t von PosgreSQL/PostGIS zum 
+geoprozessieren sammeln wollen.
+
+Anmerkung:
+Die &#220;bungen werden im Datenbankmonitor / auf der Konsole bearbeitet.
+Grundlagen in SQL sind erforderlich.</abstract>
+        <description>Geoprozessieren mit PostgreSQL/PostGIS
+Workshop f&#252;r Fortgeschrittene
+
+Ziel:
+Der Ablauf des Workshop wird m&#246;glichst praxisnah gestaltet.
+Das Spektrum der &#220;bungen umfasst:
+ Verschneidung (intersection)
+ Vereinigung (union, join)
+ Gemeinsamkeiten (touche)
+ Geometrien konstruieren (boundary, difference, dump, dumprings)
+ u.a.
+
+
+Zielgruppe:
+Anwender die Erfahrung mit der Funktionalit&#228;t von PosgreSQL/PostGIS zum 
+geoprozessieren sammeln wollen.
+
+Anmerkung:
+Die &#220;bungen werden im Datenbankmonitor / auf der Konsole bearbeitet.
+Grundlagen in SQL sind erforderlich.</description>
+        <persons>
+          <person id="31">Harald Schwenk</person>
+          <person id="46">Stephan Holl</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Pool 003">
+      <event id="213">
+        <start>09:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>Einfache Rasterdatenverarbeitung mit GDAL</title>
+        <subtitle>- Grundlagenworkshop f&#252;r Einsteiger - </subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Die Geodata Abstraction Library (GDAL) stellt verschiedene Tools zur Rasterdatenverarbeitung bereit. Dabei handelt es sich um Kommandozeilenprogramme, die sich hervorragend zur Formatkonvertierung, zur Erzeugung von Bildkatalogen und Bildausschnitten, zur Umrechnung der Aufl&#246;sung u.a. eignen.
+
+Im Fokus dieses Workshops steht die Vorverarbeitung von Rasterdaten zur Performanzsteigerung von WebGIS-Anwendungen mit dem UMN-MapServer. Der Workshop gibt einen &#220;berblick &#252;ber wichtige Eigenschaften von Rasterdaten, und f&#252;hrt in die Benutzung der Kommandozeilenprogramme in einer Shell unter Linux bzw. einem DOS-Fenster unter Windows ein. Die Teilnehmerinnen und Teilnehmer haben die M&#246;glichkeit, in einer &#220;bungsreihe verschiedene Programme zur Rasterdatenverarbeitung an praktischen Beispielen kennenzulernen. 
+
+Wenn Sie die M&#246;glichkeiten der Rasterdatenverarbeitung kennenlernen m&#246;chten und sich bislang noch nicht an den Einsatz von Kommandozeilenprogrammen gewagt haben, bekommen Sie mit diesem Workshop einen guten Einstieg in ein lohnendes Thema!</abstract>
+        <description></description>
+        <persons>
+          <person id="17">Andreas Fischer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="225">
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>Einf&#252;hrung in MapFish</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>MapFish ist ein OpenSource WebMapping Framework. Der Aufbau von MapFish erlaubt eine einfache Installation und Benutzung. MapFish kann entweder als selbst&#228;ndige Anwendung 
+oder als Bestandteil einer bestehenden Webseite verwendet werden. Funktionenvon MapFish sind beispielsweise ein komfortables Druckmodul oder ein Routing-Modul.
+			
+Der MapFish-Client bietet Erweiterungen f&#252;r den auf der GeoExt-Bibliothek als Kombination von ExtJS und OpenLayers basierenden WebMapping-Clienten. Die MapFish Server-Seite 
+erweitert das auf Python-Pylons basierte Entwicklungs-Framwork um geospezifische Funktionen wie ein Druckmodul, ein Modul zum Onlnine-Editieren, ein Geostatistik-, ein Gazetteer- 
+oder auch ein Routing-Modul. 
+			
+Der Workshop f&#252;hrt schrittweise in Installation und Nutzung von MapFish-Modulen mit einfachen Beispielen ein und wendet sich so sowohl an Anf&#228;nger als auch an fortgeschrittene
+Web-GIS Programmierer. Vorkenntnisse mit Linux-basierten Systemen sind hilfreich, aber keine Vorraussetzung.</abstract>
+        <description></description>
+        <persons>
+          <person id="124">C&#233;dric Moullet</person>
+          <person id="76">Emmanuel Belo</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="242">
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>Einf&#252;hrung in Mapserver</title>
+        <subtitle>Internetkartographie mit MapServer</subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Wir m&#246;chten damit denjenigen, die die Konferenz zum Kennenlernen des MapServers nutzen wollen, die M&#246;glichkeit geben, sich pers&#246;nlich mit der Funktionsweise vertraut zu machen ohne einen Teil des Vortragsprogramms zu verpassen.
+Der Workshop soll einen Einblick in die Funktionalit&#228;t des MapServers geben. Folgende Fragen sollen gekl&#228;rt werden:
+
+* Welche Rolle spielt ein Kartenserver in meiner WebGIS Anwendung?
+* Wie kann ich meine Daten mit dem UMN MapServer visualisieren?
+* Wie kann ich OGC konforme Dienste (WMS und WFS) mit dem UMN MapServer aufsetzen und was bedeutet das eigentlich? 
+* Welche Formate unterst&#252;tzt der UMN MapServer?
+* Welche Klassifikations- und Stylem&#246;glichkeiten bietet der UMN MapServer?
+* Welche OpenSource-Clients kann ich f&#252;r die Datenvisualisierung mittels MapServer nutzen?</abstract>
+        <description>1. Einf&#252;hrung
+	 1. Geschichte
+	 2. Funktionalit&#228;t
+	 3. DesktopGIS vs. WebGIS
+2. Aufbau der Mapdatei
+	 1. Header
+	 2. Web
+	 3. Layer
+	 4. Class
+3. Welche Datenformate werden unterst&#252;tzt
+	 1. Raster
+	 2. Vektor
+	 3. Datenbank
+4. OGC WMS mit MapServer
+5. OGC WFS mit MapServer</description>
+        <persons>
+          <person id="185">Toni Pignataro</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="318">
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>GRASS Einf&#252;hrung</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type></type>
+        <language></language>
+        <abstract></abstract>
+        <description>Der Workshop gibt einen &#220;berblick &#252;ber die umfangreichen Funktionalit&#228;ten von GRASS GIS und vermittelt anhand eines praktischen Workflows, wie man auf einfache Art und Weise eine Arbeitsumgebung erstellt, Analysen durchf&#252;hrt und eine ansprechende Karte erzeugt.
+
+Das Programm sieht in etwa folgenderma&#223;en aus:
+
+* &#220;berblick zu den GRASS Funktionalit&#228;ten
+* Wie arbeitet man am effektivsten mit der Software
+* Wie erstellt man eine Arbeitsumgebung
+* Erste einfache Analysebeispiele f&#252;r Raster- und Vektordaten
+* Erstellen einer druckfertigen Karte</description>
+        <persons>
+          <person id="9">Otto Dassau</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Seminarraum">
+    </room>
+    <room name="Sitzfl&#228;chen Geb. 308">
+      <event id="326">
+        <start>17:30</start>
+        <duration>01:00</duration>
+        <room>Sitzfl&#228;chen Geb. 308</room>
+        <slug></slug>
+        <title>Birds Of A Feather Slots</title>
+        <subtitle>(Listen werden tags&#252;ber ausgeh&#228;ngt)</subtitle>
+        <track>BoFs</track>
+        <type></type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="SR2.401 Geb. 227">
+      <event id="218">
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>SR2.401 Geb. 227</room>
+        <slug>tools_qualitaetssicherung</slug>
+        <title>Tools zur Qualit&#228;tssicherung in OpenStreetMap</title>
+        <subtitle>Fehler in den Daten von Openstreetmap finden: JOSM-Validator, OSM-Inspector, KeepRight, OpenStreetBugs usw.</subtitle>
+        <track>Community Sessions</track>
+        <type></type>
+        <language></language>
+        <abstract>OpenStreetMap ist ein sehr umfangreiches Projekt, wie &#252;ber eine Milliarde Punkte eindrucksvoll belegen. Bei dieser Menge an Daten sind Fehler unvermeidlich. Werkzeuge zur Qualit&#228;tssicherung dienen dazu, m&#246;glichst viele dieser Fehler zu finden. Wir stellen einige wichtige Tools vor (Validator Plugin, OSM-Inspector, Keep Right, OpenStreetBugs/MapDust), die Fehler auf einer Karte anzeigen, so dass sie von Mappern korrigiert werden k&#246;nnen.  
+
+Zielgruppe: Personen, die Fehler in OSM finden und bereinigen wollen.  
+</abstract>
+        <description>Am 22.11.2010 um 20:10 wurde der [milliardste Punkt](http://www.openstreetmap.org/browse/node/1000000000) in OpenStreetMap (OSM) eingetragen. 
+
+Allein diese Zahl zeigt die Gr&#246;&#223;e der Aufgabe Qualit&#228;tssicherung. Es gibt viele Werk&#173;zeuge zur Qualit&#228;tssicherung, die teilweise spezielle Aspekte beleuchten wie das Tool zur Erkennung von doppelten Knoten. Genauso gibt es Werkzeuge, die eine gr&#246;&#223;ere Bandbreite an Problemen erkennen wollen. In dieser Community Session wollen wir uns auf vier weitverbreitete Werkzeuge konzentrieren. 
+
+Als erstes werden einige typische Fehlerklassen (doppelte Knoten/Wege, &#252;berschneidende Wege, unverbundene Wege, &#252;berlappende Fl&#228;chen, ...) sowie einige h&#228;ufige Ungereimtheiten (unvollst&#228;ndige Adressen, ...) in den OSM-Daten vorgestellt. Es sei klar gemacht, dass nicht alles, was von den Werkzeugen gefunden wird, immer ein Fehler ist. Die eigene Einsch&#228;tzung muss das Ma&#223; sein mit dem entschieden wird, ob eine markierte Stelle wirklich ein Fehler ist, ob man selbst genug Kenntnisse hat um diese Situation zu bereinigen oder ob man m&#246;gliche &#196;nderungen anderen mit mehr OSM-/Ortskenntnissen &#252;berlassen will. 
+
+* Das *Validator Plugin* von JOSM ist ein Tool, dass m&#246;glichst viele Fehler und Ungereimtheiten genau dort aufdeckt, wo man die OSM-Daten bearbeitet. Es ist auf den herunter geladenen Bereich beschr&#228;nkt aber dadurch sehr effektiv. Der Validator deckt nicht nur Fehler wie doppelte Knoten auf, sondern viele Dinge, die als Ungereimtheiten angesehen werden. Manches wird man korrigieren, anderes wird man so lassen wie es ist. 
+* Der *OSM-Inspector* stellt eine Reihe von Ansichten auf die OSM-Daten zur Verf&#252;&#173;gung, mit deren Hilfe Fehler identifiziert oder m&#246;gliche Fehler gefunden werden. Unter anderem werden Geometrie, Tagging, unverbundene Wege, falsche Adres&#173;sen gepr&#252;ft. Weiter enth&#228;lt der OSM-Inspector Ansichten mit denen die Vollst&#228;n&#173;digkeit beim &#246;ffentlichen Verkehr oder bei Grenzen gepr&#252;ft wird. Als drittes unter&#173;st&#252;tzt der OSM-Inspector den Import durch Darstellung der Import-Daten. 
+* *Keep Right* stellt auf einer Karte Fehler mit Markern dar. In einem Popup Feld wer&#173;den die Fehler genauer beschrieben. Alle Fehler-Typen k&#246;nnen einzeln ein-/ausge&#173;blendet werden. Fehler-Typen sind Geometrie, Fl&#228;chen, Tagging, Layer und mehr. 
+* *OpenStreetBugs* und *MapDust* sammeln auf einer Karte Fehlermeldungen von Personen. Damit unterscheiden sie sich von den anderen Tools, die Fehler in den Daten identifizie&#173;ren. Vorteil ist, dass Fehler markiert werden k&#246;nnen, die nicht aus den Daten ersichtlich sind. Beispiele: &#8222;falscher Name&#8221;, &#8222;falsche Wegf&#252;hrung&#8221;, &#8222;hier fehlt etwas&#8221;. W&#228;hrend OpenStreetBugs eher allgemein gehalten ist, stammen die Fehlermeldungen in MapDust im wesentlichen von den Nutzern einer mobilen Routing-L&#246;sung (Skobler). Von daher beziehen sich Fehlermeldungen von MapDust meist auf Routing-Probleme. Manches davon beruht auf Fehler oder unvollst&#228;ndigen Daten in OSM, anderes sind Fehler im Routing-Programm. 
+
+Es  gibt noch eine Vielzahl anderer Tools, die wir hier nicht vorstellen k&#246;nnen. Viele sind spezialisiert auf eine Aufgabe. Viele liefern nur Listen mit fehlerhaften Objekten. Diese Tools findet man am einfachsten unter dem Stichwort &#8222;Quality_Assurance&#8221; im OSM-Wiki. Im Rahmen der Diskussion kann nat&#252;rlich auf weitere Tools eingegangen werden. </description>
+        <persons>
+          <person id="171">Edbert van Eimeren</person>
+        </persons>
+        <links>
+          <link href="http://wiki.openstreetmap.org/wiki/Quality_Assurance">OSM-Wiki: Quality Assurance</link>
+          <link href="http://wiki.openstreetmap.org/wiki/List_of_OSM_based_Services#Quality_Assurance">OSM-Wiki: Software: Quality Assurance</link>
+          <link href="http://wiki.openstreetmap.org/wiki/JOSM/Plugins/Validator">OSM-Wiki: Validator Plugin</link>
+          <link href="http://wiki.openstreetmap.org/wiki/OSM_Inspector">OSM-Wiki: OSM-Inspector</link>
+          <link href="http://wiki.openstreetmap.org/wiki/Keep_Right">OSM-Wiki: Keep Right</link>
+          <link href="http://wiki.openstreetmap.org/wiki/OpenStreetBugs">OSM-Wiki: OpenStreetBugs</link>
+          <link href="http://wiki.openstreetmap.org/wiki/MapDust">OSM-Wiki: Skobblers MapDust</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day date="2011-04-07" index="3">
+    <room name="Gro&#223;er H&#246;rsaal Geb. 308">
+      <event id="206">
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>E-Partizipation und Web Mapping mit GeoNode</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>GeoNode, das ist Geodateninfrastruktur &#225; la Facebook: Soziale Netzwerke und Web 2.0 Technologien lassen die Grenze zwischen PlanerInnen und Planungsbetroffenen verschwimmen. Daten und Karten in GeoNode erleichtern die Kommunikation innerhalb des Planungsteams und sind gleichzeitig die Plattform zur B&#252;rgerInnenbeteiligung und -information. Der Planungsprozess wird transparenter. Lokales Wissen der Betroffenen kann von selbst einflie&#223;en.</abstract>
+        <description></description>
+        <persons>
+          <person id="173">Andreas Hocevar</person>
+        </persons>
+        <links>
+          <link href="http://presentations.opengeo.org/2010_OIR_Plattform/webmapping-epartizipation-geonode.pdf">http://presentations.opengeo.org/2010_OIR_Plattform/webmapping-epartizipation-geonode.pdf</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+      <event id="179">
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>CRM goes GIS</title>
+        <subtitle>Die GIS-Komponente f&#252;r das SugarCRM der Erdw&#228;rme Gr&#252;nwald GmbH</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Im Rahmen des Geothermieprojektes der Gemeinde Gr&#252;nwald soll die gesamte Gemeinde an das neu zu entwickelnde Fernw&#228;rmenetz angeschlossen werden. Die zielgruppenorientierte Ansprache von potenziellen Fernw&#228;rmekunden wird dabei durch das OpenSource Customer-Relationship-Management-System SugarCRM unterst&#252;tzt. F&#252;r die Erdw&#228;rme Gr&#252;nwald GmbH wurde die Community Version von SugarCRM mit einer OpenLayers-basierten GIS-Komponente erweitert. Das GIS-Plugin erm&#246;glicht die Identifizierung von Interessenten entlang der geplanten und in Bau befindlichen Fernw&#228;rmeleitungen. So kann das Vertriebsteam leicht erreichbare potenzielle Erdw&#228;rmekunden gezielt ansprechen und bei Anfragen zuverl&#228;ssig und schnell dar&#252;ber Auskunft geben, wann und wo ein Anschlu&#223; m&#246;glich sein wird.</abstract>
+        <description></description>
+        <persons>
+          <person id="154">Hartmut G&#252;ndra</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="303">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>Mapbender Drei</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Das Mapbender Team zeigt den ersten Prototypen der Mapbender Version 3. Der Code der 2er Version is stabil, erf&#252;llt seinen Zweck und wird weiter entwickelt. Neue Entwicklungen, Technologien und Ver&#228;nderungen in dem Aufbau von GDI refordern ganz neue Ans&#228;tze, die sich mit dem bestehenden Code nicht umsetzen lassen. Dazu z&#228;hlen REST, Resourcen-oreintierte Architekturen, die Evolution des semantischen Netzes, dynamische Metadaten, und vieles interessantes mehr. 
+
+Aus diesen Gr&#252;nden plant das Mapbender-Team eine komplett neue Entwicklung, deren erste Ans&#228;tze hier vorgestellt werden. Ein besonders interessanter Aspekt ist der Plan, die Software zentral auf der non-profit Plattform der OSGeo betrieben wird. </abstract>
+        <description></description>
+        <persons>
+          <person id="209">Karim Malhas</person>
+        </persons>
+        <links>
+          <link href="http://www.mapbender.org">http://www.mapbender.org</link>
+        </links>
+      </event>
+      <event id="302">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>OSGeo und OGC: Memorandum of Understanding</title>
+        <subtitle>Zusammenarbeit OGC und OSGeo und wie man am OGC Prozess teilnehmen kann.</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Der Vortrag erl&#228;utert die Inhalte des der Vereinbarung (Memorandum of Understanding) zwischen der OSGeo und dem OGC. Es wird aufgezeigt, wie sich Interessierte (OGC Mitglieder und Nicht-Mitglieder) im OGC Prozess einbringen und engagieren und diesen beinflussen k&#246;nnen.</abstract>
+        <description>Der Vortrag beleuchtet folgende Aspekte:
+* OGC/OSGeo Memorandum of Understanding: Vor fast zwei Jahren hat die OSGeo und das OGC ein MoU unterzeichnet. Ein Aspekt dieser Zusammenarbeit ist der besserer Informationsfluss zwischen beiden Organisationen bez&#252;glich weitere Entwicklungen.
+* Zusammenarbeit im OGC Prozess: wie und wo kann man sich im OGC Prozess einbringen, engagieren und diesen beeinflussen &#8211; sowohl als Mitglied, als auch als Nicht-Mitglied
+* Regional Aspekte: in Europe haben sich in den letzten Jahren sogenannte &#8222;Nationale / Regional Foren&#8220; etabliert, in denen sich Mitglieder und Nicht-Mitglieder in ihrer jeweiligen Landessprache &#252;ber Themen wie Interoperabilit&#228;t, offene Standards und Geodateninfrastrukturen austauschen.</description>
+        <persons>
+          <person id="208">Athina Trakas</person>
+        </persons>
+        <links>
+          <link href="http://www.opengeospatial.org/pressroom/pressreleases/944">OGC and OSGeo Sign Memorandum of Understanding</link>
+          <link href="http://wiki.osgeo.org/wiki/OSGeo_signs_Memorandum_of_Understanding_with_OGC">OSGeo signs Memorandum of Understanding with OGC</link>
+        </links>
+      </event>
+      <event id="248">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug></slug>
+        <title>OSGeoLive</title>
+        <subtitle>Vorstellung und Einblicke</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Die DVD OSGeo-Live gew&#228;hrt einen umfassenden &#220;berblick an freier und offener GIS-Software.</abstract>
+        <description>OSGeo-Live ist ein OpenSource-Projekt, das 42 Softwareprojekte aus dem Bereich FOSS+GIS b&#252;ndelt. Sie finden Projekte aus den Bereichen Web Mapping Clients und Server, DesktopGIS, Datenbanken, Krisenmanagement, Navigation und Karten sowie r&#228;umliche Tools. Die OSGeo-Live-DVD ist somit ein sehr gutes Beispiel f&#252;r ein erfolgreiches OpenSource-Projekt. Dabei handelt es sich nicht um ein klassisches Software-Projekt, sondern um eine Zusammenstellung verschiedenster Anwendungen und Informationen, die dem interessierten Publikum als gut sortierte Werkzeugkiste angeboten wird.
+
+Projekt&#252;bergreifend hat man es geschafft Freiwillige zu finden, die regelm&#228;&#223;ig die Inhalte aktualisieren. Damit ist ein Produkt entstanden, was als globale Visitenkarte nicht nur der OSGeo-Projekte dient. Alle FOSS- und GIS-relevante Software wird mehrsprachig und mit Dokumentation zur Verf&#252;gung gestellt.
+
+Dieser Vortrag liefert Einblicke in die Entstehung und den Aufbau dieses Projektes. Die ehrgeizigen Ziele wie mehrsprachige Dokumentation, Benutzung von Beispieldatens&#228;tzen und Support in der Community stellen ganz unterschiedliche Anforderungen. Es gilt nicht nur technische Probleme zu l&#246;sen. Hinzu kommen terminliche Absprachen, damit zu bestimmten Anl&#228;ssen wie wichtigen Konferenzen und Workshops aktuelle Versionen bereit stehen.
+
+Auch auf der FOSSGIS Konferenz kommt die DVD in den Workshops zum Einsatz und wird an die Teilnehmer der Konferenz verteilt. </description>
+        <persons>
+          <person id="65">Astrid Emde</person>
+          <person id="8">Lars Lingner</person>
+        </persons>
+        <links>
+          <link href="http://live.osgeo.org/">http://live.osgeo.org/</link>
+        </links>
+      </event>
+      <event id="259">
+        <start>12:30</start>
+        <duration>00:15</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug>sotm-eu</slug>
+        <title>Vorstellung SOTM-EU</title>
+        <subtitle></subtitle>
+        <track>Allgemeines</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract>Vom 15.-17. Juli 2011 findet die Europ&#228;ische OpenStreetMap-Konferenz "State of the Map Europe" (SotM-EU) in Wien statt. Die Veranstaltung wird von OpenStreetMap Austria und der Technischen Universit&#228;t Wien organisiert. Neben Themen von allgemeiner Relevanz f&#252;r die OpenStreetMap-Community (neue Tools und Anwendungen), werden auch Forschungsarbeiten mit Bezug zu OSM vorgestellt. Weitere Informationen: http://sotm-eu.org</abstract>
+        <description></description>
+        <persons>
+          <person id="210">Manuela Schmidt</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="325">
+        <start>12:45</start>
+        <duration>00:45</duration>
+        <room>Gro&#223;er H&#246;rsaal Geb. 308</room>
+        <slug>finale</slug>
+        <title>Finale</title>
+        <subtitle>Abschlussvortrag und Preisverlosung</subtitle>
+        <track>Allgemeines</track>
+        <type></type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="Kleiner H&#246;rsaal Geb. 308">
+      <event id="270">
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>taginfo</slug>
+        <title>Taginfo</title>
+        <subtitle>Das neue Tag-Informationssystem f&#252;r OpenStreetMap</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>OpenStreetMap benutzt sogenannte "Tags", um Geo-Objekte in der Datenbank mit Bedeutung zu versehen. Tags bestehen dabei aus ein "Key=Value" Wertepaar (z.B. "highway=primary" f&#252;r eine Hauptverkehrsstra&#223;e). Eines der ganz wesentlichen Design-Features von OpenStreetMap ist, dass jeder solche Tags neu erfinden und sofort benutzen kann, ohne dass dies einer vorherigen Genehmigung oder auch nur Absprache bedarf. OpenStreetMap kann so flexibel auf neue Anforderungen reagieren und ist auch f&#252;r Nischenanwendungen einfach einsetzbar.
+
+Aber nat&#252;rlich muss es gewisse Absprachen geben, wenn man Tags sinnvoll einsetzen will. Das passiert vor allem &#252;ber das Wiki. Die wichtigsten Tags sind dort dokumentiert. &#220;ber die Jahre ist OpenStreetMap aber immer gr&#246;&#223;er und un&#252;bersichtlicher geworden. &#220;ber 20.000 verschiedene Keys und &#252;ber 50 Mio. verschiedene Tags machen es nicht einfach, zu entscheiden, was man wie "taggen" soll und welche Tags man auf einer Karte &#252;berhaupt anzeigen soll. Und die Dokumentation im Wiki hinkt deutlich hinterher.
+
+Hier soll Taginfo helfen. Das Taginfo-System gibt einen &#220;berblick &#252;ber die Nutzung der Tags. Es bringt Statistiken zur Tag-Nutzung aus der OSM-Datenbank mit Informationen aus dem Wiki, aus den Editoren und anderen Quellen zusammen, um zu zeigen, welche Tags wie und wo eingesetzt werden. Umfangreiche Suchm&#246;glichkeiten und verschiedene Sichten auf die Daten erm&#246;glichen es dem OSMer Fragen zu beantworten wie: Wie h&#228;ufig wird dieses Tag verwendet? Von wievielen Usern? Wo auf der Welt wird es benutzt? Welche Values gibt es zu diesem Key? Welche davon sind im Wiki dokumentiert?
+
+Der Vortrag stellt das Taginfo-System vor, erkl&#228;rt woher die Daten kommen und wie sie aufbereitet werden und zeigt, was man damit so alles machen kann. Dabei geht es auch darum, wie man trotz der gro&#223;en Datenmengen die Daten effizient aufbereiten kann. Der Vortrag geht auch auf die Taginfo-API ein und zeigt einige versteckte Features des Webinterfaces.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="2">Jochen Topf</person>
+        </persons>
+        <links>
+          <link href="http://wiki.openstreetmap.org/wiki/Taginfo">Wiki-Seite zu Taginfo</link>
+          <link href="http://taginfo.openstreetmap.de/">Taginfo</link>
+        </links>
+      </event>
+      <event id="263">
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>history-infos</slug>
+        <title>History-Informationen in der OSM Datenbank</title>
+        <subtitle>Ein technischer &#220;berblick &#252;ber die M&#246;glichkeiten und Probleme bei der Auswertung der History-Informationen</subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Jede &#196;nderung an jedem Objekt wird gespeichert und ist &#246;ffentlich. Doch wie kommt man an diese Daten heran? Welche Quellen gibt es und wof&#252;r sind sie geeignet? Welche Probleme ergeben sich beim Auswerten dieser Informationen und wie kann man diese &#252;berwinden? Welche tollen und n&#252;tzlichen Anwendungen lassen sich mit diesen Daten bauen und wie k&#246;nnen solche Daten der Community helfen?</abstract>
+        <description></description>
+        <persons>
+          <person id="109">Peter K&#246;rner</person>
+        </persons>
+        <links>
+          <link href="http://www.openstreetmap.org/browse/way/32552464/history">OSM Historie (Beispiel)</link>
+          <link href="http://osmhv.openstreetmap.de/">OSM History Viewer</link>
+          <link href="http://osm.virtuelle-loipe.de/history/">OSM History Browser</link>
+          <link href="http://wiki.openstreetmap.org/wiki/JOSM/Plugins/Reverter">JOSM Reverter</link>
+          <link href="http://svn.openstreetmap.org/applications/utils/osmosis- history/">Osmosis Plugin (experimentell)</link>
+        </links>
+      </event>
+      <event id="181">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>luftbilder_osm</slug>
+        <title>Luftbilder f&#252;r Openstreetmap</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>lecture</type>
+        <language></language>
+        <abstract>Der Autor ist ab und zu mit einem kleinen Flugzeug unterwegs und nutzt dies, um Luftbilder zu fotografieren. Er m&#246;chte zeigen, dass man auch mit viel weniger Aufwand als bei kommerziellen Anbietern erfolgreich Luftbilder bereitstellen kann. Er beschreibt, wie sie entstehen und wie sie weiterverarbeitet werden m&#252;ssen, damit sie in Openstreetmap zum Kartografieren verwendet werden k&#246;nnen.</abstract>
+        <description>Luftbilder fotografieren
+Geokoordinaten hinzuf&#252;gen
+Luftbilder entzerren und georeferenzieren
+Openstreetmap-Daten mit Hilfe von Luftbildern kartografieren
+
+siehe auch: http://blog.openstreetmap.de/2010/10/luftbilder-fur-openstreetmap/</description>
+        <persons>
+          <person id="155">Holger Neubert</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="205">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>fussgaenger</slug>
+        <title>Fu&#223;g&#228;ngerbezogene Datenaufbereitung in OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (OSM)</track>
+        <type>student_project</type>
+        <language>de</language>
+        <abstract>Diese Arbeit konzentriert sich auf die Aufbereitung von Geodaten aus dem Datenbestand von OpenStreetMap (OSM) f&#252;r die Zielgruppe von Fu&#223;g&#228;ngern. Im Mittelpunkt stehen Nutzbarkeit, Datenhaltung und Datenerfassung fu&#223;g&#228;ngerrelevanter Objekte, insbesondere im Hinblick auf den Einsatz der Daten in Fu&#223;g&#228;ngernavigations- und Routingsystemen.
+Hierzu werden die eingangs gestellten Anspr&#252;che von Fu&#223;g&#228;ngern an die Navigation sowie modell-theoretische Voraussetzungen f&#252;r die Wegsuche innerhalb des Datenbestandes besprochen. Darauf aufbauend wird im Anschluss, neben der Besch&#228;ftigung mit bereits bestehenden Objekten aus dem Objektartenkatalog von OSM (Map Features), vor allem die Thematik stra&#223;enbegleitender Fu&#223;wege n&#228;her untersucht. Letztere sind bei auf dem Markt befindlichen Fu&#223;g&#228;ngernavigations- und Routingsystemen bisher vernachl&#228;ssigt worden. Bislang beziehen sich sowohl Routenberechnung als auch F&#252;hrung entlang einer Route auf die Mittellinie der Stra&#223;engeometrie und nicht wie erforderlich entlang stra&#223;enbegleitender Infrastrukturobjekte wie etwa Fu&#223;wege. Die M&#246;glichkeit den Fu&#223;g&#228;nger sicher, schnell und auf dem k&#252;rzesten Weg zum Ziel zu f&#252;hren, indem Stra&#223;en&#252;berg&#228;nge bei der Routenberechnung ber&#252;cksichtigt werden, ist derzeit nicht m&#246;glich. Die Anordnung mehrerer parallel verlaufender Wege f&#252;hrt zu der Problematik des Linienb&#252;ndels, bei der es vor allem in Kreuzungssituationen zu Erfassungs- und Darstellungsproblemen kommt. Aufgrund der Tatsache, dass OSM bewusst keine verbindlichen Regeln vorschreibt, existiert bisher keine Vorgabe wann und wie fu&#223;g&#228;ngerrelevante Daten zu erfassen sind. Das f&#252;hrt dazu, dass die Datenhaltung in OSM drei unterschiedlichen Methoden (geometrisch, attributiv und relational) aufweist. In einer Gegen&#252;berstellung der drei Datenhaltungsarten sollen Vor- und Nachteile f&#252;r Erfassung (Mapping), Navigation (Routing), Darstellung (Rendering) und Datenspeicherung (Haltung) bewertet werden.
+Das Ziel dieser Arbeit ist die Ableitung von Datenhaltungsarten in Abh&#228;ngigkeit von spezifischen Gel&#228;ndesituationen. Dabei sollen die bereits in der Bewertung entstandenen Ergebnisse dazu dienen, die verschiedenen Anspr&#252;che und Voraussetzungen (Fu&#223;g&#228;nger, Mapper, Routing, OSM-Datenmodell) miteinander zu verkn&#252;pfen. Die zu dieser Arbeit zugeh&#246;rige Projektseite innerhalb des OSM-Wiki beinhaltet die ausf&#252;hrlichen Informationen zu den Arbeitsschritten und die Beschreibung aller grundlegenden Ergebnisse. Die praktische Umsetzung und Evaluation der Arbeitsergebnisse erfolgte im Stadtgebiet Potsdam.</abstract>
+        <description></description>
+        <persons>
+          <person id="224">Robert Bieber</person>
+        </persons>
+        <links>
+          <link href="http://wiki.openstreetmap.org/wiki/PedestrianProject">Projektseite</link>
+        </links>
+      </event>
+      <event id="324">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Kleiner H&#246;rsaal Geb. 308</room>
+        <slug>lightning_osm_2</slug>
+        <title>Lightning Talks OSM II</title>
+        <subtitle></subtitle>
+        <track>Lightning Talks (OSM)</track>
+        <type></type>
+        <language></language>
+        <abstract>Lightning Talks OSM II</abstract>
+        <description>Lightning Talks OSM II</description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="H&#246;rsaal Geb. 227">
+      <event id="170">
+        <start>09:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Methodische Weiterentwicklungen beim Geoprocessing von Massendaten mit PostGIS</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Am Institut f&#252;r L&#228;ndliche R&#228;ume des Johann Heinrich von Th&#252;nen-Instituts werden in einer Reihe von Projekten Ver&#228;nderungen in der Landnutzung im Kontext mit den r&#228;umlichen Gegebenheiten wie Umweltbedingungen und festgesetzten Schutzzielen analysiert. Dabei werden verschiedene Geodaten miteinander verkn&#252;pft und &#252;ber eine Fl&#228;chenstatistik ausgewertet und interpretiert.
+H&#228;ufigste Operation bei der Verarbeitung der Geodaten ist die Komplettverschneidung (entspricht in etwa einem Full Join der Geometrien). Dazu wurde der auf der FOSSGIS 2010 vorgestellte Ansatz weiterentwickelt und optimiert.
+Die Datenbereinigung vor und nach der Verarbeitung spielt f&#252;r die Erzeugung eines soliden, verl&#228;sslichen Verschneidungsdatensatzes ebenfalls eine wichtige Rolle. Neben der Reparatur von invaliden Geometrien beinhaltet dies z.B. die Erkennung und Bearbeitung von &#220;berlappungen innerhalb eines Datensatzes. Der Vortrag zeigt eine Routine, mit der auch mehrfache &#220;berlappungen in einem Arbeitsschritt bereinigt werden k&#246;nnen.
+Des weiteren entstehen bei der Verschneidung durch eng nebeneinander liegende Polygongrenzen Sliver-Polygone oder Spikes, die das Verarbeitungsprodukt unn&#246;tig komplex machen, aber keinen Erkl&#228;rungswert besitzen. Im Vortrag wird eine Methode pr&#228;sentiert, die entwickelt wurde, um bei der Verschneidung entstehende Sliver-Polygone zu detektieren und direkt w&#228;hrend der Verschneidung mit gr&#246;&#223;eren Verschneidungspolygonen zu verschmelzen.</abstract>
+        <description></description>
+        <persons>
+          <person id="149">Birgit Laggner</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="328">
+        <start>09:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Anwendung maschineller Lernverfahren auf OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+          <person id="226">Julian Hagenauer</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="183">
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Kurven, Kreise und B&#246;gen mit PostgreSQL/PostGIS</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Im ersten Teil werden die PostgreSQL/PostGIS unterst&#252;tzten Geometrietypen f&#252;r kreisf&#246;rmige Geometrieobjekte vorgestellt. Im zweiten Teil soll die Relevanz solcher Geometrieobjekte er&#246;rtert werden.
+</abstract>
+        <description>Die angesprochenen Geometrietypen sollen nicht beworben werden. Es geht um einen Diskussionsbeitrag zum Nutzen dieser Dinge bzw. darum, eine Diskussion zum Gebrauchswert kreisf&#246;rmiger Geometrieobjekte anzusto&#223;en.
+</description>
+        <persons>
+          <person id="31">Harald Schwenk</person>
+        </persons>
+        <links>
+          <link href="http://www.agentur-geoinfo.de/referenz/Vortrag/Kurven_Kreise_und_Boegen_mit_PostgreSQL_PostGIS.pdf">http://www.agentur-geoinfo.de/referenz/Vortrag/Kurven_Kreise_und_Boegen_mit_PostgreSQL_PostGIS.pdf</link>
+        </links>
+      </event>
+      <event id="241">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Marble -- ein freier Virtueller Globus </title>
+        <subtitle>Marble 1.2: Mobilit&#228;t, Routing, OpenGL und mehr ...</subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type></type>
+        <language></language>
+        <abstract>Marble ist ein virtueller Globus mit dem der Anwender die Erde erforschen kann und der es ihm erlaubt seinen Weg durch unsere Welt zu finden. Das Beste ist: Marble ist Freie Software und bietet seine gesamte Funktionalit&#228;t in Form einer Software-Bibliothek an, die man als Entwickler in eigenen Programmen benutzen kann. 
+Der Vortrag wirft einen Blick auf den aktuellen Stand von Marble und Marble's Community. Ein besonderes Highlight ist der Blick auf die n&#228;chste Marble Version 1.2, das voraussichtlich weitere Neuerungen in puncto OpenStreetMap-Integration, Mobilit&#228;t, OpenGL-Unterst&#252;tzung und verbessertes Routing bringen wird. </abstract>
+        <description></description>
+        <persons>
+          <person id="186">Torsten Rahn</person>
+        </persons>
+        <links>
+          <link href="http://www.facebook.com/marbleglobe">Marble Facebook Seite</link>
+          <link href="http://edu.kde.org/marble">Marble Webseite</link>
+        </links>
+      </event>
+      <event id="189">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>H&#246;rsaal Geb. 227</room>
+        <slug></slug>
+        <title>Vergleich von Open Source Virtual Globes</title>
+        <subtitle></subtitle>
+        <track>Vortr&#228;ge (GIS)</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Mittlerweile gibt es mehrere Open Source Alternativen zu Google Earth, wie z.B. Nasa World Wind Java SDK, ossimPlanet oder osgEarth. Dieser Vortrag soll eine &#220;bersicht aktueller Open Source Virtual Globes bieten und einige Vorschl&#228;ge zu erw&#252;nschten Funktionen liefern.
+
+Folgende Gesichtspunkte werden verglichen:
+
+  * Installation
+  * Hinzuf&#252;gen von eigenen Geodaten
+  * Funktionen
+  * Technologie
+</abstract>
+        <description></description>
+        <persons>
+          <person id="164">Mathias Walker</person>
+        </persons>
+        <links>
+          <link href="http://sourcepole.ch/assets/2011/4/8/fossgis2011_virtual_globes.pdf">Pr&#228;sentation</link>
+          <link href="http://sourcepole.ch/2011/4/8/fossgis-2011-vergleich-von-open-source-virtual-globes-2">Pr&#228;sentation und Videos</link>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Pool 002">
+      <event id="209">
+        <start>09:00</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>Abgesicherte GDI -- Die Herausforderung mit einfachen Mitteln meistern.</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Die Dienste von Geodateninfrastrukturen abzusichern stellt eine Herausforderung dar. In dem Workshop sollen jeweils eine L&#246;sung f&#252;r die Klienten-Seite und eine L&#246;sung f&#252;r Server-Seite vorgestellt und praktisch erprobt werden.
+
+Mit Hilfe der vorgestellten L&#246;sungen und ausgew&#228;hlten freien OWS-Klienten soll anschlie&#223;end eine Autorisierung durchgef&#252;hrt und eine sichere Verbindung zu dem in dem Workshop abgesicherten OWS-Dienst hergestellt werden.
+
+Zielgruppe:
+Absicherungs-Interessierte Entscheider wie technisch Interessierte gleicherma&#223;en. Der Workshop wird gleicherma&#223;en f&#252;r beide Zielgruppeninteressante Aspekte beleuchten und mit praktischen &#220;bungen unterf&#252;ttern.
+</abstract>
+        <description></description>
+        <persons>
+          <person id="57">Bjoern Schilberg</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="175">
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 002</room>
+        <slug></slug>
+        <title>MapProxy - Eine praktische Einf&#252;hrung</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language></language>
+        <abstract>Schnelle Karten mit dem WMS-Standard bietet das OpenSource Projekt MapProxy. MapProxy ist eine Software zum Beschleunigen von Geodaten und setzt dabei vollst&#228;ndig auf den OGC Web Map Service (WMS) Standard. WMS-Dienste, die mit MapProxy beschleunigt werden, liefern Daten - abh&#228;ngig von der bestehenden Infrastruktur - zwischen 10 und 100-mal schneller.
+
+Ziel des Workshops ist es die Teilnehmer in die Lage zu versetzen, eine bestehende Geodateninfrastruktur mit Hilfe des MapProxy zu beschleunigen. Neben der Installation wird im Workshop eine Einf&#252;hrung in die aktuell wichtigsten Funktionen geben. Der Workshop umfasst praktische &#220;bungen bis hin zur Beschleunigung bestehender WMS-Dienste. 
+
+Programm:
+* Funktionsweise des MapProxy
+* Infrastruktur und Installation
+* Erstellen einer Konfiguration
+* Beschleunigen eines WMS Dienste
+
+</abstract>
+        <description></description>
+        <persons>
+          <person id="142">Dominik Helle</person>
+        </persons>
+        <links>
+          <link href="http://mapproxy.org">MapProxy Homepage</link>
+          <link href="http://">http://</link>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Pool 003">
+      <event id="229">
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>BST 48 Pool 003</room>
+        <slug></slug>
+        <title>GeoServer Workshop mit Schwerpunkt OGC WFS</title>
+        <subtitle></subtitle>
+        <track>Workshops (bezahlt)</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract>Dieser Workshop soll die M&#246;glichkeit geben, einen Einblick in die WFS-Technologie zu erhalten. Am Beispiel des GeoServers, der als WFS-T eingesetzt werden kann, sollen die Grundlagen und M&#246;glichkeiten, die WFS bietet, aufgezeigt werden.</abstract>
+        <description>Dieser Workshop soll die M&#246;glichkeit geben, einen Einblick in die WFS-Technologie zu erhalten. Am Beispiel des GeoServers, der als WFS-T eingesetzt werden kann, sollen die Grundlagen und M&#246;glichkeiten, die WFS bietet, aufgezeigt werden.
+
+Hier eine &#220;bersicht &#252;ber die Themen des Workshops:
+
+Einf&#252;hrung in die OGC-Spezifikation
+* WFS Grundlagen
+* WFS Requests, Transactions
+* Filter Encoding, GML
+
+
+Vorstellung einiger WFS Clients
+* udig, gvSig, Quantum GIS
+* Mapbender
+
+Anwendungsm&#246;glichkeiten und Anwendungsbeispiele
+* Suche &#252;ber r&#228;umliche Attribute
+* Suche &#252;ber alphanumerische Attribute
+* Anzeige und Navigation
+* Karten-Tooltips mit Hotlink
+* Digitalisierung (WFS-Transactional)
+</description>
+        <persons>
+          <person id="65">Astrid Emde</person>
+        </persons>
+        <links>
+        </links>
+      </event>
+    </room>
+    <room name="BST 48 Seminarraum">
+    </room>
+    <room name="Sitzfl&#228;chen Geb. 308">
+    </room>
+    <room name="SR2.401 Geb. 227">
+      <event id="327">
+        <start>09:30</start>
+        <duration>01:00</duration>
+        <room>SR2.401 Geb. 227</room>
+        <slug></slug>
+        <title>INTERGEO-Vorgespr&#228;ch</title>
+        <subtitle></subtitle>
+        <track>Allgemeines</track>
+        <type></type>
+        <language></language>
+        <abstract></abstract>
+        <description></description>
+        <persons>
+        </persons>
+        <links>
+        </links>
+      </event>
+      <event id="234">
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>SR2.401 Geb. 227</room>
+        <slug></slug>
+        <title>Mapbender Anwendertreffen</title>
+        <subtitle></subtitle>
+        <track>Anwendertreffen</track>
+        <type></type>
+        <language></language>
+        <abstract>Das Anwendertreffen dient dem Kennenlernen und dem Austausch von Mapbender-Anwendern und Entwicklern. Auf dem Treffen k&#246;nnen Ideen eingebracht werden sowie Tipps und Tricks ausgetauscht werden.
+
+Im Vordergrund steht die Diskussion &#252;ber die weitere Entwicklung und die Erfahrungen mit Mapbender.
+
+Zu Beginn des Treffens werden die Neuerungen der Mapbender Version 2.7 vorgestellt. Es erfolgt ein &#220;berblick &#252;ber die Roadmap durch die Entwickler. Au&#223;erdem soll Mapbender 3.0 thematisiert werden.</abstract>
+        <description></description>
+        <persons>
+          <person id="209">Karim Malhas</person>
+        </persons>
+        <links>
+          <link href="http://www.mapbender.org/FOSSGIS_2011">http://www.mapbender.org/FOSSGIS_2011</link>
+          <link href="http://www.mapbender.org/Mapbender_Anwendertreffen_FOSSGIS_2011">http://www.mapbender.org/Mapbender_Anwendertreffen_FOSSGIS_2011</link>
+        </links>
+      </event>
+    </room>
+  </day>
+</schedule>
