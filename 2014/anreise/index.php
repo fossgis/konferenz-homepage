@@ -75,7 +75,7 @@
 		  <p>Parkplätze sind vorhanden. Gegen&uuml;ber der Beuth Hochschule, direkt an der Luxemburger Stra&szlig;e gelegen, befindet sich das Beuth eigene Parkhaus (2 EUR/Tag). Die Zufahrt erfolgt &uuml;ber die Triftstra&szlig;e (&uuml;ber Luxemburger Stra&szlig;e und Tegeler Stra&szlig;e zu erreichen).</p>
 
                 <p><a href="../img/lageplan_002.png"><img src="../img/lageplan_small.png" width="655" height="463"></a></p>
-		  <p>Die <i><a href="http://www.fossgis.de/konferenz/2014/programm/">Vortr&auml;ge und Workshops</i></a> finden im <b>Haus Bauwesen</b> statt. Der <i>Welcome Desk</i> mit Anmeldung, die Firmen- und Open-Source-Projekte<i>-Ausstellung</i> und das <i>Catering</i> werden im <b>Haus Grashof</b> zu finden sein. Die <i>Abendveranstaltung</i> findet am Mittwoch, den 19. M&auml;rz 2014 in der <b>Beuth-Halle</b> statt</p>
+		  <p>Die <i><a href="https://www.fossgis.de/konferenz/2014/programm/">Vortr&auml;ge und Workshops</i></a> finden im <b>Haus Bauwesen</b> statt. Der <i>Welcome Desk</i> mit Anmeldung, die Firmen- und Open-Source-Projekte<i>-Ausstellung</i> und das <i>Catering</i> werden im <b>Haus Grashof</b> zu finden sein. Die <i>Abendveranstaltung</i> findet am Mittwoch, den 19. M&auml;rz 2014 in der <b>Beuth-Halle</b> statt</p>
 
               <h3>Unterkunft</h3>
                 <p>Vorschl&auml;ge f&uuml;r Unterkünfte im direkten Umfeld der Tagung sind in der Karte eingetragen. Weitere Unterkünfte sind zu finden unter: <a href="http://www.berlin.de/tourismus/unterkunft/hotels/"> www.Berlin.de</a>.</p>

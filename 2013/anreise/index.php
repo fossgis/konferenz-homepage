@@ -38,9 +38,9 @@
 					<p>Es wird empfohlen mit öffentlichen Verkehrsmitteln anzureisen, da auf dem Campus der HSR nur wenige Parkplätze vorhanden sind. Der nächste öffentliche Parkplatz befindet sich rund zehn Gehminuten entfernt - siehe auch lokales Parkleitsystem. Im Schulareal stehen nur wenige, gebührenpflichtige Parkplätze zur Verfügung (max. 2 Stunden). Belegung des Parkhauses von Montag bis Freitag, 6 - 17 Uhr, ausschliesslich für Angehörige der HSR.</p>
 					
 					<h3> Orientierung vor Ort</h3>
-					<p>Die HSR liegt direkt südlich des Bahnhofes Rapperswil (siehe <a href="http://www.fossgis.de/w/images/5/56/FOSSGIS_2013_Situationsplan.pdf"> PDF</a> des Situationsplanes Rapperswil). </p>
-					<p>Das Gebäude 1 ist das Hauptgebäude, hier finden Anmeldung und Pausenversorgung im 1. OG, die Ausstellung der Sponsorenfirmen und Projekte im EG und die Workshops im 2.OG statt (siehe <a href="http://www.fossgis.de/w/images/9/97/FOSSGIS_2013_Gebaeude_1.pdf">PDF</a> des Gebäudeplanes).</p> 
-					<p>In den Gebäuden 3,4 und 5 sind die Hörsäle, die Eröffnung findet in der Aula des Gebäudes 4 und die Vorträge in den Gebäuden 3 und 5 statt (siehe <a href="http://www.fossgis.de/w/images/f/fb/FOSSGIS_2013_Gebaeude_3-4-5.pdf">PDF</a> des Gebäudeplanes).</p>
+					<p>Die HSR liegt direkt südlich des Bahnhofes Rapperswil (siehe <a href="https://www.fossgis.de/w/images/5/56/FOSSGIS_2013_Situationsplan.pdf"> PDF</a> des Situationsplanes Rapperswil). </p>
+					<p>Das Gebäude 1 ist das Hauptgebäude, hier finden Anmeldung und Pausenversorgung im 1. OG, die Ausstellung der Sponsorenfirmen und Projekte im EG und die Workshops im 2.OG statt (siehe <a href="https://www.fossgis.de/w/images/9/97/FOSSGIS_2013_Gebaeude_1.pdf">PDF</a> des Gebäudeplanes).</p> 
+					<p>In den Gebäuden 3,4 und 5 sind die Hörsäle, die Eröffnung findet in der Aula des Gebäudes 4 und die Vorträge in den Gebäuden 3 und 5 statt (siehe <a href="https://www.fossgis.de/w/images/f/fb/FOSSGIS_2013_Gebaeude_3-4-5.pdf">PDF</a> des Gebäudeplanes).</p>
 					
 					<h3>Unterkunft</h3>
 					<div class="hotel">

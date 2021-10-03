@@ -23,12 +23,12 @@
 
                 <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2017 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> mit Untersützung der <a href="http://www.uni-passau.de/">Universität Passau</a> veranstaltet.</p>
+                <p>Die FOSSGIS-Konferenz 2017 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> mit Untersützung der <a href="http://www.uni-passau.de/">Universität Passau</a> veranstaltet.</p>
 
                 <div class="organisers">
-                    <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/fossgis.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/osgeo.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.fossgis.de/"><img src="img/fossgis.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.osgeo.org/"><img src="img/osgeo.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.openstreetmap.de/"><img src="img/osm.png" valign="middle"></a></div>
                 </div>
                 <p class="clear"></p>
                 <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
@@ -85,7 +85,7 @@
 
 				 <br>
 
-				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+				<p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 
             </div>
                 <?php include('inc/footer.inc'); ?>

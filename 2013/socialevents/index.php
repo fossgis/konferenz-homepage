@@ -18,7 +18,7 @@
 					<h2>Social Events</h2>
 					
 					<h3>Dienstag, 11. Juni 2013 - Inoffizieller Start</h3>
-					<p>Am Dienstag Abend findet die inoffizielle Konferenzeröffnung mit den Organisatoren und dem Lokalteam im Restaurant <a href="http://www.de-medici.ch/willkommen/"> De Medici</a> (Fischmarktstrasse <a href="http://www.openstreetmap.org/browse/node/1355269727"> 8</a>, 8640 Rapperswil, Altstadt) statt.</p>
+					<p>Am Dienstag Abend findet die inoffizielle Konferenzeröffnung mit den Organisatoren und dem Lokalteam im Restaurant <a href="http://www.de-medici.ch/willkommen/"> De Medici</a> (Fischmarktstrasse <a href="https://www.openstreetmap.org/browse/node/1355269727"> 8</a>, 8640 Rapperswil, Altstadt) statt.</p>
 					<p>Beginn ist 18.15 Uhr.</p>
 					
 					<h3>Mittwoch, 12. Juni 2013 - Social Event</h3>
@@ -36,7 +36,7 @@
 					<a href="http://bit.ly/WVKgKM">Map</a></p>
 					
 					<h3>Donnerstag, 13. Juni 2013 - Möglichkeiten der Abendgestaltung</h3>
-					<p>Der <a href="http://www.fossgis.de/">FOSSGIS e.V.</a>, Veranstalter der Konferenz wird am Donnerstag ab 17 Uhr am Stand einen Sektempfang geben. Mitglieder des Vereins und Interessierte sind herzlich eingeladen mit anderen Mitgliedern ins Gespräch zu kommen. </p>
+					<p>Der <a href="https://www.fossgis.de/">FOSSGIS e.V.</a>, Veranstalter der Konferenz wird am Donnerstag ab 17 Uhr am Stand einen Sektempfang geben. Mitglieder des Vereins und Interessierte sind herzlich eingeladen mit anderen Mitgliedern ins Gespräch zu kommen. </p>
 					<p>Einige Bars, Schnellimbiss-Ecken und Restaurants siehe hier auf <a href="http://giswiki.hsr.ch/Rappi_Info">Rappi Info.</a></p>
 					
 					<h3>Freitag, 14. Juni 2013 - Angebote </h3>

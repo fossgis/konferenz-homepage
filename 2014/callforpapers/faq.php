@@ -74,13 +74,13 @@
                 	<dd>Natürlich können Sie als Vertreter eines Unternehmens am CfP teilnehmen. Jedoch lehnen wir reine Unternehmens- oder Produktpräsentationen in der Regel ebenso ab wie PR-Vorträge.</dd>
 
                 	<dt>Kann ich mein Unternehmen bewerben?</dt>
-                	<dd>Selbstverständlich. Hierfür gibt es einen speziellen, gut besuchten Messebereich in der Nähe des Catering. Sie können ausserdem Sponsor werden oder als Medienpartner werben. Entsprechende Informationen finden Sie im Wiki unter: <a href="http://www.fossgis.de/wiki/2014/Sponsoren_und_Aussteller">Sponsoren und Aussteller</a>.</dd>
+                	<dd>Selbstverständlich. Hierfür gibt es einen speziellen, gut besuchten Messebereich in der Nähe des Catering. Sie können ausserdem Sponsor werden oder als Medienpartner werben. Entsprechende Informationen finden Sie im Wiki unter: <a href="https://www.fossgis.de/wiki/2014/Sponsoren_und_Aussteller">Sponsoren und Aussteller</a>.</dd>
 
                 	<dt>Wieviele Vorträge darf ich einreichen?</dt>
                 	<dd>Es werden maximal 2 Vorträge pro Person gestattet. "Übereinreichungen" werden ohne Rücksprache und ohne Bewertung gelöscht. Bitte überlegen Sie sich deshalb vorher welcher Beitrag Ihnen wirklich wichtig ist.</dd>
 
                 	<dt>Gibt es allgemeine Einführungen zu Open Source ohne Bezug auf spezielle Projekte oder Firmen?</dt>
-                	<dd>Ja. Im Rahmen der FOSSGIS 2014 gab es Testweise einen <a href="http://www.fossgis.de/wiki/OS-Block-FOSSGIS-Konferenz_OpenSource_Einf%C3%BChrung">OS-Block-FOSSGIS-Konferenz OpenSource Einführung</a>. Bitte nehmen Sie direkt mit dem Programmkomitee Kontakt auf, wenn Sie diesen Block mit gestalten möchten.
+                	<dd>Ja. Im Rahmen der FOSSGIS 2014 gab es Testweise einen <a href="https://www.fossgis.de/wiki/OS-Block-FOSSGIS-Konferenz_OpenSource_Einf%C3%BChrung">OS-Block-FOSSGIS-Konferenz OpenSource Einführung</a>. Bitte nehmen Sie direkt mit dem Programmkomitee Kontakt auf, wenn Sie diesen Block mit gestalten möchten.
 </dd>
                 </dl>
             </div>

@@ -26,7 +26,7 @@
                     <h2>Anreise und Unterkunft</h2>
 
 		<h3>Allgemeines</h3>
-         <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt (<a href="http://www.openstreetmap.org/#map=17/50.72510/7.09125">zum Konferenzstandort auf http://www.openstreetmap.org</a>)</p>
+         <p>Die FOSSGIS-Konferenz findet vom 21.-24. März 2018 an der Universität Bonn statt (<a href="https://www.openstreetmap.org/#map=17/50.72510/7.09125">zum Konferenzstandort auf http://www.openstreetmap.org</a>)</p>
          <p><strong>Adresse:</strong><br>
 					Geographisches Institut der Universität Bonn<br>
 					Meckenheimer Allee 166<br>
@@ -45,7 +45,7 @@
           
 
         <h3>Anreise</h3>
-		 <p>Der <a href="http://www.openstreetmap.org/#map=17/50.72510/7.09125"> Konferenzstandort</a> ist gut an das ÖV Netz angebunden und schnell zu erreichen.</p>
+		 <p>Der <a href="https://www.openstreetmap.org/#map=17/50.72510/7.09125"> Konferenzstandort</a> ist gut an das ÖV Netz angebunden und schnell zu erreichen.</p>
 		 <ul class="list">
 			<li>1,5 km in die Altstadt von Bonn</li>
 			<li>1 km zum Hauptbahnhof Bonn</li>

@@ -24,7 +24,7 @@
       <h2>Social Events</h2>
         <h3>Zusammentreffen mit den OSGeo Code Sprintern 2018</h3>
 		<p>Zeitgleich zur FOSSGIS findet der internationale <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo Code Sprint</a> vom 19. bis 25. März 2018 im Bonner BaseCamp statt. Der In- und Outdoor Retro-Park mit ausgefallenen Wohnwagen und Zugschlafwagen hat sich mit seinem nostalgischen Flair schon bei der FOSS4G 2016 bewährt.
-		<br> Wer Lust hat internationale Entwickler unserer OSGeo-Projekte zu treffen, beteiligt sich am "Pubrace". Beim seit der FOSS4G 2016 beliebten Pubrace treffen sich Leute Abends ab 20 Uhr bei einem Getränk im <a href="http://www.openstreetmap.org/node/1581262116">Namenlos Bonn</a> am Tor zur Bonner Altstadt oder im <a href="http://www.openstreetmap.org/node/225642197">Pawlow</a> im Herzen derselbigen.
+		<br> Wer Lust hat internationale Entwickler unserer OSGeo-Projekte zu treffen, beteiligt sich am "Pubrace". Beim seit der FOSS4G 2016 beliebten Pubrace treffen sich Leute Abends ab 20 Uhr bei einem Getränk im <a href="https://www.openstreetmap.org/node/1581262116">Namenlos Bonn</a> am Tor zur Bonner Altstadt oder im <a href="https://www.openstreetmap.org/node/225642197">Pawlow</a> im Herzen derselbigen.
 		    <br>Wer Lust hat direkt auch am OSGeo Code Sprint teilzunehmen ist ebenso herzlich eingeladen. Anmeldung unter <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo Code Sprint</a>.
 		    </p>
 

@@ -27,11 +27,11 @@
                 <div class="app">Die aufgezeichneten Vorträge finden Sie im <a href="https://www.youtube.com/user/fossgis/videos">FOSSGIS-Youtube-Chanel</a>. </div>
 
 				<p>FOSSGIS steht für Freie und Open Source Software für Geoinformationssysteme. Die FOSSGIS-Konferenz ist im deutschsprachigenRaum die führende Konferenz zu diesem Thema. Sie behandelt neben FOSSGIS auch die Themen Open Data und OpenStreetMap.</p>
-                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> , Luxemburger Strasse 10, 13353 Berlin organisiert.</p>
+                <p>Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit der <a href="http://www.beuth-hochschule.de/">Beuth Hochschule für Technik Berlin</a> , Luxemburger Strasse 10, 13353 Berlin organisiert.</p>
 
-                <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
-                <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
-                <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
+                <div class="sponsor organizer"><a href="https://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
+                <div class="sponsor organizer"><a href="https://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
+                <div class="sponsor organizer"><a href="https://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
                 <div class="sponsor organizer"><a href="http://www.beuth-hochschule.de/"><img src="img/beuth.png" valign="middle"></a></div>
 
                 <p>Ziel der jährlich stattfindenden Konferenz mit mehr als 400 Teilnehmern ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie Open Street Map.</p>
@@ -82,7 +82,7 @@
 		  <div class="sponsor media" id="GIS-News"><a href="http://www.gis-news.de/" target="_blank"><img valign="middle" src="img/s/gis-news_de.png" width="180" height="68"></a></div>
 
 
-				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 				</p>
                 </div>
 				<?php include('inc/footer.inc'); ?>

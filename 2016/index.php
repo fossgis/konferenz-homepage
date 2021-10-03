@@ -26,12 +26,12 @@
 
 		        <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="http://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="http://www.zgis.at/">Z_GIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert und findet im Vorfeld der <a href="http://www.agit.at/">AGIT</a>  statt.</p>
+                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="http://www.zgis.at/">Z_GIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert und findet im Vorfeld der <a href="http://www.agit.at/">AGIT</a>  statt.</p>
 
                 <div class="organisers">
-                    <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
                 </div>
                 <p class="clear"></p>
                 <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>
@@ -56,7 +56,7 @@
 				 <div class="sponsor bronze" id="sourcepole"><a href="http://www.sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
 				 
 				 <br>
-				<p> Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+				<p> Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 
             </div>
 				<?php include('inc/footer.inc'); ?>

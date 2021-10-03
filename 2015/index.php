@@ -29,12 +29,12 @@
                 </div>
 
 		        <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
-                <p>Die FOSSGIS-Konferenz 2015 wird vom gemeinnützigen Verein <a href="http://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="http://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="http://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.uni-muenster.de/Geoinformatics/">Institut für Geoinformatik</a> und der <a href="http://www.uni-muenster.de/de/">Universität Münster </a> organisiert.</p>
+                <p>Die FOSSGIS-Konferenz 2015 wird vom gemeinnützigen Verein <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und der <a href="https://www.osgeo.org/">Open Source Geospatial Foundation (OSGeo)</a> in Zusammenarbeit mit dem <a href="http://www.uni-muenster.de/Geoinformatics/">Institut für Geoinformatik</a> und der <a href="http://www.uni-muenster.de/de/">Universität Münster </a> organisiert.</p>
 
                 <div class="organisers">
-                    <div class="sponsor organizer"><a href="http://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
-                    <div class="sponsor organizer"><a href="http://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.osgeo.org/"><img src="img/Osgeo_neu.png" valign="middle"></a></div>
+                    <div class="sponsor organizer"><a href="https://www.openstreetmap.de/"><img src="img/osm_2012.png" valign="middle"></a></div>
                     <div class="sponsor organizer"><a href="http://www.uni-muenster.de/Geoinformatics/"><img src="img/ifgi.jpg" valign="middle"></a></div>
                     <div class="sponsor organizer"><a href="http://www.uni-muenster.de/de/"><img src="img/wwu.jpg" valign="middle"></a></div>
                     <!--<div class="sponsor organizer"><a href="http://52north.org/"><img src="img/52n.png" valign="middle"></a></div>-->
@@ -83,7 +83,7 @@
 		 <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div>
 
 
-				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="http://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
+				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 				</p>
                 </div>
 				<?php include('inc/footer.inc'); ?>
