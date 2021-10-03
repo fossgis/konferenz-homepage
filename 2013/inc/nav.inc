@@ -1,15 +1,15 @@
 <ul id="mainNav">
     <li id="navHome">
-        <a href=".">Startseite</a>
+        <a href="/2013/">Startseite</a>
     </li>
     <li>
-                        <a href="programm/">Programm</a>
+                        <a href="/2013/programm/">Programm</a>
                     </li>
                     <li id="navSocial">
-                        <a href="socialevents/">Social Events</a>
+                        <a href="/2013/socialevents/">Social Events</a>
                     </li>
                     <li id="navAnreise">
-                        <a href="anreise/">Anreise &amp; Unterkunft</a>
+                        <a href="/2013/anreise/">Anreise &amp; Unterkunft</a>
                     </li>
                     <li><a href="https://www.fossgis.de/impressum/">Impressum</a></li>
                     <li class="twitter">

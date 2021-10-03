@@ -1,6 +1,6 @@
 <ul id="mainNav">
     <li id="navHome">
-        <a href="/2014">Startseite</a>
+        <a href="/2014/">Startseite</a>
     </li>
 
     <li>
