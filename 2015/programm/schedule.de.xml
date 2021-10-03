@@ -45,7 +45,7 @@ Anschlie&#223;ende Vorstellung des Goldsponsors WhereGroup GmbH &amp; Co. KG dur
         <slug></slug>
         <title>Nicht zuschauen - Mitmachen!</title>
         <subtitle>10 Arten, wie Sie OpenStreetMap voranbringen k&#246;nnen</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>OpenStreetMap lebt vom Mitmachen. Dieser Vortrag zeigt einige naheliegende und einiger weniger naheliegende Wege auf, wie auch Sie OpenStreetMap weiter voranbringen k&#246;nnen - als Privatperson, als Unternehmen, oder als Teil der &#246;ffentlichen Hand. </abstract>
@@ -75,7 +75,7 @@ Dieser Vortrag stellt die verschiedenen M&#246;glichkeiten vor, OSM zu helfen - 
         <slug></slug>
         <title>Softwarewartung f&#252;r OpenSource. Ein Widerspruch?</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>In meinem Vortrag m&#246;chte ich ein Thema diskutieren, das sowohl die Open Source Welt, als auch die kleine, heile FOSSGIS-Welt und damit nat&#252;rlich auch uns bei terrestris seit einiger Zeit umtreibt:
@@ -128,7 +128,7 @@ FOSSGIS in der Hochschule</abstract>
         <slug></slug>
         <title>Neues von QGIS 2.8</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Im Vortrag werden die wichtigsten neuen Features von QGIS 2.6 und der kommenden Version 2.8 vorgestellt. Es wird ein Blick auf die Entwicklung in Richtung QGIS 3 geworfen.</abstract>
@@ -147,7 +147,7 @@ FOSSGIS in der Hochschule</abstract>
         <slug></slug>
         <title>QGIS Plugins</title>
         <subtitle>Must-Haves, Fachl&#246;sungen und Geheimtipps</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Eine grosse St&#228;rke von QGIS ist die einfache, aber umfassende Erweiterbarkeit mittels Python Plugins. In kompakter Form wird eine Selektion aus der grossen Menge an &#246;ffentlich verf&#252;gbaren Plugins aus verschiedensten Bereichen vorgestellt.</abstract>
@@ -167,7 +167,7 @@ Die Auswahl geht vom bestens bekannten Open Layers Plugin und weiteren "Must-Hav
         <slug></slug>
         <title>Neues vom QGIS&#160;Print Composer und Atlas-Seriendruck</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Vortrag fasst die in den letzten QGIS-Versionen eingef&#252;hrten Verbesserungen im Print Composer und im Atlas-Seriendruck zusammen. 
@@ -192,7 +192,7 @@ Ein Ausblick erl&#228;utert die Pl&#228;ne f&#252;r die Einf&#252;hrung einer ne
         <slug></slug>
         <title> QField for QGIS</title>
         <subtitle>Eine native Benutzerschnittstelle f&#252;r mobile touch Ger&#228;te</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>QField ist die native Benutzerschnittstelle f&#252;r mobile touch Ger&#228;te und bietet eine vollwertige mobile GIS Daten Verwaltungsinfrastruktur. Das Synchronisationtool erm&#246;glicht einen nahtlose Datenaustausch zwischen dem mobilen Ger&#228;t und der vorhandenen Infrastruktur. Die Erg&#228;nzung der QGIS Suite mit einer native touch User Interface bietet den Anwendern eine vollwertige mobile GIS Daten Verwaltungsinfrastruktur. Die Ubiquit&#228;t von mobilen Ger&#228;ten aller Gr&#246;ssen ist in den letzten Jahren enorm gestiegen, auf dem stetig wachsenden Markt, kommen folglich immer mehr mobile Ger&#228;te in der Arbeitswelt zum Einsatz.</abstract>
@@ -243,7 +243,7 @@ Um den Arbeitsablauf noch weiter zu vereinfachen haben wir ein neues offline Syn
         <slug></slug>
         <title>Herausforderungen bei der Umsetzung der INSPIRE-Richtlinie</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Von Datenspezifikationen, komplexen Feature-Modellen, Open Source Softwareprodukten f&#252;r INSPIRE und Darstellungs- und Dounloaddiensten.</abstract>
@@ -275,7 +275,7 @@ Weiterhin wird am Beispiel QGIS auf vorhandene Einschr&#228;nkungen bei der Verw
         <slug></slug>
         <title>GeoPortal.rlp</title>
         <subtitle>Ein Erfolgsmodell f&#252;r den Einsatz von FOSS in der &#246;ffentlichen Verwaltung</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Dieser Vortrag illustriert anhand der Entstehungsgeschichte des rheinland-pf&#228;lzischen Geoportals, das mittlerweile auch im Saarland und in Hessen eingesetzt wird, welches immense Potential im Einsatz von FOSS-Software in der &#246;ffentlichen Verwaltung steckt. Der Vortrag diskutiert neben unerwarteten positiven Nebenwirkungen wie der verst&#228;rkten Zusammenarbeit der Verwaltungen auch Risiken und Probleme, die in der 9-j&#228;hrigen Geschichte des Projekts zu bew&#228;ltigen waren.</abstract>
@@ -299,7 +299,7 @@ Anhand der Entwicklung Projektes in den letzten 9 Jahren kann gezeigt werden wel
         <slug></slug>
         <title>Geonetzwerk metropoleRuhr</title>
         <subtitle>Die Geoinformationsplattform f&#252;r das Ruhrgebiet</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Das Geonetzwerk metropoleRuhr ist eine Kooperation der Kreise und kreisfreien St&#228;dte im Ruhrgebiet mit dem Regionalverband Ruhr. Ziele sind GDI-Aufbau, Pr&#228;sentation von Geodaten im eigenen Geoportal, Metadatenpflege, gegenseitige technische Unterst&#252;tzung und gemeinsame Umsetzung der INSPIRE-Richtlinie. Der Vortrag fokussiert den ersten Schritt der Bereitstellung eines gemeinsamen Geoportals.</abstract>
@@ -325,7 +325,7 @@ Der Vortrag fokussiert den ersten Schritt der Bereitstellung eines gemeinsamen G
         <slug></slug>
         <title>Spatial Index von Solr </title>
         <subtitle>Erfahrungen und Einblicke im Umgang mit Solr Spatial Index am Beispiel des Geoportal.de</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Seit der Version 4 bietet Solr Funktionen eines umfangreichen Spatial Indexes an. Am Beispiel des Geoportal.de sollen Erfahrungen und Einblicke in die Verwendung des Spatial Index mit Solr gegeben werden. Die GDI-DE stellt Beschreibungen und Zugangsdaten
@@ -374,7 +374,7 @@ Alle Interessierten sind herzlich eingeladen.</description>
         <slug></slug>
         <title>Was ist Open Source, wie funktioniert das?</title>
         <subtitle>Die Organisation der Open Geo- und GIS-Welt. Worauf man achten sollte.</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Open Source hat viele Facetten - und es ranken sich inzwischen ebenso viele Mythen darum. Was davon richtig ist und was nicht stellen wir in einer kurzen Einf&#252;hrung zusammen. Der Vortrag richtet sich an alle, die mit Open Source bisher noch wenig Kontakt hatten und die Grundlagen verstehen m&#246;chten.</abstract>
@@ -402,7 +402,7 @@ Ziel des FOSSGIS e.V. und der OSGeo ist die F&#246;rderung und Verbreitung freie
         <slug></slug>
         <title>Welches M&#252;nster meinen sie?</title>
         <subtitle>Wie man Geocodern beibringt Orte mit gleichen Namen richtig zu sortieren</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Wie sortiert man Orte nach Wichtigkeit, wenn sie den gleichen Namen haben? Wir schauen uns Daten zu Suchverhalten, Gr&#246;&#223;e, Bev&#246;lkerungsdichte, Tagging in OpenStreetMap und Verlinkung in Wikipedia/Wikidata anhand des Nominatim Geocoders an.</abstract>
@@ -429,7 +429,7 @@ Privat wohne ich in M&#252;nster und freue mich nicht nach Karlsruhe (state of t
         <slug></slug>
         <title>Offene Geodaten-Lage von Orten im Vergleich</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Offene Geodaten bez&#252;glich der Lage von Orten (GeoNames Geographical Database, OSM, Wikipedia) werden vergleichend miteinander und in Bezug zu offenen amtlichen Geodaten untersucht.</abstract>
@@ -457,7 +457,7 @@ F&#252;r den erstgenannten Aspekt wurden die genannten Datenquellen zun&#228;chs
         <slug></slug>
         <title>Drohnen-Mapping </title>
         <subtitle>Wie kann man mit Bildern einer Flugdrohne  zu OSM beisteuern? </subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Technische und legale Aspekte werden diskutiert, sowie die Frage der Genauigkeit und Verlaesslichkeit solcher erhobenen Bild-Daten. </abstract>
@@ -477,7 +477,7 @@ Geometrische Verzeichnung, Referenzierung zu Fixpunkten, Linsen-Parameter stelle
         <slug></slug>
         <title>Ein GeoWiki auf OSM-Basis</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Wikis bieten editierbare Informationen in Text und Bild, OSM geographische Objekte u.a. in Kartenform. Unser GeoWiki leistet eine enge Integration beider Konzepte, indem Textstellen direkt und interaktiv auf Geoobjekte verweisen und umgekehrt. Die referenzierten und dargestellten Geoobjekte m&#252;ssen dabei nicht zwingend in der OSM-Datenbank vorliegen, sondern k&#246;nnen auch vom Nutzer im Wiki direkt angelegt werden. Zum einen senkt dies die Hemmschwelle etwas falsch zu machen, zum anderen erlaubt es die Nutzung des GeoWikis f&#252;r private Daten.</abstract>
@@ -760,7 +760,7 @@ am Rande der FOSSGIS Konferenz statt.</abstract>
         <slug></slug>
         <title>OpenLayers 3</title>
         <subtitle>Stand, Neues &amp; Zuk&#252;nfiges </subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>OpenLayers 3 wird vorgestellt, zahlreiche Beispiele zeigen die Verwendung. Unterschiede zur Vorg&#228;ngerversion werden aufgezeigt und auch wo und warum OpenLayers 3 anders ist. Aktuelle Entwicklungen, wie etwa das OL3-Cesium Project, welches die dritte Dimension f&#252;r OpenLayers zu&#228;nglich macht, werden pr&#228;sentiert und ein Blick in die zuk&#252;nftige Entwicklung gewagt.
@@ -786,7 +786,7 @@ Der Vortrag wird OpenLayers 3 vorstellen und zahlreiche Beispiele der Verwendung
         <slug></slug>
         <title>Ein Duett: OpenLayers 3 im Zusammenspiel mit AngularJS</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>AngularJS im Zusammenspiel mit OpenLayers3. Zwei m&#228;chtige Javascript-Bibliotheken treffen aufeinander. Potentiale des Zusammenspiels beider Komponenten werden anhand von Praxisbeispielen aufgezeigt. </abstract>
@@ -810,7 +810,7 @@ Neben dem Einblick in die Entwicklung und der Pr&#228;sentation einiger Praxisbe
         <slug></slug>
         <title>GeoExt</title>
         <subtitle>Ein ExtJS basiertes Rich-Client-WebGIS-Framework in Zeiten von AngularJS und Konsorten</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Der Vortrag stellt die neueste Version von GeoExt vor und zeigt auf, welches Handwerkszeug dem Entwickler hier bereitsgestellt wird. Unterschiede zwischen ExtJS und anderen Bibliotheken werden benannt, dies kann als Diskussionsgrundlage f&#252;r die Wahl einer Bibliothek dienen. Schwerpunkt ist die Betrachtung der zuk&#252;nftigen Entwicklung von GeoExt. 
@@ -842,7 +842,7 @@ Zum Zeitpunkt der Abstract-Einreichung wird an GeoExt massiv weiterentwickelt: E
         <slug></slug>
         <title>MapServer Pro-Tipps</title>
         <subtitle>Das 'Do what I want' Know How f&#252;r den UMN MapServer</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>&#220;ber das Basiswissen hinaus gehende Funktionen des MapServers, wie PHP-Fassaden, JOINs mit Datei basierten Datenquellen, ColorRanges, Buildt-In Openlayers-Client, Cluster von Punktobjekten, Geomtransform, IP-Zugriffsbeschr&#228;nkung sind Themen des Vortrages.
@@ -871,7 +871,7 @@ Themen:
         <slug></slug>
         <title>Mapnik oder MapServer</title>
         <subtitle>...wer macht die sch&#246;nsten Karten</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mit Mapnik und MapServer stehen zwei OpenSource Kartenrenderer zur Verf&#252;gung, die in Geschwindigkeit, Funktionsumfang und Bildqualit&#228;t kaum W&#252;nsche &#252;brig lassen. Aber welche Software nehme ich f&#252;r mein Projekt?</abstract>
@@ -898,7 +898,7 @@ Der Vortrag zeigt ausserdem anhand von Beispielen, welche Software das bessere K
         <slug></slug>
         <title>GeoServer in action</title>
         <subtitle>Fortgeschrittene M&#246;glichkeiten beim Einsatz des GeoServers</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>GeoServer in action - Der Vortrag fokussiert sich weniger auf die "Out-of-the-box"-Verwendung des GeoServers, sondern beleuchtet vielmehr fortgeschrittene M&#246;glichkeiten beim Einsatz dieser Software. Es geht um Kompilieren, Schnittstellenverwendung, Extensions, Performance-Tuning, GeoWebCache-Einsatz, Troubleshooting und Stolperfallen.</abstract>
@@ -927,7 +927,7 @@ Der Vortrag richtet sich an Entwickler, Anwender und Interessierte.</description
         <slug></slug>
         <title>Routing in der Datenbank</title>
         <subtitle>K&#252;rzeste-Wege-Berechnung und mehr mit pgRouting</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Diese Pr&#228;sentation gibt einen &#220;berblick &#252;ber das pgRouting Projekt und den aktuellen Entwicklungsstand. Die pgRouting-Erweiterung erm&#246;glicht es, auf Daten in einer PostgreSQL-Datenbank eine k&#252;rzeste-Wege-Suche und andere netzorientierte Algorithmen anzuwenden. Neben den etablierten Funktionen sind f&#252;r die nahe Zukunft eine Reihe neuer Algorithmen zur Tourenplanung zu erwarten. Dieser Vortrag stellt die verschiedenen Algorithmen vor und geht darauf ein, wie die Struktur der Netzdaten die Leistung des Systems beeinflussen kann.</abstract>
@@ -952,7 +952,7 @@ Sie erfahren zudem, warum die Datenstruktur der Netzdaten wichtig ist, um besser
         <slug></slug>
         <title>PostGIS Memento</title>
         <subtitle>Versionierung von PostGIS-Datenbanken</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Memento. Gibt es nicht einen Film, der so hei&#223;t? Jemand, der kein Ged&#228;chtnis hat und sich alle Ereignisse aufschreibt? Zumindest geht es bei pgMemento darum. pgMemento zeichnet alle Ver&#228;nderungen in einer PostgreSQL Datenbank auf und erlaubt die Wiederherstellung beliebiger fr&#252;here Zeitst&#228;nde.</abstract>
@@ -975,7 +975,7 @@ pgMemento ist komplett in PL/pgSQL programmiert, d.h. die Versionierungslogik is
         <slug></slug>
         <title>Docker f&#252;r den GIS-Einsatz</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Mit der leichtgewichtige Virtualisierungs-Software Docker schnell und einfach Anwendungs-Container f&#252;r Ihre GIS-Fachanwendung erstellen. Haben die GIS-Admins demn&#228;chst wieder mehr Zeit f&#252;r ungleich spannendere Aufgaben als die Installation von Fachanwendungen? Diese Fragen werden im Vortrag beleuchtet und mit der Erstellung eines Anwendungs-Container f&#252;r die Breitstellung eines WMS-Dienstes abgerundet.</abstract>
@@ -1000,7 +1000,7 @@ All diese Fragen werden im Vortrag auf der FOSSGIS 2015 in M&#252;nster beleucht
         <slug></slug>
         <title>GeoCouch</title>
         <subtitle>Ein multidimensionaler Index f&#252;r Couchbase</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>GeoCouch ist ein multidimensionaler Index f&#252;r Couchbase, einer verteilten dokumentenorientierten Datenbank. Diese sind nicht auf zwei Dimensionen begrenzt, sondern k&#246;nnen durch weitere Attribute erweitert werden. So ist es m&#246;glich Faktoren, wie Zeit, Ausma&#223; oder Kategorien einzubeziehen. Dieser Vortrag wird eine kurze Einf&#252;hrung in Couchbase, die r&#228;umliche Abfragen erm&#246;glicht, und die Datenmodellierung geben und dann in eine Live-Demonstration &#252;bergehen.
@@ -1029,7 +1029,7 @@ Couchbase ist Open-Source und unter der Apache Lizenz 2.0 lizenziert.
         <slug></slug>
         <title>Vector Tiles</title>
         <subtitle>Performante &#220;bertragung von umfangreichen Vektordaten</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Vortrag beleuchtet die Vor- und Nachteile von Vectortiling und der Vektordaten-Prozessierung im Client allgemein. Als praktischer Anwendungsfall wird das Prinzip der Vectortiles anhand des Software-Stacks TileStache, OpenLayers3 und PostGIS auf Basis von OSM-Daten vorgestellt.</abstract>
@@ -1073,7 +1073,7 @@ Der Vortrag beleuchtet die Vor- und Nachteile von Vectortiling und der Vektordat
         <slug></slug>
         <title>GRASS Funktionalit&#228;t in QGIS nutzen</title>
         <subtitle>M&#246;glichkeiten der optimalen Interaktion von QGIS und GRASS</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Seit 2005 ist GRASS GIS in QGIS &#252;ber das GRASS Plugin integriert und stellt hunderte Analysemethoden &#252;ber QGIS bereit - erg&#228;nzend mittlerweile auch &#252;ber das Processing und WPS Plugin. Wir vergleichen die drei Varianten und schauen in die Zukunft.
@@ -1100,7 +1100,7 @@ Als Abschluss stellen wir die Aktuelle Entwicklung der Interaktion zwischen GRAS
         <slug></slug>
         <title>Zeitreihenanalyse mit GRASS GIS</title>
         <subtitle>GRASS das temporale Open Source GIS</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Durch die Integration der Zeit als neue Dimension in GRASS GIS stehen nun &#252;ber 45 Werkzeuge zur Zeitreihenalayse bereit. Eine Auswahl an Werkzeugen f&#252;r die Analyse, Verarbeitung und Visualisierung von Raster- und Vektor-Zeitreihen wird vorgestellt.</abstract>
@@ -1135,7 +1135,7 @@ Diese umfassen die:
         <slug></slug>
         <title>Kreisbogen in QGIS</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Neben den g&#228;ngigen Vektorelementen (Punkt, Linie, Polygon) unterst&#252;tzt QGIS neu Kreisbogengeometrien. Es ist jetzt m&#246;glich solche Geometrietypen (ST_CircularString, ST_CompoundCurve, ST_CurvePolygon etc.) aus einer Postgis-Datenbank zu lesen, anzuzeigen, zu editieren und wieder zu speichern.</abstract>
@@ -1162,7 +1162,7 @@ Aktuelle Entwicklungen in anderen Projekten (ogr2ogr, GeoServer) zeigen, dass di
         <slug></slug>
         <title>Geospatial Ruby</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Talk &#187;Geospatial Ruby&#171; gibt einen &#220;berblick dar&#252;ber, was mit Ruby im Geo Bereich m&#246;glich ist. Viele gro&#223;e erfolgreiche Webprojekte sind mit Ruby und dem dazugeh&#246;rigen Webframework Rails umgesetzt worden. </abstract>
@@ -1196,7 +1196,7 @@ Es k&#246;nnen sowohl einfache Raster-Tiles als auch komplexere Vektor-Tiles aus
         <slug></slug>
         <title>Jsonix: OGC Web Services in JSON</title>
         <subtitle>nie mehr XML in JavaScript-Apps verarbeiten, mit Jsonix spricht JSON mit den OGC Web Services </subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Wie kann man mit den OGC Web Services in reinem JSON (statt XML) sprechen? Mit Jsonix, einem m&#228;chtigen JavaScript-Tool f&#252;r XML&lt;-&gt;JSON Konvertierung. Es gibt Live-Demos von WMS, WFS, CSW sowie OL3 WPS Client.</abstract>
@@ -1228,7 +1228,7 @@ Dieser Vortrag gibt eine &#220;berblick von Jsonix und zeigt es Live in WMS, WFS
         <slug></slug>
         <title>Serverseitiges JavaScript und GIS</title>
         <subtitle>Mit Node.js und npm die Welt beherrschen</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Vortrag gibt eine allgemeine Einf&#252;hrung in eine recht junge Open Source Plattform f&#252;r serverseitige Netzwerkanwendungen Node.js und zeigt wie mit Node.js geo-relevante Probleme, wie das Einlesen von GIS-Datenformaten sowie die Verarbeitung von Geodaten m&#246;glich werden. Ebenso wird eine &#220;bersicht von n&#252;tzlichen Node.js-Modulen aus dem GIS-Bereich sowie Beispielanwendungen vorgestellt.</abstract>
@@ -1255,7 +1255,7 @@ Der Vortrag gibt eine allgemeine Einf&#252;hrung in die Node.js-Welt und zeigt w
         <slug></slug>
         <title>Erfassung von Landnutzungsver&#228;nderungen mit FOSS Image Processing Tools</title>
         <subtitle>Change Detection mit QGIS - Landnutzungs- und -bedeckungsver&#228;nderungen erfassen </subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Im Rahmen einer Masterarbeit am Geographischen Institut der Universit&#228;t Bonn wurden zwei Change Detection Verfahren mit Free &amp; Open Source Image Processing Tools angewandt und evaluiert.  Ver&#228;nderungen der Landnutzung- und -bedeckung konnten mit diesen Verfahren quantitativ erfassen werden. </abstract>
@@ -1274,7 +1274,7 @@ Der Vortrag gibt eine allgemeine Einf&#252;hrung in die Node.js-Welt und zeigt w
         <slug></slug>
         <title>Automatisiertes Geodatenmanagement mit  GeoKettle</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Dieser Vortrag stellt verschiedene Einsatzm&#246;glichkeiten der freien ETL-Software GeoKettle vor. GeoKettle ist die Open Source-Alternative zur verbreiteten Software "FME" und kann nicht nur Geodatenformate konvertieren, sondern beispielsweise auch Objekte verteilen und zusammenfassen, redundante Daten finden oder Prozesse in einer grafischen Oberfl&#228;che modellieren.</abstract>
@@ -1307,7 +1307,7 @@ Benutzen der Shellskripte zur automatisierten Verwendung von GeoKettle &#252;ber
         <slug></slug>
         <title>WPS, GeoServer und SHOGun</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Vortrag stellt die Erweiterung des SHOgun Frameworks als WPS-CLient dar. Als WPS Server kommt der GeoServer-WPS zum Einsatz. Der Vortrag wird zum einen kurz die Mechanismen des WPS erl&#228;utern, die Einbindung in das SHOGun Framework an praktischen Beispielen zeigen und am Ende die M&#246;glichkeiten, die sich daraus f&#252;r ein WebGIS ergeben, vorstellen. Das Prinzip eines WPS wird vorgestellt und die Umsetzung innerhalb von SHOGun gezeigt, St&#228;rken, Potentiale, aber auch Schw&#228;chen oder m&#246;gliche Begrenzungen werden gezeigt.</abstract>
@@ -1333,7 +1333,7 @@ Der Vortrag stellt das Prinzip eines WPS vor und die Umsetzung innerhalb von SHO
         <slug></slug>
         <title>Mapbender3 f&#252;r den einfachen Aufbau von WebGIS Anwendungen </title>
         <subtitle>So einfach ist der Aufbau von WebGIS Anwendungen mit Mapbender3</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mapbender3 ist eine Software zur einfachen Erstellung von WebGIS Anwendungen. &#220;ber ein paar Klicks k&#246;nnen mit dem webbasierten Administrations-Backend individuelle Anwendungen erstellt werden, eine Benutzer- und Gruppenverwaltung mit der M&#246;glichkeit Rechte zuzuweisen. Der Vortrag geht vor allem auf die neuen Komponenten in Mapbender3 ein und stellt diese vor. Anpassung an das eigne Layout durch den webbasierten CSS-Editor, suchen in eignen Daten und Rechteverwaltung werden thematisiert.</abstract>
@@ -1356,7 +1356,7 @@ Der Vortrag geht vor allem auf die neuen Komponenten in Mapbender3 ein und stell
         <slug></slug>
         <title>Erfahrungen mit Sensor Web-Anwendungen</title>
         <subtitle>Erfahrungen mit Sensor Web-Anwendungen f&#252;r mobile Ger&#228;te und Desktop-Anwendungen</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Dieser Vortrag stellt einen freien, auf JavaScript basierenden Sensor Web-Client vor, der auf allen Arten von Endger&#228;ten von Mobiltelefonen bis hin zu Desktop-PCs einsetzbar ist. Er geht auf die Entwicklung des Clients und auf seine Nutzung als eigenst&#228;ndige Software und als Basis eigener Projekte ein.</abstract>
@@ -1399,7 +1399,7 @@ Ziel dieses Vortrags ist es, die Erfahrungen mit der Entwicklung vorzustellen un
         <slug></slug>
         <title>OSM und die Kunst die Welt zu ordnen</title>
         <subtitle>Sprachliche und logische Aspekte des Taggingschemas in OpenStreetMap</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Auseinandersetzung mit der Frage des &#8222;richtigen&#8220; taggings, also der &#8222;richtigen&#8220; Wiedergabe der Wirklichkeit mittels Tags, aus Sicht der Logik und sprachwissenschaftlicher Erkenntnisse.</abstract>
@@ -1422,7 +1422,7 @@ Dabei zeigt sich, dass h&#228;ufig schon bei der Diskussion eines Problems anein
         <slug></slug>
         <title>OSM auf R&#228;der</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Sind die OSM Karten soweit, um den Wettbewerb mit kommerziellen Karten im Autonavigationsbereich aufzunehmen?</abstract>
@@ -1448,7 +1448,7 @@ Elektrobit wird w&#228;hrend des Vortrages zum ersten Mal eine praktische Implem
         <slug></slug>
         <title>Automatisierte OSM Aufbereitung &amp; Analyse von LKW-Mautstrecken in Deutschland</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Das beschriebene Tool und die damit erzeugten Mautdaten erleichtern den OSM-Mappern die Arbeit. F&#252;r ihn validiert das Tool durch Routinganalyse die OSM-Daten, basierend auf dem Tagging-Schema mit mautbezogenen Routingparametern, wie Fahrzeug-, Achs-, Gewichtsklasse und Betreiber. Es l&#228;sst sich beispielsweise die schnellste und g&#252;nstigste Strecke, bezogen auf die zu entrichtende Stra&#223;enmaut, ermitteln und grafisch anzeigen.</abstract>
@@ -1470,7 +1470,7 @@ Das in dieser Arbeit beschriebene Tool und die damit erzeugten Mautdaten erleich
         <slug></slug>
         <title>Daten aus OSM extrahieren und in QGIS weiterverarbeiten </title>
         <subtitle>Am Beispiel der Verteilung von Windanlagen in Deutschland</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Die OSM-Daten enthalten viele umweltrelevante Informationen, die auf den ver&#246;ffentlichten Webkarten nicht offensichtlich erkennbar sind. Mit Hilfe von QGIS lassen sich diese Informationen auswerten und in neue aussagekr&#228;ftigen Karten umsetzen.</abstract>
@@ -1489,7 +1489,7 @@ Das in dieser Arbeit beschriebene Tool und die damit erzeugten Mautdaten erleich
         <slug></slug>
         <title>taginfo und wie es die Welt sah</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract></abstract>
@@ -1509,7 +1509,7 @@ Das in dieser Arbeit beschriebene Tool und die damit erzeugten Mautdaten erleich
         <slug></slug>
         <title>Crowd-Sourced Elevation</title>
         <subtitle>DIY DEM</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Dieser Vortrag zeigt einen neuen Ansatz auf, wie mit handels&#252;blichen Smartphones ein hochgenaues digitales H&#246;henmodell mit Hilfe von Crowd-Sourcing erzeugt werden kann, das sowohl hinsichtlich Aufl&#246;sung als auch Genauigkeit SRTM weit &#252;berlegen ist. Ebenso gibt es einen &#220;berblick zum Thema H&#246;henmodelle sowie Umfang, Aufl&#246;sung und Genauigkeit verschiedener Datenquellen.</abstract>
@@ -1536,7 +1536,7 @@ Dieser Vortrag beginnt mit einem &#220;berblick zum Thema H&#246;henmodelle und 
         <slug></slug>
         <title>MTSatellite</title>
         <subtitle>Echtzeit Webmapping f&#252;r Minetest-Welten oder Spiel-Spass mit GIS</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Vortrag stellt die Freie Software MTSatellite vor, ein Live-Webmapping System f&#252;r das Open World/Sandbox-Spiel Minetest. Der Vortrag f&#252;hrt das System vor und gibt eine teils vertiefende &#220;bersicht &#252;ber die eingesetzen Technologien sowohl aus GIS- als auch aus Sicht eines passionierten Minetest-Spielers.</abstract>
@@ -1581,7 +1581,7 @@ Der Vortrag f&#252;hrt das System vor und gibt eine teils vertiefende &#220;bers
         <slug></slug>
         <title>Stra&#223;enrennen in der Innenstadt</title>
         <subtitle>SuperTuxKart-Strecken bauen mit OSM2World</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Gr&#252;nder des Open-Source-Projekts OSM2World erz&#228;hlt von einer weiteren spannenden Anwendungsm&#246;glichkeit des 3D-Renderers: Die Erstellung von Rennstrecken f&#252;r das Computerspiel SuperTuxKart.</abstract>
@@ -1606,7 +1606,7 @@ Stolperfallen sind dabei unter anderem subtile Unterschiede bei der Interpretati
         <slug></slug>
         <title>Prokitektura: prozedurale realistische 3D Geb&#228;ude und St&#228;dte</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Prokitektura is ein prozedurales und iteratives Verfahren f&#252;r Schaffung architektonischer 3D Modelle. Ein Satz kleiner Funktionen auf Python wird verwendet um 3D Geb&#228;ude zu generieren. Der Vortrag zeigt wie man ein einfaches Geb&#228;ude mit Prokitektura schafft und wie man bestimmte Bebauungstypen in einer Stadt simuliert.</abstract>
@@ -1633,7 +1633,7 @@ Um einen bestimmten Bebauungstyp in einer Stadt zu simulieren, &#228;ndert man g
         <slug></slug>
         <title>Die neue WebGL-basierte Plattform f&#252;r OSM-3D</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>In diesem Vortrag wird die technische Archtektur, das Funktiondesign und die Implementierung der neue WebGL-basierte Plattform von OSM-3D pr&#228;sentiert. Der Detailreichtum im OpenStreetMap (OSM) Projekt w&#228;chst stetig. Besonders in urbanen R&#228;umen werden zunehmend Geb&#228;ude und weitere Objekte wie Stra&#223;enm&#246;bel aufgenommen. Daraus k&#246;nnen interaktive Visualisierungen der 3D Stadtmodelle und 3D Gel&#228;ndemodelle erstellt werden. Das neue Interface f&#252;r interaktive Erfassungen von Dach- und Fassadenstrukturen wird vorgestellt und mit Beispielen demonstriert. Diskussion von Vorschl&#228;gen zur Verbesserungen der neuen Plattform sind erw&#252;nscht. </abstract>
@@ -2042,7 +2042,7 @@ GRASS GIS 7 ist ein freies und open source Geographisches Informationssystem (GI
         <slug></slug>
         <title>Abschlu&#223;veranstaltung</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>other</type>
         <language>de</language>
         <abstract>Die Abschlussveranstaltung der FOSSGIS-Konferenz 2015 blickt auf die gelaufene Konferenz und auf die n&#228;chste. Wir d&#252;rfen alle gespannt sein. In diesem Rahmen findet auch die Verlosung statt, an der alle teilnehmen, die den Teilnehmerfeedbackbogen ausgef&#252;llt haben.</abstract>
@@ -2084,7 +2084,7 @@ GRASS GIS 7 ist ein freies und open source Geographisches Informationssystem (GI
         <slug></slug>
         <title>&#214;ffentliche Projekte und Open Source</title>
         <subtitle>Open Source Software in der &#246;ffentlichen Verwaltung am Beispiel der GDI-DE Testsuite</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Anhand der GDI-DE Testsuite wird dargestellt, wie die GDI-DE die Strukturen von Open Source Projekten, wie sie u.a. durch die OSGeo beschrieben werden, in Ihren Komponenten verwendet. Betriebsstelle GDI-DE im Bundesamt f&#252;r Kartographie und Geod&#228;sie (BKG) wurde als Schnittstelle zwischen der fachlichen und der technischen Umsetzung geschaffen. Der Vortrag bietet einen Einblick in die t&#228;gliche Arbeit der Betriebsstelle. Die Ziele sowie die H&#252;rden im t&#228;glichen Betrieb werden vorgestellt.</abstract>
@@ -2105,7 +2105,7 @@ Mit der Einrichtung der Betriebsstelle GDI-DE im Bundesamt f&#252;r Kartographie
         <slug></slug>
         <title>Das audiovisuelle Erbe der OSGeo-Projekte </title>
         <subtitle>Referenzfall GRASS GIS - und Star Trek</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Dieser Vortrag diskutiert die Problematik der Archivierung aller Aspekte von Open Source-Projekten und stellt das AV-Portal der Technischen Informationsbibliothek (TIB) vor. Das Portal ist eine zukunftssichere Alternative zum h&#228;ufig praktizierten eher fl&#252;chtigen Datenaustausch &#252;ber Plattformen wie Youtube oder Slideshare und kann nicht nur Metadaten eines Videos indexieren, sondern auch die gesprochene Sprache, Texteinblendungen oder Bildinformationen.</abstract>
@@ -2127,7 +2127,7 @@ Der Nutzen wird am Beispiel der erfolgreichen digitalen Erschlie&#223;ung des GR
         <slug></slug>
         <title>Der schwere Werdegang zu einem FOSSGIS-Open Source Projekt</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>OpenSource machen ist einfach. Ein bisschen Code geschrieben, einen schicken Lizenz-Header oben dr&#252;ber gepastet und ab damit auf Git oder eine andere hippe Plattform. Aber damit ist es dann meistens doch nicht getan. Der Vortrag beschreibt warum.</abstract>
@@ -2150,7 +2150,7 @@ Der Vortrag widmet sich dem Prozess hin zu einem &#8222;echten&#8220; OpenSource
         <slug></slug>
         <title>3D GIS Stack aus OpenSource Komponenten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>In den letzten Jahren hat die dritte Dimension auch Einzug in den g&#228;ngigen FOSSGIS L&#246;sungen (PostGIS, QGIS, OpenLayers etc.) gehalten, so dass mittlerweile ein kompletter 3D-GIS-Stack aus OpenSource L&#246;sungen realisiert werden kann. Das wichtigste Ziel der hier vorgestellten Projekte ist die Interaktion mit 3D-Webkarten. Der Anwender soll in der Lage sein, mit den 3D-Modellen &#252;ber das Web arbeiten zu k&#246;nnen und sie nicht nur zu betrachten.</abstract>
@@ -2177,7 +2177,7 @@ Das wichtigste Ziel der hier vorgestellten Projekte ist die Interaktion mit 3D-W
         <slug></slug>
         <title>Cesium - der 3D-Globus im Web</title>
         <subtitle>Open Source Technologie in drei Dimensionen</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Cesium ist ein performantes und interoperables Tool f&#252;r die Visualisierung von Daten im dreidimensionalen Kontext. Stichworte zum Vortrag: 3D - JavaScript - Open Source - WebGL - Zeitabh&#228;ngige Darstellung - OGC Standards - Openlayers 3 API - Demos und Beispiele.</abstract>
@@ -2207,7 +2207,7 @@ Ausserdem wird die Kombination von Openlayers3 mit Cesium vorgestellt und ein Au
         <slug></slug>
         <title>Projekt Umweltzone</title>
         <subtitle>zwischen Open Data und OpenStreetMap</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>In diesem Vortrag wird das Projekt "Umweltzone" vorgestellt. Dabei handelt es sich um eine kostenlose Open-Source-Anwendung f&#252;r Android-Ger&#228;te, mit der sich Benutzer &#252;ber die Lage der Umweltzonen verschiedener deutscher St&#228;dte informieren k&#246;nnen. Die Herausforderung bestand in der Recherche, Beschaffung, Digitalisierung bzw. Umwandlung und Integration der Geoinformation zu den Umweltzonen. </abstract>
@@ -2234,7 +2234,7 @@ Weiterhin berichtet der Vortrag &#252;ber den Verlauf und Erfolg der "Umweltzone
         <slug></slug>
         <title>con4gis - spontanes vom GIS Baukasten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2253,7 +2253,7 @@ Weiterhin berichtet der Vortrag &#252;ber den Verlauf und Erfolg der "Umweltzone
         <slug></slug>
         <title>Linked Data basierter Explorer</title>
         <subtitle>Ein Assistenzsystem zur Erforschung von Umweltdaten f&#252;r krebsrelevante Ursache-Wirkungs-Beziehungen im raum-zeitlichen Kontext</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>student_project</type>
         <language>de</language>
         <abstract>Die Webapplikation, basierend auf Linked Data, erm&#246;glicht als Assistenzsystem die Erforschung von Ursache-Wirkungs-Beziehungen zwischen Krebstypen und Umweltstoffen innerhalb einer vordefinierten Region durch dynamische Geovisualisierungen.</abstract>
@@ -2275,7 +2275,7 @@ Der Workflow, beginnend mit den Rohdaten &#252;ber die semantische Modellierung 
         <slug></slug>
         <title>Location-based Task Management</title>
         <subtitle>Standortbezogene Aufgabenverwaltung f&#252;r mobile Arbeitspl&#228;tze</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>FOSS4G Software kann bei vielerlei Aufgaben mit Raumbezug helfen, Arbeitsabl&#228;ufe zu verbessern und zu optimieren, und die Mitarbeiter bei Ihrer t&#228;glichen Arbeit zu entlasten. Dieser Vortrag stellt ein Konzept vor f&#252;r "Location-based Task Management".</abstract>
@@ -2299,7 +2299,7 @@ Mit der Optimierung von Arbeitsabl&#228;ufen und Tourenplanung im Hinterkopf, un
         <slug></slug>
         <title>MapFish Print V3: Printing maps like a boss</title>
         <subtitle>The next generation of printed maps</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Dieser Vortrag stellt die neue Version von MapFish Print vor und spricht Themen an wie die neuen Features und deren Nutzung, die Erstellung von Templates mit dem Report-Designer von JasperReports, Upgrade von der vorherigen Version, Skalierbarkeit und Erweiterung durch eigene Module.</abstract>
@@ -2335,7 +2335,7 @@ Diese Pr&#228;sentation richtet sich an Web-Entwickler und Projektleiter, und sp
         <slug></slug>
         <title>Indoor Routing in Geb&#228;uden des &#246;ffentlichen Verkehrs auf Basis von OpenStreetMap Daten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>In unserem Vortrag m&#246;chten wir unser Konzept der Indoor Navigation vorstellen und Erfahrungen und &#8222;Best Practices&#8220; pr&#228;sentieren die wir bei der Indoor Erfassung von Geb&#228;uden des &#246;ffentlichen Verkehrs gemacht haben.
@@ -2359,7 +2359,7 @@ In unserem Vortrag m&#246;chten wir unser Konzept der Indoor Navigation vorstell
         <slug></slug>
         <title>Neues zu BRouter</title>
         <subtitle>- mehr als nur Outdoor-Navigation -</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Dieser Vortrag stellt einige der Neuerungen aus dem letzten Jahr beim Projekt BRouter vor, mit einem besonderen Augenmerk auf den neuen M&#246;glichkeiten im Hinblick auf Spezialanwendungen durch das neue, flexiblere Datenmodell.</abstract>
@@ -2396,7 +2396,7 @@ In unserem Vortrag m&#246;chten wir unser Konzept der Indoor Navigation vorstell
         <slug></slug>
         <title>Schatzsuche in OpenStreetMap</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mit der Overpass API lassen sich auch ungew&#246;hnliche Daten in OpenStreetMap finden - und bewundern, ihnen nachsp&#252;ren oder sie korrigieren. Neben einer Pr&#228;sentation der Ergebnisse des Vergleiches von Bonn und M&#252;nster werden dabei auch ausf&#252;hrlich die verwendeten Overpass-API-Abfragen vorgestellt, so dass jeder die Abfragen leicht f&#252;r seine Stadt wiederholen oder inhaltlich auf seine Bed&#252;rfnisse anpassen kann.</abstract>
@@ -2425,7 +2425,7 @@ Neben einer Pr&#228;sentation der Ergebnisse f&#252;r die beiden benannten St&#2
         <slug></slug>
         <title>FlatMatch: Online-Wohnungssuche mit OSM-Daten</title>
         <subtitle>K&#246;nnen wir tausende deutsche Vermieter zu OSM-Mitwirkenden machen?</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Interaktive 3D-Wohnungsbesichtigung im Browser auf Basis von OSM-Daten erm&#246;glicht ein besseres Bewerten freier Wohnungen und deren Umfeld. Und sie macht Vermieter zu OSM-Stakeholdern. Die Mitarbeit kommerzieller Nutzer an OSM h&#228;ngt jedoch allein davon ab, ob sie dadurch einen wirtschaftlichen Mehrwert erhalten. Diese Vortrag stellt ein Projekt vor, dass potentiell zehntausende kleine und mittlere Unternehmen in Deutschland diesen Mehrwert bietet.</abstract>
