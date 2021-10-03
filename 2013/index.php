@@ -77,39 +77,21 @@
 						<a href="https://mingle.io//"><img src="img/s/mingleio.PNG" width="200" height="32"></a>
 						<br>
 
-
-
-
-
-
-
-
-
 					</p>
 					<h3>Mediasponsoren</h3>
 					<p class="logos">
 						<a href="http://www.vde-verlag.de//"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a>
 						<a href="http://www.boinx.com//"><img valign="middle" src="img/s/boinx.png" width="190" height="28"></a>
-
-
-
 					</p>
 
 					<h3>Medienpartner</h3>
 					<p class="logos">
 						<a href="http://www.geomatik.ch//"><img valign="middle" src="img/s/Geomatik_Schweiz.PNG" width="150" height="49"></a>
-
-
 					</p>
-
-					<p>
-                        		Sie möchten die FOSSGIS-Konferenz als Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/2013/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a>
-                       		 oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
-                    			</p>
 
                 </div>
             </div>
-			<footer>Website by <a href="http://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
+			<footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>

@@ -124,38 +124,6 @@ body#social li#navSocial a:visited {
 	color: #ea5810;
 }
 
-ul#mainNav li.twitter {
-	border-bottom: 1px dotted #ea5810;
-	border-top: 1px dotted #ea5810;
-	margin-top: 3em;
-	padding: 5px;
-	color: #333335;
-	font-weight: normal;
-}
-
-ul#mainNav li.twitter a:hover,
-ul#mainNav li.twitter a:active,
-ul#mainNav li.twitter a:focus {
-	text-decoration: underline;
-}
-
-ul#mainNav li.twitter a:link,
-ul#mainNav li.twitter a:visited {
-	font-weight: normal;
-	color: #38d5ff;
-}
-
-ul#mainNav li.twitter a.twLink {
-	display: block;
-	width: 130px;
-	height: 24px;
-	text-align: left;
-	background: url(../img/logo_twitter.png) no-repeat 50% 50%;
-	text-indent: -9999em;
-	margin: 0 0 1em 107px;
-}
-
-
 /**
  * MAIN CONTENT
  */
@@ -209,6 +177,3 @@ div.hotel {
 	float: left;
 }
 
-.twitter-timeline {
-	margin-top: 1em;
-}

@@ -77,7 +77,6 @@
                   <div class="sponsor media" id="nextone"></div>
  				  <div class="sponsor media" id="nextone"></div>
 
-                <p> Sie möchten die FOSSGIS-Konferenz als Sponsor unterstützen? Weitere Informationen für Sponsoren und Aussteller finden Sie <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller"> hier </a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
                 </div>
             </div>
             <?php include('inc/footer.inc'); ?>

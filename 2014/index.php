@@ -36,10 +36,7 @@
 
                 <p>Ziel der jährlich stattfindenden Konferenz mit mehr als 400 Teilnehmern ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender und Entwickler zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing und Desktop-GIS und um freie Geodaten, wie Open Street Map.</p>
 
-                <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darÃ¼ber hinaus Open Source Projekte zu fördern.</p>
-
-                <h3>Anmeldung zur Konferenz</h3>
-                <p>Anmeldung zur FOSSGIS-Konferenz erfolgt über ein <a href="https://www.fossgis.de/civicrm/event/register?id=4&reset=1">Webformular im TN-Anmeldesystem</a> des FOSSGIS e.V. Es wird automatisch eine Rechnung erstellt und per Email zugesandt. Der TN erhält nach Eingang des Rechnungsbetrags und erfolgtem Abgleich mit der Konferenzanmeldung eine Anmeldebestätigung per Email. Die Anmeldung zur Konferenz ist auch vor Ort möglich, führt jedoch zu Planungsunsicherheiten für das Konferenzorganisationsteam und kann lange Schlangen am Welcome-Desk verursachen. Vor Ort kann nur in Bar gezahlt werden.</p>
+                <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
                 <h2>Sponsoren</h2>
 
@@ -81,9 +78,6 @@
 		  <h3>Medienpartner</h3>
 		  <div class="sponsor media" id="GIS-News"><a href="http://www.gis-news.de/" target="_blank"><img valign="middle" src="img/s/gis-news_de.png" width="180" height="68"></a></div>
 
-
-				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
-				</p>
                 </div>
 				<?php include('inc/footer.inc'); ?>
         </div>

@@ -25,7 +25,6 @@
 
                 <div class="app">
                     <p>Im Konferenz-Programm finden Sie die Vorträge verlinkt, die als Videoaufnahme zur Verfügung stehen. Alle Videos sind auch auf <a href="https://www.youtube.com/user/fossgis">YouTube</a> zu finden. Vielen Dank an das Videoteam!</p> 
-			Wir freuen uns über Ihre Bewertung der <a href="https://play.google.com/store/apps/details?id=ifgi.Fossgis">Android-App</a> bzw. der <a href="http://ifgi.de/fossgisapp">Web-App</a>.</p>
                 </div>
 
 		        <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
@@ -62,8 +61,6 @@
 		  <div class="sponsor silber" id="elektrobit"><a href="http://www.automotive.elektrobit.com/" target="_blank"><img src="img/s/107_Electrobit_.PNG" valign="middle"width="220" height="69"></a></div>
 
 
-
-
                 <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
 
                 <h3>Bronzesponsoren</h3>
@@ -82,8 +79,6 @@
 		 <h3>Mediasponsor</h3>
 		 <div class="sponsor media" id="oreilly"><a href="http://www.oreilly.de/" target="_blank"><img valign="middle" src="img/s/301_oreilly.png" width="150" height="65"></a></div>
 
-
-				<p class="clear">Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt an <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
 				</p>
                 </div>
 				<?php include('inc/footer.inc'); ?>

@@ -55,9 +55,6 @@
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
 				 <div class="sponsor bronze" id="sourcepole"><a href="https://sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
 				 
-				 <br>
-				<p> Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.
-
             </div>
 				<?php include('inc/footer.inc'); ?>
         </div>
