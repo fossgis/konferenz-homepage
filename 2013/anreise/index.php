@@ -72,7 +72,7 @@
 							Hauptplatz 11<br>
 							CH-8640 Rapperswil-Jona<br>
 							Tel. +41 (0)55 220 00 50<br>
-							<a href="info@jakob-hotel.ch">E-Mail</a>, <a href="http://www.jakob-hotel.ch/">Webseite</a><br>
+							<a href="mailto:info@jakob-hotel.ch">E-Mail</a>, <a href="http://www.jakob-hotel.ch/">Webseite</a><br>
 							Preise. CHF ab 95.-<br>
 							Öffnungszeiten Rezeption. 7h-23h<br>
 						</p>
@@ -85,7 +85,7 @@
 							Rütistrasse 6<br>
 							CH-8640 Rapperswil-Jona<br>
 							Tel. +41 (0)55 210 90 00<br>
-							<a href="info@krone-kempraten.ch">E-Mail</a>, <a href="http://www.krone-kempraten.ch/82/Hotel.html">Webseite</a><br>
+							<a href="mailto:info@krone-kempraten.ch">E-Mail</a>, <a href="http://www.krone-kempraten.ch/82/Hotel.html">Webseite</a><br>
 							Preise. CHF ab 100.-
 						</p>
 					</div>
@@ -128,7 +128,7 @@
 						<p>
 							CH-8645 Jona<br>
 							Tel. +41 (0)55 225 72 72<br>
-							<a href="strandbad.stampf@rj.sg.ch">E-Mail</a>, <a href="http://www.vvrj.ch/index.php/unterkunft-gastro/camping/197-camping-im-strandbad-stampf">Webseite</a><br>
+							<a href="mailto:strandbad.stampf@rj.sg.ch">E-Mail</a>, <a href="http://www.vvrj.ch/index.php/unterkunft-gastro/camping/197-camping-im-strandbad-stampf">Webseite</a><br>
 							Preise. Zelt + Person CHF ab 20.50<br>
                             <br>
 						</p>
