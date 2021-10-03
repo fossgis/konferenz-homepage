@@ -1,0 +1,1579 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Pentabarf//Schedule//DE
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+TZOFFSETTO:+0200
+DTSTART:19870405T020000
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/731.de.html
+DTEND;TZID=Europe/Berlin:20140320T170000
+DTSTART;TZID=Europe/Berlin:20140320T163000
+UID:731@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:3D City Database v3.0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/748.de.html
+DTEND;TZID=Europe/Berlin:20140319T160000
+DTSTART;TZID=Europe/Berlin:20140319T153000
+UID:748@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:3D Visualisierung von OpenStreetMap Daten mit OpenWebGlobe
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/655.de.html
+DTEND;TZID=Europe/Berlin:20140320T160000
+DTSTART;TZID=Europe/Berlin:20140320T153000
+UID:655@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:3D webservices - where do we stand?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT5H00M
+LOCATION:Beuthhalle
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/763.de.html
+DTEND;TZID=Europe/Berlin:20140319T230000
+DTSTART;TZID=Europe/Berlin:20140319T180000
+UID:763@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Abendveranstaltung in der Beuthhalle auf dem Hochschulgelände
+SUMMARY:Abendveranstaltung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:Meising-Saal
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/759.de.html
+DTEND;TZID=Europe/Berlin:20140321T133000
+DTSTART;TZID=Europe/Berlin:20140321T123000
+UID:759@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:* Daniel Morissette (Keynote) * FOSSGIS e.V. (Marco Lechner): F
+ OSSGIS - Der Verein* FOSSGIS e.V. (Marco Lechner): Verlosung
+SUMMARY:Abschlussveranstaltung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/707.de.html
+DTEND;TZID=Europe/Berlin:20140320T103000
+DTSTART;TZID=Europe/Berlin:20140320T090000
+UID:707@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Agiles Projektmanagement wird seit über zehn Jahren praktiziert
+ \, zunehmend auch in der öffentliche Verwaltung. Der Workshop stellt die Gr
+ undlagen am Beispiel der Methode "Scrum" vor und bietet einen praxisnahen Z
+ ugang zum Thema.
+SUMMARY:Agiles Projektmanagement - Einsatz von Scrum für Open Source Geospa
+ tial Projekte
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 438
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/679.de.html
+DTEND;TZID=Europe/Berlin:20140320T103000
+DTSTART;TZID=Europe/Berlin:20140320T090000
+UID:679@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Änderungsanalyse mit Fernerkundungsbilddaten - Freie FE-Bilddaten: 
+ Prozessierung - Auswertung - Darstellung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H45M
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/761.de.html
+DTEND;TZID=Europe/Berlin:20140319T114500
+DTSTART;TZID=Europe/Berlin:20140319T110000
+UID:761@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Bekannte Anwendungen\, Bibliotheken und Tools für Geo und GIS und O
+ pen Street Map
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/641.de.html
+DTEND;TZID=Europe/Berlin:20140319T173000
+DTSTART;TZID=Europe/Berlin:20140319T170000
+UID:641@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Im Vortrag wird diskutiert\, wie man 3D-Modelle von Orten mit H
+ ilfe von OpenStreetMap-Daten und Blender Open Source Software erstellen kan
+ n. Als Beispiel wird die Erstellung von 2.5D Karten betrachtet.
+SUMMARY:Blender-basierte Erstellung von 3D-Modellen von Orten mit Hilfe von
+  OSM-Daten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H00M
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/766.de.html
+DTEND;TZID=Europe/Berlin:20140320T194500
+DTSTART;TZID=Europe/Berlin:20140320T174500
+UID:766@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:BOF 3D-Modelle für OSM 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/709.de.html
+DTEND;TZID=Europe/Berlin:20140320T163000
+DTSTART;TZID=Europe/Berlin:20140320T160000
+UID:709@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Brandenburg 3D - Geologische 3D-Untergrundmodelle im Browser
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/747.de.html
+DTEND;TZID=Europe/Berlin:20140320T160000
+DTSTART;TZID=Europe/Berlin:20140320T153000
+UID:747@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Karten für das Internet wurden bisher auf dem Server gerendert 
+ und als Bild ausgeliefert. Inzwischen können die Daten aber mit Technologie
+ n wie SVG\, 2D Canvas oder WebGL auch auf dem Client verarbeitet und angeze
+ igt werden. Internationalisierung und Interaktion kommt dabei nicht zu kurz
+ .
+SUMMARY:Client Side Map Rendering
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/694.de.html
+DTEND;TZID=Europe/Berlin:20140320T170000
+DTSTART;TZID=Europe/Berlin:20140320T153000
+UID:694@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Daten aus OpenStreetMap extrahieren\, analysieren und pflegen mit d
+ er Overpass API
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/736.de.html
+DTEND;TZID=Europe/Berlin:20140320T103000
+DTSTART;TZID=Europe/Berlin:20140320T100000
+UID:736@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Daten im Fluss - ein ISK-Projekt im Nationalpark Unteres Odertal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/635.de.html
+DTEND;TZID=Europe/Berlin:20140320T103000
+DTSTART;TZID=Europe/Berlin:20140320T100000
+UID:635@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Datenschutz bei der Erhebung und Verarbeitung von geografischen Inf
+ ormationen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/745.de.html
+DTEND;TZID=Europe/Berlin:20140319T170000
+DTSTART;TZID=Europe/Berlin:20140319T163000
+UID:745@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Deegree: AIXM WFS und WPS Services - GML Anwendungen im Aviation Be
+ reich
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/767.de.html
+DTEND;TZID=Europe/Berlin:20140320T183000
+DTSTART;TZID=Europe/Berlin:20140320T173000
+UID:767@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:deegree Anwendertreffen 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/700.de.html
+DTEND;TZID=Europe/Berlin:20140321T120000
+DTSTART;TZID=Europe/Berlin:20140321T113000
+UID:700@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Die Einsatzkarte - eine interaktive Karte für freiwillige Rettungsk
+ räfte
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/672.de.html
+DTEND;TZID=Europe/Berlin:20140320T113000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:672@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:die Zukunft von WebGIS - 2D\, 3D\, mobil\, Anmimation oder Rendern 
+ im Client
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/695.de.html
+DTEND;TZID=Europe/Berlin:20140320T120000
+DTSTART;TZID=Europe/Berlin:20140320T113000
+UID:695@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Eine Undo-Logik für OpenStreetMap - Möglichkeiten und Grenzen der Q
+ ualitätssicherung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 439
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/719.de.html
+DTEND;TZID=Europe/Berlin:20140320T170000
+DTSTART;TZID=Europe/Berlin:20140320T153000
+UID:719@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Einführung in GeoKettle
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 439
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/699.de.html
+DTEND;TZID=Europe/Berlin:20140319T170000
+DTSTART;TZID=Europe/Berlin:20140319T153000
+UID:699@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Einführungsworkshop OpenLayers 3 - Erste Schritte mit OpenLayers 3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/693.de.html
+DTEND;TZID=Europe/Berlin:20140321T093000
+DTSTART;TZID=Europe/Berlin:20140321T090000
+UID:693@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Einsatzmöglichkeiten von Open Source GIS im GeomarketingIm mode
+ rnen Marketing eines Unternehmens wächst der Bedarf an Geomarketing-Funktio
+ nalitäten ständig. Der Beitrag soll die Einsatzmöglichkeiten von Open Sourc
+ e GIS im Geomarketing analysieren und aufzeigen\, welche Systeme für das Ge
+ omarketing besonders geeignet sind. 
+SUMMARY:Einsatzmöglichkeiten von Open Source GIS im Geomarketing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 438
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/710.de.html
+DTEND;TZID=Europe/Berlin:20140321T103000
+DTSTART;TZID=Europe/Berlin:20140321T090000
+UID:710@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Einstieg in die WebGIS-3D Welt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/645.de.html
+DTEND;TZID=Europe/Berlin:20140319T170000
+DTSTART;TZID=Europe/Berlin:20140319T153000
+UID:645@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Entwicklung von Quantum GIS Plugins auf der Basis von PyQT und PyQG
+ IS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/677.de.html
+DTEND;TZID=Europe/Berlin:20140321T103000
+DTSTART;TZID=Europe/Berlin:20140321T100000
+UID:677@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:In diesem Vortrag wird das 52°North enviroCar-Projekt (enviroCa
+ r.org) vorgestellt. Ziel ist die Entwicklung einer offenen Crowdsourcing-Lö
+ sung\, um in Fahrzeugen verfügbare Messdaten (z.B. Verbrauch) für weitere A
+ nalysen zu erschließen (z.B. Umwelt-Monitoring).
+SUMMARY:enviroCar - Crowdsourcing zur Erhebung von Verkehrsdaten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/625.de.html
+DTEND;TZID=Europe/Berlin:20140320T093000
+DTSTART;TZID=Europe/Berlin:20140320T090000
+UID:625@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Ernährungsfläche einer Agglomeration - Ermittlung und Visualisierun
+ g des Flächenbedarfs zur Ernährung der Bevölkerung einer Agglomeration
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:Meising-Saal
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/754.de.html
+DTEND;TZID=Europe/Berlin:20140319T133000
+DTSTART;TZID=Europe/Berlin:20140319T130000
+UID:754@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:* Grußworte Herr Prof. Möller (Beuth Hochschule)
+SUMMARY:Eröffnung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:H4
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/664.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:664@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:** DIESER WORKSHOP FÄLLT LEIDER AUS! **Der Workshop befasst sic
+ h mit dem administrativen Tuning von der Hardware bis zur Konfigurationsdat
+ ei. Der Workshop zeigt auf\, welche Kriterien zu beachten sind. Da die GIS-
+ Datenverwaltung sehr schnell zur BigData-Verwaltung werden kann\, wird hier
+  besonders auch auf BigData und die Speicherung von GIS-Daten eingegangen. 
+ Der Workshop richtet sich eher an Administratoren als an Entwickler. SQL Tu
+ ning ist NICHT im Umfang des Workshops enthalten. Der Workshop soll den Tei
+ lnehmern ein besseres Gefühl für das System vermittelt und das Bewusstsein 
+ stärken\, wo die Bremser zu finden sind.Der Workshop enthält KEINE praktisc
+ hen Übungen. Das während des Workshops verwendete Skript bzw. Folien werden
+  den Teilnehmern zur Verfügung gestellt. Der Workshop soll zur gemeinsamen 
+ Findung und Erkennung von Problemen anregen. Für spontane Fragen und Erläut
+ erungen könnte die Tafel zum Einsatz kommen. Das mitbringen von Papier und 
+ Stift oder einem Gerät\, mit dem sich die Tafel fotografieren lässt\, ist e
+ mpfohlen. 
+SUMMARY:(FÄLLT AUS) Administratives Performancetuning für Datenbanksystem a
+ m Beispiel von PostgreSQL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/703.de.html
+DTEND;TZID=Europe/Berlin:20140320T120000
+DTSTART;TZID=Europe/Berlin:20140320T113000
+UID:703@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GDA Wasser – ein praktisches Beispiel für das komplexe SHOGun-WebGI
+ S Framework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/636.de.html
+DTEND;TZID=Europe/Berlin:20140320T163000
+DTSTART;TZID=Europe/Berlin:20140320T160000
+UID:636@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Karten auf Basis von OpenStreetMap-Daten sind - wie auch viele 
+ andere Internet-Karten - bei geringen Vergrößerungen oft schlecht lesbar un
+ d wenig ansprechend.  Dieser Vortrag erläutert die Ursachen hierfür sowie m
+ ögliche Wege\, dies durch automatische Generalisierung der Daten zu verbess
+ ern.
+SUMMARY:Generalisierung von OpenStreetMap-Daten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/642.de.html
+DTEND;TZID=Europe/Berlin:20140319T163000
+DTSTART;TZID=Europe/Berlin:20140319T160000
+UID:642@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GeoCouch - : Eine Erweiterung für Apache CouchDB und Couchbase auch
+  für mobile Geräte
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/637.de.html
+DTEND;TZID=Europe/Berlin:20140321T113000
+DTSTART;TZID=Europe/Berlin:20140321T110000
+UID:637@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Zur kollaborativen Verwaltung raumbezogener Daten wurde an der 
+ Physischen Geographie der Uni Freiburg ein webbasiertes Tool auf Basis frei
+ er Software entwickelt. Dieser Vortrag soll Einblicke in die Technik geben 
+ und Praxiserfahrungen in aktuellen Forschungsprojekten vermitteln.
+SUMMARY:geoCRE - eine kollaborative Forschungsumgebung zur Verwaltung räuml
+ icher Daten - Entwicklung einer webbasierten kollaborativen Forschungsumgeb
+ ung zur Verwaltung räumlicher Daten auf Basis freier Software
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/640.de.html
+DTEND;TZID=Europe/Berlin:20140321T100000
+DTSTART;TZID=Europe/Berlin:20140321T093000
+UID:640@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Im Vortrag werden die Konzepte und Prinzipien der Umsetzung der
+  EU-INSPIRE Richtlinie im GeoPortal.rlp anhand praktischer Beispiele vorges
+ tellt. Die zugrundeliegende Umsetzungsstrategie macht Rheinland-Pfalz derze
+ it EU-weit zum größten Datenanbieter.
+SUMMARY:Geodateninfrastruktur Rheinland-Pfalz INSPIREd
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 439
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/680.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:680@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Geodaten\, Vernetzung\, kartographische Darstellung - Webmapping Pr
+ ojekt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/697.de.html
+DTEND;TZID=Europe/Berlin:20140320T143000
+DTSTART;TZID=Europe/Berlin:20140320T140000
+UID:697@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GeoExt2 - Was ist neu und was bringt die Zukunft
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 439
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/704.de.html
+DTEND;TZID=Europe/Berlin:20140321T103000
+DTSTART;TZID=Europe/Berlin:20140321T090000
+UID:704@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GeoExt 2  - Workshop
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/716.de.html
+DTEND;TZID=Europe/Berlin:20140320T100000
+DTSTART;TZID=Europe/Berlin:20140320T093000
+UID:716@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GeoKettle – FME für Geizige? - Geodatenmanagement und -harmonisieru
+ ng mit GeoKettle bei der Werraenergie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/712.de.html
+DTEND;TZID=Europe/Berlin:20140319T173000
+DTSTART;TZID=Europe/Berlin:20140319T170000
+UID:712@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Geo mit Python - Wenn die Schlange die Welt prozessiert
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/652.de.html
+DTEND;TZID=Europe/Berlin:20140321T120000
+DTSTART;TZID=Europe/Berlin:20140321T113000
+UID:652@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GeoNode2.0 als Geoportallösung für das EU-Projekt CLIMB - Ein Erfah
+ rungsbericht
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/656.de.html
+DTEND;TZID=Europe/Berlin:20140321T093000
+DTSTART;TZID=Europe/Berlin:20140321T090000
+UID:656@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:geOrchestra INSPIRE GDI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/739.de.html
+DTEND;TZID=Europe/Berlin:20140320T173000
+DTSTART;TZID=Europe/Berlin:20140320T170000
+UID:739@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Bei organisationsübergreifenden Arbeitsgruppen wird die Zusamme
+ narbeit durch den Einsatz von proprietärer Software oft gehemmt. Eine zentr
+ ale GIS-Installation\, die vollständig auf Open Source Komponenten aufbaut\
+ , kann mit x2go als Terminalserver-Lösung in beliebigen Systemumgebungen zu
+ r Verfügung gestellt werden.
+SUMMARY:GIS as a Service
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 438
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/633.de.html
+DTEND;TZID=Europe/Berlin:20140319T170000
+DTSTART;TZID=Europe/Berlin:20140319T153000
+UID:633@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:GRASS Workshop - Ein praktischer Einstieg.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/685.de.html
+DTEND;TZID=Europe/Berlin:20140321T113000
+DTSTART;TZID=Europe/Berlin:20140321T110000
+UID:685@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Eine Einführung in die Funktionsweise von Satellitenpositionsbe
+ stimmung mit interessanten und spannenden Details\, die auch die Relevanz h
+ ochgenauer Positionsbestimmung für OpenStreetMap nicht vermissen lässt.
+SUMMARY:Hochgenaue Zeit- und Positionsbestimmung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/661.de.html
+DTEND;TZID=Europe/Berlin:20140320T143000
+DTSTART;TZID=Europe/Berlin:20140320T140000
+UID:661@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Höhenbewusstes Routing mit Radardaten - Grenzen und Probleme bei 90
+ m-SRTM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/682.de.html
+DTEND;TZID=Europe/Berlin:20140321T100000
+DTSTART;TZID=Europe/Berlin:20140321T093000
+UID:682@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:GIS-Anwender wünschen sich häufig Datenblätter\, die Tabellenin
+ formationen zu einem Geoobjekt in einer les- und ausdruckbaren Form zusamme
+ nfassen. Der Vortag zeigt\, wie aus QGIS heraus in einem LAN pdf-Dokumente 
+ mit dem Reporting-Werkzeug JasperReports erzeugt werden können.
+SUMMARY:JasperReports als Reporting-Werkzeug für QGIS - Vorstellung der ben
+ ötigten Komponenten und Workflow zur Reporterzeugung in einem LAN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/730.de.html
+DTEND;TZID=Europe/Berlin:20140320T113000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:730@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Kantonales Geoportal GeoView BL - Weiterentwicklungen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/714.de.html
+DTEND;TZID=Europe/Berlin:20140320T173000
+DTSTART;TZID=Europe/Berlin:20140320T170000
+UID:714@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Aus der Kombination von OpenStreetMap mit anderen Open Data Que
+ llen lassen sich hervorragende Produkte erzeugen. Am Beispiel von SplashMap
+ s werden technische Möglichkeiten mit Open Source Software vorgestellt und 
+ Lizenzfragen geklärt.
+SUMMARY:Karten auf Stoff: OSM Daten mit OSGeo Software - Ein kommerzielles 
+ Freizeitprodukt auf Basis von Open Data und Open Source Software
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:Meising-Saal
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/753.de.html
+DTEND;TZID=Europe/Berlin:20140319T150000
+DTSTART;TZID=Europe/Berlin:20140319T143000
+UID:753@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Lightning Talks
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/752.de.html
+DTEND;TZID=Europe/Berlin:20140320T140000
+DTSTART;TZID=Europe/Berlin:20140320T133000
+UID:752@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Lightning Talks OSM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/684.de.html
+DTEND;TZID=Europe/Berlin:20140320T160000
+DTSTART;TZID=Europe/Berlin:20140320T153000
+UID:684@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Mapbender3 - was gibt's Neues im Projekt? - Neues zum Aufbau von We
+ bGIS Anwendungen mit Mapbender3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/683.de.html
+DTEND;TZID=Europe/Berlin:20140321T103000
+DTSTART;TZID=Europe/Berlin:20140321T090000
+UID:683@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Mapbender3 Workshop - Aufbau und Konfiguration einer WebGIS Anwendu
+ ng mit Mapbender3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H00M
+LOCATION:H4
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/757.de.html
+DTEND;TZID=Europe/Berlin:20140319T193000
+DTSTART;TZID=Europe/Berlin:20140319T173000
+UID:757@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Zu diesem Treffen sind Anwender und Entwickler von Mapbender ei
+ ngeladen. Auf dem Treffen kann der aktuelle Stand von Mapbender3 vorgestell
+ t werden. Außerdem können zukünftige Entwicklungen diskutiert werden.Alle I
+ nteressierten sind herzlich eingeladen.
+SUMMARY:Mapbender Anwendertreffen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/653.de.html
+DTEND;TZID=Europe/Berlin:20140320T170000
+DTSTART;TZID=Europe/Berlin:20140320T163000
+UID:653@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:MapFish WebGIS - Projektstand - Die Präsentation gibt eine Übersich
+ t des MapFish WebGIS Frameworks und zeigt dessen Möglichkeiten mit der GeoM
+ apFish Implementierung: ein sehr performantes WebGIS mit zahlreichen Tools 
+ und Konfigurationsmöglichkeiten.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/717.de.html
+DTEND;TZID=Europe/Berlin:20140320T103000
+DTSTART;TZID=Europe/Berlin:20140320T100000
+UID:717@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:MapProxy - Was war? Was wird?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 438
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/634.de.html
+DTEND;TZID=Europe/Berlin:20140320T150000
+DTSTART;TZID=Europe/Berlin:20140320T133000
+UID:634@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:MapServer II - Das 'Do what I want' Know How für den UMN MapServer
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/727.de.html
+DTEND;TZID=Europe/Berlin:20140321T103000
+DTSTART;TZID=Europe/Berlin:20140321T100000
+UID:727@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Open Data (z.B. OpenStreetMap\, EU-DEM und GlobCover) und Open 
+ Source Software wie MapCache\, EOxServer\, MapServer und GDAL bilden die Ba
+ sis für Karten der neuen Benutzerdienste der Europäischen Weltraumorganisat
+ ion (ESA).
+SUMMARY:Maps for ESA - ESA User Services powered by Open Data & Open Source
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/744.de.html
+DTEND;TZID=Europe/Berlin:20140320T150000
+DTSTART;TZID=Europe/Berlin:20140320T143000
+UID:744@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Mobile Kartenviewer mit Openlayers 3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/706.de.html
+DTEND;TZID=Europe/Berlin:20140321T103000
+DTSTART;TZID=Europe/Berlin:20140321T100000
+UID:706@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Der Vortrag behandelt aktuelle technische Entwicklungen bei der
+  Umsetzung von INSPIRE-konformen Netzdiensten. Folgende Themenschwerpunkte 
+ sind vorgesehen: OGC WMTS 1.0\, OGC WFS 2.0 (u. a. UMN MapServer)\, INSPIRE
+  Pre-defined Atom-Feeds.
+SUMMARY:Moderne Geodatenbereitstellung im Kontext der europäischen Geodaten
+ infrastruktur INSPIRE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/650.de.html
+DTEND;TZID=Europe/Berlin:20140320T093000
+DTSTART;TZID=Europe/Berlin:20140320T090000
+UID:650@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Ein Überblick über die vergangenen und aktuellen Entwicklungen 
+ im 52°North WPS Projekt.Inklusive Ausblick auf die Compliance Tests für WPS
+  1.0.0 und die Version 2.0 des WPS Standards.
+SUMMARY:Neues aus dem 52°North WPS Projekt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/742.de.html
+DTEND;TZID=Europe/Berlin:20140319T173000
+DTSTART;TZID=Europe/Berlin:20140319T170000
+UID:742@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Neues in QGIS 2.2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/713.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T120000
+UID:713@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Neues vom Open Geospatial Consortium - Das OGC Compliance Programm 
+ und Freie Software\, was verbirgt sich hinter den Ideas4OGC und ein Ausblic
+ k auf das OGC Technical Committee Meeting im März 2014
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/659.de.html
+DTEND;TZID=Europe/Berlin:20140319T163000
+DTSTART;TZID=Europe/Berlin:20140319T160000
+UID:659@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Der Gründer des Open-Source-Projekts OSM2World erzählt\, was si
+ ch bei der freien 3D-Renderingsoftware für OpenStreetMap-Daten in letzter Z
+ eit getan hat und wo die Reise hingeht.
+SUMMARY:Neues von OSM2World
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/708.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T120000
+UID:708@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Aktuelle Entwicklungen zur Anpassung der WEB-Anwendungen des La
+ ndesamtes für Geologie\, Rohstoffe und Bergbau Baden Württemberg an moderne
+  Technologien\, spezielle Nutzerwünsche und Anforderungen übergeordneter GD
+ I werden in dem Vortrag vorgestellt.
+SUMMARY:Neue WEB-Anwendungen des Landesamtes für Geologie\, Rohstoffe und B
+ ergbau (LGRB) Baden-Württemberg im Überblick
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/762.de.html
+DTEND;TZID=Europe/Berlin:20140319T121500
+DTSTART;TZID=Europe/Berlin:20140319T114500
+UID:762@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Offene Fragerunde
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/669.de.html
+DTEND;TZID=Europe/Berlin:20140320T143000
+DTSTART;TZID=Europe/Berlin:20140320T140000
+UID:669@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Erfahren Sie\, wie Sie mit dem GPS auf Schatzsuche gehen können
+ . Das facettenreiche Hobby Geocaching spricht verschiedenste Zielgruppen an
+  und die freie Plattform Opencaching.de ermöglicht jedem Interessierten die
+  aktive Mitgestaltung und Weiterentwicklung dieses Hobbys.
+SUMMARY:opencaching.de - Die deutsche Geocaching-Plattform 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/749.de.html
+DTEND;TZID=Europe/Berlin:20140320T150000
+DTSTART;TZID=Europe/Berlin:20140320T143000
+UID:749@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Open Data und Selbstorganisation - Von den Public Space Invaders zu
+ r Berliner Gartenkarte
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/729.de.html
+DTEND;TZID=Europe/Berlin:20140321T100000
+DTSTART;TZID=Europe/Berlin:20140321T093000
+UID:729@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Open Geodata für Ulm - ein Ansatz für das Crowdsourcing von Geodate
+ n auch für nicht OSM'ler
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/667.de.html
+DTEND;TZID=Europe/Berlin:20140319T170000
+DTSTART;TZID=Europe/Berlin:20140319T163000
+UID:667@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:OpenJUMP\, ein Überblick der Funktionsbereiche\, Demos auf unte
+ rschiedlicher Hardware und Aktuelles aus der Entwicklung. Wie kann man als 
+ Open Source Projekt Schnittstellen zu proprietärer Software implementieren?
+  Lösung anspruchsvoller Praxisprobleme mit OpenJUMP und weiteren Open Sourc
+ e Werkzeugen.
+SUMMARY:OpenJUMP - Überblick\, Neuigkeiten\, Zusammenarbeit/Schnittstellen 
+ mit proprietärer Software
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/698.de.html
+DTEND;TZID=Europe/Berlin:20140320T140000
+DTSTART;TZID=Europe/Berlin:20140320T133000
+UID:698@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OpenLayers 3 - Einführung\, Verwendungsbeispiele und technische Hig
+ hlights
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/671.de.html
+DTEND;TZID=Europe/Berlin:20140321T093000
+DTSTART;TZID=Europe/Berlin:20140321T090000
+UID:671@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OpenSeaMap - OpenData - Erfahrungen mit Behörden\, international
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/711.de.html
+DTEND;TZID=Europe/Berlin:20140321T120000
+DTSTART;TZID=Europe/Berlin:20140321T113000
+UID:711@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Open-Source-Software „survey2GIS" - A flexible solution for the tra
+ nsfer of survey data into GIS /Eine flexible Lösung für den Transfer von Ve
+ rmessungsdaten ins GIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/740.de.html
+DTEND;TZID=Europe/Berlin:20140320T170000
+DTSTART;TZID=Europe/Berlin:20140320T163000
+UID:740@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Die Daten des OpenStreetMap-Projektes werden bereits vielseitig
+  eingesetzt. Ob sie dazu geeignet sind als Grundlage für Wandkarten zu dien
+ en\, wird dieser Vortrag diskutieren. 
+SUMMARY:OpenStreetMap an die (Schul-)Wand hängen - Der Versuch freie Geodat
+ en zur Erstellung von Schullandkarten zu nutzen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/660.de.html
+DTEND;TZID=Europe/Berlin:20140321T113000
+DTSTART;TZID=Europe/Berlin:20140321T110000
+UID:660@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OpenStreetMap bei Toll Collect
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/725.de.html
+DTEND;TZID=Europe/Berlin:20140320T093000
+DTSTART;TZID=Europe/Berlin:20140320T090000
+UID:725@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Die RoboCup Rescue Simulation League ist ein Simulationswettbew
+ erb\, bei dem autonome Agenten Katastrophenszenarien bewältigen müssen. Die
+ ser Vortrag beschreibt\, wie wir OpenStreetMap-Daten verwenden\, um neue Sz
+ enarien für die Liga zu erstellen.
+SUMMARY:OpenStreetMap-Daten in der RoboCup Rescue Simulation League
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 439
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/750.de.html
+DTEND;TZID=Europe/Berlin:20140320T150000
+DTSTART;TZID=Europe/Berlin:20140320T133000
+UID:750@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OpenStreetmap-Daten in QGIS importieren und regelbasiert visualisie
+ ren
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H45M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/765.de.html
+DTEND;TZID=Europe/Berlin:20140319T174500
+DTSTART;TZID=Europe/Berlin:20140319T170000
+UID:765@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Im Umfeld von OpenStreetMap gibt es immer wieder interessante u
+ nd herausfordernde Aufgaben. Egal ob man selbst etwas mit oder für OpenStre
+ etMap machen möchte oder ob man einen zuverlässigen Auftragnehmer sucht. Di
+ eses Treffen steht jedem offen und dient dem Kennenlernen. 
+SUMMARY:OpenStreetMap Freelancer 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/686.de.html
+DTEND;TZID=Europe/Berlin:20140319T170000
+DTSTART;TZID=Europe/Berlin:20140319T163000
+UID:686@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OSM Buildings - OpenStreetMaps Gebäudevisualisierung mit JavaScript
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/691.de.html
+DTEND;TZID=Europe/Berlin:20140320T150000
+DTSTART;TZID=Europe/Berlin:20140320T133000
+UID:691@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OSM Data mining for forest and environmental parameters in Europe -
+  Querying and extracting forest and environmental parameters
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/681.de.html
+DTEND;TZID=Europe/Berlin:20140320T150000
+DTSTART;TZID=Europe/Berlin:20140320T143000
+UID:681@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OSM-Geocoding mit Solr
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:Meising-Saal
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/723.de.html
+DTEND;TZID=Europe/Berlin:20140319T143000
+DTSTART;TZID=Europe/Berlin:20140319T140000
+UID:723@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OSM in Jerusalem - Geodaten und sozialräumliche Strukturen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 429
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/728.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:728@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:OSM mit OGR - Import von OSM Daten mit Hilfe von OGR nach PostgreSQ
+ L/PostGIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/738.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T120000
+UID:738@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Wie gut sind die Straßennamen in den deutschen Gemeinden in OSM
+  bereits erfasst? Auf Basis amtlicher Straßenlisten werden Soll-/Ist Auswer
+ tungen erstellt. Helfen die Auswertungen zur beschleunigten Erfassung der n
+ och fehlenden Straßennamen?
+SUMMARY:OSM-Straßenlistenauswertung - Vorstellung und Auswertungsergebnisse
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/724.de.html
+DTEND;TZID=Europe/Berlin:20140320T100000
+DTSTART;TZID=Europe/Berlin:20140320T093000
+UID:724@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:In einem deutschlandweiten Projekt wurden Geodaten zu nutzungsf
+ reien Waldflächen in PostgreSQL/PostGIS aufbereitet. Arbeitsschritte waren 
+ die Transformation in ein einheitliches Koordinatensystem\, eine Überlageru
+ ngsanalyse und die Abbildung von überregionalen Daten mit Hilfe von PL/pgSQ
+ L-Funktionen.
+SUMMARY:PostGIS in real :-) action - Bilanzierung von Wäldern mit natürlich
+ er Entwicklung in Deutschland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/758.de.html
+DTEND;TZID=Europe/Berlin:20140320T184500
+DTSTART;TZID=Europe/Berlin:20140320T174500
+UID:758@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Auf der FOSSGIS 2014 wird es ein PostNAS Anwendertreffen geben\
+ , auf dem aktuellen Entwicklungen im PostNAS-Projekt\, die PostNAS-Entwickl
+ ungen von NORBIT für QGIS und Web-GIS und auch die PostNAS Integration in M
+ apbender3 vorgestellt werden sollen.Weitere Informationen finden sich unter
+ : http://trac.wheregroup.com/PostNAS/wiki/PostNASAnwendertreffen2014-03-20
+SUMMARY:PostNAS Anwendertreffen - Projekt rund um den Import von ALKIS Date
+ n über OGR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 438
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/632.de.html
+DTEND;TZID=Europe/Berlin:20140320T123000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:632@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:QGIS Workshop - Eine Einführung in die Software
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:Meising-Saal
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/715.de.html
+DTEND;TZID=Europe/Berlin:20140319T140000
+DTSTART;TZID=Europe/Berlin:20140319T133000
+UID:715@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Die FOSSGIS-Szene befindet sich heute im Spannungsfeld zwischen
+  traditionellen Leitmotiven und manchmal schwer erfüllbarem kommerziellem E
+ rfolgsanspruch. Dieser Vortrag macht es sich zum Anliegen\, einige bedenkli
+ che Entwicklungen in dieser Situation zu thematisieren.
+SUMMARY:Quo vadis Open Source? - Problematische Entwicklungen bei FOSSGIS-P
+ rojekten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/678.de.html
+DTEND;TZID=Europe/Berlin:20140320T113000
+DTSTART;TZID=Europe/Berlin:20140320T110000
+UID:678@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Revertieren - aber richtig - Jeder darf in OpenStreetMap alles eint
+ ragen. Aber wie wird man es wieder los?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/648.de.html
+DTEND;TZID=Europe/Berlin:20140320T173000
+DTSTART;TZID=Europe/Berlin:20140320T170000
+UID:648@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Scientific 3D Printing with GRASS GIS - A work in progress report
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H30M
+LOCATION:WS 438
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/674.de.html
+DTEND;TZID=Europe/Berlin:20140320T170000
+DTSTART;TZID=Europe/Berlin:20140320T153000
+UID:674@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:In diesem Workshop wird aufgezeigt\, wie das Sensor Web zum Auf
+ bau von Smart Cities-Anwendungen genutzt werden kann. Neben einer Sensor We
+ b-Einführung werden Anwendungsbeispiele vorgestellt sowie die Nutzung des O
+ GC SOS praktisch geübt.
+SUMMARY:Sensor Web und Smart Cities
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:H4
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/755.de.html
+DTEND;TZID=Europe/Berlin:20140320T184500
+DTSTART;TZID=Europe/Berlin:20140320T174500
+UID:755@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:SHOGun BOF - Quo Vadis SHOGun - oder: Warum ist SHOgun so gut?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/673.de.html
+DTEND;TZID=Europe/Berlin:20140320T140000
+DTSTART;TZID=Europe/Berlin:20140320T133000
+UID:673@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Der Beitrag zeigt die Konzeption und Entwicklung eines System\,
+  welches die Möglichkeit bietet\, Social Media (beispielhaft mit Twitter) u
+ nd deren Analyse (NLP)\, als Beobachtungen in einem Sensornetzwerk als SOS 
+ zur Verfügung zu stellen.
+SUMMARY:Social Media as Sensors
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H3
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/696.de.html
+DTEND;TZID=Europe/Berlin:20140320T100000
+DTSTART;TZID=Europe/Berlin:20140320T093000
+UID:696@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Niederbayerische Mapper berichten aus ihren Ortsgruppen über di
+ e Zusammenarbeit mit Behörden\, OpenStreetMap an der Universität\, Presse- 
+ und Öffentlichkeitsarbeit\, lokale Aktionen und vieles mehr.
+SUMMARY:Tatort Niederbayern
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/751.de.html
+DTEND;TZID=Europe/Berlin:20140320T163000
+DTSTART;TZID=Europe/Berlin:20140320T160000
+UID:751@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Vaadin - ein WebMapping Framework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H2
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/720.de.html
+DTEND;TZID=Europe/Berlin:20140319T160000
+DTSTART;TZID=Europe/Berlin:20140319T153000
+UID:720@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Virtuelle Integration von Datenquellen mit einer Graph-Datenbank - 
+ Prof. Dr. Petra Sauer\, Dipl. Inf. Frank Herrmann\, B.Sc. Jan Matusewicz
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT2H00M
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/764.de.html
+DTEND;TZID=Europe/Berlin:20140320T200000
+DTSTART;TZID=Europe/Berlin:20140320T180000
+UID:764@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Die ordentlichen Mitgliederversammlung 2014 des FOSSGIS e.V. fi
+ ndet am Mittwoch\, den 20. März 2014\, um 19:00 Uhram Rande der FOSSGIS Kon
+ ferenz an der Beuth Hochschule Berlin statt.
+SUMMARY:Vollversammlung FOSSGIS e.V.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/735.de.html
+DTEND;TZID=Europe/Berlin:20140319T160000
+DTSTART;TZID=Europe/Berlin:20140319T153000
+UID:735@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:GRASS GIS 7 bietet neue Module zur Vektornetzwerk-\, Voxelanaly
+ se\, Zeitreihenspeicherung und -management\, dazu ein Animationstool für Ra
+ ster-und Vektorkartenzeitreihen\, ein graphisches Bildklassifikationtool\, 
+ "Map Swiper" zum interaktiven Kartenvergleich nebst verbesserter massiver D
+ atenanalyse.
+SUMMARY:Vom Laptop zum Grossrechner: Neues in GRASS GIS 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/662.de.html
+DTEND;TZID=Europe/Berlin:20140320T120000
+DTSTART;TZID=Europe/Berlin:20140320T113000
+UID:662@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Warum soll ich für Open Source GIS bezahlen?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/741.de.html
+DTEND;TZID=Europe/Berlin:20140319T163000
+DTSTART;TZID=Europe/Berlin:20140319T160000
+UID:741@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Was gibt es Neues bei gvSIG CE?
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT0H45M
+LOCATION:H1
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2014/programm/events/760.de.html
+DTEND;TZID=Europe/Berlin:20140319T104500
+DTSTART;TZID=Europe/Berlin:20140319T100000
+UID:760@FOSSGIS2014@pentabarf.org
+DTSTAMP:20140408T080534
+CATEGORIES:Lecture
+DESCRIPTION:Open Source hat viele Facetten - und es ranken sich inzwischen 
+ ebenso viele Mythen darum. Was davon richtig ist und was nicht stellen wir 
+ in einer kurzen Einführung zusammen. Der Vortrag richtet sich an alle\, die
+  mit Open Source bisher noch wenig Kontakt hatten und die Grundlagen verste
+ hen möchten.
+SUMMARY:Was ist Open Source\, wie funktioniert das und worauf muss man acht
+ en - Die Organisationen der Open Geo- und GIS-Welt
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

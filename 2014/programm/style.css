@@ -1,0 +1,470 @@
+@import url(print.css) print;
+@font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Droid Sans'), local('DroidSans'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v3/s-BiyweUPV0v-yRb-cjciC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Droid Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/droidsans/v3/EFpQQyG9GqCrobXxL-KRMfEr6Hm6RMS0v1dtXsGir4g.ttf) format('truetype');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #fff;
+	color: #000;
+	line-height: 1.5em;
+	font-size: 17px;
+	font-family: 'Droid Sans','Helvetica Neue', Helvetica,Arial,sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+a:hover,
+a:focus {
+	text-decoration: underline;
+	color: #ea5810;
+}
+
+#wrap {
+    position: relative;
+    width: 900px;
+    margin: 0 auto;
+}
+
+/************
+ *  Header  *
+ ************/
+
+#conference-logo {
+    position: relative;
+    width: 205px;
+    height: 205px;
+    margin: 0 10px 45px 10px;
+    padding-top: 4px;
+    background-image: url(../../img/Fossgis14-logo.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-color: inherit;
+    color: inherit;
+    line-height: 0.8;
+    letter-spacing: -9px;
+    font-size: 5em;
+    font-weight: bold;
+}
+
+#conference-logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#conference-logo img {
+    display: none;
+}
+
+#conference-logo:before {
+    position: absolute;
+    top: 5px;
+    left: 225px;
+    width: 675px;
+    height: 100%;
+    display: block;
+    content: "FOSSGIS Konferenz 2014";
+    color: rgba(123, 145, 153, 0.1);
+}
+
+#conference-logo:after {
+    position: absolute;
+    display: block;
+    top: 5px;
+    left: 225px;
+    width: 675px;
+    margin-top: 0.8em;
+    content: "Berlin \a 19.\00a0-\00a0 21.\00a0März\00a0 2014";
+    text-indent: 1.95em;
+    letter-spacing: -6px;
+    color: #7B9199;
+    text-shadow: 1px 1px 3px #ddd;
+}
+
+/*************
+ *  Content  *
+ *************/
+
+#content:before {
+    content: "";
+    display: block;
+    width: 880px;
+    height: 220px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 17px;
+    background-image: url(../../img/berlin.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: inherit;
+    color: inherit;
+    border-radius: 10px;
+}
+
+#content:after {
+    content: "Photo: CC-BY-SA Bjørn Giesenbauer";
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-size: 12px;
+    line-height: 1.5;
+    background-color: transparent;
+    color: #2d3841;
+}
+
+#content {
+    position: relative;
+    padding-bottom: 2em;
+    border-bottom: 15px solid #eb7f00;
+}
+
+#content h1 {
+    position: absolute;
+    top: 220px;
+    left: 0;
+    margin-top: -55px;
+    margin-bottom: 20px;
+    margin-left: 160px;
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 1.5;
+    letter-spacing: -1px;
+    text-shadow: 1px 1px 3px #333;
+    background-color: transparent;
+    color: #fff;
+}
+
+#content h2 {
+    padding-top: 0.5em;
+}
+
+#content p {
+    text-align: justify;
+}
+
+#content ul,
+#content p {
+    margin-right: 10px;
+    margin-bottom: 0.5em;
+    margin-left: 160px;
+}
+
+#content * ul,
+#content * p {
+    margin-left: 0;
+}
+
+#content ul {
+    padding-left: 2em;
+}
+
+#content p.intro,
+#content p.release {
+    display: none;
+}
+
+#content table {
+    min-width: 100%;
+}
+#content table td p {
+    margin: 0 !important;
+}
+
+#content th {
+    padding: 5px 5px 3px 5px;
+    border-radius: 3px;
+    background-color: #2d3841;
+    color: #fff;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+#content td {
+    padding: 5px 5px 3px 5px;
+    border-radius: 3px;
+    opacity: 0.8;
+    vertical-align: top;
+}
+
+#content tr:hover td,
+#content tr:active td {
+    opacity: 1.0;
+}
+
+#content td .speaker-image,
+#content td .event-image {
+    float: left;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+#content td p,
+#content td ul {
+    margin: 0;
+}
+#content td ul {
+    padding-left: 1em;
+}
+
+/***************
+ *  Main menu  *
+ ***************/
+
+#mainNav ul {
+	margin: 0 10px 45px 10px;
+	padding: 0;
+	list-style-type: none;
+	border-bottom: 1px solid #e6eeef;
+	letter-spacing: -1px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+#mainNav li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+#mainNav li a:link,
+#mainNav li a:visited {
+    line-height: 2;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 5px 3px 5px;
+    border-radius: 3px;
+    background-color: inherit;
+    color: #2d3841;
+    transition: background-color 0.25s ease, color 0.15s ease;
+}
+
+#mainNav li a:hover,
+#mainNav li a:active,
+#mainNav li a:focus {
+    background-color: #2d3841;
+    color: #fff;
+}
+
+#mainNav li.active a {
+    background-color: #fff;
+    color: #eb7f00;
+}
+
+/**************
+ *  Sub menu  *
+ **************/
+
+#menu ul {
+    position: absolute;
+    left: 0;
+    right: 0;
+	margin: -40px 10px 45px 10px;
+    list-style-type: none;
+}
+
+#menu li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#menu li a:link,
+#menu li a:visited {
+    padding: 5px 5px 3px 5px;
+    border-radius: 3px;
+    line-height: 2;
+/*    font-weight: bold;*/
+    text-decoration: none;
+    background-color: inherit;
+    color: #2d3841;
+    transition: background-color 0.25s ease 0s, color 0.15s ease 0s;
+}
+
+#menu li a:hover,
+#menu li a:active,
+#menu li a:focus {
+    background-color: #2d3841;
+    color: #fff;
+}
+
+#menu li:last-child {
+    text-align: right;
+}
+
+#menu ul ul:before {
+    content: "Tracks";
+    float: right;
+    margin-bottom: 0.25em;
+    padding: 5px 5px 3px 5px;
+    line-height: 1.25;
+    border-radius: 3px;
+    background-color: #2d3841;
+    color: #fff;
+    font-weight: bold;
+    cursor: default;
+}
+#menu ul ul {
+    position: absolute;
+    z-index: 100;
+    top: 50px;
+    right: 10px;
+    left: 75%;
+    margin: 0;
+}
+
+#menu ul ul li {
+    clear: right;
+    float: right;
+    margin-right: 0;
+}
+
+#menu ul ul li a:link,
+#menu ul ul li a:visited {
+    border-radius: 3px;
+    background-color: rgba(255,255,255,0.8);
+    color: #2d3841;
+}
+
+#menu ul ul li a:hover,
+#menu ul ul li a:focus,
+#menu ul ul li a:active {
+    background-color: #2d3841;
+    color: #fff;
+}
+
+/****
+ *
+ */
+
+#infobox {
+    float: right;
+    margin: 10px;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #eee;
+    color: inherit;
+    font-size: 90%;
+}
+
+#event-index,
+#speaker-index,
+#schedule {
+    margin-top: 1em;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/*#event-index,
+#speaker-index,*/
+#event,
+#speaker {
+    margin-top: 1em;
+    margin-left: 160px;
+}
+
+#event .event-image,
+.photo {
+    position: absolute;
+    left: 0;
+    max-width: 140px;
+    max-height: 140px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+p.title {
+    font-weight: bold;
+}
+
+#event p.subtitle {
+    margin-bottom: 0.5em;
+    margin-left: -150px;
+    font-size: 120%;
+}
+
+#schedule td {
+    font-size: 90%;
+}
+
+#schedule p {
+    text-align: left;
+}
+
+/***********************
+ *  Record navigation  *
+ ***********************/
+
+#navigation {
+    clear: both;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#navigation a {
+    margin: 10px;
+    padding: 0.5em;
+    background-color: #eee;
+    color: inherit;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#navigation .previous:after {
+    content: " Zurück";
+}
+
+#navigation .next:before {
+    content: "Weiter ";
+}
+
+/******************
+ *  Track colors  *
+ ******************/
+
+#content td.time {
+    background-color: #DDDDDD !important;
+    vertical-align: middle !important;
+}
+#content tr td.track-allgemeines {
+    background-color: #FEF5C0 !important;
+}
+#content tr td.track-vortrgegis {
+    background-color: #FEF5C0 !important;
+}
+#content tr td.track-vortrgeosm {
+    background-color: #E3FFC5 !important;
+}
+#content tr td.track-workshopsbezahlt {
+    background-color: #C0C7FF !important;
+}
+#content tr td.track-lightningtalksgis {
+    background-color: #FDAD6C !important;
+}
+#content tr td.track-lightningtalksosm {
+    background-color: #FDAD6C !important;
+}
+#content tr td.track-communitysessions {
+    background-color: #FBC0BE !important;
+}
+#content tr td.track-bofs {
+    background-color: #FFFFFF !important;
+}
+#content tr td.track-anwendertreffen {
+    background-color: #F0F0F0 !important;
+}

@@ -1,0 +1,40 @@
+#conference-logo:after,
+#conference-logo:before,
+#content:before,
+#content:after,
+.noprint {
+    display: none !important;
+}
+
+#wrap {
+    width: auto !important;
+}
+
+#content {
+    border: none !important;
+}
+
+#content h1 {
+    clear: both;
+    position: static !important;
+    margin: 0 !important;
+    text-shadow: none !important;
+    color: #000 !important;
+}
+
+#navigation {
+    display: none !important;
+}
+
+#speaker,
+#event {
+    margin: 0 !important;
+}
+#event p.subtitle {
+    margin: 0 !important;
+}
+#event .event-image,
+.photo {
+    position: static !important;
+    float: left !important;
+}
