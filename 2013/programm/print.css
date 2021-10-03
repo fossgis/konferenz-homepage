@@ -1,0 +1,99 @@
+body {
+	background-color: #ffffff !important;
+	color: #000000 !important;
+	font-size: 60% !important;
+	line-height: 1.25em !important;
+}
+
+.noprint {
+	display: none !important;
+}
+
+#conference-logo:after {
+	display: none !important;
+}
+
+#conference-logo.noprint {
+	display: block !important;
+	position: static !important;
+	width: auto !important;
+	height: auto !important;
+	margin: 0 !important;
+	float: left !important;
+	background-image: none !important;
+}
+#conference-logo a {
+	display: inline !important;
+	width: auto !important;
+	height: auto !important;
+	margin: 0 !important;
+}
+#conference-logo img {
+	width: 5em !important;
+	height: 5em !important;
+	margin-right: 1em !important;
+	display: inline !important;
+}
+
+#menu {
+	display: none !important;
+}
+
+#content {
+	position: static !important;
+	border: none !important;
+	width: auto !important;
+	margin: 1px 1px 1px 1px !important;
+	padding: 0 !important;
+}
+
+#content h1 {
+	margin: 0.25em !important;
+}
+
+#content p.intro {
+	margin: 0 !important;
+	padding: 1em !important;
+}
+
+#content .section {
+	clear: both;
+}
+#content .section h1 {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+#content th {
+	border: 1px solid #000;
+}
+#content td {
+	border: 1px dotted #000;
+}
+#content td.empty {
+	padding: 0 !important;
+	border: none !important;
+}
+#content th.time {
+	border: none !important;
+}
+#content td.time {
+/*	position: absolute;
+	left: -0em;
+	padding: 0 !important;*/
+	border: none !important;
+}
+#content td.event .subtitle {
+	display: none;
+	font-size: 80%;
+}
+#content td.event .speakers {
+	font-size: 90%;
+}
+#content td.event .info {
+	display: none;
+}
+#content td.event p {
+	text-align: left !important;
+}

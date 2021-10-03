@@ -1,0 +1,2553 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Pentabarf//Schedule//DE
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/495.de.html
+DTEND;TZID=Europe/Berlin:20130614T120000
+DTSTART;TZID=Europe/Berlin:20130614T113000
+UID:495@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Speziell im deutschsprachigen Raum enthält OpenStreetMap zunehm
+ end hochdetaillierte Informationen\, dank derer sich eine dreidimensionale 
+ Szene etwa mit Gebäudemodellen\, spurgenauen Straßendarstellungen und Straß
+ enmöblierung ausstatten lässt. Auch relative Höheninformationen wie Steigun
+ gen\, Stockwerke oder die vertikale Anordnung von Brücken und Tunneln werde
+ n bereits vielerorts eingetragen.Die Erfassung absoluter Höheninformationen
+  ist jedoch unüblich und bleibt in der Praxis vereinzelten Landschaftspunkt
+ en wie Gipfeln vorbehalten. Weder die Bedienkonzepte der OSM-Editoren\, noc
+ h die üblichen Datenquellen (Luftbilder und GPS-Daten) eignen sich gut für 
+ diese Aufgabe. Daher muss hier ein anderer Ansatz gewählt werden: Der Rückg
+ riff auf externe Quellen wie die SRTM-Satellitendaten der NASA.Der Vortrag 
+ stellt einen Ansatz zur Verschmelzung von OSM- und SRTM-Daten vor und besch
+ reibt dessen Umsetzung in OSM2World\, einem Open-Source-Werkzeug zur Erzeug
+ ung von 3D-Landschaftmodellen: Mithilfe von passend gewählten Interpolation
+ sverfahren wird zunächst aus den SRTM-Messpunkten und gegebenenfalls zusätz
+ lichen Landschaftsmerkmalen eine Geländeoberfläche berechnet. Für diesen Sc
+ hritt wurde u.a. mit Least-Squares- und Natural-Neighbor-Algorithmen experi
+ mentiert. Anschließend werden Modelle mittels eines Optimierungsverfahrens 
+ so in das Terrain eingepasst\, dass implizit und explizit vorhandene Inform
+ ationen etwa zur Steigung in Längs- und Querrichtung oder zum lichtem Raum 
+ über Verkehrswegen berücksichtigt werden.
+SUMMARY:3D-Landschaftsmodelle aus OSM und SRTM - Wie OSM2World die OpenStre
+ etMap-Daten um die dritte Dimension ergänzt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/545.de.html
+DTEND;TZID=Europe/Berlin:20130612T170000
+DTSTART;TZID=Europe/Berlin:20130612T163000
+UID:545@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Darstellung von OpenStreetMap-Daten in Webseiten geschieht 
+ in den sogenannten Slippymaps. Diese Javascript-Anzeige holt sich dabei dyn
+ amisch die anzuzeigenden Kacheln von einem Server. Je nach Kartenart und St
+ il sind dies unterschiedliche Dienste. So auch die OSM2World-Karte\, eine 3
+ D-Darstellung von Deutschland.Das Ausliefern der Kacheln geschieht dabei of
+ t mit renderd oder tirex. Beiden gemein ist das effektive Caching und on-th
+ e-fly Rendern der benötigten Kacheln. Auf diese Art muss nur ein sehr klein
+ er Teil der Kacheln (unter 2%) auf der Platte vorgehalten werden.Was aber\,
+  wenn das verwendete Renderprogramm zu langsam für einen Livebetrieb ist? D
+ ieser Vortrag bietet interessante Einblicke in die Herausforderungen\, Prob
+ leme und Lösungsansätze im Falle der OSM2World-Slippymap. So wird zum einen
+  die Toolchain von Datenaufbereitung bis zur fertigen Kachel vorgestellt un
+ d auch einige interessante Ansätze gezeigt\, die in der Vergangenheit immer
+  wieder die Performance verbesserten. Zum anderen werden identifizierte Har
+ dwaregrenzen besprochen und Möglichkeiten\, diese auszureizen bzw. zu überw
+ inden erklärt. Im Ausblick werden Ideen zur Performancesteigerung genannt\,
+  die in weiteren Entwicklungen angedacht sind.
+SUMMARY:3D-SlippyMap - Rendering einer 3D-Deutschland-Karte mit Hilfe von O
+ SM2World
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/588.de.html
+DTEND;TZID=Europe/Berlin:20130614T103000
+DTSTART;TZID=Europe/Berlin:20130614T100000
+UID:588@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:3D-Stadtmodelle in PostGIS mit der 3D City DatabaseMit der 3D C
+ ity Database ist es möglich CityGML-basierte virtuelle 3D-Stadtmodelle in e
+ inem Datenbank Management System (DBMS) zu speichern. Es handelt sich dabei
+  um ein relationales Datenbankschema\, das aus dem Datenmodell des OGC-Stan
+ dards CityGML abgeleitet und für Datenbank-Routinen optimiert wurde. Über e
+ ine einfach zu bedienende Java-basierte Client-Anwendung können 3D-Modelle 
+ in die Datenbank im- und exportiert werden. Die freie\, quelloffene Softwar
+ e wurde in den letzten Jahren maßgeblich von dem Institut für Geodäsie und 
+ Geoinformationstechnik (IGG) an der TU Berlin unter der Leitung von Prof. T
+ homas H. Kolbe entwickelt und unterstützt seit Sommer letzten Jahres neben 
+ Oracle Spatial endlich auch die freie Geodatenbank PostGIS. Die 3D-Unterstü
+ tzung von PostGIS wurden zuletzt mit dem Release der 2.0 Version im April 2
+ 012 stark erweitert. Bei der derzeit noch recht geringen Auswahl an Werkzeu
+ gen zum Austausch und Bearbeiten von dreidimensionalen Geodaten\, liefert d
+ ie 3D City Database ein hervorragendes Beispiel einer effizienten wie leist
+ ungsstarken 3D-Datenbank auf PostGIS. Der Vortrag wird die zum Einen die te
+ chnischen Hintergründe rund um CityGML und den Datenbankaufbau erläutern un
+ d zum Anderen praktische Anwendungsbeispiele im Bereich der Web-Visualisier
+ ung von Stadtmodellen präsentieren.
+SUMMARY:3D-Stadtmodelle in PostGIS mit der 3D City Database
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H00M
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/619.de.html
+DTEND;TZID=Europe/Berlin:20130614T133000
+DTSTART;TZID=Europe/Berlin:20130614T123000
+UID:619@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:* Cédric Moullet: Zeitreise mit geo.admin.ch http://geo.admin.c
+ h/ (Keynote)* Stefan Keller: Das Leben ist doch ein Spiel!* FOSSGIS e.V. (M
+ arco Lechner): FOSSGIS - Der Verein* FOSSGIS e.V. (Marco Lechner): Verlosun
+ g
+SUMMARY:Abschlussveranstaltung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/497.de.html
+DTEND;TZID=Europe/Berlin:20130613T163000
+DTSTART;TZID=Europe/Berlin:20130613T160000
+UID:497@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Viele sehen PostGIS als das ideale Tool zur Verwaltung von Kart
+ endaten. PostGIS ist ein Aufsatz auf das Datenbanksystem PostgreSQL. Der Po
+ stgreSQL-Server hat mehr als 100 Stellschrauben\, an denen gedreht werden k
+ ann\, doch für ein gutes Tuning auf administrativer Ebene sind nur ein paar
+  wenige interessant. Der Vortrag gibt Aufschluss darüber\, was auf administ
+ rativer Ebene für ein gutes PostgreSQL-Tuning notwendig und was zu beachten
+  ist.
+SUMMARY:Administratives PostgreSQL Tuning
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/593.de.html
+DTEND;TZID=Europe/Berlin:20130614T093000
+DTSTART;TZID=Europe/Berlin:20130614T090000
+UID:593@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Im Zuge steigender Energiekosten werden geothermische Heizanlag
+ en in der Schweiz immer beliebter. Um Risiken bei der Anlage von Erdwärmeso
+ nden zu vermeiden ist es entscheidend\, neben zweidimensionalen Oberflächen
+ daten auch die räumliche Geometrie der im Untergrund befindlichen Schichten
+  zu kennen. Zur Entscheidungsfindung für die Bewilligung von Erdsonden wurd
+ e eine Abfrageroutine in PostGIS entwickelt. Die geologischen Schichten wur
+ den in GOCAD\, einer proprietären geologischen Software\, modelliert und al
+ s 3D-Geometrien in PostGIS importiert. Die Abfrageroutine liefert für jeden
+  Punkt auf Basis einer langen Reihe von Kriterien als Ergebnis die Zulässig
+ keit einer Erdwärmesonde\, die zulässige Bohrtiefe sowie einen spezifischen
+  erläuternden Text mit Begründungen und allfälligen Auflagen. Der Vortrag d
+ emonstriert einerseits die Abfrageroutine und geht weiter auf die Möglichke
+ iten und Grenzen der Ablage und Analyse von geologischen 3D-Daten in PostGI
+ S ein.
+SUMMARY:Analyse strukturgeologischer 3D-Daten in PostGIS - Eine Entscheidun
+ gsgrundlage bei der Bewilligung von Erdwärmesonden
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/505.de.html
+DTEND;TZID=Europe/Berlin:20130612T160000
+DTSTART;TZID=Europe/Berlin:20130612T153000
+UID:505@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Digitale Atlanten und damit auch der ATLAS DER SCHWEIZ müssen n
+ eue Wege einschlagen\, um gegenüber frei verfügbaren\, kostenlosen Kartendi
+ ensten\, Geo¬portalen und Virtuellen Globen konkurrenzfähig zu bleiben. Ein
+ e Analyse dieser Geovisualisierungsprodukte hat gezeigt\, dass die Mehrzahl
+  der Anwendungen primär für den Einsatz im Web konzipiert ist. Die Attrakti
+ vität solcher Produkte basiert auf dem unmittelbaren Nutzen im Alltag\, der
+  Aktualität der Daten und den integrativen Möglichkeiten. Anwen¬dungen auf 
+ der Basis von Virtuellen Globen bestechen zudem durch die intuitiv navigier
+ bare Drei-dimensionalität. Die inhaltliche und kartografische Qualität dies
+ er Appli¬ka¬tionen ist hingegen sehr heterogen\; oft fehlt auch eine atlass
+ pezifische Funktionalität.Die grosse Herausforderung und das Ziel des ATLAS
+  DER SCHWEIZ ist es\, einen Webatlas zu entwickeln und bereitzustellen\, we
+ lcher hochqualitative 2D- und 3D-Visualisierungen und Interaktionen in Echt
+ zeit unterstützt. Als Visualisierungs-Engine wird dabei die OpenSource-Soft
+ ware osgEarth eingesetzt. Dieser auf OpenSceneGraph basierende Virtuelle Gl
+ obus bietet u.a. eine breite Palette an Visualisierungs- und Navigations-te
+ chniken\, die Kombination von Höhenmodellen\, die Einbindung diverser Daten
+ formate und Webservices\, sowie verschiedene geografische Referenzsysteme a
+ n.Der Vortrag zeigt anhand von Beispielen und einer Life-Demo unseres onlin
+ e 3D-Atlas-Prototyps auf\, wie kartografisch aufbereitete Geoinformationen 
+ mit osgEarth visualisiert werden können und welche Chancen und Herausforder
+ ungen sich dadurch ergeben.
+SUMMARY:Atlas der Schweiz – online - 3D Visualisierung von Geodaten in Echt
+ zeit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/580.de.html
+DTEND;TZID=Europe/Berlin:20130614T120000
+DTSTART;TZID=Europe/Berlin:20130614T113000
+UID:580@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:s.u.
+SUMMARY:Aufbau eines webbasierten Netzinformationssystems mit CAD und freie
+ r Software
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/492.de.html
+DTEND;TZID=Europe/Berlin:20130613T143000
+DTSTART;TZID=Europe/Berlin:20130613T140000
+UID:492@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:In dem Beitrag wird gezeigt\, wie auf der Grundlage frei verfüg
+ barer meteorologischer Rohdaten räumlich und zeitlich hochaufgelöste Vorher
+ sagekarten für verschiedene Wetterphänomene bereitgestellt und in Geoportal
+ en genutzt werden können. Der gesamte Workflow ist mit FOSS realisiert.Zunä
+ chst werden die Motivation\, die Rahmenbedingungen\, die Rohdaten und das v
+ erwendete Wettermodell vorgestellt. Anschließend wird die implementierte Se
+ rvicekette beschrieben. Darin ist der Download der Rohdaten aller sechs Stu
+ nden\, die Berechnung der Vorhersagedaten für Temperatur\, Luftdruck\, Nied
+ erschlag\, Luftfeuchte\, Bewölkung\, Schneefall\, Windrichtung und –tempera
+ tur sowie die Konvertierung und Georeferenzierung dieser Vorhersagedaten en
+ thalten. Darauf baut ein stündlich aktualisierter\, abfragbarer (GetFeature
+ Info) und mit Legenden versehener WMS auf. Das abgedeckte Gebiet\, der Vorh
+ ersagezeitraum und die räumliche und zeitliche Auflösung sind parametrierba
+ r. Gegenwärtig werden für ein 3\,5 * 3\,5 km -Raster\, welches das Gebiet d
+ es Bundeslandes Sachsen abdeckt\, Vorhersagekarten für einen Zeitraum von j
+ eweils 48 Stunden (in Stundenintervallen) veröffentlicht. Der Dienst\, dess
+ en Metadaten im sächsischen GeoMIS recherchierbar sind\, kann über die WMS 
+ Schnittstellen in entsprechende Portale geladen werden.Die Autoren sind kei
+ ne Meteorologen\, sondern bzgl. Wetterprognosen lediglich „interessierte La
+ ien“. Ihnen ging es darum zu zeigen\, wie frei zugängliche Rohdaten mit FOS
+ S aufbereitet und somit für die interessierte Öffentlichkeit verfügbar gema
+ cht werden können. 
+SUMMARY:Bereitstellung hochaufgelöster Wettervorhersagen für Geoportale
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/587.de.html
+DTEND;TZID=Europe/Berlin:20130613T150000
+DTSTART;TZID=Europe/Berlin:20130613T143000
+UID:587@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Cartaro ist ein Content Management System\, mit dem räumliche D
+ aten nahtlos mit Texten und Bildern kombiniert\, verwaltet und publiziert w
+ erden. Cartaro verbindet dabei die Stärken des CMS Drupal mit etablierten O
+ pen Source GIS-Projekten\, allen voran GeoServer\, GeoWebCache\, PostGIS un
+ d OpenLayers. Mit Cartaro lassen sich somit über die mächtige Administratio
+ nsoberfläche von Drupal ohne Programmierung sowohl allgemeine Webseiten wie
+  auch spezialisierte Geoportale und komplette Geodateninfrastrukturen entwi
+ ckeln. Vor allem dank der Integration von GeoServer stehen alle im CMS verw
+ alteten Inhalte als OGC-Webservices zur  Verfügung – innerhalb und ausserha
+ lb der Drupal-Webseite.In folgenden Bereichen zeigt sich die enge Verzahnun
+ g von räumlichen und nicht-räumlichen Inhalten des CMS besonders. Alle wich
+ tigen Digitalisierfunktionen\, wie sie aus einem Desktop-GIS bekannt sind\,
+  stehen in der Drupal-Oberfläche zur Verfügung. Die Persistierung räumliche
+ r Daten beruht auf PostGIS und erlaubt somit umfangreiche räumliche Abfrage
+ - und Analysemöglichkeiten direkt im CMS. Die ausgefeilten Benutzer- und Ro
+ llenkonzepte von Drupal lassen sich komplett auf Geodaten anwenden. Beginne
+ nd mit der Steuerung von Privilegien auf Datenebene bis zur Absicherung von
+  Webdiensten erfolgen alle Einstellungen über die Drupal-Oberfläche.Eine wi
+ chtige Stärke von Cartaro liegt in der Erweiterbarkeit über eine Vielzahl a
+ n Drupal-Modulen. Zum Beispiel lassen sich mit Modulen für Redaktionssystem
+ e komplexe Workflows bei der Erfassung und Freigabe räumlicher Daten abbild
+ en. Dies ist für die interne Verwaltung von Geodaten ebenso interessant wie
+  für Portale\, die im Rahmen der Bürgerbeteiligung oder des Crowdsourcings 
+ Daten erheben. Die Präsentation stellt die Architektur von Cartaro\, die Fu
+ nktionalität und verschiedene Anwendungsfälle vor.
+SUMMARY:Cartaro - Geospatial CMS - Ein Content Management System für räumli
+ che Daten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.212 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/592.de.html
+DTEND;TZID=Europe/Berlin:20130613T123000
+DTSTART;TZID=Europe/Berlin:20130613T110000
+UID:592@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Cartaro ist ein Content Management System\, mit dem räumliche D
+ aten nahtlos mit Texten und Bildern kombiniert\, verwaltet und publiziert w
+ erden. Cartaro verbindet dabei die Stärken des CMS Drupal mit etablierten O
+ pen Source GIS-Projekten\, allen voran GeoServer\, GeoWebCache\, PostGIS un
+ d OpenLayers. Mit Cartaro lassen sich über die mächtige Administrationsober
+ fläche von Drupal ohne Programmierung sowohl allgemeine Webseiten wie auch 
+ spezialisierte Geoportale und komplette Geodateninfrastrukturen entwickeln.
+  Im Workshop werden auf der Basis einer vorhandenen Cartaro-Installation di
+ e Schritte von der Erstellung bis zur Publikation von Geodaten in Cartaro d
+ emonstriert:* Definition eines neuen räumlichen Datensatzes* Digitalisieren
+  in der Weboberfläche* Hochladen von Daten* Ausgabe als WMS/WFS* Einstellun
+ g der Zugriffsrechte für Daten und Dienste* Darstellung der Daten in Karten
+ * Konfiguration von OpenLayers-Karten* Funktionserweiterung über Drupal-Mod
+ ule* Individuelle Design-AnpassungenMit dem Workshop werden die Kenntnisse 
+ vermittelt\, um über die Administrationsoberfläche von Cartaro ein Geoporta
+ l zu entwerfen. Daneben erhalten die Teilnehmer einen ersten Einblick\, wel
+ che Anpassungsmöglichkeiten über individuelle Programmierung bestehen. Es s
+ ind keine speziellen Vorkenntnisse erforderlich.
+SUMMARY:Cartaro - Geospatial CMS - Management von räumlichen Daten im CMS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/553.de.html
+DTEND;TZID=Europe/Berlin:20130614T103000
+DTSTART;TZID=Europe/Berlin:20130614T100000
+UID:553@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:CouchDB wird primär als indizierter JSON-Storage wahrgenommen. 
+ Vielen\, besonders für die Web-Entwicklung vorteilhaften Funktionen und der
+ en möglichen Anwendung wird dabei weniger Beachtung geschenkt.Mithilfe der 
+ GeoCouch-Erweiterung wurde CouchDB bereits um räumliche Abfragen erweitert\
+ , der Zugriff auf die Geodaten erfolgt jedoch über eine dem Produkt eigene 
+ Schnittstelle.WFS ist ein vom OGC definierter Standard zur Übertragung von 
+ Vektordaten über das HTTP\, mit welchem viele GIS von Haus aus umgehen könn
+ en.Unter Ausnutzung von "list" Funktionen ist es möglich\, ohne weitere Sof
+ tware einen WFS Server in einer CouchDB zu implementieren und so ein standa
+ rdisiertes Interface einer jeden GeoCouch Datenbank zu einer Vielzahl an GI
+ S zu schaffen.Der so erstellte WFS ist dabei ausschließlich in einem "desig
+ n" Dokument gespeichert und kann bei Bedarf einfach in die gewünschte Daten
+ bank kopiert werden\, um diese mit WFS-Fähigkeiten auszustatten.In dem Vort
+ rag wird die Implementierung des WFS beschrieben und demonstriert\, aber au
+ ch die Grenzen des mit dieser Methode Machbaren aufgezeigt.
+SUMMARY:CouchWFS - Ein WFS umgesetzt mit CouchDB Bordmitteln
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/589.de.html
+DTEND;TZID=Europe/Berlin:20130612T170000
+DTSTART;TZID=Europe/Berlin:20130612T163000
+UID:589@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Auf den ersten Blick scheint OpenStreetMap ein sehr einfaches D
+ atenmodell zu benutzen. Es gibt Nodes\, Ways und Relations mit freien Tags.
+  Das war es schon.  Aber wenn man etwas genauer schaut\, dann findet man hi
+ nter diesem einfachen Grundmodell ein komplexes Gebilde von Konventionen\, 
+ die manchmal dokumentiert sind\, vielfach aber nur in den Köpfen der Mapper
+  existieren. Daneben führt die Interpretation der Daten durch vorhandene So
+ ftware vielfach zu weiteren Regeln\, die man eigentlich dem Datenmodell zuo
+ rdnen muss.  All dies führt zu einem ziemlich komplexen Datenmodell\, dass 
+ jeder verstanden haben muss\, der intensiver mit OSM-Daten arbeitet. Die si
+ mple Welt der OSM-Grundobjekte mit ein paar Tags ist eine Illusion.Der Vort
+ rag zeigt anhand der existierenden OSM-Daten\, welche Einflüsse unser Daten
+ modell geprägt haben\, was damit ausgedrückt werden kann und wo seine Besch
+ ränkungen liegen. Er versucht aus den einzelnen Aspekten von Tagging-Konven
+ tionen\, über komplexe Relations bis zu implizierten\, aber nicht wirklich 
+ modellierten Zusammenhängen einen Eindruck davon zu geben\, wie unser Daten
+ modell eigentlich aussieht und wie es sich weiterentwickeln kann. Der Vorta
+ g richtet sich an alle "Mapper" und alle\, die OSM-Daten nutzen oder nutzen
+  wollen und die sich schonmal gefragt haben\, warum das eigentlich oft so s
+ chwierig ist.
+SUMMARY:Das OpenStreetMap-Datenmodell
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/532.de.html
+DTEND;TZID=Europe/Berlin:20130613T103000
+DTSTART;TZID=Europe/Berlin:20130613T100000
+UID:532@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Das QGEP-Projekt hat das Ziel auf Basis von QGIS eine Fachschal
+ e für die Bereiche Abwasser und GEP (Genereller Entwässerungsplan) zu erste
+ llen. Die Präsentation berichtet über den Projektstand\, die Probleme und L
+ ösungsansätze. Da QGEP vermutlich eine der ersten grösseren Fachschalen auf
+  Basis von QGIS ist\, müssen einige Probleme im QGIS-Kern gelöst werden. Di
+ ese Entwicklungen kommen dann der generellen Fachschalenentwicklung unter Q
+ GIS zugute.
+SUMMARY:Das QGEP Abwasser Projekt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/549.de.html
+DTEND;TZID=Europe/Berlin:20130613T120000
+DTSTART;TZID=Europe/Berlin:20130613T113000
+UID:549@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:AbstractDie Anforderungen an WebGIS-Lösungen werden vielseitige
+ r und komplexer. Oft werden verwaltungsweite Lösungen benötigt\, ein umfass
+ endes Berechtigungskonzept möglichst mit Anbindung an externe Authentifizie
+ rungsdienste wie LDAP nachgefragt oder auch die Integration von Geo- und ni
+ cht-Geo-Diensten bei gleichzeitiger Absicherung gefordert.Solche komplexen 
+ WebGIS-Lösungen erfordern ein reibungsloses Zusammenspiel und eine hohe Fle
+ xibilität seitens aller eingesetzten Komponenten. Als eine Lösung stellt te
+ rrestris seit Ende 2012 das Framework „SHOGun“ (“Spring\, Hibernate\, OpenL
+ ayers\, GeoExt un… d weitere”) als OpenSource Software bereit\, gleichzeiti
+ g kommt SHOGun auch in Projekten zum Einsatz. SHOGun besteht aus einem Java
+ -Backend\, welches neben der Benutzer- und Rechteverwaltung ein Framework z
+ um Aufsetzen von eigenen Diensten bietet. Dazu liefert SHOGun einen frei ko
+ nfigurierbaren WebGIS-Client auf Basis von ExtJS\, GeoExt und OpenLayers.Du
+ rch den Einsatz dieser renommierten und hochqualitativen Open Source-Framew
+ orks wird die Nachhaltigkeit\, Wartbarkeit sowie die Qualität der Anwendung
+  gewährleistet.Der Vortrag stellt den Stand des OpenSource Projektes SHOGun
+  vor. Dabei wird neben dem aktuellen Stand auch die Roadmap vorgestellt. We
+ iterhin werden aktuelle Projekte und dafür entwickelte Erweiterungen\, die 
+ SHOGun verwenden vorgestellt. SHOGun ist aktuell in einem großen Forschungs
+ projekt sowie bei einer Lösung für die gesamte Wasserwirtschaft eines Bunde
+ slandes im Einsatz. Highlights dabei sind beispielsweise das automatisierte
+  Anlegen von WMS-Layern über die GeoServer-API mit SLD-Editor oder die Erst
+ ellung eigener GIS-Client-Instanzen.
+SUMMARY:Das SHOGun-WebGIS Framework  - Vorstellung\, Stand und Einsatzbeisp
+ iele
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/520.de.html
+DTEND;TZID=Europe/Berlin:20130613T123000
+DTSTART;TZID=Europe/Berlin:20130613T110000
+UID:520@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Faszination von OpenStreetMap liegt in der Reichhaltigkeit 
+ und Vollständigkeit der Daten. Leider bedeutet dies auch\, dass die schiere
+  Datenmenge hohe Anforderungen an Werkzeuge zur Auswertung stellt. Mit Over
+ pass API ist es möglich\, per einfacher HTTP-Abfrage über das Web die Daten
+  gezielt nach eigenen Kriterien wie Thema oder Ort zu filtern und sogar min
+ utenaktuell zu beziehen.Die Overpass API wird heute bereits für eine Vielza
+ hl von Anwendungen\, z.B. zur Qualitätssicherung\, für in Echtzeit erzeugte
+  Kartenoverlays\, thematische Downloads oder auch zur Beschleunigung der Ma
+ in API verwendet. Ihren Geschwindigkeitsvorteil erzielt die Overpass API du
+ rch eine optimierte Datenhaltung anstatt einer relationalen Datenbank. Ihre
+  Flexibilität bezieht sie aus einer Abfragesprache\, die einfach ist\, aber
+  speziell auf die Bedürfnisse von OpenStreetMap zugeschnitten.In diesem Wor
+ kshop wird in die Abfragesprache systematisch eingeführt. Als Beispiele wer
+ den ein thematisches Kartenoverlay auf Basis von OpenLayers erstellt\, es w
+ ird die spezielle Area-Syntax zur Extraktion der Straßenliste einer Stadt v
+ erwendet\, und es wird als Beispiel für eine komplexere Abfrage das Tool zu
+ r Erstellung von Bus- und Bahn-Linienbändern und -plänen vorgestellt.
+SUMMARY:Daten aus OpenStreetMap extrahieren\, analysieren und filtern mit d
+ er Overpass API
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/597.de.html
+DTEND;TZID=Europe/Berlin:20130612T163000
+DTSTART;TZID=Europe/Berlin:20130612T160000
+UID:597@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION: Eine immer wiederkehrende Frage ist\, wie gut sind die OSM Dat
+ en? Dieser Vortrag soll einige Aspekte der Qualität und Vollständigkeit der
+  OSM Daten in der Schweiz beleuchten. Die Schweiz ist kein grosses Land\, u
+ nd trotzdem zeigt sich die für OSM typische grosse Bandbreite: Es gibt sehr
+  detailliert gemappten Gebiete\, aber auch solche\, wo erst das Hauptstrass
+ ennetz und ein paar von Luftbildern mit schlechter Auflösung abgezeichnete 
+ Wälder verfügbar sind.OSM bietet vielen geographischen Features Platz. Wich
+ tig ist sicherlich das Strassennetz\, welches Routing ermöglicht und häufig
+  auch den Hintergrund für Spezialkarten darstellt. Für die Adresssuche brau
+ cht es Strassennamen\, aber auch die Administrativen Einheiten. Dann gibt e
+ s noch eine breite Palette von Points of Interest: Bushaltestellen\, Restau
+ rants\, Hotels. Aber auch Brunnen (mit oder ohne Trinkwasser) oder markante
+  Bäume. Dazu kommen noch Informationen die für Spezialkarten Verwendung fin
+ den wie Wanderwege\, Skipisten oder Skatingrouten.Im Vortrag wird für einig
+ e ausgewählte Aspekte versucht eine quantitative Bewertung der Qualität des
+  OSM-Datenbestandes in der Schweiz darzulegen und deren Entwicklung aufzuze
+ igen. Als Vergleichsgrundlage dazu werden wo möglich offizielle Daten verwe
+ ndet wie zum Beispiel das Eidgenössische Gebäude- und Wohnungsregister für 
+ die Strassennamen. 
+SUMMARY:Datenqualität von OSM in der Schweiz
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/623.de.html
+DTEND;TZID=Europe/Berlin:20130614T113000
+DTSTART;TZID=Europe/Berlin:20130614T110000
+UID:623@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Nominatim ist die Software\, die sich hinter der Suchbox der Op
+ enStreetMap-Hauptseiteverbirgt. Sie bietet eine Freitext-Suche genauso wie 
+ Reverse-Geocoding\, deckt OSM-Datenweltweit ab und kann minütlich auf dem S
+ tand der letzten Änderungen in OSM gehaltenwerden.Dieser Vortrag gibt einen
+  kurzen Einblick ins Innere von Nominatim. Eswird erklärt\, wie die OSM-Dat
+ en vorverarbeiten werden\, wie ein Ort seine Adresseerhält und wie schlusse
+ ndlich die Suche selber funktioniert. Der Schwerpunkt liegtdabei weniger au
+ f technischen Details sondern der Vortrag wird mehr die grundlegendenPrinzi
+ pien erklären\, die der Suche zugrunde liegen. Damit soll dem interessierte
+ nMapper geholfen werden\, besser zu verstehen\, wie die sorgfältig in OSM e
+ rfasstenDaten verarbeitet werden\, damit sie von anderen gefunden werden kö
+ nnen.
+SUMMARY:Der OpenStreetMap-Geocoder Nominatim
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/543.de.html
+DTEND;TZID=Europe/Berlin:20130613T170000
+DTSTART;TZID=Europe/Berlin:20130613T163000
+UID:543@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Generaldirektion Kulturelles Erbe Rheinland-Pfalz setzt im 
+ Bereich der Geodatenverarbeitung seit 2010 auf Open Source Software wie Pos
+ tgreSQL/PostGIS\, Quantum GIS\, Mapserver und Mapbender. Zur Verwaltung der
+  Fachdaten wird der MS SQL-Server eingesetzt\, die clientseitig installiert
+ en Datenbankfrontends basieren auf .NET. Um die Vorteile aus beiden „Welten
+ “ nutzen zu können\, wird seit 2011 an einer Verknüpfung gearbeitet\, die v
+ or allem auf dem Datenaustausch zwischen den Datenbanksystemen SQLServer un
+ d PostgreSQL/PostGIS aufbaut. Das Ergebnis ist eine Fachanwendung\, die hin
+ sichtlich der Darstellung und Bearbeitung von Geodaten je nach Erforderniss
+ en des Users mit unterschiedlichen GIS-Clients genutzt werden kann. Dazu zä
+ hlen ein in die Datenbank integrierter\, OpenLayers-Kartenviewer ebenso wie
+  eine Anbindung von QGIS sowie eines weiteren proprietären GIS. Derzeit wir
+ d zudem eine Verknüpfung mit dem auf Open Source Komponenten aufbauenden Ge
+ oPortal.rlp entwickelt\, so dass dort in Zukunft WMS- und WFS-Dienste unmit
+ telbar durch den User freigeschaltet bzw. aktualisiert werden können.Im Vor
+ trag soll nicht nur das Ergebnis dieser Symbiose präsentiert werden\, sonde
+ rn auch einige der Hürden\, die auf diesem Weg genommen werden mussten (z.B
+ . Codierungsprobleme\, Einrichten eines DB-Verbindungsservers mit ODBC\, Nu
+ tzung von OpenQuery und ogr2ogr). Durch die Präsentation des noch in der En
+ twicklungsphase befindlichen Projektes erhoffen sich die Entwickler ein Fee
+ dback aus der FOSSGIS-Community und den Kontakt zu ähnlichen Projekten.
+SUMMARY:Die gemeinsame Nutzung von MS-SQLServer und PostgreSQL/PostGIS sowi
+ e weiterer OSGeo-Software in einer Fachdatenbank für kulturelles Erbe mit G
+ IS-Anbindung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/496.de.html
+DTEND;TZID=Europe/Berlin:20130613T120000
+DTSTART;TZID=Europe/Berlin:20130613T113000
+UID:496@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Von den 30 Millionen Adressen in Deutschland sind derzeit in OS
+ M nur ca. 10% erfasst. In anderen Ländern ist der Anteil meist noch geringe
+ r.Adress-Suchmaschinen wie NOMINATIM\, aber auch Navigationssysteme\, LBS-A
+ nwendungen u.v.m. sind auf hinreichend genaue Adressangaben angewiesen.Stev
+ e Coast\, der Gründer von OSM\, hat erst kürzlich darauf hingewiesen\, daß 
+ die noch am Anfang befindliche Erfassung von Adressen in OSM der letzte ern
+ stzunehmende Grund ist\, proprietären Karten gegenüber OSM in manchen Mains
+ tream-Anwendungen den Vorrang zu geben.Eine Unterstützung von Mappern beim 
+ effizienten Erfassen von Hausnummern und Adressen ist daher wünschenswert.K
+ eypad-Mapper 3 ist eine Android-Software\, die hocheffizientes Mappen von H
+ ausnummern und Adressen ermöglicht.Die neue Version 3 wartet mit produktivi
+ tätssteigernden Features auf\, die qualitativ hochwertige Datenerfassung mi
+ t hohem Durchsatz verbinden.Die App ist auch von OSM-Einsteigern leicht zu 
+ bedienen und daher massentauglich\, z.B. für Anfängerkurse in Schulen\, VHS
+  etc.Im Vortrag soll aufgezeigt werden\, wie Keypad-Mapper 3 das Mappen von
+  Hausnummern und Adressen unterstützt.Referent:Dipl.-Ing. Markus SemmGründe
+ r und Geschäftsführer der ENAiKOON GmbH\, Berlin (Anbieter von Telematiklös
+ ungen für gewerbliche Kunden)Herr Semm ist einer der Top 1100 Mapper weltwe
+ it.ENAiKOON setzt bei seinen Lösungen ausschließlich auf OpenStreetMap und 
+ unterstützt die Community inhaltlich wie auch finanziell
+SUMMARY:Effizientes Mappen von Hausnummern - Keypad-Mapper 3 in der Praxis
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/546.de.html
+DTEND;TZID=Europe/Berlin:20130613T170000
+DTSTART;TZID=Europe/Berlin:20130613T163000
+UID:546@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:OpenStreetMap ist mit dem Anspruch angetreten\, eine Karte der 
+ ganzen Welt zu schaffen\, eine Karte\, die von jederman genutzt werden kann
+ . Die Karten\, die aus OSM-Daten erstellt wurden\, haben aber häufig das Pr
+ oblem\, dass die Namen von Länder\, Städte und POIs für die Nutzer der Kart
+ en nicht lesbar sind. Der europäische Tourist\, der seine Asienreise plant\
+ , sieht oft nur unverständliche Namen in unbekannten Schriftzeichen. Anders
+ herum\, kann ein Schulkind in Nepal die europäischen Namen nicht verstehen.
+  Außerdem gibt es viele Konflikte in mehrsprachigen Regionen\, welche Namen
+  denn nun auf der Karte erscheinen sollen.Diesen Problemen kann nur mit ein
+ er mehrsprachigen Karte abgeholfen werden. Jedem Nutzer soll eine OSM-Karte
+  in seiner Sprache zur Verfügung gestellt werden. Die Daten dazu sind bei O
+ SM häufig schon vorhanden\, aber es braucht auch die Software um damit umge
+ hen zu können. Der Wikimedia Deutschland e.V. hat im Jahre 2012 die Entwick
+ lung von Software für eine solche Karte finanziert und damit wichtige Schri
+ tte ermöglicht. Seither arbeiten wir daran\, die mehrsprachige Karte allgem
+ ein zur Verfügung zu stellen.Der Vortrag stellt den Stand des Projektes dar
+  und beschreibt was für technische und soziale Probleme zu überwinden waren
+  (und noch sind). Er geht auf die technischen Hintergründe des Kartenserver
+ s auf Basis von Mapnik und der MapQuest-Render-Software ein und zeigt wie m
+ it der manuellen Datenerfassung durch tausende OSM-Enthusiasten in Verbindu
+ ng mit automatischer Transliteration und schnellem Kartenrendering eine wir
+ klich überall nutzbare Karte möglich wird.
+SUMMARY:Eine Karte in jeder Sprache
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208a (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/502.de.html
+DTEND;TZID=Europe/Berlin:20130613T103000
+DTSTART;TZID=Europe/Berlin:20130613T090000
+UID:502@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:OpenLayers (http://openlayers.org) ist wahrscheinlich die bekan
+ nteste und weit verbreitetste JavaScript-Bibliothek\, um Kartenmaterial ver
+ schiedenster Quellen im Web zu kombinieren und einheitliche Interaktionsmög
+ lichkeiten bereitszustellen. Der Workshop soll die Möglichkeiten der Biblio
+ thek aufzeigen und die Teilnehmer in die Lage versetzen\, eigene Kartenanwe
+ ndungen auf Basis von OpenLayers zu entwickeln. Möglicherweise kann der Wor
+ kshop bereits auf der sich aktuell in deRentwicklung befindlichen neuen Ver
+ sion OpenLayers 3 abgehalten werden\, in jedem Fall werden Neuerungen und U
+ nterschiede zu OpenLayers 2.x vorgestellt.Im Workshop\, der von Andreas Hoc
+ evar (openGeo)\, Frédéric Junod(Camptocamp) und Daniel Koch (terrestris) ge
+ halten wird\, werden die folgenden Themen behandelt werden:OpenLayers Grund
+ lagen: Wie fügt man mit OpenLayers eine Karte zu einer Webseite hinzu? Arbe
+ iten mit Layern (Themen): Wie kann man Raster- und Vektorlayer in einer Ope
+ nLayers Karte kombinieren? Arbeiten mit Controls (Kartenwerkzeugen): Wie er
+ weitere ich meine Karte um spezifische Bedienelemente? Zusätzlich zu oben g
+ enannten Themen werden wir\, je nach zur Verfügung stehender Zeit und den k
+ onkreten Wünschen der Teilnehmer\, gegebenenfalls die folgenden Aspekte beh
+ andeln:Vektorlayer für Fortgeschrittene: Verschiedene Möglichkeiten zur Dar
+ stellung von Vektordaten in OpenLayers Integration mit anderen Bibliotheken
+ : Die Kombination von OpenLayers mit anderen Bibliotheken\, um noch reichha
+ ltigere Kartenanwendungen im Web zu erstellen Zielgruppe sind alle an Webka
+ rtographie Interessierten\, die OpenLayers kennen lernen wollen. Auch Teiln
+ ehmer\, die OpenLayers bereits einsetzen\, können von einem Besuch sicherli
+ ch profitieren. Wenn Sie abschätzen möchten\, ob OpenLayers Ihnen bei Ihrer
+  Fragestellung helfen kann\, liefert der Workshop sicherlich erste Antworte
+ n.Vorwissen: Grundsätzliche Kenntnisse von JavaScript sind nützlich\, werde
+ n aber nicht zwingend vorausgesetzt.
+SUMMARY:Einführung in die JavaScript-Kartenbibliothek OpenLayers - Dynamisc
+ he Kartenanwendungen für jede Webseite
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.212 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/612.de.html
+DTEND;TZID=Europe/Berlin:20130614T103000
+DTSTART;TZID=Europe/Berlin:20130614T090000
+UID:612@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:In diesem Workshop lernen TeilnehmerInnen\, wie man mit GeoServ
+ er Geodaten laden\, publizieren\, symbolisieren und weitergeben kann. Konkr
+ ete Inhalte sind die Navigation in der GeoServer Benutzerschnittstelle\, di
+ e Anbindung an unterschiedliche Datenquellen\, Information über OGC Webdien
+ ste und SLD\, sowie die Nutzung publizierter Inhalte in Software von Dritta
+ nbietern\, wie z.B. Google Earth. 
+SUMMARY:Einführung in GeoServer
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/613.de.html
+DTEND;TZID=Europe/Berlin:20130613T103000
+DTSTART;TZID=Europe/Berlin:20130613T090000
+UID:613@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Workshop gibt einen Überblick über die Funktionalitäten von
+  Quantum GIS und vermittelt anhand eines praktischen Workflows\, wie man au
+ f einfache Art und Weise ein Projekt aufbaut\, Analysen durchführt und eine
+  ansprechende Karte erzeugt.
+SUMMARY:Einführung in QGIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208a (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/503.de.html
+DTEND;TZID=Europe/Berlin:20130613T123000
+DTSTART;TZID=Europe/Berlin:20130613T110000
+UID:503@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:GeoExt (http://geoext.org) ist eine auf den JavaScript-Biblioth
+ eken OpenLayers (für Karten im Web\, http://openlayers.org) und Ext JS (für
+  interaktive Webanwendungen\, http://www.sencha.com/products/js/) aufbauend
+ e JavaScript- Bibliothek\, die es vereinfacht\, Kartenmaterial in anspreche
+ nden und komplexen Oberflächen im Web zu präsentieren.Im Workshop\, der von
+  Andreas Hocevar (OpenGeo)\, Frédéric Junod (camptocamp) und Daniel Koch (t
+ errestris) gehalten wird\, werden die folgenden Themen behandelt:* GeoExt G
+ rundlagen: Wie erzeugt man ein verschiebbares Kartenfenster inklusive WMS-L
+ ayer mit GeoExt?* WMS mit Readern und Stores: Verwendung der Methoden GetCa
+ pabilities\, GetMap\, GetFeatureInfo und GetLegendGraphic\, um das Potentia
+ l der standardisierten Interaktionen mit den Diensten auszuschöpfen* WFS ei
+ nfach gemacht: Wir entwickeln einen WFS-T Editor mit automatisch synchronis
+ ierter Karten- und Tabellendarstellung der geographischen FeaturesZusätzlic
+ h zu oben genannten Themen werden wir\, je nach zur Verfügung stehender Zei
+ t und den konkreten Wünschen der Teilnehmer\, gegebenenfalls die folgenden 
+ Aspekte behandeln:Weitere OGC Standards* WFS GetCapabilities und DescribeFe
+ atureType* Filter Encoding (FE) and Styled Layer Descriptor (SLD)Zielgruppe
+  sind alle an Webkartographie Interessierten\, die bereits OpenLayers kenne
+ n und ansprechende Oberflächen mit GeoExt entwickeln möchten. Auch Teilnehm
+ er\, die GeoExt bereits einsetzen\, können von einem Besuch sicherlich prof
+ itieren\, etwa um die Eigenschaften der kürzlich erschienenen Version 1.1 k
+ ennenzulernen. Wenn Sie abschätzen möchten\, ob OpenLayers\, Ext JS und Geo
+ Ext Ihnen bei Ihrer Fragestellung helfen kann\, wird der Workshop erste Ant
+ worten liefern. Grundsätzliche Kenntnisse von JavaScript\, OpenLayers und E
+ xt JS sind sicherlich nützlich\, werden aber nicht zwingend vorausgesetzt.
+SUMMARY:Einführung in Rich Map Clients mit GeoExt - Anspruchsvolle Benutzer
+ oberflächen für Kartenanwendungen programmieren
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/594.de.html
+DTEND;TZID=Europe/Berlin:20130613T113000
+DTSTART;TZID=Europe/Berlin:20130613T110000
+UID:594@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Django ist ein in Python programmiertes\, quelloffenes Web-Fram
+ ework\, welches dem Model-View-Controller-Schema (MVC) folgt und auf die ex
+ plizite Konfiguration der Anwendung setzt. GeoDjango erweitert die Django-B
+ asis zu einem leistungsfähigen geographischen Web-Framework\, von neuen Fel
+ dern für OGC-Geometrien im objektrelationalen Django-Mapper (ORM) über  abs
+ trahierte Python-Schnittstellen für Geometrie-Operationen und -Datenformate
+  bis hin zur automatisch generierten\, produktionstauglichen Administration
+ soberfläche\, welche direkt  die kartographische Bearbeitung von Geometrien
+  erlaubt.Nach dieser Einführung werden gängige Architekturen einer GeoDjang
+ o-Weblösung skizziert\, von der Datenbank bis zum http-Server und dem Webbr
+ owser. Als Einstieg ins Handwerk  wird aufgezeigt wie typischerweise eine G
+ eoDjango-Entwicklungsumgebung aufzusetzen ist. Der Umgang mit den verschied
+ enen GeoDjango-APIs bildet den Kern der Betrachtungen. Es wird auf die zent
+ ralen Aspekte der Model-API\, der Database-API und der GeoQuerySet-API eing
+ egangen. Ein erster Blick in die GEOS- und GDAL-API runden den Block ab. Da
+ s GeoDjango Framework liefert Python-Objekte. Es wird beispielhaft gezeigt\
+ , wie diese im Django-Template-Engine in eine vom Web-Browser interpretierb
+ are Form aufgearbeitet werden\,  oft als JSON-Objekte\, welche der JavaScri
+ pt-Mapping-Library der Wahl übergeben werden.  Hinweise zum Deploying einer
+  GeoDjango-Applikation runden die Einführung ab.
+SUMMARY:Einführung ins Web-Framework GeoDjango - The Web framework for perf
+ ectionists with deadlines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208a (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/614.de.html
+DTEND;TZID=Europe/Berlin:20130614T103000
+DTSTART;TZID=Europe/Berlin:20130614T090000
+UID:614@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Wir möchten damit denjenigen\, die die Konferenz zum Kennenlern
+ en des Mapservers nutzen wollen\, die Möglichkeit geben\, sich persönlich m
+ it der Funktionsweise vertraut zu machen ohne einen Teil des Vortragsprogra
+ mms zu verpassen. Der Workshop soll einen Einblick in die Funktionalität de
+ s Mapservers geben. Folgende Fragen sollen geklärt werden:* Welche Rolle sp
+ ielt ein Kartenserver in meiner WebGIS Anwendung?* Wie kann ich meine Daten
+  mit dem UMN Mapserver visualisieren?* Wie kann ich OGC konforme Dienste (W
+ MS und WFS) mit dem UMN Mapserver aufsetzen und was bedeutet das eigentlich
+ ?* Welche Formate unterstützt der UMN Mapserver?* Welche Klassifikations- u
+ nd Stylemöglichkeiten bietet der UMN Mapserver?* Welche OpenSource-Clients 
+ kann ich für die Datenvisualisierung mittels Mapserver nutzen?
+SUMMARY:Einführung in UMN MapServer
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/595.de.html
+DTEND;TZID=Europe/Berlin:20130613T103000
+DTSTART;TZID=Europe/Berlin:20130613T100000
+UID:595@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Zeitplan der europäischen Geodateninfrastruktur INSPIRE sie
+ ht die Bereitstellung von Downloaddiensten ab dem Jahr 2012 vor. Downloaddi
+ enste übertragen originäre\, unpräsentierte Geodaten. Die heruntergeladenen
+  Geodaten können – im Gegensatz zu den über einen Darstellungsdienst bereit
+ gestellten Präsentationsgrafiken – individuell analysiert\, verarbeitet und
+  präsentiert werden.Im Vortrag werden die rechtlichen Vorgaben und technisc
+ hen Empfehlungen zu INSPIRE-Downloaddiensten sowie die hierfür verwendeten 
+ Normen und Standards erörtert. Die aktuellen Technical Guidance empfehlen d
+ ie drei Umsetzungsvarianten Pre-defined Atom\, Pre-defined WFS und Direct W
+ FS auf Basis der Standards Atom (GeoRSS) und WFS 2.0.Im Folgenden werden ve
+ rschiedene OpenSource-Lösungen hinsichtlich ihrer Eignung für die Bereitste
+ llung von INSPIRE-Downloaddiensten betrachtet. Hierbei wird insbesondere au
+ f die unterschiedlichen WFS 2.0-Fähigkeiten der etablierten OpenSource-Prod
+ ukte UMN MapServer\, GeoServer und deegree eingegangen.Abschließend werden 
+ Anwendungsmöglichkeiten von INSPIRE-Downloaddiensten vorgestellt. Aufgrund 
+ der speziellen Semantik des INSPIRE-Atom-Profils ist eine Nutzung bestehend
+ er GeoRSS-Clients nur eingeschränkt möglich. Ferner wird WFS 2.0 noch von s
+ ehr wenigen Desktop-GIS unterstützt. Im Rahmen meiner Masterarbeit wurde Qu
+ antumGIS durch Plugins erweitert\, die eine Nutzung von INSPIRE-Downloaddie
+ nsten im freien Geoinformationssystem ermöglichen. Der „INSPIRE Atom Client
+ “ und der „WFS 2.0 Client“ stehen über das QGIS Plugin-Repositorium zur Ver
+ fügung. Anmerkung: Der Vortrag basiert auf der gleichnamigen Masterarbeit\,
+  die im Januar 2013 bei der Hochschule Anhalt im Onlinestudiengang Geoinfor
+ mationssysteme eingereicht wurde.
+SUMMARY:Entwicklung und Anwendung von Downloaddiensten  im Kontext der euro
+ päischen Geodateninfrastruktur INSPIRE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208a (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/508.de.html
+DTEND;TZID=Europe/Berlin:20130613T150000
+DTSTART;TZID=Europe/Berlin:20130613T133000
+UID:508@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Mit dem Schreiben von Python-Plugins oder Python-Applikationen 
+ eröffnen sich mächtige Möglichkeiten\, um QGIS zur Lösung eigener Fragestel
+ lungen zu erweitern oder Komponenten von QGIS in eigenen Applikationen zu v
+ erwenden. Die Teilnehmer kennen nach dem Workshop den Einstieg in die QGIS 
+ Plugin-Entwicklung mit Python und PyQGIS
+SUMMARY:Entwicklung von Quantum GIS Plugins auf der Basis von PyQT und PyQG
+ IS 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H45M
+LOCATION:Aula / 4.1000
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/618.de.html
+DTEND;TZID=Europe/Berlin:20130612T150000
+DTSTART;TZID=Europe/Berlin:20130612T131500
+UID:618@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Willkommen auf der FOSSGIS 2013!
+SUMMARY:Eröffnungsveranstaltung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/601.de.html
+DTEND;TZID=Europe/Berlin:20130612T173000
+DTSTART;TZID=Europe/Berlin:20130612T170000
+UID:601@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:In diesem Beitrag soll ein System vorstellt werden\, welches ei
+ ne einfache und flexible Visualisierung von geostatistischen Analysen ermög
+ licht. Beispielhaft soll die Anwendung  anhand von „Personalized Pollen Pro
+ filing“ Daten dargestellt werden. Die Daten repräsentieren Informationen zu
+  Pollen\, welche durch ein Gerät\, welches der Patient am Körper trägt\, au
+ fgenommen werden. Diese werden anschließend automatisch klassifiziert und k
+ önnen anhand der Metainformation des Gerätes räumlich zugeordnet werden. Di
+ e so gewonnenen Messwerte sollen dann geostatistisch visualisiert werden.Fü
+ r das Bereitstellen der unterschiedlichen digitalen Kartenlayer wird ein We
+ b Mapping Service (WMS) verwendet. Die geostatistischen Analysen werden all
+ erdings über Web Processing Services zur Verfügung gestellt. Dafür wird ein
+  System vorgestellt\, welches eine hohe Flexibilität hinsichtlich seiner be
+ reitstehenden Services (Cascading/Nested WPS) bietet und in einen WMS-Reque
+ st Workflow integriert werden kann. Zudem wird der WPS nicht vom Client dir
+ ekt angefragt\, sondern das Ergebnis über den WMS zur Verfügung gestellt. S
+ omit lässt sich das Ergebnis auch über eine Style-Definition manipulieren. 
+ Auch vereinfachen die klassischen WMS-Requests die Client-Entwicklung und v
+ erlagern die komplexere WPS-Request-Logik auf den Server.Das System wird im
+  Zuge eines Forschungsprojektes am i3mainz – Institut für Raumbezogene Info
+ rmations- und Messtechnik entwickelt und baut vollständig auf freier Softwa
+ re auf.
+SUMMARY:Flexibles System zur geostatistischen Visualisierung - am Beispiel 
+ von „Personalized Pollen Profiling“ Daten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/536.de.html
+DTEND;TZID=Europe/Berlin:20130613T170000
+DTSTART;TZID=Europe/Berlin:20130613T163000
+UID:536@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die GIS-Fachstelle Basel-Landschaft begann im Jahr 2010 die Suc
+ he nach einer neuen GIS-Infrastruktur. Diese sollte sowohl ein neues Web-GI
+ S wie auch Anbindungsmöglichkeiten für die im Kanton bestehenden Desktop-GI
+ S beinhalten. Nach einem ausführlichen Evaluierungsprozess fiel der Entsche
+ id zugunsten von OpenSource. Speziell auf das c2cgeoportal. Nach mehr als 2
+  Jahren und bereits einiger Zeit in produktivem Betrieb von GeoViewBL\, kan
+ n die GIS-Fachstelle rück- und vorwärtsgewandt Einblick in dieses Projekt u
+ nd in Erfahrungen geben.
+SUMMARY:FOSS-GIS im Kanton Basel-Landschaft - ein Erfahrungsbericht
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/610.de.html
+DTEND;TZID=Europe/Berlin:20130613T173000
+DTSTART;TZID=Europe/Berlin:20130613T170000
+UID:610@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Aus bisherigen Studien zu OpenStreetMap (z.B. Lechner 2011\, St
+ ark 2011) geht hervor\, dass nur 2-5% der OSM-Beitragenden weiblich sind. D
+ ieser Anteil ist auch im Vergleich zu anderen Open Source- bzw. Open Data-P
+ rojekten sehr niedrig - bei Wikipedia wird beispielsweise von einem Anteil 
+ von ca. 10% ausgegangen (z.B. Glott et al. 2010). Für die OSM-Community ist
+  dieses Thema durchaus relevant: Würden sich heterogenere Gruppen (inklusiv
+ e Frauen) von OSM angesprochen fühlen\, gäbe es auch ein größeres Potential
+  von Personen\, die Daten erfassen und aktuell halten.  In unserer Forschun
+ g untersuchen wir daher die Gründe der aktuellen Situation und mit welchen 
+ Maßnahmen es gelingen könnte\, mehr Frauen für OSM zu begeistern. Dazu habe
+ n wir die folgenden Methoden angewandt: Eine Langzeitstudie\, bei der 12 ne
+ ue Mapperinnen zunächst verschiedene OSM-Aktivitäten erlernten und im Ansch
+ luss im mehrmonatigen Rhythmus zu ihrem Aktivitätsstatus befragt wurden\, T
+ elefon-Interviews mit aktiven Mapperinnen und Mappern\, sowie einen Online-
+ Fragebogen für Personen\, die OSM kennen\, aber nicht (mehr) aktiv beitrage
+ n. Die bereits vorliegenden Ergebnisse lassen darauf schließen\, dass es fü
+ r neue Mapperinnen in OSM sowohl eines leichteren technischen Einstiegs\, a
+ ls auch sozialer und projektbezogener Anreize bedarf. Der Vortrag möchte di
+ e Forschungsergebnisse im Detail vorstellen\, sowie Maßnahmen zur Diskussio
+ n stellen\, mit denen mehr Personen (insbesondere Frauen) für OSM aktiviert
+  werden können.
+SUMMARY:Frauen in OpenStreetMap - Oder: Vielfältigere Gruppen für OSM begei
+ stern.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/494.de.html
+DTEND;TZID=Europe/Berlin:20130613T160000
+DTSTART;TZID=Europe/Berlin:20130613T153000
+UID:494@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Bei Apache CouchDB und Couchbase handelt es sich um sogenannte 
+ dokumentbasierte Datenbanken. Sie gehörten somit in die Kategorie der nicht
+ -relationale Datenbanksysteme für die sich der Sammelbegriff „NoSQL“ eingeb
+ ürgert hat.Eine Stärke von Apache CouchDB ist die (Multi-Master) Datenrepli
+ kation. Das bedeutet dass der Datenbestand verschiedener Datenbankinstanzen
+  synchron gehalten werden kann\, und dennoch Änderungen an beliebiger Stell
+ e vorgenommen werden können.Die Replikation beschränkt sich nicht nur auf A
+ pache CouchDB\, sondern mittlerweile auf ein gesamtes Ökosystem. So ist es 
+ möglich Daten mittels HTML5-Technologie mit einem Browser zu synchronisiere
+ n. Diese stehen dem Anwender somit auch offline zur Verfügung\, ohne dass e
+ ine Verbindung zu einem Server bestehen muss.Couchbase hingegen hat seine S
+ tärke bei der Skalierung des Systems. So werden die Daten automatisch auf m
+ ehrere Rechner verteilt. Das nachträgliche Hinzufügen oder Entfernen von Re
+ chnern ist über eine Web-Oberfläche sehr leicht möglich. Im Falle des Ausfa
+ lls eines Rechners läuft das System ohne Unterbrechung weiter.GeoCouch biet
+ et sowohl für Apache CouchDB als auch Couchbase eine Lösung um n-dimensiona
+ le Anfragen machen zu können. Es ist also nicht nur möglich räumlich Anfrag
+ en zu stellen\, sondern weitere Eigenschaften wie z.B. Zeit\, Größen oder b
+ eliebige andere numerische Werte mit einzubeziehen.Apache CouchDD\, Couchba
+ se und GeoCouch sind Open-Source und stehen unter der Apache License Versio
+ n 2.0.
+SUMMARY:GeoCouch - Ein n-dimensionaler Index für Apache CouchDB und Couchba
+ se
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/582.de.html
+DTEND;TZID=Europe/Berlin:20130614T103000
+DTSTART;TZID=Europe/Berlin:20130614T100000
+UID:582@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:MapProxy kann als Kartenproxy WMS und Kachelanfragen nicht nur 
+ weiterleiten\, verarbeiten und beschleunigen\, sondern diese auch absichern
+ . Der Vortrag erläutert die Sicherheitsfunktionen von MapProxy mit der Kart
+ endienste benutzerspezifisch Abgesichert werden können.Benutzer A darf alle
+  Layer betrachten\, aber keine Feature Informationen Abrufen\; Benutzer B d
+ arf nur auf zwei Layer mittels WMTS zugreifen\, nicht aber auf den WMS\; Be
+ nutzer C darf nur auf einen Layer zugreifen\, aber nur innerhalb seiner Gem
+ einde. Diese und andere Beschränkungen können mit der Sicherheitsschicht vo
+ n MapProxy umgesetzt werden.MapProxy ermöglicht die Einschränkungen auf ein
+ zelne Dienste (WMS/WMTS/TMS/KML)\, Anfragen (GetMap/GetFeatureInfo) und Lay
+ er. Diese Einschränkungen können für jeden Benutzer einzeln gesteuert werde
+ n.Neben der Freigabe von gesamten Layern kann die Sicherheitsschicht auch a
+ uf exakte Gebiete angewandt werden. So kann zum Beispiel über Polygone defi
+ niert werden\, auf welche Bereiche einzelne Benutzer zugreifen dürfen und a
+ uf welche nicht. Bereiche ausserhalb des zugelassenen Bereiches werden für 
+ den Benutzer ausgeblendet.Diese Funktion wird sowohl vom WMS wie auch von d
+ en Kacheldiensten unterstützt (WMTS/TMS/KML).Keine Anwendung gleicht der An
+ deren – daher wurde die Sicherheitsschicht als offene Schnittstelle entwick
+ elt. So können vorhandene Benutzerdatenbanken eingebunden und auch ausgefal
+ lenere Sicherheitslösungen umgesetzt werden.Der Vortrag zeigt Praxisnah was
+  mit der MapProxy Sicherheitsschicht möglich ist und wie typische Nutzungen
+  umgesetzt werden können.
+SUMMARY:Geodaten absichern mit MapProxy
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208a (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/489.de.html
+DTEND;TZID=Europe/Berlin:20130612T170000
+DTSTART;TZID=Europe/Berlin:20130612T153000
+UID:489@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Geodaten gibt es jede Menge im Netz. Nur wie bekommt man Sie zu
+ r Weiterverarbeitung ins GIS. In einem Workshop mit der Software QGIS könne
+ n die Teilnehmer lernen\, wie Sie- aus dem Google-Satelite-Angebot hochaufl
+ ösende Luftbilder zusammenbauen: Abspeichern von Einzelstücken\, zusammenfü
+ gen und umprojizieren- OSM-Daten importieren und für die Visusaliserung und
+  Weiterverarbeitung im GIS aufbereiten\, insbesondere Extraktion einzelner 
+ Themen (Gebäude\, Waldflächen etc.)sowie Visualisierung im QGIS mit Hilfe d
+ er regelbasierten Darstellung\,- Nutzung von SRTM-Höhendaten- Einbindung vo
+ n WMS- und WFS-Diensten
+SUMMARY:Geodaten aus dem Netz in QGIS nutzen - OSM-Daten\, Google-Luftbilde
+ r und andere Online-Daten in QGIS verarbeiten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/622.de.html
+DTEND;TZID=Europe/Berlin:20130613T093000
+DTSTART;TZID=Europe/Berlin:20130613T090000
+UID:622@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:
+SUMMARY:Geo-Metadaten in OpenData Portalen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/578.de.html
+DTEND;TZID=Europe/Berlin:20130613T100000
+DTSTART;TZID=Europe/Berlin:20130613T093000
+UID:578@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Vortrag fokussiert: Geo-Metadaten mit GeoNetwork opensource
+ Neuerungen der Version 2.8Näheres siehe angehängtes Abstract
+SUMMARY:GeoNetwork 2.8 - Neuerungen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/519.de.html
+DTEND;TZID=Europe/Berlin:20130613T093000
+DTSTART;TZID=Europe/Berlin:20130613T090000
+UID:519@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der GeoPackage-Standard ist im Januar 2013 vom OGC als Draft ve
+ röffentlicht worden. Er vereint die Speicherung von Vektor- und Rasterdaten
+  im verbreiteten SQLite DB-Fileformat. Vektoren werden im SpatiaLite-Format
+  und Rasterdaten wie MBTiles gespeichert. Der kommende Standard und möglich
+ e Anwendungen werden im Detail vorgestellt.
+SUMMARY:GeoPackage\, das Shapefile der Zukunft - Der kommende OGC Standard 
+ für den Datenaustausch
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/574.de.html
+DTEND;TZID=Europe/Berlin:20130613T113000
+DTSTART;TZID=Europe/Berlin:20130613T110000
+UID:574@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Mit mehreren hundert Modulen zur Geoprozessierung gehört gvSIG 
+ CE zu den leistungsfähigsten Desktop-GIS auf dem Gebiet der Geodatenverarbe
+ itung und -analyse. Diese umfassende Funktionalität ist zum Teil in gvSIG C
+ E selbst implementiert\, wird aber zum größten Teil über die Erweiterung SE
+ XTANTE zur Verfügung gestellt\, welche ihrerseits wiederum Konnektoren für 
+ externe Prozessoren wie GRASS GIS und SAGA GIS zur Verfügung stellt. Diese 
+ mehrschichtige Architektur führt einerseits zu enormer Vielseitigkeit und F
+ lexibilität bei der Datenprozessierung\, andererseits aber auch zu einer ge
+ wissen Überlappung zwischen Modulen\, deren einzelne Vor- und Nachteile sic
+ h dem Benutzer nicht immer unmittelbar erschließen.Zwar werden die Besonder
+ heiten der Datenhaltung von Systemen wie GRASS GIS so gut wie möglich vor d
+ em Benutzer von gvSIG CE verborgen\, doch sind Bruchstellen zwischen den be
+ teiligten Komponenten nicht gänzlich vermeidbar. Der Vortrag widmet sich de
+ n unterschiedlichen Schichten der Geodatenprozessierung in gvSIG CE und zei
+ gt auf\, welche Komponenten sich für welche Anforderungen eignen\, wobei be
+ sonderes Augenmerk auf die (semi-)automatisierte Prozessierung großer Daten
+ mengen gerichtet wird. Ein weiterer Schwerpunkt der Ausführungen liegt auf 
+ besonderen Anforderungen bei der Qualitätssicherung\, z.B. im wissenschaftl
+ ichen und unternehmenskritischen Bereich. Außerdem werden die wichtigsten E
+ ntwicklungslinien der Geoprozessierung unter gvSIG CE diskutiert und die Zi
+ ele\, sowohl für die momentan in Vorbereitung befindliche\, als auch für zu
+ künftige Versionen von gvSIG CE\, skizziert.
+SUMMARY:Geoprozessierung mit Open-Source Desktop GIS  - gvSIG CE\, SEXTANTE
+  und GRASS GIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/542.de.html
+DTEND;TZID=Europe/Berlin:20130614T100000
+DTSTART;TZID=Europe/Berlin:20130614T093000
+UID:542@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:GeoServer is an open source geo-spatial server written in Java\
+ , following the common Java 2 Enterprise practices\, allowing for the handl
+ ing\, distribution and analysis of geospatial data.
+SUMMARY:GeoServer - the open source server for interoperable spatial data h
+ andling
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.212 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/620.de.html
+DTEND;TZID=Europe/Berlin:20130612T170000
+DTSTART;TZID=Europe/Berlin:20130612T153000
+UID:620@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:D3.js ist eine JavaScript-Bibliothek\, mit der Dokumente durch 
+ Daten manipuliertwerden können. D3 ermöglicht es uns\, mittels Web-Standard
+ s wie HTML\, SVG und CSSunsere Daten dynamisch zu visualisieren.TopoJSON is
+ t ein Format für Geodaten\, welches optimiert ist für die Darstellung imWeb
+ . Als Weiterentwicklung von GeoJSON erlaubt es\, Topologien zu encodieren\,
+ geometrische Redundanzen zu eliminieren und bietet somit komprimiertereGeom
+ etrie-Repräsentationen. Die Speicherplatzersparnis gegenüber GeoJSON istübl
+ icherweise bei etwa 80%.Wir werden in diesem Workshop diese beiden Tools an
+  der Vorfront derWeb-Standard-basierten (Geo-)Visualisierung kennen lernen.
+  Dazu erstellen wir einekleine Anwendung und betrachten weiterführende Mögl
+ ichkeiten.Ein Grundlegendes Verständnis von JavaScript\, HTML und CSS wird 
+ vorausgesetzt. Werselbst TopoJSON-Dateien erstellen will\, benötigt eine la
+ ufende Installation vonNode.js.
+SUMMARY:Geo-Visualisierung im Web mit D3 und TopoJSON
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/579.de.html
+DTEND;TZID=Europe/Berlin:20130613T160000
+DTSTART;TZID=Europe/Berlin:20130613T153000
+UID:579@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Im Zuge der im Jahr 2011 eingeleiteten „Energiewende“ wird vor 
+ allem im ländlichen Raum eine Verlagerung von der zentralistischen zu einer
+  dezentralen\, regenerativen Energieerzeugung stattfinden. Durch den Aufbau
+  dezentraler Versorgungs- und Erzeugungsstrukturen bieten sich in periphere
+ n als auch in strukturschwachen Regionen die Möglichkeiten\, aus der Errich
+ tung und dem Betrieb von regenerativen Anlagen - beispielsweise aus Bio- od
+ er Solarenergie – regionale\, ökologische und ökonomische Wertschöpfungseff
+ ekte zu erzielen. Mit der vielseitigen Inanspruchnahme von Flächen\, Nutzun
+ gskonkurrenzen und einer Reihe von Raumimplikationen profiliert sich dieser
+  Planungs- und Entwicklungsprozess - insbesondere auf regionaler Ebene - zu
+  einer wesentlichen Komponente in der Raumentwicklung. Zudem sind informell
+ e Konzepte und formelle Planungen erforderlich\, um bei der Realisierung vo
+ n Projekten zwischen den klima- und energiepolitischen Zielen und wirtschaf
+ tlichem Investitionsdruck einerseits\, sowie Raumverträglichkeit und Akzept
+ anz in der Öffentlichkeit andererseits einen Ausgleich zu schaffen. Die Geo
+ informatik\, als interdisziplinäres Fachgebiet\, kann in diesem Kontext ein
+ e bedeutende Rolle spielen. Als technologischer Begleiter der Energiewende 
+ eröffnet sich dabei ein wachsendes Anwendungsspektrum. Mittels GIS basierte
+ n\, automatisierten Analyseketten lassen sich Restriktionen\, sowie Potenzi
+ al- und Bedarfsflächen auf kommunaler Ebene gebündelt auswerten und deutsch
+ landweit transparent vergleichen. In Projekten an der Hochschule Anhalt zei
+ gt sich\, dass selbst frei verfügbare Daten (OpenStreetMap\, EEG-Anlagensta
+ mmdaten und CORINE Landnutzungsdaten) und Software (gvSIG/QGIS in Verbindun
+ g mit der Sextante Toolbox) aussagekräftige Ergebnisse für eine grundlegend
+ e Entscheidungsfindung liefern.
+SUMMARY:GIS basierte\, automatisierte Analyseketten als Grundlage für räuml
+ iche Energiekonzepte
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/490.de.html
+DTEND;TZID=Europe/Berlin:20130612T170000
+DTSTART;TZID=Europe/Berlin:20130612T153000
+UID:490@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Workshop gibt einen Überblick über die umfangreichen Funkti
+ onalitäten von GRASS GIS und vermittelt anhand eines praktischen Workflows\
+ , wie man auf einfache Art und Weise eine Arbeitsumgebung erstellt\, Analys
+ en durchführt und eine ansprechende Karte erzeugt.
+SUMMARY:GRASS GIS Workshop - Ein praktischer Einstieg 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/596.de.html
+DTEND;TZID=Europe/Berlin:20130613T120000
+DTSTART;TZID=Europe/Berlin:20130613T113000
+UID:596@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Eines der gebräuchlichsten Formate für den Austausch von räumli
+ chen Inhalten ist das “drawing interchange format” kurz dxf.Format. Insbeso
+ ndere wenn für die weitere Verwendung der Geodaten ein CAD vorgesehen ist\,
+  ist dxf das Format der Wahl.Der Beitrag behandelt die Möglichkeit\, mittel
+ s der OGR Simple Feature Library\, Geodaten aus einem PostgreSQL/PostGIS Da
+ tenbankmanagementsystem in ein dxf-Format zu exportieren. In einem geringer
+ en Umfang wird auch das gegenläufige Verfahren (Import von dxf-Daten in ein
+  PostgreSQL/PostGIS Datenbankmanagementsystem) behandelt. Der geringere Umf
+ ang ist hier weniger einer fehlenden Relevanz geschuldet\, sondern auf die 
+ Tatsache zurück zu führen\, dass dxf-Daten mitunter deutlich überladen sind
+  und in diesen Fällen kein befriedigendes Ergebnis zu erzielen ist. Hinzu k
+ ommt\, dass dxf-Daten ganz erheblich über das Styling definiert und komponi
+ ert werden. Diese Kombination (räumliche Definition und Darstellung) wird i
+ n der klassischen Geodatenwelt über den attributiven Anhang abgebildet und 
+ die Darstellung erst im Rahmen der Visualisierung an die jeweilige Applikat
+ ionen abgetreten.Die Strukturierung von Geodaten orientiert sich regelmäßig
+  an den Simpel Feature (Punkt\, Linie\, Fläche). Entsprechend werden die Da
+ ten dann modelliert. Das dxf-Format kann diese und viele andere Geometriety
+ pen Verarbeiten. Eine strenge Modellierung der Daten nach den Geometrietype
+ n ist dem dxf-Format allerdings fremd. Eine thematisch gebotene Verknüpfung
+  erfolgt allerdings in beiden Kulturen über die Tabelle (GIS) bzw. den Laye
+ r (dxf). Die Konvertierung dxf>PostgreSQL>dxf wird hier beispielhaft beschr
+ ieben. Grundsätzlich ist die OGR-Bibliothek eine Datendrehscheibe in die ve
+ rschiedensten Formate und die Verfahrensweise ist abhängig vom Ausgangs- un
+ d Zielformat sehr ähnlich.Der Beitrag zeigt die Konfiguration eines Ausgang
+ sdatenbestandes mit einem PostGIS-View. Hierbei wird auf die Besonderheiten
+  des Stylings von Symbolen\, Texten und Linien eingegangen. Im Anschluss wi
+ rd die Steuerung der OGR-Bibliothek dargestellt. Das hier beschriebene Verf
+ ahren wird über Befehlszeilenkommandos gesteuert. Somit richtet sich der Be
+ itrag an erfahrene Anwender und Menschen die Applikationsentwicklungen mach
+ en.
+SUMMARY:Im- und Export von dxf-Daten mit OGR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.212 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/611.de.html
+DTEND;TZID=Europe/Berlin:20130613T150000
+DTSTART;TZID=Europe/Berlin:20130613T133000
+UID:611@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Concisely\, interoperability is the ability of diverse systems 
+ to work together. But how to do that when the work is about cartographic st
+ yling? This workshop wants to emonstrate how portrayal interoperability is 
+ possible within a modern spatial data infrastructure through OpenGIS standa
+ rds from the Open Geospatial Consortium like OGC Styled Layer Descriptor WM
+ S profile and Symbology Encoding (OGC SLD/SE 1.1). The workshop will guide 
+ attendees all along a fictional use case to discover how to inter-operate O
+ GC SLD compliant systems and what are the cartograpĥic abilities of OGC SE.
+  To conclude\, an overview of what may be the evolution of these abilities 
+ will be experienced.
+SUMMARY:Interoperability for web portrayal services : a use case with deegr
+ ee3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208a (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/575.de.html
+DTEND;TZID=Europe/Berlin:20130613T170000
+DTSTART;TZID=Europe/Berlin:20130613T153000
+UID:575@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:gvSIG CE ist ein Open Source Desktop GIS von hoher Leistungsfäh
+ igkeit zur Bearbeitung von CAD-\, GIS- und in der Kartografie gebräuchliche
+ n Dateiformaten (Vektor und Raster). Das Programm zeichnet sich durch eine 
+ große Benutzerfreundlichkeit und einfache Bedienung aus. Es ist stabil und 
+ mit den wichtigsten GIS Funktionen ausgestattet.In diesem Workshop werden w
+ ir einen Überblick über die zahlreichen Möglichkeiten bieten\, die gvSIG CE
+  für die Erstellung von Karten bereithält.Die umfangreiche Werkzeugpalette 
+ von gvSIG CE wird verwendet\, um die bestmögliche Ausgestaltung der Karten 
+ zu gewährleisten: verschiedene Legendentypen (Intervalle\, proportional ska
+ lierte Symbole)\, individuelle Gestaltung von Legenden mit Hilfe des Symbol
+ editors\, Nutzung eigener Symbole (z.B. als Grafik) nach Verwendung der gvS
+ IG Symbolbibliothek\, benutzerdefinierte/individuelle und automatische Besc
+ hriftungen\, Diagramme\, etc.Legenden werden im .gvl-Format abgespeichert\,
+  eigene Symbole in der Standardbibliothek für Symbole abgelegt. Die finale 
+ Vorlage für die Karten wird als gvSIG-Template (.gvt-Format) erzeugt\, die 
+ auch für zukünftige Kartenerstellungen beliebig angepasst oder verändert we
+ rden kann.Für die automatische und schnelle Erstellung von Karten kann man 
+ die Funktion "Schnell Druck" verwenden\, mit der man vorgefertigte Karten p
+ er Knopfdruch einfach erzeugen kann.Mit dem Dokumenttyp "Karte" bietet gvSI
+ G CE die Möglichkeit\, die Geodaten kartografisch mit allen notwendigen Ele
+ menten darzustellen: Maßstab\, Legende\, Nordpfeil\, Logos\, etc. Nach Fert
+ igstellung der Karten können diese als pdf oder ps exportiert werden.
+SUMMARY:Kartenerstellung und Bearbeiten von Legenden mit gvSIG CE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/528.de.html
+DTEND;TZID=Europe/Berlin:20130612T173000
+DTSTART;TZID=Europe/Berlin:20130612T170000
+UID:528@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Seit zwei Jahren sind mehrere Projekte um Open-Source Mapping i
+ n der Westschweiz entstanden. Anstatt einzelne Projekte zu entwickeln\, wur
+ de schnell klar\, dass diese Kosten und Entwicklungen geteilt werden musste
+ n\, wodurch ein generisches und höchst konfigurierbares System gemeinsam en
+ twickelt wurde. Sei es Kantonen\, Städte\, öffentliche Vereinigungen oder s
+ ogar private Unternehmen\, die Partner müssen die Fähigkeit haben dieses Sy
+ stem an ihre Bedürfnisse zu adaptieren. Seit zwei Jahren haben die verschie
+ denen Partner zwei Entwicklungzyklen in Auftrag gegeben. Die Server-Seite d
+ es Systems wird durch Pyramid (Python Webframework)\, MapFish\, MapFish-pri
+ nt und MapServer angetrieben. Die Konfiguration der Layer und Themen des Ge
+ oportals ist in einer PostGIS Datenbank abgelegt und mit einem Administrati
+ onsystem konfigurierbar. Auf der Clientseite werden nur Javascript und HTML
+ -Komponenten verwendet. Eine High-Level-Bibliothek wurde entwickelt namens 
+ CGXP. Die größte Herausforderung und einmalige Erfahrung ist die Gruppierun
+ g der verschiedenen Teilnehmer mit sehr unterschiedlichen Bedürfnissen.Dies
+ er Vortrag wird erläutern\, wie diese User Gruppe zu Stande gekommen ist\, 
+ wie die Zusammenarbeit innerhalb einer flexiblen Private-Public Partnerscha
+ ft organisiert ist\, welche Vorteile einer solchen Organisation im Bereich 
+ Open Source Software Entwicklung bringen und welche Ergebnisse (WebGIS Proj
+ ekt) erreicht wurden.
+SUMMARY:Kollaboration um ein Open-Source generisches Mapping System
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/541.de.html
+DTEND;TZID=Europe/Berlin:20130613T113000
+DTSTART;TZID=Europe/Berlin:20130613T110000
+UID:541@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Da OpenStreetMap ein freies Projekt\, welches es jedermann ermö
+ glicht\, Kartendaten zu nutzen und zu editieren\, ist es nicht ausgeschloss
+ en\, dass fehlerhafte bzw. unvollständige Daten eingetragen werden. Es gibt
+  verschiedene Tools\, die es sich zum Ziel gesetzt haben\, solche Fehler zu
+  ﬁnden und aufzubereiten. Die so aufbereiteten Daten mussten bisher anschli
+ essend manuell verglichen und korrigiert werden.Zur Behebung dieser Fehler 
+ ist die cross-platform Web-App Kort entwickelt worden. Diese ist in JavaScr
+ ipt geschrieben und basiert auf dem Sencha Touch 2 -Framework. Im Backend k
+ ommt eine PostgreSQL-Datenbank zum Einsatz. Die komplette Kommunikation ist
+  mit REST-Schnittstellen realisiert. Die Fehlerdaten werden täglich von Kee
+ pRight[1] bezogen.Mit Kort[2] soll das Verbessern von Karten-Daten auf unte
+ rhaltsame Weise ermöglicht werden. Dem Benutzer werden dazu die OpenStreetM
+ ap-Fehler auf einer Karte angezeigt. Falls er die Lösung für einen dieser F
+ ehler kennt\, kann er einen entsprechenden Lösungsvorschlag abgeben. Weiter
+ e Spieler der App überprüfen daraufhin den Vorschlag auf seine Gültigkeit. 
+ Um die Benutzer zu motivieren\, die App regelmässig zu verwenden\, wurden z
+ ahlreiche Spiel-Elemente eingesetzt. So erhält ein Benutzer für alle Aktion
+ en Punkte (sogenannte Koins)\, die dann in einer Rangliste zum Vergleich da
+ rgestellt werden. Zudem können Auszeichnungen für besondere Leistungen gewo
+ nnen werden. Dieser Ansatz ist bekannt unter dem Begriﬀ Gamiﬁcation.[1] htt
+ p://www.keepright.at[2] http://www.kort.ch
+SUMMARY:Kort - Gamified Mobile App für die Verbesserung von OpenStreetMap
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/570.de.html
+DTEND;TZID=Europe/Berlin:20130613T123000
+DTSTART;TZID=Europe/Berlin:20130613T120000
+UID:570@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Mapbender3 hat in den letzten Monaten Fahrt aufgenommen und wil
+ l sich an dieser Stelle vorstellen. Mapbender3 ist eine Software zur einfac
+ hen Erstellung von WebGIS Anwendungen. Basierend auf dem aktuellen Symfony2
+  Framework wurde eine moderne Webanwendung geschaffen\, die durch das Bauka
+ stensystem der Bundles von Symfony2 einzeln als auch in andere Anwendungen 
+ integriert Verwendung finden kann.Als moderne Web-Application basiert Mapbe
+ nder3 auf den Javascript-Bibliotheken jQuery\, jQuery UI\, OpenLayers und M
+ apQuery als Brücke zwischen der OpenLayers- und jQuery-Welt. Zusammen mit e
+ inem modernen Verwaltungsbackend für die Kartenanwendungen ist Mapbender3 e
+ in komfortables Werkzeug für die Erstellung und Pflege von Kartenanwendunge
+ n.Der Vortrag stellt zuerst die neuen Komponenten des Frontends vor. Anschl
+ ießend wird das Administrations-Backend\, mit dem einfach über ein paar Kli
+ cks eigene Anwendungen erstellt werden können\, vorgestellt. Das Administra
+ tions-Backend beinhaltet außerdem die Möglichkeit\, ein Dienste-Repository 
+ aufzubauen. Dienste können hierbei verschiedene von OpenLayers unterstützte
+  Quellen sein\, wie z.B. WMS\, WMTS\, ... Mapbender3 bietet außerdem eine B
+ enutzer- und Gruppenverwaltung mit der Möglichkeit Rechte zuzuweisen. Recht
+ everwaltung. Benutzer können auch über LDAP in Mapbender übernommen werden.
+  Eine Sicherung von Diensten über OWSPROXY ist ebenfalls vorhanden.
+SUMMARY:Mapbender3 - nimmt Fahrt auf! - Aufbau von WebGIS Anwendungen mit M
+ apbender3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.212 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/569.de.html
+DTEND;TZID=Europe/Berlin:20130613T103000
+DTSTART;TZID=Europe/Berlin:20130613T090000
+UID:569@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Workshop soll den Teilnehmern einen ersten Einstieg in die 
+ Erstellung von Kartenanwendungen auf Basis von Mapbender3 geben. Neben eine
+ m Überblick über die neue Architektur auf Basis von Symfony 2 und OpenLayer
+ s und der Vorstellung des Frontends mit seinen Komponenten wird die Verwend
+ ung des Backends zur Verwaltung von Anwendungen im Mittelpunkt stehen.Die T
+ eilnehmer werden Mapbender3 in wenigen Schritten selbst installieren. Ansch
+ ließend wird über das browserbasierte Administrations-Backend der Aufbau vo
+ n eigenen Anwendungen erläutert. Der Aufbau eines Dienste-Repositories wird
+  vorgestellt. Es werden Benutzer und Gruppen angelegt. Außerdem erfolgt ein
+  Einstieg in die Rechteverwaltung. Abschließend wird die Konfiguration über
+  yml-Dateien vorgestellt.
+SUMMARY:Mapbender3 Workshop - Aufbau und Konfiguration einer WebGIS Anwendu
+ ng mit Mapbender3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/554.de.html
+DTEND;TZID=Europe/Berlin:20130613T140000
+DTSTART;TZID=Europe/Berlin:20130613T133000
+UID:554@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:MapFish ist ein Framework\, welches die Bildung von individuell
+  gestalteten und erweiterbaren Web-GIS Anwendungen vereinfacht.MapFish ist 
+ so gestaltet\, dass es einfach zu nutzen ist\, entweder als selbständige An
+ wendung oder als Bestandteil einer bestehenden Webseite. Als selbständige A
+ nwendung ist MapFish via einige Parameter konfigurierbar und bietet schnell
+  ein funktionales Web-GIS. MapFish kann auch in bestehenden Webseiten wie C
+ MS oder Informations System orientierte Anwendungen ohne Aufwand integriert
+  werden. Der Client Teil ermöglicht mittels OpenLayers2\, ExtJS3 und GeoExt
+ 4\, weiterführende WEB2.0 Funktionalitäten einzubauen.Der Server-Teil stell
+ t in verschiedene Programmiersprachen flexible Prozesse zur Verfügung (Rout
+ ing\, Suchmaschine\, thematische Kartografie\, usw). Auf Serverseite sind m
+ omentan insbesondere Komponenten in Java (print)\, Ruby oder in Python verf
+ ügbar\, betreffend Python ist seit letztem Jahr die Papyrus-Library\, welch
+ es auf der Pyramid-Library basiert.Diverse Web2.0-Anwendungen wurden bereit
+ s auf Basis von Mapfish realisiert\, und die Entwicklung wird speziell auch
+  mit dem Aufkommen von Openlayers 3 weitergehen.Dieser Vortrag stellt das M
+ apFish Framework vor und zeigt auf in welche Richtung es sich weiter entwic
+ keln wird.
+SUMMARY:MapFish - Ein OSGeo WebGIS 2.0 Framework
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/518.de.html
+DTEND;TZID=Europe/Berlin:20130613T143000
+DTSTART;TZID=Europe/Berlin:20130613T140000
+UID:518@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Mapfish Appserver baut auf OGC-Standards für die Kartendars
+ tellung und dem Mapfish REST-Protokoll für die umfangreichen Editiermöglich
+ keiten. Es können verschiedene Viewer vom minimalen Mobile- bis zum vollaus
+ gebauten GIS-Viewer parallel betrieben werden. Die Karten-Konfigruation erf
+ olgt über das Einlesen von UMN Mapserver Mapfiles oder QGIS Projekten. Es w
+ erden automatische Legenden und Abfragetabellen erstellt\, welche nach Beli
+ eben angepasst werden können. Weitere Eigenschaften sind die Multi-Site Fäh
+ igkeit\, feingranulare Zugriffskontrolle\, erweiterbare Suchfunktionen und 
+ das eingebaute Administrationsbackend.
+SUMMARY:Mapfish Appserver - Funktionsreiches Web-GIS mit Standard-Protokoll
+ en
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/602.de.html
+DTEND;TZID=Europe/Berlin:20130613T140000
+DTSTART;TZID=Europe/Berlin:20130613T133000
+UID:602@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Simulationen sind ein wichtiges Hilfsmittel für die Entscheidun
+ gsfindung in der Verkehrsplanung. Allerdings sind sie äußerst datenhungrig\
+ , und die Beschaffung und Nutzbarmachung proprietärer Daten ist zeitaufwänd
+ ig und teuer\, weswegen die Erforschung alternativer\, insbesondere offener
+  Datenquellen wichtig ist. Daten werden auf zwei Seiten benötigt: Für die A
+ ngebotsseite (das Verkehrsnetz) und für die Nachfrageseite (das Nutzerverha
+ lten). Während wir auf der Nachfrageseite noch immer hauptsächlich auf schw
+ er zu beschaffende Haushaltsbefragungen und Verkehrszählungen angewiesen si
+ nd\, sieht es auf der Angebotsseite besser aus. Zumindest in den urbanen Rä
+ umen der Industriestaaten ist die Datenlage von OpenStreetMap für diese Art
+  von Simulation völlig ausreichend.In Sachen offener Daten für den öffentli
+ chen Verkehr ist die aktuelle Veröffentlichung erster Fahrplandaten im GTFS
+ -Format ein Durchbruch. Wo diese verfügbar sind\, gibt es in Kombination mi
+ t OSM jetzt erstmals die Möglichkeit\, ein integriertes MIV- und ÖV-Simulat
+ ionsnetz auf Knopfdruck an den Start zu bringen.In dem Vortrag erkläre ich\
+ , wie planerische Verkehrssimulationen mit der Simulationssoftware MATSim (
+ Freie Software) funktionieren und wie man ein einfaches Szenario aus offene
+ n Daten aufsetzt\, insbesondere in Hinblick auf den öffentlichen Verkehr. I
+ ch berichte auch über erste Versuche\, den Open-Source-Reiseplaner OpenTrip
+ Planner einzubinden und damit Szenarien mit unterschiedlichen Nutzerpräfere
+ nzen zu rechnen. 
+SUMMARY:MATSim: Open-Source-Verkehrssimulation mit offenen Daten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/521.de.html
+DTEND;TZID=Europe/Berlin:20130613T150000
+DTSTART;TZID=Europe/Berlin:20130613T143000
+UID:521@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Mit OpenStreetMap stehen nicht nur freie Daten zur Verfügung\, 
+ sondern wegen der hervorragenden Community decken diese auch ein sehr breit
+ es thematisches Spektrum ab\, und sie erreichen dabei eine Aktualität\, die
+  sich eher in Tagen und Stunden als Monaten und Jahren bemisst.Mit der Komb
+ ination der freien Werkzeuge OpenLayers und der Overpass API lassen sich di
+ ese leicht in einer Karte für thematische Overlays visualisieren\, die sowo
+ hl gleichermaßen auf dem Desktop wie auf mobilen Endgeräten funktioniert\, 
+ aber trotzdem nicht mehr Infrastruktur als eine einfache HTML-Seite braucht
+ . Dank Overpass API ist sie stets minutenaktuell und auch spontan im HTML-C
+ ode oder sogar zur Laufzeit konfigurierbar.Anhand einer Beispielkarte werde
+ n die Möglichkeiten erläutert: Es wird gezeigt\, wie durch ein durchdacht e
+ infaches Bedienkonzept und Nutzung der Geolokalisierung eine Smartphone-fre
+ undliche Karte entsteht. Wir werden eigene Kategorien von Points of Interes
+ t spontan als Kartenoverlay hinzufügen. Und es wird gezeigt\, wie durch Kom
+ bination von Tag-Verarbeitung auf dem Client und Rückgriff auf die Nominati
+ m-API zu jedem POI automatisch eine Adresse ermittelt werden kann.
+SUMMARY:Mobile Karten erstellen mit OSM\, OpenLayers und Overpass API
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/564.de.html
+DTEND;TZID=Europe/Berlin:20130614T113000
+DTSTART;TZID=Europe/Berlin:20130614T110000
+UID:564@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Mit Social Communitys und Crowdsourcing haben wir ein Phänomen 
+ unserer Zeit vor uns\, bei dem viele Menschen durch kleine Beiträge gemeins
+ am etwas generieren\, dass außerhalb der Möglichkeiten des Einzelnen liegt.
+  Dabei stellt sich für Unternehmen die Frage\, ob es möglich ist\, das schi
+ er endlos erscheinende Potential von kostenlosen Arbeitsstunden\, die sich 
+ in Communitys versammeln\, für die eigenen Unternehmensziele nutzbar zu mac
+ hen. Gerade im Bereich von Geoinformationen kann es verlockend erscheinen\,
+  die Datenerfassung und Qualitätssicherung zumindest teilweise durch Crowds
+ ourcing erledigen zu lassen. Bevor ein Unternehmen beschließt\, die Möglich
+ keit zu nutzen\, sollte es sorgfältig die Vor- und Nachteile analysieren.  
+ Der Beitrag widmet sich dieser Frage am Beispiel des Open Street Map Projek
+ ts. Zunächst wird allgemein auf die Besonderheiten von Crowdsourcing eingeg
+ angen. Hieraus ergibt sich bereits ein erstes Gerüst für eine Nutzung. Dara
+ n schließt sich die Auseinandersetzung mit der Open Street Map Community un
+ d ihrem Selbstverständnis an. Daraus ergeben sich bereits feste Grenzen für
+  eine unternehmerische Nutzung. Schließlich muss eine genauere Analyse der 
+ Unternehmensziele erfolgen. Je nach Kongruenz zu den Communityzielen ergebe
+ n sich unterschiedliche Handlungsmöglichkeiten für das Unternehmen.  Kommt 
+ nach dem bisher Gesagten eine Kooperation in Betracht\, so muss sich das Un
+ ternehmen auch mit den sonstigen wirtschaftlichen Kosten auseinandersetzen.
+  Je enger eine Kooperation ist\, um so eher wird von der Community auch erw
+ artet\, dass vom Unternehmen etwas zurück fließt. Darüber hinaus kann es no
+ twendig sein\, Personal für die Pflege der Community vorzuhalten. Wann und 
+ warum solche Kosten entstehen\, wird im Vortrag näher erläutert.Im Ergebnis
+  ist festzuhalten\, dass die Zusammenarbeit mit Crowdsourcing-Projekten nic
+ ht absolut planbar ist. Chancen und Risiken müssen im Einzelfall gegeneinan
+ der abgewogen werden.
+SUMMARY:Möglichkeiten und Risiken der unternehmerischen Nutzung von Crowdso
+ urcingprojekten am Beispiel von Open Street Map
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/562.de.html
+DTEND;TZID=Europe/Berlin:20130613T123000
+DTSTART;TZID=Europe/Berlin:20130613T120000
+UID:562@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Nahezu jede GIS-Anwendung bietet mittlerweile Möglichkeiten der
+  Netzwerkanalyse auf Basis von Vektordaten.In GRASS GIS ist das Thema Netzw
+ erkanalyse bereits seit 2006 auf der Agenda und wird seitdem ständig weiter
+ entwickelt. Mittlerweile sind es mehr als 10 Algorithmen\, um Basisdaten au
+ fzubereiten und unterschiedlichste Fragestellungen zu lösen. Beispiele könn
+ en Laufzeit-/Kostenanalysen durch die Berechnung von Isodistanzen in Kanals
+ ystemen sein\, Berechnungen von Zuständigkeitsbereiche von Feuerwehren oder
+  Polizeistationen innerhalb einer Region\, das Planen/Optimieren von Rundre
+ isen für Handlungsreisende oder touristische Ziele oder die optimale Verknü
+ pfung von Haushalten bei der Neuverlegung von Strom- oder Gasleitungen entl
+ ang eines Strassennetzes.Der Vortrag soll anhand von Beispielen einen Einbl
+ ick in die Möglichkeiten der Netzwerkanalyse mit GRASS GIS geben. Dabei wir
+ d auch darauf eingegangen\, worauf bei der Datenaufbereitung geachtet werde
+ n sollte und wie man Parameter richtungsabhängig zuweisen kann. Als Datengr
+ undlage werden OpenStreetMap Strassendaten verwendet.  
+SUMMARY:Netzwerkanalysen mit GRASS GIS - Ein praktischer Überblick
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/559.de.html
+DTEND;TZID=Europe/Berlin:20130613T093000
+DTSTART;TZID=Europe/Berlin:20130613T090000
+UID:559@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Das QGIS Projekt hat letzten Sommer die Version 1.8 veröffentli
+ cht. Da QGIS eine äusserst aktive Entwicklergemeinschaft hat\, hat sich sei
+ t 1.8 bereits viel getan. Dieser Vortrag zeigt die wichtigsten Neuerungen u
+ nd gibt einen Ausblick auf die zukünftige Version 2.0.
+SUMMARY:Neuentwicklungen in Quantum-GIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/598.de.html
+DTEND;TZID=Europe/Berlin:20130612T163000
+DTSTART;TZID=Europe/Berlin:20130612T160000
+UID:598@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Ähnlich wie die immer wiederkehrenden Fragen nach „Was ist Frei
+ e Software?“\, „Was ist Open Source Software?“\, „Was ist die OSGeo?“ gibt 
+ es immer wieder Fragen wie „Was ist das OGC?“\, „Wie entsteht ein Standard?
+ “\, „Wie kann ich mich beim OGC einbringen?“. Daher ist der Vortrag als Gru
+ ndlagenvortrag gedacht\, der aber auch Ausblick auf aktuelle Entwicklungen 
+ im OGC gibt.
+SUMMARY:Offene Standards und Freie Software – Zusammenspiel\, Entwicklungen
+ \, Unterschiede
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/552.de.html
+DTEND;TZID=Europe/Berlin:20130614T120000
+DTSTART;TZID=Europe/Berlin:20130614T113000
+UID:552@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:UNIGIS verfolgt unter anderem das Ziel\, die Präsenz freier und
+  offener Software und Daten in den postgradualen Studienangeboten weiter zu
+  erhöhen. Dieser Beitrag versucht das Verhältnis zwischen den Anforderungen
+  seitens UNIGIS und rezenten Entwicklungen innerhalb der FOSSGIS-Community 
+ darzustellen. Anhand aktueller Beispiele soll gezeigt werden\, wie die univ
+ ersitäre Aus- und Weiterbildung von Impulsen aus der FOSSGIS-Community prof
+ itiert und umgekehrt\, eine entsprechende Präsenz in einem postgradualen St
+ udium für die FOSSGIS-Community in vielerlei Hinsicht eine lohnende „Invest
+ ition“ sein kann.Nach dem ersten „Statusbericht“ bei der letztjährigen FOSS
+ GIS-Konferenz in Dessau\, kann dieses Mal von einem weiteren Bedeutungszuwa
+ chs von freier und offener Software im Rahmen des UNIGIS-Fernstudiums beric
+ htet werden: proprietäre Übungssoftware wurde durch Open Source Alternative
+ n ersetzt\, das Thema „Open“ war bei diversen Präsenzveranstaltungen promin
+ ent vertreten und der Anteil der Abschlussarbeiten\, die mit Open Source Lö
+ sungen erstellt wurden\, liegt im deutschsprachigen UNIGIS MSc Studium bei 
+ mittlerweile fast fünfzig Prozent.Um diese Dynamik weiterhin zu erhalten\, 
+ gilt es\, sowohl seitens UNIGIS als auch von Seiten der FOSSGIS-Community d
+ ie richtigen Impulse zu setzen. Ein diesbezüglicher Ausblick soll diesen Be
+ itrag abrunden.
+SUMMARY:„Open“ im postgradualen Fernlehre-Kontext - Das Beispiel UNIGIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/621.de.html
+DTEND;TZID=Europe/Berlin:20130613T150000
+DTSTART;TZID=Europe/Berlin:20130613T143000
+UID:621@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:OpenLayers ist eine der bekanntesten OpenSource WebGIS-Clientbi
+ bliotheken.... (folgt!)
+SUMMARY:OpenLayers 3 - Was ist neu und wie finanziert sich OpenLayers 3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/547.de.html
+DTEND;TZID=Europe/Berlin:20130612T160000
+DTSTART;TZID=Europe/Berlin:20130612T153000
+UID:547@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Foliensatz ist Online erreichbar:http://metaspatial.net/con
+ ferences/fossgis2013_open.html= Open Standards\, Open Source\, Open Data: Z
+ uviel des Guten? = Der Vortrag beleuchtet ausnahmsweise mal die Schattensei
+ ten dieser drei Gesellen\, denn: Ja\, es gibt sie\, z.B. * behindern Standa
+ rds Innovation\,* zerstört Open Source bewährte Geschäftsmodelle und* Open 
+ Data fördert das Chaos. Eine konstruktive Herangehensweise zeigt\, dass es 
+ lediglich gilt diese Schattenseiten auzuleuchten\, um das volle Potential e
+ xpliziter Offenheit ausschöpfen zu können. == Open Standards ==Ein Blick au
+ f das Alter einiger Standards und deren Praktibilität in der heutigen IT-La
+ ndschaft zeigt\, wie schwer es ist Innovation einzuführen. Und das ist auch
+  gut so\, denn nicht jede Innovation ist auch gleich gut. Oft sind Innovati
+ onen auch einfach nur neu und vollkommen überflüssig oder müssen Bewährtes 
+ gar nicht zwingend ersetzen\, sondern können es ergänzen. Der Beitrag stell
+ t Möglichkeiten vor\, Innovation in geregelter Form einzubringen.== Open So
+ urce ==Open Source zerstört proprietäre Geschäftsmodelle und ist deshalb ei
+ n Verlust für herkömmliche Softwarehersteller die sich weigern ihr Geschäft
+ smodell an veränderte Bedingungen anzupassen. Open Source führt aber auch z
+ u Innovation\, belebt den Markt und fördert den Wettbewerb. Lediglich 10% d
+ es Umsatzes in IT Projekten basiert auf proprietären Geschäftsmodellen. == 
+ Open Data ==Der Begriff Open Data ist noch nicht klar definiert und bedarf 
+ zusätzlicher Erkläuterungen. Die wachsende Verfügbarkeit von Open Data wirf
+ t eine ganze Reihe neuer und alter Fragen auf\, die hier vorgestellt werden
+ . Es gilt transparente Antworten auf diese Fragen zu finden um die Daten un
+ d den Umgang damit kontinuierlich verbessern zu können. Innovation fordert 
+ kontinuierliche Investition. Das geht besser\, wenn alle Aktuere (Stakehold
+ er) an den Prozessen teilnehmen können und nicht\, wie es bisher oft der Fa
+ ll war\, alles geheim und hinter verschlossenen Türen entschieden wird. Im 
+ Grunde stimmt es also doch: Alles offen\, alles gut. Man muss nur wissen wi
+ e.
+SUMMARY:Open Standards\, Open Source\, Open Data: Zuviel des Guten? - Wie d
+ ie verschiedenen Aspekte von Offenheit zusammenpassen.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/504.de.html
+DTEND;TZID=Europe/Berlin:20130613T140000
+DTSTART;TZID=Europe/Berlin:20130613T133000
+UID:504@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Einer der hergebrachten Grundsätze bei OpenStreetMap ist es\, d
+ ass jeder alles so eintragen darf\, wie er es für richtig hält\, wenn der d
+ abei nur auf automatische Edits verzichtet. Trotz dieser immensen Freiheit\
+ , die dem Einzelnen zugestanden wird hat jeder aktive Mitwirkende schon Aug
+ enblicke der Frustration erlebt\, wenn über Taggingprobleme auf Mailinglist
+ en beziehungsweise in Foren endlos diskutiert werden\, ohne schließlich gre
+ ifbare Ergebnisse zu liefern. Man denke auch an den Ärger und Zeitaufwand\,
+  den es bedeuten kann\, wenn man im Wiki Änderungen an bestehenden Artikeln
+  vornimmt oder versucht via Proposal ein neues Tag zu etablieren.Der Beitra
+ g setzt sich zunächst analytisch mit den Ursachen solcher Situationen ausei
+ nander und identifiziert das dem Crowdsourcing innewohnende inkrementelle H
+ andlungselement und die Heterogenität der Beteiligten als wesentliche Ursac
+ hen. Das auf Crowdsourcing\, als zentrales Element von OpenStreetMap\, nich
+ t verzichtet werden kann\, liegt auf der Hand. Deshalb beschäftigt sich der
+  Beitrag im Weiteren mit Lösungsstrategien aus dem Bereich der Organisation
+ s- und Verhaltenslehre\, um die positiven Effekte von Crowdsourcing zu erha
+ lten\, aber die negativen Begleiterscheinungen nach Möglichkeit zu eliminie
+ ren oder abzumildern. So werden einfache Regeln herausgearbeitet\, die es j
+ edem ermöglichen künftig effektivere Diskussionen über das Taggingschema zu
+  führen.
+SUMMARY:Open Street Map in Freiheit erstarrt? - Gedanken zur Fortentwicklun
+ g durch die Community
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/584.de.html
+DTEND;TZID=Europe/Berlin:20130613T163000
+DTSTART;TZID=Europe/Berlin:20130613T160000
+UID:584@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Öffentlichen Daten in Verbindung mit OpenStreetMap-Daten zu nut
+ zen ist\, spätestens seit der Umstellung auf die neue OpenStreetMap Lizenz\
+ , kein Problem mehr. Ende des Jahres wurde daher ein Projekt ins Leben geru
+ fen\, welche zum Ziel hatte einen Stadtplandienst für das Land Mecklenburg-
+ Vorpommern bereitzustellen.Hier wurden Daten der Verwaltungen mit den OpenS
+ treetMap-Daten verarbeitet und in einer gemeinsamen Karte dargestellt. Das 
+ Erstellen und Bereitstellen der Karte wurde mit dem Open-Source-Software-St
+ ack Postgis\, Imposm\, MapServer und MapProxy umgesetzt.Im Vortrag wird auf
+  die technische Umsetzung\, die verwendeten Open-Source-Komponenten\, auftr
+ etende Probleme und die dabei benötigte Weiterentwicklung der genutzten Ope
+ n-Source-Komponenten eingegangen. So wurde zum Beispiel Imposm im Zuge des 
+ Projektes so erweitert\, dass polygongenaue Datenbankimporte durchgeführt w
+ erden können.Zudem wird im Vortrag besonderes Augenmerk auf das Zusammenspi
+ el zwischen OpenStreetMap Daten und den Daten aus der öffentlichen Verwaltu
+ ng gelegt. So wurden aus dem OpenStreetMap Projekt sämtliche Straßendaten\,
+  alle Flächen- und Gebäudebeschriftungen und jegliche Art von Wasserflächen
+  übernommen. Ergänzt wurden dies durch die flächendeckende Darstellung der 
+ Landnutzung von Flurstücks- und Gebäudedaten aus den Daten der Verwaltung.D
+ er Datenbestand der OpenStreetMap Daten wird täglich aktualisiert. Dies erm
+ öglicht es den öffentlichen Stellen auch\, die Daten in OpenStreetMap zu ve
+ rbessern und diese dann gleichzeitig in der Karte sehen zu können. Änderung
+ en an den Daten sind somit in spätestens 24 Stunden in den Karten zu sehen.
+  Um dies zu ermöglichen wurde die MapProxy Seeding Schnittstelle dazu verwe
+ ndet die Bereiche in denen sich OpenStreetMap Daten geändert haben\, neu zu
+  generieren.Die Karten steht alle Bürgern unter der CC-BY-SA 3.0 Lizenz zur
+  Verfügung. Das Projekt wurde entstand unter Zusammenarbeit der Stadt Rosto
+ ck mit der Firma Omniscale durchgeführt.
+SUMMARY:OpenStreetMap- und ALK-Daten gemeinsam nutzen - Ein Stadtplandienst
+  für Mecklenburg-Vorpommern
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/538.de.html
+DTEND;TZID=Europe/Berlin:20130612T160000
+DTSTART;TZID=Europe/Berlin:20130612T153000
+UID:538@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Das Projekt OpenTopoMap stellt eine Karte aus den Daten der Ope
+ nStreetMap zur Verfügung\, welche sich am Stil der amtlichen topographische
+ n Karten der deutschen Landesvermessung orientiert. Eine Verfügbarkeit für 
+ ganz Europa ist angestrebt.OSM-Daten werden gefiltert und in eine PostgreSQ
+ L-Datenbank eingespeist. Mit Mapnik 2.1 werden drei Ebenen einzeln gerender
+ t und mittels ImageMagick zu einer Kachel vereinigt – der zweite Layer\, di
+ e Höhenlinien\, werden dabei einmalig vorgerendert\, wodurch der Renderdurc
+ hsatz verzehnfacht wird.Ziel des Projektes ist es\, eine Karte hervorzubrin
+ gen\, welche wie das amtliche Kartenmaterial für universelle Zwecke eingese
+ tzt werden kann\, beispielsweise sowohl zur Orientierung im Innenstadtberei
+ ch wie auch als Wanderkarte. Hierzu wird zwischen Detailreichtum und Lesbar
+ keit für jede Zoomstufe in aufwändiger Kleinarbeit die passendste Lösung ge
+ sucht und umgesetzt. Zugleich sind erste Ansätze zur Generalisierung enthal
+ ten.OpenTopoMap arbeitet eng mit der Universität Erlangen-Nürnberg zusammen
+ : ein Großrechner ist am Rechenzentrum der Universität angesiedelt und steh
+ t auch für mit dem Projekt verknüpften Forschungsarbeiten zur Verfügung\, w
+ elche sich aus der Kooperation zwischen den Instituten für Geographie und I
+ nformatik ergeben. Das Projekt ist über Github veröffentlicht\, und die fre
+ iwilligen Entwickler freuen sich weiterhin auf Verbesserungsvorschläge ande
+ rer Nutzer. Im Vortrag wird das Projekt selbst vorgestellt sowie auf die te
+ chnische Umsetzung kartographischer Details eingegangen.
+SUMMARY:OpenTopoMap - topographische Karten aus OpenStreetMap
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/501.de.html
+DTEND;TZID=Europe/Berlin:20130613T173000
+DTSTART;TZID=Europe/Berlin:20130613T170000
+UID:501@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Ein Ort lässt sich über dessen Lagekoordinaten und den Ortsname
+ n beschreiben und speichern. Doch wie lässt sich der Ort in einem Haufen an
+ derer Orte gezielt und effizient auffinden? Aktuelle PostgreSQL/PostGIS - I
+ nstallationen bieten leistungsfähige Werkzeuge zur räumlichen wie textbasie
+ rten\, unscharfen Ort-Suche.Es wird in einem ersten Schritt auf die Analogi
+ e zwischen koordinatenbasierter\, geographischer Suche und der Textsuche wi
+ e Ortsnamen eingegangen.  Der Einsatz eines Suchradiuses mithilfe des kNN-G
+ iST Index wird erläutert und an einem Beispiel die Leistungsfähigkeit demon
+ striert. Die Methoden und Werkzeuge zur unscharfen Textsuche wie Regex\, So
+ undex\, Metaphone/Demetaphone\, fuzzystrmatch/Levenshtein\, Trigramm\, FTS 
+ werden anhand von Fallbeispielen erläutert und Stärken und Schwächen der ve
+ rschiedenen Vorgehensweisen gegeneinander abgewogen. Es wird auf die Proble
+ matik mehrsprachiger Ortsnamen eingegangen und gezeigt\, wie man auch mehrs
+ prachige Suchanfragen mit der in PostgreSQL standardmässig enthaltenen Voll
+ textsuche (FTS) treffsicher beantworten kann. Zum Abschluss wird anhand ein
+ er massgeschneiderten Webapplikation auf Basis von GeoDjango illustriert\, 
+ wie die Möglichkeiten der Ort-Suche mit PostgreSQL/PostGIS dem Endanwender 
+ zur Verfügung gestellt werden können.
+SUMMARY:Ort-Suche mit PostgreSQL/PostGIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/576.de.html
+DTEND;TZID=Europe/Berlin:20130612T170000
+DTSTART;TZID=Europe/Berlin:20130612T163000
+UID:576@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Das Projekt OSGeo-Live gewährt einen umfassenden Überblick über
+  freie und offene GIS-Software und GeoDatenOSGeo-Live ist ein OpenSource-Pr
+ ojekt\, das mehr als 50 Softwareprojekte aus dem Bereich FOSS+GIS bündelt. 
+ Sie finden Projekte aus den Bereichen Web Mapping Clients und Server\, Desk
+ topGIS\, Datenbanken\, Krisenmanagement\, Navigation und Karten sowie räuml
+ iche Tools. Die OSGeo-Live ist somit ein sehr gutes Beispiel für ein erfolg
+ reiches OpenSource-Projekt. Dabei handelt es sich nicht um ein klassisches 
+ Software-Projekt\, sondern um eine Zusammenstellung verschiedenster Anwendu
+ ngen und Informationen\, die dem interessierten Publikum als gut sortierte 
+ Werkzeugkiste angeboten wird.Projektübergreifend wurden viele Freiwillige g
+ efunden\, die regelmäßig die Inhalte aktualisieren. Damit ist ein Produkt e
+ ntstanden\, was als globale Visitenkarte nicht nur der OSGeo-Projekte dient
+ . OSGe-Live kann in Workshops und eigenen Veranstaltungen verwendet werden.
+  Alle FOSS- und GIS-relevante Software wird mehrsprachig und mit Dokumentat
+ ion zur Verfügung gestellt. So ligen beispielsweise Übersetzungen ins Deuts
+ che\, Italienische\, Polnische\, Griechische\, Japanische\, Französiche\, C
+ atalanische\, Chinesiche\, Koreanische vor.Dieser Vortrag liefert Einblicke
+  in die Entstehung und den Aufbau dieses Projektes. Die ehrgeizigen Ziele w
+ ie mehrsprachige Dokumentation\, Benutzung von Beispieldatensätzen und Supp
+ ort in der Community stellen ganz unterschiedliche Anforderungen. Es gilt n
+ icht nur technische Probleme zu lösen. Hinzu kommen terminliche Absprachen\
+ , damit zu bestimmten Anlässen wie wichtigen Konferenzen und Workshops aktu
+ elle Versionen bereit stehen.=FOSSGIS=Auch auf der **FOSSGIS Konferenz 2013
+ ** kommt die OSGeo-Live in den Workshops zum Einsatz und wird als DVD an di
+ e Teilnehmer der Konferenz verteilt.
+SUMMARY:OSGeo-Live rocks! - Einblick in ein erfolgreiches Community-Projekt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/605.de.html
+DTEND;TZID=Europe/Berlin:20130613T103000
+DTSTART;TZID=Europe/Berlin:20130613T100000
+UID:605@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Aktuelle MariaDB- und MySQL-Versionen bieten deutliche Verbesse
+ rungen gegenüber der bisherigen GIS Implementation die bis einschließlich M
+ ySQL 5.5 im Einsatz war. Erstmals sind so zum Beispiel echte räumliche Rela
+ tionen wie "ist enthalten in" oder "überlappt mit" möglich statt nur verein
+ facht auf die Bounding Boxen (MBR - Minimal Bounding Rectangle") der einzel
+ nen Geometrien zurückzugreifen. MariaDB und MySQL werden damit zum ersten m
+ al ernsthaft für GIS Anwendungen interessant\, auch wenn der Funktionsumfan
+ g nach wie vor nicht mit dem von zB. PostGIS aufschließen kann.Der Vortrag 
+ beschreibt zunächst den aktuellen Funktionsumfang der GIS Implementationen 
+ in den beiden Entwicklungszweigen\, einschließlich der neuen Features und d
+ er Detailunterschieden zwischen aktuellen MariaDB und MySQL Versionen.Im An
+ schluß wird eine für das MySQL API angepasste Version des OSM Import-Tools 
+ "osm2pgsql" vorgestellt und der vorhandene Funktionsumfang an Hand von Beis
+ pielen auf importierten OSM-Daten demonstriert.
+SUMMARY:OSM Daten und MariaDB / MySQL - Verbesserungen in aktuellen Release
+ s 
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/608.de.html
+DTEND;TZID=Europe/Berlin:20130613T143000
+DTSTART;TZID=Europe/Berlin:20130613T140000
+UID:608@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Overpass API hat sich als ein sehr hilfreiches Werkzeug her
+ ausgestellt\, wenn es darum geht\, die enormen Datenmengen von OpenStreetMa
+ p zu durchforsten und zu analysieren. Die von Roland Olbricht entwickelte O
+ verpass API ist schnell\, verfügbar und durch ihre spezielle Abfragesprache
+  sehr flexibel wenn es darum geht\, Daten zu filtern. Sie konnte aber lange
+  Zeit ihre Stärken nicht voll ausspielen\, da es für die API keine einfache
+ \, schnelle und effiziente – kurz gesagt benutzerfreundliche – grafische Ob
+ erfläche gab.Overpass turbo füllt diese Lücke und ermöglicht es auf eine ei
+ nfache Art und Weise beliebige Overpass API Abfragen auszuführen und die Er
+ gebnis-Daten auf einer interaktiven Karte zu betrachten. Im Zusammenspiel m
+ it der Overpass API können damit beliebige Aspekte von OpenStreetMap beleuc
+ htet werden. Diese Funktionen können sowohl für Datenkonsumenten als auch f
+ ür OSM-Mapper sehr interessant sein.In disem Vortrag werden anhand von eini
+ gen Beispielen verschiedene Anwendungsfälle von overpass turbo aufgezeigt. 
+ Anschließend wird dessen technischer Aufbau erklärt und auf die geplante zu
+ künftige Weiterentwicklung eingegangen.
+SUMMARY:overpass turbo - Einfache Analyse von OpenStreetMap Daten
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/529.de.html
+DTEND;TZID=Europe/Berlin:20130614T093000
+DTSTART;TZID=Europe/Berlin:20130614T090000
+UID:529@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Eine hohe Leistungsfähigkeit ist für WMS-Dienste absolut zentra
+ l. Dieser Beitrag zeigt anhand praxisnaher Fallbeispiele auf\, was als Serv
+ eradministrator und als Entwickler gemacht werden kann\, um eine hohe (QGIS
+ ) Serverleistung zu erreichen. Es werden Techniken zur Performancemessung g
+ ezeigt und die Resultate werden mit anderen WMS-Servern verglichen. Der Bei
+ trag geht technisch sehr ins Detail und ist daher sowohl für Entwickler wie
+  auch Betreiber von WMS-Diensten interessant
+SUMMARY:Performanceoptimierte WMS-Dienste mit QGIS Server
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/616.de.html
+DTEND;TZID=Europe/Berlin:20130613T150000
+DTSTART;TZID=Europe/Berlin:20130613T133000
+UID:616@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Version 2 liegt nun seit April 2012 vor und erfreut sich gr
+ oßer Beliebtheit. Anhand von einigen Beispielen sollen die PostGIS Version 
+ 2 vorgestellt werden. Hierbei liegt der Fokus auf den Neuerungen dieser Ver
+ sion. Welche neuen Funktionen stehen bereit? Neue Funktionen zur Datenberei
+ nigung. Rasterunterstützung. Topologien. TypMod.Der Workshop richtet sich a
+ n Anwender\, die bereits Erfahrungen im Umgang mit PostGIS haben. Anhand vo
+ n Beispielen sollen die Neuerungen im Workshop ausprobiert werden.
+SUMMARY:PostGIS 2 - Workshop rund um die Version 2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/617.de.html
+DTEND;TZID=Europe/Berlin:20130614T103000
+DTSTART;TZID=Europe/Berlin:20130614T090000
+UID:617@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:PostGIS ist sehr beliebt zur Verwaltung von Kartendaten. PostGI
+ S ist ein Aufsatz für das Datenbanksystem PostgreSQL. PostgreSQL ist ein kl
+ assisches Datenbanksystem\, dass einwenig administrative Wartung und Pflege
+  bedarf. Der Vortrag zeigt ein paar administrative Tricks und Kniffe wie da
+ s System gut gepflegt und gewartet werden kann.  
+SUMMARY:PostgreSQL Wartung und Administration
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/493.de.html
+DTEND;TZID=Europe/Berlin:20130613T100000
+DTSTART;TZID=Europe/Berlin:20130613T093000
+UID:493@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:In relationalen Datenbanken können komplexe Sachverhalte konsis
+ tent und redundanzfrei gespeichert werden. Da sie auch Geometrien speichern
+  können\, bieten sie sich als zentrale Datenspeicher für Geodateninfrastruk
+ turen an. Sie ermöglichen es auch\, komplexere Sachverhalte und Abläufe zu 
+ modellieren\, weshalb zu einzelnen Geometrieobjekten häufig eine Vielzahl v
+ on Sachdaten gespeichert wird. Selbst bei an sich einfachen Sachverhalten s
+ ind als Folge der Normalisierung meistens mehrere Tabellen mit Beziehungen 
+ unterschiedlicher Kardinalität beteiligt. PostgreSQL/PostGIS ist als relati
+ onale Datenbank im FOSSGIS-Bereich weit verbreitet. Damit Nutzer Daten eing
+ eben und pflegen können\, sind entsprechende Eingabemasken im Front-End nöt
+ ig. QGIS 2.0 bietet bereits viele Möglichkeiten der Anpassung eines Layers 
+ an die Datenmodellierung an.Das QGIS-Plugin DataDrivenInputMask erzeugt Ein
+ gabemasken für PostgreSQL-Layer zur Laufzeit. Mit ihnen können die Daten de
+ s Layers selbst\, aber auch die aller verbundenen Relationen – egal welcher
+  Kardinalität – bearbeitet werden. Das Plugin fragt dazu Systemkataloge der
+  Datenbank ab und setzt Informationen über Datentypen und Constraints autom
+ atisch in entsprechende Bearbeitungselemente um. Es entsteht kein Aufwand d
+ urch die Einrichtung des Layers oder die Programmierung eines Plugins. Insb
+ esondere entspricht die Datenmaske stets dem Stand der Datenmodellierung in
+  der Datenbank.Die Funktionalität steht als eigenes Plugin zur Verfügung\, 
+ kann aber auch in andere Plugins importiert werden\, um dort wiederum Daten
+ masken bereitzustellen und bietet sich für alle QGIS-Nutzer an\, die komple
+ xere Datenmodelle in PostgreSQL/PostGIS realisieren und dafür keine eigenen
+  Eingabemasken programmieren können oder wollen.
+SUMMARY:QGIS-Eingabemasken für PostGIS-Layer leicht gemacht - Das QGIS-Plug
+ in DataDrivenInputMask
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.208 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/615.de.html
+DTEND;TZID=Europe/Berlin:20130613T170000
+DTSTART;TZID=Europe/Berlin:20130613T153000
+UID:615@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:QGIS stellt für die Gestaltung von Objektformularen 3 Möglichke
+ iten zur Verfügung:Das Standardformular mit der Möglichkeit Attribute ein/a
+ uszublenden resp. ein Eingabewidget zuzuweisen.Drag and Drop Designer: Der 
+ Administrator kann das Formulare in Tabs und Gruppen unterscheiden und die 
+ Reihenfolge beliebig selber definieren.Selbst definierte Formulare welche i
+ n qtDesigner erstellt werden. Die Gestaltung ist völlig frei. Das Formular 
+ wird in eine .ui (XML) Datei gespeichert und der Kartenebene zugewiesen. We
+ nn die Widgets mit Spaltennamen der Datenquelle korrespondieren werden die 
+ Werte automatisch dargestellt und wieder gespeichertMeist stehen Datensätze
+  auch in Beziehungen zu einander (1:1\, 1:n\, n:m). Eine klassische Domäne 
+ der relationalen Datenbanken\, welche QGIS als Datenquellen einbinden kann.
+  Damit der Anwender aber auch Verknüpfungen über verschiedene Datenbanken u
+ nd Dateien hinweg definieren kann benötigt QGIS einen „Relations Manager“. 
+ Dieser ist im Moment in Entwicklung und wird an der FOSSGIS 2013 erstmals e
+ inem grösseren Publikum vorgestellt. Basierend auf diesen Verknüpfungen kön
+ nen dann Objektformulare verknüpft und verschachtelt werden (z.b. alle Fern
+ sehaufnahmen eines Kanalbauwerks verschachtelt in der Objektmaske des Kanal
+ objekts).Aktionen dienen zum Öffnen von externen Programmen oder Skripten a
+ us dem Objektformular heraus\, oder mit Hilfe des Hotlink-Werkzeugs. So kan
+ n z.b. ein verknüpftes Foto\, ein Film\, eine PDF-Datei oder eine Webapplik
+ ation aufgerufen werden. Aktionen können in den Ebeneneigenschaften festgel
+ egt werden und können entweder für alle Betriebssysteme ident definiert wer
+ den oder für jedes Betriebssysteme separat. Neben Programmen können auch Py
+ thon-Skripte aufgerufen werden – dabei steht die vollständige QGIS API zur 
+ Verfügung. Dem Programm oder Skript wird alternativ entweder ein Attributwe
+ rt oder ein Ausdruck des Expression-Builders übergeben.
+SUMMARY:QGIS-Formulare\, Aktionen und DB-Relationen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/509.de.html
+DTEND;TZID=Europe/Berlin:20130614T100000
+DTSTART;TZID=Europe/Berlin:20130614T093000
+UID:509@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Bevor neue Daten in eine Geodaten-Infrastruktur überführt werde
+ n\, müssen sie Qualitätssicherungs-Verfahren durchlaufen. Diese Prozesse kö
+ nnen sowohl generisch\, als auch speziell für ein bestimmtes Datum konfekti
+ oniert sein. Um Sicher zu stellen\, dass diese Prozesse langlebig und verfü
+ gbar sind\, bietet es sich an OGC-Konforme Services zu diesem Zweck zu nutz
+ en. Deshalb werden im Vortrag die Vor- und Nachteile OGC-Konformer Web Proc
+ essing Services (WPS) als Basis der Qualitätssicherung von Geodaten diskuti
+ ert. 
+SUMMARY:Qualitätssicherung von Geodaten auf der Basis von Web Processing Se
+ rvices (WPS)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.010
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/577.de.html
+DTEND;TZID=Europe/Berlin:20130612T163000
+DTSTART;TZID=Europe/Berlin:20130612T160000
+UID:577@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Dieser Beitrag befasst sich mit der Aufbereitung\, Speicherung\
+ , Bereitstellung und Nutzung von globalen Geodaten. Unter Verwendung der Te
+ chnologien OpenWebGlobe und MapCache wird eine Architektur und eine Impleme
+ ntierung eines Dienstes zum Betrieb eines Geobrowsers mit globalen Daten in
+  einer Web-Cloud Umgebung vorgestellt.
+SUMMARY:Rendering und Bereitstellung massiver Geodaten unter Verwendung von
+  OpenWebGlobe und MapCache in der Cloud
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:1.212 (WS)
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/512.de.html
+DTEND;TZID=Europe/Berlin:20130613T170000
+DTSTART;TZID=Europe/Berlin:20130613T153000
+UID:512@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Der Workshop richtet sich an alle\, die schöne\, interaktive th
+ ematische Karten entweder in die Cloud oder ohne "grosse" GIS-Infrastruktur
+  auf eigene Webserver stellen wollen. Es werden u.a. GIS Cloud\, QGIS Cloud
+  und CartoDB vorgestellt. Ein Schwerpunkt bildet das Kennenlernen des TileM
+ ill-Programms (multi-plattform) und dessen Grafikkonfigurations-Sprache Car
+ toCSS. Dazu kommen Erläuterungen zu Datenformaten wie SpatiaLite (Vektor/Ei
+ ngabe) und MBTiles (Raster-Kacheln/Ausgabe). Der Workshop benötigt nebst gr
+ undlegendem Kartenverständnis keine Programmier- sondern höchstens HTML-Ken
+ ntnisse.
+SUMMARY:Schöne Karten mit TileMill erstellen und in die Cloud veröffentlich
+ en
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/555.de.html
+DTEND;TZID=Europe/Berlin:20130614T093000
+DTSTART;TZID=Europe/Berlin:20130614T090000
+UID:555@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Stiftung Schweizmobil bietet Informationen rund um Langsamv
+ erkehr in der Schweiz auf ihrer Webseite www.schweizmobil.ch an. Da fast sä
+ mtliche Informationen einen starken Raumbezug haben\, werden die Daten neu 
+ in einer räumlichen Datenbank verwaltet.\, besteht bereits seit einiger Zei
+ t eine enge Verknüpfung zur Webkarte\, z.B. über ein API oder Direktlinks. 
+ Die Daten hinter der Webseite wurden aber bis jetzt über eine nicht-räumlic
+ he Datenbank verwaltet.Mit dem Projekt WebDB hat die Stiftung SchweizMobil 
+ das Ziel\, die Datenbank-Infrastruktur komplett zu erneuern und die Vorteil
+ e einer räumlichen Datenbank verknüpft mit einem komplexen Datenverwaltungs
+ system zu nutzen. Die  Daten werden in einer Postgres / PostGIS Datenbank a
+ bgelegt und über ein OpenObjects-basiertes Interface verwaltet. OpenObject 
+ bietet durch ihren Einsatz in BI-Software (OpenERP) weitgehende Möglichkeit
+ en für die Verwaltung der SchweizMobil-Daten\, insbesondere mit dem GeoEngi
+ ne\, welches die Visualisierung der geographischen Informationen in Karten 
+ ermöglicht.Das System ist seit Februar produktiv und erlaubt\, die Daten au
+ f der Schweizmobil-Webseite auf einfache Art und Weise aktuell zu halten.Di
+ eser Vortag zeigt auf\, wie Open Source Komponente aus der Geo- und ERP-Wel
+ t optimal zusammen eingesetzt werden können um das ganze Potenzial von Open
+  Source Software zu nutzen.
+SUMMARY:Schweizmobil Geodatawarehouse - open source GIS und ERP
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/513.de.html
+DTEND;TZID=Europe/Berlin:20130613T123000
+DTSTART;TZID=Europe/Berlin:20130613T120000
+UID:513@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Das Projekt OpenAddresses (OA) wurde im Jahr 2007 konzipiert\, 
+ gestartet und seither permanent weiterentwickelt. OA ermöglicht das Erfasse
+ n von geokodierten Adressen über eine Web-Anwendung. Geokodierte Adressen s
+ ind ein wichtiger Bestandteil einer Geodateninfrastruktur und dienen zahlre
+ ichen Anwendungen als wichtige Ortsinformation. OA erlaubt die erfassten Da
+ ten kostenlos herunterzuladen und sie zu verwenden. OA verwendet als Hinter
+ grunddaten OpenStreetMap (OSM) Daten und ist seit einiger Zeit bestrebt\, e
+ ine möglichst aktuelle Synchronisation zur OSM-Datenbank herzustellen.Diese
+ r Beitrag stellt eine Browseranwendung vor\, die erstellt wurde\, um Fotos 
+ von Smartphones für die semi-automatische Erfassung von geokodierten Adress
+ en zu verarbeiten. Das Vorgehen ist dabei so\, dass ein Anwender mit einem 
+ Smartphone oder einer Kamera mit entsprechender Sensorik Fotos von Gebäuden
+  erstellt. Diese digitalen Bilder\, werden anschliessend über die erwähnte 
+ Browseranwendung auf einen Server geladen und dort prozessiert. Dabei werde
+ n die erwähnten Informationen ausgelesen. Über Nominatim wird die Kamerapos
+ ition zur Zeit der Aufnahme abgefragt und mithilfe der Information des Rich
+ tungssensors wird die geschätzte Position des aufgenommenen Gebäudes ermitt
+ elt. Die so erhaltenen Informationen werden in der Browseranwendung dargest
+ ellt: zum einen wird der Kamerastandort und die geschätzte Gebäudeposition 
+ in einer Karte dargestellt\, zum andern werden die aus Nominatim erhaltenen
+  Adressinformationen in einer Tabelle aufgeführt. Der Anwender kann nun ein
+ erseits im Kartenfenster die korrekte Adress- bzw. Gebäudeposition festlege
+ n und andrerseits die erhaltenen Adresseninformationen falls nötig ändern\,
+  ergänzen oder bestätigen. Sind die Angaben vollständig und korrekt\, werde
+ n die so erhobenen geokodierten Adressinformationen direkt in die Datenbank
+  von OA eingetragen.Nebst der Browseranwendung wird im Beitrag auch auf die
+  Qualität dieses Ansatzes und Risiken und Chancen eingegangen.
+SUMMARY:Semi-automatische Adressdatenerfassung - Erfassung von georeferenzi
+ erten Adressdaten aus Fotos von Smartphones unter Einbezug von OSM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/604.de.html
+DTEND;TZID=Europe/Berlin:20130614T113000
+DTSTART;TZID=Europe/Berlin:20130614T110000
+UID:604@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Almost all mapping applications available today on the web and 
+ in mobile devices are in fact using tiles as the core for online distributi
+ on of maps. This presentation shortly explains the tiling basics and shows 
+ the open-source software typically used for generating and distributing til
+ ed maps in the most popular Spherical Mercator system (EPSG:3857 / EPSG:900
+ 913) visible in Google Maps\, OpenStreetMap\, Bing Maps and other online ma
+ ps.The tools for rendering maps such as the MapTiler (powered by GDAL/GDAL2
+ Tiles) and TileMill (powered by Mapnik) will be demonstrated.The presentati
+ on also introduces a new open-source project called TileServer which allows
+  to distribute rendered map tiles (directory or MBTiles) from any ordinary 
+ web server (Apache/MySQL) in the standardised OpenGIS WMTS format without a
+  need to install\, configure or maintain any additional dynamic software or
+  web server extension. Any traditional web hosting can be therefore used fo
+ r online distribution of maps. It is a rapid\, extremely high-performance a
+ nd scalable way how to publish maps. Hosting of the rendered maps is also p
+ ossible from the cloud\, such as Amazon S3/CloudFront or RackSpace Files. T
+ he published custom maps can be used in HTML5/JavaScript applications (Open
+ Layers/Leaflet)\, on mobile devices (iOS: MapKit/RouteMe\, Android: OSMDroi
+ d)\, or even opened in desktop GIS systems such as QGIS\, UDig and ESRI Arc
+ GIS Desktop. This presentation contains a practical demonstration of map ti
+ le rendering and online publishing.
+SUMMARY:Tile based map publishing with WMTS TileServer\, MapTiler and TileM
+ ill - Fast online maps for web\, mobile and desktop applications from a tra
+ ditional Apache/PHP/MySQL web hosting or from the Amazon S3 cloud
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/551.de.html
+DTEND;TZID=Europe/Berlin:20130613T163000
+DTSTART;TZID=Europe/Berlin:20130613T160000
+UID:551@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Abstract:Die Umstellung auf FOSSGIS für zentrale Bereiche im GI
+ S der Vorarlberger Landesverwaltung (VoGIS) erfolgte zwischen 2009 bis 2012
+ . Die Notwendigkeit technische Rahmenbedingungen zu verbessern\, Kenntnisse
+  und Erfahrungen im Bereich OpenSource sowie eine neutrale Einstellung gege
+ nüber freier Software\, hat den Einsatz von FOSSGIS ermöglicht. Umgestellt 
+ wurden die Bereiche Webdienste\, Datendownload und Standard Desktop GIS.Es 
+ können folgende Eckpunkte zusammengefasst werden:- Von zentraler Bedeutung 
+ ist ein offenes Datenformat.- FOSSGIS war nicht vorgegeben\, hat sich aber 
+ bewährt.- CGI-Mapserver mit Linux als Betriebssystem ist performant und sta
+ bil. Linux als Serversystem kann zudem weitere Aufgaben übernehmen (z.B. SF
+ TP Download\, Reverse Proxy\,    Bandbreitenkontrolle).- QGIS als Desktop G
+ IS hat sich als richtige Wahl erwiesen. Derzeit gibt es ca. 400 Installatio
+ n innerhalb der Landesverwaltung. QGIS ist stabil\, sehr gut skalierbar und
+  verfügt bereits über einen großen Funktionsumfang.- Kostenersparnis durch 
+ Wegfallen der Lizenzkosten.- FOSSGIS bedeutet auch Transparenz. Umfangreich
+ e Hilfe kann im Internet zu praktisch fast allen Problemen gefunden werden.
+ - Freier Informationsaustausch: Unabhängige Datenformate und Software sind 
+ zukunftsträchtige Standards.- FOSSGIS fördert den Mehrwert von Geoinformati
+ on. Durch die freie Verfügbarkeit der Anwendungen werden Anforderungen an d
+ ie Verwaltung wie z.B. Open Government Data oder die Zusammenarbeit mit Die
+ nstleistern ideal unterstützt.
+SUMMARY:Umstellung auf bzw. Einsatz von FOSSGIS in der Vorarlberger Landesv
+ erwaltung: Technische Betrachtung - Eine Kombination aus Einsatz und Erfolg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/560.de.html
+DTEND;TZID=Europe/Berlin:20130613T173000
+DTSTART;TZID=Europe/Berlin:20130613T170000
+UID:560@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Schweizer Kantone erstellen den sogenannten Basisplan der a
+ mtlichen Vermessung\, ein Rasterkartenwerk in den Massstäben 1:5000 und 1:1
+ 0‘000\, das automatisch aus den Vektordaten der amtlichen Vermessung generi
+ ert und regelmässig neu erstellt wird. Der Kanton Solothurn setzt hierzu QG
+ IS Server und GDAL ein. Der Vortrag beschreibt das gewählte Vorgehen und ge
+ ht auf die besonderen Herausforderungen ein\, die dabei auftraten.In diesem
+  Projekt wird QGIS Server als Renderer eingesetzt\, weil die Symbolisierung
+  über das GUI von QGIS sehr einfach realisiert werden konnte. Die in Millim
+ etern vorgegebenen Symbolgrössen usw. konnten in den meisten Fällen direkt 
+ so in QGIS eingegeben werden. Auch komplexe Symbole z.B. für Grenzlinien ko
+ nnten mit dem QGIS-GUI aufgebaut werden. Zudem erlaubt QGIS Server bei der 
+ Erstellung der Karten die Steuerung des DPI-Werts\, was für dieses Projekt 
+ wichtig ist. Der Plan enthält Beschriftungen\, die an den Blatträndern präz
+ is zusammenpassen müssen\, was mit den Möglichkeiten von QGIS in Kombinatio
+ n mit etwas grösser als das eigentliche Kartenblatt gerenderten und danach 
+ zugeschnitten Beschriftungsebenen realisiert werden konnte.Da der Basisplan
+  nicht nur in einer farbigen\, sondern auch einer schwarz-weissen Variante 
+ erstellt wird\, musste im Code von QGIS Server eine Anpassung vorgenommen w
+ erden\, damit auch schwarz-weisse Bilder (1-Bit-Bilder ohne Antialiasing) e
+ rzeugt werden können.Der Kartenproduktionsprozess wird von einem Python-Skr
+ ipt gesteuert\, welches Kartenbilder von QGIS Server anfordert und sie mit 
+ einer Abfolge diverser GDAL-Befehle zu den Kartenblättern zusammensetzt und
+  als GeoTIFFs abspeichert.Mit dem beschriebenen Vorgehen konnte das Planwer
+ k erfolgreich realisiert werden.
+SUMMARY:Von Vektordaten zum Rasterkartenwerk mit QGIS Server - Erfahrungsbe
+ richt über die automatisierte Erstellung des Basisplans der amtlichen Verme
+ ssung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/556.de.html
+DTEND;TZID=Europe/Berlin:20130614T100000
+DTSTART;TZID=Europe/Berlin:20130614T093000
+UID:556@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Die Verbreitung der HTML5-Norm erlaubt es\, neue Technologien z
+ u einzusetzen. WebGL\, als Teil der HTML5-Norm\, ermöglicht es die Rechenst
+ ärke der Graphikkarte zu benutzen. Hoch performante 2D-Webmapping Anwendung
+ en sollen dieses Prinzip nutzen. Als Beispiel bietet Google Maps/WebGL neue
+  Funktionalitäten sowie eine verbesserte Ergonomie im Vergleich zur klassis
+ chen Anwendung. Im 3D Bereich\, wo Berechnungen sehr aufwändig sind\, kann 
+ man jetzt mit dieser neuen Technologie Web-Anwendungen entwickeln\, die ohn
+ e Plugin in einem Browser laufen.Diese Präsentation wird die WebGL Technolo
+ gie vorstellen sowie ihre potentielle Einsatzmöglichkeit im WebGIS Bereich.
+  Ausserdem werden Synergien zwischen 2D und 3D Webmapping-Anwendungen anged
+ eutet.
+SUMMARY:WebGL für die Geomatik - Perspektiven im Geomatik Bereich
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/609.de.html
+DTEND;TZID=Europe/Berlin:20130612T173000
+DTSTART;TZID=Europe/Berlin:20130612T170000
+UID:609@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Für Aussenstehende - und selbst für viele aktive Mapper - ist e
+ s nicht immer ganz klar\, wohin sich das Schiff OpenStreetMap bewegt und wi
+ e man vielliecht ein kleines bisschen Einfluss auf den Kurs nehmen kann. Es
+  gibt eine OpenStreetMap Foundation\, Working Groups\, Local Chapters\, und
+  eine riesige Community\, die von Organisation relativ wenig wissen will. E
+ s gibt Entwickler\, die tun was sie wollen\, und andere Entwickler\, die im
+  Auftrag von kommerziellen oder nichtkommerziellen Organisationen an OSM mi
+ tarbeiten. Dieser Vortrag soll einen Überblick über die vorhandenen und feh
+ lenden Entscheidungs- und Machtstrukturen im Projekt geben und wird auch ei
+ n paar Prognosen für die Zukunft wagen.
+SUMMARY:Wer ist der Boss bei OpenStreetMap? - Meinungsbildung und Entscheid
+ ungsfindung in einem offenen Projekt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:3.008
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/514.de.html
+DTEND;TZID=Europe/Berlin:20130613T100000
+DTSTART;TZID=Europe/Berlin:20130613T093000
+UID:514@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:Das Wikipedia-ähnliche OpenStreetMap-Projekt (OSM) liefert Geod
+ aten mit grossem Detailreichtum. Die OSM-Daten ergänzen damit behördliche G
+ eodaten u.a. mit Restaurants\, Rastplätzen oder Aussichtspunkte. Doch viele
+  wissen nicht\, wie das OSM-Objektmodell aufgebaut ist\, wie man OSM-Daten 
+ durchsucht oder können mit dem XML-Rohdatenformat von OpenStreetMap nichts 
+ anfangen. Zunächst soll also demonstriert werden\, wie man Daten findet (OS
+ M Wiki\, Taginfo). Dann wird aufgezeigt\, wie man ohne zu programmieren\, o
+ hne lokale Installation (und auch ohne Kommandozeilen-Werkzeuge) auf freie 
+ Geodaten-Quellen zugreifen oder sie herunterladen kann. Es sind dies u.a. d
+ er Desktop-Konverter OGR und der online GeoConverter. Beide konvertieren ei
+ ne OSM-Datei in ein GIS-Format\, so dass sie zugänglich werden. OpenPOIMap 
+ bietet (Schweizer) Points-of-Interest an\, die auch als WFS-Service bezogen
+  werden können. Und mit SpatiaLite-Tools kann man u.a. Strassen- und Bahnne
+ tzwerke importieren und analysieren. Sämtliche gezeigten Software-Werkzeuge
+  sind Open Source. Am Schluss kommen auch frei zugängliche Webdienste wie d
+ as online Overpass API zur Sprache. 
+SUMMARY:Werkzeuge zur Nutzung von OpenStreetMap-Daten in GIS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+
+LOCATION:5.001
+SEQUENCE:0
+URL:http://www.fossgis.de/konferenz/2013/programm/events/539.de.html
+DTEND;TZID=Europe/Berlin:20130613T160000
+DTSTART;TZID=Europe/Berlin:20130613T153000
+UID:539@FOSSGIS2013@pentabarf.org
+DTSTAMP:20130729T084332
+CATEGORIES:Lecture
+DESCRIPTION:In den drei Jahren Betrieb haben sich die Dienste von geo.admin
+ .ch\, dem Geoportal des Bundes\, bei weiten Teilen der Bevölkerung etablier
+ t. Erwartungen der Endnutzer als auch die Anforderungen an das verwendete O
+ penSourceFramework und der Lizenzbedingungen der Daten waren und sind die H
+ auptherausforderung:-	Welche Funktionen/Dienste werden genutzt – und wo beg
+ innt der feature creep?-	Welche Daten finden grösste Resonanz – und bei wel
+ che Geoinformationen besteht ein Bedarf?-	Fazit: FOSS im eGov Geoportal Ber
+ eich – Stärken und SchwächenMit echten\, aktuellen Daten aus Nutzungsstatis
+ tiken und –umfragen von geo.admin.ch sind die quantitativen und qualitative
+ n Grundlagen gegeben\, um eine sinnvolle Diskussion bezüglich dem ROI von w
+ ebmapping Diensten zu führen. Ein faszinierender Fundus an Daten erlaubt es
+ \, einen Blick darauf zu werfen\, wie die Öffentlichkeit Geodaten im Web nu
+ tzt – und wo die Trends der FOSSGIS Gemeinschaft hingehen sollen:-	Webkarte
+ n sind für eine Mehrzahl der Web-Anwender auch 2013 eine Herausforderung. B
+ ei der Informationsvermittlung (Suche und Resultatedarstellung) ist ein Par
+ adigamawechsel gefordert: Weg vom Expertentool hin zur Suchmaschine  -	Kart
+ enportale der Verwaltung\, eine Kurzvisite: Laden – betrachten – Seite verl
+ assen: Der Umgang mit Daten der Verwaltung ist für viele Bürger/Endnutzer i
+ mmer (noch) zu komplex. Einfache Lösungen\, die konkrete Fragestellungen be
+ antworten\, sind zu bevorzugen.-	Von Daten zu Karten: Thematisch und kartog
+ raphisch aufgearbeitete Karten generieren mehr Besucherverkehr als Rohdaten
+  – sie eignen sich auch besser für die Indexierung in Suchmaschinen. Kommun
+ ikation der (Geo)daten soll Endnutzer in einfachen aggregierter Form gelief
+ ert werden.-	Auto-complete services garantieren ein positives User Experien
+ ce: Vorschläge von Suchresultaten durch ein einziges Suchfenster sind ein M
+ uss.-	Attributinfo: Nutzer klicken tatsächlich auf icons - Wenn das icon so
+  aussieht wie ein Google Ballon Icon.-	Standardeinstellungen werden selten 
+ durch Nutzer geändert.-	Mobile – responsive design bei Kartenanwendungen is
+ t gefragt-	Datendienste anstatt Datendownload: Geodaten haben meist kurze N
+ achführungszyklen. Offene Dienste\, basierend auf offenen Standards vereinf
+ achen updates.-	Datenlizenzstruktur: Herausforderung auf Seite Verwaltung i
+ st die „Institutional jealousy“ : Die Tendenz von Datenherren\, Information
+ en zurückzuhalten und die Zusammenarbeit mit anderen Organisation zu unterd
+ rücken – um die volle alleinige Kontrolle über die Verwendung der Daten zu 
+ behalten. Die Lösungsansatz ist die Betroffenen zum data sharing / Kooperat
+ ion zu motivierenAuch wenn Technologie und die gesetzliche Grundlage noch s
+ o solide sind\, individuellen Aspekte Anwender und Datenherr sind schwer gr
+ eifbar. Nun hängt aber der Erfolg einer effektiven Nutzung von Geoinformati
+ on gerade von diesen Aspekten ab. Es geht also darum\, institutionelle Wide
+ rsprüche zu bereinigen\, unter der Berücksichtigung\, dass jede Institution
+  seine Eigenheiten und Selbstständigkeit bewahren kann\, ohne dabei das Zie
+ l der Vernetzung der Datendienste aus den Augen zu verlieren.Was das WebMap
+ ping für Verwaltungen benötigt: Weniger GIS\, mehr nutzerfreundliche auto-c
+ omplete Funktionen und Suchmaschinenoptimierung: Warum? Der Nutzer will\, d
+ as Suche und Repräsentation der Resultate für Kartenmaterial wie für den Re
+ st des Web funktioniert.Links: www.geo.admin.ch /map.geo.admin.ch/
+SUMMARY:Wie wird ein Geoportal der Verwaltung genutzt?: Metrik der Dienste 
+ von geo.admin.ch  - Spagat zwischen Feature Creep und Nutzererwartungen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY\;BYDAY=-1SU\;BYMONTH=10\,FREQ=YEARLY\;BYDAY=1SU\;BYMONTH=
+ 4
+TZOFFSETFROM:+0100
+DTSTART:19870405T020000
+TZNAME:CET
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR

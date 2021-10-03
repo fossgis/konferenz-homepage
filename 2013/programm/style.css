@@ -1,0 +1,352 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #f6f6f6;
+	color: #333;
+	line-height: 1.5em;
+	font-size: 100%;
+	font-family: Helvetica,Arial,Geneva,sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+a:hover,
+a:focus {
+	text-decoration: underline;
+	color: #ea5810;
+}
+
+#conference-logo {
+	position: absolute;
+	top: 0;
+	left: -480px;
+	margin-left: 50%;
+	width: 960px;
+	height: 290px;
+	background-image: url(http://www.fossgis.de/konferenz/2013/img/head_rapperswill.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: inherit;
+}
+
+#conference-logo a {
+	display: block;
+	width: 250px;
+	height: 250px;
+	margin: 20px;
+/*	outline: 1px solid #0f0;*/
+}
+
+#conference-logo:after {
+	position: absolute;
+	right: 20px;
+	bottom: 70px;
+	content: 'Programm';
+	color: #fff;
+	text-shadow:
+		0 0 0.125em #000,
+		0 0 0.25em #000,
+		0 0 0.5em #000;
+	font-size: 300%;
+	font-weight: bold;
+	cursor: default;
+}
+
+#conference-logo img {
+	display: none;
+}
+
+#menu {
+	position: absolute;
+	z-index: 1;
+	top: 290px;
+	left: -480px;
+	margin-left: 50%;
+	width: 250px;
+	padding-bottom: 4em;
+	background-color: #fff;
+	color: inherit;
+	border-left: 1px dotted #333;
+	border-bottom: 1px dotted #333;
+}
+
+#menu ul {
+	list-style-type: none;
+}
+
+#menu ul {
+	margin: 2.5em 0 0 20px;
+	border-top: 1px solid #ea5810;
+}
+
+#menu ul ul {
+	margin: 0;
+	border: none;
+	font-size: 90%;
+}
+
+#menu li {
+	border-bottom: 1px solid #ea5810;
+	text-align: right;
+	font-weight: bold;
+}
+
+#menu li li {
+	font-weight: normal;
+	border: none;
+}
+
+#menu a {
+	display: block;
+	padding: 5px;
+	font-weight: inherit;
+	text-decoration: none;
+	color: #333;
+}
+#menu li li a {
+	padding-right: 1em;
+}
+
+#menu a.active,	/* not present yet! */
+#menu a:hover,
+#menu a:focus {
+	text-decoration: none;
+	color: #ea5810;
+}
+
+/**********************
+ *    CONTENT AREA    *
+ **********************/
+
+#content {
+	position: absolute;
+	z-index: 0;
+	top: 290px;
+	left: -230px;
+	margin-left: 50%;
+	width: 648px;
+	padding: 2em 30px;
+	background-color: #fff;
+	color: inherit;
+	border-left: 1px dotted #333;
+	border-right: 1px dotted #333;
+	border-bottom: 1px dotted #333;
+	font-size: 90%;
+}
+
+#content h1 {
+	margin: 0.25em 0 0.5em 0;
+	line-height: 1.25em;
+	font-size: 200%;
+	font-weight: normal;
+}
+
+#content h2 {
+	margin: 0.25em 0 0.5em 0;
+	font-weight: normal;
+}
+
+#content p {
+	margin: 0.25em 0 0.5em 0;
+	text-align: justify;
+}
+#content td p {
+	margin-top: 0;
+	margin-bottom: 0.25em;
+}
+
+#content p.release {
+	display: none;
+}
+
+#content p.intro {
+	margin: 0 0 2em 0;
+	font-size: 120%;
+}
+
+#content ul {
+	margin-left: 2em;
+}
+#content td ul {
+	margin-left: 1.25em;
+}
+
+#content table {
+	background-color: #fff;
+}
+#content th {
+	background-color: #ddd;
+}
+#content td {
+	padding: 0.125em 0.25em;
+	vertical-align: top;
+}
+#content tr:hover td {
+	background-color: #f6f6f6;
+}
+
+/*********************
+ *    EVENT INDEX    *
+ *********************/
+
+#event-index {
+}
+
+#event-index .event .title {
+	font-weight: bold;
+}
+
+#event-index .event .subtitle {
+	margin-left: 0.5em;
+}
+
+#event-index .event .speakers {
+	text-align: right;
+}
+
+#event-index .event .info {
+	font-size: 80%;
+	font-variant: small-caps;
+}
+
+#event-index .event a img {
+	display: none;
+}
+
+td.time {
+	background-color: #ddd !important;
+	vertical-align: middle !important;
+}
+tr td.track-allgemeines       { background-color: #fef5c0 !important; }
+tr td.track-vortrgegis        { background-color: #fef5c0 !important; }
+tr td.track-vortrgeosm        { background-color: #e3ffc5 !important; }
+tr td.track-workshopsbezahlt  { background-color: #c0c7ff !important; }
+tr td.track-lightningtalksgis { background-color: #fdad6c !important; }
+tr td.track-lightningtalksosm { background-color: #fdad6c !important; }
+tr td.track-communitysessions { background-color: #fbc0be !important; }
+tr td.track-bofs              { background-color: #ffffff !important; }
+tr td.track-anwendertreffen   { background-color: #f0f0f0 !important; }
+
+/**********************
+ *    DETAIL PAGES    *
+ **********************/
+
+#infobox {
+	float: right;
+	margin: 0 0 1em 1em;
+	border: 1px solid #000;
+	background-color: #f6f6f6;
+	color: inherit;
+	font-size: 90%;
+}
+
+#infobox table {
+	width: 100%;
+	background-color: inherit;
+	color: inherit;
+}
+
+#navigation {
+	margin-top: 1em;
+}
+
+#navigation a {
+	margin: 0 0.5em;
+	padding: 0.25em 0.5em;
+	border: 1px solid #000;
+	background-color: #f6f6f6;
+	color: inherit;
+	text-decoration: none;
+}
+
+#navigation a:hover,
+#navigation a:focus {
+	background-color: #ddd;
+	color: inherit;
+}
+
+/***********************
+ *    SPEAKER INDEX    *
+ ***********************/
+
+.speaker-index td.speaker {
+	clear: both;
+	min-width: 15em;
+	vertical-align: top;
+}
+
+.speaker-index td.speaker a {
+}
+
+.speaker-index td.speaker a+a {
+	margin: 0.25em;
+/*	white-space: nowrap;*/
+}
+
+#infobox td img,
+.speaker-index td.speaker img {
+	display: block;
+	float: left;
+	width: 48px;
+	height: 48px;
+	border: 1px solid #000;
+	background-image: url(http://www.fossgis.de/konferenz/2013/images/person-0-48x48.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: inherit;
+}
+
+.speaker-index td.events {
+	vertical-align: top;
+}
+
+/************************
+ *    SPEAKER DETAIL    *
+ ************************/
+
+#speaker #infobox img {
+	display: none;
+}
+
+img.speaker-image {
+	float: left;
+	width: 128px; 
+	height: 128px;
+	margin: 0 0.5em 0.5em 0;
+	border: 1px solid #000;
+/*	background-image: url(http://www.fossgis.de/konferenz/2013/images/person-0-128x128.png);*/	/* FIXME: path does not exist yet */
+	background-image: url(http://www.fossgis.de/konferenz/2012/images/person-0-128x128.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: inherit;
+}
+
+/******************
+ *    SCHEDULE    *
+ ******************/
+
+#schedule {
+/*	width: 100%;
+	height: 30em;
+	overflow: auto;*/
+}
+
+/**************
+ *    TEMP    *
+ **************/
+
+#sample_index {
+	position: fixed;
+	right: 0;
+	top: 50%;
+	padding: 0.5em 1em;
+	background: #ffffdd;
+	border: 1px solid #000;
+}
+
