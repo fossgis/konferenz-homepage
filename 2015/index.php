@@ -48,7 +48,7 @@
 		<p>Die FOSSGIS wird durch die freundliche Unterstützung unserer Sponsoren m&ouml;glich. Herzlichen Dank.</p>
 
                 <h3>Goldsponsor</h3>
-                <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+                <div class="sponsor gold"><a href="https://wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
 
                 <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 
@@ -56,8 +56,8 @@
                 <div class="sponsor silber" id="52north"><a href="http://52north.org/" target="_blank"><img src="img/s/101_52n.PNG" valign="middle" width="200" height="72"></a></div>
  		  <div class="sponsor silber" id="camptocamp"><a href="http://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="200" height="97"></a></div>
 		  <div class="sponsor silber" id="omniscale"><a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="200" height="41"></a></div>
-		  <div class="sponsor silber" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>
-		  <div class="sponsor silber" id="terrestris"><a href="http://www.terrestris.de/" target="_blank"><img src="img/s/105_terrestris.PNG" valign="middle" width="180" height="120"></a></div>
+		  <div class="sponsor silber" id="geofabrik"><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>
+		  <div class="sponsor silber" id="terrestris"><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/105_terrestris.PNG" valign="middle" width="180" height="120"></a></div>
 		  <div class="sponsor silber" id="qgis enterprise"><a href="http://qgisenterprise.com/" target="_blank"><img src="img/s/106_qgis_enterprise.jpg" valign="middle" width="220" height="79"></a></div>
 		  <div class="sponsor silber" id="elektrobit"><a href="http://www.automotive.elektrobit.com/" target="_blank"><img src="img/s/107_Electrobit_.PNG" valign="middle"width="220" height="69"></a></div>
 

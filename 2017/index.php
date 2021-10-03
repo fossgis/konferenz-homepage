@@ -42,7 +42,7 @@
                  <p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich. Herzlichen Dank.</p>
 				 <br>
 				  <h3>Goldsponsor</h3>
-                <div class="sponsor gold"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
+                <div class="sponsor gold"><a href="https://wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="330" height="88"></a></div>
 
 				<!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 				  <h3>Silbersponsoren</h3>
@@ -53,7 +53,7 @@
 				   <div class="sponsor silber" ></div>
 				   <div class="sponsor silber" ></div>
 				 <!--   <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
-				  <div class="sponsor silber" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>-->
+				  <div class="sponsor silber" id="geofabrik"><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>-->
 
 				  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
 				 <h3>Bronzesponsoren</h3>
@@ -66,8 +66,8 @@
 				      <div class="sponsor bronze" id="Geoinformatikbüro Dassau GmbH"><a href="http://www.gbd-consult.de/home.html" target="_blank"><img valign="middle" src="img/s/gbd-consult.png" width="120" height="41"></a></div>
 					  <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img valign="middle" src="img/s/sourcepole.png" width="160" height="40"></a></div>
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
-				 <div class="sponsor bronze" id="Terrestris"><a href="http://www.terrestris.de" target="_blank"><img valign= "middle" src="img/s/terrestris.jpg" width="130" height="72"></div>
-				  <div class="sponsor bronze" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="150" height="35"></a></div>
+				 <div class="sponsor bronze" id="Terrestris"><a href="https://www.terrestris.de/" target="_blank"><img valign= "middle" src="img/s/terrestris.jpg" width="130" height="72"></div>
+				  <div class="sponsor bronze" id="geofabrik"><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="150" height="35"></a></div>
 				  <div class="sponsor bronze" id="OPTITOOL"><a href="http://www.optitool.de" target="_blank"><img src="img/s/209_OPTITOOL-ohne-GmbH-Shadow.png" valign="middle" width="150" height="41"></a></div>
 				  <div class="sponsor bronze"></div>
 				  <div class="sponsor bronze"></div>

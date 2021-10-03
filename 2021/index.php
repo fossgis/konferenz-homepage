@@ -86,7 +86,7 @@
 			<h4 class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
 					<li class="tile silver">
-						<a href="https://www.terrestris.de" target="_blank">
+						<a href="https://www.terrestris.de/" target="_blank">
 						<img src="./img/s/201_terrestris.png" alt="terrestris">
 						</a>
 					</li>

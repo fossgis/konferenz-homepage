@@ -46,14 +46,14 @@
 				  <div class="sponsor silber" id="omniscale"><a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="200" height="41"></a></div> 
 				  <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>
 				  <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
-				  <div class="sponsor silber" id="geofabrik"><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>
+				  <div class="sponsor silber" id="geofabrik"><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>
 				  
 				  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
 				 <h3>Bronzesponsoren</h3>
-				 <div class="sponsor bronze"><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="150" height="40"></a></div>
+				 <div class="sponsor bronze"><a href="https://wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="150" height="40"></a></div>
 				 <div class="sponsor bronze" id="camptocamp"><a href="http://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="150" height="72"></a></div>
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
-				 <div class="sponsor bronze" id="sourcepole"><a href="http://www.sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
+				 <div class="sponsor bronze" id="sourcepole"><a href="https://sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
 				 
 				 <br>
 				<p> Sie möchten die FOSSGIS-Konferenz als Gold, Silber, Bronze oder Mediasponsor unterstützen? Lesen Sie bitte die <a href="https://www.fossgis.de/wiki/Sponsoren_und_Aussteller">Informationen zu Sponsoren und Ausstellern</a> oder wenden sie sich direkt <a href="mailto:katja.haferkorn@fossgis.de">Frau Haferkorn</a>.

@@ -44,18 +44,18 @@
                 <h2>Sponsoren</h2>
 
                 <!-- <h3>Goldsponsor</h3>
-                <div class="sponsor gold"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div> -->
+                <div class="sponsor gold"><a href="https://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle"></a></div> -->
 
 
 
                 <h3>Silbersponsoren</h3>
-                <div class="sponsor silber" id="omniscale"><a href="http://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle" width="220" height="45"></a></div>
+                <div class="sponsor silber" id="omniscale"><a href="https://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle" width="220" height="45"></a></div>
                 <div class="sponsor silber"><a href="http://www.metaspatial.net/de/institute" target="_blank"><img src="img/s/metaspatial.png" valign="middle"></a></div>
 		  <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/TC_Logo_45x20mm_.png" valign="middle"  width="222" height="100"></a></div>
-		  <div class="sponsor silber" ><a href="http://www.wheregroup.com/" target="_blank"><img src="img/s/wheregroup.png" valign="middle"  width="220" height="58"></a></div>
- 		  <div class="sponsor silber" ><a href="http://www.terrestris.de/" target="_blank"><img src="img/s/terrestris.png" valign="middle"  width="160" height="160"></a></div>
- 		  <div class="sponsor silber" ><a href="http://www.geofabrik.de/" target="_blank"><img src="img/s/geofabrik.png" valign="middle"  width="220" height="51"></a></div>
-		  <div class="sponsor silber" ><a href="http://www.sourcepole.ch//" target="_blank"><img src="img/s/sourcepole.png" valign="middle"  width="230" height="62"></a></div>
+		  <div class="sponsor silber" ><a href="https://wheregroup.com/" target="_blank"><img src="img/s/wheregroup.png" valign="middle"  width="220" height="58"></a></div>
+ 		  <div class="sponsor silber" ><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/terrestris.png" valign="middle"  width="160" height="160"></a></div>
+ 		  <div class="sponsor silber" ><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/geofabrik.png" valign="middle"  width="220" height="51"></a></div>
+		  <div class="sponsor silber" ><a href="https://sourcepole.ch//" target="_blank"><img src="img/s/sourcepole.png" valign="middle"  width="230" height="62"></a></div>
 		  <div class="sponsor silber" ><a href="http://www.norbit.de/" target="_blank"><img src="img/s/norBIT.png" valign="middle"  width="150" height="150"></a></div>
 
 

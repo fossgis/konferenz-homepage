@@ -37,13 +37,13 @@
 				<p>Die FOSSGIS wird durch die freundliche Unterstützung unserer Sponsoren möglich. Herzlichen Dank.</p>
 					<h3>Goldsponsor</h3>
 					<p class="logos">
-						<a href="http://www.camptocamp.com/"><img valign="middle" src="img/s/C2C-72dpi-logo-baseline-RVB.png" width="300" height="81"></a>
+						<a href="https://www.camptocamp.com/"><img valign="middle" src="img/s/C2C-72dpi-logo-baseline-RVB.png" width="300" height="81"></a>
 					</p>
 
 					<h3>Silbersponsoren</h3>
 					<p class="logos">
 						<a href="http://www.geops.de/"><img valign="middle" src="img/s/Geops.png" width="250" height="65"></a>
-						<a href="http://www.omniscale.de/"><img valign="middle" src="img/s/omniscale.PNG" width="250" height="51"></a>
+						<a href="https://www.omniscale.de/"><img valign="middle" src="img/s/omniscale.PNG" width="250" height="51"></a>
 						<a href="http://www.gbd-consult.de/"><img valign="middle" src="img/s/gbd-consult.PNG" width="220" height="79"></a>
 						<a href="http://www.metaspatial.net/de/"><img valign="middle" src="img/s/metaspatial.PNG" width="250" height="39"></a>
 						<a href="http://www.webgis.de/"><img valign="middle" src="img/s/in_medias_res.PNG" width="200" height="114"></a>
@@ -56,14 +56,14 @@
 					 </p>
 					<h3>Bronzesponsoren</h3>
 					<p class="logos">
-						<a href="http://www.wheregroup.com/"><img valign="middle" src="img/s/wheregroup.PNG" width="200" height="53"></a>
-						<a href="http://www.sourcepole.ch/"><img valign="middle" src="img/s/sourcepole.png" width="200" height="54"></a>
+						<a href="https://wheregroup.com/"><img valign="middle" src="img/s/wheregroup.PNG" width="200" height="53"></a>
+						<a href="https://sourcepole.ch/"><img valign="middle" src="img/s/sourcepole.png" width="200" height="54"></a>
 						<a href="http://www.itos-gmbh.com/"><img valign="middle" src="img/s/itos.PNG" width="180" height="48"></a>
 						<a href="http://www.mapmedia.de//"><img valign="middle" src="img/s/mapmedia.png" width="200" height="34"></a>
 						<a href="http://www.csgis.de//"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a>
 						<a href="http://www.ch-open.ch"><img valign="middle" src="img/s/ch-open.PNG" width="99" height="70"></a>
-						<a href="http://www.geofabrik.de/"><img valign="middle" src="img/s/geofabrik.PNG" width="200" height="40"></a>
-						<a href="http://www.terrestris.de/"><img valign="middle" src="img/s/terrestris.png" width="130" height="130"></a>
+						<a href="https://www.geofabrik.de/"><img valign="middle" src="img/s/geofabrik.PNG" width="200" height="40"></a>
+						<a href="https://www.terrestris.de/"><img valign="middle" src="img/s/terrestris.png" width="130" height="130"></a>
 						<a href="http://www.lingner.eu/"><img valign="middle" src="img/s/mapwebbing.PNG" width="200" height="61"></a>
 						<a href="http://www.labcom.ch/"><img valign="middle" src="img/s/LabCom.PNG" width="200" height="47"></a>
 						<a href="http://www.awa.zh.ch/"><img valign="middle" src="img/s/AWA_de_farbig.PNG" width="300" height="87"></a>
