@@ -42,7 +42,7 @@
         <slug></slug>
         <title>Quo vadis Open Source?</title>
         <subtitle>Problematische Entwicklungen bei FOSSGIS-Projekten</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die FOSSGIS-Szene befindet sich heute im Spannungsfeld zwischen traditionellen Leitmotiven und manchmal schwer erf&#252;llbarem kommerziellem Erfolgsanspruch. Dieser Vortrag macht es sich zum Anliegen, einige bedenkliche Entwicklungen in dieser Situation zu thematisieren.</abstract>
@@ -67,7 +67,7 @@ So findet sich die FOSSGIS-Szene heute im Spannungsfeld zwischen traditionellen 
         <slug></slug>
         <title>OSM in Jerusalem</title>
         <subtitle>Geodaten und sozialr&#228;umliche Strukturen</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -179,7 +179,7 @@ Ziel des FOSSGIS e.V. und der OSGeo ist die F&#246;rderung und Verbreitung freie
         <slug></slug>
         <title>Vom Laptop zum Grossrechner: Neues in GRASS GIS 7</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>GRASS GIS 7 bietet neue Module zur Vektornetzwerk-, Voxelanalyse, Zeitreihenspeicherung und -management, dazu ein Animationstool f&#252;r Raster-und Vektorkartenzeitreihen, ein graphisches Bildklassifikationtool, "Map Swiper" zum interaktiven Kartenvergleich nebst verbesserter massiver Datenanalyse.</abstract>
@@ -203,7 +203,7 @@ Dar&#252;ber hinaus wurde insbesondere die topologische Vektorbibliothek in Bezu
         <slug></slug>
         <title>Was gibt es Neues bei gvSIG CE?</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -232,7 +232,7 @@ Das gvSIG CE Team hat verschiedene Ma&#223;nahmen durchgef&#252;hrt mit dem Ziel
         <slug></slug>
         <title>OpenJUMP - &#220;berblick, Neuigkeiten, Zusammenarbeit/Schnittstellen mit propriet&#228;rer Software</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>OpenJUMP, ein &#220;berblick der Funktionsbereiche, Demos auf unterschiedlicher Hardware und Aktuelles aus der Entwicklung. Wie kann man als Open Source Projekt Schnittstellen zu propriet&#228;rer Software implementieren? L&#246;sung anspruchsvoller Praxisprobleme mit OpenJUMP und weiteren Open Source Werkzeugen.</abstract>
@@ -257,7 +257,7 @@ Die L&#246;sung komplexer Aufgabenstellungen gelingt mit der geschickten Kombina
         <slug></slug>
         <title>Neues in QGIS 2.2</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -281,7 +281,7 @@ Kopr&#228;sentator: Marco Hugentobler, Technischer Leiter QGIS PSC.</description
         <slug></slug>
         <title>Virtuelle Integration von Datenquellen mit einer Graph-Datenbank</title>
         <subtitle>Prof. Dr. Petra Sauer, Dipl. Inf. Frank Herrmann, B.Sc. Jan Matusewicz</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -305,7 +305,7 @@ Der Beitrag wird &#252;ber den gew&#228;hlten Ansatz zur Entwicklung der Integra
         <slug></slug>
         <title>GeoCouch</title>
         <subtitle>: Eine Erweiterung f&#252;r Apache CouchDB und Couchbase auch f&#252;r mobile Ger&#228;te</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -339,7 +339,7 @@ Apache CouchDB, Couchbase, Couchbase Lite und GeoCouch sind Open-Source und steh
         <slug></slug>
         <title>Deegree: AIXM WFS und WPS Services - GML Anwendungen im Aviation Bereich</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -383,7 +383,7 @@ von AIXM Web Processing Services (WPS) mit dem deegree Framework demonstriert.</
         <slug></slug>
         <title>Geo mit Python</title>
         <subtitle>Wenn die Schlange die Welt prozessiert</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -413,7 +413,7 @@ An kurzen Beispielen wird aufgezeigt, wie mit Python z.B. Geodaten aus einem Sha
         <slug></slug>
         <title>3D Visualisierung von OpenStreetMap Daten mit OpenWebGlobe</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -434,7 +434,7 @@ Mithilfe von OpenWebGlobe wird eine Echtzeit 3D-Repr&#228;sentation von OpenStre
         <slug></slug>
         <title>Neues von OSM2World</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Der Gr&#252;nder des Open-Source-Projekts OSM2World erz&#228;hlt, was sich bei der freien 3D-Renderingsoftware f&#252;r OpenStreetMap-Daten in letzter Zeit getan hat und wo die Reise hingeht.</abstract>
@@ -457,7 +457,7 @@ Dieser Vortrag erz&#228;hlt, wie OSM2World auf diese Entwicklungen reagiert. Der
         <slug></slug>
         <title>OSM Buildings</title>
         <subtitle>OpenStreetMaps Geb&#228;udevisualisierung mit JavaScript</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -480,7 +480,7 @@ Siehe angeh&#228;ngtes Dokument.</description>
         <slug></slug>
         <title>Blender-basierte Erstellung von 3D-Modellen von Orten mit Hilfe von OSM-Daten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Im Vortrag wird diskutiert, wie man 3D-Modelle von Orten mit Hilfe von OpenStreetMap-Daten und Blender Open Source Software erstellen kann. Als Beispiel wird die Erstellung von 2.5D Karten betrachtet.</abstract>
@@ -672,7 +672,7 @@ Das Catering wird von der Stullenwerkstatt Berlin bereit gestellt. Der Abend wir
         <slug></slug>
         <title>Neues aus dem 52&#176;North WPS Projekt</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Ein &#220;berblick &#252;ber die vergangenen und aktuellen Entwicklungen im 52&#176;North WPS Projekt.
@@ -706,7 +706,7 @@ Schlie&#223;lich werden wir die Gelegenheit nutzen und das aktuelle Entwicklungs
         <slug></slug>
         <title>GeoKettle &#8211; FME f&#252;r Geizige?</title>
         <subtitle>Geodatenmanagement und -harmonisierung mit GeoKettle bei der Werraenergie</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -739,7 +739,7 @@ Ohne den Einsatz von GeoKettle w&#228;re die Datenmigration bei der Werraenergie
         <slug></slug>
         <title>MapProxy</title>
         <subtitle>Was war? Was wird?</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract></abstract>
@@ -768,7 +768,7 @@ Abschlie&#223;end wirft der Vortragende noch einen Blick auf die nahe und ferne 
         <slug></slug>
         <title>die Zukunft von WebGIS</title>
         <subtitle>2D, 3D, mobil, Anmimation oder Rendern im Client</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -789,7 +789,7 @@ Der Vortrag besch&#228;ftigt sich mit diesen aktuellen Trends, stellt aktuelle L
         <slug></slug>
         <title>Warum soll ich f&#252;r Open Source GIS bezahlen?</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -808,7 +808,7 @@ Der Vortrag besch&#228;ftigt sich mit diesen aktuellen Trends, stellt aktuelle L
         <slug></slug>
         <title>Neues vom Open Geospatial Consortium</title>
         <subtitle>Das OGC Compliance Programm und Freie Software, was verbirgt sich hinter den Ideas4OGC und ein Ausblick auf das OGC Technical Committee Meeting im M&#228;rz 2014</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -830,7 +830,7 @@ Nach einer kurzen Einf&#252;hrung, in der unter anderem das Memorandum of Unders
         <slug></slug>
         <title>OpenLayers 3</title>
         <subtitle>Einf&#252;hrung, Verwendungsbeispiele und technische Highlights</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -859,7 +859,7 @@ Auch die Roadmap der weiteren Entwicklung des Projektes wird angesprochen werden
         <slug></slug>
         <title>GeoExt2</title>
         <subtitle>Was ist neu und was bringt die Zukunft</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -904,7 +904,7 @@ Weiterer Fokus wird auf der Darstellung der zuk&#252;nftig geplanten Entwicklung
         <slug></slug>
         <title>Mobile Kartenviewer mit Openlayers 3</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -925,7 +925,7 @@ Weiterer Fokus wird auf der Darstellung der zuk&#252;nftig geplanten Entwicklung
         <slug></slug>
         <title>Mapbender3 - was gibt's Neues im Projekt?</title>
         <subtitle>Neues zum Aufbau von WebGIS Anwendungen mit Mapbender3</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -955,7 +955,7 @@ Mapbender3 bietet eine Benutzer- und Gruppenverwaltung mit der M&#246;glichkeit 
         <slug></slug>
         <title>Vaadin - ein WebMapping Framework</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -982,7 +982,7 @@ Dank Java als Programmiersprache ist die Entwicklung einer Webanwendung sehr ein
         <slug></slug>
         <title>MapFish WebGIS - Projektstand</title>
         <subtitle>Die Pr&#228;sentation gibt eine &#220;bersicht des MapFish WebGIS Frameworks und zeigt dessen M&#246;glichkeiten mit der GeoMapFish Implementierung: ein sehr performantes WebGIS mit zahlreichen Tools und Konfigurationsm&#246;glichkeiten.</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1004,7 +1004,7 @@ Eines der MapFish-Anwendungen wird in der Pr&#228;sentation genauer vorgestellt,
         <slug></slug>
         <title>GIS as a Service</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Bei organisations&#252;bergreifenden Arbeitsgruppen wird die Zusammenarbeit durch den Einsatz von propriet&#228;rer Software oft gehemmt. Eine zentrale GIS-Installation, die vollst&#228;ndig auf Open Source Komponenten aufbaut, kann mit x2go als Terminalserver-L&#246;sung in beliebigen Systemumgebungen zur Verf&#252;gung gestellt werden.</abstract>
@@ -1056,7 +1056,7 @@ am Rande der FOSSGIS Konferenz an der Beuth Hochschule Berlin statt.
         <slug></slug>
         <title>Ern&#228;hrungsfl&#228;che einer Agglomeration</title>
         <subtitle>Ermittlung und Visualisierung des Fl&#228;chenbedarfs zur Ern&#228;hrung der Bev&#246;lkerung einer Agglomeration</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1081,7 +1081,7 @@ Die gesamte Analyse einschliesslich der Visualisierung wurde mit Opensource Komp
         <slug></slug>
         <title>PostGIS in real :-) action</title>
         <subtitle>Bilanzierung von W&#228;ldern mit nat&#252;rlicher Entwicklung in Deutschland</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>In einem deutschlandweiten Projekt wurden Geodaten zu nutzungsfreien Waldfl&#228;chen in PostgreSQL/PostGIS aufbereitet. Arbeitsschritte waren die Transformation in ein einheitliches Koordinatensystem, eine &#220;berlagerungsanalyse und die Abbildung von &#252;berregionalen Daten mit Hilfe von PL/pgSQL-Funktionen.</abstract>
@@ -1103,7 +1103,7 @@ Hintergrund: Die Bundesregierung hat das Ziel formuliert bis zum Stichjahr 2020 
         <slug></slug>
         <title>Daten im Fluss - ein ISK-Projekt im Nationalpark Unteres Odertal</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1129,7 +1129,7 @@ Im Vortrag wird der ISK vorgestellt. Ein Erfahrungsbericht &#252;ber den Projekt
         <slug></slug>
         <title>Kantonales Geoportal GeoView BL</title>
         <subtitle>Weiterentwicklungen</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1161,7 +1161,7 @@ Folgende Punkte werden behandelt:
         <slug></slug>
         <title>GDA Wasser &#8211; ein praktisches Beispiel f&#252;r das komplexe SHOGun-WebGIS Framework</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1193,7 +1193,7 @@ Der Vortrag soll einleitend einen kurzen architektonischen &#220;berblick geben 
         <slug></slug>
         <title>Neue WEB-Anwendungen des Landesamtes f&#252;r Geologie, Rohstoffe und Bergbau (LGRB) Baden-W&#252;rttemberg im &#220;berblick</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Aktuelle Entwicklungen zur Anpassung der WEB-Anwendungen des Landesamtes f&#252;r Geologie, Rohstoffe und Bergbau Baden W&#252;rttemberg an moderne Technologien, spezielle Nutzerw&#252;nsche und Anforderungen &#252;bergeordneter GDI werden in dem Vortrag vorgestellt.</abstract>
@@ -1221,7 +1221,7 @@ Die Kartenviewer-Anwendungen sind f&#252;r die Anzeige in den g&#228;ngigen Desk
         <slug></slug>
         <title>Social Media as Sensors</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Der Beitrag zeigt die Konzeption und Entwicklung eines System, welches die M&#246;glichkeit bietet, Social Media (beispielhaft mit Twitter) und deren Analyse (NLP), als Beobachtungen in einem Sensornetzwerk als SOS zur Verf&#252;gung zu stellen.</abstract>
@@ -1249,7 +1249,7 @@ Der Beitrag fokussiert dabei die Konzeption und Entwicklung eines Systems, welch
         <slug></slug>
         <title>opencaching.de</title>
         <subtitle>Die deutsche Geocaching-Plattform </subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Erfahren Sie, wie Sie mit dem GPS auf Schatzsuche gehen k&#246;nnen. Das facettenreiche Hobby Geocaching spricht verschiedenste Zielgruppen an und die freie Plattform Opencaching.de erm&#246;glicht jedem Interessierten die aktive Mitgestaltung und Weiterentwicklung dieses Hobbys.</abstract>
@@ -1309,7 +1309,7 @@ Wir freuen uns auf die Teilnahme und sagen wie bei uns &#252;blich "bis bald - i
         <slug></slug>
         <title>Open Data und Selbstorganisation</title>
         <subtitle>Von den Public Space Invaders zur Berliner Gartenkarte</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1341,7 +1341,7 @@ Ideellerweise helfen semantische Technologien dabei monistische Theorien durch e
         <slug></slug>
         <title>3D webservices - where do we stand?</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1363,7 +1363,7 @@ Die Pr&#228;sentation wird die erw&#228;hnten Elemente weiter ausf&#252;hren, ei
         <slug></slug>
         <title>Brandenburg 3D - Geologische 3D-Untergrundmodelle im Browser</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1389,7 +1389,7 @@ Dieser Vortrag pr&#228;sentiert die technischen Grundlagen der eingesetzten Arch
         <slug></slug>
         <title>3D City Database v3.0</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1414,7 +1414,7 @@ Der Vortrag wird dieses Mal einige Features live vorf&#252;hren. Wer sich f&#252
         <slug></slug>
         <title>Scientific 3D Printing with GRASS GIS</title>
         <subtitle>A work in progress report</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1472,7 +1472,7 @@ http://trac.wheregroup.com/PostNAS/wiki/PostNASAnwendertreffen2014-03-20
         <slug></slug>
         <title>OpenStreetMap-Daten in der RoboCup Rescue Simulation League</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Die RoboCup Rescue Simulation League ist ein Simulationswettbewerb, bei dem autonome Agenten Katastrophenszenarien bew&#228;ltigen m&#252;ssen. Dieser Vortrag beschreibt, wie wir OpenStreetMap-Daten verwenden, um neue Szenarien f&#252;r die Liga zu erstellen.
@@ -1526,7 +1526,7 @@ auftraten.
         <slug></slug>
         <title>Tatort Niederbayern</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Niederbayerische Mapper berichten aus ihren Ortsgruppen &#252;ber die Zusammenarbeit mit Beh&#246;rden, OpenStreetMap an der Universit&#228;t, Presse- und &#214;ffentlichkeitsarbeit, lokale Aktionen und vieles mehr.</abstract>
@@ -1555,7 +1555,7 @@ Angesichts der Vielzahl interessanter und informativer Themen d&#252;rfte jeder 
         <slug></slug>
         <title>Datenschutz bei der Erhebung und Verarbeitung von geografischen Informationen</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1578,7 +1578,7 @@ Der Vortrag richtet sich sowohl an Mitwirkende des Open Street Map Projektes als
         <slug></slug>
         <title>Revertieren - aber richtig</title>
         <subtitle>Jeder darf in OpenStreetMap alles eintragen. Aber wie wird man es wieder los?</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1600,7 +1600,7 @@ Frederik Ramm kann davon ein Lied singen und behandelt in diesem Vortrag eingehe
         <slug></slug>
         <title>Eine Undo-Logik f&#252;r OpenStreetMap</title>
         <subtitle>M&#246;glichkeiten und Grenzen der Qualit&#228;tssicherung</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract></abstract>
@@ -1626,7 +1626,7 @@ Im zweiten Teil des Vortrages werden wir dann die neue Funktionalit&#228;t der O
         <slug></slug>
         <title>OSM-Stra&#223;enlistenauswertung</title>
         <subtitle>Vorstellung und Auswertungsergebnisse</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Wie gut sind die Stra&#223;ennamen in den deutschen Gemeinden in OSM bereits erfasst? Auf Basis amtlicher Stra&#223;enlisten werden Soll-/Ist Auswertungen erstellt. Helfen die Auswertungen zur beschleunigten Erfassung der noch fehlenden Stra&#223;ennamen?</abstract>
@@ -1673,7 +1673,7 @@ Im zweiten Teil des Vortrages werden wir dann die neue Funktionalit&#228;t der O
         <slug></slug>
         <title>H&#246;henbewusstes Routing mit Radardaten</title>
         <subtitle>Grenzen und Probleme bei 90m-SRTM</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1693,7 +1693,7 @@ Im zweiten Teil des Vortrages werden wir dann die neue Funktionalit&#228;t der O
         <slug></slug>
         <title>OSM-Geocoding mit Solr</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1721,7 +1721,7 @@ Unter www.komoot.de kann *photon* im live Betrieb begutachtet werden, n&#228;her
         <slug></slug>
         <title>Client Side Map Rendering</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Karten f&#252;r das Internet wurden bisher auf dem Server gerendert und als Bild ausgeliefert. Inzwischen k&#246;nnen die Daten aber mit Technologien wie SVG, 2D Canvas oder WebGL auch auf dem Client verarbeitet und angezeigt werden. Internationalisierung und Interaktion kommt dabei nicht zu kurz.</abstract>
@@ -1749,7 +1749,7 @@ It's a long way from the OpenStreetMap world extract to a manageable data size t
         <slug></slug>
         <title>Generalisierung von OpenStreetMap-Daten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Karten auf Basis von OpenStreetMap-Daten sind - wie auch viele andere Internet-Karten - bei geringen Vergr&#246;&#223;erungen oft schlecht lesbar und wenig ansprechend.  Dieser Vortrag erl&#228;utert die Ursachen hierf&#252;r sowie m&#246;gliche Wege, dies durch automatische Generalisierung der Daten zu verbessern.</abstract>
@@ -1774,7 +1774,7 @@ Dieser Vortrag stellt einige Ans&#228;tze f&#252;r die automatische Generalisier
         <slug></slug>
         <title>OpenStreetMap an die (Schul-)Wand h&#228;ngen</title>
         <subtitle>Der Versuch freie Geodaten zur Erstellung von Schullandkarten zu nutzen</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die Daten des OpenStreetMap-Projektes werden bereits vielseitig eingesetzt. Ob sie dazu geeignet sind als Grundlage f&#252;r Wandkarten zu dienen, wird dieser Vortrag diskutieren. </abstract>
@@ -1797,7 +1797,7 @@ Es soll nicht zuviel vorweggenommen werden. Die technischen Anforderungen werden
         <slug></slug>
         <title>Karten auf Stoff: OSM Daten mit OSGeo Software</title>
         <subtitle>Ein kommerzielles Freizeitprodukt auf Basis von Open Data und Open Source Software</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Aus der Kombination von OpenStreetMap mit anderen Open Data Quellen lassen sich hervorragende Produkte erzeugen. Am Beispiel von SplashMaps werden technische M&#246;glichkeiten mit Open Source Software vorgestellt und Lizenzfragen gekl&#228;rt.</abstract>
@@ -2265,7 +2265,7 @@ Neben den ersten Schritten mit GeoKettle wie "Kennenlernen der Benutzeroberfl&#2
         <slug></slug>
         <title>geOrchestra INSPIRE GDI</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2299,7 +2299,7 @@ Dieser Vortrag wird das geOrchestra Community Projekt beschreiben und den aktuel
         <slug></slug>
         <title>Geodateninfrastruktur Rheinland-Pfalz INSPIREd</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Im Vortrag werden die Konzepte und Prinzipien der Umsetzung der EU-INSPIRE Richtlinie im GeoPortal.rlp anhand praktischer Beispiele vorgestellt. Die zugrundeliegende Umsetzungsstrategie macht Rheinland-Pfalz derzeit EU-weit zum gr&#246;&#223;ten Datenanbieter.</abstract>
@@ -2324,7 +2324,7 @@ Im Vortrag werden die zugrundeliegenden Prinzipien der INSPIRE-Umsetzung kurz er
         <slug></slug>
         <title>Moderne Geodatenbereitstellung im Kontext der europ&#228;ischen Geodateninfrastruktur INSPIRE</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Der Vortrag behandelt aktuelle technische Entwicklungen bei der Umsetzung von INSPIRE-konformen Netzdiensten. Folgende Themenschwerpunkte sind vorgesehen: OGC WMTS 1.0, OGC WFS 2.0 (u. a. UMN MapServer), INSPIRE Pre-defined Atom-Feeds.</abstract>
@@ -2353,7 +2353,7 @@ INSPIRE-Downloaddienste k&#246;nnen &#8211; neben der Verwendung in klassischen 
         <slug></slug>
         <title>Hochgenaue Zeit- und Positionsbestimmung</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Eine Einf&#252;hrung in die Funktionsweise von Satellitenpositionsbestimmung mit interessanten und spannenden Details, die auch die Relevanz hochgenauer Positionsbestimmung f&#252;r OpenStreetMap nicht vermissen l&#228;sst.</abstract>
@@ -2390,7 +2390,7 @@ anhand m&#246;glicher Anwendungen aufgezeigt und vorgestellt.</description>
         <slug></slug>
         <title>Open-Source-Software &#8222;survey2GIS"</title>
         <subtitle>A flexible solution for the transfer of survey data into GIS /Eine flexible L&#246;sung f&#252;r den Transfer von Vermessungsdaten ins GIS</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2417,7 +2417,7 @@ Dabei steht die erste Version 1.x von surveying sowohl als eigenst&#228;ndige So
         <slug></slug>
         <title>Einsatzm&#246;glichkeiten von Open Source GIS im Geomarketing</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Einsatzm&#246;glichkeiten von Open Source GIS im Geomarketing
@@ -2446,7 +2446,7 @@ Der Beitrag soll die Einsatzm&#246;glichkeiten von Open Source GIS im Geomarketi
         <slug></slug>
         <title>JasperReports als Reporting-Werkzeug f&#252;r QGIS</title>
         <subtitle>Vorstellung der ben&#246;tigten Komponenten und Workflow zur Reporterzeugung in einem LAN</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>GIS-Anwender w&#252;nschen sich h&#228;ufig Datenbl&#228;tter, die Tabelleninformationen zu einem Geoobjekt in einer les- und ausdruckbaren Form zusammenfassen. Der Vortag zeigt, wie aus QGIS heraus in einem LAN pdf-Dokumente mit dem Reporting-Werkzeug JasperReports erzeugt werden k&#246;nnen.</abstract>
@@ -2467,7 +2467,7 @@ Der Vortag zeigt, wie aus QGIS heraus mittels Python in einem LAN pdf-Dokumente 
         <slug></slug>
         <title>Maps for ESA</title>
         <subtitle>ESA User Services powered by Open Data &amp; Open Source</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Open Data (z.B. OpenStreetMap, EU-DEM und GlobCover) und Open Source Software wie MapCache, EOxServer, MapServer und GDAL bilden die Basis f&#252;r Karten der neuen Benutzerdienste der Europ&#228;ischen Weltraumorganisation (ESA).</abstract>
@@ -2487,7 +2487,7 @@ Der Vortag zeigt, wie aus QGIS heraus mittels Python in einem LAN pdf-Dokumente 
         <slug></slug>
         <title>geoCRE - eine kollaborative Forschungsumgebung zur Verwaltung r&#228;umlicher Daten</title>
         <subtitle>Entwicklung einer webbasierten kollaborativen Forschungsumgebung zur Verwaltung r&#228;umlicher Daten auf Basis freier Software</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Zur kollaborativen Verwaltung raumbezogener Daten wurde an der Physischen Geographie der Uni Freiburg ein webbasiertes Tool auf Basis freier Software entwickelt. Dieser Vortrag soll Einblicke in die Technik geben und Praxiserfahrungen in aktuellen Forschungsprojekten vermitteln.</abstract>
@@ -2509,7 +2509,7 @@ Die Webapplikation besteht aus einem in der Skriptsprache PHP geschriebenen Haup
         <slug></slug>
         <title>GeoNode2.0 als Geoportall&#246;sung f&#252;r das EU-Projekt CLIMB</title>
         <subtitle>Ein Erfahrungsbericht</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2532,7 +2532,7 @@ Dieser Beitrag schildert die Erfahrungen mit GeoNode2.0 als Geoportall&#246;sung
         <slug></slug>
         <title>OpenSeaMap</title>
         <subtitle>OpenData - Erfahrungen mit Beh&#246;rden, international</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2565,7 +2565,7 @@ Manchmal steckt der Teufel im Detail... ;-)</description>
         <slug></slug>
         <title>Open Geodata f&#252;r Ulm - ein Ansatz f&#252;r das Crowdsourcing von Geodaten auch f&#252;r nicht OSM'ler</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2590,7 +2590,7 @@ Dieser Vortrag soll einen Ausblick &#252;ber verwendete Techniken und Ideen zur 
         <slug></slug>
         <title>enviroCar - Crowdsourcing zur Erhebung von Verkehrsdaten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>In diesem Vortrag wird das 52&#176;North enviroCar-Projekt (enviroCar.org) vorgestellt. Ziel ist die Entwicklung einer offenen Crowdsourcing-L&#246;sung, um in Fahrzeugen verf&#252;gbare Messdaten (z.B. Verbrauch) f&#252;r weitere Analysen zu erschlie&#223;en (z.B. Umwelt-Monitoring).</abstract>
@@ -2613,7 +2613,7 @@ Neben konzeptionellen Aspekten (insbesondere Architektur und Datenschutz) stellt
         <slug></slug>
         <title>OpenStreetMap bei Toll Collect</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -2637,7 +2637,7 @@ F&#252;r zahlreiche Anwendungsf&#228;lle der Toll Collect haben sich die Daten d
         <slug></slug>
         <title>Die Einsatzkarte</title>
         <subtitle>eine interaktive Karte f&#252;r freiwillige Rettungskr&#228;fte</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
