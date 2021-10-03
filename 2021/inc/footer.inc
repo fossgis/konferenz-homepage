@@ -1,7 +1,7 @@
 <footer>
 	<ul class="main">
 		<li>
-			<a href="http://www.fossgis.de/impressum.html">Impressum</a>
+			<a href="https://www.fossgis.de/impressum/">Impressum</a>
 		</li>
 		<li>
 			<a href="./agb.php">AGB</a>

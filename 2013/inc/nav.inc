@@ -11,7 +11,7 @@
                     <li id="navAnreise">
                         <a href="anreise/">Anreise &amp; Unterkunft</a>
                     </li>
-                    <li><a href="http://www.fossgis.de/impressum.html">Impressum</a></li>
+                    <li><a href="https://www.fossgis.de/impressum/">Impressum</a></li>
                     <li class="twitter">
                       Folgen sie uns auf <a class="twLink" href="http://twitter.com/fossgis2013">Twitter</a>
                       Hashtag: <a href="https://twitter.com/#!/search?q=%23fossgis2013">#fossgis2013</a>

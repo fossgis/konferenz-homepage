@@ -109,7 +109,7 @@
 
                 </div>
             </div>
-			<footer>Website by <a href="http://oliverroick.de/">Oliver Roick</a> &bull; <a href="http://www.fossgis.de/impressum.html">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
+			<footer>Website by <a href="http://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>
