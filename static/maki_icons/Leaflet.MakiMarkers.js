@@ -98,7 +98,7 @@
       }
 
       options.iconUrl = "" + L.MakiMarkers.apiUrl + pin +  ".png";
-      options.iconRetinaUrl = L.MakiMarkers.apiUrl + pin + "@2x.png";
+//      options.iconRetinaUrl = L.MakiMarkers.apiUrl + pin + "@2x.png";
     }
   });
 
