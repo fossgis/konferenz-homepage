@@ -66,7 +66,7 @@ Lightning Talks:
         <slug>http://metaspatial.net/conferences/fossgis2013_open.html</slug>
         <title>Open Standards, Open Source, Open Data: Zuviel des Guten?</title>
         <subtitle>Wie die verschiedenen Aspekte von Offenheit zusammenpassen.</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Foliensatz ist Online erreichbar:
@@ -108,7 +108,7 @@ Im Grunde stimmt es also doch: Alles offen, alles gut. Man muss nur wissen wie.<
         <slug></slug>
         <title>Offene Standards und Freie Software &#8211; Zusammenspiel, Entwicklungen, Unterschiede</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>&#196;hnlich wie die immer wiederkehrenden Fragen nach &#8222;Was ist Freie Software?&#8220;, &#8222;Was ist Open Source Software?&#8220;, &#8222;Was ist die OSGeo?&#8220; gibt es immer wieder Fragen wie &#8222;Was ist das OGC?&#8220;, &#8222;Wie entsteht ein Standard?&#8220;, &#8222;Wie kann ich mich beim OGC einbringen?&#8220;. Daher ist der Vortrag als Grundlagenvortrag gedacht, der aber auch Ausblick auf aktuelle Entwicklungen im OGC gibt.</abstract>
@@ -144,7 +144,7 @@ Links:
         <slug></slug>
         <title>OSGeo-Live rocks!</title>
         <subtitle>Einblick in ein erfolgreiches Community-Projekt</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Das Projekt OSGeo-Live gew&#228;hrt einen umfassenden &#220;berblick &#252;ber freie und offene GIS-Software und GeoDaten
@@ -176,7 +176,7 @@ Auch auf der **FOSSGIS Konferenz 2013** kommt die OSGeo-Live in den Workshops zu
         <slug></slug>
         <title>Kollaboration um ein Open-Source generisches Mapping System</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Seit zwei Jahren sind mehrere Projekte um Open-Source Mapping in der Westschweiz entstanden. Anstatt einzelne Projekte zu entwickeln, wurde schnell klar, dass diese Kosten und Entwicklungen geteilt werden mussten, wodurch ein generisches und h&#246;chst konfigurierbares System gemeinsam entwickelt wurde. Sei es Kantonen, St&#228;dte, &#246;ffentliche Vereinigungen oder sogar private Unternehmen, die Partner m&#252;ssen die F&#228;higkeit haben dieses System an ihre Bed&#252;rfnisse zu adaptieren. Seit zwei Jahren haben die verschiedenen Partner zwei Entwicklungzyklen in Auftrag gegeben. Die Server-Seite des Systems wird durch Pyramid (Python Webframework), MapFish, MapFish-print und MapServer angetrieben. Die Konfiguration der Layer und Themen des Geoportals ist in einer PostGIS Datenbank abgelegt und mit einem Administrationsystem konfigurierbar. Auf der Clientseite werden nur Javascript und HTML-Komponenten verwendet. Eine High-Level-Bibliothek wurde entwickelt namens CGXP. Die gr&#246;&#223;te Herausforderung und einmalige Erfahrung ist die Gruppierung der verschiedenen Teilnehmer mit sehr unterschiedlichen Bed&#252;rfnissen.
@@ -200,7 +200,7 @@ Dieser Vortrag wird erl&#228;utern, wie diese User Gruppe zu Stande gekommen ist
         <slug></slug>
         <title>OpenTopoMap</title>
         <subtitle>topographische Karten aus OpenStreetMap</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Das Projekt OpenTopoMap stellt eine Karte aus den Daten der OpenStreetMap zur Verf&#252;gung, welche sich am Stil der amtlichen topographischen Karten der deutschen Landesvermessung orientiert. Eine Verf&#252;gbarkeit f&#252;r ganz Europa ist angestrebt.
@@ -222,7 +222,7 @@ OpenTopoMap arbeitet eng mit der Universit&#228;t Erlangen-N&#252;rnberg zusamme
         <slug></slug>
         <title>Datenqualit&#228;t von OSM in der Schweiz</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type></type>
         <language>de</language>
         <abstract> Eine immer wiederkehrende Frage ist, wie gut sind die OSM Daten? Dieser Vortrag soll einige Aspekte der Qualit&#228;t und Vollst&#228;ndigkeit der OSM Daten in der Schweiz beleuchten. Die Schweiz ist kein grosses Land, und trotzdem zeigt sich die f&#252;r OSM typische grosse Bandbreite: Es gibt sehr detailliert gemappten Gebiete, aber auch solche, wo erst das Hauptstrassennetz und ein paar von Luftbildern mit schlechter Aufl&#246;sung abgezeichnete W&#228;lder verf&#252;gbar sind.
@@ -244,7 +244,7 @@ Im Vortrag wird f&#252;r einige ausgew&#228;hlte Aspekte versucht eine quantitat
         <slug></slug>
         <title>Das OpenStreetMap-Datenmodell</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Auf den ersten Blick scheint OpenStreetMap ein sehr einfaches Datenmodell zu benutzen. Es gibt Nodes, Ways und Relations mit freien Tags. Das war es schon.  Aber wenn man etwas genauer schaut, dann findet man hinter diesem einfachen Grundmodell ein komplexes Gebilde von Konventionen, die manchmal dokumentiert sind, vielfach aber nur in den K&#246;pfen der Mapper existieren. Daneben f&#252;hrt die Interpretation der Daten durch vorhandene Software vielfach zu weiteren Regeln, die man eigentlich dem Datenmodell zuordnen muss.  All dies f&#252;hrt zu einem ziemlich komplexen Datenmodell, dass jeder verstanden haben muss, der intensiver mit OSM-Daten arbeitet. Die simple Welt der OSM-Grundobjekte mit ein paar Tags ist eine Illusion.
@@ -267,7 +267,7 @@ Der Vortrag zeigt anhand der existierenden OSM-Daten, welche Einfl&#252;sse unse
         <slug></slug>
         <title>Wer ist der Boss bei OpenStreetMap?</title>
         <subtitle>Meinungsbildung und Entscheidungsfindung in einem offenen Projekt</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>F&#252;r Aussenstehende - und selbst f&#252;r viele aktive Mapper - ist es nicht immer ganz klar, wohin sich das Schiff OpenStreetMap bewegt und wie man vielliecht ein kleines bisschen Einfluss auf den Kurs nehmen kann. Es gibt eine OpenStreetMap Foundation, Working Groups, Local Chapters, und eine riesige Community, die von Organisation relativ wenig wissen will. Es gibt Entwickler, die tun was sie wollen, und andere Entwickler, die im Auftrag von kommerziellen oder nichtkommerziellen Organisationen an OSM mitarbeiten. 
@@ -290,7 +290,7 @@ Dieser Vortrag soll einen &#220;berblick &#252;ber die vorhandenen und fehlenden
         <slug></slug>
         <title>Atlas der Schweiz &#8211; online</title>
         <subtitle>3D Visualisierung von Geodaten in Echtzeit</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Digitale Atlanten und damit auch der ATLAS DER SCHWEIZ m&#252;ssen neue Wege einschlagen, um gegen&#252;ber frei verf&#252;gbaren, kostenlosen Kartendiensten, Geo&#172;portalen und Virtuellen Globen konkurrenzf&#228;hig zu bleiben. Eine Analyse dieser Geovisualisierungsprodukte hat gezeigt, dass die Mehrzahl der Anwendungen prim&#228;r f&#252;r den Einsatz im Web konzipiert ist. Die Attraktivit&#228;t solcher Produkte basiert auf dem unmittelbaren Nutzen im Alltag, der Aktualit&#228;t der Daten und den integrativen M&#246;glichkeiten. Anwen&#172;dungen auf der Basis von Virtuellen Globen bestechen zudem durch die intuitiv navigierbare Drei-dimensionalit&#228;t. Die inhaltliche und kartografische Qualit&#228;t dieser Appli&#172;ka&#172;tionen ist hingegen sehr heterogen; oft fehlt auch eine atlasspezifische Funktionalit&#228;t.
@@ -310,7 +310,7 @@ Der Vortrag zeigt anhand von Beispielen und einer Life-Demo unseres online 3D-At
         <slug></slug>
         <title>Rendering und Bereitstellung massiver Geodaten unter Verwendung von OpenWebGlobe und MapCache in der Cloud</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Dieser Beitrag befasst sich mit der Aufbereitung, Speicherung, Bereitstellung und Nutzung von globalen Geodaten. Unter Verwendung der Technologien OpenWebGlobe und MapCache wird eine Architektur und eine Implementierung eines Dienstes zum Betrieb eines Geobrowsers mit globalen Daten in einer Web-Cloud Umgebung vorgestellt.</abstract>
@@ -331,7 +331,7 @@ Eine speichereffiziente cloud-basierte Datenaufbereitung und Bereitstellung der 
         <slug></slug>
         <title>3D-SlippyMap</title>
         <subtitle>Rendering einer 3D-Deutschland-Karte mit Hilfe von OSM2World</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Die Darstellung von OpenStreetMap-Daten in Webseiten geschieht in den sogenannten Slippymaps. Diese Javascript-Anzeige holt sich dabei dynamisch die anzuzeigenden Kacheln von einem Server. Je nach Kartenart und Stil sind dies unterschiedliche Dienste. So auch die OSM2World-Karte, eine 3D-Darstellung von Deutschland.
@@ -354,7 +354,7 @@ Was aber, wenn das verwendete Renderprogramm zu langsam f&#252;r einen Livebetri
         <slug></slug>
         <title>Flexibles System zur geostatistischen Visualisierung</title>
         <subtitle>am Beispiel von &#8222;Personalized&#160;Pollen&#160;Profiling&#8220; Daten</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>In diesem Beitrag soll ein System vorstellt werden, welches eine einfache und flexible Visualisierung von geostatistischen Analysen erm&#246;glicht.&#160;Beispielhaft soll die Anwendung &#160;anhand von &#8222;Personalized&#160;Pollen&#160;Profiling&#8220; Daten dargestellt werden. Die Daten repr&#228;sentieren Informationen zu Pollen,&#160;welche durch ein Ger&#228;t,&#160;welches der Patient am K&#246;rper tr&#228;gt,&#160;aufgenommen werden. Diese werden&#160;anschlie&#223;end&#160;automatisch klassifiziert und k&#246;nnen anhand der Metainformation&#160;des Ger&#228;tes r&#228;umlich zugeordnet werden. Die so gewonnenen Messwerte sollen dann geostatistisch visualisiert werden.
@@ -482,7 +482,7 @@ Node.js.</abstract>
         <slug></slug>
         <title>Neuentwicklungen in Quantum-GIS</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Das QGIS Projekt hat letzten Sommer die Version 1.8 ver&#246;ffentlicht. Da QGIS eine &#228;usserst aktive Entwicklergemeinschaft hat, hat sich seit 1.8 bereits viel getan. Dieser Vortrag zeigt die wichtigsten Neuerungen und gibt einen Ausblick auf die zuk&#252;nftige Version 2.0.</abstract>
@@ -500,7 +500,7 @@ Node.js.</abstract>
         <slug></slug>
         <title>QGIS-Eingabemasken f&#252;r PostGIS-Layer leicht gemacht</title>
         <subtitle>Das QGIS-Plugin DataDrivenInputMask</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>In relationalen Datenbanken k&#246;nnen komplexe Sachverhalte konsistent und redundanzfrei gespeichert werden. Da sie auch Geometrien speichern k&#246;nnen, bieten sie sich als zentrale Datenspeicher f&#252;r Geodateninfrastrukturen an. Sie erm&#246;glichen es auch, komplexere Sachverhalte und Abl&#228;ufe zu modellieren, weshalb zu einzelnen Geometrieobjekten h&#228;ufig eine Vielzahl von Sachdaten gespeichert wird. Selbst bei an sich einfachen Sachverhalten sind als Folge der Normalisierung meistens mehrere Tabellen mit Beziehungen unterschiedlicher Kardinalit&#228;t beteiligt. 
@@ -521,7 +521,7 @@ Die Funktionalit&#228;t steht als eigenes Plugin zur Verf&#252;gung, kann aber a
         <slug></slug>
         <title>Das QGEP Abwasser Projekt</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Das QGEP-Projekt hat das Ziel auf Basis von QGIS eine Fachschale f&#252;r die Bereiche Abwasser und GEP (Genereller Entw&#228;sserungsplan) zu erstellen. Die Pr&#228;sentation berichtet &#252;ber den Projektstand, die Probleme und L&#246;sungsans&#228;tze. Da QGEP vermutlich eine der ersten gr&#246;sseren Fachschalen auf Basis von QGIS ist, m&#252;ssen einige Probleme im QGIS-Kern gel&#246;st werden. Diese Entwicklungen kommen dann der generellen Fachschalenentwicklung unter QGIS zugute.</abstract>
@@ -563,7 +563,7 @@ Links
         <slug></slug>
         <title>Geoprozessierung mit Open-Source Desktop GIS </title>
         <subtitle>gvSIG CE, SEXTANTE und GRASS GIS</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mit mehreren hundert Modulen zur Geoprozessierung geh&#246;rt gvSIG CE zu den leistungsf&#228;higsten Desktop-GIS auf dem Gebiet der Geodatenverarbeitung und -analyse. Diese umfassende Funktionalit&#228;t ist zum Teil in gvSIG CE selbst implementiert, wird aber zum gr&#246;&#223;ten Teil &#252;ber die Erweiterung SEXTANTE zur Verf&#252;gung gestellt, welche ihrerseits wiederum Konnektoren f&#252;r externe Prozessoren wie GRASS GIS und SAGA GIS zur Verf&#252;gung stellt. Diese mehrschichtige Architektur f&#252;hrt einerseits zu enormer Vielseitigkeit und Flexibilit&#228;t bei der Datenprozessierung, andererseits aber auch zu einer gewissen &#220;berlappung zwischen Modulen, deren einzelne Vor- und Nachteile sich dem Benutzer nicht immer unmittelbar erschlie&#223;en.
@@ -582,7 +582,7 @@ Zwar werden die Besonderheiten der Datenhaltung von Systemen wie GRASS GIS so gu
         <slug></slug>
         <title>Im- und Export von dxf-Daten mit OGR</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Eines der gebr&#228;uchlichsten Formate f&#252;r den Austausch von r&#228;umlichen Inhalten ist das &#8220;drawing interchange format&#8221; kurz dxf.Format. Insbesondere wenn f&#252;r die weitere Verwendung der Geodaten ein CAD vorgesehen ist, ist dxf das Format der Wahl.
@@ -612,7 +612,7 @@ Das hier beschriebene Verfahren wird &#252;ber Befehlszeilenkommandos gesteuert.
         <slug></slug>
         <title>Netzwerkanalysen mit GRASS GIS</title>
         <subtitle>Ein praktischer &#220;berblick</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Nahezu jede GIS-Anwendung bietet mittlerweile M&#246;glichkeiten der Netzwerkanalyse auf Basis von Vektordaten.
@@ -634,7 +634,7 @@ Der Vortrag soll anhand von Beispielen einen Einblick in die M&#246;glichkeiten 
         <slug></slug>
         <title>MATSim: Open-Source-Verkehrssimulation mit offenen Daten</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Simulationen sind ein wichtiges Hilfsmittel f&#252;r die Entscheidungsfindung in der Verkehrsplanung. Allerdings sind sie &#228;u&#223;erst datenhungrig, und die Beschaffung und Nutzbarmachung propriet&#228;rer Daten ist zeitaufw&#228;ndig und teuer, weswegen die Erforschung alternativer, insbesondere offener Datenquellen wichtig ist. 
@@ -659,7 +659,7 @@ In dem Vortrag erkl&#228;re ich, wie planerische Verkehrssimulationen mit der Si
         <slug></slug>
         <title>Bereitstellung hochaufgel&#246;ster Wettervorhersagen f&#252;r Geoportale</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>In dem Beitrag wird gezeigt, wie auf der Grundlage frei verf&#252;gbarer meteorologischer Rohdaten r&#228;umlich und zeitlich hochaufgel&#246;ste Vorhersagekarten f&#252;r verschiedene Wetterph&#228;nomene bereitgestellt und in Geoportalen genutzt werden k&#246;nnen. Der gesamte Workflow ist mit FOSS realisiert.
@@ -681,7 +681,7 @@ Die Autoren sind keine Meteorologen, sondern bzgl. Wetterprognosen lediglich &#8
         <slug></slug>
         <title>OpenLayers 3</title>
         <subtitle>Was ist neu und wie finanziert sich OpenLayers 3</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>OpenLayers ist eine der bekanntesten OpenSource WebGIS-Clientbibliotheken.... (folgt!)</abstract>
@@ -699,7 +699,7 @@ Die Autoren sind keine Meteorologen, sondern bzgl. Wetterprognosen lediglich &#8
         <slug></slug>
         <title>Wie wird ein Geoportal der Verwaltung genutzt?: Metrik der Dienste von geo.admin.ch </title>
         <subtitle>Spagat zwischen Feature Creep und Nutzererwartungen</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>In den drei Jahren Betrieb haben sich die Dienste von geo.admin.ch, dem Geoportal des Bundes, bei weiten Teilen der Bev&#246;lkerung etabliert. Erwartungen der Endnutzer als auch die Anforderungen an das verwendete OpenSourceFramework und der Lizenzbedingungen der Daten waren und sind die Hauptherausforderung:
@@ -740,7 +740,7 @@ Links: www.geo.admin.ch /map.geo.admin.ch/</abstract>
         <slug></slug>
         <title>Umstellung auf bzw. Einsatz von FOSSGIS in der Vorarlberger Landesverwaltung: Technische Betrachtung</title>
         <subtitle>Eine Kombination aus Einsatz und Erfolg</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Abstract:
@@ -769,7 +769,7 @@ Es k&#246;nnen folgende Eckpunkte zusammengefasst werden:
         <slug></slug>
         <title>FOSS-GIS im Kanton Basel-Landschaft</title>
         <subtitle>ein Erfahrungsbericht</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die GIS-Fachstelle Basel-Landschaft begann im Jahr 2010 die Suche nach einer neuen GIS-Infrastruktur. Diese sollte sowohl ein neues Web-GIS wie auch Anbindungsm&#246;glichkeiten f&#252;r die im Kanton bestehenden Desktop-GIS beinhalten. Nach einem ausf&#252;hrlichen Evaluierungsprozess fiel der Entscheid zugunsten von OpenSource. Speziell auf das c2cgeoportal. Nach mehr als 2 Jahren und bereits einiger Zeit in produktivem Betrieb von GeoViewBL, kann die GIS-Fachstelle r&#252;ck- und vorw&#228;rtsgewandt Einblick in dieses Projekt und in Erfahrungen geben.</abstract>
@@ -787,7 +787,7 @@ Es k&#246;nnen folgende Eckpunkte zusammengefasst werden:
         <slug></slug>
         <title>Von Vektordaten zum Rasterkartenwerk mit QGIS Server</title>
         <subtitle>Erfahrungsbericht &#252;ber die automatisierte Erstellung des Basisplans der amtlichen Vermessung</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Die Schweizer Kantone erstellen den sogenannten Basisplan der amtlichen Vermessung, ein Rasterkartenwerk in den Massst&#228;ben 1:5000 und 1:10&#8216;000, das automatisch aus den Vektordaten der amtlichen Vermessung generiert und regelm&#228;ssig neu erstellt wird. Der Kanton Solothurn setzt hierzu QGIS Server und GDAL ein. Der Vortrag beschreibt das gew&#228;hlte Vorgehen und geht auf die besonderen Herausforderungen ein, die dabei auftraten.
@@ -814,7 +814,7 @@ Mit dem beschriebenen Vorgehen konnte das Planwerk erfolgreich realisiert werden
         <slug></slug>
         <title>GeoPackage, das Shapefile der Zukunft</title>
         <subtitle>Der kommende OGC Standard f&#252;r den Datenaustausch</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der GeoPackage-Standard ist im Januar 2013 vom OGC als Draft ver&#246;ffentlicht worden. Er vereint die Speicherung von Vektor- und Rasterdaten im verbreiteten SQLite DB-Fileformat. Vektoren werden im SpatiaLite-Format und Rasterdaten wie MBTiles gespeichert. Der kommende Standard und m&#246;gliche Anwendungen werden im Detail vorgestellt.</abstract>
@@ -837,7 +837,7 @@ Mit dem beschriebenen Vorgehen konnte das Planwerk erfolgreich realisiert werden
         <slug></slug>
         <title>Werkzeuge zur Nutzung von OpenStreetMap-Daten in GIS</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Das Wikipedia-&#228;hnliche OpenStreetMap-Projekt (OSM) liefert Geodaten mit grossem Detailreichtum. Die OSM-Daten erg&#228;nzen damit beh&#246;rdliche Geodaten u.a. mit Restaurants, Rastpl&#228;tzen oder Aussichtspunkte. Doch viele wissen nicht, wie das OSM-Objektmodell aufgebaut ist, wie man OSM-Daten durchsucht oder k&#246;nnen mit dem XML-Rohdatenformat von OpenStreetMap nichts anfangen. 
@@ -861,7 +861,7 @@ S&#228;mtliche gezeigten Software-Werkzeuge sind Open Source. Am Schluss kommen 
         <slug></slug>
         <title>OSM Daten und MariaDB / MySQL</title>
         <subtitle>Verbesserungen in aktuellen Releases </subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Aktuelle MariaDB- und MySQL-Versionen bieten deutliche Verbesserungen gegen&#252;ber der bisherigen GIS Implementation die bis einschlie&#223;lich MySQL 5.5 im Einsatz war. Erstmals sind so zum Beispiel echte r&#228;umliche Relationen wie "ist enthalten in" oder "&#252;berlappt mit" m&#246;glich statt nur vereinfacht auf die Bounding Boxen (MBR - Minimal Bounding Rectangle") der einzelnen Geometrien zur&#252;ckzugreifen. 
@@ -885,7 +885,7 @@ Im Anschlu&#223; wird eine f&#252;r das MySQL API angepasste Version des OSM Imp
         <slug></slug>
         <title>Kort</title>
         <subtitle>Gamified Mobile App f&#252;r die Verbesserung von OpenStreetMap</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Da OpenStreetMap ein freies Projekt, welches es jedermann erm&#246;glicht, Kartendaten zu nutzen und zu editieren, ist es nicht ausgeschlossen, dass fehlerhafte bzw. unvollst&#228;ndige Daten eingetragen werden. Es gibt verschiedene Tools, die es sich zum Ziel gesetzt haben, solche Fehler zu &#64257;nden und aufzubereiten. Die so aufbereiteten Daten mussten bisher anschliessend manuell verglichen und korrigiert werden.
@@ -912,7 +912,7 @@ Mit Kort[2] soll das Verbessern von Karten-Daten auf unterhaltsame Weise erm&#24
         <slug></slug>
         <title>Effizientes Mappen von Hausnummern</title>
         <subtitle>Keypad-Mapper 3 in der Praxis</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Von den 30 Millionen Adressen in Deutschland sind derzeit in OSM nur ca. 10% erfasst. In anderen L&#228;ndern ist der Anteil meist noch geringer.
@@ -960,7 +960,7 @@ Seiteneffekt: Beitrag zum OpenSource Projekt opencellid.org
         <slug></slug>
         <title>Semi-automatische Adressdatenerfassung</title>
         <subtitle>Erfassung von georeferenzierten Adressdaten aus Fotos von Smartphones unter Einbezug von OSM</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Das Projekt OpenAddresses (OA) wurde im Jahr 2007 konzipiert, gestartet und seither permanent weiterentwickelt. OA erm&#246;glicht das Erfassen von geokodierten Adressen &#252;ber eine Web-Anwendung. Geokodierte Adressen sind ein wichtiger Bestandteil einer Geodateninfrastruktur und dienen zahlreichen Anwendungen als wichtige Ortsinformation. OA erlaubt die erfassten Daten kostenlos herunterzuladen und sie zu verwenden. OA verwendet als Hintergrunddaten OpenStreetMap (OSM) Daten und ist seit einiger Zeit bestrebt, eine m&#246;glichst aktuelle Synchronisation zur OSM-Datenbank herzustellen.
@@ -983,7 +983,7 @@ Nebst der Browseranwendung wird im Beitrag auch auf die Qualit&#228;t dieses Ans
         <slug></slug>
         <title>Open Street Map in Freiheit erstarrt?</title>
         <subtitle>Gedanken zur Fortentwicklung durch die Community</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Einer der hergebrachten Grunds&#228;tze bei OpenStreetMap ist es, dass jeder alles so eintragen darf, wie er es f&#252;r richtig h&#228;lt, wenn der dabei nur auf automatische Edits verzichtet. Trotz dieser immensen Freiheit, die dem Einzelnen zugestanden wird hat jeder aktive Mitwirkende schon Augenblicke der Frustration erlebt, wenn &#252;ber Taggingprobleme auf Mailinglisten beziehungsweise in Foren endlos diskutiert werden, ohne schlie&#223;lich greifbare Ergebnisse zu liefern. Man denke auch an den &#196;rger und Zeitaufwand, den es bedeuten kann, wenn man im Wiki &#196;nderungen an bestehenden Artikeln vornimmt oder versucht via Proposal ein neues Tag zu etablieren.
@@ -1003,7 +1003,7 @@ Der Beitrag setzt sich zun&#228;chst analytisch mit den Ursachen solcher Situati
         <slug></slug>
         <title>overpass turbo</title>
         <subtitle>Einfache Analyse von OpenStreetMap Daten</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die Overpass API hat sich als ein sehr hilfreiches Werkzeug herausgestellt, wenn es darum geht, die enormen Datenmengen von OpenStreetMap zu durchforsten und zu analysieren. Die von Roland Olbricht entwickelte Overpass API ist schnell, verf&#252;gbar und durch ihre spezielle Abfragesprache sehr flexibel wenn es darum geht, Daten zu filtern. Sie konnte aber lange Zeit ihre St&#228;rken nicht voll ausspielen, da es f&#252;r die API keine einfache, schnelle und effiziente &#8211; kurz gesagt benutzerfreundliche &#8211; grafische Oberfl&#228;che gab.
@@ -1028,7 +1028,7 @@ In disem Vortrag werden anhand von einigen Beispielen verschiedene Anwendungsf&#
         <slug></slug>
         <title>Mobile Karten erstellen mit OSM, OpenLayers und Overpass API</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mit OpenStreetMap stehen nicht nur freie Daten zur Verf&#252;gung, sondern wegen der hervorragenden Community decken diese auch ein sehr breites thematisches Spektrum ab, und sie erreichen dabei eine Aktualit&#228;t, die sich eher in Tagen und Stunden als Monaten und Jahren bemisst.
@@ -1051,7 +1051,7 @@ Anhand einer Beispielkarte werden die M&#246;glichkeiten erl&#228;utert: Es wird
         <slug></slug>
         <title>GIS basierte, automatisierte Analyseketten als Grundlage f&#252;r r&#228;umliche Energiekonzepte</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Im Zuge der im Jahr 2011 eingeleiteten &#8222;Energiewende&#8220; wird vor allem im l&#228;ndlichen Raum eine Verlagerung von der zentralistischen zu einer dezentralen, regenerativen Energieerzeugung stattfinden. Durch den Aufbau dezentraler Versorgungs- und Erzeugungsstrukturen bieten sich in peripheren als auch in strukturschwachen Regionen die M&#246;glichkeiten, aus der Errichtung und dem Betrieb von regenerativen Anlagen - beispielsweise aus Bio- oder Solarenergie &#8211; regionale, &#246;kologische und &#246;konomische Wertsch&#246;pfungseffekte zu erzielen. Mit der vielseitigen Inanspruchnahme von Fl&#228;chen, Nutzungskonkurrenzen und einer Reihe von Raumimplikationen profiliert sich dieser Planungs- und Entwicklungsprozess - insbesondere auf regionaler Ebene - zu einer wesentlichen Komponente in der Raumentwicklung. Zudem sind informelle Konzepte und formelle Planungen erforderlich, um bei der Realisierung von Projekten zwischen den klima- und energiepolitischen Zielen und wirtschaftlichem Investitionsdruck einerseits, sowie Raumvertr&#228;glichkeit und Akzeptanz in der &#214;ffentlichkeit andererseits einen Ausgleich zu schaffen. Die Geoinformatik, als interdisziplin&#228;res Fachgebiet, kann in diesem Kontext eine bedeutende Rolle spielen. Als technologischer Begleiter der Energiewende er&#246;ffnet sich dabei ein wachsendes Anwendungsspektrum. Mittels GIS basierten, automatisierten Analyseketten lassen sich Restriktionen, sowie Potenzial- und Bedarfsfl&#228;chen auf kommunaler Ebene geb&#252;ndelt auswerten und deutschlandweit transparent vergleichen. In Projekten an der Hochschule Anhalt zeigt sich, dass selbst frei verf&#252;gbare Daten (OpenStreetMap, EEG-Anlagenstammdaten und CORINE Landnutzungsdaten) und Software (gvSIG/QGIS in Verbindung mit der Sextante Toolbox) aussagekr&#228;ftige Ergebnisse f&#252;r eine grundlegende Entscheidungsfindung liefern.</abstract>
@@ -1069,7 +1069,7 @@ Anhand einer Beispielkarte werden die M&#246;glichkeiten erl&#228;utert: Es wird
         <slug></slug>
         <title>OpenStreetMap- und ALK-Daten gemeinsam nutzen</title>
         <subtitle>Ein Stadtplandienst f&#252;r Mecklenburg-Vorpommern</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>&#214;ffentlichen Daten in Verbindung mit OpenStreetMap-Daten zu nutzen ist, sp&#228;testens seit der Umstellung auf die neue OpenStreetMap Lizenz, kein Problem mehr. Ende des Jahres wurde daher ein Projekt ins Leben gerufen, welche zum Ziel hatte einen Stadtplandienst f&#252;r das Land Mecklenburg-Vorpommern bereitzustellen.
@@ -1097,7 +1097,7 @@ Die Karten steht alle B&#252;rgern unter der CC-BY-SA 3.0 Lizenz zur Verf&#252;g
         <slug></slug>
         <title>Eine Karte in jeder Sprache</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>OpenStreetMap ist mit dem Anspruch angetreten, eine Karte der ganzen Welt zu schaffen, eine Karte, die von jederman genutzt werden kann. Die Karten, die aus OSM-Daten erstellt wurden, haben aber h&#228;ufig das Problem, dass die Namen von L&#228;nder, St&#228;dte und POIs f&#252;r die Nutzer der Karten nicht lesbar sind. Der europ&#228;ische Tourist, der seine Asienreise plant, sieht oft nur unverst&#228;ndliche Namen in unbekannten Schriftzeichen. Andersherum, kann ein Schulkind in Nepal die europ&#228;ischen Namen nicht verstehen. Au&#223;erdem gibt es viele Konflikte in mehrsprachigen Regionen, welche Namen denn nun auf der Karte erscheinen sollen.
@@ -1121,7 +1121,7 @@ Der Vortrag stellt den Stand des Projektes dar und beschreibt was f&#252;r techn
         <slug></slug>
         <title>Frauen in OpenStreetMap</title>
         <subtitle>Oder: Vielf&#228;ltigere Gruppen f&#252;r OSM begeistern.</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Aus bisherigen Studien zu OpenStreetMap (z.B. Lechner 2011, Stark 2011) geht hervor, dass nur 2-5% der OSM-Beitragenden weiblich sind. Dieser Anteil ist auch im Vergleich zu anderen Open Source- bzw. Open Data-Projekten sehr niedrig - bei Wikipedia wird beispielsweise von einem Anteil von ca. 10% ausgegangen (z.B. Glott et al. 2010). F&#252;r die OSM-Community ist dieses Thema durchaus relevant: W&#252;rden sich heterogenere Gruppen (inklusive Frauen) von OSM angesprochen f&#252;hlen, g&#228;be es auch ein gr&#246;&#223;eres Potential von Personen, die Daten erfassen und aktuell halten.  
@@ -1185,7 +1185,7 @@ Details und Updates zum Projekt unter http://cartography.tuwien.ac.at/fem2map</d
         <slug></slug>
         <title>Geo-Metadaten in OpenData Portalen</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract></abstract>
@@ -1216,7 +1216,7 @@ Mit der Umsetzung der Schnittstelle im M&#228;rz 2013 konnte in Deutschland erst
         <slug></slug>
         <title>GeoNetwork 2.8 - Neuerungen</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Der Vortrag fokussiert: 
@@ -1238,7 +1238,7 @@ N&#228;heres siehe angeh&#228;ngtes Abstract</abstract>
         <slug></slug>
         <title>Entwicklung und Anwendung von Downloaddiensten  im Kontext der europ&#228;ischen Geodateninfrastruktur INSPIRE</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Zeitplan der europ&#228;ischen Geodateninfrastruktur INSPIRE sieht die Bereitstellung von Downloaddiensten ab dem Jahr 2012 vor. Downloaddienste &#252;bertragen origin&#228;re, unpr&#228;sentierte Geodaten. Die heruntergeladenen Geodaten k&#246;nnen &#8211; im Gegensatz zu den &#252;ber einen Darstellungsdienst bereitgestellten Pr&#228;sentationsgrafiken &#8211; individuell analysiert, verarbeitet und pr&#228;sentiert werden.
@@ -1267,7 +1267,7 @@ Anmerkung: Der Vortrag basiert auf der gleichnamigen Masterarbeit, die im Januar
         <slug></slug>
         <title>Einf&#252;hrung ins Web-Framework GeoDjango</title>
         <subtitle>The Web framework for perfectionists with deadlines</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Django ist ein in Python programmiertes, quelloffenes Web-Framework, welches dem Model-View-Controller-Schema (MVC) folgt und auf die explizite Konfiguration der Anwendung setzt. GeoDjango erweitert die Django-Basis zu einem leistungsf&#228;higen geographischen Web-Framework, von neuen Feldern f&#252;r OGC-Geometrien im objektrelationalen Django-Mapper (ORM) &#252;ber  abstrahierte Python-Schnittstellen f&#252;r Geometrie-Operationen und -Datenformate bis hin zur automatisch generierten, produktionstauglichen Administrationsoberfl&#228;che, welche direkt  die kartographische Bearbeitung von Geometrien erlaubt.
@@ -1289,7 +1289,7 @@ Das GeoDjango Framework liefert Python-Objekte. Es wird beispielhaft gezeigt, wi
         <slug></slug>
         <title>Das SHOGun-WebGIS Framework </title>
         <subtitle>Vorstellung, Stand und Einsatzbeispiele</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Abstract
@@ -1316,7 +1316,7 @@ Der Vortrag stellt den Stand des OpenSource Projektes SHOGun vor. Dabei wird neb
         <slug></slug>
         <title>Mapbender3 - nimmt Fahrt auf!</title>
         <subtitle>Aufbau von WebGIS Anwendungen mit Mapbender3</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mapbender3 hat in den letzten Monaten Fahrt aufgenommen und will sich an dieser Stelle vorstellen. 
@@ -1347,7 +1347,7 @@ Mapbender3 bietet au&#223;erdem eine Benutzer- und Gruppenverwaltung mit der M&#
         <slug></slug>
         <title>MapFish</title>
         <subtitle>Ein OSGeo WebGIS 2.0 Framework</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>MapFish ist ein Framework, welches die Bildung von individuell gestalteten und erweiterbaren Web-GIS Anwendungen vereinfacht.
@@ -1370,7 +1370,7 @@ Dieser Vortrag stellt das MapFish Framework vor und zeigt auf in welche Richtung
         <slug></slug>
         <title>Mapfish Appserver</title>
         <subtitle>Funktionsreiches Web-GIS mit Standard-Protokollen</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Der Mapfish Appserver baut auf OGC-Standards f&#252;r die Kartendarstellung und dem Mapfish REST-Protokoll f&#252;r die umfangreichen Editierm&#246;glichkeiten. Es k&#246;nnen verschiedene Viewer vom minimalen Mobile- bis zum vollausgebauten GIS-Viewer parallel betrieben werden. Die Karten-Konfigruation erfolgt &#252;ber das Einlesen von UMN Mapserver Mapfiles oder QGIS Projekten. Es werden automatische Legenden und Abfragetabellen erstellt, welche nach Belieben angepasst werden k&#246;nnen. Weitere Eigenschaften sind die Multi-Site F&#228;higkeit, feingranulare Zugriffskontrolle, erweiterbare Suchfunktionen und das eingebaute Administrationsbackend.</abstract>
@@ -1389,7 +1389,7 @@ Dieser Vortrag stellt das MapFish Framework vor und zeigt auf in welche Richtung
         <slug></slug>
         <title>Cartaro - Geospatial CMS</title>
         <subtitle>Ein Content Management System f&#252;r r&#228;umliche Daten</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Cartaro ist ein Content Management System, mit dem r&#228;umliche Daten nahtlos mit Texten und Bildern kombiniert, verwaltet und publiziert werden. Cartaro verbindet dabei die St&#228;rken des CMS Drupal mit etablierten Open Source GIS-Projekten, allen voran GeoServer, GeoWebCache, PostGIS und OpenLayers. Mit Cartaro lassen sich somit &#252;ber die m&#228;chtige Administrationsoberfl&#228;che von Drupal ohne Programmierung sowohl allgemeine Webseiten wie auch spezialisierte Geoportale und komplette Geodateninfrastrukturen entwickeln. Vor allem dank der Integration von GeoServer stehen alle im CMS verwalteten Inhalte als OGC-Webservices zur  Verf&#252;gung &#8211; innerhalb und ausserhalb der Drupal-Webseite.
@@ -1413,7 +1413,7 @@ Die Pr&#228;sentation stellt die Architektur von Cartaro, die Funktionalit&#228;
         <slug></slug>
         <title>GeoCouch</title>
         <subtitle>Ein n-dimensionaler Index f&#252;r Apache CouchDB und Couchbase</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Bei Apache CouchDB und Couchbase handelt es sich um sogenannte dokumentbasierte Datenbanken. Sie geh&#246;rten somit in die Kategorie der nicht-relationale Datenbanksysteme f&#252;r die sich der Sammelbegriff &#8222;NoSQL&#8220; eingeb&#252;rgert hat.
@@ -1444,7 +1444,7 @@ Apache CouchDD, Couchbase und GeoCouch sind Open-Source und stehen unter der Apa
         <slug></slug>
         <title>Administratives PostgreSQL Tuning</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Viele sehen PostGIS als das ideale Tool zur Verwaltung von Kartendaten. PostGIS ist ein Aufsatz auf das Datenbanksystem PostgreSQL. Der PostgreSQL-Server hat mehr als 100 Stellschrauben, an denen gedreht werden kann, doch f&#252;r ein gutes Tuning auf administrativer Ebene sind nur ein paar wenige interessant. Der Vortrag gibt Aufschluss dar&#252;ber, was auf administrativer Ebene f&#252;r ein gutes PostgreSQL-Tuning notwendig und was zu beachten ist.</abstract>
@@ -1462,7 +1462,7 @@ Apache CouchDD, Couchbase und GeoCouch sind Open-Source und stehen unter der Apa
         <slug></slug>
         <title>Die gemeinsame Nutzung von MS-SQLServer und PostgreSQL/PostGIS sowie weiterer OSGeo-Software in einer Fachdatenbank f&#252;r kulturelles Erbe mit GIS-Anbindung</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die Generaldirektion Kulturelles Erbe Rheinland-Pfalz setzt im Bereich der Geodatenverarbeitung seit 2010 auf Open Source Software wie PostgreSQL/PostGIS, Quantum GIS, Mapserver und Mapbender. Zur Verwaltung der Fachdaten wird der MS SQL-Server eingesetzt, die clientseitig installierten Datenbankfrontends basieren auf .NET. Um die Vorteile aus beiden &#8222;Welten&#8220; nutzen zu k&#246;nnen, wird seit 2011 an einer Verkn&#252;pfung gearbeitet, die vor allem auf dem Datenaustausch zwischen den Datenbanksystemen SQLServer und PostgreSQL/PostGIS aufbaut. Das Ergebnis ist eine Fachanwendung, die hinsichtlich der Darstellung und Bearbeitung von Geodaten je nach Erfordernissen des Users mit unterschiedlichen GIS-Clients genutzt werden kann. Dazu z&#228;hlen ein in die Datenbank integrierter, OpenLayers-Kartenviewer ebenso wie eine Anbindung von QGIS sowie eines weiteren propriet&#228;ren GIS. Derzeit wird zudem eine Verkn&#252;pfung mit dem auf Open Source Komponenten aufbauenden GeoPortal.rlp entwickelt, so dass dort in Zukunft WMS- und WFS-Dienste unmittelbar durch den User freigeschaltet bzw. aktualisiert werden k&#246;nnen.
@@ -1483,7 +1483,7 @@ Im Vortrag soll nicht nur das Ergebnis dieser Symbiose pr&#228;sentiert werden, 
         <slug></slug>
         <title>Ort-Suche mit PostgreSQL/PostGIS</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Ein Ort l&#228;sst sich &#252;ber dessen Lagekoordinaten und den Ortsnamen beschreiben und speichern. Doch wie l&#228;sst sich der Ort in einem Haufen anderer Orte gezielt und effizient auffinden? Aktuelle PostgreSQL/PostGIS - Installationen bieten leistungsf&#228;hige Werkzeuge zur r&#228;umlichen wie textbasierten, unscharfen Ort-Suche.
@@ -1846,7 +1846,7 @@ Mit dem Workshop werden die Kenntnisse vermittelt, um &#252;ber die Administrati
         <slug></slug>
         <title>Schweizmobil Geodatawarehouse</title>
         <subtitle>open source GIS und ERP</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die Stiftung Schweizmobil bietet Informationen rund um Langsamverkehr in der Schweiz auf ihrer Webseite www.schweizmobil.ch an. Da fast s&#228;mtliche Informationen einen starken Raumbezug haben, werden die Daten neu in einer r&#228;umlichen Datenbank verwaltet., besteht bereits seit einiger Zeit eine enge Verkn&#252;pfung zur Webkarte, z.B. &#252;ber ein API oder Direktlinks. Die Daten hinter der Webseite wurden aber bis jetzt &#252;ber eine nicht-r&#228;umliche Datenbank verwaltet.
@@ -1868,7 +1868,7 @@ Dieser Vortag zeigt auf, wie Open Source Komponente aus der Geo- und ERP-Welt op
         <slug></slug>
         <title>Qualit&#228;tssicherung von Geodaten auf der Basis von Web Processing Services (WPS)</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Bevor neue Daten in eine Geodaten-Infrastruktur &#252;berf&#252;hrt werden, m&#252;ssen sie Qualit&#228;tssicherungs-Verfahren durchlaufen. Diese Prozesse k&#246;nnen sowohl generisch, als auch speziell f&#252;r ein bestimmtes Datum konfektioniert sein. Um Sicher zu stellen, dass diese Prozesse langlebig und verf&#252;gbar sind, bietet es sich an OGC-Konforme Services zu diesem Zweck zu nutzen. Deshalb werden im Vortrag die Vor- und Nachteile OGC-Konformer Web Processing Services (WPS) als Basis der Qualit&#228;tssicherung von Geodaten diskutiert. </abstract>
@@ -1886,7 +1886,7 @@ Dieser Vortag zeigt auf, wie Open Source Komponente aus der Geo- und ERP-Welt op
         <slug></slug>
         <title>Geodaten absichern mit MapProxy</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>MapProxy kann als Kartenproxy WMS und Kachelanfragen nicht nur weiterleiten, verarbeiten und beschleunigen, sondern diese auch absichern. Der Vortrag erl&#228;utert die Sicherheitsfunktionen von MapProxy mit der Kartendienste benutzerspezifisch Abgesichert werden k&#246;nnen.
@@ -1916,7 +1916,7 @@ Der Vortrag zeigt Praxisnah was mit der MapProxy Sicherheitsschicht m&#246;glich
         <slug></slug>
         <title>Tile based map publishing with WMTS TileServer, MapTiler and TileMill</title>
         <subtitle>Fast online maps for web, mobile and desktop applications from a traditional Apache/PHP/MySQL web hosting or from the Amazon S3 cloud</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>en</language>
         <abstract>Almost all mapping applications available today on the web and in mobile devices are in fact using tiles as the core for online distribution of maps. This presentation shortly explains the tiling basics and shows the open-source software typically used for generating and distributing tiled maps in the most popular Spherical Mercator system (EPSG:3857 / EPSG:900913) visible in Google Maps, OpenStreetMap, Bing Maps and other online maps.
@@ -1940,7 +1940,7 @@ The presentation also introduces a new open-source project called TileServer whi
         <slug></slug>
         <title>Aufbau eines webbasierten Netzinformationssystems mit CAD und freier Software</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>s.u.</abstract>
@@ -2002,7 +2002,7 @@ Kopplung von CAD- und GIS-Welt mit FDO: Mit der  FDO Data Access Technology wurd
         <slug></slug>
         <title>Analyse strukturgeologischer 3D-Daten in PostGIS</title>
         <subtitle>Eine Entscheidungsgrundlage bei der Bewilligung von Erdw&#228;rmesonden</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Im Zuge steigender Energiekosten werden geothermische Heizanlagen in der Schweiz immer beliebter. Um Risiken bei der Anlage von Erdw&#228;rmesonden zu vermeiden ist es entscheidend, neben zweidimensionalen Oberfl&#228;chendaten auch die r&#228;umliche Geometrie der im Untergrund befindlichen Schichten zu kennen. Zur Entscheidungsfindung f&#252;r die Bewilligung von Erdsonden wurde eine Abfrageroutine in PostGIS entwickelt. Die geologischen Schichten wurden in GOCAD, einer propriet&#228;ren geologischen Software, modelliert und als 3D-Geometrien in PostGIS importiert. Die Abfrageroutine liefert f&#252;r jeden Punkt auf Basis einer langen Reihe von Kriterien als Ergebnis die Zul&#228;ssigkeit einer Erdw&#228;rmesonde, die zul&#228;ssige Bohrtiefe sowie einen spezifischen erl&#228;uternden Text mit Begr&#252;ndungen und allf&#228;lligen Auflagen. 
@@ -2022,7 +2022,7 @@ Der Vortrag demonstriert einerseits die Abfrageroutine und geht weiter auf die M
         <slug></slug>
         <title>WebGL f&#252;r die Geomatik</title>
         <subtitle>Perspektiven im Geomatik Bereich</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Die Verbreitung der HTML5-Norm erlaubt es, neue Technologien zu einzusetzen. WebGL, als Teil der HTML5-Norm, erm&#246;glicht es die Rechenst&#228;rke der Graphikkarte zu benutzen. Hoch performante 2D-Webmapping Anwendungen sollen dieses Prinzip nutzen. Als Beispiel bietet Google Maps/WebGL neue Funktionalit&#228;ten sowie eine verbesserte Ergonomie im Vergleich zur klassischen Anwendung. Im 3D Bereich, wo Berechnungen sehr aufw&#228;ndig sind, kann man jetzt mit dieser neuen Technologie Web-Anwendungen entwickeln, die ohne Plugin in einem Browser laufen.
@@ -2042,7 +2042,7 @@ Diese Pr&#228;sentation wird die WebGL Technologie vorstellen sowie ihre potenti
         <slug></slug>
         <title>3D-Stadtmodelle in PostGIS mit der 3D City Database</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>3D-Stadtmodelle in PostGIS mit der 3D City Database
@@ -2207,7 +2207,7 @@ GEOINFODOK (2009): Dokumentation zur Modellierung der Geoinformationen des amtli
         <slug></slug>
         <title>Der OpenStreetMap-Geocoder Nominatim</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Nominatim ist die Software, die sich hinter der Suchbox der OpenStreetMap-Hauptseite
@@ -2236,7 +2236,7 @@ Daten verarbeitet werden, damit sie von anderen gefunden werden k&#246;nnen.</ab
         <slug></slug>
         <title>3D-Landschaftsmodelle aus OSM und SRTM</title>
         <subtitle>Wie OSM2World die OpenStreetMap-Daten um die dritte Dimension erg&#228;nzt</subtitle>
-        <track>Vortr&#228;ge (OSM)</track>
+        <track>Vorträge (OSM)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Speziell im deutschsprachigen Raum enth&#228;lt OpenStreetMap zunehmend hochdetaillierte Informationen, dank derer sich eine dreidimensionale Szene etwa mit Geb&#228;udemodellen, spurgenauen Stra&#223;endarstellungen und Stra&#223;enm&#246;blierung ausstatten l&#228;sst. Auch relative H&#246;heninformationen wie Steigungen, Stockwerke oder die vertikale Anordnung von Br&#252;cken und Tunneln werden bereits vielerorts eingetragen.
@@ -2285,7 +2285,7 @@ Der Vortrag stellt einen Ansatz zur Verschmelzung von OSM- und SRTM-Daten vor un
         <slug></slug>
         <title>Performanceoptimierte WMS-Dienste mit QGIS Server</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>Eine hohe Leistungsf&#228;higkeit ist f&#252;r WMS-Dienste absolut zentral. Dieser Beitrag zeigt anhand praxisnaher Fallbeispiele auf, was als Serveradministrator und als Entwickler gemacht werden kann, um eine hohe (QGIS) Serverleistung zu erreichen. Es werden Techniken zur Performancemessung gezeigt und die Resultate werden mit anderen WMS-Servern verglichen. Der Beitrag geht technisch sehr ins Detail und ist daher sowohl f&#252;r Entwickler wie auch Betreiber von WMS-Diensten interessant</abstract>
@@ -2303,7 +2303,7 @@ Der Vortrag stellt einen Ansatz zur Verschmelzung von OSM- und SRTM-Daten vor un
         <slug></slug>
         <title>GeoServer</title>
         <subtitle>the open source server for interoperable spatial data handling</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>en</language>
         <abstract>GeoServer is an open source geo-spatial server written in Java, following the common Java 2 Enterprise practices, allowing for the handling, distribution and analysis of geospatial data.</abstract>
@@ -2327,7 +2327,7 @@ Closing the presentation we&#8217;ll see some recently added features and improv
         <slug></slug>
         <title>CouchWFS</title>
         <subtitle>Ein WFS umgesetzt mit CouchDB Bordmitteln</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language></language>
         <abstract>CouchDB wird prim&#228;r als indizierter JSON-Storage wahrgenommen. Vielen, besonders f&#252;r die Web-Entwicklung vorteilhaften Funktionen und deren m&#246;glichen Anwendung wird dabei weniger Beachtung geschenkt.
@@ -2351,7 +2351,7 @@ In dem Vortrag wird die Implementierung des WFS beschrieben und demonstriert, ab
         <slug></slug>
         <title>M&#246;glichkeiten und Risiken der unternehmerischen Nutzung von Crowdsourcingprojekten am Beispiel von Open Street Map</title>
         <subtitle></subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>Mit Social Communitys und Crowdsourcing haben wir ein Ph&#228;nomen unserer Zeit vor uns, bei dem viele Menschen durch kleine Beitr&#228;ge gemeinsam etwas generieren, dass au&#223;erhalb der M&#246;glichkeiten des Einzelnen liegt. Dabei stellt sich f&#252;r Unternehmen die Frage, ob es m&#246;glich ist, das schier endlos erscheinende Potential von kostenlosen Arbeitsstunden, die sich in Communitys versammeln, f&#252;r die eigenen Unternehmensziele nutzbar zu machen. Gerade im Bereich von Geoinformationen kann es verlockend erscheinen, die Datenerfassung und Qualit&#228;tssicherung zumindest teilweise durch Crowdsourcing erledigen zu lassen. Bevor ein Unternehmen beschlie&#223;t, die M&#246;glichkeit zu nutzen, sollte es sorgf&#228;ltig die Vor- und Nachteile analysieren.  Der Beitrag widmet sich dieser Frage am Beispiel des Open Street Map Projekts. 
@@ -2373,7 +2373,7 @@ Im Ergebnis ist festzuhalten, dass die Zusammenarbeit mit Crowdsourcing-Projekte
         <slug></slug>
         <title>&#8222;Open&#8220; im postgradualen Fernlehre-Kontext</title>
         <subtitle>Das Beispiel UNIGIS</subtitle>
-        <track>Vortr&#228;ge (GIS)</track>
+        <track>Vorträge (GIS)</track>
         <type>lecture</type>
         <language>de</language>
         <abstract>UNIGIS verfolgt unter anderem das Ziel, die Pr&#228;senz freier und offener Software und Daten in den postgradualen Studienangeboten weiter zu erh&#246;hen. Dieser Beitrag versucht das Verh&#228;ltnis zwischen den Anforderungen seitens UNIGIS und rezenten Entwicklungen innerhalb der FOSSGIS-Community darzustellen. Anhand aktueller Beispiele soll gezeigt werden, wie die universit&#228;re Aus- und Weiterbildung von Impulsen aus der FOSSGIS-Community profitiert und umgekehrt, eine entsprechende Pr&#228;senz in einem postgradualen Studium f&#252;r die FOSSGIS-Community in vielerlei Hinsicht eine lohnende &#8222;Investition&#8220; sein kann.
