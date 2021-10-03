@@ -34,7 +34,7 @@
                 <p>Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht, Ihr Thema. Genauer gesagt, suchen wir Vorträge für Einsteiger und Fortgeschrittene, um spannende Themen zu behandeln und anregende Diskussionen zu entwickeln. Praxisorientierte Workshops runden unser Programm ab. Vorträge zum Thema freie Geodaten, zum Beispiel OpenStreetMap, Open Data oder Open Science sind ebenso möglich wie Beiträge zu beispielsweise Softwarelösungen aus dem Bereich WebGIS, Desktop GIS, Geodatenbanken oder Location-Based-Services. Bewerben Sie sich jetzt mit einem Vortrag, Lightning Talk oder Workshop für die FOSSGIS-Konferenz 2015.</p>
 
                 <h3>Abstract</h3>
-                <p>Die Einreichung eines Abstracts für die FOSSGIS 2015 ist über unsere Konferenzsoftware <a href="http://pb.fossgis.de/submission/FOSSGIS2015"> Pentabarf</a> möglich. Die Frist ist verlängert bis zum <strong>29. November 2014</strong>. Beitrags-Einreichungen ohne Abstract müssen leider abgelehnt werden, da sich das Programm-Komitee anhand des Abstracts ein Bild von Inhalt und Relevanz des Beitrags macht. Der Abstract sollte ca. 1500 Zeichen umfassen. Ob die Einreichung angenommen wurde, wird <strong>Ende Dezember 2014</strong> bekanntgegeben. Neben der Einreichung eines Vortrages, der ca. 20 Minuten umfasst, besteht die Möglichkeit einen Lightning Talk einzureichen. Ein Lightning Talk ist eine kurze, knackige Auseinandersetzung mit einem Thema, welches in 5 Minuten, gern humorvoll, Anregung zur Diskussion bietet. Weiterhin können Poster eingereicht werden.</p>
+                <p>Die Einreichung eines Abstracts für die FOSSGIS 2015 ist über unsere Konferenzsoftware möglich. Die Frist ist verlängert bis zum <strong>29. November 2014</strong>. Beitrags-Einreichungen ohne Abstract müssen leider abgelehnt werden, da sich das Programm-Komitee anhand des Abstracts ein Bild von Inhalt und Relevanz des Beitrags macht. Der Abstract sollte ca. 1500 Zeichen umfassen. Ob die Einreichung angenommen wurde, wird <strong>Ende Dezember 2014</strong> bekanntgegeben. Neben der Einreichung eines Vortrages, der ca. 20 Minuten umfasst, besteht die Möglichkeit einen Lightning Talk einzureichen. Ein Lightning Talk ist eine kurze, knackige Auseinandersetzung mit einem Thema, welches in 5 Minuten, gern humorvoll, Anregung zur Diskussion bietet. Weiterhin können Poster eingereicht werden.</p>
 
                 <h4>Workshops</h4>
 
@@ -55,7 +55,7 @@
 
                 <p>The Program Committee will, however, also consider applications for talks or workshops held in English if they are deeemed to add to the quality of the conference. So if you don't speak German, but are a FOSS/Open Data celebrity, or have a story that only you can tell, please do submit your talk. We are unlikely to be able to provide interpreters, but we'll make sure that you don't get lost at the FOSSGIS conference 2015 in Münster.</p>
 
-                <p>Please be aware that you can submit your paper until <strong>November, 29th 2014</strong>. You can submit your abstract using <a href="http://pb.fossgis.de/submission/FOSSGIS2015">Pentabarf</a>.</p>
+                <p>Please be aware that you can submit your paper until <strong>November, 29th 2014</strong>.</p>
 
                 <p>We are looking forward to seeing you in Münster from March 11-13, 2015!</p>
             </div>

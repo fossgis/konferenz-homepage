@@ -23,7 +23,7 @@
 
                     <p><strong>WIR SUCHEN:</strong> Deine Idee. Dein Projekt. Deinen Erfahrungsbericht. Dein Thema. Genauer gesagt, suchen wir anspruchsvolle Vorträge, spannende Diskussionen, praxisorientierte Workshops für unser Programm. Vorträge zum Thema freie Geodaten, zum Beispiel OpenStreetMap, sind ebenso möglich wie beispielsweise Beiträge zu Softwarelösungen aus dem Bereich WebGIS, Desktop GIS, Geodatenbanken oder Location-Based-Services. Bewirb dich jetzt mit deinem Vortrag, deinem Lightning Talk oder deinem Workshop beim Call for Papers.</p>
 
-                    <p><strong>ABSTRACT:</strong> Die Einreichung deines Abstracts für die FOSSGIS 2013 ist ab sofort bis zum 17. Februar 2013 über <a href="http://pb.fossgis.de/submission/FOSSGIS2013/">Pentabarf</a> möglich. Beitrags-Einreichungen ohne Abstract müssen leider abgelehnt werden, da sich das Programm-Komitee so kein Bild von Inhalt und Relevanz deines Beitrags machen kann. Dein Abstract sollte ca. 1500 Zeichen umfassen. Ob deine Einreichung angenommen wurde, erfährst du ca. im Mährz 2013. Neben einem kompletten Vortrag besteht auch die Möglichkeit einen Lightning Talk einzureichen. Dies ist eine Kurzpräsentationen beschränkt auf 5 Minuten. Ein Lightning Talk dient der Auseinandersetzung mit einem Thema, dem – gerne auch humorvoll gemeinten – Hinweis auf eine Problemstellung oder zur Anregung einer Diskussion. Neben den beschriebenen Vorträgen können auch Poster zur Konferenz eingereicht werden.
+                    <p><strong>ABSTRACT:</strong> Die Einreichung deines Abstracts für die FOSSGIS 2013 ist ab sofort bis zum 17. Februar 2013 möglich. Beitrags-Einreichungen ohne Abstract müssen leider abgelehnt werden, da sich das Programm-Komitee so kein Bild von Inhalt und Relevanz deines Beitrags machen kann. Dein Abstract sollte ca. 1500 Zeichen umfassen. Ob deine Einreichung angenommen wurde, erfährst du ca. im Mährz 2013. Neben einem kompletten Vortrag besteht auch die Möglichkeit einen Lightning Talk einzureichen. Dies ist eine Kurzpräsentationen beschränkt auf 5 Minuten. Ein Lightning Talk dient der Auseinandersetzung mit einem Thema, dem – gerne auch humorvoll gemeinten – Hinweis auf eine Problemstellung oder zur Anregung einer Diskussion. Neben den beschriebenen Vorträgen können auch Poster zur Konferenz eingereicht werden.
 
                     <p><strong>WER WIR SIND:</strong> Veranstaltet wird die Konferenz vom FOSSGIS e.V., von der OSGeo Foundation und der HSR Hochschule für Technik Rapperswil (Schweiz).</p>
 
@@ -39,7 +39,7 @@
 
                     <p>The program committee will, however, also consider applications for talks or workshops held in English if they are deeemed to add to the quality of the conference. So if you don't speak German, but are a FOSS/Open Data celebrity, or have a story that only you can tell, please do submit your talk. We are unlikely to be able to provide interpreters, but we'll make sure you don't get lost in Switzerland.</p>
 
-                    <p>Please be aware that you can submit paper until February, 17. 2013. You can submit your abstract using <a href="http://pb.fossgis.de/submission/FOSSGIS2013/">Pentabarf</a>.</p>
+                    <p>Please be aware that you can submit paper until February, 17. 2013..</p>
                     <p>We are looking forward to see you in Rapperwill (Switzerland) June 12-14.</p>
 				</div>
 			</div>

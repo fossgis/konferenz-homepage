@@ -21,7 +21,7 @@
                         <dd>Reiche einen Abstract, also eine Kurz-Zusammenfassung mit max. 1500 Zeichen ein. Dieser wird dann nach der Einreichungsfrist vom Programmkomitee begutachtet und bewertet. Vorträge, die ohne Abstract eingereicht wurden, werden bei der Zusammenstellung des Konferenzprogramms nicht berücksichtigt.</dd>
 
                         <dt>Welche Informationen benötigt ihr über mich?</dt>
-                        <dd>Wir benötigen deinen Namen und deine E-Mail-Adresse. Das alles kannst du bequem im <a href="http://pb.fossgis.de/submission/FOSSGIS2013/">Pentabarf</a> eintragen.</dd>
+                        <dd>Wir benötigen deinen Namen und deine E-Mail-Adresse.</dd>
 
                         <dt>Bekomme ich eine E-Mail dass mein Vortrag korrekt eingereicht ist?</dt>
                         <dd>Nein der Vortrag landet direkt nach dem Speichern in unserem System. So kannst du auch noch bis zur Einreichungsfrist Änderungen oder Verbesserungen durchführen.</dd>
@@ -33,7 +33,7 @@
                         <dd>Das Programmkomitee entscheidet über verschiedene Auswahlkriterien. So sind Qualität und Vollständigkeit und auch die Relevanz des Themas für das Gesamtprogramm wichtig. Zudem versuchen wir die Wünsche der Besucher aus dem letzten Jahr mit in die Auswahl einfließen zu lassen. Eine große Rolle spielt auch der Open-Source-Schwerpunkt der FOSSGIS - im Idealfall kann der Zuhörer sich nach einem interessanten Vortrag die besprochene Software im Quelltext herunterladen und selber ausprobieren. Vorträge, die proprietäre Software behandeln, werden nur in Ausnahmefällen angenommen.</dd>
 
                         <dt>Bis wann kann ich mich mit meinem Vortrag bewerben?</dt>
-                        <dd>Deinen Vortrag kannst du bis zum 31.01.2013 einreichen über das <a href="http://pb.fossgis.de/submission/FOSSGIS2013/">Pentabarf</a> einreichen.</dd>
+                        <dd>Deinen Vortrag kannst du bis zum 31.01.2013 einreichen.</dd>
 
                         <dt>Wie lang oder kurz muss die Einreichung für meinen Vortrag sein?</dt>
                         <dd>Die Beschreibung für deinen Vortrag sollte max. 1500 Zeichen haben. Nicht mehr und nicht weniger. Das Programmkomitee muss sich einen Eindruck machen können worum es geht.</dd>
