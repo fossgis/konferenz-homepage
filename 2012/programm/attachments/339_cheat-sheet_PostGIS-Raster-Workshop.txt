@@ -1,0 +1,95 @@
+SQL-Befehle zum Nachvollziehen der Arbeiten im PostGIS-Raster-Workshop auf
+der FOSSGIS 2012 in Dessau-Rosslau
+
+
+# Einrichtung Rasterdatenbank
+-----------------------------
+CREATE database postgis20_raster TEMPLATE postgis_template;
+\c  postgis20_raster
+\i /opt/postgis2.0/share/postgresql/contrib/postgis-2.0/rtpostgis.sql
+
+# Einspielen der Rasterdaten
+raster2pgsql
+raster2pgsql -I -s 4326 -t 30x30 -l 2,4,8 -r -C raster/harz.tif harz_raster| psql -U user -d postgis20_raster -p 5433
+
+# Timing einschalten
+\timing
+
+# Raster-BBOX-Daten visualisieren
+CREATE VIEW raster_bboxes AS SELECT rid, st_geometry(st_asbinary(rast::geometry)) FROM harz_raster; 
+
+CREATE VIEW raster_bboxes_2 AS SELECT rid,
+st_geometry(st_asbinary(rast::geometry)) FROM o_2_harz_raster; 
+
+CREATE VIEW raster_bboxes_4 AS SELECT rid,
+st_geometry(st_asbinary(rast::geometry)) FROM o_4_harz_raster; 
+
+CREATE VIEW raster_bboxes_8 AS SELECT rid,
+st_geometry(st_asbinary(rast::geometry)) FROM o_8_harz_raster; 
+
+
+# Höhenwerte darstellen
+CREATE table rid10 AS 
+ SELECT st_geometry(ST_AsBinary((ST_DumpAsPolygons(rast)).geom)),
+ (ST_DumpAsPolygons(rast)).val 
+ FROM o_8_harz_raster 
+ WHERE rid=10 ORDER by val;
+
+ALTER table rid10 ADD column id serial;
+-> QGIS anschauen, Klassifizieren als continious color
+
+# Raster-Statistiken
+SELECT st_summarystats(rast) FROM harz_raster;
+
+# Häufigkeiten der Rasterwerte
+SELECT st_valueCount(rast) FROM harz_raster;
+
+# Einspielen der Vektordaten
+shp2pgsql -s 4326 -I shapefiles/harz_points.shp harz_points | psql -U user -p 5433 -d postgis20_raster
+shp2pgsql -s 4326 -I shapefiles/harz_landusage.shp harz_landusage | psql -U user -p 5433 -d postgis20_raster
+
+CREATE TABLE harz_points_buffer AS SELECT id, st_buffer(geom, 50) AS geometry FROM harz_points;
+CREATE INDEX point_idx ON harz_points_buffer USING GIST (geometry);
+
+# Höhen-Informationen zu den POI hinzufügen
+CREATE TABLE points_height_points AS 
+    SELECT 
+      id,
+      (gv).geom AS the_geom, 
+      (gv).val AS hoehe_uNN, 
+      type, 
+      name
+    FROM 
+        (SELECT id, 
+                st_intersection(geom, rast) AS gv, 
+                type, 
+                name
+        FROM o_8_harz_raster, harz_points 
+        WHERE st_intersects(rast, geom) 
+        ) AS foobar 
+    WHERE st_isvalid((gv).geom);
+
+# Höhen innerhalb eines Polygons / Clippen eines Raster auf Vektorgrenzen
+CREATE TABLE landusage_690 AS
+    SELECT 
+        id, 
+        (gv).geom AS the_geom,
+        (gv).val AS hoehe_uNN, 
+        type, 
+        name, 
+        area
+    FROM 
+        (SELECT 
+            id, 
+            st_intersection(geom, rast) AS gv, 
+            type, 
+            name,
+            area  
+        FROM o_8_harz_raster, harz_landusage 
+        WHERE st_intersects(rast, geom) AND id = 690 
+        ) AS foobar 
+    WHERE st_isvalid((gv).geom);
+
+ALTER TABLE landusage_690 ADD column pid serial;
+
+

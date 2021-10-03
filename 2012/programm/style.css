@@ -1,0 +1,266 @@
+body {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+@media print {
+  .noprint {
+    display: none;
+  }
+
+  div#content {
+    left: 0;
+  }
+}
+
+@media screen {
+  div#content {
+    left: 260px;
+  }
+}
+
+img {
+  border: none;
+}
+
+div#conference-logo {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+}
+
+div#menu {
+  position: absolute;
+  top: 130px;
+  left: 20px;
+  width: 250px;
+}
+
+div#menu ul {
+  text-indent: 0;
+  padding: 0;
+}
+
+div#menu ul.track {
+  padding-left: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+div#menu li a {
+  text-decoration: none;
+}
+
+div#content {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  margin-bottom: 10px;
+}
+
+p.release {
+  display: none;
+}
+
+p.intro {
+  text-align: center;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #d0d0d0;
+}
+
+div#schedule {
+  padding-bottom: 10px;
+}
+
+div#schedule h1 {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+div#schedule table {
+  border-collapse: separate;
+}
+
+table thead, table tfoot {
+  background-color: #eeeeee;
+}
+
+table th {
+  padding: 4px;
+}
+
+div#schedule table th {
+  border: 1px solid #ffffff;
+}
+
+table td {
+  vertical-align: top;
+  padding: 4px;
+}
+
+table td.time {
+  width: 4%;
+  border: 1px solid #ffffff;
+  background-color: #eeeeee;
+}
+
+div#schedule table td.event {
+  border: 1px solid #ffffff;
+}
+
+div#schedule table td.event p.title {
+  font-weight: bold;
+}
+
+div#schedule table td.event p.subtitle {
+  font-style: italic;
+}
+
+div#schedule table td.room {
+  width: 24%;
+}
+
+td.track-allgemeines { background-color: #fef5c0; }
+td.track-vortrgegis { background-color: #fef5c0; }
+td.track-vortrgeosm { background-color: #e3ffc5; }
+td.track-workshopsbezahlt { background-color: #c0c7ff; }
+td.track-communitysessions { background-color: #fbc0be; }
+td.track-anwendertreffen { background-color: #f0f0f0; }
+td.track-developertreffen { background-color: #f4b8ff; }
+td.track-lightningtalksgis { background-color: #fdad6c; }
+td.track-lightningtalksosm { background-color: #fdad6c; }
+
+td.events ul.events {
+  margin: 0;
+}
+
+ul.speakers {
+  margin: 0;
+  text-align: right;
+}
+
+div.links ul {
+  margin: 0;
+}
+
+table td p {
+  margin: 0;
+}
+
+table td div.info {
+/*  display: none; */
+}
+
+table td div.info div.language-info {
+  display: none;
+}
+
+table td div.info div.type-info {
+  font-size: 80%;
+  font-variant: small-caps;
+}
+
+table td div.info div.track-info {
+  display: none;
+}
+
+table a {
+  color: #000000;
+}
+
+div#event-index table td {
+  border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
+
+div#speaker-index table td {
+  border-bottom: 2px dotted #eeeeee;
+}
+
+div#event-index p.title {
+  font-size: 120%;
+  margin: 0;
+  font-weight: bold;
+}
+
+p.subtitle {
+  font-style: italic;
+  margin: 0 0 8px 0;
+}
+
+div#event-index p.info {
+  font-size: 80%;
+  padding-left: 10px;
+  font-variant: small-caps;
+}
+
+div#event-index p.info a {
+  color: #606060;
+}
+
+a {
+  text-decoration: none;
+}
+
+img.event-image {
+  display: none;
+}
+
+div#infobox {
+  float: right;
+  background-color: #eeeeee;
+  width: 400px;
+  border: 1px solid #d0d0d0;
+  font-size: 80%;
+  padding: 0 4px 4px 4px;
+  margin: 0 10px 10px 10px;
+}
+
+div#infobox th {
+  padding-top: 4px;
+}
+
+div#infobox td.value {
+  color: #808080;
+}
+
+div#infobox img {
+  display: none;
+}
+
+h1.title {
+  margin-bottom: 0;
+}
+
+div#navigation {
+  padding-top: 10px;
+}
+
+div#navigation span {
+  padding: 4px;
+  background-color: #eeeeee;
+  border: 1px solid #d0d0d0;
+}
+
+div.attachments h2 {
+  margin-bottom: 0;
+}
+
+div.attachments ul {
+  margin-top: 6px;
+}
+
+div.legende {
+  clear: all;
+  border-top: 1px dotted #808080;
+  margin-top: 20px;
+}
+
+table.legende {
+  border-spacing: 2px;
+  border-collapse: separate;
+}
