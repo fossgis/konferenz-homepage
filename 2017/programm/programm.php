@@ -32,10 +32,9 @@
           <h2>
 	    <?php
 	       if (!isset($_GET['day'])) echo "Übersicht";
-	       else if ($_GET['day'] == 0) echo "Mittwoch, 22. März";
-	       else if ($_GET['day'] == 1) echo "Donnerstag, 23. März";
-	       else if ($_GET['day'] == 2) echo "Freitag, 24. März";
-	       else if ($_GET['day'] == 3) echo "Samstag, 25. März";
+	       else if ($_GET['day'] == 1) echo "Mittwoch, 22. März";
+	       else if ($_GET['day'] == 2) echo "Donnerstag, 23. März";
+	       else if ($_GET['day'] == 3) echo "Freitag, 24. März";
 	       else echo "Übersicht";
 	       ?>
 	  </h2>
@@ -58,24 +57,18 @@
           <div style="margin: 5px 85px 7px 160px">
             <ul>       	
               <li>
-                <a href="programm.php?day=0">Mittwoch, 22.03.2017</a>
+                <a href="programm.php?day=1">Mittwoch, 22.03.2017</a>
               </li>
 	      
               <li>
-                <a href="programm.php?day=1">Donnerstag, 23.03.2017</a>
+                <a href="programm.php?day=2">Donnerstag, 23.03.2017</a>
               </li>
 	      
               <li>
-                <a href="programm.php?day=2">Freitag, 24.03.2017</a>
-              </li>
-	      <li>
-                <a href="programm.php?day=3">OSM Samstag, 25.03.2017</a>
+                <a href="programm.php?day=3">Freitag, 24.03.2017</a>
               </li>
 	      <li>
 		<a href="/2017/programm/referenten.php">Referenten</a>
-	      </li>
-	      <li>
-		<a href="https://frab.fossgis-konferenz.de/de/2017/public/schedule" target="_blank">Programmseite</a>
 	      </li>
             </ul>
           </div>
