@@ -68,7 +68,7 @@
 					<h3>FOSSGIS e.V.</h3>
 
 					<p>Der FOSSGIS e.V. ist ein eingetragener und gemeinnütziger Verein und hat sich das Ziel gesetzt, Freie Software aus dem GIS-Bereich und Freie Geodaten zu fördern. FOSSGIS steht für Freie Open Source Software für Geographische Informationssysteme.</p>
-					<p>Um die Community zu vernetzen und Wissen zu vermitteln und auszutauschen veranstaltet der FOSSGIS e.V. eine jährlich stattfindende Konferenz in einem der D-A-CH-Länder. Unterstützt  wird das Konferenzveranstaltungsteam vom  lokalen  Team  der  jeweils veranstaltenden Hochschule. Die Idee zum Standortwechsel ist dadurch  die  Themen  FOSSGIS  und  OpenStreetMap im gesamten deutschsprachigen Raum auf die Agenda zu bringen und am Veranstaltungsort  besondere Akzente zu setzen. Insgesamt soll eine größere Gemeinschaft angesprochen werden, damit die Community wächst.</p>
+					<p>Um die Community zu vernetzen, Wissen zu vermitteln und auszutauschen, veranstaltet der FOSSGIS e.V. eine jährlich stattfindende Konferenz in einem der D-A-CH-Länder. Unterstützt wird das Konferenzveranstaltungsteam vom lokalen Team der jeweils veranstaltenden Hochschule. Die Idee zum Standortwechsel ist, dadurch die Themen FOSSGIS und OpenStreetMap im gesamten deutschsprachigen Raum auf die Agenda zu bringen und am Veranstaltungsort besondere Akzente zu setzen. Insgesamt soll eine größere Gemeinschaft angesprochen werden, damit die Community wächst.</p>
 					</p>
 				</div>
 </div>
