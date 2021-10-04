@@ -16,14 +16,10 @@
     
     <body id="gallery">
       <div id="wrap">
-        <?php include('../../inc/head.inc'); ?>
-	
+        	
         <div id="content">
 	  
-          <?php
-	     include('../../inc/nav.inc');
-          ?>
-	  
+          	  
 	  <figure>
             <img src="../../img/passau.jpg" width="880" height="241" alt="Passau">
             <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
@@ -31,10 +27,8 @@
 	  
           <h2>Bildergalerie</h2>
 
-		<?php include('imgs.html'); ?>
-
+		
 	</div>
-	<?php include('../../inc/footer.inc'); ?>
-      </div>
+	      </div>
     </body>
 </html>
