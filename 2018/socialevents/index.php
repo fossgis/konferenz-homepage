@@ -48,7 +48,7 @@ Neben einem reichhaltigen Rheinischenm Buffet und Getränken bieten wir Raum zur
 <br>
 Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Wir bitten darum bei der Anmeldung die Teilnahme an der Abendveranstaltung anzugeben, dies dient der guten Planung der Veranstaltung. 
 <br>
-Darüber hinaus kann das Social Event auch separat ohne Konferenzteilnahme gebucht werden - <a href="https://pretix.eu/fossgis/konf-2018/w/Tg5PUTaoTJOIAaoY/redeem?voucher=CAMPUS_DIALOG_3QMZX9X7MPWYDF8K&subevent=&locale=de" target="_blank" title="Buchung Social Event">zur Buchung</a>.
+Darüber hinaus kann das Social Event auch separat ohne Konferenzteilnahme gebucht werden.
 </p>
 
 		<h3>Donnerstag, 22. März 2018</h3>

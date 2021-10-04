@@ -19,7 +19,6 @@
                 </figure>
 
                 <h2>Call for Papers</h2>
-                <p class="text-right"><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2018/cfp/">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
                 <p>Sie forschen, Sie entwickeln, Sie beschäftigen sich mit Open-Source-Geo-Software oder freien Geodaten? Sie haben neue Ideen in diesem Themenbereich oder sind bereits dabei, Freie Software und freie Geodaten zu nutzen oder zu entwickeln? Dann sind Sie auf unserer Konferenz — der FOSSGIS-Konferenz 2018 — genau richtig.</p>
 
@@ -36,8 +35,6 @@
                 </dl>
 
                 <p>Werden Sie Teil der Konferenz und bewerben Sie sich jetzt mit einem <strong>Vortrag</strong>, <strong>Lightning Talk</strong> oder <strong>Workshop</strong>.</p>
-
-                <p><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2018/cfp/">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
                 <p>Die FOSSGIS-Konferenz ermöglicht drei verschiedene Vortragsformate:</p>
                 <dl>
@@ -60,8 +57,6 @@
                 <p>Über die Aufnahme Ihres eingereichten Vortrags werden Sie bis Mitte Januar 2018 durch das Programmkomitee informiert.</p>
 
                 <p>Die FOSSGIS-Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Werden Sie Teil der FOSSGIS Konferenz 2018. Wir freuen uns auf Sie!</p>
-
-                <p ><a class="btn btn-primary" href="https://frab.fossgis-konferenz.de/de/2018/cfp/">Zum Konferenzsystem und Beitrag einreichen &rarr;</a></p>
 
             </div>
             <?php include('../inc/footer.inc'); ?>

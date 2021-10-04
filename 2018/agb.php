@@ -22,11 +22,11 @@
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
 				
 <p>Der FOSSGIS e.V. richtet als Veranstalter die FOSSGIS-Konferenz aus.
-Für die Konferenz werden die Tickets über die Internetseite des <a href="
-https://pretix.eu/fossgis/konf-2018/" target="_blank"> Pretix-Ticketshops </a> verkauft. Für das Vertragsverhältnis gelten
+Für die Konferenz werden die Tickets über die Internetseite des
+Pretix-Ticketshops verkauft. Für das Vertragsverhältnis gelten
 die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
 
-<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite des <a href="https://pretix.eu/fossgis/konf-2018/" target="_blank"> Pretix-Ticketshops </a> gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
+<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite des Pretix-Ticketshops gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
 
 <p>Für den Verkauf der Konferenz-Tickets an Verbraucher besteht für diese ein gesetzliches Widerrufsrecht gemäß § 312g BGB. In diesem Fall gilt nachfolgendes Widerrufsrecht:<br></p>
 
