@@ -11,9 +11,20 @@
     </head>
     <body id="call">
         <div id="wrap">
-            <?php include('../inc/head.inc'); ?>
+            <h1>
+                <span>FOSSGIS Konferenz. 11.- 14. Juni 2013 in Rapperswil.</span>
+                <div id="credit">
+                    Photo: <a href="https://www.flickr.com/photos/genevainformation/439103839/">_af_</a>
+                </div>
+            </h1>
             <div id="content">
-                <?php include('../inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2013/">Startseite</a></li>
+    <li><a href="/2013/programm/">Programm</a></li>
+    <li id="navSocial"><a href="/2013/socialevents/">Social Events</a></li>
+    <li id="navAnreise"><a href="/2013/anreise/">Anreise &amp; Unterkunft</a></li>
+    <li><a href="https://www.fossgis.de/impressum/">Impressum</a></li>
+</ul>
 				<div id="mainContent">
 					<h2>Call for Papers</h2>
 					
