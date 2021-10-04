@@ -9,8 +9,8 @@
 
         <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-	<link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
-	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>
+        <link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
+        <link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>
     </head>
 
     <body id="programm">
@@ -24,7 +24,7 @@
 	     include('prog_nav.inc');
           ?>
 
-	  <figure>
+        <figure>
             <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
             <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
           </figure>
@@ -53,26 +53,16 @@
 	     } else {
           ?>
 
-		  <div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen im <a href="https://www.youtube.com/user/fossgis">FOSSGIS-Youtube-Cannel </a> und im <a a href="https://www.tib.eu/en/search/?id=198&tx_tibsearch_search%5Bquery%5D=fossgis+2017&tx_tibsearch_search%5Bsearchspace%5D=tn&tx_tibsearch_search%5Bsrt%5D=rk&tx_tibsearch_search%5Bcnt%5D=20">TIB-AV-Portal</a>.</div>
-                                   
+        <div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen im <a href="https://www.youtube.com/user/fossgis">FOSSGIS-Youtube-Cannel </a> und im <a a href="https://www.tib.eu/en/search/?id=198&tx_tibsearch_search%5Bquery%5D=fossgis+2017&tx_tibsearch_search%5Bsearchspace%5D=tn&tx_tibsearch_search%5Bsrt%5D=rk&tx_tibsearch_search%5Bcnt%5D=20">TIB-AV-Portal</a>.</div>
+
           <p>Programmübersicht:</p>
           <div style="margin: 5px 85px 7px 160px">
             <ul>
-              <li>
-                <a href="programm.php?day=1">Mittwoch, 22.03.2017</a>
-              </li>
-
-              <li>
-                <a href="programm.php?day=2">Donnerstag, 23.03.2017</a>
-              </li>
-
-              <li>
-                <a href="programm.php?day=3">Freitag, 24.03.2017</a>
-              </li>
-	          <li>OSM Samstag, 25.03.2017</li>
-	          <li>
-		        <a href="/2017/programm/referenten.php">Referenten</a>
-	          </li>
+              <li><a href="programm.php?day=1">Mittwoch, 22.03.2017</a></li>
+              <li><a href="programm.php?day=2">Donnerstag, 23.03.2017</a></li>
+              <li><a href="programm.php?day=3">Freitag, 24.03.2017</a></li>
+              <li>OSM Samstag, 25.03.2017</li>
+              <li><a href="/2017/programm/referenten.php">Referenten</a></li>
             </ul>
           </div>
 
@@ -80,8 +70,8 @@
 	     }
 	  ?>
 
-	</div>
-	<?php include('../inc/footer.inc'); ?>
+    </div>
+    <?php include('../inc/footer.inc'); ?>
       </div>
     </body>
 </html>
