@@ -1,6 +1,6 @@
 <?php
 
-if (!defined("VID_URL")) define("VID_URL","http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/");
+if (!defined("VID_URL")) define("VID_URL","https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/");
 
 
 // Video Directory einlesen und parsen -> $dir
