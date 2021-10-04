@@ -9,10 +9,20 @@
     </head>
     <body id="home">
         <div id="wrap">
-            <?php include('inc/head.inc'); ?>
+            <h1>
+    FOSSGIS-Konferenz 2018 <span class="venue">Bonn</span><br>
+    <span class="date">21.&ndash;24. März 2018</span>
+</h1>
 
             <div id="content">
-                <?php include('inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2018/">Startseite</a></li>
+    <li id="navProgramm"><a href="/2018/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2018/anreise">Anreise</a></li>
+    <li id="navEvents"><a href="/2018/socialevents">Social Events</a></li>
+    <li id="navTeam"><a href="/2018/loc/loc.php">Das Team</a></li>
+    <li id="navGallery"><a href="/2018/gallery">Bilder</a></li>
+</ul>
 
                 <figure>
                     <img src="img/bonn.jpeg" width="880" height="241" alt="Bonn">
@@ -71,7 +81,7 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 
             </div>
-            <?php include('inc/footer.inc'); ?>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>

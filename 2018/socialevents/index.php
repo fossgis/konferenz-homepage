@@ -12,10 +12,20 @@
     </head>
     <body id="socialEvents">
         <div id="wrap">
-        	<?php include('../inc/head.inc'); ?>
+        	<h1>
+    FOSSGIS-Konferenz 2018 <span class="venue">Bonn</span><br>
+    <span class="date">21.&ndash;24. M채rz 2018</span>
+</h1>
 
             <div id="content">
-                <?php include('../inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2018/">Startseite</a></li>
+    <li id="navProgramm"><a href="/2018/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2018/anreise">Anreise</a></li>
+    <li id="navEvents"><a href="/2018/socialevents">Social Events</a></li>
+    <li id="navTeam"><a href="/2018/loc/loc.php">Das Team</a></li>
+    <li id="navGallery"><a href="/2018/gallery">Bilder</a></li>
+</ul>
                 <figure>
                     <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
                     <figcaption>Photo: Stadt Bonn</figcaption>
@@ -66,7 +76,7 @@ Getr채nke werden gestellt und es wird f체r alle Pizza bestellt. Wir freuen uns �
 				<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2018/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und R채ume sortiert. F체r das leibliche Wohl wird gesorgt sein. Wir bitten um Anmeldung 체ber das <a href="https://www.fossgis-konferenz.de/2018/anmeldung/" >FOSSGIS-Konferenz-Teilnehmeranmeldesystem</a></p>
 
                 </div>
-            <?php include('../inc/footer.inc'); ?>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerkl채rung">Datenschutzerkl채rung</a></footer>
         </div>
     </body>
 </html>
