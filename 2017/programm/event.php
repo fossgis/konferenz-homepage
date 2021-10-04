@@ -46,7 +46,9 @@
 	  $info = str_replace("/attachments/original/", "https://frab.fossgis-konferenz.de/de/attachments/original/", $info);
           $info = str_replace("/de/2017/public/events/", "https://frab.fossgis-konferenz.de/de/2017/public/events/", $info);
 	  
-                $info = str_replace("de/2017/public/schedule/", "2017/programm/programm.php?day=", $info);
+                $info = str_replace("de/2017/public/schedule/1", "2017/programm/day1.php", $info);
+                $info = str_replace("de/2017/public/schedule/2", "2017/programm/day2.php", $info);
+                $info = str_replace("de/2017/public/schedule/3", "2017/programm/day3.php", $info);
                 $referent = str_replace("de/2017/public/speakers/", "2017/programm/speaker.php?id=", $referent);
                 $referent = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referent);
                 $referent = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referent);
