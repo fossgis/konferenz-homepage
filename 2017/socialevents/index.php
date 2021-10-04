@@ -12,10 +12,29 @@
     </head>
     <body id="socialEvents">
         <div id="wrap">
-        	<?php include('../inc/head.inc'); ?>
+        	<h1>
+    FOSSGIS-Konferenz 2017 <span class="venue">Passau</span><br>
+    <span class="date">22.&ndash;25. März 2017</span>
+</h1>
 
             <div id="content">
-                <?php include('../inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome">
+        <a href="/2017/">Startseite</a>
+    </li>
+    <li id="navProgramm">
+        <a href="/2017/programm">Programm</a>
+    </li>
+    <li id="navAnreise">
+        <a href="/2017/anreise">Anreise</a>
+    </li>
+    <li id="navEvents">
+        <a href="/2017/socialevents">Social Events</a>
+    </li>
+    <li id="navGallery">
+        <a href="/2017/gallery">Bilder</a>
+    </li>
+</ul>
                 <figure>
                     <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
                     <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
@@ -53,7 +72,7 @@
 				<p>Von 9.30 bis 18 Uhr findet eine OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Anmeldung und Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2017/OSM-Events"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Zu Mittag gibt es Pizza.</p>
 
                 </div>
-            <?php include('../inc/footer.inc'); ?>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>
