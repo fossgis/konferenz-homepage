@@ -10,10 +10,17 @@
     </head>
     <body id="home">
         <div id="wrap">
-        	<?php include('inc/head.inc'); ?>
+        	<h1>FOSSGIS-Konferenz 2016 <span class="venue">Salzburg</span><br><span class="date">04.&ndash;06. Juli 2016</span></h1>
 
             <div id="content">
-                <?php include('inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2016/">Startseite</a></li>
+    <li id="navAnmeldung"><a href="/2016/anmeldung">Anmeldung</a></li>
+    <li id="navProgramm"><a href="/2016/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2016/anreise">Anreise + Unterkunft</a></li>
+    <li id="navEvents"><a href="/2016/socialevents">Social Events</a></li>
+    <li id="navGreen"><a href="/2016/green">Green</a></li>
+</ul>
 
 				<figure>
                     <img src="img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">
@@ -56,7 +63,7 @@
 				 <div class="sponsor bronze" id="sourcepole"><a href="https://sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
 				 
             </div>
-				<?php include('inc/footer.inc'); ?>
+				<footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>

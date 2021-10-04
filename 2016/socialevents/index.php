@@ -12,10 +12,17 @@
     </head>
     <body id="socialEvents">
         <div id="wrap">
-        	<?php include('../inc/head.inc'); ?>
+        	<h1>FOSSGIS-Konferenz 2016 <span class="venue">Salzburg</span><br><span class="date">04.&ndash;06. Juli 2016</span></h1>
 
             <div id="content">
-                <?php include('../inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2016/">Startseite</a></li>
+    <li id="navAnmeldung"><a href="/2016/anmeldung">Anmeldung</a></li>
+    <li id="navProgramm"><a href="/2016/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2016/anreise">Anreise + Unterkunft</a></li>
+    <li id="navEvents"><a href="/2016/socialevents">Social Events</a></li>
+    <li id="navGreen"><a href="/2016/green">Green</a></li>
+</ul>
                 <figure>
 					<img src="../img/Hohensalzburg.png" width="880" height="281" alt="Hohensalzburg">    <figcaption>Photo: Gerald Griesebner</figcaption>
                 </figure>
@@ -50,7 +57,7 @@
                 <p>Alle Mitglieder, Freunde und Interessierte des FOSSGIS-Vereins sind nach der Abschlussveranstaltung herzlich zum Sektausklang am FOSSGIS-Stand eingeladen.</p>
 
             </div>
-            <?php include('../inc/footer.inc'); ?>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>
