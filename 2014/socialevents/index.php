@@ -12,10 +12,15 @@
     </head>
     <body id="socialEvents">
         <div id="wrap">
-        	<?php include('../inc/head.inc'); ?>
+        	<h1>FOSSGIS Konferenz 2014 <span class="venue">Berlin</span><br><span class="date">19. - 21. März 2014</span></h1>
 
             <div id="content">
-                <?php include('../inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2014/">Startseite</a></li>
+    <li><a href="/2014/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2014/anreise">Anreise/Unterkunft</a></li>
+    <li id="navEvents"><a href="/2014/socialevents">Social Events</a></li>
+</ul>
                 <h2>Social Events</h2>
 
                 <h3>Dienstag, 18. März 2014 ab 18 Uhr: Inoffizieller Start</h3>
@@ -29,7 +34,7 @@
                 <h3>Freitag, 21. März 2014: Sektempfang am FOSSGIS-Stand</h3>
                 <p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind herzlich eingeladen.</p>
             </div>
-            <?php include('../inc/footer.inc'); ?>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>
