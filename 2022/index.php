@@ -25,10 +25,13 @@
 
             <ul class="tiles">
 				<li class="tile bronze">
-                     <a href="https://www.fossgis.de/">
-                         <img src="./img/fossgis.png" alt="FOSSGIS e.V.">
+                     <a href="https://www.fossgis-konferenz.de/2022/sponsoren/fossgis_ev.php">
+                         <img src="./img/FOSSGIS_RGB.png" alt="FOSSGIS e.V.">
                      </a>
                  </li>
+
+
+
                  <li class="tile bronze">
                      <a href="https://www.openstreetmap.de/">
                          <img src="./img/osm.png" alt="OSM Community">
@@ -40,7 +43,7 @@
 					 </a>
 				 </li>
 				<li class="tile bronze">
-					 <a href="http://www.uni-marburg.de/">
+					 <a href="https://www.uni-marburg.de/">
 						 <img src="./img/PhUniMa_Logo_4c.jpg" alt="Uni Marburg" width="180px">
 					 </a>
                  </li>           
