@@ -17,11 +17,16 @@
     </head>
     <body id="anreise">
         <div id="wrap">
-            <?php include('../inc/head.inc'); ?>
+            <h1>FOSSGIS Konferenz 2015 <span class="venue">Münster</span><br><span class="date">11.&ndash;13. März 2015</span></h1>
 
             <div id="content">
 
-                <?php include('../inc/nav.inc'); ?>
+                <ul id="mainNav">
+    <li id="navHome"><a href="/2015/">Startseite</a></li>
+    <li><a href="/2015/programm/">Programm</a></li>
+    <li id="navAnreise"><a href="/2015/anreise">Anreise + Unterkunft</a></li>
+    <li id="navEvents"><a href="/2015/socialevents">Social Events</a></li>
+</ul>
 
                 <figure>
                     <img src="../img/schlossfrontal.jpg" width="880" height="350" alt="Schloss Münster">
@@ -90,7 +95,7 @@
 
  </div>
 
-             <?php include('../inc/footer.inc'); ?>
+             <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 
