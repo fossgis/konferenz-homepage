@@ -8,8 +8,6 @@
 
         <link rel="stylesheet" type="text/css" href="/fonts/Droid_Sans_regular_bold.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
-	<link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
-	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>	
     </head>
     
     <body id="team">
