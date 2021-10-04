@@ -20,7 +20,7 @@
 	<h2>Call for Participation</h2>
 
 	<p>Die FOSSGIS-Konferenz ist die größte deutschsprachige Konferenz für OpenStreetMap und Open-Source-Software für Geoinformationen und wird im Jahr 2022 zum 16. Mal veranstaltet.<br>
-Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Community und die Phillipps Universität Marburg.</p>
+Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Community und die Philipps Universität Marburg.</p>
 
 	<p>Die FOSSGIS-Konferenz bietet eine Plattform für neue Ideen, Projekte und Erfahrungsberichte. Sie wird größtenteils ehrenamtlich organisiert. Teilnehmer:innen der Konferenz sind sowohl professionelle Anwender:innen genauso wie Enthusiasten:innen aus dem GIS-Umfeld, von OpenStreetMap und anderen Projekten. Die Veranstaltung vermittelt Wissen zu Freier und Open-Source-Software für Geoinformationssysteme (FOSSGIS).</p>
 

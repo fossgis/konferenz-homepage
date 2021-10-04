@@ -18,7 +18,7 @@
 
             <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
 
-            <p>Die FOSSGIS-Konferenz 2022 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> mit Unterstützung der <a href="https://www.uni-marburg.de/de">Universität Marburg</a> organisiert.</p>
+            <p>Die FOSSGIS-Konferenz 2022 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> mit Unterstützung der <a href="https://www.uni-marburg.de/de">Philipps Universität Marburg</a> organisiert.</p>
 
             <p>Mitarbeitende der Fachbereiche <a href="https://www.uni-marburg.de/de/fb12">Mathematik und Informatik</a>, <a href="https://www.uni-marburg.de/de/fb19"> Geographie</a>, der <a href="">HeFDI - Hessische Forschungsdateninfrastrukturen</a>, des <a href="https://www.uni-marburg.de/de/fb09/dsa">Forschungszentrums Deutscher Sprachatlas <a/> sowie des <a href="https://hlgl.hessen.de/">Hessischen Landesamtes für geschichtliche Landeskunde</a> beteiligen sich maßgeblich an der Organisation.</p>
 
@@ -40,7 +40,7 @@
 					 </a>
 				 </li>
 				<li class="tile bronze">
-					 <a href="http://www.uni-marburg.de/">
+					 <a href="https://www.uni-marburg.de/">
 						 <img src="./img/PhUniMa_Logo_4c.jpg" alt="Uni Marburg" width="180px">
 					 </a>
                  </li>           
