@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<?php require_once 'simple_html_dom.php'; ?>
 <html lang="de">
     <head>
         <title>FOSSGIS 2017 Programm</title>
@@ -15,14 +14,47 @@
 
     <body id="programm">
       <div id="wrap">
-        <?php include('../inc/head.inc'); ?>
+        <h1>
+    FOSSGIS-Konferenz 2017 <span class="venue">Passau</span><br>
+    <span class="date">22.&ndash;25. März 2017</span>
+</h1>
 
         <div id="content">
 
-          <?php
-	     include('../inc/nav.inc');
-	     include('prog_nav.inc');
-          ?>
+          <ul id="mainNav">
+    <li id="navHome">
+        <a href="/2017/">Startseite</a>
+    </li>
+    <li id="navProgramm">
+        <a href="/2017/programm">Programm</a>
+    </li>
+    <li id="navAnreise">
+        <a href="/2017/anreise">Anreise</a>
+    </li>
+    <li id="navEvents">
+        <a href="/2017/socialevents">Social Events</a>
+    </li>
+    <li id="navGallery">
+        <a href="/2017/gallery">Bilder</a>
+    </li>
+</ul>
+<ul id="progNav">
+    <li id="prog">
+        <a href="/2017/programm/">Übersicht</a>
+    </li>
+    <li id="prog">
+        <a href="/2017/programm/day1.php">Mittwoch</a>
+    </li>
+    <li id="prog">
+        <a href="/2017/programm/day2.php">Donnerstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2017/programm/day3.php">Freitag</a>
+    </li>
+    <li id="prog">
+        <a href="/2017/programm/referenten.php">Referenten</a>
+    </li>
+</ul>
 
         <figure>
             <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
@@ -45,7 +77,7 @@
           </div>
 
     </div>
-    <?php include('../inc/footer.inc'); ?>
+    <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
       </div>
     </body>
 </html>
