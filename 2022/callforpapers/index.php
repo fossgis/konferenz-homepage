@@ -5,7 +5,7 @@
     <?php include "../inc/meta.inc"; ?>
 
     <base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-    <title>FOSSGIS 2021 - CfP</title>
+    <title>FOSSGIS 2022 - CfP</title>
 
     <link rel="stylesheet" href="./css/normalize.css">
     <link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2021/widget/v1.css">
