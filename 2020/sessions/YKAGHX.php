@@ -44,10 +44,6 @@ Standalone Applikation verwendet werden kann. Die vorgefertigten Styling Kompone
 <p>Dieser Workshop richtet sich an (zukünftige) Entwickler von WebGIS-Anwendungen, die die Möglichkeit bieten sollen, Nutzern das Styling von Geodaten zu erlauben. 
 Vorkenntnisse in JavaScript oder ReactJS sind hilfreich, aber nicht zwingend erforderlich.</p>
 <p>Informationen</p>
-<p>Zugehöriger Talk:</p>
-<ul>
-<li><a href="TODO">Neues vom GeoStyler</a></li>
-</ul>
 <p>GeoStyler:</p>
 <ul>
 <li>Quellcode auf github: https://github.com/geostyler/geostyler</li>
