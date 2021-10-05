@@ -45,10 +45,10 @@
 					</div>
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt</h6>
-						<a href="https://fossgis.de/">
-							https://fossgis.de/</a>
-							E-Mail: infołfossgis.de
-							Telefon: +49 30-62932037 
+							E-Mail: <br>
+							<a href="mailto:info@fossgis.de?subject=Kontakt_FOSSGIS_Verein">info-at-fossgis.de</a><br>
+							Telefon: <br>
+							+49 30-62932037 
 					</div>
 
 					<div class="social-icon">

@@ -81,7 +81,7 @@
 	   In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen. Zum Einstieg gibt man sich einen Namen und wählt einen Avatar aus. Nach der Landung im Eingangsbereich bewegen Sie sich mit Hilfe der Tastatur. Sie können die <i>Netzwerkwelt</i> erkunden (Informationsräume, Firmenausstellung betreten) und Sie sehen auch, ob weitere Teilnehmende unterwegs sind. Wenn Sie einer Person begegnen, öffnet sich ein Videochat, welcher sich mit einem Geräusch ankündigt, Sie können sich austauschen oder weglaufen - fast wie im echten Leben ;-).</p>
 
 	<h3>Erklärfilm Netzwerkwelt</h3>
-	<p>Klicken Sie <a href="https://vortraege.fossgis.de/f/d575438dc2fb42c0a253/" target="_blank">hier</a>, um den Film anzusehen.</p>
+	<p>Klicken Sie <a href="https://files.fossgis.de/Konferenz/Video_Netzwerkwelt/Erklaervideo_Netzwerkwelt_FOSSGIS21.mkv" target="_blank">hier</a>, um den Film anzusehen.</p>
 	<div>
 	<img src="./data/Foto_Erklaerfilm_Netzwerkwelt.png" alt="Erklärfilm Netzwerkwelt">
 
