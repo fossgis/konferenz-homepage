@@ -34,24 +34,6 @@ Nach aktueller Lage wird die Konferenz stattfinden. Wir orientieren uns an den E
 Wir verstehen, wenn einzelne Teilnehmer absagen wollen oder müssen. Wenn dem so ist, schreiben Sie eine E-Mail an konferenz-orga@fossgis.de. Leider können wir mit dem heutigen Tag keine Kosten zurückerstatten.<br>
 Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer per E-Mail.</p>	
 <p>Wir bitten alle Teilnehmenden, die zur FOSSGIS kommen sich an den Handlungsempfehlungen, wie Lächeln statt Händeschütteln und regelmäßiges, ausgiebiges Händeswaschen zu orientieren.</p>
-	<!--<p>
-		Die Anmeldung ist voraussichtlich ab Anfang Januar 2020 geöffnet.
-	</p>
-
-	<!--<p>
-		Die FOSSGIS-Konferenz 2019 ist mit 500 Teilnehmer*innen komplett ausgebucht. Eine spontane Teilnahme kann aufgrund der räumlichen Begrenzung nicht gewährleistet werden.
-		Eine Registrierung Ihrerseits ist notwendig, um Ihre Teilnahme zu sichern und hilfreich f&uuml;r die Organisation.	
-<p>
-		Im Rahmen der Anmeldung können Sie bis zum 11.03.2019 eine Reihe von FOSSGIS-Workshops (kostenpflichtig) unter "Workshop nachbuchen" auswählen.
-		Informationen zu den einzelnen Workshops finden Sie im <a href="https://pretalx.com/fossgis2019/schedule/">Programm</a>.
-	</p>
-	</p>
-
-	<p class="highlight">
-		&darr; <a href="#shop">Direkt zur Anmeldung</a>
-	</p>-->
-
-
 
 	<h3>Preise FOSSGIS-Konferenz 2020</h3>
 	<ul>
@@ -77,20 +59,10 @@ Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer
 	</p>
 
 	<h3>Helfer</h3>
-	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer.fossgis.de/">Helfersystem</a> registrieren und eine E-Mail an konferenz-orga@fossgis.de senden, damit wir Sie kontaktieren können. Helfer dürfen das kostenfreie "Helfer-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2020/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
+	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im Helfersystem registrieren und eine E-Mail an konferenz-orga@fossgis.de senden, damit wir Sie kontaktieren können. Helfer dürfen das kostenfreie "Helfer-Ticket" buchen.</p>
 
 	<h3>Anmeldung</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2020/">diesem Link</a> direkt aufrufen.</p>
-	<div id="shop">
-		<pretix-widget event="https://pretix.eu/fossgis/2020/"></pretix-widget>
-	</div>
-	<noscript>
-		<div class="pretix-widget">
-			<div class="pretix-widget-info-message">
-				JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2020/">hier</a>.
-			</div>
-		</div>
-	</noscript>
+	<p>Die Anmeldung ist geschlossen.</p>
 
 	<?php include('../inc/footer.inc'); ?>
 
