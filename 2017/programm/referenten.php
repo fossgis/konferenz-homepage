@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+7
 <?php require_once 'simple_html_dom.php'; ?>
 <html lang="de">
     <head>
@@ -34,8 +34,8 @@
 	     $html = file_get_html("https://frab.fossgis-konferenz.de/de/2017/public/speakers");
 	     $referenten = $html->find('table[class=list]', 0);
 
- 	     $referenten = str_replace("de/2017/public/events/", "2017/programm/event.php?id=", $referenten);
- 	     $referenten = str_replace("de/2017/public/speakers/", "2017/programm/speaker.php?id=", $referenten);
+         $referenten = preg_replace("/de\/2017\/public\/events\/([0-9]+)/", '2017/programm/event\1.html', $referenten);
+         $referenten = preg_replace("/de\/2017\/public\/speakers\/([0-9]+)/", '2017/programm/speaker\1.html', $referenten);
              $referenten = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referenten);
 	     $referenten = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referenten);
 	  

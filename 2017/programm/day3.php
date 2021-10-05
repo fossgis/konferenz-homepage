@@ -36,8 +36,8 @@
                 echo $color;
                 $table = $html->find('div[id=main-table]', 0);
 
-                $table = str_replace("de/2017/public/events/", "2017/programm/event.php?id=", $table);
-                $table = str_replace("de/2017/public/speakers/", "2017/programm/speaker.php?id=", $table);
+                $table = preg_replace("/de\/2017\/public\/events\/([0-9]+)/", '2017/programm/event\1.html', $table);
+                $table = preg_replace("/de\/2017\/public\/speakers\/([0-9]+)/", '2017/programm/speaker\1.html', $table);
 	        echo $table;
 	  ?>
 
