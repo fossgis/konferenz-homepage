@@ -31,7 +31,6 @@
                     <div class="video-preview-overlay"></div>
                 </a>
             </div>
-                        <p><a href="/2020/attachments/RQMALK_Leider_immer_noch_kein_lidar_fL8I0zW">Vortragsfolien (PDF) </a></p>
             <p>Ich erzähle kurz zum aktuellen Stand der Dinge in meinen <a href="https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/">Bestrebungen amtliche LiDAR-Daten bzw. das digitale Oberflächenmodell der Stadt Hamburg über das Hamburgische Transparenzgesetz zu befreien</a>. Stand November 2019 ist der Fall dank <a href="https://www.fossgis.de/wiki/F%C3%B6rderantr%C3%A4ge/LGV_vs._Transparenzgesetz">Unterstützung durch den FOSSGIS e.V.</a> in Bearbeitung durch die dem Landesbetrieb Geoinformation und Vermessung übergeordneten Behörde für Stadtentwicklung und Wohnen.</p>
 <p>Fortsetzung von <a href="https://pretalx.com/fossgis2019/talk/MNKP8V/">Leider kein LiDAR</a> auf der letzten FOSSGIS.</p>
         </section>
