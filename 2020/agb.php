@@ -2,7 +2,12 @@
 <html lang="de">
 
 <head>
-	<?php include "inc/meta.inc"; ?>
+	<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="Die FOSSGIS-Konferenz ist im D-A-CH Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme OpenStreetMap.">
+<meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2019, FOSSGIS-Konferenz 2019, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, HTW Dresden">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="apple-itunes-app" content="app-id=1453299630">
 
 	<title>FOSSGIS 2019 - AGB</title>
 
@@ -13,7 +18,49 @@
 
 <body id="home">
 
-	<?php include "inc/header.inc"; ?>
+	<header class="page-header">
+	<a href="./" alt="FOSSGIS Konferenz 2020">
+		<img class="page-logo" src="./img/fossgis2020-bollenhut.png">
+	</a>
+	<h1 class="page-title">
+		FOSSGIS-Konferenz 2020<br>
+		<span class="amp">Freiburg</span> <br>
+		<span class="amp">11.&ndash;14. März</span>
+	</h1>
+</header>
+
+<nav>
+	<ul class="main">
+		<li id="navHome">
+			<a href="./">Startseite</a>
+		</li>
+		<!--<li id="navAnmeldung">
+			<a href="./anmeldung/">Anmeldung</a>
+		</li>-->
+		<li id="navProgramm">
+		<a href="./programm/">Programm</a>
+		</li>
+		<!--<li id="navAnreise">
+			<a href="./anreise/">Anreise</a>
+		</li>-->
+		<li id="navStandort">
+			<a href="./standort/">Standort</a>
+		</li>
+		<li id="navEvents">
+			<a href="./socialevents/">Social Events</a>
+		</li>
+		<li id="navTeam">
+			<a href="./loc/loc.php">Team</a>
+		</li>
+	</ul>
+</nav>
+
+<div class="hero">
+	<figure>
+		<img class="img-fluid" src="./img/freiburg.jpg" alt="Freiburg Luftbild">
+		<figcaption>Photo: Pixaby</figcaption>
+	</figure>
+</div>
 
                 <h2>Allgemeine Geschäftsbedingungen FOSSGIS-Konferenz</h2>
 
@@ -86,7 +133,19 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <p>Stand der AGB: 24. November 2018</p>
 
-	<?php include "inc/footer.inc"; ?>
+	<footer>
+	<ul class="main">
+		<li>
+			<a href="https://www.fossgis.de/impressum/">Impressum</a>
+		</li>
+		<li>
+			<a href="./agb.php">AGB</a>
+		</li>
+		<li>
+			<a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a>
+		</li>
+	</ul>
+</footer>
 
 </body>
 
