@@ -20,7 +20,6 @@
 	<p>Wählen Sie den gewünschten Konferenztag aus.</p>
 	<ul>
 		<li>
-			<!-- href-old "https://pretalx.com/fossgis2019/schedule/#2019-03-13" "https://pretalx.com/fossgis2019/speaker/"-->
 			<a href="programm/mittwoch.php">Mittwoch, 11.03.2020</a>
 		</li>
 		<li>
@@ -32,9 +31,6 @@
 		<li>
 			<a href="programm/samstag.php" target="_blank" rel="noopener nofollow">OSM-Samstag, 14.03.2020</a>
 		</li>
-		<!--<li>
-			<a href="" target="_blank" rel="noopener nofollow">Referenten</a>
-		</li>-->
 	</ul>
 
 

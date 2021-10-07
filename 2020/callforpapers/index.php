@@ -8,20 +8,16 @@
     <title>FOSSGIS 2020 - Anmeldung</title>
 
     <link rel="stylesheet" href="./css/normalize.css">
-    <link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2019/widget/v1.css">
     <link rel="stylesheet" href="./css/base.css">
     <link rel="stylesheet" href="./css/print.css" media="print">
-    <script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 </head>
 
 <body>
     <?php include "../inc/header.inc"; ?>
 
-    <h2><a href="https://pretalx.com/fossgis2020/">Zur Einreichung</a></h2>
-
     <p>Forscher, Entwickler und Anwender von GIS-Software sowie Mitwirkende des OpenStreetMap-Projekts können einen Vortrag oder Workshop einreichen. Wir suchen Vorträge mit Neuigkeitswert sowie solche, die spannende Themen behandeln oder anregende Diskussionen auslösen. Thema der Konferenz sind freie Geodaten (insbesondere, aber nicht nur, OpenStreetMap), Open Data und freie GIS-Software.</p>
 
-    <p><a href="https://pretalx.com/fossgis2020/"><strong>Der Call for Papers läuft bis zum 17. November 2019.</strong></a></p>
+    <p><strong>Der Call for Papers läuft bis zum 17. November 2019.</strong></p>
 
     <p>Folgende Veranstaltungstypen sind vorgesehen:</p>
 
@@ -50,19 +46,6 @@
     <p>Wir freuen uns auf Ihre Einreichungen für ein spannendes Programm!</p>
 
     <p>Ihr FOSSGIS-Konferenz-Programmkomitee</p>
-
-    <!--<h3>Anmeldung</h3>
-    <p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2019/">diesem Link</a> direkt aufrufen.</p>
-    <div id="shop">
-        <pretix-widget event="https://pretix.eu/fossgis/2019/"></pretix-widget>
-    </div>
-    <noscript>
-        <div class="pretix-widget">
-            <div class="pretix-widget-info-message">
-                JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2019/">hier</a>.
-            </div>
-        </div>
-    </noscript>-->
 
     <?php include('../inc/footer.inc'); ?>
 

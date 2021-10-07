@@ -96,7 +96,7 @@
 
 	<h3>Samstag, 14. März 2020</h3>
 	<h4>OSM-Samstag </h4>
-	<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2020/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein. Wir bitten um Anmeldung über das <!--<a href="https://pretix.eu/fossgis/2020/">-->FOSSGIS-Konferenz-Teilnehmeranmeldesystem.</a></p>
+	<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2020/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und Räume sortiert. Für das leibliche Wohl wird gesorgt sein. Wir bitten um Anmeldung über das FOSSGIS-Konferenz-Teilnehmeranmeldesystem.</p>
 
 	<?php include "../inc/footer.inc"; ?>
 
