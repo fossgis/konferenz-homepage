@@ -41,7 +41,12 @@
 	  $text3 = str_replace("de/2018/public/events/", "2018/programm/event.php?id=", $text3);
           $text3 = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text3);
           $text3 = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text3);
-	  
+
+          $text1 = str_replace("/assets/person_large-b94babab6617c8f2f22cf93982fbe28ed7cc2499122fa363c8598bf14d591561.png", "/2018/programm/avatars/unknown-large.png", $text1);
+          $text1 = preg_replace('/\/system\/people\/avatars\/000\/00(.)\/(...)\/large\/[^"]*\.(...)\?[0-9]+/', '/2018/programm/avatars/large-\1\2.\3', $text1);
+          $text1 = str_replace("/2018/programm/avatars/large-97.JPG", "/2018/programm/avatars/large-97.jpg", $text1);
+          $text1 = preg_replace('/large-0+([0-9]+)/', 'large-\1', $text1);
+          $text1 = preg_replace('/large-([0-9]+).JPG/', 'large-\1.jpg', $text1);
           $text1 = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $text1);
           $text1 = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $text1);
           # event logo in large
