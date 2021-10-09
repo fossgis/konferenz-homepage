@@ -8,6 +8,8 @@
 
         <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+	<link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
+	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>
 
     </head>
     <body id="programm">
@@ -16,33 +18,24 @@
 
             <div id="content">
 
-                <?php include('../inc/nav.inc'); ?>
+                <?php include('../inc/nav.inc');
+	     include('prog_nav.inc'); ?>
 
                 <h2>Programm zur Konferenz 2016</h2>
                 <p>Wählen Sie den gewünschten Konferenztag aus.</p>
                 <div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/0">OSM Sonntag, 03.07.2016</a>
-                        </li>                    	
-                        <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/1">Montag, 04.07.2016</a>
+                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=1">OSM Sonntag, 03.07.2016</a>
                         </li>
-
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/2">Dienstag, 05.07.2016</a>
+                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=2">Montag, 04.07.2016</a>
                         </li>
-
                         <li>
-                            <a href="http://frab.fossgis-konferenz.de/de/2016/public/schedule/3">Mittwoch, 06.07.2016</a>
+                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=3">Dienstag, 05.07.2016</a>
                         </li>
-                    </ul>
-                </div>
-				<p>Die FOSSGIS-Konferenz per Android-APP:</p>
-				<div style="margin: 5px 85px 7px 160px">
-                    <ul>
                         <li>
-                            <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">Download der Android-App</a>.
+                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=4">Mittwoch, 06.07.2016</a>
                         </li>
                     </ul>
                 </div>
@@ -50,20 +43,10 @@
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="https://www.fossgis.de/w/images/c/c7/Programm_FOSSGIS-2016.pdf">FOSSGIS-Konferenz-Programm PDF</a>
+                            <a href="Programm_FOSSGIS-2016.pdf">FOSSGIS-Konferenz-Programm PDF</a>
                         </li>
                     </ul>
                 </div>
-<?php /*
-				<p>Die FOSSGIS-Konferenz wird per Livestream übertragen:</p>
-				<div style="margin: 5px 85px 7px 160px">
-                    <ul>
-                        <li>
-                            <a href="http://streaming.media.ccc.de/fossgis16/">Livestream der FOSSGIS-Konferenz</a>.
-                        </li>
-                    </ul>
-                </div>
-*/ ?>
 				<p>Die Vorträge der FOSSGIS-Konferenz wurden aufgezeichnet, eine Übersicht finden Sie hier:</p>
 				<div style="margin: 5px 85px 7px 160px">
                     <ul>
