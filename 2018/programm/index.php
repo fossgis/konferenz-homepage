@@ -32,7 +32,6 @@
           <h2>
 	    <?php
 	       if (!isset($_GET['day'])) echo "Übersicht";
-           else if ($_GET['day'] == 0) echo "Mittwoch, 21. März";
 	       else if ($_GET['day'] == 1) echo "Mittwoch, 21. März";
 	       else if ($_GET['day'] == 2) echo "Donnerstag, 22. März";
 	       else if ($_GET['day'] == 3) echo "Freitag, 23. März";
@@ -61,7 +60,7 @@
           <div style="margin: 5px 85px 7px 160px">
             <ul>
               <li>
-                <a href="programm.php?day=0">Mittwoch, 21.03.2018</a>
+                <a href="programm.php?day=1">Mittwoch, 21.03.2018</a>
               </li>
 
               <li>
@@ -77,21 +76,8 @@
 	          <li>
 		        <a href="/2018/programm/referenten.php">Referenten</a>
 	          </li>
-	          <li>
-		        <a href="https://frab.fossgis-konferenz.de/de/2018/public/schedule" target="_blank">Programmseite</a>
-			  <li>
-				<a href="http://streaming.media.ccc.de/">Vorträge im Livestream</a></li>
-	          </li>
             </ul>
           </div>
-<p>&nbsp; </p>
-  <p>FOSSGIS 2018 auf dem Smartphone:</p>
-          <div style="margin: 5px 85px 7px 160px">
-            <ul>
-              <li>Programm für Android (Tobias Preuss) <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule" target="_blank">PlayStore</a> oder <a href="../data/FOSSGIS-2018-1.33.5.apk" target="_blank">Direktdownload der APK</a>
-              </li>
- 			  <li>Lokalteam-APP (Stephan Herritsch und Arne Schubert) <a href="https://yagajs.org/fossgis2018.apk">Direktdownload der APK</a> <a href="../data/FOSSGIS-2018-1.33.5.apk" target="_blank"></a>oder <a href="https://fossgis2018.yagajs.org/" target="_blank"> als Web-APP.              </li> 
-
 
           <?php
 	     }
