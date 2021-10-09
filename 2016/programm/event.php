@@ -23,12 +23,7 @@
 	     include('../inc/nav.inc');
 	     include('prog_nav.inc');
           ?>
-	  
-	  <figure>
-            <img src="../img/passau.jpg" width="880" height="241" alt="Passau">
-            <figcaption>Photo: Tobias Hobmeier (CC-BY-SA)</figcaption>
-          </figure>
-	  
+
           <h2>Event-Details</h2>
 	  <?php
 
@@ -47,6 +42,10 @@
           $info = str_replace("/de/2016/public/events/", "https://frab.fossgis-konferenz.de/de/2016/public/events/", $info);
 	  
                 $info = str_replace("de/2016/public/schedule/", "2016/programm/programm.php?day=", $info);
+          $referent = str_replace("/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png", "/2016/programm/avatars/unknown-small.png", $referent);
+          $referent = preg_replace('/\/system\/people\/avatars\/000\/00(.)\/(...)\/small\/[^"]*\.(...)\?[0-9]+/', '/2016/programm/avatars/small-\1\2.\3', $referent);
+          $referent = preg_replace('/small-0+([0-9]+)/', 'small-\1', $referent);
+          $referent = preg_replace('/small-([0-9]+).JPG/', 'small-\1.jpg', $referent);
                 $referent = str_replace("de/2016/public/speakers/", "2016/programm/speaker.php?id=", $referent);
                 $referent = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referent);
                 $referent = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referent);
