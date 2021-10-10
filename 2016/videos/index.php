@@ -77,7 +77,7 @@ if ($debug) {
 
 echo "<table class=\"video\">\n";
 echo "<thead>\n <tr class=\"header\">\n";
-echo "  <th style=\"width:13em;\">Termin</th><th style=\"width:7em;\">Raum</th><th colspan=\"2\">Vortragende(r)</th><th>Titel</th><th style=\"width:180px;\">Video/Audio</th><th>ID</th>\n";
+echo "  <th>Termin</th><th>Raum</th><th>Vortragende(r)</th><th>Titel</th><th>Video/Audio</th>\n";
 echo " </tr>\n</thead>\n";
 echo "<tfoot>\n <tr style=\"background-color:#eb7f00; height:15px;\"><td colspan=\"7\"></td></tr>\n</tfoot>\n";
 echo "<tbody>\n";
@@ -112,10 +112,10 @@ foreach ($d as $nr => $e) {
 	    foreach ($v["persons"] as $pnr => $p) {
 		if ($pnr>0) $pers.=", ";
 		if (($pid==0) && (array_key_exists($p["id"], $speakers))) $pid=$p["id"];
-		$pers.="<a href=\"".FRAB_PERSON_URL.$p["id"]."\" title=\"".$p["public_name"]."\">".$p["public_name"]."</a>";
+		$pers.="<a href=\"/2016/programm/speaker".$p["id"].".html\" title=\"".$p["public_name"]."\">".$p["public_name"]."</a>";
 	    } // Personen
 	    echo "  <td style=\"width:13em;\">".$pers."</td>\n";
-	    echo "  <td><a href=\"".FRAB_EVENT_URL.$id."\" title=\"".utf8_cut($desc, DESC_LEN)."\">".utf8_cut($title, TIT_LEN)."<br>";
+	    echo "  <td><a href=\"/2016/programm/event".$id.".html\" title=\"".utf8_cut($desc, DESC_LEN)."\">".utf8_cut($title, TIT_LEN)."<br>";
 	    if (!empty($subtitle)) echo "<i>".utf8_cut($subtitle, SUB_LEN)."</i>";
 	    echo "</a></td>\n";
 	    if (array_key_exists($id, $ytarr)) {
@@ -137,7 +137,6 @@ foreach ($d as $nr => $e) {
 		if (!empty($files["ogg"][""])) echo ogg_link($files["ogg"][""]["name"])." ";
 	    }
 	    echo "</td>\n";
-	    echo "  <td class=\"center\"><a href=\"".FRAB_EVENT_URL.$id."\" title=\"Vortragsinfos auf der Konferenz Webseite\">".$id."</a>\n";
 	    echo " </tr>\n";	// Vortragszeile fertig
 	} // Vortraege
     } // Räume
