@@ -1,0 +1,48 @@
+/*---------------------------------------------------------------------*/
+/* Style-Sheet Videos                                                  */
+/* al 26.6.16 created                                                  */
+/* al 28.6.16 angepasst an screen.css von FOSSGIS Konf                 */
+/*---------------------------------------------------------------------*/
+
+div#videoaufzeichnungen {
+    width: 99%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/*---------------------------------------------------------------------*/
+/* Tabellen                                                            */
+
+table.video {
+  width: 100%;
+}
+
+table.video tr.header {
+  background-color: #DDDDDD;
+}
+
+table.video tr.subheader {
+  background-color: #CCCCCC;
+}
+
+table.video tr.grau {
+  background-color: #EEEEEE;
+}
+
+table.video tr.weiss {
+  background-color: white;
+}
+
+table.video th {
+  font-size: 70%;
+  font-weight: normal;
+  text-align: center;
+}
+
+table.video td {
+  font-size: 90%;
+}
+
+table.video td.center {
+  text-align: center;
+}
