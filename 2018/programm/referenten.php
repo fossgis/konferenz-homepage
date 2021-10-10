@@ -38,8 +38,10 @@
          $referenten = preg_replace('/\/system\/people\/avatars\/000\/00(.)\/(...)\/small\/[^"]*\.(...)\?[0-9]+/', '/2018/programm/avatars/small-\1\2.\3', $referenten);
          $referenten = preg_replace('/small-0+([0-9]+)/', 'small-\1', $referenten);
          $referenten = preg_replace('/small-([0-9]+).JPG/', 'small-\1.jpg', $referenten);
-         $referenten = str_replace("de/2018/public/events/", "2018/programm/event.php?id=", $referenten);
-         $referenten = str_replace("de/2018/public/speakers/", "2018/programm/speaker.php?id=", $referenten);
+ 	     $referenten = preg_replace('/de\/2018\/public\/events\/([0-9]+)/', '2018/programm/event\1.html', $referenten);
+ 	     $referenten = preg_replace('/de\/2018\/public\/speakers\/([0-9]+)/', '2018/programm/speaker\1.html', $referenten);
+#         $referenten = str_replace("de/2018/public/events/", "2018/programm/event.php?id=", $referenten);
+#         $referenten = str_replace("de/2018/public/speakers/", "2018/programm/speaker.php?id=", $referenten);
          $referenten = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referenten);
          $referenten = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referenten);
          $referenten = str_replace("/small/", "/large/",$referenten);

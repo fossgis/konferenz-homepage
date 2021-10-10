@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>FOSSGIS 2018 Programm</title>
+        <meta name="description" content="FOSSGIS ist die Abk&uuml;rzung f&uuml;r Freie und Open Source Software f&uuml;r Geoinformationssysteme und ist die f&uuml;hrende Konferenz zu diesem Thema im deutschsprachigen Raum.">
+        <meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM, Universität Bonn">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+        <link rel="stylesheet" type="text/css" href="/fonts/Droid_Sans_regular_bold.css" />
+        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+	<link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
+	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>	
+    </head>
+    
+    <body id="programm">
+      <div id="wrap">
+        <h1>
+    FOSSGIS-Konferenz 2018 <span class="venue">Bonn</span><br>
+    <span class="date">21.&ndash;24. März 2018</span>
+</h1>
+	
+        <div id="content">
+	  
+          <ul id="mainNav">
+    <li id="navHome"><a href="/2018/">Startseite</a></li>
+    <li id="navProgramm"><a href="/2018/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2018/anreise">Anreise</a></li>
+    <li id="navEvents"><a href="/2018/socialevents">Social Events</a></li>
+    <li id="navTeam"><a href="/2018/loc/loc.php">Das Team</a></li>
+    <li id="navGallery"><a href="/2018/gallery">Bilder</a></li>
+</ul>
+<ul id="progNav">
+    <li id="prog">
+        <a href="/2018/programm/">Übersicht</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day1.php">Mittwoch</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day2.php">Donnerstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day3.php">Freitag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day4.php">Samstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/referenten.php">Referenten</a>
+    </li>
+</ul>
+	  
+                <figure>
+                    <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
+                    <figcaption>Photo: Stadt Bonn</figcaption>
+                </figure>
+	  
+          <h2 id='event-pagetitle'>Event-Details</h2>
+	  <h3 id='event-title'>Vortrag: Aufgabenorientierte Datenklassifikation in Choroplethen-Karten für die Erhaltung lokaler Extremwerte</h3><h4 id='event-subtitle'></h4><div class='column right' id='sidebar'> <h3>Referenten</h3> <table class='list'> <tbody> <tr> <td><div class="image small"><img src="/2018/programm/avatars/small-1650.jpg" alt="Ac" /></div></td> <td><a href="/2018/programm/speaker1650.html">Ariel Chang</a></td> </tr> </tbody> </table> </div><div class='column left' id='basic'> <div class="image large"><img src="https://frab.fossgis-konferenz.de/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large" /></div> <p class="abstract">In thematischen Karten werden die Werte einzelner Regionen zur besseren Übersicht oft in verschiedene Klassen eingeteilt und entsprechend farblich kodiert, um einen besseren Überblick zu erhalten. Der visuelle Eindruck solcher Choroplethen-Karten wird dabei durch die gegebene Werteverteilung, die Methode zur Datenklassifikation und die Farbwahl bestimmt. Konventionelle Klassifizierungsmethoden funktionieren datenbasiert und beachten dabei nicht den räumlichen Kontext der Daten. Verfolgen wir eine aufgabenorientierte Klassifikation.</p> <p class="description">Für die Erhaltung von Polygonen, die lokale Extremwerte darstellen, wurde folgendes Verfahren implementiert und getestet. <br />1. Identifizierung lokaler Extremwerte: Ein lokaler Extremwert ist als Polygon definiert, welches größere (oder kleinere) Werte im Vergleich zu all seinen Nachbar-Polygonen aufweist. Als Nachbarn werden die Polygone definiert, die eine gemeinsame Grenze oder einen gemeinsamen Eckpunkt aufweisen. Um die Suche nach Nachbarn zu beschleunigen, wird ein räumlicher Index basierend auf einem R-Tree verwendet. Unter all den Nachbarn eines lokalen Extremwert-Polygons wird dasjenige ausgewählt und gespeichert, welches die minimale absolute Differenz in den Attributwerten aufweist. <br />2. Sortierung aller Extremwert-Polygone entsprechend ihrer Signifikanz: Die sich aus dem ersten Schritt ergebenden Werte-Intervalle (abgegrenzt durch die Attributwerte des Extremwert-Polygons und dem nummerisch nächsten Nachbarn) werden nach ihrer Intervall-Breite sortiert. <br />3. Bestimmung der Klassenbegrenzung: Um optimale Schnittpunkte zwischen den Intervallsegmenten zu erhalten, wird ein Plane Sweep Algorithmus angewendet: Eine vertikale Linie wird vom globalen Minimum zum globalen Maximum geschoben, dabei wird die Anzahl der geschnittenen Intervalle gezählt. Der Wert, der die maximale Anzahl von Schnittpunkten aufweist, definiert die erste Klassenbegrenzung. Nach Ausschluss der Segmente, die hiermit geschnitten werden, wird das Verfahren wiederholt, um auf die gleiche Weise die zweite und alle weiteren Klassen zu erhalten, bis eine vorgegebene Anzahl an Klassen oder alle Intervalle erreicht wurden. <br />Offensichtlich sind alle Datenklassifizierungsmethoden in der Lage, alle Extremwert-Polygone mit einer großen Anzahl an Klassen zu erfassen (im Extremfall ist die Anzahl der Klassen identisch mit der Anzahl der Extremwerte). Erste empirische Tests haben gezeigt, dass unser Ansatz jedoch eine signifikant geringere Anzahl an Klassen benötigt, um das gewünschte Ziel der Erhaltung von Extremwert-Polygonen zu erreichen.</p> </div><div class='column left' id='details'> <h3>Info</h3> <p> <b>Tag:</b> <a href="/2018/programm/day3.php">23.03.2018</a> <br> <b>Anfang:</b> 14:15 Uhr <br> <b>Dauer:</b> 00:25 <br> <b>Raum:</b> Hörsaal II - Geozentrum <br> <b>Track:</b> <font class='event track-freie-software'> <a href="/de/2018/public/events#freie%20software">Freie Software</a> </font> <br> </p> <h3>Links:</h3> <ul> <li><a href="https://frab.fossgis-konferenz.de/de/2018/public/events/5277.ics">iCalendar</a></li> <li><a href="http://www.geomatik-hamburg.de/g2lab/research-achor.html">Projekt Website</a></li> </ul> <h3>Dateien</h3> <ul> <li><a href="https://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/189/original/FOSSGIS_HCU.pdf?1511348260">weiter Dokument</a></li> </ul>  </div>	  
+	</div>
+	<footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
+      </div>
+    </body>
+</html>

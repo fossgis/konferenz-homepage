@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>FOSSGIS 2018 Programm</title>
+        <meta name="description" content="FOSSGIS ist die Abk&uuml;rzung f&uuml;r Freie und Open Source Software f&uuml;r Geoinformationssysteme und ist die f&uuml;hrende Konferenz zu diesem Thema im deutschsprachigen Raum.">
+        <meta name="keywords" content="FOSSGIS, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM, Universität Bonn">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+        <link rel="stylesheet" type="text/css" href="/fonts/Droid_Sans_regular_bold.css" />
+        <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+	<link type="text/css" href="programm.css" media="screen,print" rel="Stylesheet"/>
+	<link type="text/css" href="extra.css" media="screen,print" rel="Stylesheet"/>	
+    </head>
+    
+    <body id="programm">
+      <div id="wrap">
+        <h1>
+    FOSSGIS-Konferenz 2018 <span class="venue">Bonn</span><br>
+    <span class="date">21.&ndash;24. März 2018</span>
+</h1>
+	
+        <div id="content">
+	  
+          <ul id="mainNav">
+    <li id="navHome"><a href="/2018/">Startseite</a></li>
+    <li id="navProgramm"><a href="/2018/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2018/anreise">Anreise</a></li>
+    <li id="navEvents"><a href="/2018/socialevents">Social Events</a></li>
+    <li id="navTeam"><a href="/2018/loc/loc.php">Das Team</a></li>
+    <li id="navGallery"><a href="/2018/gallery">Bilder</a></li>
+</ul>
+<ul id="progNav">
+    <li id="prog">
+        <a href="/2018/programm/">Übersicht</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day1.php">Mittwoch</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day2.php">Donnerstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day3.php">Freitag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day4.php">Samstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/referenten.php">Referenten</a>
+    </li>
+</ul>
+	  
+                <figure>
+                    <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
+                    <figcaption>Photo: Stadt Bonn</figcaption>
+                </figure>
+	  
+          <h2 id='event-pagetitle'>Event-Details</h2>
+	  <h3 id='event-title'>Vortrag: Jetzt in Ihrem QGIS: ISYBAU XML-Abwasserdaten</h3><h4 id='event-subtitle'>in der Hauptrolle der OGR GMLAS Treiber</h4><div class='column right' id='sidebar'> <h3>Referenten</h3> <table class='list'> <tbody> <tr> <td><div class="image small"><img src="/2018/programm/avatars/small-1679.jpg" alt="Ts" /></div></td> <td><a href="/2018/programm/speaker1679.html">Thomas Schüttenberg</a></td> </tr> </tbody> </table> </div><div class='column left' id='basic'> <div class="image large"><img src="https://frab.fossgis-konferenz.de/assets/event_large-4b8aa978adbb7c8e80151f5a83c6782a12e763374ae3a042a55e7e626a64d93b.png" alt="Event large" /></div> <p class="abstract">Ein Arbeitsbericht über die Verwendung des OGR GMLAS Treibers für die Nutzung der „ISYBAU-Austauschformate Abwasser (XML)“ in QGIS 3.  <br />Ziel ist einerseits die Anzeige von Kanälen, Schächten und Abwasserbauwerken (möglichst) auf Knopfdruck, andererseits eine freie ISYBAU-Schnittstelle zu anderen abwasserbezogenen QGIS-Projekten und Werkzeugen, wie z.B. den QKan Plugins oder der schweizerischen Abwasserfachschale QGEP, die auf diese Weise auch für Anwender aus Deutschland interessant werden könnte.</p> <p class="description">Im Rahmen des QGIS Anwendertreffens 2017 in Kassel wurde das Thema „QGIS für die Verwaltung von Abwasserinfrastrukturen“ diskutiert. Ein Aspekt dabei waren spezielle Datenformate und Schnittstellen, also die Frage, wie man die in der Abwasserbranche weit verbreiteten „ISYBAU-Austauschformate Abwasser (XML)“[1] in QGIS nutzen kann. Nach dieser Diskussion wurde anhand des OGR GMLAS Treibers [2] bzw. des darauf basierenden QGIS Plugins GML Application Schema Toolbox [3] getestet, wie damit eine möglichst einfache Verwendung von ISYBAU XML-Dateien in QGIS 3 möglich ist. Die Konfiguration des Treibers sowie die Verarbeitung der Daten zur Anzeige enthaltener Kanäle, Schächte und Abwasserbauwerke mit all ihren Attributdaten und Beziehungen sind Gegenstand des Vortrags und stehen auf GitHub [4] für eigene Experimente bereit. </p>  <p class="description">Neben der konkreten Anwendung und dem aktuellen Umsetzungsstand einer freien ISYBAU Schnittstelle wird dabei auch thematisiert, dass gerade generische Lösungen, wie dieser Treiber, in Verbindung mit offenen Standards – oder wenigstens veröffentlichten Spezifikationen – neue Möglichkeiten erschließen: Der OGR GMLAS Treiber wurde, ausgehend von der Grundidee die Strukturiertheit und Schema-Konformität von XML-Daten direkt für Zugriff und Interaktion mit den Inhalten zu nutzen, für die Verarbeitung von Complex Feature GML entwickelt, wie sie im INSPIRE Kontext verwendet werden. Anstatt für bestimmte Inhalte vorprogrammiert zu sein, sollen XML-Daten damit generisch und anpassbar auf Grundlage jedweden Schemas gelesen werden. - Und deshalb lassen sich damit auch Abwasser-Datenformate erfolgreich in eine PostGIS- oder SpatiaLite-Datenbank einlesen.</p>  <p class="description">Die Umformung der Abwasserdaten in eine schemabedingt immer gleiche Struktur ermöglicht einerseits standardisierte und vorgefertigte Views für die Bildung und Darstellung von Geometrien und Objekten sowie alle Arten von Datenqualitätsprüfungen. Andererseits kann dieser GIS-fähige Import auch als Verbindungsglied zu weiteren abwasserbezogenen QGIS-Projekten und Werkzeugen fungieren. Es besteht die Hoffnung, dass z.B. die schweizerische Abwasserfachschale QGEP [5] sich auf diese Weise mit ISYBAU-Daten befüllen lässt, wodurch sie besonders für (neue) Anwender aus Deutschland interessant würde, wo es z. Zt. nichts vergleichbares gibt. Auch die QKan Plugins [6] zur Datenaufbereitung für hydraulische Kanalnetzberechnungen könnten dadurch eine weitere Schnittstelle erhalten. Kontakte zu diesen Projekten bestehen bereits und künftig entstehen daraus hoffentlich die entsprechenden Innovationen.</p>  <p class="description">[1] http://www.arbeitshilfen-abwasser.de/html/A7ISYBAU_ATF_XML.html  <br />[2] http://www.gdal.org/drv_gmlas.html <br />[3] https://github.com/BRGM/gml_application_schema_toolbox <br />[4] https://github.com/tschuettenberg/isybau2qgep <br />[5] https://github.com/QGEP/QGEP <br />[6] https://github.com/hoettges/QKan</p> </div><div class='column left' id='details'> <h3>Info</h3> <p> <b>Tag:</b> <a href="/2018/programm/day2.php">22.03.2018</a> <br> <b>Anfang:</b> 09:35 Uhr <br> <b>Dauer:</b> 00:25 <br> <b>Raum:</b> Hörsaal II - Geozentrum <br> <b>Track:</b> <font class='event track-freie-software'> <a href="/de/2018/public/events#freie%20software">Freie Software</a> </font> <br> </p> <h3>Links:</h3> <ul> <li><a href="https://frab.fossgis-konferenz.de/de/2018/public/events/5316.ics">iCalendar</a></li> <li><a href="https://qgis.de/doku.php?id=site:abwasser:stammtisch2017">QGIS Anwendertreffen 2017, Thema Abwasser</a></li> <li><a href="https://github.com/tschuettenberg/isybau2qgep">isybau2qgep - Tests und Materialien auf GitHub</a></li> <li><a href="http://www.gdal.org/drv_gmlas.html">OGR GMLAS Treiber</a></li> </ul> <h3>Dateien</h3> <ul> <li><a href="https://frab.fossgis-konferenz.de/system/event_attachments/attachments/000/000/266/original/fossgis2018_isybau_in_qgis_sch%C3%BCttenberg.pdf?1522767367">ISYBAU xml in QGIS mit GMLAS</a></li> </ul>  </div>	  
+	</div>
+	<footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
+      </div>
+    </body>
+</html>

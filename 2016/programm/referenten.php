@@ -32,10 +32,10 @@
  	     $referenten = str_replace("/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png", "/2016/programm/avatars/unknown-small.png", $referenten);
  	     $referenten = preg_replace('/\/system\/people\/avatars\/000\/000\/0(..)\/small\/[^"]*\.(...)\?[0-9]+/', '/2016/programm/avatars/small-\1.\2', $referenten);
  	     $referenten = str_replace("/2016/programm/avatars/small-97.JPG", "/2016/programm/avatars/small-97.jpg", $referenten);
-# 	     $referenten = preg_replace('/de\/2016\/public\/events\/([0-9]+)/', '2016/programm/event\1.html', $referenten);
-# 	     $referenten = preg_replace('/de\/2016\/public\/speakers\/([0-9]+)/', '2016/programm/speaker\1.html', $referenten);
- 	     $referenten = str_replace("de/2016/public/events/", "2016/programm/event.php?id=", $referenten);
- 	     $referenten = str_replace("de/2016/public/speakers/", "2016/programm/speaker.php?id=", $referenten);
+ 	     $referenten = preg_replace('/de\/2016\/public\/events\/([0-9]+)/', '2016/programm/event\1.html', $referenten);
+ 	     $referenten = preg_replace('/de\/2016\/public\/speakers\/([0-9]+)/', '2016/programm/speaker\1.html', $referenten);
+# 	     $referenten = str_replace("de/2016/public/events/", "2016/programm/event.php?id=", $referenten);
+# 	     $referenten = str_replace("de/2016/public/speakers/", "2016/programm/speaker.php?id=", $referenten);
              $referenten = str_replace("/assets/", "https://frab.fossgis-konferenz.de/assets/", $referenten);
 	     $referenten = str_replace("/system/", "https://frab.fossgis-konferenz.de/system/", $referenten);
 	  
