@@ -68,14 +68,14 @@
                 <h3>Bronzesponsoren</h3>
                 <div class="sponsor bronze" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/201_omniscale.png" valign="middle" width="133" height="27"></a></div>
                 <div class="sponsor bronze" id="mundialis"><a href="https://www.mundialis.de/" target="_blank"><img src="img/s/202_mundialis.png" valign="middle" width="100" height="63"></a></div>
-                <div class="sponsor bronze" id="gbd"><a href="http://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
-                <div class="sponsor bronze" id="sourcepole"><a href="http://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
-				<div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
-				<div class="sponsor bronze" id="52n"><a href="http://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
+                <div class="sponsor bronze" id="gbd"><a href="https://www.gbd-consult.de" target="_blank"><img src="img/s/203_gbd-consult.png" valign="middle" width="120" height="41"></a></div>    
+                <div class="sponsor bronze" id="sourcepole"><a href="https://qgiscloud.com" target="_blank"><img src="img/s/204_sourcepole.png" valign="middle" width="160" height="40"></a></div>
+				<div class="sponsor bronze" id="mapwebbing"><a href="https://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/205_mapwebbing.PNG" width="150" height="46"></a></div>
+				<div class="sponsor bronze" id="52n"><a href="https://52north.org" target="_blank"><img valign="middle" src="img/s/206_52n.png" width="156" height="56"></a></div>
 				<div class="sponsor bronze" id="geosys"><a href="http://www.geosysnet.de" target="_blank"><img valign="middle" src="img/s/207_Logo_geoSYS_FOSSGIS.png" width="140" height="76"></a></div>
 				<div class="sponsor bronze" id="GKG Kassel - Dr.-Ing. Claas Leiner"><a href="http://www.gkg-kassel.de" target="_blank"><img valign="middle" src="img/s/208_gkg_logo.png" width="130" height="99"></a></div>
 				<div class="sponsor bronze" id="Kuestenschmiede"><a href="https://con4gis.org" target="_blank"><img valign="middle" src="img/s/209_kuestenschmiede.png" width="170" height="48"></a></div>
-				<div class="sponsor bronze" id="Lat/Lon"><a href="http://www.lat-lon.de" target="_blank"><img valign="middle" src="img/s/210_logo_latlon_web.png" width="130" height="94"></a></div>
+				<div class="sponsor bronze" id="Lat/Lon"><a href="https://www.lat-lon.de" target="_blank"><img valign="middle" src="img/s/210_logo_latlon_web.png" width="130" height="94"></a></div>
 
                 <h3>Medienpartner</h3>
                 <div class="sponsor media" id="TIB">

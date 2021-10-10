@@ -33,7 +33,7 @@
 
 		        <p>Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.</p>
 
-                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="http://www.zgis.at/">Z_GIS Fachbereich Geoinformatik</a> und der <a href="http://www.uni-salzburg.at/">Universität Salzburg </a> organisiert und findet im Vorfeld der <a href="http://www.agit.at/">AGIT</a>  statt.</p>
+                <p>Die FOSSGIS-Konferenz 2016 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Zusammenarbeit mit dem <a href="https://www.zgis.at/">Z_GIS Fachbereich Geoinformatik</a> und der <a href="https://www.uni-salzburg.at/">Universität Salzburg </a> organisiert und findet im Vorfeld der <a href="https://www.agit.at/">AGIT</a>  statt.</p>
 
                 <div class="organisers">
                     <div class="sponsor organizer"><a href="https://www.fossgis.de/"><img src="img/Fossgis_neu.png" valign="middle"></a></div>
@@ -50,15 +50,15 @@
 				  <!-- ACHTUNG: Logos für Silbersponsoren sollten nicht mehr als 220px breit und 75px hoch sein. -->
 				  <h3>Silbersponsoren</h3>
 				 
-				  <div class="sponsor silber" id="omniscale"><a href="http://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="200" height="41"></a></div> 
+				  <div class="sponsor silber" id="omniscale"><a href="https://omniscale.de/" target="_blank"><img src="img/s/103_omniscale.png" valign="middle" width="200" height="41"></a></div> 
 				  <div class="sponsor silber" id="GEOINFO IT AG"><a href="http://www.geoinfo.ch" target="_blank"><img src="img/s/Geoinfo_Logo.jpg" valign="middle" width="175" height="65"></a></div>
-				  <div class="sponsor silber" id="norbit"><a href="http://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
+				  <div class="sponsor silber" id="norbit"><a href="https://www.norbit.de/" target="_blank"><img src="img/s/206_norBIT.png" valign="middle"  width="130" height="130"></a></div>
 				  <div class="sponsor silber" id="geofabrik"><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/104_geofabrik.png" valign="middle" width="200" height="46"></a></div>
 				  
 				  <!-- ACHTUNG: Logos für Bronzesponsoren sollten nicht mehr als 150px breit und 75px hoch sein. -->
 				 <h3>Bronzesponsoren</h3>
 				 <div class="sponsor bronze"><a href="https://wheregroup.com/" target="_blank"><img src="img/s/001_wheregroup.jpg" valign="middle" width="150" height="40"></a></div>
-				 <div class="sponsor bronze" id="camptocamp"><a href="http://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="150" height="72"></a></div>
+				 <div class="sponsor bronze" id="camptocamp"><a href="https://www.camptocamp.com" target="_blank"><img src="img/s/102_Camp2Camp.PNG" valign="middle" width="150" height="72"></a></div>
 				 <div class="sponsor bronze" id="beMasterGIS"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/210_beMasterGIS.jpg" width="150" height="114"></a></div>
 				 <div class="sponsor bronze" id="sourcepole"><a href="https://sourcepole.ch/" target="_blank"><img valign="middle" src="img/s/logo_sourcepole.png" width="150" height="50"></a></div>
 				 

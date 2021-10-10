@@ -24,7 +24,7 @@
 
 				<figure>
 					<img src="img/berlin.jpg" width="880" height="220" alt="Skyline Berlin">
-					<figcaption>Photo: CC-BY-SA <a href="http://www.flickr.com/photos/giesenbauer/3458525781/">Bjørn Giesenbauer</a></figcaption>
+					<figcaption>Photo: CC-BY-SA <a href="https://www.flickr.com/photos/giesenbauer/3458525781/">Bjørn Giesenbauer</a></figcaption>
 				</figure>
 
                 <h2>Willkommen zur FOSSGIS-Konferenz 2014</h2>
@@ -53,35 +53,35 @@
                 <h3>Silbersponsoren</h3>
                 <div class="sponsor silber" id="omniscale"><a href="https://www.omniscale.de/" target="_blank"><img src="img/s/omniscale.png" valign="middle" width="220" height="45"></a></div>
                 <div class="sponsor silber"><a href="http://www.metaspatial.net/de/institute" target="_blank"><img src="img/s/metaspatial.png" valign="middle"></a></div>
-		  <div class="sponsor silber" ><a href="http://www.toll-collect.de/" target="_blank"><img src="img/s/TC_Logo_45x20mm_.png" valign="middle"  width="222" height="100"></a></div>
+		  <div class="sponsor silber" ><a href="https://www.toll-collect.de/" target="_blank"><img src="img/s/TC_Logo_45x20mm_.png" valign="middle"  width="222" height="100"></a></div>
 		  <div class="sponsor silber" ><a href="https://wheregroup.com/" target="_blank"><img src="img/s/wheregroup.png" valign="middle"  width="220" height="58"></a></div>
  		  <div class="sponsor silber" ><a href="https://www.terrestris.de/" target="_blank"><img src="img/s/terrestris.png" valign="middle"  width="160" height="160"></a></div>
  		  <div class="sponsor silber" ><a href="https://www.geofabrik.de/" target="_blank"><img src="img/s/geofabrik.png" valign="middle"  width="220" height="51"></a></div>
 		  <div class="sponsor silber" ><a href="https://sourcepole.ch//" target="_blank"><img src="img/s/sourcepole.png" valign="middle"  width="230" height="62"></a></div>
-		  <div class="sponsor silber" ><a href="http://www.norbit.de/" target="_blank"><img src="img/s/norBIT.png" valign="middle"  width="150" height="150"></a></div>
+		  <div class="sponsor silber" ><a href="https://www.norbit.de/" target="_blank"><img src="img/s/norBIT.png" valign="middle"  width="150" height="150"></a></div>
 
 
 
 
 
         	  <h3>Bronzesponsoren</h3>
-         	  <div class="sponsor bronze" id="csgis"><a href="http://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
+         	  <div class="sponsor bronze" id="csgis"><a href="https://www.csgis.de/" target="_blank"><img valign="middle" src="img/s/CSGIS.PNG" width="133" height="60"></a></div>
          	  <div class="sponsor bronze" id="bemastergis"><a href="http://www.bemastergis.de/" target="_blank"><img valign="middle" src="img/s/beMasterGIS.png" width="133" height="70"></a></div>
 		  <div class="sponsor bronze" id="mapmedia"><a href="http://www.mapmedia.de/" target="_blank"><img valign="middle" src="img/s/mapmedia.png" width="171" height="30"></a></div>
-		  <div class="sponsor bronze" id="GBD-Consult"><a href="http://www.gbd-consult.de/" target="_blank"><img valign="middle" src="img/s/gbd-consult.PNG" width="133" height="48"></a></div>
-		  <div class="sponsor bronze" id="Küstenschmiede"><a href="http://www.kuestenschmiede.de" target="_blank"><img valign="middle" src="img/s/Kuestenschmiede.png" width="109" height="109"></a></div>
-		  <div class="sponsor bronze" id="mapwebbing"><a href="http://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/mapwebbing.PNG" width="170" height="51"></a></div>
-		  <div class="sponsor bronze" id="Camp2Camp"><a href="http://www.camptocamp.com" target="_blank"><img valign="middle" src="img/s/Camp2Camp.png" width="150" height="73"></a></div>
+		  <div class="sponsor bronze" id="GBD-Consult"><a href="https://www.gbd-consult.de/" target="_blank"><img valign="middle" src="img/s/gbd-consult.PNG" width="133" height="48"></a></div>
+		  <div class="sponsor bronze" id="Küstenschmiede"><a href="https://www.kuestenschmiede.de" target="_blank"><img valign="middle" src="img/s/Kuestenschmiede.png" width="109" height="109"></a></div>
+		  <div class="sponsor bronze" id="mapwebbing"><a href="https://www.lingner.eu/" target="_blank"><img valign="middle" src="img/s/mapwebbing.PNG" width="170" height="51"></a></div>
+		  <div class="sponsor bronze" id="Camp2Camp"><a href="https://www.camptocamp.com" target="_blank"><img valign="middle" src="img/s/Camp2Camp.png" width="150" height="73"></a></div>
 		  <div class="sponsor bronze" id="GeoSYS"><a href="http://www.geosysnet.de/" target="_blank"><img valign="middle" src="img/s/geosys.png" width="150" height="53"></a></div>
-		  <div class="sponsor bronze" id="Intevation"><a href="http://intevation.de/" target="_blank"><img valign="middle" src="img/s/intevation.PNG" width="150" height="68"></a></div>
-		<div class="sponsor bronze" id="DBG"><a href="http://www.datenbankgesellschaft.de/" target="_blank"><img valign="middle" src="img/s/DBG_Datenbangesellschaft.PNG" width="151" height="75"></a></div>
+		  <div class="sponsor bronze" id="Intevation"><a href="https://intevation.de/" target="_blank"><img valign="middle" src="img/s/intevation.PNG" width="150" height="68"></a></div>
+		<div class="sponsor bronze" id="DBG"><a href="https://www.datenbankgesellschaft.de/" target="_blank"><img valign="middle" src="img/s/DBG_Datenbangesellschaft.PNG" width="151" height="75"></a></div>
 
 
 		  <h3>Mediasponsor</h3>
-		  <div class="sponsor media" id="wichmann"><a href="http://www.vde-verlag.de/" target="_blank"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a></div>
+		  <div class="sponsor media" id="wichmann"><a href="https://www.vde-verlag.de/" target="_blank"><img valign="middle" src="img/s/wichmann.png" width="200" height="40"></a></div>
 
 		  <h3>Medienpartner</h3>
-		  <div class="sponsor media" id="GIS-News"><a href="http://www.gis-news.de/" target="_blank"><img valign="middle" src="img/s/gis-news_de.png" width="180" height="68"></a></div>
+		  <div class="sponsor media" id="GIS-News"><a href="https://www.gis-news.de/" target="_blank"><img valign="middle" src="img/s/gis-news_de.png" width="180" height="68"></a></div>
 
                 </div>
 				<footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>

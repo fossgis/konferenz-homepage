@@ -47,7 +47,7 @@ Tipp: Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen,
 				<p><b>Act Green</b></p>
 				<p>Bitte geben Sie am Ende der Konferenz ihre Badges und Lanyards am Welcome Desk zurück.</p>
 				<!--<p><b>Stay Green</b></p>-->
-				<p><small>Quelle: <a href="http://www.agit.at/greenmeeting" class="external free" title="http://www.agit.at/greenmeeting" rel="nofollow">http://www.agit.at/greenmeeting</a></small>
+				<p><small>Quelle: <a href="https://www.agit.at/greenmeeting" class="external free" title="https://www.agit.at/greenmeeting" rel="nofollow">https://www.agit.at/greenmeeting</a></small>
 </p>
 
             </div>

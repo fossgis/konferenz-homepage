@@ -24,7 +24,7 @@
                 <h2>Social Events</h2>
 
                 <h3>Dienstag, 18. März 2014 ab 18 Uhr: Inoffizieller Start</h3>
-                <p>Gemeinsames Abendessen für alle schon anwesenden FOSSGISler im <a href="http://eschenbraeu.de/">Restaurant Eschenbräu</a> (Triftstr. 67, 13353 Berlin)</p>
+                <p>Gemeinsames Abendessen für alle schon anwesenden FOSSGISler im <a href="https://eschenbraeu.de/">Restaurant Eschenbräu</a> (Triftstr. 67, 13353 Berlin)</p>
                 <p>Es gibt Flammkuchen (Vegetarisch und nichtvegetarisch, Brezeln und Erdnüsse) und sehr leckeres Bier.</p>
 
                 <h3>Mittwoch, 19. März 2014 von 18 bis 23 Uhr: Offizieller Social Event</h3>

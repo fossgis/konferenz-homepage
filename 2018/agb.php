@@ -65,7 +65,7 @@ Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. b
 <p>Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen ausschließlich für die Durchführung der FOSSGIS-Konferenz verarbeitet und genutzt. Eine Weitergabe an Dritte erfolgt nicht.</p>
 
 <p>Die EU-Kommission stellt für die außergerichtliche Streitschlichtung eine Plattform bereit. Sie gibt Verbrauchern die Möglichkeit, Rechtsstreitigkeiten aus Verträgen oder Streitigkeiten über das Bestehen solcher Verträge zunächst ohne Einschaltung eines Gerichts zu klären. Die Streitbeilegungsplattform kann unter dem Link
-<a href="http://ec.europa.eu/consumers/odr/" target="_blank">http://ec.europa.eu/consumers/odr/</a> erreicht werden.</p>
+<a href="https://ec.europa.eu/consumers/odr/" target="_blank">https://ec.europa.eu/consumers/odr/</a> erreicht werden.</p>
 
 <p>Der FOSSGIS e.V. hat die Möglichkeit der Teilnahme am außergerichtlichen Streitbeilegungsverfahren geprüft und ist zu dem Ergebnis gekommen, nicht an einem Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle teilzunehmen.</p>

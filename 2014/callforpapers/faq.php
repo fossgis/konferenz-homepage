@@ -27,7 +27,7 @@
 				
                 <figure>
 					<img src="../img/berlin.jpg" width="880" height="220" alt="Skyline Berlin">
-					<figcaption>Photo: CC-BY-SA <a href="http://www.flickr.com/photos/giesenbauer/3458525781/">Bjørn Giesenbauer</a></figcaption>
+					<figcaption>Photo: CC-BY-SA <a href="https://www.flickr.com/photos/giesenbauer/3458525781/">Bjørn Giesenbauer</a></figcaption>
 				</figure>
                 
                 <h2>FAQ</h2>

@@ -40,7 +40,7 @@
                         <li>Uster/Wetzikon/Rüti etc.-Rapperswil ca. 15 Minuten</li>
 					</ul>
                     
-                    <p>Tipp: Mit dem Schiff nach Rapperswil zum Bahntarif! Zürich Bürkliplatz - Rapperswil SG (Schiffstation); fast jede Stunde; Dauer 2 Stunden (<a href="http://www.zvv.ch/">Fahrplan</a>)</p>
+                    <p>Tipp: Mit dem Schiff nach Rapperswil zum Bahntarif! Zürich Bürkliplatz - Rapperswil SG (Schiffstation); fast jede Stunde; Dauer 2 Stunden (<a href="https://www.zvv.ch/">Fahrplan</a>)</p>
 
 					<h3>Anreise per Flugzeug</h3>
                     <p>Der nächste (internationale) Flughafen ist Zürich-Kloten (ZHR). Von da fährt jede Viertelstunde ein Zug nach Zürich. Billete (=Fahrscheine) können direkt am SBB/ZVV-Billetautomaten auf dem Flughafen gelöst werden. Beispiel: Ein 2. Klasse-Billet von Zürich nach Rapperswil ist Tarifstufe 8 ("Alle Zonen", 2 Stunden gültig) kostet CHF 16.60.</p>
@@ -71,7 +71,7 @@
 							Hessenhofweg 10<br>
 							CH-8645 Rapperswil-Jona (SG)<br>
 							Tel. +41 (0)55 210 99 27<br>
-							<a href="mailto:jona@youthhostel.ch">E-Mail</a>, <a href="http://www.youthhostel.ch/jona">Webseite</a><br>
+							<a href="mailto:jona@youthhostel.ch">E-Mail</a>, <a href="https://www.youthhostel.ch/jona">Webseite</a><br>
 							Preise. CHF 63.- oder weniger, preisgünstig und trendig (ca. 20 min. zu Fuss) <br>
 							Öffnungszeiten Rezeption 7.30-10h / 17-22h
 						</p>

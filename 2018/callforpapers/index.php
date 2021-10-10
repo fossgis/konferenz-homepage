@@ -34,7 +34,7 @@
 
                 <dl>
                 <dt>Wer wir sind:</dt>
-                <dd>Die Konferenz wird vom <a href="http://fossgis.de">FOSSGIS e.V.</a> und der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> veranstaltet.</dd>
+                <dd>Die Konferenz wird vom <a href="https://fossgis.de">FOSSGIS e.V.</a> und der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> veranstaltet.</dd>
 
                 <dt>Wir bieten:</dt>
                 <dd>Eine Plattform für Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht auf der größten deutschsprachigen Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im Jahr 2018 findet die FOSSGIS vom 21. bis 24. März an der Universität Bonn statt. Die Konferenz ist die größte deutschsprachige Anwender-Konferenz für Open-Source-Geo-Software und offene Geodaten. Der Call for Papers ist bis zum <strong>28.11.2017</strong> geöffnet.</dd>

@@ -48,7 +48,7 @@
 					
 					<h3>Donnerstag, 13. Juni 2013 - Möglichkeiten der Abendgestaltung</h3>
 					<p>Der <a href="https://www.fossgis.de/">FOSSGIS e.V.</a>, Veranstalter der Konferenz wird am Donnerstag ab 17 Uhr am Stand einen Sektempfang geben. Mitglieder des Vereins und Interessierte sind herzlich eingeladen mit anderen Mitgliedern ins Gespräch zu kommen. </p>
-					<p>Einige Bars, Schnellimbiss-Ecken und Restaurants siehe hier auf <a href="http://giswiki.hsr.ch/Rappi_Info">Rappi Info.</a></p>
+					<p>Einige Bars, Schnellimbiss-Ecken und Restaurants siehe hier auf <a href="https://giswiki.hsr.ch/Rappi_Info">Rappi Info.</a></p>
 					
 					<h3>Freitag, 14. Juni 2013 - Angebote </h3>
 					<b>Rahmenprogramm</b>

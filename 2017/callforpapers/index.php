@@ -44,7 +44,7 @@
 
                 <dl>
                 <dt>Wer wir sind:</dt>
-                <dd>Die Konferenz wird vom <a href="http://fossgis.de">FOSSGIS e.V.</a> und der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> mit Untersützung der <a href="http://www.uni-passau.de/">Universität Passau</a>. veranstaltet.</dd>
+                <dd>Die Konferenz wird vom <a href="https://fossgis.de">FOSSGIS e.V.</a> und der <a href="http://www.openstreetmap.de">OpenStreetMap Community</a> mit Untersützung der <a href="http://www.uni-passau.de/">Universität Passau</a>. veranstaltet.</dd>
 
                 <dt>Wir bieten:</dt>
                 <dd>Eine Plattform für Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht auf der größten deutschsprachigen Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im Jahr 2017 findet die FOSSGIS vom 22. bis 25. März an der Universität Passau statt. Der Call for Papers läuft bis zum <strong>06. Januar 2017</strong>.

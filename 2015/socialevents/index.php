@@ -32,7 +32,7 @@
                 <p>Gemeinsames Abendessen für alle schon anwesenden FOSSGISler in der <a href="http://pinkus.de/gaststaette/altbierkueche/">Gaststätte Pinkus Müller</a> (Kreuzstr. 4-10 D-48143 Münster).</p>
 
                 <h3>Mittwoch, 11. März 2015 von 19 bis 23 Uhr: Offizieller Social Event</h3>
-                <p>Geselliges Beisammensein im <a href="http://www.schlossgarten.com/rundgang/">Schlossgartencafe</a>.</p>
+                <p>Geselliges Beisammensein im <a href="https://www.schlossgarten.com/rundgang/">Schlossgartencafe</a>.</p>
                 <p>Preis: 35€</p>
 
                 <h3>Donnerstag, 12. März 2015</h3>

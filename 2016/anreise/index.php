@@ -55,13 +55,13 @@
 				<h4>Anreise mit öffentlichen Verkehrsmitteln</h4>
                 <p>Mit den Angeboten der Deutschen Bahn, der ÖBB und der Westbahn/-bus kommen Sie besonders umweltfreundlich an Ihr Ziel.</p>
                 <ul class="list">
-                <li><a href="http://www.oebb.at/de/Reisen_in_Oesterreich/SparSchiene_Oesterreich/index.jsp"> ÖBB Sparschiene Österreich</a></li>
-                <li> <a href="http://www.oebb.at/de/Tickets/Gruppenticket/" class="external text" title="http://www.oebb.at/de/Tickets/Gruppenticket/" rel="nofollow">ÖBB Gruppenticket</a>
+                <li><a href="https://www.oebb.at/de/Reisen_in_Oesterreich/SparSchiene_Oesterreich/index.jsp"> ÖBB Sparschiene Österreich</a></li>
+                <li> <a href="https://www.oebb.at/de/Tickets/Gruppenticket/" class="external text" title="https://www.oebb.at/de/Tickets/Gruppenticket/" rel="nofollow">ÖBB Gruppenticket</a>
 </li>
-				<li> <a href="http://www.bahn.de/p/view/angebot/fernverkehrsmittel/city-night-line.shtml" class="external text" title="http://www.bahn.de/p/view/angebot/fernverkehrsmittel/city-night-line.shtml" rel="nofollow">CityNightLine</a>, Europas moderner Nachtreisezug, bringt Sie jede Nacht direkt nach Salzburg.</li></ul>
+				<li> <a href="https://www.bahn.de/p/view/angebot/fernverkehrsmittel/city-night-line.shtml" class="external text" title="https://www.bahn.de/p/view/angebot/fernverkehrsmittel/city-night-line.shtml" rel="nofollow">CityNightLine</a>, Europas moderner Nachtreisezug, bringt Sie jede Nacht direkt nach Salzburg.</li></ul>
 
              <p><b>Nahverkehr</b><br>Die Naturwissenschaftliche Fakultät erreichen Sie entweder per Taxi oder mit dem Bus Ausstieg: Faistauergasse. <br>
-			 Hier finden Sie die <a href="http://fahrplan.oebb.at/bin/query.exe/dn?" class="external text" title="http://fahrplan.oebb.at/bin/query.exe/dn?" rel="nofollow">Online-Fahrplanauskunft der ÖBB</a> (für ganz Österreich) oder die <a href="https://salzburg-verkehr.at/" class="external text" title="https://salzburg-verkehr.at/" rel="nofollow">Fahrplanauskunft des SVV (Salzburger Verkehrsverbunds)</a> für das Land Salzburg.</p>
+			 Hier finden Sie die <a href="https://fahrplan.oebb.at/bin/query.exe/dn?" class="external text" title="https://fahrplan.oebb.at/bin/query.exe/dn?" rel="nofollow">Online-Fahrplanauskunft der ÖBB</a> (für ganz Österreich) oder die <a href="https://salzburg-verkehr.at/" class="external text" title="https://salzburg-verkehr.at/" rel="nofollow">Fahrplanauskunft des SVV (Salzburger Verkehrsverbunds)</a> für das Land Salzburg.</p>
  <!-- <p><i>prüfen, ob das auch für FOSSGIS-Konferenz-TN gilt</i>.
 Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen, erhalten nach Vorlage ihres Fahrscheins eine kostenlose 3-Tageskarte des Salzburger Verkehrsverbunds für die Salzburger Kernzone.
 </p><p><b>Unterwegs mit dem Fahrrad?</b>
@@ -86,7 +86,7 @@ Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen, erhal
 
                 
                 <h4>Anreise mit dem Flugzeug</h4>
-				<p>Salzburg Airport W.A. Mozart (<a href="http://www.salzburg-airport.com/de/" class="external text" title="http://www.salzburg-airport.com/de/" rel="nofollow">SZG</a>)
+				<p>Salzburg Airport W.A. Mozart (<a href="https://www.salzburg-airport.com/de/" class="external text" title="https://www.salzburg-airport.com/de/" rel="nofollow">SZG</a>)
 </p>
 				<ul class="list"><li>4 km vom Stadtzentrum entfernt</li>
 				<li>15 Minuten Transferzeit</li>
@@ -100,7 +100,7 @@ Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen, erhal
             <h4>Unterkunft</h4>
             <p>Diese Hotels befinden sich in unmittelbarer Nähe der NAWI:
 			<ul class="list"><li> <a href="http://www.vi-hotels.com/en/castellani/" class="external text" title="http://www.vi-hotels.com/en/castellani/" rel="nofollow">Hotel Castellani</a></li>
-			<li> <a href="http://www.motel-one.com/en/hotels/salzburg/" class="external text" title="http://www.motel-one.com/en/hotels/salzburg/" rel="nofollow">Motel One</a></li>
+			<li> <a href="https://www.motel-one.com/en/hotels/salzburg/" class="external text" title="https://www.motel-one.com/en/hotels/salzburg/" rel="nofollow">Motel One</a></li>
 			<li> <a href="https://www.amadeohotel.at/" class="external text" title="https://www.amadeohotel.at/" rel="nofollow">Amadeo Hotel Schaffenrath</a></li></ul></p>
 				
 			<p>Kontaktieren Sie uns für weitere Informationen und zur Anfrage der Spezialraten!</p> 			
@@ -111,9 +111,9 @@ Die ersten 100 Besucher die mit dem öffentlichen Verkehrsmittel anreisen, erhal
 				<ul><li> Tel.: +43/662/930-30-0</li></ul>
 				<ul><li> Gute und günstige Zimmer ab 3 Nächte</li></ul></ul>
 			<ul class="list"><li> Jugendherberge Stadtalm Salzburg</li>
-				<ul><li> <a href="http://www.stadtalm.at/de" class="external free" title="http://www.stadtalm.at/de" rel="nofollow">http://www.stadtalm.at/de</a></li> 
+				<ul><li> <a href="https://www.stadtalm.at/de" class="external free" title="https://www.stadtalm.at/de" rel="nofollow">https://www.stadtalm.at/de</a></li> 
 				<li> Am Mönchsberg 19c, A-5020 Salzburg</li> 			
-				<li> Anfrage: <a href="http://www.stadtalm.at/de/anfrage" class="external free" title="http://www.stadtalm.at/de/anfrage" rel="nofollow">http://www.stadtalm.at/de/anfrage</a></li>	
+				<li> Anfrage: <a href="https://www.stadtalm.at/de/anfrage" class="external free" title="https://www.stadtalm.at/de/anfrage" rel="nofollow">https://www.stadtalm.at/de/anfrage</a></li>	
 				<li> Übernachtung mit Ausblick, Mehrbettzimmer, nicht mit Auto erreichbar.</li>	</ul></ul>
 			<ul class="list"><li>Jugend/Familiengaestehaus</li>
 				<ul><li> Josef Preis Allee</li></ul>

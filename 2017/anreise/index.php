@@ -113,7 +113,7 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 
 			<ul class="list">
 				<li>Hotel Wilder Mann</li>
-			<ul><li> Web: <a href="http://www.wilder-mann.com/" rel="nofollow">http://www.wilder-mann.com/		</a></li></ul>
+			<ul><li> Web: <a href="https://www.wilder-mann.com/" rel="nofollow">https://www.wilder-mann.com/		</a></li></ul>
 			<ul><li> 1,6 km, 20 min</li></ul>
 				<ul><li> Adresse: Am Rathausplatz, 94032 Passau </li></ul>
 				<ul><li> Telefon: +49 851  3 50 71</li></ul>
@@ -137,7 +137,7 @@ Während der Konferenzzeit wird die Tiefgarage unter der Zentralbibliothek koste
 			<ul class="list"></p>
 
 			<li>Am Paulusbogen</li>
-			<ul><li> Web: <a href="http://www.ampaulusbogen.de/" rel="nofollow">http://www.ampaulusbogen.de/</a></li></ul>
+			<ul><li> Web: <a href="https://www.ampaulusbogen.de/" rel="nofollow">https://www.ampaulusbogen.de/</a></li></ul>
 			<ul><li> 1,5km, 20 min </li></ul>
 				<ul><li> Adresse: Rindermarkt 2, 94032 Passau</li></ul>
 				<ul><li> Telefon: +49 851 931060</li></ul>
