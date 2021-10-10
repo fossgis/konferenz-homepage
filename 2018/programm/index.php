@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<?php require_once 'simple_html_dom.php'; ?>
 <html lang="de">
     <head>
         <title>FOSSGIS 2018 Programm</title>
@@ -15,14 +14,41 @@
 
     <body id="programm">
       <div id="wrap">
-        <?php include('../inc/head.inc'); ?>
+        <h1>
+    FOSSGIS-Konferenz 2018 <span class="venue">Bonn</span><br>
+    <span class="date">21.&ndash;24. März 2018</span>
+</h1>
 
         <div id="content">
 
-          <?php
-	     include('../inc/nav.inc');
-	     include('prog_nav.inc');
-          ?>
+          <ul id="mainNav">
+    <li id="navHome"><a href="/2018/">Startseite</a></li>
+    <li id="navProgramm"><a href="/2018/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2018/anreise">Anreise</a></li>
+    <li id="navEvents"><a href="/2018/socialevents">Social Events</a></li>
+    <li id="navTeam"><a href="/2018/loc/loc.php">Das Team</a></li>
+    <li id="navGallery"><a href="/2018/gallery">Bilder</a></li>
+</ul>
+<ul id="progNav">
+    <li id="prog">
+        <a href="/2018/programm/">Übersicht</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day1.php">Mittwoch</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day2.php">Donnerstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day3.php">Freitag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/day4.php">Samstag</a>
+    </li>
+    <li id="prog">
+        <a href="/2018/programm/referenten.php">Referenten</a>
+    </li>
+</ul>
 
                 <figure>
                     <img src="../img/bonn.jpeg" width="880" height="241" alt="Bonn">
@@ -30,30 +56,8 @@
                 </figure>
 
           <h2>
-	    <?php
-	       if (!isset($_GET['day'])) echo "Übersicht";
-	       else if ($_GET['day'] == 1) echo "Mittwoch, 21. März";
-	       else if ($_GET['day'] == 2) echo "Donnerstag, 22. März";
-	       else if ($_GET['day'] == 3) echo "Freitag, 23. März";
-	       else if ($_GET['day'] == 4) echo "Samstag, 24. März";
-	       else echo "Übersicht";
-	       ?>
-	  </h2>
-	  <?php
-
-	     if (isset($_GET['day'])) {
-	        $html = file_get_html("https://frab.fossgis-konferenz.de/de/2018/public/schedule/" . $_GET['day']);
-	        $color = $html->find('div[id=colorkeys]', 0);
-                echo $color;
-                $table = $html->find('div[id=main-table]', 0);
-
-                $table = str_replace("de/2018/public/events/", "2018/programm/event.php?id=", $table);
-                $table = str_replace("de/2018/public/speakers/", "2018/programm/speaker.php?id=", $table);
-	        echo $table;
-
-	     } else {
-          ?>
-
+	    Übersicht	  </h2>
+	  
 	<div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen auf </br><a href="https://media.ccc.de/" traget="_blank"><img src="../img/media.ccc.de.png" alt="media.ccc.de" /></a></br> unter <a href="https://media.ccc.de/c/fossgis2018">https://media.ccc.de/c/fossgis2018</a>.</div>
 
           <p>Programmübersicht:</p>
@@ -79,12 +83,9 @@
             </ul>
           </div>
 
-          <?php
-	     }
-	  ?>
-
+          
 	</div>
-	<?php include('../inc/footer.inc'); ?>
+	<footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
       </div>
     </body>
 </html>
