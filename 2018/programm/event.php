@@ -47,7 +47,7 @@
 	  $info = str_replace("/attachments/original/", "https://frab.fossgis-konferenz.de/de/attachments/original/", $info);
           $info = str_replace("/de/2018/public/events/", "https://frab.fossgis-konferenz.de/de/2018/public/events/", $info);
 	  
-                $info = str_replace("de/2018/public/schedule/", "2018/programm/programm.php?day=", $info);
+                $info = str_replace('/de\/2018\/public\/schedule\/([0-9]+)/', '2018/programm/day\1.php', $info);
           $referent = str_replace("/assets/person_small-6becbdd9bedc5ac3962dfb66f90e5ebb8fdbb97c287002e97bba3762a122a2bf.png", "/2018/programm/avatars/unknown-small.png", $referent);
           $referent = preg_replace('/\/system\/people\/avatars\/000\/00(.)\/(...)\/small\/[^"]*\.(...)\?[0-9]+/', '/2018/programm/avatars/small-\1\2.\3', $referent);
           $referent = preg_replace('/small-0+([0-9]+)/', 'small-\1', $referent);

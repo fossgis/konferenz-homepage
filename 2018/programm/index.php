@@ -60,18 +60,18 @@
           <div style="margin: 5px 85px 7px 160px">
             <ul>
               <li>
-                <a href="programm.php?day=1">Mittwoch, 21.03.2018</a>
+                <a href="day1.php">Mittwoch, 21.03.2018</a>
               </li>
 
               <li>
-                <a href="programm.php?day=2">Donnerstag, 22.03.2018</a>
+                <a href="day2.php">Donnerstag, 22.03.2018</a>
               </li>
 
               <li>
-                <a href="programm.php?day=3">Freitag, 23.03.2018</a>
+                <a href="day3.php">Freitag, 23.03.2018</a>
               </li>
 	          <li>
-                <a href="programm.php?day=4">OSM Samstag, 24.03.2018</a>
+                <a href="day4.php">OSM Samstag, 24.03.2018</a>
               </li>
 	          <li>
 		        <a href="/2018/programm/referenten.php">Referenten</a>

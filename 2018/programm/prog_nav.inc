@@ -3,21 +3,18 @@
         <a href="/2018/programm/">Übersicht</a>
     </li>
     <li id="prog">
-        <a href="/2018/programm/programm.php?day=1">Mittwoch</a>
+        <a href="/2018/programm/day1.php">Mittwoch</a>
     </li>
     <li id="prog">
-        <a href="/2018/programm/programm.php?day=2">Donnerstag</a>
+        <a href="/2018/programm/day2.php">Donnerstag</a>
     </li>
     <li id="prog">
-        <a href="/2018/programm/programm.php?day=3">Freitag</a>
+        <a href="/2018/programm/day3.php">Freitag</a>
     </li>
     <li id="prog">
-        <a href="/2018/programm/programm.php?day=4">Samstag</a>
+        <a href="/2018/programm/day4.php">Samstag</a>
     </li>
     <li id="prog">
         <a href="/2018/programm/referenten.php">Referenten</a>
     </li>
-    <!-- li id="prog">
-        <a href="https://frab.fossgis-konferenz.de/de/2018/public/schedule" target="_blank">Programmseite</a>
-    </li -->
 </ul>

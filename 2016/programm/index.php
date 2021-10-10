@@ -26,16 +26,16 @@
                 <div style="margin: 5px 85px 7px 160px">
                     <ul>
                         <li>
-                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=1">OSM Sonntag, 03.07.2016</a>
+                            <a href="/2016/programm/day1.php">OSM Sonntag, 03.07.2016</a>
                         </li>
                         <li>
-                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=2">Montag, 04.07.2016</a>
+                            <a href="/2016/programm/day2.php">Montag, 04.07.2016</a>
                         </li>
                         <li>
-                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=3">Dienstag, 05.07.2016</a>
+                            <a href="/2016/programm/day3.php">Dienstag, 05.07.2016</a>
                         </li>
                         <li>
-                            <a href="https://fossgis-konferenz.de/2016/programm/programm.php?day=4">Mittwoch, 06.07.2016</a>
+                            <a href="/2016/programm/day4.php">Mittwoch, 06.07.2016</a>
                         </li>
                     </ul>
                 </div>
