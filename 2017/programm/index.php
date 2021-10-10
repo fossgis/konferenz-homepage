@@ -63,7 +63,7 @@
 
           <h2>Übersicht</h2>
 
-        <div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen im <a href="https://www.youtube.com/user/fossgis">FOSSGIS-Youtube-Cannel </a> und im <a a href="https://www.tib.eu/en/search/?id=198&tx_tibsearch_search%5Bquery%5D=fossgis+2017&tx_tibsearch_search%5Bsearchspace%5D=tn&tx_tibsearch_search%5Bsrt%5D=rk&tx_tibsearch_search%5Bcnt%5D=20">TIB-AV-Portal</a>.</div>
+        <div class="app">Sie konnten selbst nicht dabei sein? Sie finden die Aufzeichnungen im <a href="https://www.youtube.com/user/fossgis">FOSSGIS-Youtube-Cannel </a>, auf <a href="/2017/videos/index.php">dieser Liste</a> und im <a a href="https://www.tib.eu/en/search/?id=198&tx_tibsearch_search%5Bquery%5D=fossgis+2017&tx_tibsearch_search%5Bsearchspace%5D=tn&tx_tibsearch_search%5Bsrt%5D=rk&tx_tibsearch_search%5Bcnt%5D=20">TIB-AV-Portal</a>.</div>
 
           <p>Programmübersicht:</p>
           <div style="margin: 5px 85px 7px 160px">
