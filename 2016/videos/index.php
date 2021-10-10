@@ -1,151 +1,501 @@
-<?php
-ini_set("include_path", "/var/www/html/2016/inc");
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Videoaufzeichnungen</title>
+  <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="../css/video.css" type="text/css" rel="stylesheet" >
+</head>
 
-require_once("config.inc");		// defines
-require_once("common.inc");		// wochentag(), remove_tags(), l|rpad(), utf8_cut(pad)(), html_header|footer()
+<body id="videos">
+<div id="wrap">
+<h1>FOSSGIS-Konferenz 2016 <span class="venue">Salzburg</span><br><span class="date">04.&ndash;06. Juli 2016</span></h1>
+  <div id="content">
+<ul id="mainNav">
+    <li id="navHome"><a href="/2016/">Startseite</a></li>
+    <li id="navAnmeldung"><a href="/2016/anmeldung">Anmeldung</a></li>
+    <li id="navProgramm"><a href="/2016/programm">Programm</a></li>
+    <li id="navAnreise"><a href="/2016/anreise">Anreise + Unterkunft</a></li>
+    <li id="navEvents"><a href="/2016/socialevents">Social Events</a></li>
+    <li id="navGreen"><a href="/2016/green">Green</a></li>
+</ul>
+  </div>
+</div>
+<div id="videoaufzeichnungen">
+<h2>Videoaufzeichnungen</h2>
+<table class="video">
+<thead>
+ <tr class="header">
+  <th>Termin</th><th>Raum</th><th>Vortragende(r)</th><th>Titel</th><th>Video/Audio</th>
+ </tr>
+</thead>
+<tfoot>
+ <tr style="background-color:#eb7f00; height:15px;"><td colspan="7"></td></tr>
+</tfoot>
+<tbody>
+ <tr class="subheader">
+  <td colspan="7">Sonntag</td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-03 10:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker55.html" title="Michael Maier">Michael Maier</a></td>
+  <td><a href="/2016/programm/event5108.html" title="">JOSM für Fortgeschrittene<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=-gUFIwF-gi4" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5108-josm_fur_fortgeschrittene-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5108-josm_fur_fortgeschrittene-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5108-josm_fur_fortgeschrittene-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5108-josm_fur_fortgeschrittene-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5108-josm_fur_fortgeschrittene.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5108-josm_fur_fortgeschrittene.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-03 11:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker1546.html" title="Jakob Miksch">Jakob Miksch</a></td>
+  <td><a href="/2016/programm/event5111.html" title="">Routing über Flächen<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=6zzPzZgI3nY" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5111-routing_uber_flachen-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5111-routing_uber_flachen-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5111-routing_uber_flachen-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5111-routing_uber_flachen-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5111-routing_uber_flachen.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5111-routing_uber_flachen.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-03 11:30</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker104.html" title="Nathanael Lang">Nathanael Lang</a></td>
+  <td><a href="/2016/programm/event5115.html" title="">Fußgängerrouting mit OSM<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=SXN3YlVVzO4" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5115-fussgangerrouting_mit_osm-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5115-fussgangerrouting_mit_osm-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5115-fussgangerrouting_mit_osm-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5115-fussgangerrouting_mit_osm-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5115-fussgangerrouting_mit_osm.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5115-fussgangerrouting_mit_osm.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-03 12:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker1544.html" title="Nakaner">Nakaner</a></td>
+  <td><a href="/2016/programm/event5112.html" title="">Overpass-Abfragen jenseits key=value<br></a></td>
+  <td></td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-03 14:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker1548.html" title="verschiedene">verschiedene</a></td>
+  <td><a href="/2016/programm/event5113.html" title="">Unkonferenz<br></a></td>
+  <td></td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-03 15:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker52.html" title="Sven Geggus">Sven Geggus</a></td>
+  <td><a href="/2016/programm/event5109.html" title="">Deutscher Kartenstil in CartoCSS<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=nuZzMjh4-tY" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-03 16:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker31.html" title="Alexander Lehner">Alexander Lehner</a></td>
+  <td><a href="/2016/programm/event5114.html" title="">$> killall zombies<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=7qFiB0qUKcM" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5114-killall_zombies-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5114-killall_zombies-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5114-killall_zombies-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5114-killall_zombies-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5114-killall_zombies.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5114-killall_zombies.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-03 17:00</td>
+  <td>436</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker26.html" title="Peter Barth">Peter Barth</a>, <a href="/2016/programm/speaker23.html" title="Tobias Knerr">Tobias Knerr</a></td>
+  <td><a href="/2016/programm/event5110.html" title="">OSM-Quiz<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=f5dstFcycuY" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5110-osm-quiz-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5110-osm-quiz-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5110-osm-quiz-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5110-osm-quiz.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5110-osm-quiz.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="subheader">
+  <td colspan="7">Montag</td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 13:00</td>
+  <td>Audimax</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker94.html" title="Dr. Marco Lechner">Dr. Marco Lechner</a></td>
+  <td><a href="/2016/programm/event5103.html" title="Begrüßung und Moderation durch Marco Lechner, Vorsitzender des veranstaltenden FOSSGIS e.V. und Grußworte der gastgebenden Universität durch Josef Strobl.">Eröffnungsveranstaltung der FOSSGIS-Konferenz 2016<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=4JGaEA14En0" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5103-eroffnungsveranstaltung_der_fossgis-konferenz_2016-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5103-eroffnungsveranstaltung_der_fossgis-konferenz_2016-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5103-eroffnungsveranstaltung_der_fossgis-konferenz_2016-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5103-eroffnungsveranstaltung_der_fossgis-konferenz_2016-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5103-eroffnungsveranstaltung_der_fossgis-konferenz_2016.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5103-eroffnungsveranstaltung_der_fossgis-konferenz_2016.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 13:30</td>
+  <td>Audimax</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker76.html" title="Christoph Hormann">Christoph Hormann</a></td>
+  <td><a href="/2016/programm/event5061.html" title="">Jenseits von Mercator<br><i>über die Probleme, die Erde in ein Quadrat zu pressen</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=_i7j2fCeLe8" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5061-jenseits_von_mercator-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5061-jenseits_von_mercator-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5061-jenseits_von_mercator-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5061-jenseits_von_mercator-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5061-jenseits_von_mercator.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5061-jenseits_von_mercator.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 14:00</td>
+  <td>Audimax</td>
+  <td style="width:13em;"></td>
+  <td><a href="/2016/programm/event5099.html" title="">GIS Lightning Talks 1<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=MWsRzQF0iK8" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5099-gis_lightning_talks_1-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5099-gis_lightning_talks_1-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5099-gis_lightning_talks_1-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5099-gis_lightning_talks_1-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5099-gis_lightning_talks_1.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5099-gis_lightning_talks_1.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 15:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker14.html" title="Till Adams">Till Adams</a></td>
+  <td><a href="/2016/programm/event5028.html" title="s.o.">GIS in der Cloud - Schönwetterwolke, Gewitter oder reiner Du...<br><i>Vor- und Nachteile des Cloud-Hostings</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=JMf_QtkaiLU" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5028-gis_in_der_cloud_-_schonwetterwolke_gewitter_oder_reiner_dunst-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5028-gis_in_der_cloud_-_schonwetterwolke_gewitter_oder_reiner_dunst-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5028-gis_in_der_cloud_-_schonwetterwolke_gewitter_oder_reiner_dunst-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5028-gis_in_der_cloud_-_schonwetterwolke_gewitter_oder_reiner_dunst-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5028-gis_in_der_cloud_-_schonwetterwolke_gewitter_oder_reiner_dunst.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5028-gis_in_der_cloud_-_schonwetterwolke_gewitter_oder_reiner_dunst.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 15:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker38.html" title="Dr. Markus Neteler">Dr. Markus Neteler</a>, <a href="/2016/programm/speaker14.html" title="Till Adams">Till Adams</a></td>
+  <td><a href="/2016/programm/event5021.html" title="Koautoren: Till Adams, Carmen Tawalika, Hinrich Paulsen">Freie (Geo-)Daten mit Freier (Geo-)Software - oder: wie komm...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=942iqvNqPOE" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5021-freie_geo-_daten_mit_freier_geo-_software_-_oder_wie_kommen_geodaten_zum_nutzer-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5021-freie_geo-_daten_mit_freier_geo-_software_-_oder_wie_kommen_geodaten_zum_nutzer-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5021-freie_geo-_daten_mit_freier_geo-_software_-_oder_wie_kommen_geodaten_zum_nutzer-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5021-freie_geo-_daten_mit_freier_geo-_software_-_oder_wie_kommen_geodaten_zum_nutzer-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5021-freie_geo-_daten_mit_freier_geo-_software_-_oder_wie_kommen_geodaten_zum_nutzer.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5021-freie_geo-_daten_mit_freier_geo-_software_-_oder_wie_kommen_geodaten_zum_nutzer.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 16:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker29.html" title="Gerhard Genuit">Gerhard Genuit</a></td>
+  <td><a href="/2016/programm/event5015.html" title="">Schadstoffeinleitungen in Kanäle und Gewässer verfolgen<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=7gehNL3SqJQ" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5015-schadstoffeinleitungen_in_kanale_und_gewasser_verfolgen-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5015-schadstoffeinleitungen_in_kanale_und_gewasser_verfolgen-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5015-schadstoffeinleitungen_in_kanale_und_gewasser_verfolgen-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5015-schadstoffeinleitungen_in_kanale_und_gewasser_verfolgen-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5015-schadstoffeinleitungen_in_kanale_und_gewasser_verfolgen.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5015-schadstoffeinleitungen_in_kanale_und_gewasser_verfolgen.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 17:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker45.html" title="Axel Schaefer">Axel Schaefer</a></td>
+  <td><a href="/2016/programm/event5069.html" title="Metador2 ist eine OpenSource Lösung zum einfachen Erstellen und Bearbeiten von Metadaten. Metador 2.1 enthält ein neues Plugin-System, mit dem beispielsweise unterschiedliche Metadatenprofile einfache...">Neues in Metador 2.1<br><i>Modularisierung und Erweiterbarkeit des Metadateneditors</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=up49nK3NL9U" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5069-neues_in_metador_2_1-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5069-neues_in_metador_2_1-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5069-neues_in_metador_2_1-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5069-neues_in_metador_2_1-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5069-neues_in_metador_2_1.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5069-neues_in_metador_2_1.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 17:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker71.html" title="Marco Hugentobler">Marco Hugentobler</a></td>
+  <td><a href="/2016/programm/event5070.html" title="Seit der FOSSGIS 2015 in Münster sind vier neue QGIS Versionen herausgekommen, jede mit zahlreichen Neuerungen. Der Vortrag stellt ausgewählte neue Features, vor allem aus den Bereichen Geometrie und ...">Neue Funktionen in QGIS 2.10 - 2.16<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=Ilh74WZiJK8" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5070-neue_funktionen_in_qgis_2_10_-_2_16-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5070-neue_funktionen_in_qgis_2_10_-_2_16-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5070-neue_funktionen_in_qgis_2_10_-_2_16-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5070-neue_funktionen_in_qgis_2_10_-_2_16-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5070-neue_funktionen_in_qgis_2_10_-_2_16.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5070-neue_funktionen_in_qgis_2_10_-_2_16.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 18:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker84.html" title="Oliver Tonnhofer">Oliver Tonnhofer</a></td>
+  <td><a href="/2016/programm/event5029.html" title="Der Vortrag befasst sich mit unbekannten Funktionen, der große Bandbreite an Einsatzmöglichkeiten und der wachsenden Community von MapProxy.">Neues von MapProxy<br><i>MapProxy in der Praxis</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=c5eb0AigLwk" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5029-neues_von_mapproxy-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5029-neues_von_mapproxy-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5029-neues_von_mapproxy-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5029-neues_von_mapproxy-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5029-neues_von_mapproxy.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5029-neues_von_mapproxy.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 18:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker42.html" title="Astrid Emde">Astrid Emde</a></td>
+  <td><a href="/2016/programm/event5026.html" title="Auf der FOSSGIS 2016 soll es ein PostNAS-Suite Anwendertreffen geben, auf dem aktuelle Entwicklungen im PostNAS-Suite Projekt vorgestellt werden sollen.
 
+Die PostNAS Suite bietet Lösungen zum Import...">PostNAS-Suite Anwendertreffen<br></a></td>
+  <td></td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 10:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker24.html" title="Arnulf Christl">Arnulf Christl</a>, <a href="/2016/programm/speaker98.html" title="Frederik Ramm">Frederik Ramm</a>, <a href="/2016/programm/speaker5.html" title="Dominik Helle">Dominik Helle</a></td>
+  <td><a href="/2016/programm/event5104.html" title="">Was sind "Open" Source, Data und Standards - und wie funktio...<br><i>Die Organisation der Open Geo- und GIS-Welt. Worauf man acht...</i></a></td>
+  <td></td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 15:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker55.html" title="Michael Maier">Michael Maier</a></td>
+  <td><a href="/2016/programm/event5053.html" title="Was Tim-Berners Lee mit dem www begonnen hat (Texte zu verlinken), wird nun mit dem Öl des 21. Jahrhunderts, den Daten weitergeführt.
+Lasst OpenStreetMap ein Teil der Linked Open Data Cloud werden!
+...">OpenStreetMap und Wikidata<br><i>Mit OSM und Wikidata auf dem Weg zu Linked Open Geodata</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=Zcv_7t7RcNM" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5053-openstreetmap_und_wikidata-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5053-openstreetmap_und_wikidata-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5053-openstreetmap_und_wikidata-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5053-openstreetmap_und_wikidata-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5053-openstreetmap_und_wikidata.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5053-openstreetmap_und_wikidata.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 15:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker33.html" title="Michael Glanznig">Michael Glanznig</a></td>
+  <td><a href="/2016/programm/event5016.html" title="Alle paar Wochen ist es wieder soweit: Mapnik (osm-carto)-Update, die Karte verändert sich. Nicht immer sind so große Änderungen wie die Darstellung der Straßen dabei und nicht immer sind alle von den...">Die Karte verändert sich - der Standardstil openstreetmap-ca...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=Q3qqbJrVyMk" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5016-die_karte_verandert_sich_-_der_standardstil_openstreetmap-carto-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5016-die_karte_verandert_sich_-_der_standardstil_openstreetmap-carto-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5016-die_karte_verandert_sich_-_der_standardstil_openstreetmap-carto-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5016-die_karte_verandert_sich_-_der_standardstil_openstreetmap-carto-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5016-die_karte_verandert_sich_-_der_standardstil_openstreetmap-carto.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5016-die_karte_verandert_sich_-_der_standardstil_openstreetmap-carto.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 16:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker58.html" title="W. Medjroubi">W. Medjroubi</a></td>
+  <td><a href="/2016/programm/event5046.html" title="">SciGRID: ein offenes Referenzmodell europäischer Übertragung...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=nbPWfzK_KaY" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5046-scigrid_ein_offenes_referenzmodell_europaischer_ubertragungsnetze_fur_wissenschaftliche_untersuchungen-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5046-scigrid_ein_offenes_referenzmodell_europaischer_ubertragungsnetze_fur_wissenschaftliche_untersuchungen-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5046-scigrid_ein_offenes_referenzmodell_europaischer_ubertragungsnetze_fur_wissenschaftliche_untersuchungen-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5046-scigrid_ein_offenes_referenzmodell_europaischer_ubertragungsnetze_fur_wissenschaftliche_untersuchungen-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5046-scigrid_ein_offenes_referenzmodell_europaischer_ubertragungsnetze_fur_wissenschaftliche_untersuchungen.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5046-scigrid_ein_offenes_referenzmodell_europaischer_ubertragungsnetze_fur_wissenschaftliche_untersuchungen.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 17:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker98.html" title="Frederik Ramm">Frederik Ramm</a></td>
+  <td><a href="/2016/programm/event5096.html" title="Dieser Vortrag zeigt die Probleme auf, die mit großflächigen automatischen und halb-automatischen Edits in OpenStreetMap einhergehen, und diskutiert Alternativen hierzu. ">Automatische Edits und Importe in OpenStreetMap<br><i>Das Gegenteil von gut ist gut gemeint</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=6XdgJnxfaGA" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5096-automatische_edits_und_importe_in_openstreetmap-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5096-automatische_edits_und_importe_in_openstreetmap-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5096-automatische_edits_und_importe_in_openstreetmap-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5096-automatische_edits_und_importe_in_openstreetmap-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5096-automatische_edits_und_importe_in_openstreetmap.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5096-automatische_edits_und_importe_in_openstreetmap.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-04 17:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker62.html" title="Roland Olbricht (drolbr)">Roland Olbricht (drolbr)</a></td>
+  <td><a href="/2016/programm/event5041.html" title="Modellbildung findet bei OpenStreetMap nicht nur durch die Wahl der Tags statt.
+Werden Elemente als Linie oder Fläche erfasst?
+Offensichtliche Zweifelsfälle sind Fußgängerzonen in Breiten zwischen S...">Braucht OpenStreetMap Flächen und Kanten?<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=-ogblIKiN5M" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5041-braucht_openstreetmap_flachen_und_kanten-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5041-braucht_openstreetmap_flachen_und_kanten-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5041-braucht_openstreetmap_flachen_und_kanten-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5041-braucht_openstreetmap_flachen_und_kanten-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5041-braucht_openstreetmap_flachen_und_kanten.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5041-braucht_openstreetmap_flachen_und_kanten.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-04 18:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"></td>
+  <td><a href="/2016/programm/event5100.html" title="">OSM Lightning Talks 1<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=wP3s5akhXrw" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5100-osm_lightning_talks_1-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5100-osm_lightning_talks_1-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5100-osm_lightning_talks_1-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5100-osm_lightning_talks_1-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5100-osm_lightning_talks_1.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5100-osm_lightning_talks_1.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="subheader">
+  <td colspan="7">Dienstag</td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 09:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker82.html" title="Pirmin Kalberer">Pirmin Kalberer</a></td>
+  <td><a href="/2016/programm/event5066.html" title="Im Februar 2014 hat das Open Geospatial Consortium (OGC) den GeoPackage Encoding Standard offiziell freigegeben. Dieses noch junge Format hat sich bereits gut etabliert und wird in zahlreichen GIS-Pro...">GeoPackage, das Shapefile der Zukunft<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=MORcyicJUX4" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5066-geopackage_das_shapefile_der_zukunft-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5066-geopackage_das_shapefile_der_zukunft-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5066-geopackage_das_shapefile_der_zukunft-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5066-geopackage_das_shapefile_der_zukunft-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5066-geopackage_das_shapefile_der_zukunft.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5066-geopackage_das_shapefile_der_zukunft.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 10:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker19.html" title="Manfred Egger">Manfred Egger</a></td>
+  <td><a href="/2016/programm/event5013.html" title="Das GIS-Tool SHAPEFILE PROJECTIONFINDER wird als Lösungsvorschlag in Zusammenhang mit Geodaten und unbekannter Projektion präsentiert.
 
+Zielgruppe dieses Programms sind vor allem Anwender, die mit g...">Automatische Erkennung der Projektion von Geodaten<br><i>Unter Verwendung freier Geodaten und offener GIS-Services im...</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=oNR0HIzK16o" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5013-automatische_erkennung_der_projektion_von_geodaten-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5013-automatische_erkennung_der_projektion_von_geodaten-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5013-automatische_erkennung_der_projektion_von_geodaten-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5013-automatische_erkennung_der_projektion_von_geodaten-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5013-automatische_erkennung_der_projektion_von_geodaten.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5013-automatische_erkennung_der_projektion_von_geodaten.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 11:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker32.html" title="Andreas Schmid">Andreas Schmid</a></td>
+  <td><a href="/2016/programm/event5052.html" title="Das Amt für Geoinformation des Kantons Solothurn (Schweiz) betreibt für die Benutzer der Kantonsverwaltung QGIS auf einem Linux-Applikationsserver. Für die Integration der Linux-Anwendung in den via C...">Betrieb von QGIS in einer heterogenen Client-Server-Umgebung<br><i>Praxisbericht über die Bereitstellung von QGIS auf einem Lin...</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=JOPftfO9Zzg" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5052-betrieb_von_qgis_in_einer_heterogenen_client-server-umgebung-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5052-betrieb_von_qgis_in_einer_heterogenen_client-server-umgebung-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5052-betrieb_von_qgis_in_einer_heterogenen_client-server-umgebung-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5052-betrieb_von_qgis_in_einer_heterogenen_client-server-umgebung-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5052-betrieb_von_qgis_in_einer_heterogenen_client-server-umgebung.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5052-betrieb_von_qgis_in_einer_heterogenen_client-server-umgebung.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 11:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker63.html" title="Sara Biesel">Sara Biesel</a></td>
+  <td><a href="/2016/programm/event5042.html" title="Das BKG entwickelt ein System, um Kartenausschnitte zu speichern und die Karten Offline im Geoinformatiomssystem QGIS zu laden. Dabei wird ein Proxyserver "MapProxy" verwendet, der bei bestehender Int...">QGIS meets MapProxy<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=KG1Rq9qmLUI" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5042-qgis_meets_mapproxy-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5042-qgis_meets_mapproxy-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5042-qgis_meets_mapproxy-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5042-qgis_meets_mapproxy-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5042-qgis_meets_mapproxy.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5042-qgis_meets_mapproxy.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 12:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker59.html" title="Jörg Habenicht">Jörg Habenicht</a></td>
+  <td><a href="/2016/programm/event5040.html" title="">Die Zugriffszeit auf den QGis-Mapserver um Faktor 100 beschl...<br><i>Vorstellung eines FCGI-Proxis spezialisiert für den Einsatz ...</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=JPb__6ybYy8" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5040-die_zugriffszeit_auf_den_qgis-mapserver_um_faktor_100_beschleunigen-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5040-die_zugriffszeit_auf_den_qgis-mapserver_um_faktor_100_beschleunigen-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5040-die_zugriffszeit_auf_den_qgis-mapserver_um_faktor_100_beschleunigen-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5040-die_zugriffszeit_auf_den_qgis-mapserver_um_faktor_100_beschleunigen-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5040-die_zugriffszeit_auf_den_qgis-mapserver_um_faktor_100_beschleunigen.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5040-die_zugriffszeit_auf_den_qgis-mapserver_um_faktor_100_beschleunigen.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 13:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker89.html" title="Jonas Eberle">Jonas Eberle</a></td>
+  <td><a href="/2016/programm/event5088.html" title="Web-basierte Prozessierungsdienste können für eine Vielzahl an Aufgaben verwendet werden und bieten enorme Möglichkeiten, Nutzer- und Entwicklerfreundliche Geodatendienste aufzubauen. Dies wird an ein...">Web-basierte Geoprozessierung mit Python und PyWPS<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=6cX_WOboEHM" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5088-web-basierte_geoprozessierung_mit_python_und_pywps-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5088-web-basierte_geoprozessierung_mit_python_und_pywps-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5088-web-basierte_geoprozessierung_mit_python_und_pywps-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5088-web-basierte_geoprozessierung_mit_python_und_pywps-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5088-web-basierte_geoprozessierung_mit_python_und_pywps.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5088-web-basierte_geoprozessierung_mit_python_und_pywps.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 14:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker91.html" title="Arne Schubert">Arne Schubert</a></td>
+  <td><a href="/2016/programm/event5084.html" title="">Hybride mobile App-Entwicklung mit Angular<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=WHiMINhykHA" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5084-hybride_mobile_app-entwicklung_mit_angular-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5084-hybride_mobile_app-entwicklung_mit_angular-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5084-hybride_mobile_app-entwicklung_mit_angular-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5084-hybride_mobile_app-entwicklung_mit_angular-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5084-hybride_mobile_app-entwicklung_mit_angular.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5084-hybride_mobile_app-entwicklung_mit_angular.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 14:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker73.html" title="Florian Ledermann">Florian Ledermann</a></td>
+  <td><a href="/2016/programm/event5056.html" title="Der Vortrag stellt eine vom Renderer unabhängige Methode zur Latinisierung von OSM-basierten Karten vor. Als Datenquelle dient, wenn möglich, OSM selbst. Alternativ wird Transkription verwendet, die j...">mapmap.js - Ein kartographisches API für interaktive themati...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=VKWzOVkRnTk" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5056-mapmap_js_-_ein_kartographisches_api_fur_interaktive_thematische_karten-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5056-mapmap_js_-_ein_kartographisches_api_fur_interaktive_thematische_karten-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5056-mapmap_js_-_ein_kartographisches_api_fur_interaktive_thematische_karten-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5056-mapmap_js_-_ein_kartographisches_api_fur_interaktive_thematische_karten-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5056-mapmap_js_-_ein_kartographisches_api_fur_interaktive_thematische_karten.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5056-mapmap_js_-_ein_kartographisches_api_fur_interaktive_thematische_karten.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 15:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker75.html" title="Marc Jansen">Marc Jansen</a></td>
+  <td><a href="/2016/programm/event5058.html" title="">OpenLayers 3: Stand, Neues und Ausblick<br><i>oder "15 Punkt-Releases später… was kommt als nächstes?"</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=bziZVROzhVg" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5058-openlayers_3_stand_neues_und_ausblick-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5058-openlayers_3_stand_neues_und_ausblick-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5058-openlayers_3_stand_neues_und_ausblick-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5058-openlayers_3_stand_neues_und_ausblick-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5058-openlayers_3_stand_neues_und_ausblick.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5058-openlayers_3_stand_neues_und_ausblick.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 16:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker49.html" title="Tobias Sauerwein">Tobias Sauerwein</a></td>
+  <td><a href="/2016/programm/event5032.html" title="">Faster, smaller, better: Compiling your application together...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=k4dHSJ6ZKIY" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5032-faster_smaller_better_compiling_your_application_together_with_openlayers_3-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5032-faster_smaller_better_compiling_your_application_together_with_openlayers_3-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5032-faster_smaller_better_compiling_your_application_together_with_openlayers_3-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5032-faster_smaller_better_compiling_your_application_together_with_openlayers_3-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5032-faster_smaller_better_compiling_your_application_together_with_openlayers_3.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5032-faster_smaller_better_compiling_your_application_together_with_openlayers_3.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 16:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker75.html" title="Marc Jansen">Marc Jansen</a></td>
+  <td><a href="/2016/programm/event5057.html" title="">GeoExt3<br><i>Universale WebGIS Applikationen mit OpenLayers 3 und ExtJS6</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=ydymniDSgVs" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5057-geoext3-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5057-geoext3-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5057-geoext3-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5057-geoext3-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5057-geoext3.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5057-geoext3.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 17:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker42.html" title="Astrid Emde">Astrid Emde</a></td>
+  <td><a href="/2016/programm/event5022.html" title="Der Vortrag zu Mapbender3 stellt fortgeschrittene Elemente mit erweiterter Konfiguration vor. 
 
-// YT einlesen und parsen -> $ytarr
-include("yt.inc");
+* Möglichkeiten der Datenerfassung mit dem Mapbender3 Digitizer
+* Aufbau von Suchen mit dem SearchRou...">Datenerfassung und Suchen mit Mapbender3<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=5pW97K0s0S4" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5022-datenerfassung_und_suchen_mit_mapbender3-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5022-datenerfassung_und_suchen_mit_mapbender3-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5022-datenerfassung_und_suchen_mit_mapbender3-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5022-datenerfassung_und_suchen_mit_mapbender3-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5022-datenerfassung_und_suchen_mit_mapbender3.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5022-datenerfassung_und_suchen_mit_mapbender3.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 17:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker42.html" title="Astrid Emde">Astrid Emde</a></td>
+  <td><a href="/2016/programm/event5025.html" title="Zu diesem Treffen sind Anwender und Entwickler der WebGIS Client Suite Mapbender eingeladen. Der aktuelle Stand von Mapbender3 wird vorgestellt. Zukünftige Entwicklungen werden diskutiert. Die Anwende...">Mapbender3 Anwendertreffen<br></a></td>
+  <td></td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 09:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker39.html" title="Christopher Lorenz">Christopher Lorenz</a></td>
+  <td><a href="/2016/programm/event5039.html" title="Das Projekt osm_address_db ermöglicht die Aufbereitung der in OSM vorhandenen Adressdaten. Dazu wurden Shell- und SQL-Skripte entwickelt, die eine Tabellenstruktur zur Auswertung und Analyse aufbauen....">osm_address_db - Adressdaten in der OSM-Datenbank<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=ALlEIJlANEA" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5039-osm_address_db_-_adressdaten_in_der_osm-datenbank-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5039-osm_address_db_-_adressdaten_in_der_osm-datenbank-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5039-osm_address_db_-_adressdaten_in_der_osm-datenbank-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5039-osm_address_db_-_adressdaten_in_der_osm-datenbank-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5039-osm_address_db_-_adressdaten_in_der_osm-datenbank.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5039-osm_address_db_-_adressdaten_in_der_osm-datenbank.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 09:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker70.html" title="Manuel Roth">Manuel Roth</a></td>
+  <td><a href="/2016/programm/event5050.html" title="Das Projekt OSM2VectorTiles bietet einerseits einen Workflow um selbst Vektor Tiles aus OpenStreetMap zu erstellen und bietet diese andererseits gratis zum Download an. Dies ermöglicht jedem eine selb...">Vector Tiles from OpenStreetMap<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=lG7atynI8Pk" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5050-vector_tiles_from_openstreetmap-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5050-vector_tiles_from_openstreetmap-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5050-vector_tiles_from_openstreetmap-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5050-vector_tiles_from_openstreetmap-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5050-vector_tiles_from_openstreetmap.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5050-vector_tiles_from_openstreetmap.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 10:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker93.html" title="Dietmar seifert">Dietmar seifert</a></td>
+  <td><a href="/2016/programm/event5085.html" title="">Stand der Hausnummern in OSM und Hausnummerauswertung auf re...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=bmbLp-QlLTQ" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5085-stand_der_hausnummern_in_osm_und_hausnummerauswertung_auf_regio-osm_de-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5085-stand_der_hausnummern_in_osm_und_hausnummerauswertung_auf_regio-osm_de-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5085-stand_der_hausnummern_in_osm_und_hausnummerauswertung_auf_regio-osm_de-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5085-stand_der_hausnummern_in_osm_und_hausnummerauswertung_auf_regio-osm_de-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5085-stand_der_hausnummern_in_osm_und_hausnummerauswertung_auf_regio-osm_de.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5085-stand_der_hausnummern_in_osm_und_hausnummerauswertung_auf_regio-osm_de.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 11:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker34.html" title="Lars Schimmer">Lars Schimmer</a></td>
+  <td><a href="/2016/programm/event5017.html" title="Ein Userbericht aus 18 Monaten Nutzung des Mapillary Ökosystems ">Mapillary - Alltag<br><i>ein Userbericht nach 18 Monaten</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=ACGFVEVTqOs" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5017-mapillary_-_alltag-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5017-mapillary_-_alltag-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5017-mapillary_-_alltag-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5017-mapillary_-_alltag-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5017-mapillary_-_alltag.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5017-mapillary_-_alltag.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 11:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker37.html" title="Serhan Şen">Serhan Şen</a></td>
+  <td><a href="/2016/programm/event5031.html" title="Das nichtkommerzielle Browserspiel LstSim, ein Rettungsleitstellensimulator, setzte jahrelang auf die Dienste der Google Maps API. Leider gab es mit der API über einen längeren Zeitraum anhaltende Sch...">Leitstellensimulator goes OpenStreetMap<br><i>Ein Erfahrungsbericht</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=wYdbwr9cY5Q" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5031-leitstellensimulator_goes_openstreetmap-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5031-leitstellensimulator_goes_openstreetmap-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5031-leitstellensimulator_goes_openstreetmap-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5031-leitstellensimulator_goes_openstreetmap-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5031-leitstellensimulator_goes_openstreetmap.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5031-leitstellensimulator_goes_openstreetmap.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 12:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker77.html" title="Numa Gremling">Numa Gremling</a></td>
+  <td><a href="/2016/programm/event5082.html" title="Turf.js ist eine Open Source JavaScript-Bibliothek, die geographische Analysen und Abfragen ermöglicht. Im Gegensatz zu Web Processing Services (WPS), die eine komplexe serverseitige Infrastruktur erf...">Turf.js – Geoverarbeitung im Browser<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=lhNlKpMUP7k" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5082-turf_js_geoverarbeitung_im_browser-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5082-turf_js_geoverarbeitung_im_browser-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5082-turf_js_geoverarbeitung_im_browser-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5082-turf_js_geoverarbeitung_im_browser-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5082-turf_js_geoverarbeitung_im_browser.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5082-turf_js_geoverarbeitung_im_browser.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 13:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker98.html" title="Frederik Ramm">Frederik Ramm</a></td>
+  <td><a href="/2016/programm/event5097.html" title="Dieser Vortrag erzählt von verschiedenen - realistischen wie auch unrealistischen - Anforderungen, die potentielle Nutzer abseits von der Kartenerstellung an OpenStreetMap stellen, und skizziert Lösun...">OpenStreet mal ohne Map<br><i>Use Cases abseits der Kartographie</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=KRH7TjLRkTg" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5097-openstreet_mal_ohne_map-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5097-openstreet_mal_ohne_map-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5097-openstreet_mal_ohne_map-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5097-openstreet_mal_ohne_map-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5097-openstreet_mal_ohne_map.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5097-openstreet_mal_ohne_map.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 14:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker30.html" title="Joachim Kast">Joachim Kast</a></td>
+  <td><a href="/2016/programm/event5098.html" title="">Bezahlte und organisierte Edits - Vorteile und Gefahren für ...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=zXEmUPIuHfI" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5098-bezahlte_und_organisierte_edits_-_vorteile_und_gefahren_fur_osm-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5098-bezahlte_und_organisierte_edits_-_vorteile_und_gefahren_fur_osm-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5098-bezahlte_und_organisierte_edits_-_vorteile_und_gefahren_fur_osm-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5098-bezahlte_und_organisierte_edits_-_vorteile_und_gefahren_fur_osm-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5098-bezahlte_und_organisierte_edits_-_vorteile_und_gefahren_fur_osm.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5098-bezahlte_und_organisierte_edits_-_vorteile_und_gefahren_fur_osm.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 14:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker52.html" title="Sven Geggus">Sven Geggus</a></td>
+  <td><a href="/2016/programm/event5033.html" title="Der Vortrag stellt die Implementierung von Lokalisierungsfunktionen als sogenannte „stored procedures“ in PostrgreSQL vor, die zur Latinisierung des deutschen Kartenstils eingesetzt wird.
 
-
-// Video Directory einlesen und parsen -> $dir
-include("videodir.inc");
-
-
-// Speakers einlesen -> $speakers
-include("speakers.inc");
-
-
-// Konferenzdaten einlesen und Liste ausgeben
-$json = file_get_contents(CONF_URL);
-if ($json===FALSE) die("CONF_URL ".CONF_URL." konnte nicht gelesen werden.\n");
-$a=json_decode($json, TRUE);
-if (is_null($a)) die("CONF_URL ".CONF_URL." konnte nicht als JSON interpretiert werden.\n");
-
-html_header_css();
-echo "<div id=\"wrap\">\n";
-include('head.inc');
-echo "  <div id=\"content\">\n";
-include('nav.inc');
-echo "  </div>\n</div>\n";
-
-echo "<div id=\"videoaufzeichnungen\">\n";
-
-echo "<h2>Videoaufzeichnungen</h2>\n";
-
-$debug=preg_match("/debug/i", $_SERVER["QUERY_STRING"]);
-
-if ($debug) {
-    echo "<p>";
-	echo "<a href=\"".YT_PLAYLIST."\" title=\"Playlist\">".count($ytarr)." YT-Links</a> (<a href=\"".YT_URL."\" title=\">YT-Playlist (JSON)\">JSON</a>) gefunden. ";
-    echo "<a href=\"".VID_URL."\" title=\"Video Directory\">".count($dir)." Videos</a> gefunden. ";
-	echo "<a href=\"".JSON_SPEAKERS."\" title=\"Speakers (JSON)\">".count($speakers)." Vortragende</a> (mit Bild) gefunden. ";
-} else {
-    if ((count($ytarr)==0) && (count($dir)==0)) {
-	echo "<p>Es sind noch keine Videoaufzeichnungen verfügbar.</p>\n";
-    }
-}
-// DEBUG!!
-//$ytarr[5096]="TEST1";
-//$ytarr[5041]="TEST2";
-//$ytarr[5070]=$ytarr[7582];
-//$ytarr[5096]=$ytarr[7595];
-
-// $ytarr sind die YT-IDs (Key ist die ID des Vortrags)
-// $a ist die schedule
-// $b ist version und conference
-// $c ist die conference (title, start, end, daysCount und days)
-// $d sind die days
-// $e ist der einzelne Tag ($nr der Tageszaehler, 0-based)
-// $r sind die rooms pro Tag ($raum der Raumzaehler pro Tag)
-// $f sind die Vortraege pro Raum
-// $v ist der einzelne Vortrag ($vnr als Zähler)
-// $v["persons"] sind die Personen
-// $p die einzelne Person "public_name" ($pnr als Personenzaehler)
-$b=current($a);
-$c=$b["conference"];
-$daycount=$c["daysCount"];
-$d=$c["days"];
-
-if ($debug) {
-	if (count($d)==$daycount) echo "<a href=\"".CONF_URL."\" title=\"Konferenz Schedule JSON\">".$daycount." Tage</a> gefunden.\n";
-    else echo "Tage: SOLL=".$daycount.", IST=".count($d)."\n";
-    echo "</p>\n";
-}
-
-echo "<table class=\"video\">\n";
-echo "<thead>\n <tr class=\"header\">\n";
-echo "  <th>Termin</th><th>Raum</th><th>Vortragende(r)</th><th>Titel</th><th>Video/Audio</th>\n";
-echo " </tr>\n</thead>\n";
-echo "<tfoot>\n <tr style=\"background-color:#eb7f00; height:15px;\"><td colspan=\"7\"></td></tr>\n</tfoot>\n";
-echo "<tbody>\n";
-$i=0;
-foreach ($d as $nr => $e) {
-    $date=$e["date"];
-    //echo "Tag ".($nr+1).": ".$e["date"]."\n";
-    //echo wochentag($date)."\n";
-    echo " <tr class=\"subheader\">\n";
-    echo "  <td colspan=\"7\">".wochentag($date)."</td>\n";
-    echo " </tr>\n";
-    if ($i%2) $i++;	// nach dem Wochentag mit weiss beginnen
-    foreach ($e["rooms"] as $raum => $f) {
-	if (count($f)<1) continue;	// naechster Raum
-	if (substr($raum, 0, 6)=="E EXPO") $raum=substr($raum, 2);
-	if (strpos(HIDDEN_ROOMS, "|".$raum."|")>0) continue;	// gewisse Raeume ueberspringen
-	//echo "Raum ".$raum.": ";
-	//echo count($f)." Vortraege gefunden.\n";
-	foreach ($f as $vnr => $v) {
-	    if ($i%2) echo " <tr class=\"grau\">\n";
-	    else      echo " <tr class=\"weiss\">\n";
-	    $i++;
-	    $id=$v["id"];
-	    if (strpos(HIDDEN_IDS, "|".$id."|")>0) continue;	// gewisse IDs ueberspringen
-	    $title=remove_tags($v["title"]);
-	    $subtitle=remove_tags($v["subtitle"]);
-	    $desc=remove_tags($v["description"]);
-	    echo "  <td>".$date." ".$v["start"]."</td>\n";
-	    echo "  <td>".ltrim($raum)."</td>\n";
-	    $pers="";
-	    $pid=0;
-	    foreach ($v["persons"] as $pnr => $p) {
-		if ($pnr>0) $pers.=", ";
-		if (($pid==0) && (array_key_exists($p["id"], $speakers))) $pid=$p["id"];
-		$pers.="<a href=\"/2016/programm/speaker".$p["id"].".html\" title=\"".$p["public_name"]."\">".$p["public_name"]."</a>";
-	    } // Personen
-	    echo "  <td style=\"width:13em;\">".$pers."</td>\n";
-	    echo "  <td><a href=\"/2016/programm/event".$id.".html\" title=\"".utf8_cut($desc, DESC_LEN)."\">".utf8_cut($title, TIT_LEN)."<br>";
-	    if (!empty($subtitle)) echo "<i>".utf8_cut($subtitle, SUB_LEN)."</i>";
-	    echo "</a></td>\n";
-	    if (array_key_exists($id, $ytarr)) {
-		echo "  <td>".youtube_link($ytarr[$id])." ";
-	    } else {
-		echo "  <td>";
-	    }
-	    // $DEBUG!!
-	    //if ($id==5015) $id=771;
-	    //if ($id==5096) $id=779;
-	    if (array_key_exists($id, $dir)) {
-		$files=$dir[$id];
-		if (!empty($files["mp4"]["hd"])) echo mp4_link($files["mp4"]["hd"]["name"], "HD")." ";
-		if (!empty($files["mp4"]["sd"])) echo mp4_link($files["mp4"]["sd"]["name"], "SD")." ";
-		if (!empty($files["webm"]["hd"])) echo webm_link($files["webm"]["hd"]["name"], "HD")." ";
-		if (!empty($files["webm"]["sd"])) echo webm_link($files["webm"]["sd"]["name"], "SD")." ";
-		if (!empty($files["mp3"][""])) echo mp3_link($files["mp3"][""]["name"])." ";
-		if (!empty($files["opus"][""])) echo opus_link($files["opus"][""]["name"])." ";
-		if (!empty($files["ogg"][""])) echo ogg_link($files["ogg"][""]["name"])." ";
-	    }
-	    echo "</td>\n";
-	    echo " </tr>\n";	// Vortragszeile fertig
-	} // Vortraege
-    } // Räume
-} // Tage
-echo "</tbody>\n";
-echo "</table>\n";
-
-echo "</div>\n";	// videoaufzeichnungen
-
-html_footer();
-
-?>
+Als Daten...">Ansätze zur Lokalisierung einer Openstreetmap basierten Welt...<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=E_z4Pz80CwA" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5033-ansatze_zur_lokalisierung_einer_openstreetmap_basierten_weltkarte-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5033-ansatze_zur_lokalisierung_einer_openstreetmap_basierten_weltkarte-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5033-ansatze_zur_lokalisierung_einer_openstreetmap_basierten_weltkarte-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5033-ansatze_zur_lokalisierung_einer_openstreetmap_basierten_weltkarte-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5033-ansatze_zur_lokalisierung_einer_openstreetmap_basierten_weltkarte.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5033-ansatze_zur_lokalisierung_einer_openstreetmap_basierten_weltkarte.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 15:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"></td>
+  <td><a href="/2016/programm/event5101.html" title="">OSM Lightning Talks 2<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=gpc7XCccfjw" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5101-osm_lightning_talks_2-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5101-osm_lightning_talks_2-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5101-osm_lightning_talks_2-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5101-osm_lightning_talks_2-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5101-osm_lightning_talks_2.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5101-osm_lightning_talks_2.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 16:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker17.html" title="Lars Roskoden">Lars Roskoden</a></td>
+  <td><a href="/2016/programm/event5018.html" title="Darstellung einfacher Möglichkeiten für die Höhenmessung von OSM-Objekten. Vergleich der Vor- und Nachteile.">Das ist ja wohl die Höhe!<br><i>Einfache Höhenmessung von OSM-Objekte</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=lf_qwjdEXrU" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5018-das_ist_ja_wohl_die_hohe-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5018-das_ist_ja_wohl_die_hohe-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5018-das_ist_ja_wohl_die_hohe-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5018-das_ist_ja_wohl_die_hohe-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5018-das_ist_ja_wohl_die_hohe.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5018-das_ist_ja_wohl_die_hohe.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-05 16:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker65.html" title="Peter Karich">Peter Karich</a></td>
+  <td><a href="/2016/programm/event5044.html" title="GraphHopper ist ein schneller und flexibler Open Source Routenplaner basierend auf OpenStreetMap Daten, der sowohl offline auf dem Gerät als auch auf dem Server läuft und schon bei vielen bekannten Or...">Flexible Routenplanung mit GraphHopper<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=Yb6Hgm6kljA" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5044-flexible_routenplanung_mit_graphhopper-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5044-flexible_routenplanung_mit_graphhopper-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5044-flexible_routenplanung_mit_graphhopper-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5044-flexible_routenplanung_mit_graphhopper-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5044-flexible_routenplanung_mit_graphhopper.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5044-flexible_routenplanung_mit_graphhopper.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-05 17:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker43.html" title="Bernhard Ströbl">Bernhard Ströbl</a></td>
+  <td><a href="/2016/programm/event5071.html" title="Der Vortrag zeigt die erfolgte Umsetzung des Standards XPlanung für PostGIS und den Zugriff darauf aus QGIS heraus am Beispiel eines in der Aufstellung befindlichen Flächennutzungsplans. ">XPlanung für einen Flächennutzungsplan mit PostGIS und QGIS<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=yAc4t6hc3BE" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5071-xplanung_fur_einen_flachennutzungsplan_mit_postgis_und_qgis-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5071-xplanung_fur_einen_flachennutzungsplan_mit_postgis_und_qgis-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5071-xplanung_fur_einen_flachennutzungsplan_mit_postgis_und_qgis-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5071-xplanung_fur_einen_flachennutzungsplan_mit_postgis_und_qgis-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5071-xplanung_fur_einen_flachennutzungsplan_mit_postgis_und_qgis.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5071-xplanung_fur_einen_flachennutzungsplan_mit_postgis_und_qgis.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="subheader">
+  <td colspan="7">Mittwoch</td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-06 09:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker101.html" title="Carina Waidhofer">Carina Waidhofer</a>, <a href="/2016/programm/speaker102.html" title="Christoph Haselberger">Christoph Haselberger</a></td>
+  <td><a href="/2016/programm/event5055.html" title="Die Linzer Unternehmen X-Net Services GmbH und blp GeoServices GmbH haben die technische Entwicklung des öffentlich zugänglichen IMPACT2C Web-Atlas im Auftrag des Climate Service Center Germany realis...">Zusammenspiel von GIS und CMS verdeutlicht die möglichen Fol...<br><i>IMPACT2C Web-Atlas verknüpft Open Source Geoinformationssyst...</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=kor_JGfoLRg" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5055-zusammenspiel_von_gis_und_cms_verdeutlicht_die_moglichen_folgen_einer_2_klimaerwarmung-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5055-zusammenspiel_von_gis_und_cms_verdeutlicht_die_moglichen_folgen_einer_2_klimaerwarmung-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5055-zusammenspiel_von_gis_und_cms_verdeutlicht_die_moglichen_folgen_einer_2_klimaerwarmung-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5055-zusammenspiel_von_gis_und_cms_verdeutlicht_die_moglichen_folgen_einer_2_klimaerwarmung-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5055-zusammenspiel_von_gis_und_cms_verdeutlicht_die_moglichen_folgen_einer_2_klimaerwarmung.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5055-zusammenspiel_von_gis_und_cms_verdeutlicht_die_moglichen_folgen_einer_2_klimaerwarmung.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-06 09:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker1325.html" title="Nils Bühner (terrestris GmbH & Co. KG)">Nils Bühner (terrestris GmbH & Co. KG)</a></td>
+  <td><a href="/2016/programm/event5077.html" title="">Neuerungen im GeoServer<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=6aAZdaWR-54" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5077-neuerungen_im_geoserver-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5077-neuerungen_im_geoserver-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5077-neuerungen_im_geoserver-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5077-neuerungen_im_geoserver-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5077-neuerungen_im_geoserver.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5077-neuerungen_im_geoserver.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-06 10:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker83.html" title="Jürgen Weichand">Jürgen Weichand</a></td>
+  <td><a href="/2016/programm/event5072.html" title="">Neue Werkzeuge für INSPIRE<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=KhN1T9deW-Q" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5072-neue_werkzeuge_fur_inspire-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5072-neue_werkzeuge_fur_inspire-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5072-neue_werkzeuge_fur_inspire-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5072-neue_werkzeuge_fur_inspire-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5072-neue_werkzeuge_fur_inspire.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5072-neue_werkzeuge_fur_inspire.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-06 11:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker97.html" title="Armin Retterath">Armin Retterath</a></td>
+  <td><a href="/2016/programm/event5091.html" title="Im Rahmen einer Live Präsentation wird gezeigt, wie sich frei verfügbare Geodaten auf einfache Weise und in kürzester Zeit mittels QGIS Cloud und dem GeoPortal.rlp für INSPIRE bereitstellen lassen. Da...">INSPIRE "instant"<br><i>Datenbereitstellung für INSPIRE mit QGIS Cloud und GeoPortal...</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=azsgu2pXBH0" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5091-inspire_instant-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5091-inspire_instant-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5091-inspire_instant-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5091-inspire_instant-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5091-inspire_instant.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5091-inspire_instant.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-06 11:30</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker42.html" title="Astrid Emde">Astrid Emde</a></td>
+  <td><a href="/2016/programm/event5027.html" title="Die PostNAS Suite bietet Lösungen zum Import von NAS Dateien und zur Weiterverarbeitung sowie Inwertsetzung der Informationen. ALKIS, ATKIS, ABK werden im NAS Austauschformat ausgegeben und können via...">PostNAS-Suite<br><i>Lösungen für den ALKIS Datenimport, die Darstellung, Informa...</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=hQGiUbHmCwA" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5027-postnas-suite-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5027-postnas-suite-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5027-postnas-suite-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5027-postnas-suite-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5027-postnas-suite.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5027-postnas-suite.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-06 13:00</td>
+  <td>Grüner HS</td>
+  <td style="width:13em;"></td>
+  <td><a href="/2016/programm/event5106.html" title="">Abschlußveranstaltung<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=MmVLDiyYtd8" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5106-abschlussveranstaltung-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5106-abschlussveranstaltung-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5106-abschlussveranstaltung-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5106-abschlussveranstaltung-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5106-abschlussveranstaltung.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5106-abschlussveranstaltung.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-06 09:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker26.html" title="Peter Barth">Peter Barth</a></td>
+  <td><a href="/2016/programm/event5094.html" title="Bereits seit 2008 nimmt das OpenStreetMap-Projekt als Organisation am Google Summer of Code teil und hat in diesem Rahmen viele interessante und nützliche Projekte auf den Weg gebracht, aber auch dazu...">Summer of Code<br><i>Ich weiß was du letzten Sommer gecodet hast</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=NSYK6EUVfFI" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5094-summer_of_code-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5094-summer_of_code-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5094-summer_of_code-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5094-summer_of_code-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5094-summer_of_code.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5094-summer_of_code.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-06 09:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker96.html" title="Mark Padgham">Mark Padgham</a></td>
+  <td><a href="/2016/programm/event5089.html" title="Das R package, "osmplotr" ermöglicht  die grafisch beliebige Darstellung ausgwählter OSM-Daten mit dem wesentlichen Vorteil, dass ausgewählte Regionen mit Hilfe eines kontrastierenden Hintergrundes ve...">OSM schön gemacht<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=y-EhivO6qbs" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5089-osm_schon_gemacht-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5089-osm_schon_gemacht-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5089-osm_schon_gemacht-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5089-osm_schon_gemacht-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5089-osm_schon_gemacht.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5089-osm_schon_gemacht.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-06 10:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker87.html" title="Tobias Knerr">Tobias Knerr</a></td>
+  <td><a href="/2016/programm/event5090.html" title="Dieser Vortrag widmet sich den Herausforderungen, die für die immer anspruchsvolleren 3D-Darstellungen in OSM2World zu bewältigen waren. Der freie 3D-Renderer geht dabei oft einen anderen Weg als die ...">OSM2World hinter den Kulissen<br></a></td>
+  <td><a href="https://www.youtube.com/watch?v=iUbBn2vVwX4" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5090-osm2world_hinter_den_kulissen-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5090-osm2world_hinter_den_kulissen-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5090-osm2world_hinter_den_kulissen-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5090-osm2world_hinter_den_kulissen-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5090-osm2world_hinter_den_kulissen.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5090-osm2world_hinter_den_kulissen.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="grau">
+  <td>2016-07-06 11:00</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker67.html" title="Dr. Arndt Brenschede">Dr. Arndt Brenschede</a></td>
+  <td><a href="/2016/programm/event5092.html" title="Transit-Routing ist in Bewegung und OSM spielt eine zunehmende Rolle dabei. Was kann OSM ausser dem Wegenetz dazu beitragen, was ist der Unique-Selling Point und warum ist das Thema mit Öffie, Google-...">Transit-Routing und OSM<br><i>Getrennte Welten oder Traumpaar ?</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=NN7or-f43pw" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5092-transit-routing_und_osm-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5092-transit-routing_und_osm-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5092-transit-routing_und_osm-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5092-transit-routing_und_osm-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5092-transit-routing_und_osm.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5092-transit-routing_und_osm.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+ <tr class="weiss">
+  <td>2016-07-06 11:30</td>
+  <td>GI Studio</td>
+  <td style="width:13em;"><a href="/2016/programm/speaker95.html" title="Philip Beelmann">Philip Beelmann</a></td>
+  <td><a href="/2016/programm/event5093.html" title="Es gibt bereits viel freie Software, die mit Geodaten im OSM-Format umgehen kann.
+Kommerzielle Geodaten hingegen können oft nur mit proprietärer Software genutzt werden.
+Besitzer kommerzieller Geoda...">morituri<br><i>der COMMercial2OSM Konverter</i></a></td>
+  <td><a href="https://www.youtube.com/watch?v=FUO2QY6c2HY" title="YouTube Video"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/18x14_Video_Clic_Player.svg/20px-18x14_Video_Clic_Player.svg.png" alt="YouTube Play Button" style="margin-bottom:2px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5093-morituri-hd.mp4" title="MP4 HD Video"><img src="../img/mp4_hd.png" alt="MP4 HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5093-morituri-sd.mp4" title="MP4 SD Video"><img src="../img/mp4_sd.png" alt="MP4 SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5093-morituri-hd.webm" title="Webm HD Video"><img src="../img/webm_hd.png" alt="Webm HD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5093-morituri-sd.webm" title="Webm SD Video"><img src="../img/webm_sd.png" alt="Webm SD Icon"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5093-morituri.mp3" title="MP3 Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MP3_logo.png/24px-MP3_logo.png" alt="MP3 Logo" style="margin-bottom:5px;"></a> <a href="https://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2016/FOSSGIS2016-5093-morituri.opus" title="Opus Audio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/24px-Opus_logo2.svg.png" alt="Opus Logo" style="margin-bottom:3px;"></a> </td>
+ </tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
