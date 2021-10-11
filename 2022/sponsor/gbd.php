@@ -29,7 +29,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Geoinformatikbüro Dassau GmbH</h3>
 
-					<p>Das <a href="https://www.gbd-consult.de/">Geoinformatikbüro Dassau</a> kommt aus Düsseldorf und ist seit 2006 spezialisiert auf die Umsetzung von GIS und WebGIS Projekten sowie Geodateninfrastrukuren mit QGIS, GRASS GIS, der <a href="https://gbd-websuite.de/">GBD WebSuite</a> und PostgreSQL/PostGIS. Wir setzen konsequent auf Freie Open Source Software (FOSS) und bevorzugen Freie Daten.</p>
+					<p>Die Geoinformatikbüro Dassau GmbH aus Düsseldorf bietet seit 2006 Beratung, Konzeption, Schulung, Wartung, Support und Programmierung zum Thema GIS und GDI auf Open Source Basis. Ein Fokus liegt auf der Software QGIS, QGIS Server, QGIS Web Client, GBD WebSuite, Postgres/PostGIS und GRASS GIS.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
