@@ -58,6 +58,16 @@
 
 			<h3>Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
+
+			<h4 class="highlight">Platinsponsoren</h4>
+				<ul class="tiles">
+					<li class="tile platin">
+						<a href="https://www.wheregroup.com" target="_blank">
+						<img src="./img/s/001_WhereGroup-zentriert.jpg" alt="WhereGroup">
+						</a>
+					</li>
+				</ul>			
+
 			<h4 class="highlight">Bronzesponsoren</h4>
 				<ul class="tiles">
 					<li class="tile bronze">
