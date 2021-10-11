@@ -23,42 +23,39 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="." 
-				class="sponsor-logo" 
-				alt="Firmenlogo">
-			
+			<img src="./img/s/401_opencage-logo.png" class="sponsor-logo" alt="OpenCageData">
+							
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>Firmy XYZ</h3>
+					<h3>Open Cage GmbH</h3>
 
-					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+					<p>Firmentext folgt
 					</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
 						<h6 class="mb-0">Webseite<br>
-						<a href="https://www.example.de/">
-							https://www.example.de/</a></h6>
+						<a href="https://opencagedata.com">
+							https://opencagedata.com</a></h6>
 					</div>
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							E-Mail: <br>
-							<a href="mailto:Email@Email.de">Email-at-Email.de</a><br></h6>
+							<a href="mailto:mtm@opencagedata.com?subject=Kontakt_FOSSGIS_Verein">mtm-at- opencagedata.com</a><br>
+							<a href="https://opencagedata.com/contact">Kontaktformular</a></h6>
 					</div>
-
-						
-				
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+								<a href="https://twitter.com/opencage"><i class="fab fa-twitter"></i></a>
+							</li>
+							
+							<li>
+								<a href="https://github.com/OpenCageData/"><i class="fab fa-github"></i></a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com//"><i class="fab fa-linkedin-in"></i></a>
-							</li>
-							<li>
-								<a href="https://github.com/"><i class="fab fa-github"></i></a>
+								<a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g/"><i class="fab fa-youtube"></i></a>
 							</li>
 						</ul>
 					</div>
