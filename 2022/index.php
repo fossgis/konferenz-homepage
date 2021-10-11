@@ -65,6 +65,11 @@
 						<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://wagner-it.de" target="_blank">
+						<img src="./img/s/402_Wagner-IT.png" alt="Wagner-IT">
+						</a>
+					</li>
 					
 				</ul>
 
