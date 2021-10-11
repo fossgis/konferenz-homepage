@@ -70,6 +70,11 @@
 						<img src="./img/s/402_Wagner-IT.png" alt="Wagner-IT">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.gbd-consult.de/" target="_blank">
+						<img src="./img/s/403_GBD.png" alt="Geoinformatikbüro Dassau">
+						</a>
+					</li>
 					
 				</ul>
 
