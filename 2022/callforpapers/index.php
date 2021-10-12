@@ -44,6 +44,7 @@ Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V., die OpenStreetMap-Co
     	<li>3D, Drohnen, LIDAR</li>
     	<li>Kartographie und Visualisierung</li>
     	<li>Offene Standards, z.B. INSPIRE, OGC</li>
+		<li>Geodatenforschungsmanagement / Forschungsdatenmanagement</li>
     	<li>Open Data und Lizenzen</li>
     	<li>Ausbildung und Lehre</li>
      </ul>
