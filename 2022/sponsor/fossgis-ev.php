@@ -39,16 +39,16 @@
 			<div class="col-lg-3">
 
 					<div class="mb-4">
-						<h6 class="mb-0">Webseite</h6>
+						<h6 class="mb-0">Webseite<br>
 						<a href="https://fossgis.de/">
-							https://fossgis.de/</a>
+							https://fossgis.de/</a></h6>
 					</div>
 					<div class="mb-4">
-						<h6 class="mb-0">Kontakt</h6>
+						<h6 class="mb-0">Kontakt<br><br>
 							E-Mail: <br>
 							<a href="mailto:info@fossgis.de?subject=Kontakt_FOSSGIS_Verein">info-at-fossgis.de</a><br>
 							Telefon: <br>
-							+49 30-62932037 
+							+49 30-62932037 </h6>
 					</div>
 
 					<div class="social-icon">
