@@ -39,7 +39,7 @@ Call for Participation formulieren, Einreichungen reviewen, Programm gestalten, 
 2022: das Programmkomitee hat sich konstituiert, siehe Wikiseite <a href="https://www.fossgis.de/wiki/Konferenz_2022/Organisationsteam#Programmkomitee"> Programmkomitee</a></li>
 		<li><b>Presse- und Öffentlichkeitsarbeit</b><br>
 Pressetexte schreiben, Konferenz bekannter machen, raus aus der Blase, neue Menschen erreichen. Teilnehmende informieren.</li>
-		<li><b>Helfer:innenkorrdination</b><br>
+		<li><b>Helfer:innenkoordination</b><br>
 Engelsystem, Überblick, Helfer:innen anwerben, Jobbeschreibungen, Job-Schichten koordinieren - genau das hier ^ gut zu organisieren ;-)</li>
 		<li><b>Technische Umsetzung</b><br>
 Unterstützung der technischen Umsetzung der Konferenz in Zusammenarbeit mit dem VOC, u.a. vorab aufgezeichnete Vorträge einsammeln und zur Verfügung stellen, Mails aus Pretalx versenden.</li>
@@ -50,7 +50,7 @@ Das OSM-Event organisieren (Unconference, Mappingevent...) und moderieren.</li>
 		<li><b>Programmheft</b><br>
 Programm als gedruckte Ausgabe im Format A6 für die TN.</li>
 		<li><b>Teilnehmer:innenbetreuung/ Welcome Desk</b><br>
-Im Arbeitspaket Teilnehmer:innenbetreeuung stecken mehrere Aufgaben.
+Im Arbeitspaket Teilnehmer:innenbetreuung stecken mehrere Aufgaben.
 Die Informationen zur Konferenz im Vorfeld so aufbereiten, dass es für die TN übersichtlich und nachvollziehbar ist (Website, TN-Mail).
 Welcome Desk in Marburg organisieren ist in erster Linie eine Aufgabe des Lokal Teams.
 Einen Code of Conduct zu formulieren, steht schon lange auf der Agenda (Beispiel: https://2021.foss4g.org/about/coc.html).</li>
@@ -143,7 +143,7 @@ In jedem Workshopraum gibt es eine verantwortliche Person.
 Schnittstelle zw. Online und Vorort für Umsetzung des Tracks 
  Fragen, Chat, Hörsaalbilder - mal sehen, ob es das braucht.</li>
 		<li><b>Info Desk </b>(freiwillig)<br>
-Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Info Desk Helkfer:innen checken den Chat der Onlineplattform und stehen in der Netzwerkwelt für Fragen zur Verfügung.</li>
+Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Info Desk Helfer:innen checken den Chat der Onlineplattform und stehen in der Netzwerkwelt für Fragen zur Verfügung.</li>
 	</ul>
 
 
