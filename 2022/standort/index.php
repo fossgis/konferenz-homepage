@@ -38,7 +38,15 @@
 
 	
 	<h2>Ausflugsmöglichkeiten & Sehenswürdigkeiten</h2>
-	<p>Infos folgen</p>
+	<p>Ein beliebtes Ausflugsziel mit Café und Kultur ist die „Spiegelslust“ Turm.</p>
+	
+	<h2>Die Lokalen Nahverkehrsorganisationen </h2>
+	<p>Der Stadtverkehr in Marburg bittet 19 Buslinien, dazu kommen die Anruf-Sammel-Taxen  
+	<a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">l(AST)</a>
+	</p>
+	<p>
+	Ergänzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes 
+	Marburg-Biedenkopf und des Rhein-Main-Verkehrsverbundes.
 
 
 
