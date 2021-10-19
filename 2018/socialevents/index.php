@@ -76,7 +76,7 @@ Getr채nke werden gestellt und es wird f체r alle Pizza bestellt. Wir freuen uns �
 				<p>Von 9:30 bis 18 Uhr findet die mittlerweile beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2018/OSM-Samstag"> OSM-Wiki </a> sowie an der Pinnwand am FOSSGIS-Stand. Um 10 Uhr werden die Themen in Zeiten und R채ume sortiert. F체r das leibliche Wohl wird gesorgt sein. Wir bitten um Anmeldung 체ber das <a href="https://www.fossgis-konferenz.de/2018/anmeldung/" >FOSSGIS-Konferenz-Teilnehmeranmeldesystem</a></p>
 
                 </div>
-            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerkl채rung">Datenschutzerkl채rung</a></footer>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerkl채rung">Datenschutzerkl채rung</a></footer>
         </div>
     </body>
 </html>

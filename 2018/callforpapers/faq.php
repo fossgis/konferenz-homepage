@@ -96,7 +96,7 @@
                     <dd>Ja. Im Rahmen der FOSSGIS 2014 gab es Testweise einen <a href="https://www.fossgis.de/wiki/OS-Block-FOSSGIS-Konferenz_OpenSource_Einf%C3%BChrung">Block OpenSource Einführung</a>. Bitte nehmen Sie direkt mit dem Programmkomitee Kontakt auf, wenn Sie diesen Block mit gestalten möchten.</dd>
                 </dl>
             </div>
-            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="https://www.fossgis-konferenz.de/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
+            <footer>Website by <a href="https://oliverroick.de/">Oliver Roick</a> &bull; <a href="https://www.fossgis.de/impressum/">Impressum</a> &bull;  <a href="/2018/agb.php">AGB</a> &bull; <a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a></footer>
         </div>
     </body>
 </html>
