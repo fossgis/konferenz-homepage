@@ -8,10 +8,8 @@
 	<title>FOSSGIS 2019 - Anmeldung</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
-	<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2019/widget/v1.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 </head>
 
 <body id="anmeldung">
@@ -65,20 +63,10 @@
 	</p>
 
 	<h3>Helfer</h3>
-	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer-2019.fossgis.de/">Helfersystem</a> Helfersystem anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen. Bei Fragen empfehlen wir die <a href="https://pretix.eu/fossgis/2019/page/helfer/" target="_blank">FAQ</a> zu lesen.</p>
+	<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen.</p>
 
 	<h3>Anmeldung</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2019/">diesem Link</a> direkt aufrufen.</p>
-	<div id="shop">
-		<pretix-widget event="https://pretix.eu/fossgis/2019/"></pretix-widget>
-	</div>
-	<noscript>
-		<div class="pretix-widget">
-			<div class="pretix-widget-info-message">
-				JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2019/">hier</a>.
-			</div>
-		</div>
-	</noscript>
+	<p>Die Anmeldung ist geschlossen.</p>
 
 	<?php include('../inc/footer.inc'); ?>
 
