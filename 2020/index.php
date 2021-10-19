@@ -204,7 +204,7 @@ Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="http://www.disy.net" target="_blank">
+			<a href="https://www.disy.net" target="_blank">
 				<img src="./img/s/205_Logo_disy_4c.jpg" alt="Disy Informationssysteme GmbH">
 			</a>
 		</li>
@@ -214,7 +214,7 @@ Sollte sich eine Veränderung ergeben informieren wir natürlich alle Teilnehmer
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="http://www.lingner.eu/" target="_blank">
+			<a href="https://www.lingner.eu/" target="_blank">
 				<img src="./img/s/207_mapwebbing_logo.png" alt="mapwebbing">
 			</a>
 		</li>

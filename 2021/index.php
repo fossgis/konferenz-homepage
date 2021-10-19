@@ -73,7 +73,7 @@
 			<h4 class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile gold">
-						<a href="http://www.bkg.bund.de/" target="_blank">
+						<a href="https://www.bkg.bund.de/" target="_blank">
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG Bund">
 						</a>
 					</li>
@@ -115,7 +115,7 @@
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="http://www.lingner.eu/" target="_blank">
+						<a href="https://www.lingner.eu/" target="_blank">
 						<img src="./img/s/402_mapwebbing_logo.png" alt="mapwebbing">
 						</a>
 					</li>
@@ -193,7 +193,7 @@
 						</a>
 					</li>
 					<li class="tile media">
-						<a href="http://www.oreilly.de/" target="_blank">
+						<a href="https://www.oreilly.de/" target="_blank">
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
 						</a>
 					</li>

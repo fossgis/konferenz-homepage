@@ -60,7 +60,7 @@
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket buchen.<br> Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen. 
 		<ul>
 		<li><i><b>Browserbasiert:</b></i> Sie benötigen lediglich einen aktuellen Internet-Browser.</li>
-		<li><i><b>OSGeoLive 14.0: </b></i> Im Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als Virtuelle Box auf Ihrem Computer laufen. Hier finden Sie eine <a href="http://live.osgeo.org/de/index.html"> Anleitung zur Installation der OSGeoLive.</a></li>
+		<li><i><b>OSGeoLive 14.0: </b></i> Im Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als Virtuelle Box auf Ihrem Computer laufen. Hier finden Sie eine <a href="https://live.osgeo.org/de/index.html"> Anleitung zur Installation der OSGeoLive.</a></li>
 		<li><i><b>Individuell: </b></i> Sie erhalten in der Woche vor der Konferenz eine Mail mit detaillierten Informationen zum Workshop sowie die Möglichkeit in einem Termin Ihre Technik zu checken.</li>
 		</ul>
   	</p>

@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="http://www.fossgis-konferenz.de/2021/expo/img/ESRI_Headergrafik.png" class="img-fluid" height="370" alt="Headerbild_ESRI">
+			<img src="https://www.fossgis-konferenz.de/2021/expo/img/ESRI_Headergrafik.png" class="img-fluid" height="370" alt="Headerbild_ESRI">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Esri</h3>

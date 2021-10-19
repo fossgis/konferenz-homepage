@@ -21,7 +21,7 @@
 
 	<section class="section">
 		<div class="container">
-			<img src="http://www.fossgis-konferenz.de/2021/expo/img/01_Banner_WhereGroup.jpg" class="img-fluid" alt="wheregroup_Banner">
+			<img src="https://www.fossgis-konferenz.de/2021/expo/img/01_Banner_WhereGroup.jpg" class="img-fluid" alt="wheregroup_Banner">
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 		

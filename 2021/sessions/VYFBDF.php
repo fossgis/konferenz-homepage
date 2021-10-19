@@ -24,7 +24,7 @@
             <p>
                 <span class='abstract-sessiontype'>Workshop</span>
                                 von <span class='abstract-speakers'>Hannes Blitza</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2021/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>                                <p class='abstract-is-workshop'>In diesem Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als virtuelle Maschine auf Ihrem Computer laufen. <a href="http://live.osgeo.org/de/index.html">Zur Installationsanleitung der OSGeoLive</a>.</p>                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 16:00 Uhr
+                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2021/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>                                <p class='abstract-is-workshop'>In diesem Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als virtuelle Maschine auf Ihrem Computer laufen. <a href="https://live.osgeo.org/de/index.html">Zur Installationsanleitung der OSGeoLive</a>.</p>                            <p><span class='abstract-time-heading'>Zeit: </span>Montag 07. Juni 16:00 Uhr
                 <br><span class='abstract-room-heading'>Ort: </span>Workshop 1
                 <br><span class='abstract-room-heading'>Dauer: </span>90 Minuten
             </p>

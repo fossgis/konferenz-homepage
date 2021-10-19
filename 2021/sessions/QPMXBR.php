@@ -46,8 +46,8 @@ https://pygeoapi.io/</p>
 <p>Sie weist Erfahrung mit PostgreSQL und PostGIS, MapServer, GeoServer, QGIS, QGIS Server und Mapbender auf. Weiterhin Apache Solr, OpenLayers, MapProxy, OGC Standards &amp; Skripting.</p>
 <p>Astrid Emde arbeitet bei der WhereGroup in Bonn und hat schon viele Workshops und Präsentationen zu Mapbender, MapServer, GeoServer, PostgreSQL/PostGIS, OWS oder allgemein zum Aufbau einer GDI gehalten. Sie ist Dozentin der [FOSS Academy] (https://www.foss-academy.com), dem Schulungsinstitut der WhereGroup (https://www.wheregroup.com)</p>
 <p>Seit über 10 Jahren engagiert sie sich im Mapbender-Projekt und gehört zum Mapbender Team (http://mapbender.org) und dem Mapbender PSC (Project Steering Committee).</p>
-<p>Astrid Emde ist in der OSGeo Foundation (http://osgeo.org) aktiv. Sie ist 2010 zum Charter Member und 2017 in das OSGeo Board of Directors (Vorstand der OSGeo) und zur OSGeo Secretary gewählt worden. Dadurch übernimmt sie zahlreiche Aufgaben bei der OSGeo und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive (http://live.osgeo.org/) aktiv. 2018 erhielt sie für ihr Engagement den Sol Katz Award der OSGeo.</p>
-<p>Auch im FOSSGIS e.V. ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (http://fossgis.de).</p>
+<p>Astrid Emde ist in der OSGeo Foundation (http://osgeo.org) aktiv. Sie ist 2010 zum Charter Member und 2017 in das OSGeo Board of Directors (Vorstand der OSGeo) und zur OSGeo Secretary gewählt worden. Dadurch übernimmt sie zahlreiche Aufgaben bei der OSGeo und ist darüber hinaus im Bereich Marketing, Presse, Community Meetings und OSGeoLive (https://live.osgeo.org/) aktiv. 2018 erhielt sie für ihr Engagement den Sol Katz Award der OSGeo.</p>
+<p>Auch im FOSSGIS e.V. ist Astrid Emde aktiv. Sie gehört zum Team der jährlich stattfindenden FOSSGIS-Konferenz, engagiert sich in der Vereins-Öffentlichkeitsarbeit und der Organisation von Community Events (https://fossgis.de).</p>
         </div>
         </section>
 

@@ -114,7 +114,7 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="http://www.lingner.eu/" target="_blank">
+			<a href="https://www.lingner.eu/" target="_blank">
 				<img src="./img/s/206_mapwebbing.PNG" alt="mapwebbing">
 			</a>
 		</li>
@@ -129,12 +129,12 @@
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="http://www.lat-lon.de" target="_blank">
+			<a href="https://www.lat-lon.de" target="_blank">
 				<img src="./img/s/209_logo_latlon_web.png" alt="lat/lon gesellschaft für raumbezogene Informationssysteme mbH">
 			</a>
 		</li>
 		<li class="tile bronze">
-			<a href="http://www.geofabrik.de" target="_blank">
+			<a href="https://www.geofabrik.de" target="_blank">
 				<img src="./img/s/210_Geofabrik.png" alt="Geofabrik GmbH">
 			</a>
 		</li>

@@ -29,7 +29,7 @@
 Als offizielle Commiter in mehreren OSGeo-Projekten können wir auch direkt in den Original-Code eingreifen.
 					</p>
 					<p><img src="./expo/img/csm_logo_qgiscloud.png" alt="sourcepole text"></p>
-					<p>Mit QGIS Cloud können Karten auf einfache Weise im Internet publiziert werden. Ein Plugin für QGIS Desktop ermöglicht das Hochladen von Daten und das Publizieren fertiger Karten. Auf Knopfdruck werden sie auf <a href="http://qgiscloud.com/">qgiscloud.com</a> für Web-Browser, mobile Clients und als OGC WMS verfügbar.</p>
+					<p>Mit QGIS Cloud können Karten auf einfache Weise im Internet publiziert werden. Ein Plugin für QGIS Desktop ermöglicht das Hochladen von Daten und das Publizieren fertiger Karten. Auf Knopfdruck werden sie auf <a href="https://qgiscloud.com/">qgiscloud.com</a> für Web-Browser, mobile Clients und als OGC WMS verfügbar.</p>
 
 					<p><img src="./expo/img/logo-mobile_sp.svg" alt="sourcepole text"></p>
 					<p>Seit 2016 wird von Sourcepole die QWC2 und QWC-Services Infrastruktur entwickelt. Der Der <a href="http://qwc2.sourcepole.ch/">QGIS WebClient 2 (QWC2)</a> ist auf die Publikation von Karten mit dem QGIS Server spezialisiert. Die gesamte Infrastruktur baut auf Micro-Services auf. Damit lassen sich extem flexible und ausbaufähige Infrastrukturen realisieren. Von einfachen In-House Clients bis hin zu umfangreichen Lösungen in Enterprise-Infrastrukturen ist alles möglich. <br>Gerne beraten wir Sie.</p>

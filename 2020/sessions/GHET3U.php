@@ -84,7 +84,7 @@
 <p>Wegue wurde kurz nach der Projektgründung auf der FOSSGIS 2018 in Bonn präsentiert. Mittlerweile ist das Projekt gereift und in einigen Realweltprojekten zum Einsatz gekommen. Dabei ist es an vielen Stellen erweitert und verbessert worden und befindet sich aktuell auf dem Weg zur Version 1.0.</p>
 <p>Der Vortrag gibt einen kurzen Überblick über das Wegue-Ökosystem sowie die Neuerungen der letzten Monate und zeigt wie Wegue-Anwendungen erstellt werden können. Außerdem werden einige Beispiele aus der Praxis präsentiert.</p>
 <p>[1] https://github.com/meggsimum/wegue</p>
-<p>[2] http://openlayers.org/</p>
+<p>[2] https://openlayers.org/</p>
 <p>[3] https://vuejs.org/</p>
         <div class='abstract-bio'>
             <h3 class='abstract-bio-name'>Jakob Miksch</h3>
