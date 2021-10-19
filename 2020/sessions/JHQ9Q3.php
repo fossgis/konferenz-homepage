@@ -70,7 +70,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Peter Gipper</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-110</p>
 
                         
             <p>Die Werkzeugkiste in QGIS stellt bereits eine Menge an Verarbeitungsalgorithmen bereit. Allerdings sind die realen Anforderungen oft derart, dass Daten vorbereitet, mehrere Werkzeuge kombiniert und Ergebnisse händisch nachbearbeitet werden müssen. Das Programmieren eigener Werkzeuge kann solche Workflows beschleunigen und bietet zudem weitere Vorteile wie bessere Reproduzierbarkeit von Ergebnissen, Vermeidung von Fehlern und einfache Weitergabe an Dritte.</p>

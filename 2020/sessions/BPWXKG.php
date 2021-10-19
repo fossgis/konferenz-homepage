@@ -70,7 +70,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Daniel Koch, Hannes Blitza</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-114</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Donnerstag 12. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-114</p>
 
                         
             <p>Der GeoServer ist ein bekannter und vielerorts genutzter Open-Source-Kartenserver, der viele OGC-Standards unterstützt. GeoServer ermöglicht die Veröffentlichung von Geodaten- und Kartendiensten aus zahlreichen Datenquellen.</p>

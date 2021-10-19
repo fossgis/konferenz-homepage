@@ -70,7 +70,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Astrid Emde, Leoni Möske</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Freitag 13. März 09:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
 
                         <p><a href="/2020/attachments/RUEZJ7_fossgis-2020-workshop-postgresql-postgis-fuer-ei_Eowxa1w.md">Vortragsfolien (PDF) </a></p>
             <ul>

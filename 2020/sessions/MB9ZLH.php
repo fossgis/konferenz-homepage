@@ -70,7 +70,7 @@
         <section>
             <p>
                 <span class='abstract-sessiontype'>Workshop</span> von                <span class='abstract-speakers'>Otto Dassau, Tristan</span></p>
-                <p class='abstract-is-workshop'>Bitte melden Sie sich im <a href="https://pretix.eu/fossgis/2020/">Ticketshop</a> für diesen Workshop an, wenn Sie daran teilnehmen möchten.</p>            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
+                            <p><span class='abstract-time-heading'>Zeit: </span>Mittwoch 11. März 17:00 Uhr<br><span class='abstract-room-heading'>Ort: </span>SR R-100</p>
 
                         
             <p>Zum Zeitpunkt der Konferenz ist QGIS 3.10 der zweite Long Term Stable (LTS) Release und QGIS 3.12. die gerade veröffentlichte, aktuelle QGIS Version. Für Interessierte, die QGIS noch nicht kennen, vermitteln wir anhand eines einfachen Workflows einen Überblick, wie man ein QGIS-Projekt aufbaut, Daten analysiert und editiert und am Ende eine ansprechende Karte erzeugt.</p>
