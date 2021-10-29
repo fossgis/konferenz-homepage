@@ -40,22 +40,16 @@ Unser Schulungsinstitut, die FOSS Academy, bietet außerdem für Einzelpersonen 
 <p>Mehr zur WhereGroup unter <a href="www.wheregroup.com">www.wheregroup.com</a> und <a href="www.foss-academy.com">www.foss-academy.com</a>.
 					</p>
 				</div>
-			<div class="mb-4">
-				<h6 class="mb-0">Webseite<br>
-					<a href="https://wheregroup.com">
-							wheregroup.com</a></h6>
-			<div class="mb-4">
-				<h6 class="mb-0">FOSS-Academy<br>
-					<a href="https://www.foss-academy.com">
-							www.foss-academy.com</a></h6>
-				
-			<div class="mb-4">
-						<h6 class="mb-0">Kontakt<br><br>
-							E-Mail: <br>
-							<a href="mailto:info@wheregroup.de">info-at-wheregroup.de</a><br></h6>
+			<div class="col-lg-3">
+				<div class="mb-4">
+					<h6 class="mb-0">Kontakt<br><br>
+						Webseite:<br>
+						<a href="https://wheregroup.com">wheregroup.com</a><br>
+						FOSS-Academy<br>
+						<a href="https://www.foss-academy.com">www.foss-academy.com</a><br><br>
+						E-Mail: <br>
+						<a href="mailto:info@wheregroup.de">info-at-wheregroup.de</a><br></h6>
 					</div>
-
-						
 				
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
