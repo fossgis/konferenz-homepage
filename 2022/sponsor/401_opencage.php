@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2022 - Sponsor XYZ</title>
+	<title>FOSSGIS 2022 - Sponsor Open Cage GmbH</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -29,20 +29,26 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Open Cage GmbH</h3>
 
-					<p>Firmentext folgt
-					</p>
+					<p>OpenCage GmbH bietet eine auf offene Daten basierende API für Geokodierung. Sowohl forward geocoding wie auch reverse geocoding werden unterstützt. Unsere Kunden sind kleine und große Firmen weltweit die Geocoding brauchen, die Vorteile offene Daten schätzen und sich die Arbeit sparen wollen ein komplexes System selber am Laufen zu halten.</p>
+
+					<p>Ob es um die einmalige Datenverarbeitung geht oder maßgeschneiderte highly-available Systeme mit mehreren Millionen Anfragen pro Tag, nehmen auch Sie Kontakt mit uns auf, wenn Sie Bedarf an Geocoding haben.</p>
+
+					<p>Wir sind Firmenmitglied im OpenStreetMap Foundation (Silver Tier), unterstützten die Entwicklung von Nominatim, sind regelmäßiger Sponsor von OpenStreetMap Veranstaltungen, und organisieren Geomob.<br>
+Firmensitz ist Hannover.
+				</p>
 				</div>
 				<div class="col-lg-3">
-					<div class="mb-4">
-						<h6 class="mb-0">Webseite<br>
-						<a href="https://opencagedata.com">
-							https://opencagedata.com</a></h6>
-					</div>
+					
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
+							Webseite:<br>
+						<a href="https://opencagedata.com">
+							https://opencagedata.com</a><br>
+							Kontaktformular:<br>
+						<a href="https://opencagedata.com/contact">opencagedata.com/contact</a><br><br>
 							E-Mail: <br>
 							<a href="mailto:mtm@opencagedata.com?subject=Kontakt_FOSSGIS_Verein">mtm-at- opencagedata.com</a><br>
-							<a href="https://opencagedata.com/contact">Kontaktformular</a></h6>
+							</h6>
 					</div>
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>

@@ -33,15 +33,13 @@
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
-						<h6 class="mb-0">Webseite<br>
-						<a href="https://www.gbd-consult.de/">
-							www.gbd-consult.de/</a>
-						<h6 class="mb-0">GBD-Websuite<br>
-						<a href="https://gbd-websuite.de">
-							gbd-websuite.de</a></h6>
-										</div>
-					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
+							Webseite: <br>
+						<a href="https://www.gbd-consult.de/">
+							www.gbd-consult.de/</a><br>
+ 							GBD-Websuite:<br>
+						<a href="https://gbd-websuite.de">
+							gbd-websuite.de</a><br><br>
 							E-Mail: 
 							<a href="mailto:info@gbd-consult.de">info-at-gbd-consult.de</a><br></h6>
 					</div>

@@ -62,7 +62,7 @@
 			<h4 class="highlight">Platinsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile platin">
-						<a href="https://www.wheregroup.com" target="_blank">
+						<a href="sponsor/001_wheregroup.php" target="_blank">
 						<img src="./img/s/001_WhereGroup-zentriert.jpg" alt="WhereGroup">
 						</a>
 					</li>
@@ -71,18 +71,23 @@
 			<h4 class="highlight">Bronzesponsoren</h4>
 				<ul class="tiles">
 					<li class="tile bronze">
-						<a href="https://opencagedata.com/" target="_blank">
+						<a href="sponsor/401_opencage.php" target="_blank">
 						<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="https://wagner-it.de" target="_blank">
+						<a href="sponsor/402_wagner-it.php" target="_blank">
 						<img src="./img/s/402_Wagner-IT.png" alt="Wagner-IT">
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="https://www.gbd-consult.de/" target="_blank">
+						<a href="sponsor/403_gbd.php" target="_blank">
 						<img src="./img/s/403_GBD.png" alt="Geoinformatikbüro Dassau">
+						</a>
+					</li>	
+					<li class="tile bronze">
+						<a href="sponsor/404_gkg.php" target="_blank">
+						<img src="./img/s/404_gkg_logo.png" alt="gkg">
 						</a>
 					</li>
 					

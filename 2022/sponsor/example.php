@@ -36,12 +36,11 @@
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
-						<h6 class="mb-0">Webseite<br>
+						<h6 class="mb-0">Kontakt<br>
+							Webseite:<br>
 						<a href="https://www.example.de/">
 							https://www.example.de/</a></h6>
-					</div>
-					<div class="mb-4">
-						<h6 class="mb-0">Kontakt<br>
+
 							E-Mail: <br>
 							<a href="mailto:Email@Email.de">Email-at-Email.de</a><br></h6>
 					</div>
