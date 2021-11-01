@@ -29,13 +29,15 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Open Cage GmbH</h3>
 
-					<p>OpenCage GmbH bietet eine auf offene Daten basierende API für Geokodierung. Sowohl forward geocoding wie auch reverse geocoding werden unterstützt. Unsere Kunden sind kleine und große Firmen weltweit die Geocoding brauchen, die Vorteile offene Daten schätzen und sich die Arbeit sparen wollen ein komplexes System selber am Laufen zu halten.</p>
-
-					<p>Ob es um die einmalige Datenverarbeitung geht oder maßgeschneiderte highly-available Systeme mit mehreren Millionen Anfragen pro Tag, nehmen auch Sie Kontakt mit uns auf, wenn Sie Bedarf an Geocoding haben.</p>
-
-					<p>Wir sind Firmenmitglied im OpenStreetMap Foundation (Silver Tier), unterstützten die Entwicklung von Nominatim, sind regelmäßiger Sponsor von OpenStreetMap Veranstaltungen, und organisieren Geomob.<br>
-Firmensitz ist Hannover.
-				</p>
+					<p>
+						OpenCage GmbH aus Hannover bietet eine auf offenen Daten basierende Geokodierung API (forward und reverse geocoding).
+					</p>
+					<p>
+						Sei es einmalige Datenverarbeitung, Systemintegration oder maßgeschneiderte highly-available Systeme für Millionen Anfragen am Tag.
+					</p>
+					<p>
+						Wir organisieren <a href="https://thegeomob.com/">Geomob Tech Talks</a> und <a href="https://thegeomob.com/podcast/">Podcast</a>.
+					</p>
 				</div>
 				<div class="col-lg-3">
 					
@@ -47,7 +49,7 @@ Firmensitz ist Hannover.
 							Kontaktformular:<br>
 						<a href="https://opencagedata.com/contact">opencagedata.com/contact</a><br><br>
 							E-Mail: <br>
-							<a href="mailto:mtm@opencagedata.com?subject=Kontakt_FOSSGIS_Verein">mtm-at- opencagedata.com</a><br>
+							<a href="mailto:support@opencagedata.com?subject=Kontakt_FOSSGIS_Verein">support-at-opencagedata.com</a><br>
 							</h6>
 					</div>
 					<div class="social-icon">
