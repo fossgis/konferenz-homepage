@@ -90,6 +90,11 @@
 						<img src="./img/s/404_gkg_logo.png" alt="gkg">
 						</a>
 					</li>
+					<li class="tile bronze">
+					<a href="sponsor/405_bemastergis.php" target="_blank">
+					<img src="./img/s/405_beMasterGIS.png" alt="beMasterGIS">
+					</a>
+		</li>
 					
 				</ul>
 
