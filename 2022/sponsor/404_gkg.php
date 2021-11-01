@@ -38,7 +38,7 @@ Mit angepassten QGIS-Oberflächen, dem QGIS-Modeller sowie SpatialSQL strukturie
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
-						<h6 class="mb-0">Kontakt<br>
+						<h6 class="mb-0">Kontakt<br><br>
 							Webseite:<br>
 						<a href="http://www.gkg-kassel.de">
 							www.gkg-kassel.de</a><br><br>

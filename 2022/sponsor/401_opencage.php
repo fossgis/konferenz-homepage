@@ -40,7 +40,7 @@ Firmensitz ist Hannover.
 				<div class="col-lg-3">
 					
 					<div class="mb-4">
-						<h6 class="mb-0">Kontakt<br>
+						<h6 class="mb-0">Kontakt<br><br>
 							Webseite:<br>
 						<a href="https://opencagedata.com">
 							https://opencagedata.com</a><br>

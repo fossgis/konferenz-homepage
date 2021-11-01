@@ -36,8 +36,8 @@
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
-						<h6 class="mb-0">Kontakt<br>
-							Webseite<br>
+						<h6 class="mb-0">Kontakt<br><br>
+							Webseite:<br>
 						<a href="https://wagner-it.de">
 							https://wagner-it.de</a><br><br>
 							E-Mail: <br>
