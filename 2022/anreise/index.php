@@ -163,7 +163,7 @@
 	
 	<p><i>Hotel Kornspeicher</i></p>
 	<ul>
-		<li> Web: <a href="https://hotel-calaluna.de/" rel="nofollow" target="_blank">https://hotel-calaluna.de/</a>
+		<li> Web: <a href="https://www.hotel-kornspeicher.de/" rel="nofollow" target="_blank">https://www.hotel-kornspeicher.de/</a>
 		</li>
 		<li> Adresse: Molkereistraße 6, 35039 Marburg</li>
 		<li> Telefon: +49 6421 948410</li>
