@@ -52,8 +52,6 @@
 
             <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing, Datenbanken und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>	
 
-			<!--<p>Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS ausschließlich als Online-Event stattfinden. Es wird die Möglichkeit geben den Campus Rapperswil virtuell zu erkunden, lassen Sie sich überraschen.</p>-->
-
            <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
 			<h3>Sponsoren der FOSSGIS-Konferenz</h3>
@@ -66,7 +64,21 @@
 						<img src="./img/s/001_WhereGroup-zentriert.jpg" alt="WhereGroup">
 						</a>
 					</li>
-				</ul>			
+					<li class="tile platin">
+						<a href="sponsor/002_camp2camp.php" target="_blank">
+						<img src="./img/s/002_camptocamp_logo.png" alt="camptocamp">
+						</a>
+					</li>
+				</ul>	
+
+			<h4 class="highlight">Silbersponsoren</h4>
+				<ul class="tiles">
+					<li class="tile silver">
+						<a href="sponsor/201_terrestris.php" target="_blank">
+						<img src="./img/s/201_terrestris.png" alt="terrestris">
+						</a>
+					</li>	
+				</ul>	
 
 			<h4 class="highlight">Bronzesponsoren</h4>
 				<ul class="tiles">
@@ -91,10 +103,20 @@
 						</a>
 					</li>
 					<li class="tile bronze">
-					<a href="sponsor/405_bemastergis.php" target="_blank">
-					<img src="./img/s/405_beMasterGIS.png" alt="beMasterGIS">
-					</a>
-		</li>
+						<a href="sponsor/405_bemastergis.php" target="_blank">
+						<img src="./img/s/405_beMasterGIS.png" alt="beMasterGIS">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="sponsor/406_komoot.php" target="_blank">
+						<img src="./img/s/406_komoot.png" alt="komoot">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="sponsor/407_mundialis.php" target="_blank">
+						<img src="./img/s/407_mundialis.png" alt="mundialis">
+						</a>
+					</li>
 					
 				</ul>
 
