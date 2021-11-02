@@ -47,7 +47,7 @@
 							https://www.camptocamp.com/de/news</a><br>
 
 							E-Mail: <br>
-							<a href="mailto:nane.vanderelst@camptocamp.com">nane.vanderelst-at-camptocamp.com</a><br></h6>
+							<a href="mailto:info@camptocamp.com">info-at-camptocamp.com</a><br></h6>
 					</div>
 
 						
