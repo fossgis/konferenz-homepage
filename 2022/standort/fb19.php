@@ -33,7 +33,8 @@
 
 	
 	<h2>Fachbereich Geographie</h2>
-	 <img src="https://fossgis-konferenz.de/2022/standort/img/FB19.jpg" alt="HS" width="500" height="600"> 
+	 <img class="img-fluid"  src="https://fossgis-konferenz.de/2022/standort/img/FB19.jpg" alt="FB19" > 
+	<figcaption><b>Photo: (C) by Cordula Mann/b></figcaption>
 	<p> Biegenstrasse 10, siehe auf die <a href="#">Karte 04</a> </p>
 	
 

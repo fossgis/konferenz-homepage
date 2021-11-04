@@ -33,7 +33,8 @@
 
 	
 	<h2>Forschungszentrum Deutscher Sprachatlas </h2>
-	 <img src="https://fossgis-konferenz.de/2022/standort/img/Sprachatlas.jpg" alt="HS" width="500" height="600"> 
+	 <img class="img-fluid"  src="https://fossgis-konferenz.de/2022/standort/img/Sprachatlas.jpg" alt="Sprachatlas"> 
+	 <figcaption><b>Photo: (C) by Cordula Mann/b></figcaption>
 	<p> Biegenstrasse 10, siehe auf die <a href="#">Karte 03</a> </p>
 	
 
