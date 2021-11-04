@@ -30,7 +30,7 @@
 	</div>-->
 
   <p>
-   Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen rund um <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;ude</a>, Forschungszentrum Deutscher Sprachatlas und das Campus Firmanei (<a href="https://fossgis-konferenz.de/2022/standort/bi.php/">Bibliothek</a>, Fachbereich Geographie) statt. Der zentrale Empfang wird in    der H&ouml;rsaalgeb&auml;ude Biegenstrasse 10 aufgebaut. Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet. Sollten Sie trotzdem Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern    Sie bitte nicht das Konferenz-Team anzusprechen.
+   Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen rund um <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;ude</a>, <a href="https://fossgis-konferenz.de/2022/standort/spa.php/">Forschungszentrum Deutscher Sprachatlas</a> und das Campus Firmanei (<a href="https://fossgis-konferenz.de/2022/standort/bi.php/">Bibliothek</a>, <a href="https://fossgis-konferenz.de/2022/standort/fb19.php/">Fachbereich Geographie</a>) statt. Der zentrale Empfang wird in    der H&ouml;rsaalgeb&auml;ude Biegenstrasse 10 aufgebaut. Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet. Sollten Sie trotzdem Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern    Sie bitte nicht das Konferenz-Team anzusprechen.
   </p>
 
 	
@@ -53,7 +53,7 @@
 	<p>
 	Erg&auml;nzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes 
 	Marburg-Biedenkopf und des Rhein-Main-Verkehrsverbundes.
-
+	</p>
 
 
 
