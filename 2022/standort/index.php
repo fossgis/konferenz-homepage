@@ -40,8 +40,8 @@
 	quasi etwa in der Mitte zwischen Frankfurt/M und Kassel. <br>Seiner besonderen beidseitigen Lage an der Lahn gelegen, 
 	setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
 	<p> Marburg bietet vieles an Sehensw&uuml;rdigkeiten, Kunst, Kultur und Natur.</p>
-	Die drei interessanten Wahrzeichen von Marburg sind das Marburger Schloss das Landgrafenschloss und die Elisabethkirche.</p>
-	<p>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
+	Die drei interessanten Wahrzeichen von Marburg sind das Marburger Schloss das Landgrafenschloss und die Elisabethkirche.
+	</b>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
 	<p>
 	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher , die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt    zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
 	</p>
