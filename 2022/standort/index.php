@@ -29,7 +29,7 @@
 		<div id="map" class="map"></div>
 	</div>-->
 
-	<p> Die Universitätsstadt Marburg befindet sich in unmittelbarer Nachbarschaft zur Universitätsstadt Gießen, 
+	<p> Die dUniversitätsstadt Marburg befindet sich in unmittelbarer Nachbarschaft zur Universitätsstadt Gießen, 
 	quasi etwa in der Mitte zwischen Frankfurt/M und Kassel. <br>Seiner besonderen beidseitigen Lage an der Lahn gelegen, 
 	setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
 	<p> Marburg bietet vieles an Sehenswürdigkeiten, Kunst, Kultur und Natur.
