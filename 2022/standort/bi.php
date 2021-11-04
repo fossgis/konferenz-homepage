@@ -11,7 +11,8 @@
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
 	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>
-
+  <link rel="stylesheet" href="css/location.css">
+  
 	<script src="../static/leaflet/1.3.4/leaflet.js"></script>
 	<script src="./standort/script/leaflet.addons.js"></script>
 	<script src="./standort/data/buildings.js"></script>
@@ -30,7 +31,7 @@
 	</div>-->
 
 	<h2>Universit&auml;tsbibliothek</h2>
-	<div class="hero">
+	<div class="location">
 	 <img src="https://fossgis-konferenz.de/2022/standort/img/UB.jpg" alt="BIB" > 
 	<figcaption><b>Photo: (C) by Cordula Mann/b></figcaption>
 	</div>
