@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
 	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>
-  <link rel="stylesheet" href="css/location.css">
+  <link rel="stylesheet" href="./standort/css/location.css">
 
 	<script src="../static/leaflet/1.3.4/leaflet.js"></script>
 	<script src="./standort/script/leaflet.addons.js"></script>
