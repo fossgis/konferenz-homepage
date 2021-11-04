@@ -29,10 +29,11 @@
 		<div id="map" class="map"></div>
 	</div>-->
 
-	
 	<h2>Universit&auml;tsbibliothek</h2>
+	<div class="hero">
 	 <img src="https://fossgis-konferenz.de/2022/standort/img/UB.jpg" alt="BIB" > 
 	<figcaption><b>Photo: (C) by Cordula Mann/b></figcaption>
+	</div>
 	<p> Biegenstrasse 10, siehe auf die <a href="#">Karte 02</a> </p>
 	
 

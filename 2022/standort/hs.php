@@ -33,8 +33,11 @@
 
 	
 	<h2>H&ouml;rsaalgeb&auml;ude </h2>
-	 <img class="img-fluid" src="https://fossgis-konferenz.de/2022/standort/img/HS_front.jpg" alt="HS"> <figcaption><b>Photo: (C) by Cordula Mann/b></figcaption>
+	<div class="hero">
+	 <img class="img-fluid" src="https://fossgis-konferenz.de/2022/standort/img/HS_front.jpg" alt="HS"> 
+	 <figcaption><b>Photo: (C) by Cordula Mann /b></figcaption>
 	<p> Biegenstrasse 10, siehe auf die <a href="#">Karte 01</a> </p>
+	</div>
 	
 
 
