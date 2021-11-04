@@ -31,7 +31,7 @@
 
 	
 	<h2>H&ouml;rsaalgeb&auml;ude </h2>
-	 <img src="https://fossgis-konferenz.de/2022/standort/img/UP.jpg" alt="HS" width="500" height="600"> 
+	 <img src="https://fossgis-konferenz.de/2022/standort/img/UB.jpg" alt="HS" width="500" height="600"> 
 	<p> Biegenstrasse 10, siehe auf die <a href="#">Karte 02</a> </p>
 	
 
