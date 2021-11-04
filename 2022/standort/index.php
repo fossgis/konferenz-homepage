@@ -30,7 +30,7 @@
 	</div>-->
 
   <p>
-   Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen rund um die Zentralverwaltung, Forschungszentrum Deutscher Sprachatlas und das Campus Firmanei statt. Der zentrale Empfang wird in    der H&ouml;rsaalgeb&auml;ude Biegenstrasse 10 aufgebaut. Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet. Sollten Sie trotzdem Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern    Sie bitte nicht das Konferenz-Team anzusprechen.
+   Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen rund um <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;ude</a>, Forschungszentrum Deutscher Sprachatlas und das Campus Firmanei (<a href="https://fossgis-konferenz.de/2022/standort/bi.php/">Bibliothek</a>, Fachbereich Geographie) statt. Der zentrale Empfang wird in    der H&ouml;rsaalgeb&auml;ude Biegenstrasse 10 aufgebaut. Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet. Sollten Sie trotzdem Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern    Sie bitte nicht das Konferenz-Team anzusprechen.
   </p>
 
 	
@@ -41,7 +41,7 @@
 	setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
 	<p> Marburg bietet vieles an Sehensw&uuml;rdigkeiten, Kunst, Kultur und Natur.</p>
 	Die drei interessanten Wahrzeichen von Marburg sind das Marburger Schloss das Landgrafenschloss und die Elisabethkirche.</p>
-	 <img src="img/B-01HSfront.jpg" alt="HS" width="500" height="600"> 
+	 <img src="https://fossgis-konferenz.de/2022/standort/img/B-01HSfront.jpg" alt="HS" width="500" height="600"> 
 	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher , die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt    zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
 	</p>
 	<p>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
