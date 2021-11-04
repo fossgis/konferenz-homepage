@@ -41,14 +41,13 @@
 	setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
 	<p> Marburg bietet vieles an Sehensw&uuml;rdigkeiten, Kunst, Kultur und Natur.</p>
 	Die drei interessanten Wahrzeichen von Marburg sind das Marburger Schloss das Landgrafenschloss und die Elisabethkirche.</p>
-	 <img src="https://fossgis-konferenz.de/2022/standort/img/B-01HSfront.jpg" alt="HS" width="500" height="600"> 
+	<p>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
+	<p>
 	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher , die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt    zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
 	</p>
-	<p>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
-	
 	<h2>Die Lokalen Nahverkehrsorganisationen </h2>
 	<p>Der Stadtverkehr in Marburg bittet 19 Buslinien, dazu kommen die Anruf-Sammel-Taxen  
-	<a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">l(AST)</a>
+	<a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>
 	</p>
 	<p>
 	Erg&auml;nzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes 
