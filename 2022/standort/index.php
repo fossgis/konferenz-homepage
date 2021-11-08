@@ -29,9 +29,13 @@
 		<div id="map" class="map"></div>
 	</div>-->
 
-  <p>
-   Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen rund um <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;ude</a>, <a href="https://fossgis-konferenz.de/2022/standort/spa.php/">Forschungszentrum Deutscher Sprachatlas</a> und das Campus Firmanei (<a href="https://fossgis-konferenz.de/2022/standort/bi.php/">Universit&auml;tsbibliothek</a>, <a href="https://fossgis-konferenz.de/2022/standort/fb19.php/">Fachbereich Geographie</a>) statt. Der zentrale Empfang wird in    der H&ouml;rsaalgeb&auml;ude Biegenstrasse 10 aufgebaut. Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet. Sollten Sie trotzdem Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern    Sie bitte nicht das Konferenz-Team anzusprechen.
-  </p>
+	<p> Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen des <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14), 
+	des <a href="https://fossgis-konferenz.de/2022/standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
+	(Pilgrimstein 16) und des <a href="https://fossgis-konferenz.de/2022/standort/fb19.php/">Fachbereichs Geographie</a> 
+	(Deutschhausstr. 10) statt. Der zentrale Empfang wird im H&ouml;rsaalgeb&auml;ude aufgebaut. 
+	Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet (außer Fachbereich Geographie). 
+	Sollten Sie Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern Sie bitte nicht, das Konferenz-Team anzusprechen.
+  	</p>
 
 	
 	<h2>Ausflugsm&uuml;glichkeiten & Sehensw&uuml;rdigkeiten</h2>
@@ -43,11 +47,13 @@
 	Die drei interessanten Wahrzeichen von Marburg sind das Marburger Schloss das Landgrafenschloss und die Elisabethkirche.
 	</b>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
 	<p>
-	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher , die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt    zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
+	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher , die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt 
+	zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
 	</p>
-	<h2>Die Lokalen Nahverkehrsorganisationen </h2>
-	<p>Der Stadtverkehr in Marburg bittet 19 Buslinien, dazu kommen die Anruf-Sammel-Taxen  
-	<a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>
+	<h2>Lokaler Nahverkehr</h2>
+	<p>Der Stadtverkehr in Marburg bietet <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/fahrplaene">19 Buslinien</a> 
+	(<a href = "https://www.stadtwerke-marburg.de/fileadmin/user_upload/Seiteninhalte/Verkehr/Haltestellenpositionen/Liniennetzplan_Stadtverkehr_Marburg.pdf">Liniennetzplan</a>), 
+	dazu kommen die Anruf-Sammel-Taxen <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>
 	</p>
 	<p>
 	Erg&auml;nzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes 
