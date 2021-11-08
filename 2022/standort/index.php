@@ -25,9 +25,9 @@
 
 	<h2>Standort</h2>
 
-<!--	<div class="map-container">
+	<div class="map-container">
 		<div id="map" class="map"></div>
-	</div>-->
+	</div>
 
 	<p> Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen des <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14), 
 	des <a href="https://fossgis-konferenz.de/2022/standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
