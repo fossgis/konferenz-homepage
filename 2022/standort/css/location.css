@@ -1,9 +1,10 @@
 .location figcaption {
-    position: absolute;
+    position: relative;
     bottom: 5px;
     right: 484px;
     font-size: 12px;
     color: #eee;
-    top:1467;
-    
+    margin-top: -32px;
+    margin-left: 50%;
+    left: 275px;
 }
