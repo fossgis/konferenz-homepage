@@ -1,16 +1,16 @@
 (function () {
 	'use strict';
 
-	var center = [48.00111, 7.84938];
-	var friPos = [48.00111, 7.84938];
-	var wedPos = [47.99507, 7.84761];
+	var center = [50.81173, 8.77577];
+	var friPos = [50.81173, 8.77577];
+	var wedPos = [50.81173, 8.77577];
 	var zoom = 16;
 	var htwOrange = '#ff9d15';
 	var views = {
-		'<b>Campus<b>': [48.00111, 7.84938],
+		'<b>Campus<b>': [50.81173, 8.77577],
 		'Mi: Abendveranstaltung': friPos,
 		'Di: Schwarzer kater': wedPos,
-		'Stadtmitte': [47.99488, 7.84986],
+		'Stadtmitte': [50.82173, 8.75577],
 		//'Neustadt': []
 	};
 	var tooltipTemplate =
@@ -66,7 +66,7 @@
 		zoom: zoom,
 		minZoom: 14,
 		maxZoom: 18,
-		maxBounds: [[48.90198, 7.95292], [47.09684, 7.04077]]
+		maxBounds: [[50.81173, 8.77577], [50.81173, 8.77577]]
 	};
 	var div, map;
 
