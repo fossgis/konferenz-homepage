@@ -44,7 +44,7 @@
 
 							News:<br>
 						<a href="https://www.camptocamp.com/de/news">
-							https://www.camptocamp.com/de/news</a><br>
+							https://www.camptocamp.com/de/news</a><br><br>
 
 							E-Mail: <br>
 							<a href="mailto:info@camptocamp.com">info-at-camptocamp.com</a><br></h6>
