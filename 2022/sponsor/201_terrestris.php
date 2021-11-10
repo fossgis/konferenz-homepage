@@ -58,7 +58,7 @@ Unser Leistungsspektrum erstreckt sich auf folgende Bereiche:</p>
 						<a href="https://demo.terrestris.de/">
 							https://demo.terrestris.de/</a><br><br>
 							E-Mail: <br>
-							<a href="info@terrestris.de">info-at-terrestris.de</a><br></h6>
+							<a href="mailto:info@terrestris.de">info-at-terrestris.de</a><br></h6>
 					</div>
 
 						

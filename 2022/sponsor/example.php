@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="." 
+			<img src="./img/s/" 
 				class="sponsor-logo" 
 				alt="Firmenlogo">
 			

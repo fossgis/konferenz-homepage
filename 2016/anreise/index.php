@@ -7,12 +7,11 @@
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2016, FOSSGIS-Konferenz 2016, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, Universität Salzburg">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="/static/leaflet/0.7.7/leaflet.css">
-        <script src="/static/leaflet/0.7.7/leaflet.js"></script>
-        <script src="/static/maki_icons/Leaflet.MakiMarkers.js"></script>
+        <link rel="stylesheet" href="/2016/leaflet/0.7.7/leaflet.css">
+        <script src="/2016/leaflet/0.7.7/leaflet.js"></script>
+        <script src="/2016/maki_icons/Leaflet.MakiMarkers.js"></script>
 
     </head>
     <body id="anreise">

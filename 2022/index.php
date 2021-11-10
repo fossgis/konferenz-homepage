@@ -117,6 +117,11 @@
 						<img src="./img/s/407_mundialis.png" alt="mundialis">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/408_gis-ops.php" target="_blank">
+						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
+						</a>
+					</li>
 					
 				</ul>
 
