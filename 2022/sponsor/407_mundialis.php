@@ -46,7 +46,7 @@ Lösungen für den Kunden entwickeln.</p>
 						<a href="https://www.mundialis.de/de/news/">
 							https://www.mundialis.de/de/news/</a><br><br>
 							E-Mail: <br>
-							<a href="info@mundialis.de">info-at-mundialis.de</a><br></h6>
+							<a href="mailto:info@mundialis.de">info-at-mundialis.de</a><br></h6>
 					</div>
 
 						
