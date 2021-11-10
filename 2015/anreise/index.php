@@ -9,9 +9,9 @@
 
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="/static/leaflet/0.7.7/leaflet.css">
-        <script src="/static/leaflet/0.7.7/leaflet.js"></script>
-        <script src="/static/maki_icons/Leaflet.MakiMarkers.js"></script>
+        <link rel="stylesheet" href="/2015/leaflet/0.7.7/leaflet.css">
+        <script src="/2015/leaflet/0.7.7/leaflet.js"></script>
+        <script src="/2015/maki_icons/Leaflet.MakiMarkers.js"></script>
 
     </head>
     <body id="anreise">
