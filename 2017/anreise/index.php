@@ -8,9 +8,9 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
-        <link rel="stylesheet" href="/static/leaflet/0.7.7/leaflet.css">
-        <script src="/static/leaflet/0.7.7/leaflet.js"></script>
-        <script src="/static/maki_icons/Leaflet.MakiMarkers.js"></script>
+        <link rel="stylesheet" href="leaflet/0.7.7/leaflet.css">
+        <script src="leaflet/0.7.7/leaflet.js"></script>
+        <script src="maki_icons/Leaflet.MakiMarkers.js"></script>
 
     </head>
     <body id="anreise">
