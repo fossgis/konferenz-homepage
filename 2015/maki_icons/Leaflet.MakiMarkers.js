@@ -35,7 +35,7 @@
     defaultColor: "#0a0",
     defaultIcon: "circle-stroked",
     defaultSize: "m",
-    apiUrl: "/static/maki_icons/",
+    apiUrl: "/2015/maki_icons/",
     smallOptions: {
       iconSize: [20, 50],
       popupAnchor: [0,-20]
