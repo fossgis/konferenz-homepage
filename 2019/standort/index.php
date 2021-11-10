@@ -10,9 +10,9 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>
+	<link rel="stylesheet" href="./standort/script/leaflet.css"/>
 
-	<script src="../static/leaflet/1.3.4/leaflet.js"></script>
+	<script src="./standort/script/leaflet.js"></script>
 	<script src="./standort/script/leaflet.addons.js"></script>
 	<script src="./standort/data/buildings.js"></script>
 	<script src="./standort/data/hotels.js"></script>
