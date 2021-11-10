@@ -6,7 +6,6 @@
         <meta name="author" content="Oliver Roick. http://oliverroick.de/">
         <meta name="keywords" content="FOSSGIS, FOSSGIS-Konferenz, 2017, FOSSGIS-Konferenz 2017, Open Source, GIS, Konferenz, Geoinformatik, OpenStreetMap, OSM-Event, Universität Passau, Qualitätsoffensive OSM Mapping Passau">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
-        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 
         <link rel="stylesheet" href="/static/leaflet/0.7.7/leaflet.css">

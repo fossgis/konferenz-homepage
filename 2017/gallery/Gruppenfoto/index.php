@@ -7,7 +7,6 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 	<link rel="stylesheet" href="../static/styles.min.css">
-        <link rel="stylesheet" type="text/css" href="/static/droidsans/droidsans.css" />
         <link href="../../css/screen.css" type="text/css" rel="stylesheet" media="screen">
 	<script src="../static/photoswipe.min.js"></script>
 	<script src="../static/photoswipe-ui-default.min.js"></script>
