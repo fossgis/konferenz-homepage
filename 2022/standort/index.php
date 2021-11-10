@@ -16,6 +16,7 @@
 	<script src="./standort/script/leaflet.addons.js"></script>
 	<script src="./standort/data/buildings.js"></script>
 	<script src="./standort/data/hotels.js"></script>
+	<script src="./standort/data/weys.js"></script>
 	<script src="./standort/script/map.js"></script>
 </head>
 
