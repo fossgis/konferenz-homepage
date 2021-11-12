@@ -124,6 +124,45 @@
 					</li>
 					
 				</ul>
+			<h4 class="highlight">Medienpartner</h4>
+				<ul class="tiles">
+					<li class="tile media">
+						<a href="https://live.osgeo.org/de/index.html" target="_blank">
+						<img src="./img/s/501_OSGeoLive_banner.png" alt="OSGeoLive">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://c3voc.de/" target="_blank">
+						<img src="./img/s/502_voc_square.png" alt="C3VOC">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V." target="_blank">
+						<img src="./img/s/503_TIB.PNG" alt="TIB">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
+						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
+						</a>
+					</li>
+					<!--<li class="tile media">
+						<a href="https://ffmuc.net/" target="_blank">
+						<img src="./img/s/505_image_fffmuc.png" alt="ffmuc">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://www.oreilly.de/" target="_blank">
+						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
+						</a>
+					</li>
+					<li class="tile media">
+						<a href="https://workadventu.re/" target="_blank">
+						<img src="./img/s/507_TCM_WA.png" alt="Workadventure">
+						</a>
+					</li>-->
+				</ul>
+
 
 			
 			<h4 class="highlight">   </h4>
