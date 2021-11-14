@@ -47,11 +47,11 @@
             mapContainerQuery: "#map-container",
             position: "bottomleft",
             growSize: "90vh",
-            growText: "+",
-            growTitle: "Karte vergr&ouml;ßern",
+            growText: "+++",
+            growTitle: "Karte +++",
             shrinkSize: "40vh",
-            shrinkText: "???",
-            shrinkTitle: "Karte verkleinern"
+            shrinkText: "---",
+            shrinkTitle: "Karte ---"
         },
 
         onAdd: function (map) {

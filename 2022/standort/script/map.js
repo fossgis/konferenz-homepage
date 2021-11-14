@@ -52,12 +52,12 @@
 		pointToLayer: function (feature, latlng) {
 			var props = feature.properties;
 			return L.circleMarker(latlng, {
-				color: '#333333',
+				color: '#3388ff',
 				weight: 1,
 				opacity: 1.0,
-				fillColor: '#3388ff',
+				fillColor: '#338899',
 				fillOpacity: .5,
-				radius: 8
+				radius: 3
 			}).bindTooltip(props.name);
 		}
 	});

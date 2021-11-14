@@ -8,3 +8,13 @@
     margin-left: 50%;
     left: 275px;
 }
+
+.img-map-static{
+   width:30%;
+}
+
+#map-static{
+   float:left;
+   margin-bottom: 23px;
+}
+

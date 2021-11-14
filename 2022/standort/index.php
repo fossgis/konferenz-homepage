@@ -7,8 +7,9 @@
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
 	<title>FOSSGIS 2022 - Standort Marburg</title>
 
-	<link rel="stylesheet" href="./css/normalize.css">
+	<link rel="stylesheet" href="./standort/css/location.css">
 	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
 	<link rel="stylesheet" href="../static/leaflet/1.3.4/leaflet.css"/>
 
@@ -38,6 +39,8 @@
 	Sollten Sie Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern Sie bitte nicht, das Konferenz-Team anzusprechen.
   	</p>
 
+	<div id="map-static"><img class="img-map-static" src="./standort/img/Karte_Locations_georef.jpg" alt="Stadtansicht Marburg">
+	<p><a href="./standort/img/Karte_Locations_georef.pdf" download="Karte_Locations_georef.pdf">Download als PDF</a></p></div>
 	
 	<h2>Ausflugsm&uuml;glichkeiten & Sehensw&uuml;rdigkeiten</h2>
 	  
