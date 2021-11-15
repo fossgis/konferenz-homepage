@@ -16,6 +16,7 @@
 	<script src="../static/leaflet/1.3.4/leaflet.js"></script>
 	<script src="./standort/script/leaflet.addons.js"></script>
 	<script src="./standort/data/buildings.js"></script>
+	<script src="./standort/data/buildings_other.js"></script>
 	<script src="./standort/data/hotels.js"></script>
 	<script src="./standort/data/weys.js"></script>
 	<script src="./standort/script/map.js"></script>
@@ -31,9 +32,9 @@
 		<div id="map" class="map"></div>
 	</div>
 
-	<p> Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen des <a href="https://fossgis-konferenz.de/2022/standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14), 
-	des <a href="https://fossgis-konferenz.de/2022/standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
-	(Pilgrimstein 16) und des <a href="https://fossgis-konferenz.de/2022/standort/fb19.php/">Fachbereichs Geographie</a> 
+	<p> Die Konferenz findet in den H&ouml;rs&auml;len und Seminarr&auml;umen des <a href="./standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14), 
+	des <a href="./standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
+	(Pilgrimstein 16) und des <a href="./standort/fb19.php/">Fachbereichs Geographie</a> 
 	(Deutschhausstr. 10) statt. Der zentrale Empfang wird im H&ouml;rsaalgeb&auml;ude aufgebaut. 
 	Die Zug&auml;nge zu den R&auml;umlichkeiten sind behindertengerecht gestaltet (außer Fachbereich Geographie). 
 	Sollten Sie Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern Sie bitte nicht, das Konferenz-Team anzusprechen.
@@ -45,14 +46,13 @@
 	<h2>Ausflugsm&uuml;glichkeiten & Sehensw&uuml;rdigkeiten</h2>
 	  
 	<p> Die Universit&auml;tsstadt Marburg befindet sich in unmittelbarer Nachbarschaft zur Universit&auml;tsstadt Gießen, 
-	quasi etwa in der Mitte zwischen Frankfurt/M und Kassel. <br>Seiner besonderen beidseitigen Lage an der Lahn gelegen, 
+	quasi etwa in der Mitte zwischen Frankfurt/M und Kassel. <br>In besonderer Lage beiderseits der Lahn 
 	setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
-	<p> Marburg bietet vieles an Sehensw&uuml;rdigkeiten, Kunst, Kultur und Natur.</p>
-	Die drei interessanten Wahrzeichen von Marburg sind das Marburger Schloss das Landgrafenschloss und die Elisabethkirche.
+	<p>  Marburg bietet vieles an Sehensw&uuml;rdigkeiten, Kunst, Kultur und Natur.
+	Die drei interessanten Wahrzeichen von Marburg sind das Landgrafenschloss und die Elisabethkirche; ein beliebtes Ausflugsziel mit Café und Kultur ist der Spiegelslust-Turm.</p>
 	</b>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
 	<p>
-	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher , die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt 
-	zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
+	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher bereit, die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt    zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
 	</p>
 	<h2>Lokaler Nahverkehr</h2>
 	<p>Der Stadtverkehr in Marburg bietet <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/fahrplaene">19 Buslinien</a> 

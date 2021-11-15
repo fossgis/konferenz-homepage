@@ -38,7 +38,7 @@
 	 <img class="img-fluid"  src="./standort/img/Sprachatlas.jpg" alt="Sprachatlas"> 
 	 <figcaption><b>Photo: (C) by Cordula Mann</figcaption>
 	</div>
-	<p> Biegenstrasse 10, siehe auf die <a href="#">Karte 03</a> </p>
+	<p> Pilgrimstein 16 </p>
 	
 
 

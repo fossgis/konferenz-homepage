@@ -3,12 +3,12 @@
 
 	var center = [50.812288, 8.773973];
 	var friPos = [50.812288, 8.773973];
-	var wedPos = [50.812288, 8.773973];
+	var wedPos = [50.8089626,8.7705301];
 	var zoom = 15;
 	var htwOrange = '#ff9d15';
 	var views = {
-		'<b>Campus<b>': [50.81173, 8.77577],
-		'Abendveranstaltung': friPos,
+		'<b>Startansicht<b>': [50.8129856,8.7720838],
+		'Abendveranstaltung': "",
 		'Oberstadt': wedPos,
 		'Stadtmitte': [50.82173, 8.75577],
 		//'Neustadt': []
@@ -21,7 +21,16 @@
 		color: '#333333',
 		weight: 1,
 		opacity: 1.0,
-		fillColor: htwOrange,
+		fillColor:  htwOrange,
+		fillOpacity: 1.0,
+		radius: 12,
+		className: 'svg-feature'
+	};
+	var featureOptions_Other = {
+		color: '#333333',
+		weight: 1,
+		opacity: 1.0,
+		fillColor: '#b8a292',
 		fillOpacity: 1.0,
 		radius: 12,
 		className: 'svg-feature'
@@ -34,16 +43,20 @@
 		style: featureOptions,
 		onEachFeature: onEachFeature
 	});
+	var campusOtherLayer = L.geoJSON(window.buildings_other, {
+		style: featureOptions_Other,
+		onEachFeature: onEachFeature
+	});
 	var hotelsLayer = L.geoJSON(window.hotels, {
 		pointToLayer: function (feature, latlng) {
 			var props = feature.properties;
 			return L.circleMarker(latlng, {
-				color: '#333333',
+				color: '#0066ff',
 				weight: 1,
 				opacity: 1.0,
-				fillColor: '#3388ff',
+				fillColor: '#ffffff',
 				fillOpacity: .5,
-				radius: 8
+				radius: 9
 			}).bindTooltip(props.name);
 		}
 	});
@@ -52,30 +65,32 @@
 		pointToLayer: function (feature, latlng) {
 			var props = feature.properties;
 			return L.circleMarker(latlng, {
-				color: '#3388ff',
+				color: '#333333',
 				weight: 1,
 				opacity: 1.0,
-				fillColor: '#338899',
-				fillOpacity: .5,
-				radius: 3
+				fillColor:  htwOrange,
+				fillOpacity: 1.0,
+				radius: 2,
+				className: 'svg-feature'
 			}).bindTooltip(props.name);
 		}
 	});
 	
-	var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
-	var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
-	var wedLabel = createLabel(wedPos, 'SK', 2);
-	var thuLabel = createLabel(friPos, 'FR', 2);
+	//var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Informationen kommen noch');
+	//var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Campus</em>');
+	//var wedLabel = createLabel(wedPos, 'SK', 2);
+	//var thuLabel = createLabel(friPos, 'FR', 2);
 	var mapOptions = {
 		layers: [
 			baseLayer,
 			campusLayer,
 			campusLabels,
-			thuLayer,
-			thuLabel,
-			wedLayer,
-			wedLabel,
+			//thuLayer,
+			//thuLabel,
+			//wedLayer,
+			//wedLabel,
 			hotelsLayer,
+			campusOtherLayer,
 			weysLayer
 		],
 		center: center,
