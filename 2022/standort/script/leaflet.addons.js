@@ -48,10 +48,10 @@
             position: "bottomleft",
             growSize: "90vh",
             growText: "+++",
-            growTitle: "Karte +++",
+            growTitle: "Karte vergr&ouml;&szlig;ern",
             shrinkSize: "40vh",
             shrinkText: "---",
-            shrinkTitle: "Karte ---"
+            shrinkTitle: "Karte verkleinern"
         },
 
         onAdd: function (map) {
