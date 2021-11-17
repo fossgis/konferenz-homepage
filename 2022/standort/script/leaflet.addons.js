@@ -48,7 +48,7 @@
             position: "bottomleft",
             growSize: "90vh",
             growText: "+++",
-            growTitle: "Karte vergr&ouml;&szlig;ern",
+            growTitle: "Karte vergrößern",
             shrinkSize: "40vh",
             shrinkText: "---",
             shrinkTitle: "Karte verkleinern"
