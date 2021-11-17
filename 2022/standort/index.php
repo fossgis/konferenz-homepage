@@ -25,9 +25,7 @@
 <body id="standort">
 
 	<?php include "../inc/header.inc"; ?>
-
 	<h2>Standort</h2>
-
 	<div class="map-container">
 		<div id="map" class="map"></div>
 	</div>
