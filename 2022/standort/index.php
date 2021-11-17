@@ -55,7 +55,7 @@
 	<h2>Lokaler Nahverkehr</h2>
 	<p>Der Stadtverkehr in Marburg bietet <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/fahrplaene">19 Buslinien</a> 
 	(<a href = "https://www.stadtwerke-marburg.de/fileadmin/user_upload/Seiteninhalte/Verkehr/Haltestellenpositionen/Liniennetzplan_Stadtverkehr_Marburg.pdf">Liniennetzplan</a>), 
-	dazu kommen die Anruf-Sammel-Taxen <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>
+	dazu kommen die Anruf-Sammel-Taxen. <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>
 	</p>
 	<p>
 	Erg&auml;nzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes 
