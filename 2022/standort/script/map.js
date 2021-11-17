@@ -10,7 +10,7 @@
 		'<b>Startansicht<b>': [50.8129856,8.7720838],
 		'Abendveranstaltung': "",
 		'Oberstadt': wedPos,
-		'Stadtmitte': [50.82173, 8.75577],
+		//'Stadtmitte': [50.82173, 8.75577],
 		//'Neustadt': []
 	};
 	var tooltipTemplate =
@@ -51,11 +51,11 @@
 		pointToLayer: function (feature, latlng) {
 			var props = feature.properties;
 			return L.circleMarker(latlng, {
-				color: '#0066ff',
+				color: '#333333',
 				weight: 1,
 				opacity: 1.0,
 				fillColor: '#ffffff',
-				fillOpacity: .5,
+				fillOpacity: 1.0,
 				radius: 9
 			}).bindTooltip(props.name);
 		}

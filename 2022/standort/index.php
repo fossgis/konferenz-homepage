@@ -43,14 +43,14 @@
 	<div id="map-static"><img class="img-map-static" src="./standort/img/Karte_Locations_georef.jpg" alt="Stadtansicht Marburg">
 	<p><a href="./standort/img/Karte_Locations_georef.pdf" download="Karte_Locations_georef.pdf">Download als PDF</a></p></div>
 	
-	<h2>Ausflugsm&uuml;glichkeiten & Sehensw&uuml;rdigkeiten</h2>
+	<h2>Ausflugsm&ouml;glichkeiten & Sehensw&uuml;rdigkeiten</h2>
 	  
 	<p> Die Universit&auml;tsstadt Marburg befindet sich in unmittelbarer Nachbarschaft zur Universit&auml;tsstadt Gießen, 
 	quasi etwa in der Mitte zwischen Frankfurt/M und Kassel. <br>In besonderer Lage beiderseits der Lahn 
 	setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
 	<p>  Marburg bietet vieles an Sehensw&uuml;rdigkeiten, Kunst, Kultur und Natur.
 	Die drei interessanten Wahrzeichen von Marburg sind das Landgrafenschloss und die Elisabethkirche; ein beliebtes Ausflugsziel mit Café und Kultur ist der Spiegelslust-Turm.</p>
-	</b>Ein beliebtes Ausflugsziel mit Café und Kultur ist die Spiegelslust Turm.</p>
+	
 	<p>
 	F&uuml;r mehr Informationen stellt die Stadt eine umfangreiche und &uuml;bersichtliche <a href="https://www.marburg.de/">Website</a> f&uuml;r Besucher bereit, die   Ausflugsziele in der Umgebung vorstellt, Informationen &uuml;ber die Stadt    zusammenfasst und die Planung von der Unterkunft bis zur Stadtf&uuml;hrung b&uuml;ndelt.
 	</p>
