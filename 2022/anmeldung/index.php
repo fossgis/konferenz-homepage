@@ -113,13 +113,12 @@ Am Online-Workshop nehmen Sie mit Ihrem eigenen Gerät teil, den Zugang erhalten
 
 
 	<h3>Bildungsurlaub</h3>
-	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt. <!--ist beantragt, zunächst für die Bundesländer in Deutschland, wo die Beantragung keine zusätzlichen Kosten verursacht (BE, BB, HB, HH, NI, RP, SL, ST und SH). Weitere können bei Bedarf beantragt werden. Teilnehmer:innen, die dieses Angebot nutzen wollen, beantragen dies bei beim Arbeitgeber. --><br>
-	Folgende Bundesländer erkennen die FOSSGIS-Konferenz als Bildungsurlaub an:</p>
-	<ul>
-	<li>Rheinland-Pfalz - <a href="data/RP_FOSSGIS-2021_AnerkennungsBescheid_76484.pdf">Download Anerkennung</a></li>
-	</ul>
-	<p> Die Beantragung der FOSSGIS-Konferenz als Bildungsurlaub in weiteren Bundesländern ist in Planung.<br> Informationen zum Bildungsurlaub finden Sie unter <a href="https://www.bildungsurlaub.de/home.html"> www.Bildungsurlaub.de</a>.</p>
-	
+	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt. Zunächst für die Bundesländer in Deutschland, wo die Beantragung keine zusätzlichen Kosten verursacht (BE, BB, HB, HH, NI, RP, SL, ST und SH). Weitere werden bei Bedarf beantragt. </p>
+	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit.
+Mit dem Bildungsurlaub fördert der Staat die Initiative von Arbeitnehmer:innen zum lebenslangen Lernen. Eine Anerkennung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen und sich dafür beurlauben zu lassen.<br>
+Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bildungsurlaub zustehen, unter Weiterzahlung des Gehalts.</p>
+
+	<p>Weitere Informationen zum Bildungsurlaub finden Sie unter <a href="https://fossgis-konferenz.de/2022/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.</p>
 
 	
 	<h3>Netzwerkwelt</h3>
