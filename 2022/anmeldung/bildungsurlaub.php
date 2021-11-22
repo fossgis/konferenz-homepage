@@ -34,7 +34,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 				<p>Dass heißt, es ist nicht notwendig für eine Teilnahme an der FOSSGIS-Konferenz den Erholungsurlaub zu beanspruchen, sondern die Konferenz kann als Weiterbildungsveranstaltung genutzt werden.</p>
 					
 					<h3>Wie läuft die Beantragung beim Arbeitgeber?</h3>
-					<p>Es ist jeweils das Bundesland zuständig, wo sich der Arbeitsort befindet. Die genauen Regelungen zu jedem Bundesland sind in jeweiligen Landesgesetzen geregelt. Nähere Erläuterungen sind auf der <a href="https://www.bildungsurlaub.de/ ">Website</a> zu finden.</p>
+					<p>Es ist jeweils das Bundesland zuständig, wo sich der Arbeitsort befindet. Die genauen Regelungen zu jedem Bundesland sind in jeweiligen Landesgesetzen geregelt. Nähere Erläuterungen sind auf der <a href="https://www.bildungsurlaub.de/ ">Website https://www.bildungsurlaub.de/</a> zu finden.</p>
 
 					<p>Reichen Sie bei Ihrem Arbeitgeber, am besten dort, wo Sie auch Ihren Antrag auf Erholungsurlaub anmelden, folgende Unterlagen ein:
 					<ul>
@@ -44,7 +44,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 Nach dem Bildungsurlaub: Sie laden sich Ihre Teilnahmebescheingung, welche wir Ihnen in Ihrer Bestellung zur Verfügung stellen herunter und geben diese bei Ihrem Arbeitgeber ab.</p>
 
 
-<p>Für einige Länder gibt es Vordrucke für die Beantragung, z.B. Baden-Württemberg, NRW. Hierzu informieren Sie sich bitte unter https://www.bildungsurlaub.de/.</p>
+<p>Für einige Länder gibt es Vordrucke für die Beantragung, z.B. Baden-Württemberg, NRW. Hierzu informieren Sie sich bitte unter <a href="https://www.bildungsurlaub.de/ ">https://www.bildungsurlaub.de/</a>.</p>
 
 				
 				<h3>Anerkennungen</h3>
