@@ -31,17 +31,15 @@
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
 		</li>
-		<!--<li id="navStandort">
-			<a href="./standort/">Standort</a>
-		</li>
+		<!--
 		<li id="navEvents">
 			<a href="./socialevents/">Rahmenprogramm</a>
 		</li>		
 		<li id="navExpo">
 			<a href="./expo/">Expo</a>
-		</li>
+		</li>-->
 		<li id="navTeam">
-			<a href="./loc/loc.php">Team</a>-->
+			<a href="./loc/loc.php">Team</a>
 		</li>
 	</ul>
 </nav>
