@@ -34,11 +34,11 @@
 
 
 
-	<p> Die Vorträge finden in den H&ouml;rs&auml;len und Seminarr&auml;umen und die Firmenausstellung und Netzwerkpausen im Foyer des <a href="./standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14) statt. Die Räume des <a href="./standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
+	<p> Die Vorträge finden in den H&ouml;rs&auml;len und Seminarr&auml;umen, die Firmenausstellung und Netzwerkpausen im Foyer des <a href="./standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14) statt. Die Räume des <a href="./standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
 	(Pilgrimstein 16) stehen für Anwendertreffen, BoF und Expert:innenfragestunde zur Verfügung. Für die Workshops werden die Räume des <a href="./standort/fb19.php/">Fachbereichs Geographie</a> 
-	(Deutschhausstr. 10) genutzt. Der zentrale Empfang (welcome Desk) wird im H&ouml;rsaalgeb&auml;ude aufgebaut. 
+	(Deutschhausstr. 10) genutzt. Der zentrale Empfang (Welcome Desk) wird im H&ouml;rsaalgeb&auml;ude aufgebaut. 
 	Die Zug&auml;nge zu den R&auml;umlichkeiten sind barrierefrei erreichbar (außer Fachbereich Geographie). 
-	Sollten Sie Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern Sie bitte nicht, das Konferenz-Team anzusprechen.
+	Sollten Sie Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern Sie bitte nicht, das <a href="mailto:konferenz-orga@fossgis.de?subject=Fragen_zum_Standort">Konferenz-Team</a> anzusprechen.</p>
   	</p>
  	<h3>Adresse des Konferenzstandortes</h3>
    
@@ -49,16 +49,15 @@
 	 </p>
  	 <p><a href="https://www.openstreetmap.org/search?query=marburg%20biegenstra%C3%9Fe%2014#map=20/50.81083/8.77332&layers=C" target="_blank">Standort auf openstreetmap.org</a></p>
 	<div id="map-static"><img class="img-map-static" src="./standort/img/Karte_Locations_georef.jpg" alt="Stadtansicht Marburg">
-	<p>Alles in einer Übersicht<a href="./standort/img/Karte_Locations_georef.pdf" download="Karte_Locations_georef.pdf">zum Download als PDF</a></p></div>
+	<p>Alles in einer Übersicht <a href="./standort/img/Karte_Locations_georef.pdf" download="Karte_Locations_georef.pdf">zum Download als PDF</a>.</p></div>
 
-	<h2>Anreise mit öffentlichen Verkehrsmitteln</h2>
+	<h2>Anreise</h2>
 		<p> Die Universit&auml;tsstadt Marburg befindet sich in unmittelbarer Nachbarschaft zur Universit&auml;tsstadt Gießen, quasi etwa in der Mitte zwischen Frankfurt/M und Kassel. In besonderer Lage beiderseits der Lahn setzt sich Marburg aus der Kernstadt sowie 18 Stadtteilen zusammen.</p>
 		<p>Am klimafreundlichsten gelangen Sie mit der Bahn nach Marburg, welches über zwei Bahnhöfe verfügt, von denen die ganze Stadt und die Umgebung zu Fuß, mit dem Bus oder Fahrrad erkundet werden kann. Der Hauptbahnhof wird durch die Deutsche Bahn und diverse Fernbusse bedient, das Hörsaalgebäude liegt ca. 1 km vom Marburger Hauptbahnhof entfernt.</p>
 	
 		<p>Der Stadtverkehr in Marburg bietet <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/fahrplaene">19 Buslinien</a> 
 	(<a href = "https://www.stadtwerke-marburg.de/fileadmin/user_upload/Seiteninhalte/Verkehr/Haltestellenpositionen/Liniennetzplan_Stadtverkehr_Marburg.pdf">Liniennetzplan</a>), 
-	dazu kommen die Anruf-Sammel-Taxen. <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>.<br>
-		Erg&auml;nzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes Marburg-Biedenkopf und des Rhein-Main-Verkehrsverbundes.</p>
+	dazu kommen die Anruf-Sammel-Taxen. <a href="https://www.stadtwerke-marburg.de/verkehr/bus-bahn/anruf-sammeltaxi-ast">(AST)</a>. Erg&auml;nzt wird dieses Verkehrsangebot durch weitere Linien des Busverkehrs des Regionalen Nahverkehrsverbandes Marburg-Biedenkopf und des Rhein-Main-Verkehrsverbundes.</p>
 
         <p> Aufgrund der angespannten Parkplatzsituation in der Innenstadt von Marburg sollte von einer Anreise mit dem Auto abgesehen werden.</p>
 
