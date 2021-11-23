@@ -122,6 +122,11 @@
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/409_GEOINFO.php" target="_blank">
+						<img src="./img/s/409_Geoinfo_Logo.png" alt="GEOINFO">
+						</a>
+					</li>
 					
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
@@ -146,6 +151,7 @@
 						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
 						</a>
 					</li>
+
 					<!--<li class="tile media">
 						<a href="https://ffmuc.net/" target="_blank">
 						<img src="./img/s/505_image_fffmuc.png" alt="ffmuc">
