@@ -26,7 +26,7 @@
 
 		
 		<li id="navAnreise">
-			<a href="./anreise/">Anreise</a>
+			<a href="./standort/">Standort und Anreise</a>
 		</li>
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
