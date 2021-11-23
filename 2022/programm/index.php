@@ -16,8 +16,8 @@
 	<?php include "../inc/header.inc"; ?>
 
         <h2>Programm</h2>
-		<p>Der Call for Participation ist beendet. Dass Programmkomitee gestaltet im Laufe der nächsten Wochen aus den Einreichungen ein Konferenzprogramm. Dieses wird ab Anfang Januar hier veröffentlicht.</p>
-		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum nachlesen verlinkt.</p>
+		<p>Der Call for Participation ist beendet. Das Programmkomitee gestaltet im Laufe der nächsten Wochen aus den Einreichungen ein Konferenzprogramm. Dieses wird ab Anfang Januar hier veröffentlicht.</p>
+		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 
 	<!--	<a href="https://pretalx.com/fossgis2021/schedule/" target="_blank" rel="noopener nofollow">hier geht es zum Konferenzprogramm</a>
 	</p>
@@ -46,7 +46,7 @@
 	<h3>Tagungsband</h3>
 	<p>Der Tagungsband zur Konferenz steht <a href="data/FOSSGIS_Tagungsband_2021.pdf">als PDF zum Download </a> zur Verfügung.
 
-	<!-- 	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
+	<!-- <h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2021 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2021/"> https://streaming.media.ccc.de/fossgis2021/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink im Bestelllink.</p>
 
 	<h3>Vortragsaufzeichnungen</h3>
@@ -76,7 +76,7 @@
 
 
 	<h3>Community Voting</h3>
-	<p>Bis zum 3.12.2021 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen für's mitmachen!</p>
+	<p>Bis zum 2.12.2021 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
 	<ul>
 		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2022/p/voting/signup/"> https://pretalx.com/fossgis2022/p/voting/signup/</a></li>
