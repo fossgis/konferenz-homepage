@@ -15,7 +15,8 @@
 
 	<?php include "../inc/header.inc"; ?>
 
-	<h2>Das Konferenz-Team</h2>
+	<h2>Das Konferenz-Team 2022</h2>
+	<p>Die Konferenz wird durch die Unterstützung von vielen Menschen möglich und geschieht vorwiegend ehrenamtlich. Vielen Dank!
 	
 	<ul class="tiles">
 
