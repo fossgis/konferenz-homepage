@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>GEOINFO Applications AG</h3>
 
-					<p>Die GEOINFO Applications AG verbindet die Leidenschaft für Geoinformationen mit der Begeisterung für Softwaretechnologien. Aus Ideen unserer Kunden entstehen innovative Lösungen, bedürfnisgerechte Fachanwendungen für Infrastruktur, Sicherheit, Vegetation und Landwirtschaft. Wir machen Geoinformationen einfach und zielgruppengerecht zugänglich.
+					<p>Die GEOINFO Applications AG verbindet die Leidenschaft für Geoinformationen mit der Begeisterung für Softwaretechnologien. Aus den Ideen unserer Kundschaft entstehen innovative Lösungen. Darunter bedürfnisgerechte Fachanwendungen für Infrastruktur, Sicherheit, Vegetation und Landwirtschaft.
 					</p>
 				</div>
 				<div class="col-lg-3">
