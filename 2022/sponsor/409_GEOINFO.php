@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>GEOINFO Applications AG</h3>
 
-					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+					<p>Die GEOINFO Applications AG verbindet die Leidenschaft für Geoinformationen mit der Begeisterung für Softwaretechnologien. Aus Ideen unserer Kunden entstehen innovative Lösungen, bedürfnisgerechte Fachanwendungen für Infrastruktur, Sicherheit, Vegetation und Landwirtschaft. Wir machen Geoinformationen einfach und zielgruppengerecht zugänglich.
 					</p>
 				</div>
 				<div class="col-lg-3">
