@@ -7,6 +7,9 @@
 			<a href="./agb.php">AGB</a>
 		</li>
 		<li>
+			<a href="./faq.php">FAQ</a>
+		</li>
+		<li>
 			<a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a>
 		</li>
 		<!--<li>

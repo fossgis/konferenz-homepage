@@ -14,7 +14,8 @@
     <script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 </head>
 
-<body>
+<body id="call">
+
     <?php include "../inc/header.inc"; ?>
 
 	<h2>Call for Participation</h2>

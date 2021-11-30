@@ -22,7 +22,7 @@
 	<script src="./standort/script/map.js"></script>
 </head>
 
-<body id="standort">
+<body id="anreise">
 
 	<?php include "../inc/header.inc"; ?>
 	<h2>Standort, Anreise und Unterkunft</h2>
