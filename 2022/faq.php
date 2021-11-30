@@ -17,7 +17,7 @@
 
     <h2>Häufig gestellte Fragen und Antworten zur FOSSGIS-Konferenz</h2>
 
-		<p>Sollte ihre Frage nicht beantwortet werden, senden Sie bitte eine E-Mail an konferenz-orga at fossgis.de
+		<p>Sollte ihre Frage in diesem Text nicht beantwortet werden, senden Sie bitte eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a>.
 		</p>
 	<h3>Ticket</h3>
 		<ul>
