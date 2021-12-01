@@ -34,8 +34,8 @@
 
 
 
-	<p> Die Vorträge finden in den H&ouml;rs&auml;len und Seminarr&auml;umen, die Firmenausstellung und Netzwerkpausen im Foyer des <a href="./standort/hs.php/">H&ouml;rsaalgeb&auml;udes</a> (Biegenstr. 14) statt. Die Räume des <a href="./standort/spa.php/">Forschungszentrums Deutscher Sprachatlas</a> 
-	(Pilgrimstein 16) stehen für Anwendertreffen, BoF und Expert:innenfragestunde zur Verfügung. Für die Workshops werden die Räume des <a href="./standort/fb19.php/">Fachbereichs Geographie</a> 
+	<p> Die Vorträge finden in den H&ouml;rs&auml;len und Seminarr&auml;umen, die Firmenausstellung und Netzwerkpausen im Foyer des H&ouml;rsaalgeb&auml;udes (Biegenstr. 14) statt. Die Räume des Forschungszentrums Deutscher Sprachatlas 
+	(Pilgrimstein 16) stehen für Anwendertreffen, BoF und Expert:innenfragestunde zur Verfügung. Für die Workshops werden die Räume des Fachbereichs Geographie
 	(Deutschhausstr. 10) genutzt. Der zentrale Empfang (Welcome Desk) wird im H&ouml;rsaalgeb&auml;ude aufgebaut. 
 	Die Zug&auml;nge zu den R&auml;umlichkeiten sind barrierefrei erreichbar (außer Fachbereich Geographie). 
 	Sollten Sie Probleme beim Erreichen der R&auml;ume haben, z&ouml;gern Sie bitte nicht, das <a href="mailto:konferenz-orga@fossgis.de?subject=Fragen_zum_Standort">Konferenz-Team</a> anzusprechen.</p>
