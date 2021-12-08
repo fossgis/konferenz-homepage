@@ -38,11 +38,11 @@
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							Webseite:<br>
-						<a href="https://www.geoinfo.ch/">
-							https://www.geoinfo.ch/</a><br>
+						<a href=" https://www.geoinfo.ch/applications">
+							https://www.geoinfo.ch/applications</a><br>
 
 							E-Mail: <br>
-							<a href="mailto:Sandra.Signer@geoinfo.ch">Sandra.Signer@geoinfo.ch</a><br></h6>
+							<a href="mailto:marco.scheuble@geoinfo.ch">marco.scheuble@geoinfo.ch</a><br></h6>
 					</div>
 
 						

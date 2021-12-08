@@ -16,7 +16,7 @@
 
 
 
-<body id="anmeldung">
+<body id="helfen">
 
 	<?php include "../inc/header.inc"; ?>
 
@@ -100,6 +100,7 @@ Hier läuft der Ticket-Checkin, Taschen, T-Shirts und Tagungsbände werden herau
 				<li>Verkauf von Tickets für Konferenz oder Workshop (Handkasse, Belege)</li>
 				<li>ggf. Verkauf von T-Shirts, Tagungsbänden, usw.</li>
 				<li>Garderobe</li>
+				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>	
 		</li>
 		<li><b>Catering</b> (freiwillig oder bezahlt)<br>
@@ -110,40 +111,74 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 				<li>Tische vorbereiten und Angebot anrichten</li>
 				<li>falls nicht vom Caterer: Obst und Gemüse waschen und schnippeln</li>
 				<li>Geschirr wegräumen</li>
+				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>	
 		</li>
 
 		<li><b>Hörsaalhelfer</b> (bezahlt)<br>
 In jedem Hörsaal gibt es eine verantwortliche Person.
 			<ul><i>Aufgaben:</i>
-				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)
-				<li>morgens an jede Tür ein aktuelles Tagesprogramm hängen
-				<li>Unterstützung der Vortragenden beim Laden ihrer Präsentationen auf den Präsentationsrechner
-				<li>Kontrolle, ob Unterschrift zur Einverständniserklärung zur Aufzeichnung des Vortrages vorliegt. Wenn nicht, einholen
-				<li>Versorgung der Vortragenden mit Wasser
-				<li>Koordinierung der Platzierung der TN, damit nicht alle außen sitzen
-				<li>Bei Fragen aus dem Publikum das Mikrofon herumtragen
-				<li>Vortrag als PDF auf Laptop im Raum speichern
+				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)</li>
+				<li>morgens an jede Tür ein aktuelles Tagesprogramm hängen</li>
+				<li>Unterstützung der Vortragenden beim Laden ihrer Präsentationen auf den Präsentationsrechner</li>
+				<li>Kontrolle, ob Unterschrift zur Einverständniserklärung zur Aufzeichnung des Vortrages vorliegt. Wenn nicht, einholen</li>
+				<li>Versorgung der Vortragenden mit Wasser</li>
+				<li>Koordinierung der Platzierung der TN, damit nicht alle außen sitzen</li>
+				<li>Bei Fragen aus dem Publikum das Mikrofon herumtragen</li>
+				<li>Vortrag als PDF auf Laptop im Raum speichern</li>
+				<li>Desinfektion im Raum nach Hygienekonzept</li>
+				
 			</ul>	
 		</li>
 		<li><b>Workshophelfer</b> (bezahlt)<br>
 In jedem Workshopraum gibt es eine verantwortliche Person.
 			<ul><i>Aufgaben:</i>
-				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)
-				<li>morgens an jede Tür ein aktuelles Tagesprogramm hängen
-				<li>Versorgung der Workshopleiter mit Wasser
-				<li>Kontrolle/Checkin Worksshop-Teilnehmende
-				<li>Feedbackbögen einsammeln
+				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)</li>
+				<li>morgens an jede Tür ein aktuelles Tagesprogramm hängen</li>
+				<li>Versorgung der Workshopleiter mit Wasser</li>
+				<li>Kontrolle/Checkin Worksshop-Teilnehmende</li>
+				<li>Feedbackbögen einsammeln</li>
+				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>
 	</ul>
 
 	<h4>Helfen Online umzusetzen</h4>
 	<ul>
+
+		<li><b>Videoschnitt</b> (freiwillig)<br>
+			Viele Vortragende stellen ihr Video vorab aufgezeichnet über einen Webserver zur Verfügung. 
+			<ul><i>Aufgaben:</i>
+				<li>Video öffnen und checken, was zu tun ist.</li>
+				<li>Prüfen, ob VortragsID und Vortragender und Vortragstitel zusammenpassen (siehe md-File).</li>
+				<li>prüfen, ob Ton, Bild und Folien da sind.</li>
+				<li>prüfen, ob Vortrag die angegebene Länge nicht überschreitet.</li>
+				<li>Video schneiden (Anfang und Ende passend machen, falls es nicht passt)  mit LosslessCut (https://www.mifi.no/losslesscut/) schneiden, im Dateiformat: matroshka speichern.</li>
+				<li>im beiliegenden md-File abhaken bzw. entsprechende Notizen hinterlegen.</li>
+				<li>wenn fertig, wird der Ordner nach "Fertig" verschoben.</li>
+				<li>wenn irgendetwas nicht passt, Nachricht schreiben.</li>
+			</ul>
+		<li><b>Sessionleitung</b> (freiwillig)<br>			
+			<ul><li>wie oben beschrieben</li></ul>
 		<li><b>Bühnenkoordination </b>(freiwillig)<br>
-Schnittstelle zw. Online und Vorort für Umsetzung des Tracks 
- Fragen, Chat, Hörsaalbilder - mal sehen, ob es das braucht.</li>
+Schnittstelle zw. Online und Vorort für Umsetzung des Tracks; 
+ Fragen, Chat, Hörsaalbilder für hybride Umsetzung - mal sehen, ob es das braucht.</li>
+			<ul><i>Aufgaben:</i>
+				<li>techniche Ausstattung: Laptop, 2 Bildschirme, stabiles Internet</li>
+				<li>Technikcheck der Vortragenden und Sessionleitung 30 min vor Trackbeginn mit</li>
+				<li>Mikrophonetest</li>
+				<li>Videoqualität</li>
+				<li>Bildschirm teilen Foliencheck</li>
+			</ul>
 		<li><b>Info Desk </b>(freiwillig)<br>
-Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Info Desk Helfer:innen checken den Chat der Onlineplattform und stehen in der Netzwerkwelt für Fragen zur Verfügung.</li>
+Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Helfer:innen am Info Desk checken den Chat der Onlineplattform und stehen in der Netzwerkwelt für Fragen zur Verfügung.</li>
+			<ul><i>Aufgaben:</i>
+				<li>Informationen weitergeben</li>
+				<li>Chats mitlesen und Fragen beantworten</li>
+				<li>InfoDesk in der Netzwerkwelt</li>
+				<li>InfoDesk im Venueless</li>
+			</ul>	
+
+
 	</ul>
 
 
