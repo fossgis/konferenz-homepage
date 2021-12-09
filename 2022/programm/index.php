@@ -17,7 +17,7 @@
 
         <h2>Programm</h2>
 		<p>Der Call for Participation ist beendet. Das Programmkomitee gestaltet im Laufe der nächsten Wochen aus den Einreichungen ein Konferenzprogramm. Dieses wird ab Anfang Januar hier veröffentlicht.</p>
-		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
+
 
 	<!--	<a href="https://pretalx.com/fossgis2021/schedule/" target="_blank" rel="noopener nofollow">hier geht es zum Konferenzprogramm</a>
 	</p>
@@ -76,7 +76,7 @@
 
 
 	<h3>Community Voting</h3>
-	<p>Bis zum 2.12.2021 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
+	<!--<p>Bis zum 2.12.2021 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
 	<ul>
 		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2022/p/voting/signup/"> https://pretalx.com/fossgis2022/p/voting/signup/</a></li>
@@ -85,8 +85,10 @@
 	</ul>
 
 
+	<h3>Community Voting</h3>-->
+		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 195 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
 
-
+		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 
 		
 	<?php include "../inc/footer.inc"; ?>
