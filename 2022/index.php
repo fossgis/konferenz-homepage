@@ -22,6 +22,8 @@
 
             <p>Mitarbeitende der Fachbereiche <a href="https://www.uni-marburg.de/de/fb12">Mathematik und Informatik</a>, <a href="https://www.uni-marburg.de/de/fb19"> Geographie</a>, der <a href="">HeFDI - Hessische Forschungsdateninfrastrukturen</a>, des <a href="https://www.uni-marburg.de/de/fb09/dsa">Forschungszentrums Deutscher Sprachatlas <a/> sowie des <a href="https://hlgl.hessen.de/">Hessischen Landesamtes für geschichtliche Landeskunde</a> beteiligen sich maßgeblich an der Organisation.</p>
 
+			<p>Die FOSSGIS 2022 wird ausschließlich als Online-Veranstaltung stattfinden. Hintergrund der Entscheidung ist die unklare Entscheidungslage hinsichtlich der Coronapandemie und die damit einhergehende Unsicherheit in der Planung.</p> 
+
 
             <ul class="tiles">
 				<li class="tile bronze">

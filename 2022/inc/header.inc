@@ -4,7 +4,7 @@
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>
-		<span class="amp">Marburg + online</span> <br>
+		<span class="amp">Online-Event</span> <br>
 		<span class="main">9. - 12. März 2022</span>
 	</h2>
 </header>
@@ -25,17 +25,17 @@
 		</li>
 
 		
-		<li id="navAnreise">
+		<!--<li id="navAnreise">
 			<a href="./standort/">Standort und Anreise</a>
-		</li>
+		</li>-->
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
 		</li>
-		<!--
+	
 		<li id="navEvents">
 			<a href="./socialevents/">Rahmenprogramm</a>
 		</li>		
-		<li id="navExpo">
+		<!--	<li id="navExpo">
 			<a href="./expo/">Expo</a>
 		</li>-->
 		<li id="navTeam">

@@ -22,9 +22,9 @@
 
 	<h2>Anmeldung zur Konferenz</h2>
 
-	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz 2022 zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
+	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
-	<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal im großen Hörsaalgebäude in der Biegenstraße 14 sowie online statt. 
+	<!--<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal im großen Hörsaalgebäude in der Biegenstraße 14 sowie online statt. 
 Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konferenztickets und Online-Konferenztickets geben.</p>
 	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
 	
@@ -33,7 +33,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 		
 	<!--<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2022/">Direkt zur Anmeldung</a>
-	</p>-->
+	</p>
 
 	<h3>Preise FOSSGIS-Konferenz 2022</h3>
 
@@ -65,9 +65,14 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 		<small>*** wenn bestellt und solange verfügbar.</small>
 	</p>
 	</ul>
-</ul>
+</ul>-->
+
+		<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 als Online-Veranstaltung statt. <br>
+		Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
+
+        <p>Im Folgenden finden Sie Informationen zum Preis, zur Workshopbuchung, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
     
-	<b>Online-Teilnahme</b>
+	<h3>Preise FOSSGIS-Konferenz 2022</h3>
 		<ul>
 		<li>Online-Konferenzticket (Normalpreis): 90 €</i>
 		<li>Online-Konferenzticket (reduzierter Preis*): 15 €</i>
@@ -82,7 +87,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 		<li>ordentliche Rechnung</li>
 		<li>Chatmöglichkeiten mit den Teilnehmenden</li>
 		<li>Zugang zur Netzwerkwelt (dafür sind Kamera und Mikrofon hilfreich)</li>
-		<li>Tasche, T-Shirt***</li>
+		<!--<li>Tasche, T-Shirt***</li>-->
 		<li>Tagungsband***</li>
 	</ul>
 
@@ -93,22 +98,20 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</p>
 </ul>
 
-	<p>Der Zugang zur Online-Plattform wird Ihnen über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>
+	<p>Der Zugang zur Online-Plattform wird Ihnen ab 07. März 2022 über den Ticketbuchungslink als Link zur Verfügung gestellt. Für die Teilnahme benötigen Sie einen Zugang zum Internet sowie einen aktuellen Browser.</p>
 
-	<h3>COVID-19</h3>
+	<!--<h3>COVID-19</h3>
 <p>Es ist geplant, die Konferenz unter der 2G-Regel stattfinden zu lassen. Das heißt, dass diejenigen, die vor Ort teilnehmen, beim Check-inn einen entsprechenden Genesenen- oder Impfnachweis vorweisen müssen. <br>
-Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygieneregeln ein entsprechendes Hygienekonzept vor.</p>
+Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygieneregeln ein entsprechendes Hygienekonzept vor.</p>-->
 
 	<h3 id="Workshop">Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket buchen.<br>
-Es wird Workshops vor Ort geben sowie auch Online-Workshops, die Durchführungsart sehen Sie im Programm sowie auch im Infotext zum jeweiligen Workshop.<br>
-Für die Workshops vor Ort stellt uns die Uni Marburg entsprechende Räume zur Verfügung.<br>
-Am Online-Workshop nehmen Sie mit Ihrem eigenen Gerät teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Online-Workshop ist interaktiv und wird im Format Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart* angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen.</p>
+Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen.</p>
 		<ul>
 		<li><i><b>Browserbasiert: </b></i> Sie benötigen lediglich einen aktuellen Internet-Browser.</li>
 		<li><i><b>OSGeoLive: </b></i> Im Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als Virtuelle Box auf Ihrem Computer laufen. Hier finden Sie eine <a href="http://live.osgeo.org/de/index.html"> Anleitung zur Installation der OSGeoLive.</a></li>
-		<li><i><b>Individuell: </b></i> Sie erhalten in der Woche vor der Konferenz eine Mail mit detaillierten Informationen zum Workshop sowie die Möglichkeit in einem Termin Ihre Technik zu checken.</li>
-		<li><i><b>Präsenz-Workshop: </b></i> findet in einem Workshopraum an der Uni Marburg statt.</li>
+		<li><i><b>Individuell: </b></i> Sie erhalten in der Woche vor der Konferenz Informationen mit detaillierten Informationen zum Workshop, eventuell mit einem Termin, an dem Sie Ihre Technik checken können.</li>
+		<!--<li><i><b>Präsenz-Workshop: </b></i> findet in einem Workshopraum an der Uni Marburg statt.</li>-->
 		</ul>
 
 
@@ -132,8 +135,8 @@ In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Ka
 
 	<h3>Helfen</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2022/helfen/">Website <i>Helfen</i></a> lesen, dort sind viele Details erklärt.</p>
-	<p>Helfer:innen dürfen das kostenfreie "Konferenzticket für Helfende" buchen.</p>
-	<p>Wenn Sie schon wissen, was Sie helfen möchten, melden Sie sich <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">per E-Mail an helfen@fossgis.de</a> beim Helferteam.</p>
+	<p>Helfer:innen dürfen das kostenfreie "Konferenzticket für Helfende" buchen.<br>
+	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
    	<!--<h3>Anmeldung</h3>
 	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2021/">diesem Link</a> direkt aufrufen.</p>

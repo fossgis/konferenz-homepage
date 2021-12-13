@@ -52,12 +52,12 @@ Programm als gedruckte Ausgabe im Format A6 für die TN.</li>
 		<li><b>Teilnehmer:innenbetreuung/ Welcome Desk</b><br>
 Im Arbeitspaket Teilnehmer:innenbetreuung stecken mehrere Aufgaben.
 Die Informationen zur Konferenz im Vorfeld so aufbereiten, dass es für die TN übersichtlich und nachvollziehbar ist (Website, TN-Mail).
-Welcome Desk in Marburg organisieren ist in erster Linie eine Aufgabe des Lokal Teams.
+Welcome Desk organisieren ist in erster Linie eine Aufgabe des Lokal Teams.
 Einen Code of Conduct zu formulieren, steht schon lange auf der Agenda (Beispiel: https://2021.foss4g.org/about/coc.html).</li>
 		<li><b>Statistik und Teilnehmer:innenbefragung</b><br>
-Onlinebefragung + Auswertung, Befragung zu den Workshops auf den weg bringen.</li>
+Onlinebefragung + Auswertung, Befragung zu den Workshops auf den Weg bringen.</li>
 		<li><b>Hygienekonzept</b><br>
-Umsetzungskonzept für die Veranstaltung vor Ort sowie Informationen an Teilnehmende im Vorfeld dr Konferenz (Website, TN-Mail).</li>
+Umsetzungskonzept für die Veranstaltung vor Ort sowie Informationen an Teilnehmende im Vorfeld der Konferenz (Website, TN-Mail).</li>
 		<li><b>Bildungsurlaub</b><br>
 Die Konferenz als Bildungsurlaub zu bewerben, kann es für viele Arbeitnehmer:innen attraktiver machen. In 2021 gab es drei positive Bescheide (BER, BB, RP, Zusage von RP gilt zwei Jahre). Es muss für alle Bundesländer ein Antrag gestellt werden. Im ersten Schritt die kostenfreien, bei entsprechendem Bedarf können auch die kostenpflichtigen beantragt werden.
 TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen möchten, es wird nach Bundesland gefragt. Am Ende muss es gegenüber dem genehmigenden Bundesland abgerechnet werden.</li>
@@ -73,9 +73,9 @@ Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlte Helfer </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
 Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget zur Aufwandsentschädigung bereit.</li>
 	</ul>
-	<p>Es gibt folgende Helfder:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <a href="">Helfersystem</a> gebucht.</p>
+	<p>Es gibt folgende Helfder:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <a href="https://helfer.fossgis.de/">Helfersystem</a> gebucht.</p>
 
-	<h4>Helfen vor Ort in Marburg</h4>
+	<h4>Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
 Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist vor Ort und moderiert aus dem Hörsaal.

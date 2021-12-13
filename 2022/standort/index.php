@@ -26,7 +26,8 @@
 
 	<?php include "../inc/header.inc"; ?>
 	<h2>Standort, Anreise und Unterkunft</h2>
-	<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal statt.
+	 	<p> Auf dieser Seite standen Informationen zum Standort und zur Anreise. Da die FOSSGIS 2022 ausschließlich als Online-Event stattfindet, braucht es die Standortbeschreibung und Hotelliste nicht mehr.</p>
+<!--	<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 an der Philipps Universität Marburg auf dem Campus im Lahntal statt.
     </p>
 	<div class="map-container">
 		<div id="map" class="map"></div>
@@ -180,7 +181,7 @@
 				<li> Web: <a href="http://www.pension-harmony-marburg.de/" rel="nofollow" target="_blank">http://www.pension-harmony-marburg.de/</a></li>
 				<li> Adresse: Mühltreppe 1, 35037 Marburg</li>
 				<li> Telefon: +49 6421 1670703</li>
-			</ul>
+			</ul>-->
 	
 	
 
