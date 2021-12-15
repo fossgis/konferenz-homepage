@@ -21,10 +21,8 @@
 Für die Konferenz werden die Tickets, Workshops, Sponsorenpakete und Ausstellerpakete über die Internetseite <a href="
 https://pretix.eu/fossgis/2021" target="_blank"> </a> verkauft. Für das Vertragsverhältnis gelten die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
 
-<p>Für die Richtigkeit der vom FOSSGIS e.V. als Veranstalter auf der Internetseite gemachten Angaben zur Veranstaltung wird keine Gewähr übernommen. </p>
-
 <h3>Konferenztickets</h3>
-<h3>Konferenztickets für Verbraucher</h3>
+<h4>Konferenztickets für Verbraucher</h4>
 <p>Für den Verkauf der Konferenz-Tickets und Workshops an Verbraucher besteht für diese ein gesetzliches Widerrufsrecht gemäß § 312g BGB. In diesem Fall gilt nachfolgendes Widerrufsrecht:<br></p>
 
 <p>Sie haben das Recht, innerhalb von vierzehn Tagen ohne Angabe von Gründen den Vertrag über den Kauf eines Konferenz-Tickets und Workshopteilnahme zu widerrufen. Zur Wahrung der Frist ist es ausreichend, wenn Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist an eine der folgenden Kontaktmöglichkeiten senden: <br>
@@ -36,9 +34,9 @@ https://pretix.eu/fossgis/2021" target="_blank"> </a> verkauft. Für das Vertrag
 
 <p>Aus der Erklärung muss der Entschluss zum Widerruf des Vertrags eindeutig hervorgehen. Der Widerruf muss keine Begründung enthalten.</p>
 
-<h3>Stornierungsmöglichkeiten für Tickets</h3>
+<h4>Stornierungsmöglichkeiten für Tickets</h4>
 
-<p>Neben dem eben gesetzlichen Widerrufsrecht für Verbraucher, gelten die folgenden Stornierungsmöglichkeiten:<br>
+<p>Neben dem gesetzlichen Widerrufsrecht für Verbraucher, gelten die folgenden Stornierungsmöglichkeiten:<br>
 Eine kostenfreie Stornierung ist bis 3 Tage vor Konferenzbeginn möglich.
 Für die eine Stornierung senden Sie bitte eine E-Mail an: konferenz-orga@fossgis.de.</p>
 
@@ -46,12 +44,9 @@ Für die eine Stornierung senden Sie bitte eine E-Mail an: konferenz-orga@fossgi
 
 <p>Die Kündigung oder Stornierung des Ausstellerpaketes durch den Aussteller ist, unabhängig von der Inanspruchnahme des bereitgestellten Stellplatzes, ausgeschlossen. Der Stellplatz wird dem Aussteller vom FOSSGIS e.V. oder dessen Vertretern vor Ort zugewiesen. Ein Anspruch auf einen bestimmten Stellplatz in den Konferenzräumlichkeiten besteht für den Aussteller nicht.</p>
 
-<p>Die vom Aussteller präsentierten Produkten, Software und Dienstleistungen haben sich an den Zielen der Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data zu orientieren.</p>
+<p>Die vom Aussteller präsentierten Produkte, Software und Dienstleistungen haben sich an den Zielen der Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data zu orientieren.</p>
 
 <p>Der FOSSGIS e.V. ist zur fristlosen Sonderkündigung des Ausstellerpakets berechtigt, soweit der Aussteller gegen die Vereinszwecke des FOSSGIS e.V. (Förderung und Verbreitung freier Geographischer Informationssysteme (GIS) im Sinne von freier oder offener Software und Open Data) verstößt. Schadensersatzansprüche des Ausstellers sind insoweit ausgeschlossen.</p>
-
-<p>Der FOSSGIS e.V. haftet nicht für durch einfache Fahrlässigkeit verursachte Schäden, es sei denn, es handelt sich um eine mit einfacher Fährlässigkeit begangene Verletzung einer wesentlichen Vertragspflicht oder um die Verletzung von Leben, Körper oder Gesundheit. Im Falle der mit einfacher Fahrlässigkeit verursachten
-Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. beschränkt auf den vorhersehbaren, vertragstypischen Schaden.</p>
 
 <h3>Sponsorenpaket</h3>
 
@@ -77,14 +72,14 @@ Verletzung einer wesentlichen Vertragspflicht ist die Haftung des FOSSGIS e.V. b
 Verbraucherschlichtungsstelle teilzunehmen.</p>
 
 <h3>Gerichtsstand</h3>
-<p>Ist der Vertragspartner Kaufmann, so ist ausschließlicher (auch internationaler) Gerichtsstand Kirchzarten für alle sich aus dem Vertragsverhältnis unmittelbar oder mittelbar ergebenen Streitigkeiten.</p>
+<p>Ist der Vertragspartner Kaufmann, so ist ausschließlicher (auch internationaler) Gerichtsstand Berlin für alle sich aus dem Vertragsverhältnis unmittelbar oder mittelbar ergebenen Streitigkeiten.</p>
 
 <p>Dies gilt im Falle von grenzüberschreitenden Verträgen auch für Nichtkaufleute.</p>
 
 <h3>Anwendbares Recht</h3>
 <p>Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.</p>
 
-<p>Stand der AGB: 16. September 2021</p>
+<p>Stand der AGB: 14. Dezember 2021</p>
 
 	<?php include "inc/footer.inc"; ?>
 
