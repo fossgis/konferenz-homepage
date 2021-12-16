@@ -1,6 +1,6 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2022">
-		<img class="page-logo" src="./img/Standortlogo_FOSSGIS_2022_bw.png">
+		<img class="page-logo" src="./img/Logo_Triangulation_online.png">
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>

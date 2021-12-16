@@ -129,6 +129,11 @@
 						<img src="./img/s/409_Geoinfo_Logo.png" alt="GEOINFO">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/410_52north.php" target="_blank">
+						<img src="./img/s/410_52North.png" alt="52°North Spatial Information Research GmbH">
+						</a>
+					</li>
 					
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
