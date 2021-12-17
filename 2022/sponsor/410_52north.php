@@ -48,20 +48,23 @@
 
 						
 				
-					<!--<div class="social-icon">
+					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+								<a href="https://twitter.com/FiveTwoN"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com//"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com/company/52-north-gmbh/"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							<li>
-								<a href="https://github.com/"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/52North"><i class="fab fa-github"></i></a>
+							</li>
+							<li>
+								<a href="https://www.youtube.com/c/52North/featured"><i class="fab fa-youtube"></i></a>
 							</li>
 						</ul>
-					</div>-->
+					</div>
 				</div>	
 
 			</div>
