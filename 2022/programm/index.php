@@ -10,13 +10,14 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
+	<script type="text/javascript" src="https://pretalx.com/fossgis2022/schedule/widget/v2.en.js"></script>
 </head>
 
 <body id="programm">
 	<?php include "../inc/header.inc"; ?>
 
         <h2>Programm</h2>
-		<p>Der Call for Participation ist beendet. Das Programmkomitee gestaltet im Laufe der nächsten Wochen aus den Einreichungen ein Konferenzprogramm. Dieses wird ab Anfang Januar hier veröffentlicht.</p>
+		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie runter: <a href="https://pretalx.com/fossgis2022/schedule/">https://pretalx.com/fossgis2022/schedule/</a>.</p>
 
 
 	<!--	<a href="https://pretalx.com/fossgis2021/schedule/" target="_blank" rel="noopener nofollow">hier geht es zum Konferenzprogramm</a>
@@ -89,6 +90,20 @@
 		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 195 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
 
 		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
+
+	<h3>Vortragende</h3>
+	<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2022/speaker/">https://pretalx.com/fossgis2022/speaker/</a></p>
+
+	<h3>vorläufige Programmversion FOSSGIS 2022</h3>
+	<pretalx-schedule event-url="https://pretalx.com/fossgis2022/" locale="de-formal" format="list" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
+	<noscript>
+   	<div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.com/fossgis2022/schedule/">click here</a>.
+        </div>
+    </div>
+	</noscript>
 
 		
 	<?php include "../inc/footer.inc"; ?>
