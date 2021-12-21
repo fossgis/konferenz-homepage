@@ -73,6 +73,15 @@
 					</li>
 				</ul>	
 
+			<h4 class="highlight">Goldsponsoren</h4>
+				<ul class="tiles">
+					<li class="tile gold">
+						<a href="https://www.bkg.bund.de" target="_blank">
+						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
+						</a>
+					</li>	
+				</ul>
+
 			<h4 class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
 					<li class="tile silver">
