@@ -41,7 +41,11 @@
 							https://www.bkg.bund.de</a><br>
 
 							E-Mail: <br>
-							<a href="mailto:VorzimmerPraesident@bkg.bund.de">VorzimmerPraesident@bkg.bund.de</a><br></h6>
+							<a href="mailto:VorzimmerPraesident@bkg.bund.de">VorzimmerPraesident@bkg.bund.de</a><br>
+						Kontaktadresse: <br>Bundesamt für Kartographie und Geodäsie<br>
+						Richard-Strauss-Allee 11<br>	
+						60598 Frankfurt am Main<br>
+						Deutschland</h6>
 					</div>
 
 						

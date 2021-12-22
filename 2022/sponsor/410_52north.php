@@ -31,9 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>52°North Spatial Information Research GmbH </h3>
 
-					<p>52°North ist ein Forschungs- und Entwicklungsnetzwerk im Bereich der Geoinformatik, an dem Universitäten, Unternehmen und Vertreter der öffentlichen Verwaltung beteiligt sind. Als non-profit Forschungseinrichtung betreibt 52°North Forschung in Bereichen wie GDI, Sensor Web und Datenprozessierung.
-
-					</p>
+					<p>Die 52°North Spatial Information Research GmbH ist ein angewandtes Forschungsunternehmen im Bereich der Geo-Dateninfrastrukturen und der Ableitung von räumlichen Informationsprodukten. Als non-profit Unternehmen unterstützt 52°North Open Science durch offene Daten und Open-Source-Software. Unser Hauptinteresse gilt der Entwicklung räumlicher Forschungsdateninfrastrukturen, um die Ableitung von Informationen aus Daten zu erleichtern und zu fördern.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
