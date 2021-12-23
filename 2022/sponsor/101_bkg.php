@@ -31,18 +31,23 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Bundesamt für Kartographie und Geodäsie (BKG)</h3>
 
-					<p>Text folgt</p>
+					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat (BMI). Es fungiert als zentraler Dienstleister des Bundes und Kompetenzzentrum für Geoinformation und geodätische Referenzsysteme. Das BKG befasst sich mit der Beobachtung sowie der Datenhaltung bis hin zur Analyse, Kombination und Bereitstellung von Geodaten. Das BKG ermöglicht aufgrund der zentralen Geodatenbereitstellung eine optimale und wirtschaftliche Geodatennutzung in Bundesbereich.</p>
+
+					<p>Das BKG setzt sich für eine offene Datenpolitik ein, wodurch die Verbreitung von Open Data gefördert wird. Dies schließt die Beratung anderer Bundesbehörden beim Umgang mit OSM-Daten ein. Die Nutzung, Entwicklung und Verbreitung der Nutzung freier Software liegen ebenfalls im Bereich der Aktivitäten.</p>
+
+					<p>Von der Arbeit des BKG profitieren insbesondere Bundeseinrichtungen, die öffentliche Verwaltung, Wirtschaft, Wissenschaft – und fast jeder Bürger in Deutschland. Experten aus den verschiedensten Bereichen wie Verkehr, Katastrophenvorsorge, Innere Sicherheit, Energie und Umwelt verwenden Geodaten, Landkarten, Referenzsysteme und Informationsdienste des BKG für ihre Pläne und Untersuchungen. Das BKG unterhält ein Dienstleistungszentrum in Leipzig sowie geodätische Observatorien im In- und Ausland.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
-							Webseite:<br>
+							<em>Webseite:<br></em>
 						<a href="https://www.bkg.bund.de">
 							https://www.bkg.bund.de</a><br>
 
-							E-Mail: <br>
-							<a href="mailto:VorzimmerPraesident@bkg.bund.de">VorzimmerPraesident@bkg.bund.de</a><br>
-						Kontaktadresse: <br>Bundesamt für Kartographie und Geodäsie<br>
+							<em>E-Mail: </em><br>
+							<a href="mailto:Eszter.Kiss@bkg.bund.de">Eszter.Kiss@bkg.bund.de</a><br>
+							<em>Telefon:</em> +49 (0)69 6333 321<br>
+						<em>Kontaktadresse: </em><br>Bundesamt für Kartographie und Geodäsie<br>
 						Richard-Strauss-Allee 11<br>	
 						60598 Frankfurt am Main<br>
 						Deutschland</h6>
