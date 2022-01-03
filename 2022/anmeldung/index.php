@@ -104,7 +104,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 <p>Es ist geplant, die Konferenz unter der 2G-Regel stattfinden zu lassen. Das heißt, dass diejenigen, die vor Ort teilnehmen, beim Check-inn einen entsprechenden Genesenen- oder Impfnachweis vorweisen müssen. <br>
 Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygieneregeln ein entsprechendes Hygienekonzept vor.</p>-->
 
-	<h3 id="Workshop">Workshop buchen</h3>
+	<h3 id="Workshop" name="Workshop">Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket buchen.<br>
 Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen.</p>
 		<ul>
