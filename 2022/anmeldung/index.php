@@ -68,7 +68,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 </ul>-->
 
 		<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 als Online-Veranstaltung statt. <br>
-		Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
+		Der Ticketverkauf startet am 9. Januar 2022.</p>
 
         <p>Im Folgenden finden Sie Informationen zum Preis, zur Workshopbuchung, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
     
