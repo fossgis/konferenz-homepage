@@ -75,7 +75,7 @@ Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steh
 	</ul>
 	<p>Es gibt folgende Helfder:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <a href="https://helfer.fossgis.de/">Helfersystem</a> gebucht.</p>
 
-	<h4>Helfen vor Ort</h4>
+	<!--<h4>Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
 Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist vor Ort und moderiert aus dem Hörsaal.
@@ -140,9 +140,9 @@ In jedem Workshopraum gibt es eine verantwortliche Person.
 				<li>Feedbackbögen einsammeln</li>
 				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>
-	</ul>
+	</ul>-->
 
-	<h4>Helfen Online umzusetzen</h4>
+	<h4>Helfen die Konferenz Online umzusetzen</h4>
 	<ul>
 
 		<li><b>Videoschnitt</b> (freiwillig)<br>
@@ -157,11 +157,21 @@ In jedem Workshopraum gibt es eine verantwortliche Person.
 				<li>wenn fertig, wird der Ordner nach "Fertig" verschoben.</li>
 				<li>wenn irgendetwas nicht passt, Nachricht schreiben.</li>
 			</ul>
-		<li><b>Sessionleitung</b> (freiwillig)<br>			
-			<ul><li>wie oben beschrieben</li></ul>
+		
+				<li><b>Sessionleitung</b> (freiwillig)<br>
+Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist im Videoraum mit den jeweils Vortragenden.
+			<ul><i>Aufgaben:</i>
+				<li>Anmoderation des Tracks</li>
+				<li>mitlesen des Online-Chats während des Vortrags</li>
+				<li>relevante Fragen sammeln, dabei eventuell vorhandenes Voting der TN beachten</li>
+				<li>ausgewählte Fragen an Vortragende stellen.</li>
+				<li>(Matrix-Chat im Blick behalten )</li>
+				<i>technische Ausstattung für Online-Sessionleitung:</i> Laptop, Browser, Headset mit Mikro, Kamera, stabiles Internet<br>
+			</ul>				
+		</li>
 		<li><b>Bühnenkoordination </b>(freiwillig)<br>
-Schnittstelle zw. Online und Vorort für Umsetzung des Tracks; 
- Fragen, Chat, Hörsaalbilder für hybride Umsetzung - mal sehen, ob es das braucht.</li>
+Schnittstelle zw. OBS-Regie, Sessionleitung und Vortragenden für Umsetzung des Tracks, kann auch von der Sessionleitung gemacht werden; 
+ .</li>
 			<ul><i>Aufgaben:</i>
 				<li>techniche Ausstattung: Laptop, 2 Bildschirme, stabiles Internet</li>
 				<li>Technikcheck der Vortragenden und Sessionleitung 30 min vor Trackbeginn mit</li>
@@ -169,6 +179,7 @@ Schnittstelle zw. Online und Vorort für Umsetzung des Tracks;
 				<li>Videoqualität</li>
 				<li>Bildschirm teilen Foliencheck</li>
 			</ul>
+	
 		<li><b>Info Desk </b>(freiwillig)<br>
 Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Helfer:innen am Info Desk checken den Chat der Onlineplattform und stehen in der Netzwerkwelt für Fragen zur Verfügung.</li>
 			<ul><i>Aufgaben:</i>
