@@ -76,7 +76,7 @@
 			<h4 class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile gold">
-						<a href="https://www.bkg.bund.de" target="_blank">
+						<a href="sponsor/101_bkg.php" target="_blank">
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 						</a>
 					</li>	

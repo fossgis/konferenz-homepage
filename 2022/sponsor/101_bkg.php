@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Bundesamt für Kartographie und Geodäsie (BKG)</h3>
 
-					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat (BMI). Es fungiert als zentraler Dienstleister des Bundes und Kompetenzzentrum für Geoinformation und geodätische Referenzsysteme. Das BKG befasst sich mit der Beobachtung sowie der Datenhaltung bis hin zur Analyse, Kombination und Bereitstellung von Geodaten. Das BKG ermöglicht aufgrund der zentralen Geodatenbereitstellung eine optimale und wirtschaftliche Geodatennutzung in Bundesbereich.</p>
+					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des Innern und Heimat (BMI). Es fungiert als zentraler Dienstleister des Bundes und Kompetenzzentrum für Geoinformation und geodätische Referenzsysteme. Das BKG befasst sich mit der Beobachtung sowie der Datenhaltung bis hin zur Analyse, Kombination und Bereitstellung von Geodaten. Das BKG ermöglicht aufgrund der zentralen Geodatenbereitstellung eine optimale und wirtschaftliche Geodatennutzung in Bundesbereich.</p>
 
 					<p>Das BKG setzt sich für eine offene Datenpolitik ein, wodurch die Verbreitung von Open Data gefördert wird. Dies schließt die Beratung anderer Bundesbehörden beim Umgang mit OSM-Daten ein. Die Nutzung, Entwicklung und Verbreitung der Nutzung freier Software liegen ebenfalls im Bereich der Aktivitäten.</p>
 
