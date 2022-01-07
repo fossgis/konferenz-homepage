@@ -40,7 +40,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 					<ul>
 						<li>Formloses Schreiben: “Hiermit mache ich meinen Anspruch auf Freistellung zum Bildungsurlaub vom 9.03.bis 12.03.2022 geltend. Beigefügt sind Ablaufplan, Anerkennungsbescheid und Anmeldebestätigung”.</li>
 					</ul></p>
-					<p>Die notwendige Anmeldebestätigung erhalten Sie mit der Konferenzticketbuchung (ab Anfang Januar 2022). Den inhaltlichen Ablaufplan finden Sie im Programm. Anerkennungsbescheid siehe unten.<br>
+					<p>Für die notwendige Anmeldebestätigung nutzen Sie entweder die Bestell-Email oder Ihre Rechnung, die Sie bei Konferenzticketbuchung erhalten. Den inhaltlichen Ablaufplan finden Sie im Programm. Anerkennungsbescheid siehe unten.<br>
 Nach dem Bildungsurlaub: Sie laden sich Ihre Teilnahmebescheingung, welche wir Ihnen in Ihrer Bestellung zur Verfügung stellen herunter und geben diese bei Ihrem Arbeitgeber ab.</p>
 
 
