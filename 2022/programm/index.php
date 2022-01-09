@@ -17,47 +17,25 @@
 	<?php include "../inc/header.inc"; ?>
 
         <h2>Programm</h2>
-		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie runter: <a href="https://pretalx.com/fossgis2022/schedule/">https://pretalx.com/fossgis2022/schedule/</a>.</p>
+		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie runter: <a href="https://pretalx.com/fossgis2022/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2022/schedule/</a>.</p>
 
 
-	<!--	<a href="https://pretalx.com/fossgis2021/schedule/" target="_blank" rel="noopener nofollow">hier geht es zum Konferenzprogramm</a>
-	</p>
-
-	<!-- <p>Wählen Sie den gewünschten Konferenztag aus.</p>
-	<ul>
-		<li>
-			<a href="programm/sonntag.php" target="_blank" rel="noopener nofollow">OSM-Sonntag, 06.06.2021</a>
-                </li>
-		<li>
-			 href-old "https://pretalx.com/fossgis2021/schedule/" 
-			<a href="programm/montag.php">Montag, 07.06.2021</a>
-		</li>
-		<li>
-			<a href="programm/dienstag.php">Dienstag, 08.06.2021</a>
-		</li>
-		<li>
-			<a href="programm/mittwoch.php">Mittwoch, 09.06.2021</a>
-		</li>
-        </ul> 
-
-	<p>
-		<a href="https://pretalx.com/fossgis2021/speaker/" target="_blank" rel="noopener nofollow">Liste der Vortragenden</a>
-	</p>
+	<!--	
 
 	<h3>Tagungsband</h3>
-	<p>Der Tagungsband zur Konferenz steht <a href="data/FOSSGIS_Tagungsband_2021.pdf">als PDF zum Download </a> zur Verfügung.
+	<p>Der Tagungsband zur Konferenz steht <a href="data/FOSSGIS_Tagungsband_2022.pdf">als PDF zum Download </a> zur Verfügung.
 
 	<!-- <h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
-	<p>Die FOSSGIS 2021 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2021/"> https://streaming.media.ccc.de/fossgis2021/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink im Bestelllink.</p>
+	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2022/"> https://streaming.media.ccc.de/fossgis2022/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>
 
 	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
-			<li> <a href="https://media.ccc.de/c/fossgis2021" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2021</a></p> 
+			<li> <a href="https://media.ccc.de/c/fossgis2022" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2022</a></p> 
 			</li>
-			<li> <a href="https://av.tib.eu/series/1102/fossgis+konferenz+2021+online+event+06+09+juni+2021" target="_blank" rel="noopener nofollow">TIB</a></p> 
+			<li> <a href="https://av.tib.eu/series/1102/fossgis+konferenz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
 			</li>
-			<li> <a href="https://www.youtube.com/results?search_query=FOSSGIS+2021" target="_blank" rel="noopener nofollow">YouTube</a></p> 
+			<li> <a href="https://www.youtube.com/results?search_query=FOSSGIS+2022" target="_blank" rel="noopener nofollow">YouTube</a></p> 
 			</li>
 		</ul>
 

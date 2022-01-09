@@ -67,8 +67,8 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</ul>
 </ul>-->
 
-		<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 als Online-Veranstaltung statt. <br>
-		Der Ticketverkauf startet am 9. Januar 2022.</p>
+		<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 als Online-Veranstaltung statt. <br></p>
+		<p>Scrollen Sie auf dieser Seite und gelangen zum <a href="https://fossgis-konferenz.de/2022/anmeldung/#Anmeldeformular">Anmeldeformular</a>.</p>
 
         <p>Im Folgenden finden Sie Informationen zum Preis, zur Workshopbuchung, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
     
@@ -138,17 +138,17 @@ In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Ka
 	<p>Helfer:innen dürfen das kostenfreie "Konferenzticket für Helfende" buchen.<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
-   	<!--<h3>Anmeldung</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2021/">diesem Link</a> direkt aufrufen.</p>
+   	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
+	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2022/">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
-		<pretix-widget event="https://pretix.eu/fossgis/2021/"></pretix-widget>
+		<pretix-widget event="https://pretix.eu/fossgis/2022/"></pretix-widget>
 		<noscript>
   			 <div class="pretix-widget">
        			 <div class="pretix-widget-info-message">
-            		JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2021/">hier</a>.
+            		JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2022/">hier</a>.
         		</div>
     		</div>
-		</noscript>-->
+		</noscript>
 			
 
 	<h3>Sie haben Fragen oder wollen das Konferenzteam erreichen?</h3>
