@@ -60,7 +60,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 
 
 	<p>
-		<small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:inn.</small><br>
+		<small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in.</small><br>
 		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small><br>
 		<small>*** wenn bestellt und solange verfügbar.</small>
 	</p>
@@ -92,7 +92,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</ul>
 
 	<p>
-		<small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:inn.</small><br>
+		<small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in.</small><br>
 		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small><br>
 		<small>*** wenn bestellt und solange verfügbar.</small>
 	</p>
