@@ -122,7 +122,7 @@ Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie ü
 	<p>Weitere Informationen zum Bildungsurlaub finden Sie unter <a href="https://fossgis-konferenz.de/2022/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.</p>
 
 	
-	<h3>Netzwerkwelt</h3>
+	<h3 id="Netzwerkwelt" name ="Netzwerkwelt">Netzwerkwelt</h3>
 
 <p>Um optimales Netzwerken während der Veranstaltung zu ermöglichen, wird es wieder eine <i>Netzwerkwelt</i> geben.<br>
 In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Karte/Landschaft bewegen und einander begegnen. Zum Einstieg gibt man sich einen Namen und wählt einen Avatar aus. Nach der Landung im Eingangsbereich bewegen Sie sich mit Hilfe der Tastatur. Sie können die <i>Netzwerkwelt</i> erkunden und Sie sehen auch, ob weitere Teilnehmende unterwegs sind. Wenn Sie einer Person begegnen, öffnet sich ein Videochat, welcher sich mit einem Geräusch ankündigt, Sie können sich austauschen oder weglaufen - fast wie im echten Leben ;-).
