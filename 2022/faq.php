@@ -56,6 +56,9 @@
 
 			<li><b>Wie funktioniert das mit der Warteliste?</b><br>
 				Wenn die Veranstaltung ausverkauft ist, können Sie sich auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind, und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
+
+			<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
+				Auf der Seite "Informationen für Teilnehmende" werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>
 		</ul>
 
 	<h3>Workshops</h3>
@@ -171,7 +174,7 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor dir die Schicht hatte, erklär
 		<ul>
 <li>Lesen Sie folgenden Abschnitt sorgfältig.</li>
 			<li>Registrieren Sie sich auf <a href="helfer.fossgis.de">helfer.fossgis.de</a>, Helfer:innenname und E-Mail-Adresse</li>
-			<li>Registrieren Sie sich im Telegramkanal "Helfer:innen Fossgis 2022" <a heref="https://t.me/+IChw-K8-pB0yMjEy">https://t.me/+IChw-K8-pB0yMjEy</a></li>
+			<li>Registrieren Sie sich im Telegramkanal "Helfer:innen Fossgis 2022" <a heref="https://t.me/+IChw-K8-pB0yMjEy">https://t.me/+IChw-K8-pB0yMjEy.</a></li>
 			<li>Der Telegrammkanal ist Ihre erste Anlaufstelle für Fragen und Planungen jeglicher Art.</li>
 			<li>Um jeden Helfer:in als angekommen registrieren zu können, sollte an irgendeiner Stelle eine Kommunikation mit dem Orgateam erfolgen.</li>
 			<li>Wenn Sie bisher noch nicht als Helfer:in bei der FOSSGIS-Konferenz waren, kommen Sie zu einem der angebotenen Termine. Diese werden im Helfersystem veröffentlicht und finden per Videokonferenz statt.</li>
