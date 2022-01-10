@@ -22,7 +22,7 @@
 	<h3>Ticket</h3>
 		<ul>
 			<li><b>Ab wann werden Tickets verkauft?</b><br>
-				voraussichtlich ab Januar 2022 </li>
+				ab 09. Januar 2022 </li>
 			<li><b>Wird es Videoaufzeichnungen von Vorträgen geben?</b><br>
 				Ja. Wie in den letzten Jahren planen wir auch dieses Jahr, alle Vorträge nach der Veranstaltung zu veröffentlichen. Die Vorträge der Vorjahre stehen ebenfalls kostenlos bereit, zum Beispiel im <a href="https://av.tib.eu/search?q=FOSSGIS+Konferenz">AV-Portal der Technischen Informationsbibliothek</a>.</li>
 			<li><b>Wird es Tagestickets geben?</b><br>
@@ -62,7 +62,7 @@
 		<ul>
 
 			<li><b>Sind die Workshops im Konferenzticket enthalten?</b><br>
-				Nein, jeder Workshop wird einzeln gebucht und berechnet. Die meisten Workshops sind Übungen bzw. Seminare, die entweder vor Ort oder Online durchgeführt werden. Nähere Informationen zum jeweiligen Workshop finden Sie im Programm sowie bei der Ticketbuchung.</li>
+				Nein, jeder Workshop wird einzeln gebucht und berechnet. Die meisten Workshops sind Übungen bzw. Seminare, die entweder vor Ort oder Online durchgeführt werden. Nähere Informationen zum jeweiligen Workshop finden Sie im Programm, bei der  Ticketbuchung und auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zum Workshop</a>.</li>
 			<li><b>Ich buche drei oder mehr Workshops. Gibt es einen Mengenrabatt?</b><br>
 				Nein.</li>
 			<li><b>Ich habe schon ein Ticket und möchte doch noch einen Workshop buchen.</b><br>
@@ -73,7 +73,8 @@
 		<ul>
 
 			<li><b>Ist die Veranstaltung barrierefrei?</b><br>
-				Ja. Die Veranstaltung findet an der Universität Marburg sowie online statt, die Räume sollten barrierefrei erreichbar sein. Lediglich die Workshopräume im Fachbereich Geographie sind nicht barrierefrei zugänglich, bitte kontaktieren Sie bei Bedarf vorab das Konferenzteam. </li>
+				Ja. Die Veranstaltung findet online statt.
+<!--... die Räume sollten barrierefrei erreichbar sein. Lediglich die Workshopräume im Fachbereich Geographie sind nicht barrierefrei zugänglich, bitte kontaktieren Sie bei Bedarf vorab das Konferenzteam. --></li>
 			<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
 				Kurz vor Beginn der Konferenz wird der Zugang zur Online-Plattform in Ihrem Buchungslink auftauchen. Dieser wird Ihnen mit der Bestellbestätigung zugesendet. Den Buchungslink finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 			<li><b>Brauche ich besondere Technik, um an der Online-FOSSGIS teilnehmen zu können?</b><br>
@@ -101,16 +102,16 @@
 	<h3>Aussteller</h3>
 		<ul>
 
-			<li><b>Ich möchte ein Ausstellerstand.</b><br>
+			<li><b>Ich möchte einen Ausstellerstand.</b><br>
 				Voraussetzung ist ein Sponsoring entweder als Platin, Gold, Silber oder Bronze-Sponsor.</li>
 			<li><b>Wie ist der Stand ausgestattet?</b><br>
-				Normalerweise gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. Ob es wieder eine virtuelle Expo geben wird, ist noch nicht entschieden. </li>
-			<li><b>Wird der Raum Nachts verschlossen?</b><br>
-				Das Foyer der Uni Marburg ist Nachts verschlossen.</li>
+				Wenn wir vor Ort wären, gäbe es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. Nun werden wir wieder eine virtuelle Expo planen. </li>
+			<!--<li><b>Wird der Raum Nachts verschlossen?</b><br>
+				Das Foyer der Uni Marburg ist Nachts verschlossen.</li>-->
 			<li><b>Gibt es Ausstellerticket?</b><br>
-				Im Ausstellerpaket sind drei Tickets enthalten. Der Besteller bekommt rechtzeitig die Vouchercodes.</li>
+				Im Ausstellerpaket sind zwei Tickets enthalten. Der Besteller bekommt rechtzeitig die Vouchercodes.</li>
 			<li><b>Was mache ich mit dem Gutscheincode/ Vouchercode?</b><br>
-				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Die Preise bei den Tickets sind dann 0 Euro und die entsprechende Anzahl kann gebucht werden. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden und danach wieder die Anzahl der Tickets erhöht werden.</li>
+				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Die Preise bei dem Ticket beträgt dann 0 Euro und es kann gebucht werden. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
 				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre</a> sowie auf der <a href="https://fossgis-konferenz.de/2022/">Konferenzhomepage</a>.</li>
@@ -134,7 +135,7 @@
 			<li><b>Wie funktioniert das Engelsystem, welche Arbeiten bzw. Aufgaben gibt es?</b><br>
 				Die meisten Antworten zu Fragen hinsichtlich helfen finden Sie im folgenden Abschnitt.</li>
 		</ul>
-	<h4>Wie werde ich Helfer:in für die Veranstaltung vor Ort?</h4>
+	<!--<h4>Wie werde ich Helfer:in für die Veranstaltung vor Ort?</h4>
 		<ul>			
 
 			<li>Lesen Sie folgenden Abschnitt sorgfältig.</li>
@@ -164,10 +165,24 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor dir die Schicht hatte, erklär
 			<li><b>Ich bin Studierende und habe gelesen, das ich kostenlos ein Workshop besuchen kann. Was muss ich machen?</b><br>
 				Ein Account im Helfersystem haben und sechs Stunden arbeiten. Du kommst zum Helfer-Stand und die Schichtkoordination kann einen Workshop für dich buchen. Der Workshop sollte von weniger als 10 bzw.15 zahlungspflichtigen Teilnehmenden gebucht worden sein. Wenn du dich für ein Workshop am Tag 1 interessierst, frage per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a>.</li>
 			<li><b>Wo bekomme ich mein Helfer T-Shirt?</b><br>
-				Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist.</li>
+				Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist.</li>-->
 		</ul>
 		<h4>Wie werde ich Helfer:in für die Online-Veranstaltung?</h4>
 		<ul>
+<li>Lesen Sie folgenden Abschnitt sorgfältig.</li>
+			<li>Registrieren Sie sich auf <a href="helfer.fossgis.de">helfer.fossgis.de</a>, Helfer:innenname und E-Mail-Adresse</li>
+			<li>Registrieren Sie sich im Telegramkanal "Helfer:innen Fossgis 2022" <a heref="https://t.me/+IChw-K8-pB0yMjEy">https://t.me/+IChw-K8-pB0yMjEy</a></li>
+			<li>Der Telegrammkanal ist Ihre erste Anlaufstelle für Fragen und Planungen jeglicher Art.</li>
+			<li>Um jeden Helfer:in als angekommen registrieren zu können, sollte an irgendeiner Stelle eine Kommunikation mit dem Orgateam erfolgen.</li>
+			<li>Wenn Sie bisher noch nicht als Helfer:in bei der FOSSGIS-Konferenz waren, kommen Sie zu einem der angebotenen Termine. Diese werden im Helfersystem veröffentlicht und finden per Videokonferenz statt.</li>
+
+			<li>Im Helfersystem können Sie selber die gewünschten Schichten übernehmen.</li>
+
+			<li>Bei Fragen per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a> wenden. </li>
+			<br>
+		
+			<li><b>Brauche ich ein Ticket?</b><br>
+				Ja. Wenn Sie noch kein Ticket haben, können Sie ein kostenfreies Helfer:innenticket buchen und sollten dafür 6 Stunden helfen.</li>
 			<li><b>Ich kann auch im Vorfeld der Konferenz helfen. Gibt es dafür Bedarf? </b><br>
 				Ja, für</li>
 				<ul>
@@ -181,12 +196,14 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor dir die Schicht hatte, erklär
 </b><br>
 				<ul>
 				   <li>Videoschnitt</li>
-				   <li>Bühnenkoordination</li>
+				   <!--<li>Bühnenkoordination</li>-->
 				   <li>InfoDesk</li>
 				   <li>Sessionleitung</li>
 				   <li>voraussichtlich Workshopunterstützung</li>
 				</ul>
 				   <p>Genaue Beschreibungen und Voraussetzungen finden Sie im Helfer:innensystem (Login nötig) oder auch unter <a href="https://fossgis-konferenz.de/2022/helfen/">https://fossgis-konferenz.de/2022/helfen/</a>.</p>
+
+
     		</ul>
 
 
