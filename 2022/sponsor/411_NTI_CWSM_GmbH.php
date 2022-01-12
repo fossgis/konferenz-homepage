@@ -38,8 +38,8 @@
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							Webseite:<br>
-						<a href="https://www.example.de/">
-							https://www.example.de/</a><br>
+						<a href="https://www.sagisweb.de/wordpress/">
+							https://www.sagisweb.de/wordpress/</a><br>
 
 							E-Mail: <br>
 							<a href="mailto:sujata@nti-cwsm.de ">sujata@nti-cwsm.de </a><br></h6>
