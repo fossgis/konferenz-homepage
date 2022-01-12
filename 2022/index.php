@@ -143,6 +143,11 @@
 						<img src="./img/s/410_52North.png" alt="52°North Spatial Information Research GmbH">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.sagisweb.de/wordpress/" target="_blank">
+						<img src="./img/s/411_nti_cwsm.png" alt="NTI CWSM GmbH">
+						</a>
+					</li>
 					
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
