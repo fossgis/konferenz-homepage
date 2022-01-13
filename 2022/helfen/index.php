@@ -137,7 +137,7 @@ Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortrage
 				<i>technische Ausstattung für Online-Sessionleitung:</i> Laptop, Browser, Headset mit Mikro, Kamera, stabiles Internet<br>
 			</ul>				
 		</li>
-		<li><b>Bühnenkoordination </b>(freiwillig)<br>
+	<!--	<li><b>Bühnenkoordination </b>(freiwillig)<br>
 Schnittstelle zw. OBS-Regie, Sessionleitung und Vortragenden für Umsetzung des Tracks, kann auch von der Sessionleitung gemacht werden; 
  .</li>
 			<ul><i>Aufgaben:</i>
@@ -146,8 +146,24 @@ Schnittstelle zw. OBS-Regie, Sessionleitung und Vortragenden für Umsetzung des 
 				<li>Mikrophonetest</li>
 				<li>Videoqualität</li>
 				<li>Bildschirm teilen Foliencheck</li>
-			</ul>
+			</ul>-->
 	
+			<li><b>OBS-Regie </b><br>
+Die Regie arbeitet mit Open Broadcast Studio Software (OBS) und mixt den Livestream. Es gibt pro Bühne eine Regie. Die Vortragenden kommen in einen Jitsiraum, für den Beitrag betreten Sie einen Breakout Raum, von dort wird gestreamt.</li>
+
+			<ul><i>Aufgaben: </i>
+				<li>Livemix über OBS Studio</li>
+				<li>Nach Zeitplan die vorab aufgezeichneten Videos oder Livevortrag einspielen</li>
+				<li>Fragen und Antworten-Session live einspielen</li>
+				<li>Pausentrailer mit Infobeamer</li>
+			</ul>
+			<ul><i>technische Ausstattung: </i>
+				<li>Desktop-PC mit OBS</li>
+				<li>2 Bildschirme, gute Internetanbindung LAN; DSL 50down/10up wäre zu knapp</li>
+				<li>RasperyPI, Video Capture Karte </li>
+				<li>Chats mitlesen</li>
+			</ul>	
+
 		<li><b>Info Desk </b>(freiwillig)<br>
 Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Helfer:innen am Info Desk checken den Chat der Onlineplattform und stehen in der Netzwerkwelt für Fragen zur Verfügung.</li>
 			<ul><i>Aufgaben:</i>
