@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>NTI CWSM GmbH</h3>
 
-					<p>Text folgt
+					<p>Die NTI-CWSM bietet individuelle GIS-, CAD- und BIM-Lösungen für Kommunen, Planer, Ver- bzw. Entsoger und andere Projektträger. OpenSource in Form von QGIS und PostgreSQL ist dabei ein Schlüsselelement, das je nach Bedarf durch Web-, Desktop- und Mobilanwendungen aus der SAGis-Familie ergänzt werden kann. Darüber hinaus liegt der Fokus der NTI auf Digitalisierung, umfangreicher Beratung, engem Support, intensiven Schulungen und langfristigen Partnerschaften über viele Jahre und Veränderungen hinweg.
 					</p>
 				</div>
 				<div class="col-lg-3">
