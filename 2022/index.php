@@ -144,7 +144,7 @@
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="https://www.sagisweb.de/wordpress/" target="_blank">
+						<a href="sponsor/411_NTI_CWSM_GmbH.php" target="_blank">
 						<img src="./img/s/411_nti_cwsm.png" alt="NTI CWSM GmbH">
 						</a>
 					</li>
