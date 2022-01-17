@@ -22,17 +22,15 @@
 
 	<p>Am Abend des 08. März laden wir Sie ein zum virtuellen "Warmup in der Netzwerkwelt". Nutzen Sie die Möglichkeit sich in der Onlineplattform umzuschauen und in der Netzwerkwelt andere Teilnehmende zu treffen. Bei Fragen finden Sie Hilfe am InfoDesk (Personen mit rotem Hut sind Helfer der FOSSGIS-Konferenz). Der Zugang zur Online-Plattform wird ab 07. März 2022 in Ihrem Ticketbestelllink zur Verfügung gestellt. </p>
 
-	
+	<h3>Geochicas laden ein</h3>
+	<p>Am Dienstag, dem 8. März 2022, von 18-20 Uhr treffen sich die Geochicas im der
+Netzwerkwelt. Es kann kein Zufall sein, dass das Treffen am 8. März stattfindet und so auf den <a href="https://de.wikipedia.org/wiki/Internationaler_Frauentag">Internationalen Frauentag</a> fällt.<br>
+Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).</p>
 	
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt. Auch wenn die FOSSGIS im Jahr 2022 ausschließlich online stattfindet, soll es für alle Teilnehmenden die Möglichkeit geben sich bei einer Abendveranstaltung zu treffen. </p>
 
 	<p>Schauen Sie gerne am 09. März von 20 -23 Uhr bei der Abendveranstaltung "Netzwerkweltdialoge" rein, vielleicht treffen Sie dort auch andere Teilnehmende.</p>
-
-	<h3>Geochicas laden ein</h3>
-	<p>Am Dienstag, dem 8. März 2022, von 18-20 Uhr treffen sich die Geochicas im der
-Netzwerkwelt. Es kann kein Zufall sein, dass das Treffen am 8. März stattfindet und so auf den <a href="https://de.wikipedia.org/wiki/Internationaler_Frauentag">Internationalen Frauentag</a> fällt.<br>
-Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).</p>
 
 	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
 	<p>Am <a href="https://pretalx.com/fossgis2022/talk/8CFXUG/">Mittwoch</a> gibt es im Anschluss an das reguläre Konferenzprogramm um 18 Uhr ein humorvolles Quiz in Form des FOSSGIS-Jeopardy. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer folgen.
