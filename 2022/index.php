@@ -149,7 +149,7 @@
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="https://www.sourcepole.ch/" target="_blank">
+						<a href="sponsor/412_sourcepole.php" target="_blank">
 						<img src="./img/s/412_sourcepole.png" alt="sourcepole">
 						</a>
 					</li>
