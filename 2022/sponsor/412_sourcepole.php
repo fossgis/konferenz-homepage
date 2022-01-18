@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Sourcepole AG</h3>
 
-					<p>Text folgt.
+					<p>Sourcepole entwickelt kundenspezifische Lösungen im Bereich Geoinformatik auf der Basis von Open Source Software Komponenten. Wir erweitern und integrieren Open Source Software nach den Bedürfnissen unserer Kunden. Als offizielle Entwickler in mehreren OSGeo-Projekten können wir auch direkt in den Original-Code eingreifen und so die Kundenwünsche erfüllen.
 					</p>
 				</div>
 				<div class="col-lg-3">
