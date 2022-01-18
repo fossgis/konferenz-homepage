@@ -148,6 +148,11 @@
 						<img src="./img/s/411_nti_cwsm.png" alt="NTI CWSM GmbH">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://www.sourcepole.ch/" target="_blank">
+						<img src="./img/s/412_sourcepole.png" alt="sourcepole">
+						</a>
+					</li>
 					
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
