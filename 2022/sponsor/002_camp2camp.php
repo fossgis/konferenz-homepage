@@ -24,7 +24,7 @@
 		<div class="container">
 			
 			<img src="./img/s/002_camptocamp_logo.png" 
-				class="sponsor-logo" 
+				class="sp-logo" 
 				alt="Firmenlogo">
 			
 			<div class="row">

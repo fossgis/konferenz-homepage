@@ -24,7 +24,7 @@
 		<div class="container">
 			
 			<img src="./img/s/411_nti_cwsm.png" 
-				class="sponsor-logo" 
+				class="sp-logo" 
 				alt="NTI CWSM GmbH">
 			
 			<div class="row">

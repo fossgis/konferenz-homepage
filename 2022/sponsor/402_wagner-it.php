@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-				<img src="./img/s/402_Wagner-IT.png" class="sponsor-logo"  alt="Wagner-IT">
+				<img src="./img/s/402_Wagner-IT.png" class="sp-logo"  alt="Wagner-IT">
 						
 			
 			<div class="row">

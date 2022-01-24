@@ -24,7 +24,7 @@
 		<div class="container">
 			
 			<img src="./img/s/409_Geoinfo_Logo.png" 
-				class="sponsor-logo" 
+				class="sp-logo" 
 				alt="Firmenlogo">
 			
 			<div class="row">

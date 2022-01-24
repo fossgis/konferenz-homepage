@@ -25,7 +25,7 @@
 
 				<div class="col-lg-3">
 					<div class="icon mt-3">
-						<img src="./img/s/001_WhereGroup-zentriert.jpg"  class="sponsor-logo" title="wheregroup" alt="wheregroup">
+						<img src="./img/s/001_WhereGroup-zentriert.jpg"  class="sp-logo" title="wheregroup" alt="wheregroup">
 					</div></div>
 			
 			<div class="row">

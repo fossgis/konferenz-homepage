@@ -24,7 +24,7 @@
 		<div class="container">
 			
 			<img src="./img/s/201_terrestris.png" 
-				class="sponsor-logo" 
+				class="sp-logo" 
 				alt="Firmenlogo">
 			
 			<div class="row">

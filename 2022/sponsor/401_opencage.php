@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/401_opencage-logo.png" class="sponsor-logo" alt="OpenCageData">
+			<img src="./img/s/401_opencage-logo.png" class="sp-logo" alt="OpenCageData">
 							
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
