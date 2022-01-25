@@ -72,7 +72,7 @@
 	<h3>Vortragende</h3>
 	<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2022/speaker/">https://pretalx.com/fossgis2022/speaker/</a></p>
 
-	<h3>vorläufige Programmversion FOSSGIS 2022</h3>
+	<h3>Programm FOSSGIS 2022</h3>
 	<pretalx-schedule event-url="https://pretalx.com/fossgis2022/" locale="de-formal" format="list" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
 	<noscript>
    	<div class="pretalx-widget">
