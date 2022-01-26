@@ -21,7 +21,7 @@
 	<p><a href="/2022">Zurück zur Startseite</a></p>
 
 	<section class="section">
-		<div class="container"
+		<div class="container">
 
 				<div class="col-lg-3">
 					<div class="icon mt-3">
