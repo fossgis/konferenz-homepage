@@ -67,8 +67,7 @@ Das heißt, dass die FOSSGIS als hybrides Event stattfinden wird. Es wird Konfer
 	</ul>
 </ul>-->
 
-		<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 als Online-Veranstaltung statt. <br></p>
-		<p>Scrollen Sie auf dieser Seite und gelangen zum <a href="https://fossgis-konferenz.de/2022/anmeldung/#Anmeldeformular">Anmeldeformular</a>.</p>
+		<p>Die FOSSGIS-Konferenz findet vom 9. - 12. März 2022 als Online-Veranstaltung statt. Für die Teilnahme benötigen Sie ein Konferenzticket. Scrollen Sie auf dieser Seite und gelangen zum <a href="https://fossgis-konferenz.de/2022/anmeldung/#Anmeldeformular">Anmeldeformular</a>.</p>
 
         <p>Im Folgenden finden Sie Informationen zum Preis, zur Workshopbuchung, zum Bildungsurlaub und wie Sie Helfer:in werden können.</p>
     
@@ -106,13 +105,15 @@ Das Konferenzorganisationsteam bereitet zur Umsetzung der Hygieneregeln ein ents
 
 	<h3 id="Workshop" name="Workshop">Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket buchen.<br>
-Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink. Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Im Ticketshop ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen.</p>
+ Der Workshop ist interaktiv und wird in einer Videokonferenz stattfinden. Sie nehmen mit Ihrem eigenen Gerät am Workshop teil, den Zugang erhalten Sie über Ihren Ticketbuchungslink.
+Im Bestellvorgang ist im jeweiligen Workshop ein Stichwort zur Durchführungsart angegeben, dieses gibt an, welche Vorbereitungen Ihrerseits getroffen werden können, um erfolgreich teilzunehmen.</p>
 		<ul>
 		<li><i><b>Browserbasiert: </b></i> Sie benötigen lediglich einen aktuellen Internet-Browser.</li>
 		<li><i><b>OSGeoLive: </b></i> Im Workshop wird mit der aktuellen OSGeoLive gearbeitet, diese kann als Image von einem USB-Stick oder als Virtuelle Box auf Ihrem Computer laufen. Hier finden Sie eine <a href="http://live.osgeo.org/de/index.html"> Anleitung zur Installation der OSGeoLive.</a></li>
 		<li><i><b>Individuell: </b></i> Sie erhalten in der Woche vor der Konferenz Informationen mit detaillierten Informationen zum Workshop, eventuell mit einem Termin, an dem Sie Ihre Technik checken können.</li>
 		<!--<li><i><b>Präsenz-Workshop: </b></i> findet in einem Workshopraum an der Uni Marburg statt.</li>-->
 		</ul>
+<p>Informationen zu den einzelnen Workshops zu finden Sie auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zum Workshop</a>.
 
 
 	<h3>Bildungsurlaub</h3>
@@ -151,7 +152,15 @@ In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Ka
 		</noscript>
 			
 
-	<h3>Sie haben Fragen oder wollen das Konferenzteam erreichen?</h3>
+	<h3>Sie haben Fragen? Vielleicht finden Sie hier Antworten.</h3>
+
+	<ul>
+	<li> <a href="https://fossgis-konferenz.de/2022/faq.php">FAQ</a></li>
+	<li> <a href="https://pretix.eu/fossgis/2022/page/informationen-fuer-teilnahme/">Informationen zur Teilnahme</a> </li>
+	<li> <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zu den Workshops</a> </li>
+	</ul>
+
+	<h3>Hier erreichen Sie das Konferenzteam</h3>
 
 	<ul>
 	<li>Matrixkanal: <a href="https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org">#FOSSGIS2022:matrix.org </a></li>
@@ -159,6 +168,7 @@ In der <i>Netzwerkwelt</i> können sich die Teilnehmenden in einer virtuellen Ka
 	<li>Anruf: +49 30-62932037</li>
 	<li>Fragen zum Programm an das <a href="mailto:PKO@fossgis.de?subject=Programmkomitee_erreichen">Programmkomitee</a> </li>
 	</ul>
+
 	</p>
 
 

@@ -52,7 +52,8 @@ Nach dem Bildungsurlaub: Sie laden sich Ihre Teilnahmebescheingung, welche wir I
 Nutzen Sie für Ihre Beantragung des Bildungsurlaubes beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.
 
 				<ul>
-					<li>Rheinland-Pfalz - <a href="data/RP_FOSSGIS-2021_AnerkennungsBescheid_76484.pdf">Download Anerkennung</a></li>
+					<li><b>Rheinland-Pfalz</b> - <a href="data/RP_FOSSGIS-2021_AnerkennungsBescheid_76484.pdf">Download Anerkennung</a></li>
+					<li><b>Hessen</b> - Anerkennungsverfahren mit Hessen läuft und ist für 2023 realistisch, solange kann <a href="https://rp-kassel.hessen.de/sites/rp-kassel.hessen.de/files/Bildungsurlaubsgesetz_g%C3%BCltig%20bis%2031-12-22.pdf">§ 11 Abs. 4 HBUG</a> greifen, Hinweise dazu siehe <a href="https://arbeitswelt.hessen.de/bildungsurlaub/infos-fuer-beschaeftigte/keine-anerkennung-aus-hessen-aber-aus-einem-anderen-bundesland/"> "Keine Anerkennung aus Hessen, aber aus einem anderen Bundesland?</a></li>
 	</ul>
 				</p>
 	
