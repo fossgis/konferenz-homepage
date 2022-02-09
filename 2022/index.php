@@ -153,6 +153,11 @@
 						<img src="./img/s/412_sourcepole.png" alt="sourcepole">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/413_meggsimum.php" target="_blank">
+						<img src="./img/s/413_meggsimum-logo.svg" alt="meggsimum">
+						</a>
+					</li>
 					
 				</ul>
 			<h4 class="highlight">Medienpartner</h4>
