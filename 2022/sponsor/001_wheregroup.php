@@ -32,13 +32,22 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>WhereGroup GmbH</h3>
 
-					<p>Die WhereGroup ist ein dynamisches mittelständisches Software-Haus für Geoinformationssysteme. Wir entwickeln Open-Source-Lösungen mit Raumbezug und sind tief in der Open-Source-Community verwurzelt. Zu unseren Kunden gehören Unternehmen aus unterschiedlichsten Bereichen sowie größere Behörden und Kommunen.</p>
-<p>Von der Ist-Analyse über die Planung und Softwareentwicklung bis zum produktiven Betrieb betreuen wir alle Phasen von GIS- und Datenbank-Projekten. Unser Leistungsspektrum umfasst Geoinformationssysteme für große Unternehmen, individuelle WebGis-Lösungen, angepasste OpenStreetMap-Karten, mobile Anwendungen und kommunale Geoportale.</p>
-<p>Das WhereGroup-Team umfasst über 40 Kollegen unterschiedlicher Fachrichtungen verteilt auf die Standorte Bonn (Hauptsitz), Freiburg und Berlin.</p>
-<p>Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V. und bei der OSGeo.
-Unser Schulungsinstitut, die FOSS Academy, bietet außerdem für Einzelpersonen und Unternehmen praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“.</p>
-<p>Mehr zur WhereGroup unter <a href="www.wheregroup.com">www.wheregroup.com</a> und <a href="www.foss-academy.com">www.foss-academy.com</a>.
-					</p>
+					<p>Die WhereGroup ist eines der größten Open-Source-Softwarehäuser der GEO-IT-Branche in Deutschland. Wir managen zahlreiche komplexe GIS-Projekte unterschiedlichster Art. Als mittelständisches Unternehmen mit über 40 Mitarbeiter*innen an vier Standorten arbeiten wir innovativ und haben dennoch die Bodenhaftung nicht verloren.</p>
+
+					<p>Wir bieten Ihnen kompetente Unterstützung in den Bereichen Geographische Informationssysteme (GIS), Web-GIS, Datenbanken, Standards, Interoperabilität und System-Integration. Angefangen bei der Beratung, Konzeption und Entwicklung bis hin zum Betrieb dynamischer Kartenanwendungen im Intra- und Internet.</p>
+
+					<p>Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V., im QGIS-DE e.V. und bei der OSGeo. Wir sind auf vollen Überzeugung auf Open-Source-Entwicklungen spezialisiert und integrieren professionelle freie Software nahtlos in proprietäre Systeme.</p>
+
+					<p>Wir implementieren Lösungen für den Mittelstand, die Industrie und auf allen Ebenen der öffentlichen Verwaltung, beraten und begleiten bei Planung, Migration und Einführung von raumbezogenen Informationssystemen.</p>
+
+					<p>Dabei reicht das Spektrum unserer Projekte von Desktop-Lösungen über Geoportalen und kartenbasierter Datenverwaltung bis hin zu hochverfügbaren Anwendungen für die freie Wirtschaft und die öffentliche Verwaltung.</p>
+
+					<p>Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
+
+					<p>Mehr zur WhereGroup unter <a href="www.wheregroup.com">www.wheregroup.com</a> und <a href="www.foss-academy.com">www.foss-academy.com</a>.</p>
+
+
+
 				</div>
 			<div class="col-lg-3">
 				<div class="mb-4">
