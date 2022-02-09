@@ -53,11 +53,11 @@
 				<div class="mb-4">
 					<h6 class="mb-0">Kontakt<br><br>
 						Webseite:<br>
-						<a href="https://wheregroup.com">wheregroup.com</a><br>
+						<a href="https://wheregroup.com">www.wheregroup.com</a><br>
 						FOSS-Academy<br>
 						<a href="https://www.foss-academy.com">www.foss-academy.com</a><br><br>
 						E-Mail: <br>
-						<a href="mailto:info@wheregroup.de">info-at-wheregroup.de</a><br></h6>
+						<a href="mailto:info@wheregroup.de">info@wheregroup.de</a><br></h6>
 					</div>
 				
 					<div class="social-icon">
