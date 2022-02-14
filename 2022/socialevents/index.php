@@ -28,7 +28,7 @@ Netzwerkwelt. Es kann kein Zufall sein, dass das Treffen am <a href="https://de.
 Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).</p>
 	
 	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
-	<p>Am <a href="https://pretalx.com/fossgis2022/talk/8CFXUG/">Mittwoch</a>, den 9. März gibt es im Anschluss an das reguläre Konferenzprogramm um 18 Uhr ein humorvolles Quiz in Form des FOSSGIS-Jeopardy. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer folgen.
+	<p>Am <a href="https://pretalx.com/fossgis2022/talk/8CFXUG/">Mittwoch</a>, den 9. März gibt es im Anschluss an das reguläre Konferenzprogramm um 18 Uhr ein humorvolles Quiz in Form des FOSSGIS-Jeopardy. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer finden Sie <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2022/">hier in Hannes's Blog</a>.
 
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt. Auch wenn die FOSSGIS im Jahr 2022 ausschließlich online stattfindet, soll es für alle Teilnehmenden die Möglichkeit geben sich bei einer Abendveranstaltung zu treffen. </p>
