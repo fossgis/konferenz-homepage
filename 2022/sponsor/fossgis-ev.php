@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 
-					<img src="./img/FOSSGIS_RGB.png" class="sponsor-logo" alt="FOSSGIS e.V. Logo">
+					<img src="./img/FOSSGIS_RGB.png" width="300px" class="sponsor-logo" alt="FOSSGIS e.V. Logo">
 					
 
 			<div class="row">
