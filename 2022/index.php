@@ -163,6 +163,11 @@
 						<img src="./img/s/414_logo_latlon_web.png" alt="latlon">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/415_geocockpit.php" target="_blank">
+						<img src="./img/s/415_YEY-Maps_Logo.png" alt="GeoCockpit UG">
+						</a>
+					</li>
 
 
 					
