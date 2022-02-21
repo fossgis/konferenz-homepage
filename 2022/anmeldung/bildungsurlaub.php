@@ -25,7 +25,7 @@
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>Was ist Bildungsurlaub?</h3>
+					<h3 id="Bildungsurlaub" name="Bildungsurlaub">Was ist Bildungsurlaub?</h3>
 					<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit.
 Mit dem Bildungsurlaub fördert der Staat die Initiative von Arbeitnehmer:innen zum lebenslangen Lernen.</p>
 					<p>Weiterbildung ist ständig notwendig, da Wissen veraltet oder seine Gültigkeit oder Bedeutsamkeit verlieren kann, neues oder aufbauendes Wissen ist notwendig. Die digitalisierte Arbeitswelt fordert immer wieder neue technische, organisatorische oder kommunikative Kompetenzen.<br>
@@ -47,7 +47,7 @@ Nach dem Bildungsurlaub: Sie laden sich Ihre Teilnahmebescheingung, welche wir I
 <p>Für einige Länder gibt es Vordrucke für die Beantragung, z.B. Baden-Württemberg, NRW. Hierzu informieren Sie sich bitte unter <a href="https://www.bildungsurlaub.de/ ">https://www.bildungsurlaub.de/</a>.</p>
 
 				
-				<h3>Anerkennungen</h3>
+				<h3 id="Anerkennung" name="Anerkennung" >Anerkennungen</h3>
 				<p>Folgende Bundesländer erkennen die FOSSGIS-Konferenz als Bildungsurlaub an.
 Nutzen Sie für Ihre Beantragung des Bildungsurlaubes beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.
 
