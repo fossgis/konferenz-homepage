@@ -127,8 +127,9 @@ In jedem Workshopraum gibt es eine verantwortliche Person.
 			</ul>
 		
 				<li><b>Sessionleitung</b> (freiwillig)<br>
-Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist im Videoraum mit den jeweils Vortragenden.
+Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist im Videoraum mit den jeweils Vortragenden. Darüber hinaus übernimmt die Sessionleitung den technischen Checkin der Vortragenden.
 			<ul><i>Aufgaben:</i>
+				<li>technischer Checkin der Vortragenden (Mikro, Audio, Folien wenn Livevortrag) 30 Minuten vor Trackbeginn</li>
 				<li>Anmoderation des Tracks</li>
 				<li>mitlesen des Online-Chats während des Vortrags</li>
 				<li>relevante Fragen sammeln, dabei eventuell vorhandenes Voting der TN beachten</li>
