@@ -15,39 +15,33 @@
 
 	<?php include "inc/header.inc"; ?>
 
-    <h3>Jobbörse im Rahmen der FOSSGIS-Konferenz 2022</h3>
+    <h3 id="Jobbörse" name="Jobbörse">Jobbörse im Rahmen der FOSSGIS-Konferenz 2022</h3>
 					<p>Die Jobbörse wird im Rahmen der FOSSGIS-Konferenz, die vom 09. - 12. März 2022 stattfindet, erstellt. Es erfolgt keine Fortschreibung</p>
 
 	<ul>
 						<li>
 							<a href="https://jobs.maxime-media.de/wheregroup-gmbh/7372161" rel="noopener" target="_blank">
-						Software-Entwickler*in (m/w/d) in Bonn/Berlin/Freiburg/Einsatzort Hamburg oder Hybrid.
-
-
-							</a>
+						Software-Entwickler*in (m/w/d)</a> in Bonn/Berlin/Freiburg/Einsatzort Hamburg oder Hybrid							
 							<br>(Firma WhereGroup)
 						</li>
 						<br>
 						<li>
 							<a href="https://jobs.maxime-media.de/wheregroup-gmbh/7376027" rel="noopener" target="_blank">
-								GIS-Spezialist*in (m/w/d) in Bonn/Berlin/Freiburg/Einsatzort Hamburg oder Hybrid.
-
-
-							</a>
+								GIS-Spezialist*in (m/w/d)</a> in Bonn/Berlin/Freiburg/Einsatzort Hamburg oder Hybrid
 							<br>(Firma WhereGroup)
 						</li>
 						<br>
 						
 						<li>
-							<a href="" rel="noopener" target="_blank">		Jobbezeichnung + Ort
-							</a>
+							<a href="" rel="noopener" target="_blank">		Jobbezeichnung</a> + Ort
+							
 							<br>Firma
 						</li>
 						<br>
 						
 						<li>
-							<a href="" rel="noopener" target="_blank">		Jobbezeichnung + Ort
-							</a>
+							<a href="" rel="noopener" target="_blank">		Jobbezeichnung</a> + Ort
+							
 							<br>Firma
 						</li>
 						<br>
