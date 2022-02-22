@@ -56,7 +56,7 @@
 
            <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
 
-			<h3>Sponsoren der FOSSGIS-Konferenz</h3>
+			<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
 
 			<h4 class="highlight">Platinsponsoren</h4>
