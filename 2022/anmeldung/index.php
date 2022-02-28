@@ -113,8 +113,12 @@ Im Bestellvorgang ist im jeweiligen Workshop ein Stichwort zur Durchführungsart
 		<li><i><b>Individuell: </b></i> Sie erhalten in der Woche vor der Konferenz Informationen mit detaillierten Informationen zum Workshop, eventuell mit einem Termin, an dem Sie Ihre Technik checken können.</li>
 		<!--<li><i><b>Präsenz-Workshop: </b></i> findet in einem Workshopraum an der Uni Marburg statt.</li>-->
 		</ul>
-<p>Informationen zu den einzelnen Workshops zu finden Sie auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zum Workshop</a>.
-
+<p>Informationen zu den einzelnen Workshops zu finden Sie auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zum Workshop</a>.</p><br><br>
+	
+	
+	<div><img style="float: right; margin-left: 10px;" src="./data/Screenshot_Foto_Spreadshop_quer.png" width="400px" />
+	<h3>Konferenzt-Shirt</h3>
+	Wir haben die Möglichkeit eingerichtet ein <br><a href="https://fossgis.myspreadshop.de/">Konferenz-T-Shirt</a> zu kaufen. Ansicht des T-Shirts:</div> <br><br>
 
 	<h3>Bildungsurlaub</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt. Zunächst für die Bundesländer in Deutschland, wo die Beantragung keine zusätzlichen Kosten verursacht (BE, BB, HB, HH, NI, RP, SL, ST und SH). Weitere werden bei Bedarf beantragt. </p>
