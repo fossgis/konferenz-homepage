@@ -20,10 +20,10 @@
 		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie runter: <a href="https://pretalx.com/fossgis2022/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2022/schedule/</a>.</p>
 
 
-	<!--	
+		
 
 	<h3>Tagungsband</h3>
-	<p>Der Tagungsband zur Konferenz steht <a href="data/FOSSGIS_Tagungsband_2022.pdf">als PDF zum Download </a> zur Verfügung.
+	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2022_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
 	<!-- <h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2022/"> https://streaming.media.ccc.de/fossgis2022/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>
@@ -52,23 +52,7 @@
 					</a>
                  </p>-->
 
-
-
-	<h3>Community Voting</h3>
-	<!--<p>Bis zum 2.12.2021 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
-	<p><b>Vorgehensweise:</b></p>
-	<ul>
-		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2022/p/voting/signup/"> https://pretalx.com/fossgis2022/p/voting/signup/</a></li>
-		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
-		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
-	</ul>
-
-
-	<h3>Community Voting</h3>-->
-		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 195 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
-
-		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
-
+	
 	<h3>Vortragende</h3>
 	<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2022/speaker/">https://pretalx.com/fossgis2022/speaker/</a></p>
 
@@ -82,6 +66,19 @@
         </div>
     </div>
 	</noscript>
+<h3>Community Voting</h3>
+		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 195 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
+
+		<p>Hier ist der <a href="https://fossgis-konferenz.de/2022/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
+
+	<!--<h3>Community Voting</h3>
+	<p>Bis zum 2.12.2021 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
+	<p><b>Vorgehensweise:</b></p>
+	<ul>
+		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2022/p/voting/signup/"> https://pretalx.com/fossgis2022/p/voting/signup/</a></li>
+		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
+		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
+	</ul>-->
 
 		
 	<?php include "../inc/footer.inc"; ?>
