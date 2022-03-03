@@ -40,11 +40,15 @@
 				Vortragende und Workshopleitende bekommen einen Gutschein-/Vouchercode, mit dem ein kostenfreies Ticket gebucht werden kann.</li>
 			<li><b>Ich arbeite für eine Forschungseinrichtung. Gibt es einen Rabatt?</b><br>
 				Nein. Es gibt Konfernztickets zum reduzierten Preis für u.a. Studierende, Rentner:innen, Freiwilligendienstleistende ... sowie kostenlose Tickets für Vortragende, Workshopleitende, Helfende und Aktive im OpenStreetMap-Projekt und Open-Source-GIS-Projekte.</li>
+			<li><b>Ich brauche eine ordentliche Rechnung</b><br>
+				Sie erhalten eine Rechnung mit Abschluss Ihrer Buchung, diese steht in der Bestellung zum Download bereit</li>
+			<li><b>Welche Zahlungsmöglichkeiten gibt es?</b><br>
+				Zahlung per Überweisung sowie Zahlung per Paypal.</li>
 
 			<li><b>Ich bestelle aus der EU, möchte meine USt-ID angeben und eine Rechnung mit 0% Umsatzsteuer bekommen. </b><br>
 				Wir wenden Reverse Charge an. Bitte wählen Sie im Bestellprozess das entsprechende EU-Land aus und geben Ihre Umsatzsteuer-Identifikationsnummer (USt-ID-Nr.) an.</li>
 			<li><b>Ich möchte meine Rechnungsadresse ändern.</b><br>
-				Ändern Sie Ihre Rechnungsadresse bitte im Webinterface Ihrer Bestellung (unter "Ihre Informationen" "Details bearbeiten" und geben uns einen Hinweis <a href="mailto:konferenz-orga@fossgis.de?subject=Rechnung_neu_generieren">per E-Mail</a>, damit wir die Rechnung neu generieren.</li>
+				Ändern Sie Ihre Rechnungsadresse bitte im Webinterface Ihrer Bestellung (unter "Ihre Informationen" "Details bearbeiten") und geben uns einen Hinweis <a href="mailto:konferenz-orga@fossgis.de?subject=Rechnung_neu_generieren">per E-Mail</a>, damit wir die Rechnung neu generieren.</li>
 			<li><b>Ich möchte meine Bestellung ändern.</b><br>
 				Bitte per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Bestellung_aendern">konferenz-orga@fossgis.de</a> mit Ihren Angaben, was geändert werden soll.</li>
 
@@ -58,7 +62,7 @@
 				Wenn die Veranstaltung ausverkauft ist, können Sie sich auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind, und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
 
 			<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
-				Auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-fuer-teilnahme/">"Informationen für Teilnehmende"</a> werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>
+				Auf der Seite <a href="https://pretix.eu/fossgis/2022/page/neu-informationen-fr-teilnahme-an-fossgis-konferenz-2022/">"Informationen für Teilnehmende"</a> werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>
 		</ul>
 
 	<h3>Workshops</h3>
@@ -79,9 +83,9 @@
 				Ja. Die Veranstaltung findet online statt.
 <!--... die Räume sollten barrierefrei erreichbar sein. Lediglich die Workshopräume im Fachbereich Geographie sind nicht barrierefrei zugänglich, bitte kontaktieren Sie bei Bedarf vorab das Konferenzteam. --></li>
 			<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
-				Kurz vor Beginn der Konferenz wird der Zugang zur Online-Plattform in Ihrem Buchungslink auftauchen. Dieser wird Ihnen mit der Bestellbestätigung zugesendet. Den Buchungslink finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
+				Kurz vor Beginn der Konferenz, voraussichtlich am 07.03.2022 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 			<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
-				Wir nutzen die Onlineplattform Venueless sowie eine Workadventure-Anwendung, dafür ist jeweils ein aktueller Browser notwendig. Die Vorträge werden über Venueless gestreamt. Die Workshops finden als Videokonferenz in BigBlueButton-Räumen statt. Die Workadventue-Anwendung (Netzwerkwelt) nutzt für die Videochats Jitsi-Meet.</li>
+				Wir nutzen die Online-Plattform Venueless sowie eine Workadventure-Anwendung, dafür ist jeweils ein aktueller Browser notwendig. Die Vorträge werden über Venueless gestreamt. Die Workshops finden als Videokonferenz in BigBlueButton-Räumen statt. Die Workadventue-Anwendung (Netzwerkwelt) nutzt für die Videochats Jitsi-Meet.</li>
 			<li><b>Brauche ich besondere Technik, um an der Online-FOSSGIS teilnehmen zu können?</b><br>
 				Nein. Sie brauchen einen aktuellen Browser sowie Zugang zum Internet. Die Vorträge werden als Livestream gesendet. Für Diskussionen und Netzwerken benötigen Sie ein Mikrofon und gegebenenfalls eine Kamera. Testen Sie die Onlineplattform gerne mit dieser <a href="https://demo-de.venueless.events/rooms/547982e8-daae-4050-ada5-4dda9aa44d70">Demoanwendung</a>.</li>
 			
