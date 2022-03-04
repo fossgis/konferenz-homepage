@@ -169,7 +169,7 @@
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="http://www.datenbankgesellschaft.de/" target="_blank">
+						<a href="sponsor/416_DBG.php" target="_blank">
 						<img src="./img/s/416_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
 						</a>
 					</li>
@@ -194,11 +194,11 @@
 						<img src="./img/s/503_TIB.PNG" alt="TIB">
 						</a>
 					</li>
-					<li class="tile media">
+					<!--<li class="tile media">
 						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
 						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
 						</a>
-					</li>
+					</li>-->
 					<li class="tile media">
 						<a href="https://www.oreilly.de/" target="_blank">
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">

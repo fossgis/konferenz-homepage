@@ -47,7 +47,7 @@
 
 						
 				
-					<div class="social-icon">
+					<!--<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
@@ -60,7 +60,7 @@
 								<a href="https://github.com/"><i class="fab fa-github"></i></a>
 							</li>
 						</ul>
-					</div>
+					</div>-->
 				</div>	
 
 			</div>
