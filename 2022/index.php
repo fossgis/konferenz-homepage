@@ -168,6 +168,11 @@
 						<img src="./img/s/415_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="http://www.datenbankgesellschaft.de/" target="_blank">
+						<img src="./img/s/416_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
+						</a>
+					</li>
 
 
 					
