@@ -37,6 +37,17 @@ Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frau
 
 	<h5>Freiberufler-Stammtisch</h5>
 	<p>Beispielsweise treffen sich um 20 Uhr freiberuflich Arbeitende. Schauen Sie vorbei, falls auch Sie freiberuflich arbeiten und sich vernetzen wollen.</p>
+	
+	<h5>Live-Musik-Lounge</h5>
+
+	<div style="float: rigth;">
+	<p>Für Musikbegeisterte gibt es am Mittwoch Abend, den 09.03. ab 20 Uhr eine Live-Musik-Lounge. Freuen Sie sich auf einen bunt gemischten Abend mit David Brooke (Gesang, Klavier und Produktion) und Johannes Menzel (Saxofon), die sich fröhlich durch die Genres musizieren. Über Tango, Soul und Pop wird auch die ein oder andere Eigenkomposition zu hören sein. Abgerundet wird die Performance durch produzierte Chorvideos.<img src="./socialevents/img/DavidBrooke.jpg" width="200" alt="David Brooke"  style="margin-rigth: 170px" align="rigth" /> </p>
+
+
+
+
+
+
 
 	<!-- <p>Live-Acts oder musikalische Beiträge sind im Partyraum der Netzwerkwelt möglich. Wer etwas beitragen möchte, meldet sich beim <a href="mailto:konferenz-orga@fossgis.de"> Konferenzorgateam</a>.</p>
 		
@@ -44,10 +55,7 @@ Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frau
 	<p>Am Dienstagabend wird ein Diskussionspanel stattfinden. Das Thema wird im Programm bekannt gegeben</p>-->
 
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
-	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und überlegen uns noch etwas Schönes dazu. 
-<!--laden ein am Donnerstag, den 10. März um 15.30 Uhr beim Gruppenfoto in der Netzwerkwelt auf dem Kompass dabei zu sein. </p>
-	
-	<p><img src="./socialevents/img/Fotowiese_Netzwerkwelt.png" class="img-fluid" alt="Fotowiese Netzwerkwelt">-->
+	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden Sie ein am Donnerstag, den 10. März um 15.30 Uhr beim Gruppenfoto in der Netzwerkwelt auf dem Kompass dabei zu sein. <img src="./socialevents/img/Fototermin_Kompass.png" width="200px" alt="Fototermin Netzwerkwelt" style="margin-rigth: 170px" align="rigth">
 	</p>
 	
 	<h4 id="Anwendertreffen" name="Anwendertreffen">Anwendertreffen</h4>
