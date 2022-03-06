@@ -38,7 +38,7 @@ Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frau
 	<h5>Freiberufler-Stammtisch</h5>
 	<p>Beispielsweise treffen sich um 20 Uhr freiberuflich Arbeitende. Schauen Sie vorbei, falls auch Sie freiberuflich arbeiten und sich vernetzen wollen.</p>
 	
-	<h5>Live-Musik-Lounge</h5>
+	<h5 ID="Live-Musik" name="Live-Musik">Live-Musik-Lounge</h5>
 
 	<div style="float: rigth;">
 	<p>Für Musikbegeisterte gibt es am Mittwoch Abend, den 09.03. ab 20 Uhr eine Live-Musik-Lounge. Freuen Sie sich auf einen bunt gemischten Abend mit David Brooke (Gesang, Klavier und Produktion) und Johannes Menzel (Saxofon), die sich fröhlich durch die Genres musizieren. Über Tango, Soul und Pop wird auch die ein oder andere Eigenkomposition zu hören sein. Abgerundet wird die Performance durch produzierte Chorvideos.<img src="./socialevents/img/DavidBrooke.jpg" width="200" alt="David Brooke"  style="margin-rigth: 250px" align="rigth" /> </p>
