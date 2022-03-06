@@ -24,7 +24,7 @@
 		<div class="container">
 			
 			<img src="./img/s/413_meggsimum-logo.svg" 
-				class="sponsor-logo" 
+				class="sp-logo" 
 				alt="Firmenlogo">
 			
 			<div class="row">

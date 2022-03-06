@@ -23,7 +23,9 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/403_GBD.png" alt="Geoinformatikbüro Dassau">
+			<img src="./img/s/403_GBD.png" 
+				class="sp-logo" 
+				alt="Geoinformatikbüro Dassau">
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">

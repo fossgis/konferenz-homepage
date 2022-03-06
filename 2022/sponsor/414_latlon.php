@@ -24,7 +24,7 @@
 		<div class="container">
 			
 			<img src="./img/s/414_logo_latlon_web.png" width="250px" 
-				class="sponsor-logo" 
+				class="sp-logo" 
 				alt="Firmenlogo">
 			
 			<div class="row">
