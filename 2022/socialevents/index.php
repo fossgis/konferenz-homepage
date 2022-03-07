@@ -20,7 +20,7 @@
 
 	<h4 id="Inoffizieller Start" name="Inoffizieller Start">Inoffizieller Start</h4>
 
-	<p>Am Abend des 8. März laden wir Sie ein zum virtuellen "Warmup in der Netzwerkwelt". Nutzen Sie die Möglichkeit sich in der Onlineplattform umzuschauen und in der Netzwerkwelt andere Teilnehmende zu treffen. Bei Fragen finden Sie Hilfe am InfoDesk (Personen mit rotem Hut sind Helfer der FOSSGIS-Konferenz). Der Zugang zur Online-Plattform wird ab 7. März 2022 in Ihrem Ticketbestelllink zur Verfügung gestellt. </p>
+	<p>Am Abend des 8. März laden wir Sie ein zum virtuellen "Warmup in der Netzwerkwelt". Nutzen Sie die Möglichkeit sich in der Onlineplattform umzuschauen und in der Netzwerkwelt andere Teilnehmende zu treffen. Bei Fragen finden Sie Hilfe am InfoDesk (Personen mit rotem Hut sind Helfer der FOSSGIS-Konferenz). Der Zugang zur Online-Plattform ist in Ihrem Ticketbestelllink zur Verfügung gestellt. </p>
 
 	<h5>Geochicas laden ein</h5>
 	<p>Am Dienstag, dem 8. März 2022, von 18-20 Uhr treffen sich die Geochicas in der
