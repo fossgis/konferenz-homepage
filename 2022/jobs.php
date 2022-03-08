@@ -55,6 +55,13 @@
 		</ul>
 
 
+	<h4>52°North Spatial Information Research GmbH</h4>	
+		<ul>
+			<li>
+			<a href="https://52north.org/about-us/career-opportunities/research-software-engineer/" rel="noopener" target="_blank">Research Software Engineer(s)</a> in Münster
+			</li>
+			
+		</ul>
 <!--	<h4>Firma</h4>	
 		<ul>
 			<li>
