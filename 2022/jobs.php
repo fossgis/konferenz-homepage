@@ -104,6 +104,14 @@
 			<li>
 			<a href="https://calimoto.com/de/karriere/android-entwickler" rel="noopener" target="_blank"> Android / Kotlin-Java-Entwickler/-in in Vollzeit (m/w/d)</a>
 			</li>
+			<li>
+			<a href="https://calimoto.com/de/karriere/ios-entwickler-vollzeit" rel="noopener" target="_blank"> iOS-Entwickler/-in in Vollzeit (m/w/d)</a>
+			</li>
+			<li>
+			<a href="https://calimoto.com/de/karriere/backend-entwickler" rel="noopener" target="_blank"> Backend Entwickler/-in in Vollzeit (m/w/d)
+
+</a>
+			</li>
 
 		</ul>
 
