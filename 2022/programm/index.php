@@ -25,10 +25,10 @@
 	<h3>Tagungsband</h3>
 	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2022_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
-	<!-- <h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
+	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2022/"> https://streaming.media.ccc.de/fossgis2022/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>
 
-	<h3>Vortragsaufzeichnungen</h3>
+	<!--<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
 			<li> <a href="https://media.ccc.de/c/fossgis2022" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2022</a></p> 
