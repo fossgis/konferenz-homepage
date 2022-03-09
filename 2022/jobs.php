@@ -62,6 +62,51 @@
 			</li>
 			
 		</ul>
+	<h4>terrestris GmbH & Co. KG</h4>	
+		<ul>
+			<li>
+			<a href="https://www.terrestris.de/de/initiativbewerbung/" rel="noopener" target="_blank">		Initiative zeigen</a> - maßgeschneiderter Arbeitsplatz für Dein Skillset / Praktikum / betreute Abschlussarbeit
+			</li>
+		</ul>
+	<h4>mundialis GmbH & Co. KG</h4>	
+		<ul>
+			<li>
+			<a href="https://www.mundialis.de/de/karriere/" rel="noopener" target="_blank">	Nicht von der Stange </a> - Deine Fähigkeiten bei uns im einbringen: Anstellung / Praktikum / betreute Abschlussarbeit
+			</li>
+		</ul>
+
+		<h4>Camptocamp</h4>	
+		<ul>
+			<li>
+			<a href="https://www.camptocamp.com/de/offene-positionen/gis-developer" rel="noopener" target="_blank"> GIS Developer (m/w/d)</a>
+			</li>
+		</ul>
+
+		<h4>ABO Wind AG </h4>	
+		<ul>
+			<li>
+			<a href="https://abowind.pi-asp.de/bewerber-web/?xsrf=&company=01-FIRMA-ID&tenant=#position,id=12417235-9dae-443d-a318-99658f4a1a12,popup=y" rel="noopener" target="_blank">		GIS-Anwendungsentwickler (m/w/d)</a> - Wiesbaden
+			</li>
+			<li>
+			<a href="https://abowind.pi-asp.de/bewerber-web/?xsrf=&company=01-FIRMA-ID&tenant=#position,id=382dfea2-e735-4a1c-80ac-88bfc8c9f1f4,popup=y" rel="noopener" target="_blank"> Praktikant / Werkstudent (m/w/d) GIS und Geodatenmanagement</a> - Wiesbaden
+			</li>
+		</ul>
+
+	<h4>Kompetenzzentrum der Stadtverwaltung Minden für Geoinformation</h4>	
+		<ul>
+			<li>
+			<a href="https://interamt.de/koop/app/stelle?0&id=769432" rel="noopener" target="_blank">		Geodatenmanager*in / GIS-Fachkraft</a> - Minden
+			</li>
+		</ul>
+
+	<h4>calimoto GmbH</h4>	
+		<ul>
+			<li>
+			<a href="https://calimoto.com/de/karriere/android-entwickler" rel="noopener" target="_blank"> Android / Kotlin-Java-Entwickler/-in in Vollzeit (m/w/d)</a>
+			</li>
+
+		</ul>
+
 <!--	<h4>Firma</h4>	
 		<ul>
 			<li>
