@@ -92,7 +92,7 @@
 			</li>
 		</ul>
 
-	<h4>Kompetenzzentrum der Stadtverwaltung Minden für Geoinformation</h4>	
+	<h4>Stadtverwaltung Minden [Bereich Vermessung und Geoservice]</h4>	
 		<ul>
 			<li>
 			<a href="https://interamt.de/koop/app/stelle?0&id=769432" rel="noopener" target="_blank">		Geodatenmanager*in / GIS-Fachkraft</a> - Minden
