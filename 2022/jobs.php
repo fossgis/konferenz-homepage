@@ -127,10 +127,29 @@
 		</li>
 	</ul>	
 
-<h4>DRIFT+NOISE</h4>	
+		<h4>DRIFT+NOISE</h4>	
 		<ul>
 			<li>
 			<a href="https://driftnoise.com/careers.html" rel="noopener" target="_blank">		Software Engineer (m/w/d)</a>
+			</li>
+		</ul>
+
+		<h4>MRK Media AG</h4>	
+		<ul>
+			<li>
+			<a href="https://www.mrk-media.de/de/karriere-kategorie/praktikum-werkstudententaetigkeit.html " rel="noopener" target="_blank"> Praktikant / Werkstudent (m/w/d) für Geodatenverarbeitung oder Planung</a>
+			</li>
+			<li>
+			<a href="https://www.mrk-media.de/de/karriere-kategorie/entwicklung.html" rel="noopener" target="_blank"> Softwareentwickler für GIS-Entwicklung (m/w/d)</a>
+			</li>
+			<li>
+			<a href="https://www.mrk-media.de/de/karriere-kategorie/entwicklung.html" rel="noopener" target="_blank"> Fachinformatiker für Geodatenverarbeitung (m/w/d)</a>
+			</li>
+			<li>
+			<a href="https://www.mrk-media.de/de/karriere-kategorie/planung-beratung.html" rel="noopener" target="_blank"> Planer/Projektierer (m/w/d) Netzausbau (m/w/d)</a>
+			</li>
+			<li>
+			<a href="https://www.mrk-media.de/de/karriere-kategorie/planung-beratung.html" rel="noopener" target="_blank"> Projektleiter Telekommunikations- & Infrastrukturplanung (m/w/d)</a>
 			</li>
 		</ul>
 
