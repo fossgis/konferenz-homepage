@@ -172,6 +172,20 @@
 			</li>
 		</ul>
 
+		<h4>FOSSGIS e.V.</h4>	
+		<ul>
+			<li><b>Vorstandsmitglied (m/w/d) remote</b> <br>Begeistert von der FOSSGIS-Konferenz? Du möchtes zu einem dynamischen Team
+gehören, dass Open Source und Open Data voran bringt? Bewirb Dich bei der
+FOSSGIS für das Amt des Vorstandes! Aus den Bewerbern wählen die Mitglieder ein
+starkes Team von vier Teilnehmern aus, die die Zukunft unserer Zunft
+mitgestalten (und die Abrechnung machen müssen). Wir bieten unsachgerechte
+Bezahlung (nämlich keine) und tolle Sonderleistungen (zum Beispiel darf man
+Jobpostings für die Nachfolgersuche schreiben).<br>Bewerbungen bis Ende März an
+vorstand@fossgis.de oder direkt bei der Mitgliederversammlung.
+			</li>
+		</ul>
+
+
 <!--	<h4>Firma</h4>	
 		<ul>
 			<li>
