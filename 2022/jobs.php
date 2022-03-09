@@ -115,6 +115,19 @@
 
 		</ul>
 
+	<h4>Thünen-Institut</h4>	
+	<ul>
+		<li><a href="https://www.thuenen.de/de/infothek/stellenangebote/?&id=253&L=0&job_id=4764&p=1" rel="noopener" target="_blank">
+				Geoinformatiker:in mit Interesse an Forschung gesucht
+			</a>
+		</li>
+		<li><a href="https://www.thuenen.de/de/infothek/stellenangebote/?&id=253&L=0&job_id=4758&p=1" rel="noopener" target="_blank">
+				Umweltinformatiker:in für ein Forschungsprojekt zur Optimierung von landwirtschaftlicher Bewässerung gesucht
+			</a>
+		</li>
+	</ul>	
+
+
 <!--	<h4>Firma</h4>	
 		<ul>
 			<li>
