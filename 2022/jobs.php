@@ -152,7 +152,25 @@
 			<a href="https://www.mrk-media.de/de/karriere-kategorie/planung-beratung.html" rel="noopener" target="_blank"> Projektleiter Telekommunikations- & Infrastrukturplanung (m/w/d)</a>
 			</li>
 		</ul>
+	<h4>regioDATA GmbH</h4>	
+		<ul>
+			<li>
+			<a href="https://recruitingapp-5033.de.umantis.com/Vacancies/2012/Description/31" rel="noopener" target="_blank"> Softwareentwickler</a> (Freiburg/remote)
+			</li>
+			<li>
+			<a href="https://recruitingapp-5033.de.umantis.com/Vacancies/2183/Description/31" rel="noopener" target="_blank"> Teamleiter Entwicklung </a> Freiburg
+			</li>
+		</ul>
 
+	<h4>Bundesamt für Kartographie und Geodäsie (BKG)</h4>	
+		<ul>
+			<li>
+			<a href="https://www.bkg.bund.de/SharedDocs/Stellenangebote/BKG/DE/220320-GD4_042022-EG11.html" rel="noopener" target="_blank"> Agil im Amt: Softwareentwickler (m/w/d); unbefristet</a>
+			</li>
+			<li>
+			<a href="https://www.bkg.bund.de/SharedDocs/Stellenangebote/BKG/DE/220320-GD4_052022-EG11.html" rel="noopener" target="_blank"> 2 Experten (m/w/d) auf dem Gebiet der Geoinformatik</a>
+			</li>
+		</ul>
 
 <!--	<h4>Firma</h4>	
 		<ul>
