@@ -190,6 +190,15 @@ vorstand@fossgis.de oder direkt bei der Mitgliederversammlung.
 			<a href="https://www.grit.de/karriere/260-stellenangebote-bei-der-grit.html" rel="noopener" target="_blank">Anwendungsentwickler mit Schwerpunkt Web-Entwicklung (m/w/d)</a>
 			</li>
 		</ul>
+		<h4>Stadt Herne</h4>	
+		<ul>
+			<li>
+			<a href="https://connect.guidecom.de/jobportal/stadtwerke-herne/viewAusschreibung/2022-007.html" rel="noopener" target="_blank"> Anwendungsentwickler / DataScientist</a>
+			</li>
+			<li>
+			<a href="https://connect.guidecom.de/jobportal/stadtwerke-herne/viewAusschreibung/2022-006.html" rel="noopener" target="_blank"> CTO</a>
+			</li>
+		</ul>
 
 <!--	<h4>Firma</h4>	
 		<ul>
