@@ -32,6 +32,45 @@ Ohne die Unterstützung durch zahlreiche Mitorganisierende vor der Veranstaltung
 	
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>
 
+	<h3>Wo kannst Du bei der Konferenzorganisation unterstützen?</h3>
+	<ul>
+		<li><b>Programmkomitee</b><br>
+Call for Participation formulieren, Einreichungen reviewen, Programm gestalten, bei Umsetzung des Programms unterstützen.<br>
+2022: das Programmkomitee hat sich konstituiert, siehe Wikiseite <a href="https://www.fossgis.de/wiki/Konferenz_2022/Organisationsteam#Programmkomitee"> Programmkomitee</a></li>
+		<li><b>Presse- und Öffentlichkeitsarbeit</b><br>
+Pressetexte schreiben, Konferenz bekannter machen, raus aus der Blase, neue Menschen erreichen. Teilnehmende informieren.</li>
+		<li><b>Helfer:innenkoordination</b><br>
+Engelsystem, Überblick, Helfer:innen anwerben, Jobbeschreibungen, Job-Schichten koordinieren - genau das hier ^ gut zu organisieren ;-)</li>
+		<li><b>Technische Umsetzung</b><br>
+Unterstützung der technischen Umsetzung der Konferenz in Zusammenarbeit mit dem VOC, u.a. vorab aufgezeichnete Vorträge einsammeln und zur Verfügung stellen, Mails aus Pretalx versenden.</li>
+		<li><b>Workshoporganisation</b><br>
+Online oder Vor-Ort-Workshop, was braucht es für die gute Umsetzung, Kommunikation mit Workshopleiter:innen, Information der TN.</li>
+		<li><b>OSM-Event</b><br>
+Das OSM-Event organisieren (Unconference, Mappingevent...) und moderieren.</li>
+		<li><b>Programmheft</b><br>
+Programm als gedruckte Ausgabe im Format A6 für die TN.</li>
+		<li><b>Teilnehmer:innenbetreuung/ Welcome Desk</b><br>
+Im Arbeitspaket Teilnehmer:innenbetreuung stecken mehrere Aufgaben.
+Die Informationen zur Konferenz im Vorfeld so aufbereiten, dass es für die TN übersichtlich und nachvollziehbar ist (Website, TN-Mail).
+Welcome Desk organisieren ist in erster Linie eine Aufgabe des Lokal Teams.
+Einen Code of Conduct zu formulieren, steht schon lange auf der Agenda (Beispiel: https://2021.foss4g.org/about/coc.html).</li>
+		<li><b>Statistik und Teilnehmer:innenbefragung</b><br>
+Onlinebefragung + Auswertung, Befragung zu den Workshops auf den Weg bringen.</li>
+		<li><b>Hygienekonzept</b><br>
+Umsetzungskonzept für die Veranstaltung vor Ort sowie Informationen an Teilnehmende im Vorfeld der Konferenz (Website, TN-Mail).</li>
+		<li><b>Bildungsurlaub</b><br>
+Die Konferenz als Bildungsurlaub zu bewerben, kann es für viele Arbeitnehmer:innen attraktiver machen. In 2021 gab es drei positive Bescheide (BER, BB, RP, Zusage von RP gilt zwei Jahre). Es muss für alle Bundesländer ein Antrag gestellt werden. Im ersten Schritt die kostenfreien, bei entsprechendem Bedarf können auch die kostenpflichtigen beantragt werden.
+TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen möchten, es wird nach Bundesland gefragt. Am Ende muss es gegenüber dem genehmigenden Bundesland abgerechnet werden.</li>
+	</ul>
+	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>
+
+
+
+	<p>Es gibt verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfer.fossgis.de/">Helfersystem</a>-->Helfersystem gemanagt. Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p>
+
+	<!--
+
+
 <h3>Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
 	<p>Es gibt zwei Helfer:innenarten.</p>
 	
@@ -40,10 +79,7 @@ Ohne die Unterstützung durch zahlreiche Mitorganisierende vor der Veranstaltung
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlte Helfer </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
 Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget zur Aufwandsentschädigung bereit.</li>
-	</ul>
-	<p>Es gibt folgende Helfder:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <a href="https://helfer.fossgis.de/">Helfersystem</a> gebucht.</p>
-
-	<!--<h4>Helfen vor Ort</h4>
+	</ul><h4>Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
 Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist vor Ort und moderiert aus dem Hörsaal.
@@ -108,7 +144,7 @@ In jedem Workshopraum gibt es eine verantwortliche Person.
 				<li>Feedbackbögen einsammeln</li>
 				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>
-	</ul>-->
+	</ul>
 
 	<h4>Helfen die Konferenz Online umzusetzen</h4>
 	<ul>
@@ -147,7 +183,7 @@ Schnittstelle zw. OBS-Regie, Sessionleitung und Vortragenden für Umsetzung des 
 				<li>Mikrophonetest</li>
 				<li>Videoqualität</li>
 				<li>Bildschirm teilen Foliencheck</li>
-			</ul>-->
+			</ul>
 	
 			<li><b>OBS-Regie </b><br>
 Die Regie arbeitet mit Open Broadcast Studio Software (OBS) und mixt den Livestream. Es gibt pro Bühne eine Regie. Die Vortragenden kommen in einen Jitsiraum, für den Beitrag betreten Sie einen Breakout Raum, von dort wird gestreamt.</li>
@@ -175,40 +211,10 @@ Die Online Teilnehmenden brauchen Informationen oder Hilfestellung? Helfer:innen
 			</ul>	
 
 
-	</ul>
+	</ul>-->
 
 
-	<h3>Wo kannst Du bei der Konferenzorganisation unterstützen?</h3>
-	<ul>
-		<li><b>Programmkomitee</b><br>
-Call for Participation formulieren, Einreichungen reviewen, Programm gestalten, bei Umsetzung des Programms unterstützen.<br>
-2022: das Programmkomitee hat sich konstituiert, siehe Wikiseite <a href="https://www.fossgis.de/wiki/Konferenz_2022/Organisationsteam#Programmkomitee"> Programmkomitee</a></li>
-		<li><b>Presse- und Öffentlichkeitsarbeit</b><br>
-Pressetexte schreiben, Konferenz bekannter machen, raus aus der Blase, neue Menschen erreichen. Teilnehmende informieren.</li>
-		<li><b>Helfer:innenkoordination</b><br>
-Engelsystem, Überblick, Helfer:innen anwerben, Jobbeschreibungen, Job-Schichten koordinieren - genau das hier ^ gut zu organisieren ;-)</li>
-		<li><b>Technische Umsetzung</b><br>
-Unterstützung der technischen Umsetzung der Konferenz in Zusammenarbeit mit dem VOC, u.a. vorab aufgezeichnete Vorträge einsammeln und zur Verfügung stellen, Mails aus Pretalx versenden.</li>
-		<li><b>Workshoporganisation</b><br>
-Online oder Vor-Ort-Workshop, was braucht es für die gute Umsetzung, Kommunikation mit Workshopleiter:innen, Information der TN.</li>
-		<li><b>OSM-Event</b><br>
-Das OSM-Event organisieren (Unconference, Mappingevent...) und moderieren.</li>
-		<li><b>Programmheft</b><br>
-Programm als gedruckte Ausgabe im Format A6 für die TN.</li>
-		<li><b>Teilnehmer:innenbetreuung/ Welcome Desk</b><br>
-Im Arbeitspaket Teilnehmer:innenbetreuung stecken mehrere Aufgaben.
-Die Informationen zur Konferenz im Vorfeld so aufbereiten, dass es für die TN übersichtlich und nachvollziehbar ist (Website, TN-Mail).
-Welcome Desk organisieren ist in erster Linie eine Aufgabe des Lokal Teams.
-Einen Code of Conduct zu formulieren, steht schon lange auf der Agenda (Beispiel: https://2021.foss4g.org/about/coc.html).</li>
-		<li><b>Statistik und Teilnehmer:innenbefragung</b><br>
-Onlinebefragung + Auswertung, Befragung zu den Workshops auf den Weg bringen.</li>
-		<li><b>Hygienekonzept</b><br>
-Umsetzungskonzept für die Veranstaltung vor Ort sowie Informationen an Teilnehmende im Vorfeld der Konferenz (Website, TN-Mail).</li>
-		<li><b>Bildungsurlaub</b><br>
-Die Konferenz als Bildungsurlaub zu bewerben, kann es für viele Arbeitnehmer:innen attraktiver machen. In 2021 gab es drei positive Bescheide (BER, BB, RP, Zusage von RP gilt zwei Jahre). Es muss für alle Bundesländer ein Antrag gestellt werden. Im ersten Schritt die kostenfreien, bei entsprechendem Bedarf können auch die kostenpflichtigen beantragt werden.
-TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen möchten, es wird nach Bundesland gefragt. Am Ende muss es gegenüber dem genehmigenden Bundesland abgerechnet werden.</li>
-	</ul>
-	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>
+
 
 	
 
