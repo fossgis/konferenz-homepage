@@ -49,7 +49,7 @@ Das Treffen richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frau
 	<p>Am Dienstagabend wird ein Diskussionspanel stattfinden. Das Thema wird im Programm bekannt gegeben</p>-->
 
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
-	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden Sie ein am Donnerstag, den 10. März um 15.30 Uhr beim Gruppenfoto in der Netzwerkwelt auf dem Kompass dabei zu sein. <img src="./socialevents/img/Fototermin_Kompass.png" width="200px" alt="Fototermin Netzwerkwelt" style="margin-rigth: 250px" align="rigth">
+	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden Sie ein am Donnerstag, den 10. März um 15.30 Uhr beim Gruppenfoto in der Netzwerkwelt auf dem Kompass dabei zu sein. <img src="https://files.fossgis.de/Konferenz/2022_Gruppenfoto_FOSSGIS_Konferenz.png" width="500px" alt="Fototermin Netzwerkwelt" style="margin-rigth: 500px" align="rigth">
 	</p>
 	
 	<h4 id="Anwendertreffen" name="Anwendertreffen">Anwendertreffen</h4>

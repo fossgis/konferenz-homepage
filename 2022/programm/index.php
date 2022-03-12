@@ -18,30 +18,30 @@
 
         <h2>Programm</h2>
 		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie runter: <a href="https://pretalx.com/fossgis2022/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2022/schedule/</a>.</p>
+	
+	<h3>Vortragende</h3>
+	<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2022/speaker/">https://pretalx.com/fossgis2022/speaker/</a></p>
 
-
-		
-
-	<h3>Tagungsband</h3>
-	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2022_digital.pdf">als PDF zum Download</a> zur Verfügung.
-
-	<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
-	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://streaming.media.ccc.de/fossgis2022/"> https://streaming.media.ccc.de/fossgis2022/</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>
-
-	<!--<h3>Vortragsaufzeichnungen</h3>
+	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
 			<li> <a href="https://media.ccc.de/c/fossgis2022" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2022</a></p> 
 			</li>
-			<li> <a href="https://av.tib.eu/series/1102/fossgis+konferenz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
+			<li> <a href="https://av.tib.eu/search?q=FOSSGIS+2022" target="_blank" rel="noopener nofollow">TIB (bis die Videos hier erscheinen, dauert noch etwas)</a></p> 
 			</li>
-			<li> <a href="https://www.youtube.com/results?search_query=FOSSGIS+2022" target="_blank" rel="noopener nofollow">YouTube</a></p> 
+			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p> 
 			</li>
-		</ul>
+		</ul>		
 
-	<h3>FOSSGIS-Konferenz per Android-APP</h3>
+	<h3>Tagungsband</h3>
+	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2022_digital.pdf">als PDF zum Download</a> zur Verfügung.
+
+	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
+	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2022</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
+
+	<!--<h3>FOSSGIS-Konferenz per Android-APP</h3>
 		<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
-	<!--<p>Ansicht der App für Smartphone:	
+	<p>Ansicht der App für Smartphone:	
                     <a href="https://www.fossgis.de/">
                       	<img src="./data/FOSSGIS-2021-Phones.png" class="img-fluid"  alt="APP">
                     </a>
@@ -52,9 +52,7 @@
 					</a>
                  </p>-->
 
-	
-	<h3>Vortragende</h3>
-	<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2022/speaker/">https://pretalx.com/fossgis2022/speaker/</a></p>
+
 
 	<h3>Programm FOSSGIS 2022</h3>
 	<pretalx-schedule event-url="https://pretalx.com/fossgis2022/" locale="de-formal" format="list" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
