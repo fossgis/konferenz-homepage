@@ -27,7 +27,7 @@
 		<ul>
 			<li> <a href="https://media.ccc.de/c/fossgis2022" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2022</a></p> 
 			</li>
-			<li> <a href="https://av.tib.eu/search?q=FOSSGIS+2022" target="_blank" rel="noopener nofollow">TIB (bis die Videos hier erscheinen, dauert noch etwas)</a></p> 
+			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
 			</li>
 			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p> 
 			</li>
