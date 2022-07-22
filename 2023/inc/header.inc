@@ -5,7 +5,7 @@
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>
 		<span class="amp">Berlin</span> <br>
-		<span class="main">2023</span>
+		<span class="main">15. - 18. März 2023</span>
 	</h2>
 </header>
 

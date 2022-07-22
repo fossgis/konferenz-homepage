@@ -18,14 +18,9 @@
 
             <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
 
-       <!--     <p>Die FOSSGIS-Konferenz 2022 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a> und der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> mit Unterstützung der <a href="https://www.uni-marburg.de/de">Philipps Universität Marburg</a> organisiert.</p>
+            <p>Die FOSSGIS-Konferenz 2023 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> und dem <a href="https://www.hu-berlin.de/de/ueberblick/campus/adlershof/einrichtungen/institute/geographie">Geographischen Institut der Humboldt-Universität zu Berlin</a> veranstaltet und findet im Erwin-Schrödinger-Zentrum auf dem Campus Adlershof statt.</p>
 
-            <p>Mitarbeitende der Fachbereiche <a href="https://www.uni-marburg.de/de/fb12">Mathematik und Informatik</a>, <a href="https://www.uni-marburg.de/de/fb19"> Geographie</a>, der <a href="">HeFDI - Hessische Forschungsdateninfrastrukturen</a>, des <a href="https://www.uni-marburg.de/de/fb09/dsa">Forschungszentrums Deutscher Sprachatlas <a/> sowie des <a href="https://hlgl.hessen.de/">Hessischen Landesamtes für geschichtliche Landeskunde</a> beteiligen sich maßgeblich an der Organisation.</p>
-
-			<p>Die FOSSGIS 2022 wird ausschließlich als Online-Veranstaltung stattfinden. Hintergrund der Entscheidung ist die unklare Entscheidungslage hinsichtlich der Coronapandemie und die damit einhergehende Unsicherheit in der Planung.</p> 
-
-
-            <ul class="tiles">
+              <ul class="tiles">
 				<li class="tile bronze">
                      <a href="https://www.fossgis-konferenz.de/2022/sponsor/fossgis-ev.php">
                          <img src="./img/FOSSGIS_RGB.png" alt="FOSSGIS e.V.">
@@ -43,18 +38,20 @@
 					 </a>
 				 </li>
 				<li class="tile bronze">
-					 <a href="https://www.uni-marburg.de/">
-						 <img src="./img/PhUniMa_Logo_4c.jpg" alt="Uni Marburg" width="180px">
+					 <a href="https://www.hu-berlin.de/de/ueberblick/campus/adlershof/einrichtungen/institute/geographie">
+						 <img src="./img/s/hu_siegel-kombi_rgb.png" alt="HU-Berlin" width="180px">
 					 </a>
                  </li>           
-            </ul>-->
+            </ul>
            
 
             <h3>Was ist die FOSSGIS Konferenz?</h3>
 
-            <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme. Hier treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs- und Arbeitsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement, GeoProcessing, Datenbanken und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.</p>	
+            <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme sowie Open Data. Hier treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs-, Arbeits- und Weiterentwicklungsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodatenanalysen und -modellierungen und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.
+Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso behandelt, wie Open Science und die FAIR Prinzipien.</p> 
 
-           <p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p>
+
+			<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement  getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p> 
 			<p>Weitere Informationen folgen.</p>
 
 		<!--	<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>

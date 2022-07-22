@@ -41,7 +41,7 @@
 			<li><b>Ich arbeite für eine Forschungseinrichtung. Gibt es einen Rabatt?</b><br>
 				Nein. Es gibt Konfernztickets zum reduzierten Preis für u.a. Studierende, Rentner:innen, Freiwilligendienstleistende ... sowie kostenlose Tickets für Vortragende, Workshopleitende, Helfende und Aktive im OpenStreetMap-Projekt und Open-Source-GIS-Projekte.</li>
 			<li><b>Ich brauche eine ordentliche Rechnung</b><br>
-				Sie erhalten eine Rechnung mit Abschluss Ihrer Buchung, diese steht in der Bestellung zum Download bereit</li>
+				Sie erhalten eine Rechnung mit Abschluss Ihrer Buchung, diese steht in der Bestellung zum Download bereit.</li>
 			<li><b>Welche Zahlungsmöglichkeiten gibt es?</b><br>
 				Zahlung per Überweisung sowie Zahlung per Paypal.</li>
 
@@ -118,10 +118,10 @@
 			<li><b>Gibt es Ausstellerticket?</b><br>
 				Im Ausstellerpaket sind zwei Tickets enthalten. Der Besteller bekommt rechtzeitig die Vouchercodes.</li>
 			<li><b>Was mache ich mit dem Gutscheincode/ Vouchercode?</b><br>
-				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Die Preise bei dem Ticket beträgt dann 0 Euro und es kann gebucht werden. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
+				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
-				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre</a> sowie auf der <a href="https://fossgis-konferenz.de/2022/">Konferenzhomepage</a>.</li>
+				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre 2022</a> (die Broschüre für 2023 folgt im September) sowie auf der <a href="https://fossgis-konferenz.de/2022/">Konferenzhomepage</a>.</li>
 
 		</ul>
 	<h3>Medienpartnerschaft</h3>
