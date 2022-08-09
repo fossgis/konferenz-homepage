@@ -38,7 +38,7 @@
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>
 
 	<h3>Wo kannst Du bei der Konferenzorganisation unterstützen?</h3>
-
+		
 	<ul>
 		<li><b>Programmkomitee</b><br>
 Call for Participation formulieren, Einreichungen reviewen, Programm gestalten, bei Umsetzung des Programms unterstützen.<br>
@@ -76,9 +76,9 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	<p>Es gibt zwei Helfer:innenarten.</p>
 	
 	<ul>
-		<li><b>Freiwillige Helfer </b>(ab 6h helfen gibt es ein kostenfreies Helfer:innenticket)<br>
+		<li><b>Freiwillig Helfende </b>(ab 6h helfen gibt es ein kostenfreies Helfer:innenticket)<br>
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
-		<li><b>Bezahlte Helfer </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
+		<li><b>Bezahlt Helfende </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
 Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget als Aufwandsentschädigung bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen.</li>
 	</ul><h4>Helfen vor Ort</h4>
 	<ul>
@@ -95,7 +95,7 @@ Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortrage
 			</ul>				
 		</li>
 				<br>-->
-		<li><b>Hörsaalhelfer</b> (bezahlt)<br>
+		<li><b>Hörsaalhelfer:in</b> (bezahlt)<br>
 In jedem Hörsaal gibt es eine verantwortliche Person, die das Videoteam und die Sessionleitung sowie die Vortragenden unterstützt.
 <!--			<ul><i>Aufgaben:</i>
 				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)</li>
@@ -110,7 +110,7 @@ In jedem Hörsaal gibt es eine verantwortliche Person, die das Videoteam und die
 				
 			</ul>	-->
 		</li>
-		<li><b>Workshophelfer</b> (bezahlt)<br>
+		<li><b>Workshophelfer:in</b> (bezahlt)<br>
 In jedem Workshopraum gibt es eine verantwortliche Person, die die Workshopleitung und Teilnehmenden während des Workshops unterstützt.
 <!--			<ul><i>Aufgaben:</i>
 				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)</li>
@@ -154,7 +154,7 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<ul>
 		<li>Diese Seite gelesen haben und beim Orgateam melden sowie auch </li> 
 		<li>bei Fragen einfach fragen.</li>
-		<li>Kontakt Orgateam <a href="mailto:helfer@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
+		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
 	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> 
 		<li>ab Nov/Dez. im Helfersystem registrieren: <a href="https://helfer.fossgis.de">https://helfer.fossgis.de</a></li> -->
 
