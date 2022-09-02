@@ -44,7 +44,7 @@
 
 <div class="hero">
 	<figure>
-		<img class="img-fluid" src="./img/Berliner_Fernsehturm_Februar_2014_Adenie.abubakar_ccbysa.jpg" alt="Berliner Fernsehturm">
+		<img class="img-fluid" src="./img/Berliner_Fernsehturm_Adenie.abubakar_ccbysa_ohneSchrift.jpg" alt="Berliner Fernsehturm">
 		<figcaption><b>Photo: Adenie.abubakar, CC BY-SA 4.0</b></figcaption>
 	</figure>
 </div>
