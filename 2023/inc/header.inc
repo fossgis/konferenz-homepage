@@ -1,6 +1,6 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2022">
-		<img class="page-logo" src="./img/fossgis23-logo_ohneRand.png">
+		<img class="page-logo" src="./img/logo_FOSSGIS_2023a_300dpi.png">
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>
@@ -41,10 +41,10 @@
 		</li>-->
 	</ul>
 </nav>
-<!--
+
 <div class="hero">
 	<figure>
-		<img class="img-fluid" src="./img/stadtansicht_marburg_c_markus_farnung.png" alt="Stadtansicht Marburg">
-		<figcaption><b>Photo: (C) by Markus Farnung</b></figcaption>
+		<img class="img-fluid" src="./img/Berliner_Fernsehturm_Februar_2014_Adenie.abubakar_ccbysa.jpg" alt="Berliner Fernsehturm">
+		<figcaption><b>Photo: Adenie.abubakar, CC BY-SA 4.0</b></figcaption>
 	</figure>
-</div>-->
+</div>
