@@ -1,5 +1,5 @@
 <header class="page-header">
-	<a href="./" alt="FOSSGIS Konferenz 2022">
+	<a href="./" alt="FOSSGIS Konferenz 2023">
 		<img class="page-logo" src="./img/Stardortlogo_FOSSGIS2023_300dpi.png">
 	</a>
 	<h2 class="page-title">

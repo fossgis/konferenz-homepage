@@ -22,7 +22,7 @@
 
               <ul class="tiles">
 				<li class="tile bronze">
-                     <a href="https://www.fossgis-konferenz.de/2022/sponsor/fossgis-ev.php">
+                     <a href="./sponsor/fossgis-ev.php">
                          <img src="./img/FOSSGIS_RGB.png" alt="FOSSGIS e.V.">
                      </a>
                  </li>
