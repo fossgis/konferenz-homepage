@@ -218,8 +218,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 
 			
-			<h4 class="highlight">   </h4>
-			<h3>FOSSGIS-Konferenz unterstützen</h3>
+			<h3 ID="Sponsoring" name="Sponsoring">FOSSGIS-Konferenz unterstützen</h3>
            	<p>Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p>
 			<p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, nutzen Sie die <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2023.pdf">Sponsoringvereinbarung</a>.<br>
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
