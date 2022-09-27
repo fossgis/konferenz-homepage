@@ -54,31 +54,27 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement  getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p> 
 			<p>Weitere Informationen folgen.</p>
 
-		<!--	<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
+		<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
 
 			<h4 class="highlight">Platinsponsoren</h4>
 				<ul class="tiles">
+
 					<li class="tile platin">
-						<a href="sponsor/001_wheregroup.php" target="_blank">
-						<img src="./img/s/001_WhereGroup-zentriert.jpg" alt="WhereGroup">
-						</a>
-					</li>
-					<li class="tile platin">
-						<a href="sponsor/002_camp2camp.php" target="_blank">
-						<img src="./img/s/002_camptocamp_logo.png" alt="camptocamp">
+						<a href="sponsor/001_camp2camp.php" target="_blank">
+						<img src="./img/s/001_camptocamp_logo.png" alt="camptocamp">
 						</a>
 					</li>
 				</ul>	
 
-			<h4 class="highlight">Goldsponsoren</h4>
+			<!--<h4 class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile gold">
 						<a href="sponsor/101_bkg.php" target="_blank">
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 						</a>
 					</li>	
-				</ul>
+				</ul>-->
 
 			<h4 class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
@@ -92,41 +88,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<h4 class="highlight">Bronzesponsoren</h4>
 				<ul class="tiles">
 					<li class="tile bronze">
-						<a href="sponsor/401_opencage.php" target="_blank">
-						<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
+						<a href="sponsor/401_komoot.php" target="_blank">
+						<img src="./img/s/401_komoot.png" alt="komoot">
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="sponsor/402_wagner-it.php" target="_blank">
-						<img src="./img/s/402_Wagner-IT.png" alt="Wagner-IT">
+						<a href="sponsor/402_mundialis.php" target="_blank">
+						<img src="./img/s/402_mundialis.png" alt="mundialis">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/403_gbd.php" target="_blank">
-						<img src="./img/s/403_GBD.png" alt="Geoinformatikbüro Dassau">
-						</a>
-					</li>	
-					<li class="tile bronze">
-						<a href="sponsor/404_gkg.php" target="_blank">
-						<img src="./img/s/404_gkg_logo.png" alt="gkg">
-						</a>
-					</li>
-					<li class="tile bronze">
-						<a href="sponsor/405_bemastergis.php" target="_blank">
-						<img src="./img/s/405_beMasterGIS.png" alt="beMasterGIS">
-						</a>
-					</li>
-					<li class="tile bronze">
-						<a href="sponsor/406_komoot.php" target="_blank">
-						<img src="./img/s/406_komoot.png" alt="komoot">
-						</a>
-					</li>
-					<li class="tile bronze">
-						<a href="sponsor/407_mundialis.php" target="_blank">
-						<img src="./img/s/407_mundialis.png" alt="mundialis">
-						</a>
-					</li>
-					<li class="tile bronze">
+<!--					<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
 						</a>
@@ -170,7 +141,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<a href="sponsor/416_DBG.php" target="_blank">
 						<img src="./img/s/416_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
 						</a>
-					</li>
+					</li>-->
 
 
 					
@@ -213,12 +184,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<a href="https://workadventu.re/" target="_blank">
 						<img src="./img/s/507_TCM_WA.png" alt="Workadventure">
 						</a>
-					</li>
-				</ul>-->
+					</li>-->
+				</ul>
 
 
 			
-			<h3 ID="Sponsoring" name="Sponsoring">FOSSGIS-Konferenz unterstützen</h3>
+			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3>
            	<p>Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p>
 			<p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, nutzen Sie die <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2023.pdf">Sponsoringvereinbarung</a>.<br>
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
