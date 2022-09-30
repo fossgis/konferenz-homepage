@@ -141,7 +141,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<h2>Das Programm-Komitee</h2>
 	<ul>
-		<li>Astrid Emde (GIS-Consultant und FOSSGIS-Begeisterte))</li>
+		<li>Astrid Emde (GIS-Consultant und FOSSGIS-Begeisterte)</li>
 		<li>Christian Strobl* (Geographical Information Officer / StMUV Bayern, Lehrauftrag GIS / LMU München)</li>
 		<li>Christopher Lorenz (Entwickler und Beitragender zu OpenStreetMap)</li>
 		<li>Katja Haferkorn (Koordinatorin FOSSGIS e.V. und Konferenzorganisation)</li>
@@ -166,7 +166,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 		<li>November bis Dezember 2022: Bewertung und Programmgestaltung durch das Programm-Komitee (Academic Track-Einreichungen zusätzlich durch das *) Reviewteam Academic Track)</li>
 		<li>bis 3. Dezember 2022: Benachrichtigung der Vortragenden (Zusagen/Absagen)</li>
 		<li>bis 23. Dezember 2022: Einreichung Full Paper (6-8 Seiten) für zugelassene Academic Track-Beiträge</li>
-		<li>6. Januar 2023: Rückmeldungen zu Academic Track-Einreichungen</li>
+		<li>6. Januar 2023: Rückmeldungen zu Academic Track-Einreichungen durch die Reviewer</li>
 		<li>Januar 2023: Programmveröffentlichung und Start des Ticketverkaufs</li>
 <li>31. Januar 2023: Beitrag für Tagungsband einreichen (inkl. verbesserte Academic Track-Einreichungen)</li>
 <li>15. bis 18. März 2023: FOSSGIS-Konferenz 2023 (inkl. OSM-Event am Samstag)</li>
