@@ -65,7 +65,7 @@ Vorträge bilden den Hauptteil der Konferenz. Ein Vortrag ist 20 Minuten lang. D
 Begutachtung im Peer-Review-Verfahren durch das Academic Track-Komitee mit dem Ziel einer zitierfähigen Veröffentlichung eines Full Papers (6-8 Seiten).</li>
 
 		<li><strong>Demo-Session</strong><br>
-Die Demo-Sessions dient der Vorführung von Software oder Prozessen ("Live-Hacking") und ist 45 Minuten + 10 Minuten Diskussion lang.</li>
+Die Demo-Session dient der Vorführung von Software oder Prozessen ("Live-Hacking") und ist 45 Minuten + 10 Minuten Diskussion lang.</li>
 
 		<li><strong>Workshop</strong><br>
 Workshops finden von Mittwoch bis Freitag parallel zu den Vorträgen statt. Die Teilnahme am 90-minütigen Workshop ist kostenpflichtig, die Zahl der Teilnehmenden ist begrenzt.  Selbstverständlich sind zwei Betreuende möglich, insbesondere, wenn der Workshop stark nachgefragt ist.</li>
@@ -126,7 +126,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<p>Der Konferenzbeitrag umfasst die Kurzbeschreibung für das Programmheft, den Beitrag im Tagungsband, die Vortragsfolien sowie die Liveübertragung und Videoaufzeichnung des Vortrags. Die Konferenzbeiträge werden unter der Lizenz CC BY 4.0 veröffentlicht. Der Lizenztext findet sich unter <a href="https://creativecommons.org/licenses/by/4.0/legalcode.de"> https://creativecommons.org/licenses/by/4.0/legalcode.de</a></p>
 
-	<p>Material, dass nicht unter CC-BY 4.0 lizenziert werden kann, weil beispielsweise Fremdrechte bestehen, muss auf den Folien bzw. den Unterlagen kenntlich gemacht werden.</p>
+	<p>Material, das nicht unter CC-BY 4.0 lizenziert werden kann, weil beispielsweise Fremdrechte bestehen, muss auf den Folien bzw. den Unterlagen kenntlich gemacht werden.</p>
 
 	<h2>Streaming und Aufzeichnung</h2>
 
@@ -142,14 +142,13 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 	<h2>Das Programm-Komitee</h2>
 	<ul>
 		<li>Astrid Emde (GIS-Consultant und FOSSGIS-Begeisterte))</li>
-		<li>Christian Strobl* (GIS und Fernerkundung)</li>
+		<li>Christian Strobl* (Geographical Information Officer / StMUV Bayern, Lehrauftrag GIS / LMU München)</li>
 		<li>Christopher Lorenz (Entwickler und Beitragender zu OpenStreetMap)</li>
 		<li>Katja Haferkorn (Koordinatorin FOSSGIS e.V. und Konferenzorganisation)</li>
 		<li>Maik Sydoruk (OSM-Beitragender)</li>
 		<li>Marc Jansen (GIS und Fernerkundung; ❤️ FOSS & Freie Daten)</li>
 		<li>Niklas Alt* (Historiker, Digital / Spatial Humanities)</li>
 		<li>Pascal Neis (GIS & Freie Daten)</li>
-		<li>Pirmin Kalberer (FOSSGIS-Vorstand, GIS-Entwickler & -Anbieter)</li>
 		<li>Peter Löwe* (Bereichsleiter IT und eScience am WZB Berlin)</li>
 		<li>Pirmin Kalberer (FOSSGIS-Vorstand, GIS-Entwickler & -Anbieter)</li>
 		<li>Stefan Keller* (Prof. OST Campus Rapperswil)</li>
@@ -175,7 +174,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<p>Für Fragen steht das Programm-Komitee gerne per <a href="mailto:pko@fossgis.de"> E-Mail</a> zur Verfügung.</p>
 
-   	<p>Das FOSSGIS 2023 Programm-Komitee freut sich auf Ihre Einreichung</p>
+   	<p>Das FOSSGIS 2023 Programm-Komitee freut sich auf Ihre Einreichung.</p>
 
 
     <?php include('../inc/footer.inc'); ?>
