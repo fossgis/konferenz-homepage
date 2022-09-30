@@ -97,6 +97,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/402_mundialis.png" alt="mundialis">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/403_sourcepole.php" target="_blank">
+						<img src="./img/s/403_sourcepole.png" alt="sourcepole">
+						</a>
+					</li>
 <!--					<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
@@ -115,11 +120,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile bronze">
 						<a href="sponsor/411_NTI_CWSM_GmbH.php" target="_blank">
 						<img src="./img/s/411_nti_cwsm.png" alt="NTI CWSM GmbH">
-						</a>
-					</li>
-					<li class="tile bronze">
-						<a href="sponsor/412_sourcepole.php" target="_blank">
-						<img src="./img/s/412_sourcepole.png" alt="sourcepole">
 						</a>
 					</li>
 					<li class="tile bronze">
