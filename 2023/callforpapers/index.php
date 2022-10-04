@@ -113,7 +113,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<h2>Grundsätze der Programmgestaltung</h2>
 
-	<p>Wir wünschen uns in jeder Hinsicht Diversität unter den Vortragenden. Neue Vortragende sind willkommen! Daher freuen wir uns besonders über Einreichungen von Personen, die noch nicht oder noch nicht oft vorgetragen haben. Sollten Sie unsicher sein, zögern Sie nicht das  Programm-Komitee zu kontaktieren (<a href="mailto:pko@fossgis.de">per E-Mail</a>, Telefon: +49 30-62932037)</p>
+	<p>Das Programmkomitee wünscht sich in jeder Hinsicht Diversität unter den Vortragenden. Neue Vortragende sind willkommen! Daher freuen wir uns besonders über Einreichungen von Personen, die noch nicht oder noch nicht oft vorgetragen haben. Sollten Sie unsicher sein, zögern Sie nicht das  Programm-Komitee zu kontaktieren (<a href="mailto:pko@fossgis.de">per E-Mail</a>, Telefon: +49 30-62932037)</p>
 
 	<p>Das Programmkomitee ist bestrebt ein ausgewogenes und informatives Programm anzubieten und achtet auf Ausgewogenheit bezüglich Vortragenden und Firmen.</p>
 
@@ -137,7 +137,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<p>Vortragende und Workshopleitende erhalten einen Gutscheincode für ein kostenfreies Konferenz-Ticket. Dies gilt für diejenigen Beitragenden, die bis zum Einreicheschluss als Autoren benannt sind.</p>
 
-	<p>Um möglichst vielen Personen die Teilnahme zu ermöglichen, hat der FOSSGIS e.V. ein <a href="https://fossgis.de/f%C3%B6rderungen/reisekostenbeihilfe/">Förderprogramm</a> aus dem – auf Antrag – Teile der Anreise und/oder Übernachtung bezahlt werden können.</p>
+	<p>Um möglichst vielen Personen die Teilnahme zu ermöglichen, hat der FOSSGIS e.V. ein <a href="https://fossgis.de/f%c3%b6rderungen/reisekostenbeihilfe-beantragen/">Förderprogramm</a> aus dem – auf Antrag – Teile der Anreise und/oder Übernachtung bezahlt werden können.</p>
 
 	<h2>Das Programm-Komitee</h2>
 	<ul>
@@ -172,9 +172,9 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 <li>15. bis 18. März 2023: FOSSGIS-Konferenz 2023 (inkl. OSM-Event am Samstag)</li>
 	</ul>
 
-	<p>Für Fragen steht das Programm-Komitee gerne per <a href="mailto:pko@fossgis.de"> E-Mail</a> zur Verfügung.</p>
+   	<p>Das FOSSGIS 2023 Programm-Komitee freut sich auf Ihre Einreichung und steht für Fragen per <a href="mailto:pko@fossgis.de"> E-Mail</a> zur Verfügung.</p>
 
-   	<p>Das FOSSGIS 2023 Programm-Komitee freut sich auf Ihre Einreichung.</p>
+<p>Eine Einreichung zum <a href="https://pretalx.com/fossgis2023/cfp">Call for Participation FOSSGIS 2023</a> ist bis zum 07. November 2022 möglich (Achtung: keine Verlängerung).</p>
 
 
     <?php include('../inc/footer.inc'); ?>
