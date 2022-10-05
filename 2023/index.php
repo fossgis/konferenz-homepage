@@ -65,6 +65,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/001_camptocamp_logo.png" alt="camptocamp">
 						</a>
 					</li>
+					<li class="tile platin">
+						<a href="sponsor/002_wheregroup.php" target="_blank">
+						<img src="./img/s/002_WhereGroup.jpg" alt="WhereGroup">
+						</a>
+					</li>
 				</ul>	
 
 			<!--<h4 class="highlight">Goldsponsoren</h4>
