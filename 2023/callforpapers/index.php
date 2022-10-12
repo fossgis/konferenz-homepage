@@ -90,9 +90,9 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 			<li>Bei der Einreichung muss es um freie Software oder freie Daten gehen.</li>
 				<ul>
-				<li>Software ist frei, wenn ihre Lizenzbedingungen von der [Free Software Foundation](https://www.gnu.org/licenses/license-list.html) als frei anerkannt werden und der Quellcode öffentlich verfügbar ist.</li>
-				<li>Daten sind frei, wenn ihre Lizenzbedingungen der [Open Definition](https://opendefinition.org/) entsprechen.</li>
-				<li>Der FOSSGIS e.V. unterstützt die Initiative [Public Money, Public Code](https://publiccode.eu/de/). Wir ermuntern alle Projekte und Organisationen, die mit öffentlichen Mitteln freie Software finanzieren, sich und ihre Projekte / Software vorzustellen und von ihren Erfahrungen zu berichten.</li>
+				<li>Software ist frei, wenn ihre Lizenzbedingungen von der <a href="https://www.gnu.org/licenses/license-list.html">Free Software Foundation</a> als frei anerkannt werden und der Quellcode öffentlich verfügbar ist.</li>
+				<li>Daten sind frei, wenn ihre Lizenzbedingungen der <a href="https://opendefinition.org/">Open Definition</a> entsprechen.</li>
+				<li>Der FOSSGIS e.V. unterstützt die Initiative <a href="https://publiccode.eu/de/">Public Money, Public Code</a>. Wir ermuntern alle Projekte und Organisationen, die mit öffentlichen Mitteln freie Software finanzieren, sich und ihre Projekte / Software vorzustellen und von ihren Erfahrungen zu berichten.</li>
 				<li>Selbstverständlich freuen wir uns über Beiträge, die die Migration von unfreier zu freier Software oder die Nutzung proprietärer Formate/Schnittstellen mit freier Software thematisieren.</li>
 				</ul>
 			<li>Vorträge sollten einen Neuigkeitswert bieten.</li>
@@ -124,7 +124,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 <br>
 	<h2>Veröffentlichung</h2>
 
-	<p>Der Konferenzbeitrag umfasst die Kurzbeschreibung für das Programmheft, den Beitrag im Tagungsband, die Vortragsfolien sowie die Liveübertragung und Videoaufzeichnung des Vortrags. Die Konferenzbeiträge werden unter der Lizenz CC BY 4.0 veröffentlicht. Der Lizenztext findet sich unter <a href="https://creativecommons.org/licenses/by/4.0/legalcode.de"> https://creativecommons.org/licenses/by/4.0/legalcode.de</a></p>
+	<p>Der Konferenzbeitrag umfasst die Kurzbeschreibung für das Programmheft, den Beitrag im Tagungsband, die Vortragsfolien sowie die Liveübertragung und Videoaufzeichnung des Vortrags. Die Konferenzbeiträge werden unter der Lizenz CC BY 4.0 veröffentlicht. Der Lizenztext findet sich unter <a href="https://creativecommons.org/licenses/by/4.0/legalcode.de"> https://creativecommons.org/licenses/by/4.0/legalcode.de.</a></p>
 
 	<p>Material, das nicht unter CC-BY 4.0 lizenziert werden kann, weil beispielsweise Fremdrechte bestehen, muss auf den Folien bzw. den Unterlagen kenntlich gemacht werden.</p>
 
@@ -165,7 +165,6 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 	<ul>
 		<li>1. Oktober bis 7. November 2022: Call for Participation für alle Einreichungstypen (Achtung: keine Verlängerung)</li>
 		<li>9. bis 16. November 2022: Community-Voting</li>
-		<li>November bis Dezember 2022: Bewertung und Programmgestaltung durch das Programm-Komitee (Academic Track-Einreichungen zusätzlich durch das *) Reviewteam Academic Track)</li>
 		<li>bis 3. Dezember 2022: Benachrichtigung der Vortragenden (Zusagen/Absagen)</li>
 		<li>bis 23. Dezember 2022: Einreichung Full Paper (6-8 Seiten) für zugelassene Academic Track-Beiträge</li>
 		<li>6. Januar 2023: Rückmeldungen zu Academic Track-Einreichungen durch die Reviewer</li>
