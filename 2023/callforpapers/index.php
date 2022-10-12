@@ -141,6 +141,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<h2>Das Programm-Komitee</h2>
 	<ul>
+		<li>Andreas Jobst (Projektleiter Camptocamp; Interessen: GIS, Geographie und Hydrologie)</li>		
 		<li>Astrid Emde (GIS-Consultant und FOSSGIS-Begeisterte)</li>
 		<li>Christian Strobl* (Geographical Information Officer / StMUV Bayern, Lehrauftrag GIS / LMU München)</li>
 		<li>Christopher Lorenz (Entwickler und Beitragender zu OpenStreetMap)</li>
@@ -151,6 +152,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 		<li>Pascal Neis (GIS & Freie Daten)</li>
 		<li>Peter Löwe* (Bereichsleiter IT und eScience am WZB Berlin)</li>
 		<li>Pirmin Kalberer (FOSSGIS-Vorstand, GIS-Entwickler & -Anbieter)</li>
+		<li>Ralf Löwner* (Hochschule Neubrandenburg, FB Landschaftswissenschaften und Geomatik)</li>
 		<li>Stefan Keller* (Prof. OST Campus Rapperswil)</li>
 		<li>Tobia Lakes* (Geographisches Institut, Humboldt-Universität zu Berlin)</li>
 		<li>Torsten Wiebke* (Forstwissenschaftler Fan von Freier- und Open Source-(GIS)-Software)</li>
