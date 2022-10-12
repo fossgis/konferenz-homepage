@@ -163,7 +163,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<h2>Termine und Fristen</h2>
 	<ul>
-		<li>1. Oktober bis 7. November 2022: Call for Participation für alle Einreichungstypen (Achtung: keine Verlängerung)</li>
+		<li>1. Oktober bis 7. November 2022: Call for Participation für alle Einreichungstypen, Abtract einreichen (Achtung: keine Verlängerung)</li>
 		<li>9. bis 16. November 2022: Community-Voting</li>
 		<li>bis 3. Dezember 2022: Benachrichtigung der Vortragenden (Zusagen/Absagen)</li>
 		<li>bis 23. Dezember 2022: Einreichung Full Paper (6-8 Seiten) für zugelassene Academic Track-Beiträge</li>
