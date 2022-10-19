@@ -62,7 +62,8 @@ Ein Lightning Talk bietet Gelegenheit neue Software, neue Projekte oder neue Ide
 Vorträge bilden den Hauptteil der Konferenz. Ein Vortrag ist 20 Minuten lang. Danach sind 5 Minuten Zeit für Fragen.</li>
 		
 		<li><strong> Vortrag mit Paper im Academic Track</strong><br> 
-Begutachtung im Peer-Review-Verfahren durch das Academic Track-Komitee mit dem Ziel einer zitierfähigen Veröffentlichung eines Full Papers (6-8 Seiten).</li>
+Begutachtung im Peer-Review-Verfahren durch das Academic Track-Komitee mit dem Ziel einer zitierfähigen Veröffentlichung eines Full Papers (6-8 Seiten). 
+			Der einzureichende Abstract sollte ca. 3.000 Zeichen umfassen.</li>
 
 		<li><strong>Demo-Session</strong><br>
 Die Demo-Session dient der Vorführung von Software oder Prozessen ("Live-Hacking") und ist 45 Minuten + 10 Minuten Diskussion lang.</li>
