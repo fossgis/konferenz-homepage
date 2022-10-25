@@ -82,7 +82,7 @@ Verbraucherschlichtungsstelle teilzunehmen.</p>
 <h3>Anwendbares Recht</h3>
 <p>Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.</p>
 
-<p>Stand der AGB: 14. Dezember 2021</p>
+<p>Stand der AGB: 25. Oktober 2022</p>
 
 	<?php include "inc/footer.inc"; ?>
 
