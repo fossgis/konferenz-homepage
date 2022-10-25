@@ -64,6 +64,9 @@ Für die eine Stornierung senden Sie bitte eine E-Mail an: konferenz-orga@fossgi
 
 <p>Ein entsprechender Hinweis ist auch auf den Tickets enthalten. Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen verarbeitet: <a href="https://pretix.eu/fossgis/2022/privacy/" target="_blank">siehe Datenschutzerklärung</a> </p>
 
+<h3>Hausordnung</h3>
+<p>Im Veranstaltungsgebäude gilt die <a href="https://files.fossgis.de/Konferenz/2023/Rahmenhausordnung-HU_AMB_34-2019.pdf">Rahmenhausordnung</a> der Humboldt-Universität zu Berlin, diese ist von allen Teilnehmenden einzuhalten.</p>  
+
 <h3>Streitbeilegung</h3>
 <p>Die EU-Kommission stellt für die außergerichtliche Streitschlichtung eine Plattform bereit. Sie gibt Verbrauchern die Möglichkeit, Rechtsstreitigkeiten aus Verträgen oder Streitigkeiten über das Bestehen solcher Verträge zunächst ohne Einschaltung eines Gerichts zu klären. Die Streitbeilegungsplattform kann unter dem Link
 <a href="http://ec.europa.eu/consumers/odr/" target="_blank">http://ec.europa.eu/consumers/odr/</a> erreicht werden.</p>
