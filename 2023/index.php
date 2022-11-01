@@ -72,14 +72,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 				</ul>	
 
-			<!--<h4 class="highlight">Goldsponsoren</h4>
+			<h4 class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile gold">
 						<a href="sponsor/101_bkg.php" target="_blank">
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 						</a>
 					</li>	
-				</ul>-->
+				</ul>
 
 			<h4 class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
@@ -104,7 +104,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 					<li class="tile bronze">
 						<a href="sponsor/403_sourcepole.php" target="_blank">
-						<img src="./img/s/403_sourcepole.png" alt="sourcepole">
+						<img src="./img/s/403_sp_fossgis_2023.png" alt="sourcepole">
 						</a>
 					</li>
 <!--					<li class="tile bronze">

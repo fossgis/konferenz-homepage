@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/403_sourcepole.png" 
+			<img src="./img/s/403_sp_fossgis_2023.png" 
 				class="sp-logo" 
 				alt="Firmenlogo">
 			
@@ -31,16 +31,21 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Sourcepole AG</h3>
 
-					<p>Sourcepole entwickelt kundenspezifische Lösungen im Bereich Geoinformatik auf der Basis von Open Source Software Komponenten. Wir erweitern und integrieren Open Source Software nach den Bedürfnissen unserer Kunden. Als offizielle Entwickler in mehreren OSGeo-Projekten können wir auch direkt in den Original-Code eingreifen und so die Kundenwünsche erfüllen.
+					<p>Sourcepole betreibt die leistungsfähige Web-GIS Plattform <b>QGIS Cloud</b> zur Publikation von Karten, Daten und Diensten im Internet. Gestalten Sie professionelle Karten mit dem vollen Leistungsumfang von QGIS. Mit nur ein paar Maus-Klicks stellen Sie die Karten ins Internet und teilen Sie Ihre Arbeit einfach über <b><a href="https://qgiscloud.com/">qgiscloud.com</a></b> mit einer breiten Öffentlichkeit. Mit QGIS Cloud erhalten Sie eine vollständige Geodateninfrastruktur bestehend aus PostGIS Datawarehouse, QGIS-Server Web Server und QWC2 als Webclient.
 					</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							Webseite:<br>
-						<a href="http://www.sourcepole.ch/">
-							http://www.sourcepole.ch/</a><br>
-
+						<a href="https://sourcepole.ch/">
+							www.sourcepole.ch/</a><br>
+							News:<br>
+						<a href="https://blog.sourcepole.ch/">
+							blog.sourcepole.ch</a><br>
+							Dienste:<br>
+						<a href="https://qgiscloud.com/">
+							qgiscloud.com</a><br>
 							E-Mail: <br>
 							<a href="mailto:horst.duester@sourcepole.ch">horst.duester@sourcepole.ch</a><br></h6>
 					</div>
