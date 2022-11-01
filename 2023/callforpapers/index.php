@@ -156,7 +156,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 		<li>Ralf Löwner* (Hochschule Neubrandenburg, FB Landschaftswissenschaften und Geomatik)</li>
 		<li>Stefan Keller* (Prof. OST Campus Rapperswil)</li>
 		<li>Tobia Lakes* (Geographisches Institut, Humboldt-Universität zu Berlin)</li>
-		<li>Torsten Wiebke* (Forstwissenschaftler Fan von Freier- und Open Source-(GIS)-Software)</li>
+		<li>Torsten Wiebke* (Forstwissenschaftler, Wissenschaftlicher Leiter Waldinventuren und Fernerkundung am Landesbetrieb Forst Brandenburg, Fan von Freier- und Open Source-(GIS)-Software)</li>
 		<li>Ulrike Assmann (Kartographin, GIS und Hydrographie)</li>
 *) Reviewer Academic Track
 
