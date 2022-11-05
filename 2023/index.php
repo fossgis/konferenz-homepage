@@ -107,7 +107,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/403_sp_fossgis_2023.png" alt="sourcepole">
 						</a>
 					</li>
-<!--					<li class="tile bronze">
+					<li class="tile bronze">
+						<a href="sponsor/404_52north.php" target="_blank">
+						<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="sponsor/405_opencage.php" target="_blank">
+						<img src="./img/s/405_opencage-logo.png" alt="OpenCage">
+						</a>
+					</li>
+<!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
 						</a>
@@ -117,11 +127,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/409_Geoinfo_Logo.png" alt="GEOINFO">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/410_52north.php" target="_blank">
-						<img src="./img/s/410_52North.png" alt="52°North Spatial Information Research GmbH">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/411_NTI_CWSM_GmbH.php" target="_blank">
 						<img src="./img/s/411_nti_cwsm.png" alt="NTI CWSM GmbH">
