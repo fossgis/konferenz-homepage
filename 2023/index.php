@@ -79,6 +79,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 						</a>
 					</li>	
+					<li class="tile gold">
+						<a href="https://opengis.ch" target="_blank">
+						<img src="./img/s/102_opengisch_banner.png" alt="opengis">
+						</a>
+					</li>
 				</ul>
 
 			<h4 class="highlight">Silbersponsoren</h4>
@@ -115,6 +120,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile bronze">
 						<a href="sponsor/405_opencage.php" target="_blank">
 						<img src="./img/s/405_opencage-logo.png" alt="OpenCage">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="sponsor/406_wagner-it.php" target="_blank">
+						<img src="./img/s/406_Wagner-IT.png" alt="Wagner-IT">
 						</a>
 					</li>
 <!--				<li class="tile bronze">
