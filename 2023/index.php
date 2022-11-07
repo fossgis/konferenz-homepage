@@ -81,7 +81,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>	
 					<li class="tile gold">
 						<a href="https://opengis.ch" target="_blank">
-						<img src="./img/s/102_opengisch_banner.png" alt="opengis">
+						<img src="./img/s/102_opengisch.png" alt="opengis">
 						</a>
 					</li>
 				</ul>
