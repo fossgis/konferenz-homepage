@@ -127,6 +127,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/406_Wagner-IT.png" alt="Wagner-IT">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/407_gbd.php" target="_blank">
+						<img src="./img/s/407_GBD.png" alt="Geoinformatikbüro Dassau">
+						</a>
+					</li>
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
