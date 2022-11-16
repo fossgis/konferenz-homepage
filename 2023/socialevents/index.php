@@ -26,7 +26,7 @@
 
 	<h4 id="Inoffizieller Start" name="Inoffizieller Start">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit nach der langen Entbehrung von Präsenztreffen bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 14. März 2023 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen im <a href="https://reviersuedost.de/baergarten">Beargarten</a> auf dem dem Gelände der alten Bärenquellbrauerei (Schnellerstr. 137, 12439 Berlin-Niederschöneweide) zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit nach der langen Entbehrung von Präsenztreffen bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 14. März 2023 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen im <a href="https://reviersuedost.de/baergarten">Baergarten</a> auf dem dem Gelände der alten Bärenquellbrauerei (Schnellerstr. 137, 12439 Berlin-Niederschöneweide) zusammenzukommen. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 15. März 2023</h3>
 
