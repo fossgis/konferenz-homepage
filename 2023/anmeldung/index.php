@@ -30,7 +30,7 @@
 	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
 	<p>Vom 15.-18. März 2023 findet die FOSSGIS-Konferenz als Präsenzveranstaltung an der Humboldt-Universität zu Berlin im Erwin-Schrödinger-Zentrum in Berlin-Adlershof statt.</p>
-	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops und wie Sie Helfer:in werden können.  
+	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops und wie Sie Helfer:in werden können. Das Programm wird Ende des Jahres unter <i>Programm</i> veröffentlicht. <br>
 Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
 		
 	<!--<p class="highlight">
