@@ -16,7 +16,7 @@
 	<script src="./standort_anreise/script/leaflet.addons.js"></script>
 	<script src="./standort_anreise/data/buildings.js"></script>
 	<script src="./standort_anreise/data/hotels.js"></script>
-	<script src="./standort_anreise/script/map.js"></script>-->
+	<script src="./standort_anreise/script/map.js"></script>
 </head>
 
 <body id="standort">
@@ -55,7 +55,7 @@ Nutzen Sie die <a href="https://www.vbb.de/fahrinfo/">Fahrplaninformation des Ve
 
 	<p>Sicherlich freuen sich die Berliner Taxifahrer über Fahraufträge, unter <a href="https://www.taxi.de/in/berlin/">Taxi Berlin</a> finden Sie Berliner Taxiunternehmen.</p>
 
-	<h3>Übernachtung und Unterkunft</h3>
+	<h3 ID="Unterkunft" name="Unterkunft">Übernachtung und Unterkunft</h3>
 	<p>In Berlin steht eine Vielzahl an Unterkünften zur Übernachtung zur Verfügung.</p>
 
 	<p>Folgende Liste enthält Hotels in unmittelbarer Nähe zum Konferenzort.</p>

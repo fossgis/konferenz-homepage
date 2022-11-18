@@ -73,15 +73,17 @@
 		Hier ist der <a href="https://fossgis-konferenz.de/2023/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 
 		<h3>Community Voting</h3>
-	<p>Bis zum 16.11.2022 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
+		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 90 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
+<!--	<p>Bis zum 16.11.2022 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
 	<ul>
 		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2023/p/voting/signup/"> https://pretalx.com/fossgis2022/p/voting/signup/</a></li>
 		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
 		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
-	</ul>
+	</ul>-->
 
-
+	<h3>Programm FOSSGIS 2023</h3>	
+	<p>Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird am Ende des Jahres veröffentlicht.</p>
 
 		
 	<?php include "../inc/footer.inc"; ?>
