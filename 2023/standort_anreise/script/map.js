@@ -1,21 +1,33 @@
 (function () {
 	'use strict';
 
-	var center = [52.43113824, 13.53106760];
+	const posESZ = [52.43113824, 13.53106760];
+	const posGI = [52.43227844, 13.53395405];
+	const posBunsen = [52.43068591, 13.53482998];
+	const posMensa = [52.42948231, 13.53046020];
 	//var friPos = [48.00111, 7.84938];
-	var tuePos = [52.46017981, 13.50565336];
-	var zoom = 16;
-	var htwOrange = '#ff9d15';
-	var views = {
-		'<b>Erwin-Schrödinger-Zentrum<b>': center,
-		'Di: Baergarten': tuePos,
+	const posBaer = [52.46017981, 13.50565336];
+	const posSBhfAdlershof = [52.43525494, 13.54079859]
+	const posSBhfSchoeneweide = [52.45428619, 13.51055300]
+	const zoom = 16;
+	const htwOrange = '#ff9d15';
+	const views = {
+		'<b>Erwin-Schrödinger-Zentrum</b>': posESZ,
+		'Geographisches Institut': posGI,
+		'Mensa': posMensa,
+		'S-Bhf Adlershof': posSBhfAdlershof,
+		'Mi: Bunsen-Saal (unbestätigt)': posBunsen,
+		'Di: Baergarten': posBaer,
+
 		//'Neustadt': []
 	};
-	var tooltipTemplate =
-		'<b>{shortName}</b><br>' +
-		'{purpose}<br>' +
-		'<img src="./standort_anreise/img/{src}" alt="{title}" class="tooltip-img" width="240" height="157">';
-	var featureOptions = {
+	const tooltipTemplate =
+		'<b>{name}</b><br>' +
+		'{street} {housenumber}'; //<br>' +
+		// '<a href="{website}">{website}</a><br>' +
+		//'<img src="./standort_anreise/img/{src}" alt="Bild {name}" class="tooltip-img" width="240" height="157">';
+
+	const featureOptions = {
 		color: '#333333',
 		weight: 1,
 		opacity: 1.0,
@@ -24,9 +36,11 @@
 		radius: 12,
 		className: 'svg-feature'
 	};
-	var baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+
+	const baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
 		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 	});
+
 	var campusLabels = L.layerGroup();
 	var campusLayer = L.geoJSON(window.buildings, {
 		style: featureOptions,
@@ -45,10 +59,10 @@
 			}).bindTooltip(props.name);
 		}
 	});
-    var wedLayer = L.circleMarker(tuePos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Beargarten');
+    // var tueLayer = L.circleMarker(posBaer, featureOptions).bindTooltip('Dienstag Abend<br>Inoffizieller Start im Beargarten');
 	// var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
 	//var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
-	var wedLabel = createLabel(tuePos, 'SK', 2);
+	//var wedLabel = createLabel(tuePos, 'SK', 2);
 	//var thuLabel = createLabel(friPos, 'FR', 2);
 	var mapOptions = {
 		layers: [
@@ -57,13 +71,13 @@
 			campusLabels,
 			//thuLayer,
 			//thuLabel,
-			wedLayer,
-			wedLabel,
+			//tueLayer,
+			//wedLabel,
 			hotelsLayer
 		],
-		center: center,
+		center: posESZ,
 		zoom: zoom,
-		minZoom: 14,
+		minZoom: 5,
 		maxZoom: 18,
 		maxBounds: [[52.34984643,13.33271378], [52.48858000, 13.71894012]]
 	};
@@ -73,7 +87,7 @@
 
 	function init() {
 		var baseLayers = { 'OSM': baseLayer };
-		var overlays = { 'Unterkunft': hotelsLayer };
+		var overlays = { 'Hotels': hotelsLayer };
 		var options = { collapsed: false, hideSingleBase: true };
 		var mapContainerQuery = '.map-container';
 		var mapId = 'map';
@@ -101,15 +115,17 @@
 
 	function onEachFeature(feature, layer) {
 		var props = feature.properties;
-		var name = props.name;
 		var content = tooltipTemplate
-			.replace('{shortName}', name)
-			.replace('{name}', props.name)
-			.replace('{purpose}', props.purpose)
-			.replace('{src}', props.bild)
-			.replace('{title}', name);
+			.replaceAll('{name}',props['name:de'])
+			.replaceAll('{website}', props['website'])
+			.replaceAll('{street}', props['addr:street'])
+			.replaceAll('{housenumber}', props['addr:housenumber'])
+			.replaceAll('{postcode}', props['postcode']);
+			//.replace('{purpose}', props.purpose)
+			//.replace('{src}', props.bild)
+			//.replace('{title}', name);
 
-		layer.bindTooltip(content, { offset: [-10, 0] });
+		layer.bindTooltip(content, { offset: [-5, 0] });
 
 		if (props.priority < 2 && props.label.length) {
 			var label = props.short_name;
