@@ -1,16 +1,14 @@
 (function () {
 	'use strict';
 
-	var center = [48.00111, 7.84938];
-	var friPos = [48.00111, 7.84938];
-	var wedPos = [47.99507, 7.84761];
+	var center = [52.43113824, 13.53106760];
+	//var friPos = [48.00111, 7.84938];
+	var tuePos = [52.46017981, 13.50565336];
 	var zoom = 16;
 	var htwOrange = '#ff9d15';
 	var views = {
-		'<b>Campus<b>': [48.00111, 7.84938],
-		'Mi: Abendveranstaltung': friPos,
-		'Di: Schwarzer kater': wedPos,
-		'Stadtmitte': [47.99488, 7.84986],
+		'<b>Erwin-Schrödinger-Zentrum<b>': center,
+		'Di: Baergarten': tuePos,
 		//'Neustadt': []
 	};
 	var tooltipTemplate =
@@ -47,26 +45,26 @@
 			}).bindTooltip(props.name);
 		}
 	});
-	var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
-	var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
-	var wedLabel = createLabel(wedPos, 'SK', 2);
-	var thuLabel = createLabel(friPos, 'FR', 2);
+	// var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
+	//var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
+	//var wedLabel = createLabel(wedPos, 'SK', 2);
+	//var thuLabel = createLabel(friPos, 'FR', 2);
 	var mapOptions = {
 		layers: [
 			baseLayer,
 			campusLayer,
 			campusLabels,
-			thuLayer,
-			thuLabel,
-			wedLayer,
-			wedLabel,
+			//thuLayer,
+			//thuLabel,
+			//wedLayer,
+			//wedLabel,
 			hotelsLayer
 		],
 		center: center,
 		zoom: zoom,
 		minZoom: 14,
 		maxZoom: 18,
-		maxBounds: [[48.90198, 7.95292], [47.09684, 7.04077]]
+		maxBounds: [[52.34984643,13.33271378], [52.48858000, 13.71894012]]
 	};
 	var div, map;
 
