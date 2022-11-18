@@ -73,7 +73,7 @@
 		Hier ist der <a href="https://fossgis-konferenz.de/2023/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 
 		<h3>Community Voting</h3>
-		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 90 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
+		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 130 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
 <!--	<p>Bis zum 16.11.2022 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
 	<ul>
