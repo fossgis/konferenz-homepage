@@ -10,13 +10,13 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<link rel="stylesheet" href="./standort/script/leaflet.css"/>
+<!--	<link rel="stylesheet" href="./standort/script/leaflet.css"/>
 
 	<script src="./standort_anreise/script/leaflet.js"></script>
 	<script src="./standort_anreise/script/leaflet.addons.js"></script>
 	<script src="./standort_anreise/data/buildings.js"></script>
 	<script src="./standort_anreise/data/hotels.js"></script>
-	<script src="./standort_anreise/script/map.js"></script>
+	<script src="./standort_anreise/script/map.js"></script>-->
 </head>
 
 <body id="standort">
@@ -29,7 +29,7 @@
 		<div id="map" class="map"></div>
 	</div>
 
-	<p>Adresse:<br> Humboldt-Universität zu Berlin,<br> Rudower Ch 26,<br> 12489 Berlin</p>
+	<p>Adresse:<br> Humboldt-Universität zu Berlin<br>Erwin-Schrödinger-Zentrum<br> Rudower Ch 26<br> 12489 Berlin</p>
 		
 	<h3>Vorträge, Workshops, Netzwerken & Pausenversorgung</h3>
 <p>Die Konferenz findet im Erwin-Schrödinger-Zentrum der Humboldt-Universität zu Berlin in Berlin-Adlershof statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
