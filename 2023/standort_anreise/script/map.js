@@ -14,7 +14,7 @@
 	var tooltipTemplate =
 		'<b>{shortName}</b><br>' +
 		'{purpose}<br>' +
-		'<img src="./standort/img/{src}" alt="{title}" class="tooltip-img" width="240" height="157">';
+		'<img src="./standort_anreise/img/{src}" alt="{title}" class="tooltip-img" width="240" height="157">';
 	var featureOptions = {
 		color: '#333333',
 		weight: 1,
@@ -45,9 +45,10 @@
 			}).bindTooltip(props.name);
 		}
 	});
+    var wedLayer = L.circleMarker(tuePos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Beargarten');
 	// var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
 	//var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
-	//var wedLabel = createLabel(wedPos, 'SK', 2);
+	var wedLabel = createLabel(tuePos, 'SK', 2);
 	//var thuLabel = createLabel(friPos, 'FR', 2);
 	var mapOptions = {
 		layers: [
@@ -56,8 +57,8 @@
 			campusLabels,
 			//thuLayer,
 			//thuLabel,
-			//wedLayer,
-			//wedLabel,
+			wedLayer,
+			wedLabel,
 			hotelsLayer
 		],
 		center: center,

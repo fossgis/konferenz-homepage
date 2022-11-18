@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-<!--	<link rel="stylesheet" href="./standort/script/leaflet.css"/>
+	<link rel="stylesheet" href="./standort_anreise/script/leaflet.css"/>
 
 	<script src="./standort_anreise/script/leaflet.js"></script>
 	<script src="./standort_anreise/script/leaflet.addons.js"></script>
@@ -23,7 +23,7 @@
 
 	<?php include "../inc/header.inc"; ?>
 	
-	<h2>Standort</h2>
+	<h2>Standort, Anreise und Übernachtung</h2>
 
 	<div class="map-container">
 		<div id="map" class="map"></div>
