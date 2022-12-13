@@ -194,16 +194,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/503_TIB.PNG" alt="TIB">
 						</a>
 					</li>
-					<!--<li class="tile media">
-						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
-						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
-						</a>
-					</li>
 					<li class="tile media">
 						<a href="https://www.oreilly.de/" target="_blank">
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
 						</a>
 					</li>
+					<!--<li class="tile media">
+						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
+						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
+						</a>
+					</li>
+
 
 					<!--<li class="tile media">
 						<a href="https://ffmuc.net/" target="_blank">
