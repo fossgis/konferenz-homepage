@@ -95,6 +95,10 @@ Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortrage
 			</ul>				
 		</li>
 				<br>-->
+<li><b>Videomitschnitt an der Kamera</b> (freiwillig)<br>
+			Um jeden Vortrag live zu streamen und im Nachgang als Videoaufnahme zur Verfügung stellen zu können, braucht es Menschen, die an der Kamera sitzen und den Vortrag mitschneiden. Die Einführungsschulung sollte besucht werden.</li>
+			
+
 		<li><b>Hörsaalhelfer:in</b> (bezahlt)<br>
 In jedem Hörsaal gibt es eine verantwortliche Person, die das Videoteam und die Sessionleitung sowie die Vortragenden unterstützt.
 <!--			<ul><i>Aufgaben:</i>
@@ -145,9 +149,9 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>	-->
 		</li>
-		<li><b>Videomitschnitt an der Kamera</b> (freiwillig)<br>
-			Um jeden Vortrag live zu streamen und im Nachgang als Videoaufnahme zur Verfügung stellen zu können, braucht es Menschen, die an der kamera sitzen und den Vortrag mitschneiden. </li>
-			</ul>
+		<li><b>Auf- und Abbau</b> (freiwillig oder bezahlt)<br>
+		Am Dienstag, den 14.03.2023 wird ab 13 Uhr aufgebaut, jede Hilfe ist willkommen. Treffpunkt im Foyer. <br>Der Abbau startet nach dem Sektempfang am Freitag, den 17.03.2023
+		
 	</ul>
 
 	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
@@ -155,8 +159,9 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<li>Diese Seite gelesen haben und beim Orgateam melden sowie auch </li> 
 		<li>bei Fragen einfach fragen.</li>
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
-	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> 
-		<li>ab Nov/Dez. im Helfersystem registrieren: <a href="https://helfer.fossgis.de">https://helfer.fossgis.de</a></li> -->
+		<li>Registierung im Helfersystem: <a href="https://helfer.fossgis.de">https://helfer.fossgis.de</a></li> 
+	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> -->
+
 
 	<?php include('../inc/footer.inc'); ?>
 
