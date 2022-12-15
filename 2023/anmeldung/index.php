@@ -30,8 +30,8 @@
 	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
 	<p>Vom 15.-18. März 2023 findet die FOSSGIS-Konferenz als Präsenzveranstaltung an der Humboldt-Universität zu Berlin im Erwin-Schrödinger-Zentrum in Berlin-Adlershof statt.</p>
-	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops und wie Sie Helfer:in werden können. Das Programm wird Ende des Jahres unter <i>Programm</i> veröffentlicht. <br>
-Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
+	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops und wie Sie Helfer:in werden können. <br>Das Programm ist <a href="https://fossgis-konferenz.de/2023/programm/">hier</a> veröffentlicht.</p>
+<p>Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
 		
 	<!--<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2022/">Direkt zur Anmeldung</a>
@@ -47,7 +47,7 @@ Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
 		<li>Konferenzticket - für Community**: € 0</i>
 		<li>Konferenzticket für Helfende**: 6 h helfen</i>
 		<li>Workshop***: 120 €</i>
-		<li>Mittagessen pro Tag***: 7 €</li>
+		<li>Mittagessen an 3 Konferenztagen***: 21 €</li>
 	</ul>
 		
 
@@ -85,7 +85,7 @@ Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
 	
 	<h3>Helfen</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2023/helfen/">Website <i>Helfen</i></a> lesen, dort sind viele Details erklärt.</p>
-	<p>Helfer:innen dürfen das kostenfreie "Konferenzticket für Helfende" buchen.<br>
+	<p>Helfer:innen melden sich beim Orgateam und erhalten einen Gutschein für ein "Konferenzticket für Helfende".<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
  <!--  	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
