@@ -22,6 +22,10 @@
 		<h3>Vortragende</h3>
 		<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2023/speaker/</a>.</p>
 
+		<h3>Programm-Highlights</h3>
+		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2023/featured/">https://pretalx.com/fossgis2023/featured/</a>.</p> 
+
+
 <!--	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
@@ -68,8 +72,8 @@
 
 		
 
-		<h3>Community Voting</h3>
-		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 130 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>
+<!--		<h3>Community Voting</h3>
+		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 130 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>-->
 
 		<p>Hier ist der <a href="https://fossgis-konferenz.de/2023/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 
