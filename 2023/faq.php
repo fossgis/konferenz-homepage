@@ -139,7 +139,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 				Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="https://fossgis-konferenz.de/2023/helfen/">Konferenzhomepage/helfen</a>.</li>
 			<li><b>Was ist das Helfersystem/Engelsystem?</b><br>
 				Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.<br>
-Registrieren Sie sich im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
+Registrieren Sie sich im <a href="https://helfer.fossgis.de">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
 Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfen</a>.</li>
 			<li><b>Brauche ich ein Ticket?</b><br>
 				Ja. Wenn Sie noch kein Ticket haben, erhalten Sie einen Gutscheincode für ein kostenfreies Helfer:innenticket. Falls Sie noch keinen Code erhalten haben, wenden Sie sich per <a href="mailto:helfer@fossgis.de?subject=Gutscheincode_Helferticket">E-Mail an das Helferteam</a>.</li>

@@ -32,8 +32,8 @@
 	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite lesen.</li> 
-		<li>Im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> registrieren und eine <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helferteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
-		<li>Für Fragen gerne <a href="mailto:helfer@fossgis.de"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>Im <a href="https://helfer.fossgis.de">Helfersystem<a/> registrieren und eine <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helferteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
+		<li>Für Fragen gerne <a href="mailto:helfer@fossgis.de?subject=Fragen_zum_helfen"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037.</li> 
 		</ul>
 
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>
