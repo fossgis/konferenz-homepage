@@ -45,7 +45,7 @@
 <!--		<li>Onlineticket: 60 €</i>
 		<li>Onlineticket - reduzierter Preis*: 15 €</i>-->
 		<li>Konferenzticket - für Community**: € 0</i>
-		<li>Konferenzticket für Helfende**: 6 h helfen</i>
+		<li>Konferenzticket für <a href="https://fossgis-konferenz.de/2023/helfen/#Helfer:inwerden">Helfende</a>: 6 h helfen</i>
 		<li>Workshop***: 120 €</i>
 		<li>Mittagessen an 3 Konferenztagen***: 21 €</li>
 	</ul>
@@ -59,13 +59,14 @@
 		<li>Tasche, T-Shirt***</li>
 		<li>Tagungsband***</li>
 		<li>Abendveranstaltung***</li>
+		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
 
 
 	<p><small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in.</small><br>
-		<small>** Regelungen für das Communityticket oder Helferticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive sowie aktive Helfer:innen der Konferenz für mindestens 6 Stunden.</small><br>
+		<small>** Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive.</small><br>
 		<small>*** wenn bestellt und solange verfügbar.</small><br>
-		<small>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</small>
+		<small>Info zum Mittagessen: Mi. vegetarisch, Do. vegetarisch|Fleisch, Fr. vegetarisch|Fisch, Vegan ist täglich auf der Speisekarte.</small><br>
 	</p>
 	
 
@@ -84,8 +85,8 @@
 
 	
 	<h3>Helfen</h3>
-	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2023/helfen/">Website <i>Helfen</i></a> lesen, dort sind viele Details erklärt.</p>
-	<p>Helfer:innen melden sich beim Orgateam und erhalten einen Gutschein für ein "Konferenzticket für Helfende".<br>
+	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2023/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.</p>
+	<p>Helfer:innen registrieren sich im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> und melden sich beim Orgateam, um einen Gutschein für ein "Konferenzticket für Helfende zu erhalten".<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
  <!--  	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>

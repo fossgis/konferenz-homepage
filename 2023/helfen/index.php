@@ -29,10 +29,11 @@
 	<p><b>Damit die FOSSGIS weiterhin erfolgreich stattfinden kann, brauchen wir Deine<sup>*</sup> Unterstützung!</b><br>
 		<span style="color:grey">* wer in der Community aktiv ist, wird geduzt :-)
          </span></p>
-	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
+	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
-		<li>diese Seite lesen</li> 
-		<li>bei Fragen einfach fragen, z.B. <a href="mailto:helfer@fossgis.de"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037</li> 
+		<li>Diese Seite lesen.</li> 
+		<li>Im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> registrieren und eine <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helferteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
+		<li>Für Fragen gerne <a href="mailto:helfer@fossgis.de"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037.</li> 
 		</ul>
 
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>
@@ -159,7 +160,7 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<li>Diese Seite gelesen haben und beim Orgateam melden sowie auch </li> 
 		<li>bei Fragen einfach fragen.</li>
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
-		<li>Registierung im Helfersystem: <a href="https://helfer.fossgis.de">https://helfer.fossgis.de</a></li> 
+		<li>Registierung im Helfersystem: <a href="https://helfer.fossgis.de?subject=Interesse_zu_helfen">https://helfer.fossgis.de</a></li> 
 	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> -->
 
 

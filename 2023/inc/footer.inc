@@ -10,7 +10,7 @@
 			<a href="./faq.php">FAQ</a>
 		</li>
 		<li>
-			<a href="https://www.fossgis.de/datenschutzerklärung">Datenschutzerklärung</a>
+			<a href="./datenschutz.php">Datenschutzerklärung</a>
 		</li>
 	</ul>
 </footer>

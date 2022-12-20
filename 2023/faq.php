@@ -30,25 +30,27 @@
 			<li><b>Ich brauche mein Ticket nur an einem Tag, kann ich es weitergeben?</b><br>
 				Nein.</li>
 			<li><b>Kann ich für mein Ticket arbeiten?</b><br>
-				Ja, Sie arbeiten mindestens 6 Stunden für ein Ticket! Buchen Sie ein Helfer:innen-Ticket und lesen die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfer</a>.</li>
+				Ja, Sie arbeiten mindestens 6 Stunden für ein Ticket! Registrieren Sie sich im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
+Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfer</a>.</li>
 			<li><b>Ich brauche mein Ticket nicht.</b><br>
-				Sie können ihr Ticket bis drei Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben.</li>
+				Sie können Ihr Ticket bis drei Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben.</li>
 
 			<li><b>Ich bin aktiv im Open-Source-Bereich oder bei OpenStreetMap.</b><br>
 				Für Aktive aus dem Open-Source- und OpenStreetMap-Bereich (Entwickler:innen, aktive Mapper:innen) ist das kostenfreie Communityticket vorgesehen. </li>
 			<li><b>Ich bin Vortragende:r oder Workshopleiter:in.</b><br>
 				Vortragende und Workshopleitende bekommen einen Gutschein-/Vouchercode, mit dem ein kostenfreies Ticket gebucht werden kann.</li>
 			<li><b>Ich arbeite für eine Forschungseinrichtung. Gibt es einen Rabatt?</b><br>
-				Nein. Es gibt Konfernztickets zum reduzierten Preis für u.a. Studierende, Rentner:innen, Freiwilligendienstleistende ... sowie kostenlose Tickets für Vortragende, Workshopleitende, Helfende und Aktive im OpenStreetMap-Projekt und Open-Source-GIS-Projekte.</li>
+				Nein. Es gibt Konfernztickets zum reduzierten Preis für u.a. Studierende, Rentner:innen, Freiwilligendienstleistende ... sowie kostenfreie Tickets für Vortragende, Workshopleitende, Helfende und Aktive im OpenStreetMap-Projekt und Open-Source-GIS-Projekte.</li>
 			<li><b>Ich brauche eine ordentliche Rechnung</b><br>
 				Sie erhalten eine Rechnung mit Abschluss Ihrer Buchung, diese steht in der Bestellung zum Download bereit.</li>
+			<li><b>Ich möchte meine Rechnungsadresse ändern.</b><br>
+				Ändern Sie Ihre Rechnungsadresse bitte im Webinterface Ihrer Bestellung (unter "Ihre Informationen" "Details bearbeiten") und geben uns einen Hinweis <a href="mailto:konferenz-orga@fossgis.de?subject=Rechnung_neu_generieren">per E-Mail</a>, damit wir die Rechnung neu generieren.</li>
 			<li><b>Welche Zahlungsmöglichkeiten gibt es?</b><br>
 				Zahlung per Überweisung sowie Zahlung per Paypal.</li>
 
 			<li><b>Ich bestelle aus der EU, möchte meine USt-ID angeben und eine Rechnung mit 0% Umsatzsteuer bekommen. </b><br>
-				Wir wenden Reverse Charge an. Bitte wählen Sie im Bestellprozess das entsprechende EU-Land aus und geben Ihre Umsatzsteuer-Identifikationsnummer (USt-ID-Nr.) an.</li>
-			<li><b>Ich möchte meine Rechnungsadresse ändern.</b><br>
-				Ändern Sie Ihre Rechnungsadresse bitte im Webinterface Ihrer Bestellung (unter "Ihre Informationen" "Details bearbeiten") und geben uns einen Hinweis <a href="mailto:konferenz-orga@fossgis.de?subject=Rechnung_neu_generieren">per E-Mail</a>, damit wir die Rechnung neu generieren.</li>
+				Nur bei Online-Konferenztickets wenden wir Reverse Charge an. Bitte wählen Sie im Bestellprozess das entsprechende EU-Land aus und geben Ihre Umsatzsteuer-Identifikationsnummer (USt-ID-Nr.) an.</li>
+
 			<li><b>Ich möchte meine Bestellung ändern.</b><br>
 				Bitte per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Bestellung_aendern">konferenz-orga@fossgis.de</a> mit Ihren Angaben, was geändert werden soll.</li>
 
@@ -56,20 +58,18 @@
 				Bitte melden Sie sich bei uns und teilen uns den richtigen und den fälschlich angegebenen Verwendungszweck sowie Kontoinhaber:in, von der das Geld kommt mit. Bitte führen Sie KEINE zweite Überweisung aus.</li>
 			<li><b>Wie sehe ich, ob meine Zahlung erfolgreich war?</b><br>
 				Die Überweisungen werden einmal pro Woche überprüft und bei Zahlungseingang im Bestellstatus eingepflegt. Da Überweisungen ein paar Tage dauern können, bitten wir um etwas Geduld. Sobald der Bestellstatus auf bezahlt geändert wird, erhalten Sie eine E-Mail. PayPal-Zahlungen werden sofort als bezahlt markiert.</li>
-
-
 			<li><b>Wie funktioniert das mit der Warteliste?</b><br>
 				Wenn die Veranstaltung ausverkauft ist, können Sie sich auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind, und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
 
 			<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
-				Auf der Seite <!--<a href="https://pretix.eu/fossgis/2022/page/neu-informationen-fr-teilnahme-an-fossgis-konferenz-2022/">-->"Informationen für Teilnehmende"</a> werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>
+				Auf der Seite <!--<a href="https://pretix.eu/fossgis/2023/page/informationen-fr-teilnahme-an-fossgis-konferenz-2023/">-->"Informationen für Teilnehmende"</a> werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>
 		</ul>
 
 	<h3>Workshops</h3>
 		<ul>
 
 			<li><b>Sind die Workshops im Konferenzticket enthalten?</b><br>
-				Nein, jeder Workshop wird einzeln gebucht und berechnet. Die meisten Workshops sind Übungen bzw. Seminare, die entweder vor Ort oder Online durchgeführt werden. Nähere Informationen zum jeweiligen Workshop finden Sie im Programm sowie bei der  Ticketbuchung <!--und auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zum Workshop</a>.-->
+				Nein, jeder Workshop wird einzeln gebucht und berechnet. Die meisten Workshops sind Übungen bzw. Seminare, die ausschließlich vor Ort durchgeführt werden. Nähere Informationen zum jeweiligen Workshop finden Sie im Programm sowie bei der  Ticketbuchung <!--und auf der Seite <a href="https://pretix.eu/fossgis/2022/page/informationen-zum-workshop/">Informationen zum Workshop</a>.-->
 			</li>
 			<li><b>Ich buche drei oder mehr Workshops. Gibt es einen Mengenrabatt?</b><br>
 				Nein.</li>
@@ -81,7 +81,7 @@
 		<ul>
 
 			<li><b>Ist die Veranstaltung barrierefrei?</b><br>
-				Antwort kommt</li>
+				Ja alle veranstaltungsräume sind barrierefrei zugänglich.</li>
 <!--			<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
 				Kurz vor Beginn der Konferenz, voraussichtlich am 07.03.2022 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 			<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
@@ -93,16 +93,16 @@
 	<h3>Sponsor</h3>
 		<ul>
 			<li><b>Ich möchte Sponsor werden.</b><br>
-				Hier finden Sie die <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre</a> der letzten Konferenz, die neue wird im August/September erstellt. <!--Bitte senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2022.pdf">Sponsoringvereinbarung</a> per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Bestellung_aendern">konferenz-orga@fossgis.de</a>.</li>
+				Hier finden Sie die <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre</a>. Bitte senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2023.pdf">Sponsoringvereinbarung</a> per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Sponsoring">konferenz-orga@fossgis.de</a>.</li>
 			<li><b>Das Logo ist noch nicht auf der Website.</b><br>
 				Die Logos werden regelmäßig in die Website eingepflegt. Das kann u.U. einige Tage dauern.</li>
 			<li><b>Fristen für Textbeitrag und Logo?</b><br>
-				01. Februar 2022.</li>-->
+				01. Februar 2022.</li>
 			<li><b>Gibt es Sponsorentickets?</b><br>
 				Nein.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
-				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre 2022</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/">Konferenzhomepage</a>.</li>
+				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/">Konferenzhomepage</a>.</li>
 
 
 		</ul>
@@ -110,25 +110,25 @@
 		<ul>
 
 			<li><b>Ich möchte einen Ausstellerstand.</b><br>
-				Voraussetzung ist ein Sponsoring entweder als Platin, Gold, Silber oder Bronze-Sponsor.</li>
+				Voraussetzung ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor.</li>
 			<li><b>Wie ist der Stand ausgestattet?</b><br>
-				Wenn wir vor Ort sind, gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. </li>
-			<!--<li><b>Wird der Raum Nachts verschlossen?</b><br>
-				Das Foyer der Uni Marburg ist Nachts verschlossen.</li>-->
+				Es gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. </li>
+			<li><b>Wird der Raum Nachts verschlossen?</b><br>
+				Das Foyer des Erwin-Schrödinger-Zentrums ist Nachts verschlossen.</li>
 			<li><b>Gibt es Ausstellerticket?</b><br>
 				Im Ausstellerpaket sind zwei Tickets enthalten. Der Besteller bekommt rechtzeitig die Vouchercodes.</li>
 			<li><b>Was mache ich mit dem Gutscheincode/ Vouchercode?</b><br>
 				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
-				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2022.pdf">Sponsoringbroschüre 2022</a> (die Broschüre für 2023 folgt im September) sowie auf der <a href="https://fossgis-konferenz.de/2022/">Konferenzhomepage</a>.</li>
+				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/#Sponsoring">Konferenzhomepage</a>.</li>
 
 		</ul>
 	<h3>Medienpartnerschaft</h3>
 		<ul>
 
 			<li><b>Wie werde ich Medienpartner?</b><br>
-				Wenn Sie die Konferenz unterstützen wollen oder eine gute Idee mitbringen, wenden Sie sich gern per E-Mail an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorgateam</a>.</li>
+				Wenn Sie die Konferenz unterstützen wollen oder eine gute Idee mitbringen, wenden Sie sich gern per E-Mail an das <a href="mailto:konferenz-orga@fossgis.de?subject=Medienpartner">Konferenzorgateam</a>.</li>
 
 
 		</ul>
@@ -136,45 +136,28 @@
 		<ul>
 
 			<li><b>Ich möchte bei der Veranstaltung helfen.</b><br>
-				Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informaieren Sie sich auf der <a href="https://fossgis-konferenz.de/2023/helfen/">Konferenzhomepage/helfen</a>.</li>
+				Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="https://fossgis-konferenz.de/2023/helfen/">Konferenzhomepage/helfen</a>.</li>
 			<li><b>Was ist das Helfersystem/Engelsystem?</b><br>
-				Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.</li>
-	<!--		<li><b>Wie funktioniert das Engelsystem, welche Arbeiten bzw. Aufgaben gibt es?</b><br>
-				Die meisten Antworten zu Fragen hinsichtlich helfen finden Sie im folgenden Abschnitt.</li>
-		</ul>
-	<h4>Wie werde ich Helfer:in für die Veranstaltung vor Ort?</h4>
-		<ul>			
-
-			<li>Lesen Sie folgenden Abschnitt sorgfältig.</li>
-			<li>Registrieren Sie sich auf <a href="helfer.fossgis.de">helfer.fossgis.de</a>, Helfer:innenname und E-Mail-Adresse</li>
-			<li>Registrieren Sie sich im Telegramkanal "Helfer:innen Fossgis 2022" <a heref="https://t.me/+IChw-K8-pB0yMjEy">https://t.me/+IChw-K8-pB0yMjEy</a></li>
-			<li>Der Telegrammkanal ist Ihre erste Anlaufstelle für Fragen und Planungen jeglicher Art.</li>
-			<li>Auf der FOSSGIS-Konferenz bitte als erstes zum Helfer-Stand kommen, um sich im Helfersystem als angekommen registrieren zu lassen.</li>
-			<li>Wenn Sie bisher noch nicht als Helfer:in bei der FOSSGIS-Konferenz waren und Fragen haben, ist der Helfer-Stand ihre erste Anlaufstelle bzw. werden wir im Online-Fall Treffen per Videokonferenz anbieten.</li>
-
-			<li>Im Helfersystem können Sie selber die gewünschten Schichten übernehmen.</li>
-
-			<li>Bei Fragen per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a> wenden. </li>
-			<br>
-		
+				Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.<br>
+Registrieren Sie sich im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
+Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfen</a>.</li>
 			<li><b>Brauche ich ein Ticket?</b><br>
-				Ja. Wenn Sie noch kein Ticket haben, können Sie ein kostenfreies Helfer:innenticket buchen und sollten dafür 6 Stunden helfen.</li>
+				Ja. Wenn Sie noch kein Ticket haben, erhalten Sie einen Gutscheincode für ein kostenfreies Helfer:innenticket. Falls Sie noch keinen Code erhalten haben, wenden Sie sich per <a href="mailto:helfer@fossgis.de?subject=Gutscheincode_Helferticket">E-Mail an das Helferteam</a>.</li>
 			<li><b>Was wäre mein Job als Helfer:in?</b><br>
-				Wir benötigen Helfer:innen für Videoaufzeichnung, Sessionleitung und beim Catering. <br> Genaue Beschreibungen sind im <a href="https://helfer.fossgis.de">Helfersystem</a> zu finden.<br> 
-Für Videohelfer:innen wird es am Tag 1 und am Tag 2 kurze Einweisungstreffen geben. Diese werden im Helfersystem angekündigt.<br>
-Ebenso wird es für Sessionleiter:innen ein oder mehrere Treffen geben.<br>
-Alle anderen Aufgaben kann dir Helfer:in, die vor dir die Schicht hatte, erklären.</li>
+				Wir benötigen Helfer:innen für Videoaufzeichnung, Sessionleitung, beim Catering sowie beim Auf- und Abbau. Genaue Beschreibungen sind im <a href="https://helfer.fossgis.de">Helfersystem</a> zu finden.<br>
+Für Videohelfer:innen wird es am Tag 1 und am Tag 2 kurze Einweisungstreffen geben. Diese werden im <a href="https://helfer.fossgis.de">Helfersystem</a> angekündigt. Ebenso wird es für Sessionleiter:innen ein oder mehrere Treffen geben.<br>
+Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklären.<br> </li>
 
 			<li><b>Wie buche ich eine Schicht im Helfersystem.</b><br>
 				Im Helfersystem anmelden, unter "Shifts" oder "Schichten" den Filter 'alle Räume' wählen und bei "Angeltypes" bzw. "Engeltypen" den Helfertyp auswählen, normalerweise "Helfer" und "Videohelfer". Sollten Sie zusätzliche Helfertypen haben, diese ebenfalls auswählen.</li>
 			<li><b>Ich bin ein Tag vor Beginn bereits vor Ort oder bleibe länger. Gibt es Aufbau und Abbauschichten?</b><br>
-				Ja. Der Aufbau beginnt am Tag 0, also Dienstag vor der Konferenz, der Abbau wird am Freitagnachmittag sein.</li>
-			<li><b>Ich bin Studierende und habe gelesen, das ich kostenlos ein Workshop besuchen kann. Was muss ich machen?</b><br>
-				Ein Account im Helfersystem haben und sechs Stunden arbeiten. Du kommst zum Helfer-Stand und die Schichtkoordination kann einen Workshop für dich buchen. Der Workshop sollte von weniger als 10 bzw.15 zahlungspflichtigen Teilnehmenden gebucht worden sein. Wenn du dich für ein Workshop am Tag 1 interessierst, frage per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a>.</li>
+				Ja. Der Aufbau beginnt am Dienstag vor der Konferenz ab 13 Uhr, der Abbau wird am Freitagnachmittag nach dem Sektempfang starten.</li>
+			<!--<li><b>Ich bin Studierende und habe gelesen, das ich kostenlos ein Workshop besuchen kann. Was muss ich machen?</b><br>
+				Ein Account im Helfersystem haben und sechs Stunden arbeiten. Du kommst zum Helfer-Stand und die Schichtkoordination kann einen Workshop für dich buchen. Der Workshop sollte von weniger als 10 bzw.15 zahlungspflichtigen Teilnehmenden gebucht worden sein. Wenn du dich für ein Workshop am Tag 1 interessierst, frage per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a>.</li>-->
 			<li><b>Wo bekomme ich mein Helfer T-Shirt?</b><br>
-				Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist.</li>
+				Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist und welche größe Du bestellt hast.</li>
 		</ul>
-		<h4>Wie werde ich Helfer:in für die Online-Veranstaltung?</h4>
+		<!--<h4>Wie werde ich Helfer:in für die Online-Veranstaltung?</h4>
 		<ul>
 <li>Lesen Sie folgenden Abschnitt sorgfältig.</li>
 			<li>Registrieren Sie sich auf <a href="helfer.fossgis.de">helfer.fossgis.de</a>, Helfer:innenname und E-Mail-Adresse</li>
