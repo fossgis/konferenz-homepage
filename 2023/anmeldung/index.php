@@ -10,8 +10,8 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2021/widget/v1.css">
-	<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2023/widget/v1.css">
+<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async></script>
 </head>
 
 
@@ -31,10 +31,10 @@
 
 	<p>Vom 15.-18. März 2023 findet die FOSSGIS-Konferenz als Präsenzveranstaltung an der Humboldt-Universität zu Berlin im Erwin-Schrödinger-Zentrum in Berlin-Adlershof statt.</p>
 	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops und wie Sie Helfer:in werden können. <br>Das Programm ist <a href="https://fossgis-konferenz.de/2023/programm/">hier</a> veröffentlicht.</p>
-<p>Der Ticketverkauf startet in der ersten Januarwoche 2022.</p>
+<p>Der Ticketverkauf startet in der ersten Januarwoche 2023.</p>
 		
-	<!--<p class="highlight">
-		&darr; <a href="https://pretix.eu/fossgis/2022/">Direkt zur Anmeldung</a>
+<!--	<p class="highlight">
+		&darr; <a href="https://pretix.eu/fossgis/2023/">Direkt zur Anmeldung</a>
 	</p>-->
 
 	<h3>Preise FOSSGIS-Konferenz 2023</h3>
@@ -89,17 +89,17 @@
 	<p>Helfer:innen registrieren sich im <a href="https://helfer.fossgis.de">Helfersystem</a> und melden sich beim Orgateam, um einen Gutschein für ein Konferenzticket für Helfende zu erhalten.<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
- <!--  	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2023/">diesem Link</a> direkt aufrufen.</p>
+<!-- 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
+	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2023/" target="_blank">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2023/"></pretix-widget>
-		<noscript>
-  			 <div class="pretix-widget">
-       			 <div class="pretix-widget-info-message">
-            		JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2023/">hier</a>.
-        		</div>
-    		</div>
-		</noscript>-->
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2023/">hier</a>.
+        </div>
+    </div>
+</noscript>-->
 			
 
 	<h3>Sie haben Fragen? Vielleicht finden Sie hier Antworten.</h3>
