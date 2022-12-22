@@ -39,7 +39,7 @@
 				 </li>
 				<li class="tile bronze">
 					 <a href="https://www.hu-berlin.de/de/ueberblick/campus/adlershof/einrichtungen/institute/geographie">
-						 <img src="./img/s/hu_siegel-kombi_rgb.png" alt="HU-Berlin" width="180px">
+						 <img src="./img/s/HU_plus_Geographie_Logo.png" alt="HU-Berlin Geographisches Institut" width="180px">
 					 </a>
                  </li>           
             </ul>
@@ -68,6 +68,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile platin">
 						<a href="sponsor/002_wheregroup.php" target="_blank">
 						<img src="./img/s/002_WhereGroup.jpg" alt="WhereGroup">
+						</a>
+					</li>
+					<li class="tile platin">
+						<a href="sponsor/003_hu-berlin.php" target="_blank">
+						<img src="./img/s/003_hu_siegel-kombi_rgb.png" alt="HU-Berlin">
 						</a>
 					</li>
 				</ul>	
