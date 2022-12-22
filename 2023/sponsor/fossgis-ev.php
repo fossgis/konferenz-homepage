@@ -56,19 +56,22 @@
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href="https://twitter.com/FOSSGIS_Verein"><i class="fab fa-twitter"></i></a>
+								<a href="https://mastodon.online/@FOSSGISeV" target="_blank"><i class="fab fa-mastodon"></i></a>
+							</li>
+<li>
+								<a href="https://twitter.com/FOSSGIS_Verein" target="_blank"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com/events/fossgis-konferenz20236972904227450822656/"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com/events/fossgis-konferenz20236972904227450822656/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							<li>
-								<a href="https://github.com/fossgis"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/fossgis" target="_blank"><i class="fab fa-github"></i></a>
 							</li>
 							<li>
-								<a href="https://www.facebook.com/events/410543357867232?"><i class="fab fa-facebook"></i></a>
+								<a href="https://www.facebook.com/events/410543357867232?" target="_blank"><i class="fab fa-facebook"></i></a>
 							</li>
 							<li>
-								<a href="https://www.youtube.com/user/fossgis"><i class="fab fa-youtube"></i></a>
+								<a href="https://www.youtube.com/user/fossgis" target="_blank"><i class="fab fa-youtube"></i></a>
 							</li>
 
 
