@@ -89,7 +89,7 @@
 	<p>Helfer:innen registrieren sich im <a href="https://helfer.fossgis.de">Helfersystem</a> und melden sich beim Orgateam, um einen Gutschein für ein Konferenzticket für Helfende zu erhalten.<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
-<!-- 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
+	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
 	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2023/" target="_blank">diesem Link</a> direkt aufrufen.</p>
 	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2023/"></pretix-widget>
@@ -99,7 +99,7 @@
             JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2023/">hier</a>.
         </div>
     </div>
-</noscript>-->
+</noscript>
 			
 
 	<h3>Sie haben Fragen? Vielleicht finden Sie hier Antworten.</h3>
