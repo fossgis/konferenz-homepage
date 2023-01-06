@@ -65,7 +65,7 @@ Nutzen Sie die <a href="https://www.vbb.de/fahrinfo/">Fahrplaninformation des Ve
 			Web: <a href="https://www.airporthotel-berlin-adlershof.de/" target="_blank">www.airporthotel-berlin-adlershof.de</a><br>
 			Adresse: Rudower Chaussee 14, 12489 Berlin<br>
 			Telefon: +49 30 - 720 22 22 000<br>
-			E-Mail: <a href="mailto:info@aha-berlin.de">info@aha-berlin.de</a><br><br>
+			E-Mail: <a href="mailto:info@aha-hotel.de">info@aha-hotel.de</a><br><br>
 			</li>
 
 			<li><b>CAMPANILE BERLIN BRANDENBURG AIRPORT</b><br>
@@ -93,13 +93,9 @@ Nutzen Sie die <a href="https://www.vbb.de/fahrinfo/">Fahrplaninformation des Ve
 			Web: <a href="https://www.pentahotels.com/hotels/germany/berlin-koepenick" target="_blank">www.pentahotels.com/hotels/germany/berlin-koepenick</a><br>
 			Adresse: Grünauer Straße 1, 12557 Berlin<br>
 			Telefon: +49 69 - 256699300<br>
-			E-Mail: <a href="mailto:reservations.koepenick@pentahotels.com">reservations.koepenick@pentahotels.com</a><br>
+			E-Mail: <a href="mailto:reservations.koepenick@pentahotels.com">reservations.koepenick@pentahotels.com</a><br><br>
 			</li>
 		
-			<p>Die WISTA Management GmbH, eine landeseigene Standortentwicklungsgesellschaft in Berlin, stellt für oben genannte Hotels vereinbarte Hotelkonditionen zur Verfügung, weitere Informationen finden Sie in <a href="https://files.fossgis.de/Konferenz/2023/Hotelsonderkonditionen_WISTA_Adlershof_2022.pdf">diesem Dokument</a>.
-		</ul>
-
-		<ul>
 			<li><b>Adapt Apartments Berlin</b><br>
 			Web: <a href="https://www.adaptapartments.de/businessapartments-berlin-de/" target="_blank">www.adaptapartments.de/businessapartments-berlin-de/</a><br>
 			Adresse: Erich Thilo Straße 3, Berlin<br>
