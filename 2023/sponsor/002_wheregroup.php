@@ -44,7 +44,7 @@
 
 					<p>Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
 
-					<p>Mehr zur WhereGroup unter <a href="www.wheregroup.com">www.wheregroup.com</a> und <a href="www.foss-academy.com">www.foss-academy.com</a>.</p>
+					<p>Mehr zur WhereGroup unter <a href="https://www.wheregroup.com">www.wheregroup.com</a> und <a href="https://www.foss-academy.com">www.foss-academy.com</a>.</p>
 
 
 
