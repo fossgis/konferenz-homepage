@@ -38,7 +38,7 @@
 					 </a>
 				 </li>
 				<li class="tile bronze">
-					 <a href="https://www.hu-berlin.de/de/ueberblick/campus/adlershof/einrichtungen/institute/geographie">
+					 <a href="http://www.geographie.hu-berlin.de/">
 						 <img src="./img/s/HU_plus_Geographie_Logo.png" alt="HU-Berlin Geographisches Institut" width="180px">
 					 </a>
                  </li>           
