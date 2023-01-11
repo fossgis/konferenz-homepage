@@ -85,8 +85,8 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>	
 					<li class="tile gold">
-						<a href="https://opengis.ch" target="_blank">
-						<img src="./img/s/102_opengisch.png" alt="opengis">
+						<a href="sponsor/102_OPENGis_CH.php" target="_blank">
+						<img src="./img/s/102_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
 						</a>
 					</li>
 				</ul>
@@ -140,6 +140,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile bronze">
 						<a href="sponsor/408_latlon.php" target="_blank">
 						<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="sponsor/409_gkg.php" target="_blank">
+						<img src="./img/s/409_gkg_logo.png" alt="gkg">
 						</a>
 					</li>
 <!--				<li class="tile bronze">
