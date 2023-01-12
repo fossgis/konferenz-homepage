@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>terrestris GmbH & Co. KG</h3>
 
-					<!--<p>terrestris ist Dienstleister für maßgeschneiderte Geoinformations-Lösungen mit Freier & Open Source Software.
+					<p>terrestris ist Dienstleister für maßgeschneiderte Geoinformations-Lösungen mit Freier & Open Source Software.
 Wir entwickeln Lösungen, die den tatsächlichen Anforderungen unserer Kunden entsprechen. Dies ist nach unserem eigenen Verständnis auch Grundlage unserer fairen, transparenten und häufig langfristigen Kundenbeziehungen.
 Dabei decken wir das gesamte Spektrum von Beratung, Konzeptionierung, Entwicklung bis hin zu Wartung & Support an.
 Unser Leistungsspektrum erstreckt sich auf folgende Bereiche:</p>
@@ -41,7 +41,7 @@ Unser Leistungsspektrum erstreckt sich auf folgende Bereiche:</p>
 						<li>Visualisierung von geographischen 3D-Daten im Browser</li>
 						<li>Einsatz und Verwendung freier Geodaten wie OpenStreetMap</li>
 						<li>QGIS</li>
-					</ul>-->
+					</ul>
 				</div>
 
 
