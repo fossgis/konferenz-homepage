@@ -113,6 +113,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					<li class="tile bronze">
+						<a href="sponsor/410_GEOINFO.php" target="_blank">
+						<img src="./img/s/410_Geoinfo_Logo.png" alt="GEOINFO">
+						</a>
+					</li>
+					<li class="tile bronze">
 						<a href="sponsor/403_sourcepole.php" target="_blank">
 						<img src="./img/s/403_sp_fossgis_2023.png" alt="sourcepole">
 						</a>
@@ -145,11 +150,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile bronze">
 						<a href="sponsor/409_gkg.php" target="_blank">
 						<img src="./img/s/409_gkg_logo.png" alt="gkg">
-						</a>
-					</li>
-					<li class="tile bronze">
-						<a href="sponsor/410_GEOINFO.php" target="_blank">
-						<img src="./img/s/410_Geoinfo_Logo.png" alt="GEOINFO">
 						</a>
 					</li>
 <!--				<li class="tile bronze">
