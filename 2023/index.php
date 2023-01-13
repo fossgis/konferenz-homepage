@@ -147,17 +147,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/409_gkg_logo.png" alt="gkg">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/410_GEOINFO.php" target="_blank">
+						<img src="./img/s/410_Geoinfo_Logo.png" alt="GEOINFO">
+						</a>
+					</li>
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/409_GEOINFO.php" target="_blank">
-						<img src="./img/s/409_Geoinfo_Logo.png" alt="GEOINFO">
-						</a>
-					</li>
-
 					<li class="tile bronze">
 						<a href="sponsor/411_NTI_CWSM_GmbH.php" target="_blank">
 						<img src="./img/s/411_nti_cwsm.png" alt="NTI CWSM GmbH">
