@@ -51,6 +51,12 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<p>Es gibt verschiedene Ideen für Exkursionen. Beispielsweise zur Kartensammlung der Staatsbibliothek oder Sehenswertes am Standort Adlershof oder eine Mappingaktion.<br>
 Weitere Informationen folgen.</p>
 
+	<h4>Mapathon mit Ärzte ohne Grenzen</h4>
+	<p>Ärzte ohne Grenzen lädt im Rahmen der FOSSGIS Konferenz 2023 zu einem Mapathon ein.
+Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmaterial zu unterstützen, welches die Hilfe für Menschen in Krisengebieten erleichtern kann. Es wird eine Einführung geben. FOSSGIS-Teilnehmende sind eingeladen mitzumachen, auch wenn sie noch nie gemappt haben. Weitere Informationen: URL<br>
+Termin: Freitag, 17. März 2023, 17-20 Uhr<br>
+Um eine Anmeldung wird gebeten: URL</p>
+
 	<h4>OSM-Event am Freitagabend</h4>
 	<p>Für alle, die am Freitagabend noch in der Stadt sind und/oder am OSM-Event teilnehmen möchten, wird ein gemeinsamer Treffpunkt zur Abendgestaltung bekannt gegeben.</p>
 
@@ -59,7 +65,10 @@ Weitere Informationen folgen.</p>
 
 	<p>Am Samstag, den 18. März findet von 9:30 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2023/OSM-Samstag">OSM-Wiki</a>. Wir bitten um <!--<a href="https://fossgis-konferenz.de/2023/anmeldung/">-->Anmeldung über das FOSSGIS-Konferenz-Teilnehmeranmeldesystem.</p>
 	
-	
+	<h4>Mapathon mit Ärzte ohne Grenzen</h4>
+	<p>Ärzte ohne Grenzen lädt im Rahmen des OSM-Samstages zu einem weiteren Mapathon ein. Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmaterial zu unterstützen, welches die Hilfe für Menschen in Krisengebieten erleichtern kann. Es wird eine Einführung geben. Es sind Menschen eingeladen, die noch nie gemappt haben. Weitere Informationen: URL<br>
+Termin: Samstag, 18. März 2023, 11-14 Uhr<br>
+Um eine Anmeldung wird gebeten: URL</p>
 
 	<?php include "../inc/footer.inc"; ?>
 
