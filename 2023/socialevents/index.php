@@ -38,6 +38,9 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
 	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden Sie ein am Donnerstag, den 16. März in der Nachmittagspause zum gemeinsamen Gruppenfoto am Haupteingang des Erwin-Schrödinger-Zentrums ein.</p>
+
+	<h4 id="Freiberufler" name="Freiberufler">Treffen der Freiberufler</h4>
+	<p>Am Donnerstag, den 16. März 2023 werden sich um 17.45 Uhr die Freiberufler aus dem FOSSGIS-Bereich im Seminarraum 1'306 zum gemeinsamen Austausch treffen.</p>
 	
 	<h4>FOSSGIS e.V. Mitgliederversammlung</h4>
 	<p>Am Donnerstag, den 16. März 2023, sind alle Mitglieder und Gäste ab 18:00 Uhr herzlich eingeladen an der Mitgliederversammlung teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Neuwahlen. Es gibt Getränke und es wird Pizza für alle bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>
@@ -51,7 +54,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<p>Es gibt verschiedene Ideen für Exkursionen. Beispielsweise zur Kartensammlung der Staatsbibliothek oder Sehenswertes am Standort Adlershof oder eine Mappingaktion.<br>
 Weitere Informationen folgen.</p>
 
-	<h4>Mapathon mit Ärzte ohne Grenzen</h4>
+	<h4 id="Mapathon" name="Mapathon">Mapathon mit Ärzte ohne Grenzen</h4>
 	<p>Ärzte ohne Grenzen lädt im Rahmen der FOSSGIS Konferenz 2023 zu einem Mapathon ein.
 Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmaterial zu unterstützen, welches die Hilfe für Menschen in Krisengebieten erleichtern kann. Es wird eine Einführung geben. FOSSGIS-Teilnehmende sind eingeladen mitzumachen, auch wenn sie noch nie gemappt haben. Weitere Informationen: URL<br>
 Termin: Freitag, 17. März 2023, 17-20 Uhr<br>
@@ -65,7 +68,7 @@ Um eine Anmeldung wird gebeten: URL</p>
 
 	<p>Am Samstag, den 18. März findet von 9:30 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2023/OSM-Samstag">OSM-Wiki</a>. Wir bitten um <!--<a href="https://fossgis-konferenz.de/2023/anmeldung/">-->Anmeldung über das FOSSGIS-Konferenz-Teilnehmeranmeldesystem.</p>
 	
-	<h4>Mapathon mit Ärzte ohne Grenzen</h4>
+	<h4 id="Mapathon" name="Mapathon">Mapathon mit Ärzte ohne Grenzen</h4>
 	<p>Ärzte ohne Grenzen lädt im Rahmen des OSM-Samstages zu einem weiteren Mapathon ein. Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmaterial zu unterstützen, welches die Hilfe für Menschen in Krisengebieten erleichtern kann. Es wird eine Einführung geben. Es sind Menschen eingeladen, die noch nie gemappt haben. Weitere Informationen: URL<br>
 Termin: Samstag, 18. März 2023, 11-14 Uhr<br>
 Um eine Anmeldung wird gebeten: URL</p>
