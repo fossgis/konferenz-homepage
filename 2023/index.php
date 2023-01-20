@@ -57,7 +57,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 		<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
 
-			<h4 class="highlight">Platinsponsoren</h4>
+			<h4 id="Platin" name="Platin" class="highlight">Platinsponsoren</h4>
 				<ul class="tiles">
 
 					<li class="tile platin">
@@ -77,7 +77,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 				</ul>	
 
-			<h4 class="highlight">Goldsponsoren</h4>
+			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
 					<li class="tile gold">
 						<a href="sponsor/101_bkg.php" target="_blank">
@@ -91,7 +91,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 				</ul>
 
-			<h4 class="highlight">Silbersponsoren</h4>
+			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
 					<li class="tile silver">
 						<a href="sponsor/201_terrestris.php" target="_blank">
@@ -100,7 +100,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>	
 				</ul>	
 
-			<h4 class="highlight">Bronzesponsoren</h4>
+			<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 				<ul class="tiles">
 					<li class="tile bronze">
 						<a href="sponsor/401_komoot.php" target="_blank">
@@ -150,6 +150,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile bronze">
 						<a href="sponsor/409_gkg.php" target="_blank">
 						<img src="./img/s/409_gkg_logo.png" alt="gkg">
+						</a>
+					</li>
+					<li class="tile bronze">
+						<a href="https://www.geofabrik.de/" target="_blank">
+						<img src="./img/s/412_Geofabrik.png" alt="geofabrik">
 						</a>
 					</li>
 <!--				<li class="tile bronze">
