@@ -32,8 +32,8 @@
 	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite lesen.</li> 
-		<li>Im <a href="https://helfer.fossgis.de">Helfersystem<a/> registrieren und eine <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helferteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
-		<li>Für Fragen gerne <a href="mailto:helfer@fossgis.de?subject=Fragen_zum_helfen"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>Im <a href="https://helfen.fossgis.de">Helfersystem<a/> registrieren und eine <a href="mailto:helfen@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helferteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
+		<li>Für Fragen gerne <a href="mailto:helfen@fossgis.de?subject=Fragen_zum_helfen"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037.</li> 
 		</ul>
 
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>
@@ -71,7 +71,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	</ul>
 	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>. Die Arbeitsweise des Konferenzorganisationsteams organisiert sich über ein internes Ticketsystem sowie regelmäßige Abstimmungstreffen.  </p>
 
-	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfer.fossgis.de/">Helfersystem</a>-->Helfersystem gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
+	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfen.fossgis.de/">Helfersystem</a>-->Helfersystem gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
 
 <h3>Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
 	<p>Es gibt zwei Helfer:innenarten.</p>
@@ -160,7 +160,7 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<li>Diese Seite gelesen haben und beim Orgateam melden sowie auch </li> 
 		<li>bei Fragen einfach fragen.</li>
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
-		<li>Registierung im Helfersystem: <a href="https://helfer.fossgis.de?subject=Interesse_zu_helfen">https://helfer.fossgis.de</a></li> 
+		<li>Registierung im Helfersystem: <a href="https://helfen.fossgis.de?subject=Interesse_zu_helfen">https://helfen.fossgis.de</a></li> 
 	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> -->
 
 

@@ -86,7 +86,7 @@
 	
 	<h3>Helfen</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2023/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.</p>
-	<p>Helfer:innen registrieren sich im <a href="https://helfer.fossgis.de">Helfersystem</a> und melden sich beim Orgateam, um einen Gutschein für ein Konferenzticket für Helfende zu erhalten.<br>
+	<p>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfersystem</a> und melden sich beim Orgateam, um einen Gutschein für ein Konferenzticket für Helfende zu erhalten.<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
