@@ -54,7 +54,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<p>Es gibt verschiedene Ideen für Exkursionen. Beispielsweise zur Kartensammlung der Staatsbibliothek oder Sehenswertes am Standort Adlershof oder eine Mappingaktion.<br>
 Weitere Informationen folgen.</p>-->
 
-	<h4>Exkursion Kartensammlung Staatsbibliothek zu Berlin</h4>
+	<h4 id="Kartensammlung_Staatsbibliothek" name ="Kartensammlung_Staatsbibliothek">Exkursion Kartensammlung Staatsbibliothek zu Berlin</h4>
 	<p>Am Freitag, den 17.03.2023 wird am späten Nachmittag eine Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Wir bitten um Anmeldung über die Konferenzamneldung, da die Zahl der Teilnehmenden begrenzt ist. Gemeinsamer Start circa 16.30 Uhr vom ESZ, BVG-Tickets muss jeder selber kaufen.<br>
 Bei Bedarf gibt es am Samatg, den 18.03. noch eine Runde, einfach <a href="mailto:konferenz-orga@fossgis.de">melden</a> und Interesse bekunden.</p>
 
