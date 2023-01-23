@@ -153,8 +153,8 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="https://www.geofabrik.de/" target="_blank">
-						<img src="./img/s/412_Geofabrik.png" alt="geofabrik">
+						<a href="sponsor/412_geofabrik.php" target="_blank">
+						<img src="./img/s/412_Geofabrik_logo4.png" alt="geofabrik">
 						</a>
 					</li>
 					<li class="tile bronze">

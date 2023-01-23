@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/412_Geofabrik.png" 
+			<img src="./img/s/412_Geofabrik_logo4.png" 
 				class="sponsor-logo" 
 				alt="Firmenlogo">
 			
@@ -43,7 +43,7 @@ Karten-, Geocoding- oder Routingserver.
 							www.geofabrik.de/</a><br>
 
 							E-Mail: <br>
-							<a href="mailto:ramm@geofabrik.de">ramm@geofabrik.de</a><br></h6>
+							<a href="mailto:info@geofabrik.de">info@geofabrik.de</a><br></h6>
 					</div>
 
 						
