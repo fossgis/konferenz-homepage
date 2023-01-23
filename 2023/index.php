@@ -157,6 +157,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/412_Geofabrik.png" alt="geofabrik">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/413_DBG.php" target="_blank">
+						<img src="./img/s/413_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
+						</a>
+					</li>
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
@@ -182,11 +187,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/415_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/416_DBG.php" target="_blank">
-						<img src="./img/s/416_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
-						</a>
-					</li>-->
+->
 
 
 					
