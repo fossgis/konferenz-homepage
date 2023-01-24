@@ -162,6 +162,13 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/413_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
 						</a>
 					</li>
+					<li class="tile bronze">
+					<!--	<a href="sponsor/411_geoSYS.php" target="_blank">-->
+						<a href="https://www.geosysnet.com/" target="_blank">
+						<img src="./img/s/411_geoSYS_logo.png" alt="geoSYS">
+						</a>
+					</li>
+					
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
 						<img src="./img/s/408_gis_ops_logo.png" alt="GIS • OPS UG">
