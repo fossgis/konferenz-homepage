@@ -163,8 +163,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					<li class="tile bronze">
-					<!--	<a href="sponsor/411_geoSYS.php" target="_blank">-->
-						<a href="https://www.geosysnet.com/" target="_blank">
+						<a href="sponsor/411_geoSYS.php" target="_blank">
 						<img src="./img/s/411_geoSYS_logo.png" alt="geoSYS">
 						</a>
 					</li>
