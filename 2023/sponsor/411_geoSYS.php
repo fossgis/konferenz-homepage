@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>geoSYS</h3>
 
-					<p>Text folgt.
+					<p>geoSYS ist Dienstleister im Bereich Geoinformation. Wir beraten Unternehmen, Verwaltungen bei der Einführung von GIS, Geodatenbanken, Geodateninfrastrukturen und Webmapping-Lösungen. Wir entwickeln Anwendungen, Portale, Geo-Apps und auch GIS-Plugins und setzen Projekte in aller Welt um.
 					</p>
 				</div>
 				<div class="col-lg-3">
