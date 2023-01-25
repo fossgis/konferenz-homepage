@@ -71,10 +71,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					<li class="tile platin">
+						<a href="sponsor/004_TSB.php" target="_blank">
+						<img src="./img/s/004_TSB_quer.png" alt="Technologiestiftung Berlin">
+						</a>
+					</li>
+					<li class="tile platin">
 						<a href="sponsor/003_hu-berlin.php" target="_blank">
 						<img src="./img/s/003_hu_siegel-kombi_rgb.png" alt="HU-Berlin">
 						</a>
 					</li>
+
 				</ul>	
 
 			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
