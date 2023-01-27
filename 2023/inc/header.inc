@@ -32,11 +32,11 @@
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
 		</li>		
+		<li id="navTeam">
+			<a href="./team/team.php">Team</a>
+		</li>
 		<!--	<li id="navExpo">
 			<a href="./expo/">Expo</a>
-		</li>
-		<li id="navTeam">
-			<a href="./loc/loc.php">Team</a>
 		</li>-->
 	</ul>
 </nav>
