@@ -209,7 +209,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 					
 				</ul>
-			<h4 class="highlight">Medienpartner</h4>
+			<h4 id="Medienpartner" name="Medienpartner"class="highlight">Medienpartner</h4>
 				<ul class="tiles">
 					<li class="tile media">
 						<a href="https://live.osgeo.org/de/index.html" target="_blank">
