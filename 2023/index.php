@@ -238,7 +238,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 
 
-				</ul>
+				</ul>-->
 
 
 			
