@@ -248,7 +248,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>
   
   
-        <?php include('inc/footer.inc'); ?
+        <?php include('inc/footer.inc'); ?>
  
 </body>
 </html>
