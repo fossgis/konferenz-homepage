@@ -204,7 +204,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/415_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 						</a>
 					</li>
-->
+-->
 
 
 					
@@ -238,17 +238,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 
 
-					<!--<li class="tile media">
-						<a href="https://ffmuc.net/" target="_blank">
-						<img src="./img/s/505_image_fffmuc.png" alt="ffmuc">
-						</a>
-					</li>
-
-					<li class="tile media">
-						<a href="https://workadventu.re/" target="_blank">
-						<img src="./img/s/507_TCM_WA.png" alt="Workadventure">
-						</a>
-					</li>-->
 				</ul>
 
 
