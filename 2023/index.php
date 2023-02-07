@@ -178,6 +178,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/414_LandPlanOS.png" alt="LandPlan OS GmbH">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="sponsor/415_TomTom.php" target="_blank">
+						<img src="./img/s/415_TomTom.png" alt="TomTom North America Inc">
+						</a>
+					</li>
 					
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
