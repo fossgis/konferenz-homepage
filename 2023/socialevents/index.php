@@ -31,8 +31,8 @@
 	<h3>Mittwoch, 15. März 2023</h3>
 
 	<h4>Abendveranstaltung </h4>
-	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz  ab circa 18:30 Uhr die Abendveranstaltung statt, auch Social Event genannt.<br> 
-Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. Dies wird bei der Ticketbuchung abgefragt.</p>
+	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
+Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. <br>Die Abendveranstaltung wird am Konferenzstandort im Erwin-Schrödinger-Zentrum ab 18.30 bis 22 Uhr stattfinden.</p>
 
 	<h3>Donnerstag, 16. März 2023</h3>
 
@@ -48,15 +48,19 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<h3>Freitag, 17. März 2023</h3>
 
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
-	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 15:30 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2023 am FOSSGIS-Vereins-Stand eingeladen.</p>
+	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:00 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2023 am FOSSGIS-Vereins-Stand eingeladen.</p>
 
 <!--	<h4>Exkursionen im Rahmen der Konferenz</h4>
 	<p>Es gibt verschiedene Ideen für Exkursionen. Beispielsweise zur Kartensammlung der Staatsbibliothek oder Sehenswertes am Standort Adlershof oder eine Mappingaktion.<br>
 Weitere Informationen folgen.</p>-->
 
 	<h4 id="Kartensammlung_Staatsbibliothek" name ="Kartensammlung_Staatsbibliothek">Exkursion Kartensammlung Staatsbibliothek zu Berlin</h4>
-	<p>Am Freitag, den 17.03.2023 wird am späten Nachmittag eine Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Wir bitten um Anmeldung über die Konferenzamneldung, da die Zahl der Teilnehmenden begrenzt ist. Gemeinsamer Start circa 16.30 Uhr vom ESZ, BVG-Tickets muss jeder selber kaufen.<br>
-Bei Bedarf gibt es am Samatg, den 18.03. noch eine Runde, einfach <a href="mailto:konferenz-orga@fossgis.de">melden</a> und Interesse bekunden.</p>
+	<p>Am Freitag, den 17.03.2023 wird am späten Nachmittag eine Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Wir bitten um Anmeldung über die Konferenzanmeldung, da die Zahl der Teilnehmenden begrenzt ist. Gemeinsamer Start circa 16.30 Uhr vom ESZ, BVG-Tickets muss jeder selber kaufen.<br></p>
+
+	<h4 id="Campus Adlershof" name ="Campus Adlershof">Exkursion Campus Adlershof/WISTA-Gelände</h4>
+	<p>Die FOSSGIS 2023 findet auf dem Gelände des Wissenschafts- und Wirtschaftsstandort Adlershof (WISTA) statt. Dort existieren noch es mehrere technische Denkmale – wie etwa den Trudelturm, die an den Beginn der Luftfahrtindustrie auf dem Campus erinnern. Zu sehen sind aber auch moderne, Forschungseinrichtungen, Gründer- und Technologiezentren die auf die heutige Entwicklung als Zukunftsort für Forschung und Innovation verweisen. In einer kleinen, etwa 60 Minuten Exkursion können wir sowohl dieser Geschichte als auch den neuen Trends nachstöbern und mehr über den Standort Adlershof erfahren.<br>
+Die Exkursion startet am 17.03 um 16:30 (nach dem Sektempfang) vor dem Haupteingang des Erwin-Schrödinger-Zentrums.
+Für eine gute Planung der Exkursion bitten wir um Anmeldung über die Konferenzanmeldung. Wer schon ein Ticket hat, schreibt eine Email mit der Bestellnummer, damit die Exkursion zur Bestellung hinzugefügt werden kann. Solange der Vorrat reicht.</p>
 
 	<h4 id="Mapathon" name="Mapathon">Mapathon mit Ärzte ohne Grenzen</h4>
 	<p>Ärzte ohne Grenzen lädt im Rahmen der FOSSGIS Konferenz 2023 zu einem Mapathon ein.
@@ -74,6 +78,10 @@ Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmate
 	<h4 id="Mapathon" name="Mapathon">Mapathon mit Ärzte ohne Grenzen</h4>
 	<p>Ärzte ohne Grenzen lädt im Rahmen des OSM-Samstages zu einem weiteren Mapathon ein. Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmaterial zu unterstützen, welches die Hilfe für Menschen in Krisengebieten erleichtern kann. Es wird eine Einführung geben. Weitere Informationen sind <a href="https://www.aerzte-ohne-grenzen.de/sich-engagieren/veranstaltungen/offener-mapathon-im-rahmen-der-fossgis-konferenz" target="_blank"> hier</a> zu finden. Es sind auch Menschen eingeladen, die noch nie gemappt haben. <br>
 <u>Termin:</u> Samstag, 18. März 2023, 11-14 Uhr, um Anmeldung wird gebeten: <a href="https://www.eventbrite.com/e/offener-mapathon-im-rahmen-der-fossgis-konferenz-2023-tickets-513950268087" target="_blank"> <b>Anmeldelink für 18.03.2023</b></a>.</p>
+
+	<h4 id="Kartensammlung_Staatsbibliothek" name ="Kartensammlung_Staatsbibliothek">Exkursion Kartensammlung Staatsbibliothek zu Berlin</h4>
+	<p>Am Samstag, den 18.03.2023 wird eine weitere Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Wir bitten um Anmeldung über die Konferenzanmeldung, da die Zahl der Teilnehmenden begrenzt ist. Der Treffpunkt für 10 Uhr wird den angemeldeten Teilnehmenden mitgeteilt, BVG-Tickets muss jeder selber kaufen.<br>
+Wer schon ein Konferenzticket hat, schreibt eine Email mit der Bestellnummer, damit die Exkursion zur Bestellung hinzugefügt werden kann. Wer sich schon für Freitag angemeldet hat und doch lieber am Samstag dabei sein möchte, schreibt eine <a href="mailto:konferenz-orga@fossgis.de">Mail</a> und gibt auch die Bestellnummer an. Solange der Vorrat reicht.</p>
 
 	<?php include "../inc/footer.inc"; ?>
 
