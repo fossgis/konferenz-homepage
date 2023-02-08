@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2023 - Sponsor TomTom North America Inc</title>
+	<title>FOSSGIS 2023 - Sponsor TomTom</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -29,7 +29,7 @@
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>TomTom North America Inc</h3>
+					<h3>TomTom</h3>
 
 					<p>Text folgt
 					</p>

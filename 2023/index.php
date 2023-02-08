@@ -103,7 +103,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<a href="sponsor/201_terrestris.php" target="_blank">
 						<img src="./img/s/201_terrestris.png" alt="terrestris">
 						</a>
-					</li>	
+					</li>
+					<li class="tile silver">
+						<a href="sponsor/202_schneider-digital.php" target="_blank">
+						<img src="./img/s/202_schneider-digital.png" alt="Schneider Digital">
+						</a>
+					</li>		
 				</ul>	
 
 			<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
