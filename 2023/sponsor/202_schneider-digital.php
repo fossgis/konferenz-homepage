@@ -31,7 +31,10 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Schneider Digital – Professional 3D & VR/AR Hardware-Creator für Performance in Berechnung und Visualisierung</h3>
 
-					<p>Schneider Digital ist Full-Service Lösungsanbieter für professionelle 3D-Stereo-, 4K/8K- und VR/AR-Hardware mit Schwerpunkt auf Performance in Datenverarbeitung und -Visualisierung. Unser Produktportfolio High Resolution 4K/8K-Monitore (UHD), 3D-Stereo- und Touch-Monitore von 22“ bis 100“, VR/AR-Lösungen, vom Desktop-System bis hin zu Multi-Display-Walls. Schneider Digital ist Hersteller der eigenen Powerwall-Lösung Laser smartVR-Wall sowie des passiven 3D-Stereo Monitors und Desktop VR-Systems 3D PluraView. Eigenentwickelte Performance-Workstations mit Profi-Grafikkarten von AMD und NVIDIA sowie innovative Hardware-Peripherie (Tracking, 3D-Controller und Eingabegeräte u.v.a.) komplettieren das Angebot zu ganzheitlichen Arbeitsplatz-Lösungen für alle anspruchsvollen Einsatzbereiche in Konstruktion & Design, Medical, FEM, CFD, GIS & BIM, Architektur, Forschung & Entwicklung, Film, TV, Animation und Digital Imaging (CGI, DCC).
+					<p>Unser Produktportfolio: High Resolution 4K/8K-Monitore (UHD), 3D-Stereo- und Touch-Monitore von 22“ bis 100“, VR/AR-Lösungen, vom Desktop-System bis hin zu Multi-Display-Walls.
+Schneider Digital ist Hersteller der eigenen Powerwall-Lösung Laser smartVR-Wall sowie des passiven 3D-Stereo Monitors und Desktop VR-Systems 3D PluraView.
+Eigenentwickelte Performance-Workstations mit Profi-Grafikkarten von AMD und NVIDIA sowie innovative Hardware-Peripherie (Tracking, 3D-Controller und Eingabegeräte u.v.a.)
+komplettieren das Angebot zu ganzheitlichen Arbeitsplatz-Lösungen für alle anspruchsvollen Einsatzbereiche.
 					</p>
 					<p><b>Schneider Digital</b><br>		
 					Josef J. Schneider e.K.<br>
@@ -53,19 +56,29 @@
 
 						
 				
-					<!--<div class="social-icon">
+					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+								<a href="https://www.youtube.com/channel/UC_ZGhq3IPL0zcvabelt7g2w"><i class="fab fa-youtube"></i></a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com//"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.xing.com/pages/schneiderdigitale-k"><i class="fab fa-xing"></i></a>
 							</li>
 							<li>
-								<a href="https://github.com/"><i class="fab fa-github"></i></a>
+								<a href="https://www.linkedin.com/company/schneider-digital-josef-j-schneider-e-k-/"><i class="fab fa-linkedin-in"></i></a>
 							</li>
-						</ul>-->
+							<li>
+								<a href="https://www.facebook.com/schneider.digital/"><i class="fab fa-facebook"></i></a>
+							</li>
+							<li>
+								<a href="https://www.pinterest.de/schneiderdigital/pins/"><i class="fab fa-pinterest"></i></a>
+							</li>
+
+							<li>
+								<a href="https://www.instagram.com/schneiderdigital/"><i class="fab fa-instagram"></i></a>
+							</li>
+						</ul>
 					</div>
 				</div>	
 

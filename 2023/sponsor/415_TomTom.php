@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>TomTom</h3>
 
-					<p>Text folgt
+					<p>TomTom hilft Menschen und Unternehmen, ihren Weg in der Welt zu finden. Wir unterstützen Autofahrer:innen, Automobilhersteller, Unternehmen und Entwickler:innen mit unseren Standortdaten und Technologien. Unsere anwendungsbereiten Karten, Routing, Echtzeit-Verkehrsinformationen, APIs und SDKs ermöglichen es den Träumern und Machern von heute, die Zukunft der Mobilität zu gestalten.
 					</p>
 				</div>
 				<div class="col-lg-3">
