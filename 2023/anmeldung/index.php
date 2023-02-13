@@ -42,12 +42,12 @@
 	<ul>
 		<li>Konferenzticket: 220 €</i>
 		<li>Konferenzticket - reduzierter Preis*: 60 €</i>
-<!--		<li>Onlineticket: 60 €</i>
-		<li>Onlineticket - reduzierter Preis*: 15 €</i>-->
 		<li>Konferenzticket - für Community**: € 0</i>
 		<li>Konferenzticket für <a href="https://fossgis-konferenz.de/2023/helfen/#Helfer:inwerden">Helfende</a>: 6 h helfen</i>
 		<li>Workshop***: 120 €</i>
 		<li>Mittagessen an 3 Konferenztagen***: 21 €</li>
+		<li>Onlinekonferenzticket: 60 €</i>
+		<li>Onlinekonferenzticket - reduzierter Preis*: 15 €</i>
 	</ul>
 		
 
