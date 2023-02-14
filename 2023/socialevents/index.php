@@ -23,6 +23,14 @@
 	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden. Räume stehen zur Verfügung, bitte <a href="mailto:pko@fossgis.de?subject=Session fuer das Konferenzprogramm">per E-Mail</a> beim Programmkomitee anfragen, wenn es im Programm veröffentlicht werden soll. </p>
 
 	<h3>Dienstag, 14. März 2023</h3>
+	
+	<h4>Geochicas laden ein</h4>
+	<p>Am Dienstag dem 14. März 2023 von 18-20 Uhr treffen sich die Geochicas im [Ort wird noch bekannt gegeben]. <br>
+        Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
+        Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu Netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns. <br>
+        Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.
+        Die Geochicas sind neugierig und freuen sich auf dich.
+        </p>	
 
 	<h4 id="Inoffizieller Start" name="Inoffizieller Start">Inoffizieller Start</h4>
 
@@ -46,6 +54,9 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<p>Am Donnerstag, den 16. März 2023, sind alle Mitglieder und Gäste ab 18:00 Uhr herzlich eingeladen an der Mitgliederversammlung teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Neuwahlen. Es gibt Getränke und es wird Pizza für alle bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>
 
 	<h3>Freitag, 17. März 2023</h3>
+	
+	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
+	<p>Am <a href="https://pretalx.com/fossgis2023/talk/WZBH9Z/">Mittwoch</a>, den 17. März gibt es vor dem Abschluss des reguläres Konferenzprogramms um 14:30 Uhr das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes und Tobia. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer finden Sie <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2023/">hier in Hannes's Blog</a>.	
 
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:00 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2023 am FOSSGIS-Vereins-Stand eingeladen.</p>
