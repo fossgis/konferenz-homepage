@@ -59,6 +59,7 @@
 		<li>Tasche, T-Shirt***</li>
 		<li>Tagungsband***</li>
 		<li>Abendveranstaltung***</li>
+		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
 		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
 
