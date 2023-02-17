@@ -241,6 +241,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
 						</a>
 					</li>
+
 					<!--<li class="tile media">
 						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
 						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
@@ -250,6 +251,15 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 				</ul>
 
+			<h4 id="Eventpartner" name="Eventpartner"class="highlight">Eventpartner</h4>
+				<ul class="tiles">
+
+					<li class="tile media">
+						<a href="https://https://23.foss-backstage.de/" target="_blank">
+						<img src="./img/s/507_FOSSBack_logo_2023.png" alt="FOSSBackStage">
+						</a>
+					</li>
+				</ul>
 
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
