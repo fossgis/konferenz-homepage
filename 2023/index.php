@@ -188,6 +188,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/415_TomTom.png" alt="TomTom North America Inc">
 						</a>
 					</li>
+					<li class="tile bronze">
+						<a href="https://geops.ch/" target="_blank">
+						<img src="./img/s/416_geOps.png" alt="geOps AG">
+						</a>
+					</li>
 					
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
