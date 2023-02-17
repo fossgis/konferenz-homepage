@@ -16,7 +16,7 @@
 <body id="programm">
 	<?php include "../inc/header.inc"; ?>
 
-        <h2>Programm</h2>
+        <h2 id="Programm" name="Programm"class="Programm">Programm</h2>
 		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2023/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2023/schedule/</a>.</p>
 	
 		<h3>Vortragende</h3>
@@ -58,7 +58,7 @@
 
 
 
-		<h3>Programm FOSSGIS 2023</h3>
+		<h3 id="Programm23" name="Programm23"class="Programm23">Programm FOSSGIS 2023</h3>
 		<pretalx-schedule event-url="https://pretalx.com/fossgis2023/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
