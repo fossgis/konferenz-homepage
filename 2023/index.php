@@ -189,7 +189,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					<li class="tile bronze">
-						<a href="https://geops.ch/" target="_blank">
+						<a href="sponsor/416_geOps.php" target="_blank">
 						<img src="./img/s/416_geOps.png" alt="geOps AG">
 						</a>
 					</li>
