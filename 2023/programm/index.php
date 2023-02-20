@@ -25,6 +25,9 @@
 		<h3>Programm-Highlights</h3>
 		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2023/featured/">https://pretalx.com/fossgis2023/featured/</a>.</p> 
 
+		<h3>Programm-APP für Android</h3>
+		<p>Die Android-App für das Konferenzprogramm ist verfügbar und im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p> 
+
 
 <!--	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
