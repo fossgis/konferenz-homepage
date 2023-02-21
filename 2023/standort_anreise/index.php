@@ -23,7 +23,7 @@
 
 	<?php include "../inc/header.inc"; ?>
 	
-	<h2>Standort, Anreise und Übernachtung</h2>
+	<h2 ID="Standort" name="Standort">Standort, Anreise und Übernachtung</h2>
 
 	<div class="map-container">
 		<div id="map" class="map"></div>
