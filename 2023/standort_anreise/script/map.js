@@ -3,7 +3,6 @@
 
 	const posESZ = [52.43113824, 13.53106760];
 	const posGI = [52.43227844, 13.53395405];
-	const posBunsen = [52.43068591, 13.53482998];
 	const posMensa = [52.42948231, 13.53046020];
 	//var friPos = [48.00111, 7.84938];
 	const posBaer = [52.46017981, 13.50565336];
@@ -16,10 +15,7 @@
 		'Geographisches Institut': posGI,
 		'Mensa': posMensa,
 		'S-Bhf Adlershof': posSBhfAdlershof,
-		'Mi: Bunsen-Saal (unbestätigt)': posBunsen,
 		'Di: Baergarten': posBaer,
-
-		//'Neustadt': []
 	};
 	const tooltipTemplate =
 		'<b>{name}</b><br>' +
@@ -59,20 +55,12 @@
 			}).bindTooltip(props.name);
 		}
 	});
-    // var tueLayer = L.circleMarker(posBaer, featureOptions).bindTooltip('Dienstag Abend<br>Inoffizieller Start im Beargarten');
-	// var wedLayer = L.circleMarker(wedPos, featureOptions).bindTooltip('Dienstag Abend<br>Ice-breaker im Schwarzer Kater');
-	//var thuLayer = L.circleMarker(friPos, featureOptions).bindTooltip('Mittwoch Abend<br>Abendveranstaltung <em>Schwätzli uffem Campus</em>');
-	//var wedLabel = createLabel(tuePos, 'SK', 2);
-	//var thuLabel = createLabel(friPos, 'FR', 2);
-	var mapOptions = {
+
+  	var mapOptions = {
 		layers: [
 			baseLayer,
 			campusLayer,
 			campusLabels,
-			//thuLayer,
-			//thuLabel,
-			//tueLayer,
-			//wedLabel,
 			hotelsLayer
 		],
 		center: posESZ,

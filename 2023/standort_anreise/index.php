@@ -32,20 +32,31 @@
 	<p>Adresse:<br> Humboldt-Universität zu Berlin<br>Erwin-Schrödinger-Zentrum<br> Rudower Ch 26<br> 12489 Berlin</p>
 		
 	<h3>Vorträge, Workshops, Netzwerken & Pausenversorgung</h3>
-<p>Die Konferenz findet im Erwin-Schrödinger-Zentrum der Humboldt-Universität zu Berlin in Berlin-Adlershof statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
+<p>Die Konferenz findet im Erwin-Schrödinger-Zentrum auf dem Campus Adlershof der Humboldt-Universität zu Berlin in der Rudower Chaussee 26, Berlin-Adlershof
+    statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
 
 	<p>Am Haupteingang des Erwin-Schrödinger-Zentrums begrüßen wir Sie am Welcome Desk. Im Foyer ist Raum für ein Aufeinandertreffen der Teilnehmenden mit den Ausstellern, die Pausenversorgung übernimmt das innewohnende Café Gerdans. Im Foyer besteht auch die Möglichkeit sich im "Himmel" als Konferenz-Helfer:in zu melden oder mit dem FOSSGIS e.V. am Vereinsstand ins Gespräch zu kommen.</p>
 
 	<p>Die <b>Vorträge</b> und <b>Anwendertreffen</b> finden im Gebäude des Erwin-Schrödinger-Zentrum in den Hörsälen und Konferenzräumen statt. Durch eine hohe Nachfrage kann es zeitweise dazu kommen, dass die Hörsäle bei Vorträgen voll ausgelastet sind. Für diesen Fall haben wir Räume organisiert, in denen die Vorträge im Livestream verfolgt werden können. Ein Raumplan folgt.
 	</p>
 
-	<p>Die <b>Workshops</b> werden in den PC-Räumen des Geographischen Instituts, welches nur zwei Häuser entfernt ist, durchgeführt.</p>
-	
+	<p>Die <b>Workshops</b> werden in den PC-Räumen im OG1 des Geographischen Instituts (Rudower Chaussee 16), welches nur zwei Häuser entfernt ist, durchgeführt.</p>
+
+	<p>In den kleineren Pausen gibt es ein Catering im Foyer des Erwin-Schrödinger-Zentrum. Für das Mittagessen können
+	   Verpflegungsgutscheine der <a href="https://www.stw.berlin/mensen/einrichtungen/humboldt-universit%C3%A4t-zu-berlin/mensa-hu-oase-adlershof.html">
+	   Mensa Oase</a> gebucht werden, die sich vis-a-vis des Erwin-Schrödinger-Zentrums im OG1 des
+	   Johann von Neumann-Haus (Rudower Chaussee 25) befindet.
+
 
 	<h3>Anreise mit öffentlichem Nahverkehr</h3>
-	<p>Der öffentliche Nahverkehr wird durch die Berliner Verkehrsbetriebe organisiert. Der Ticketkauf erfolgt in der Regel an den Haltestellen.</p>
+	<p>Der öffentliche Nahverkehr wird im Verkehrsverbund Berlin-Brandenburg (VBB) durch die Berliner Verkehrsbetriebe (BVG)
+	   und die S-Bahn (DB) organisiert. Der Ticketkauf erfolgt in der Regel per App
+	   (z.B. <a href="https://www.vbb.de/fahrinformation/vbb-apps/">VBB-App "Bus&#38;Bahn"</a>,
+	    <a href="https://www.bvg.de/de/tickets-und-tarife/alle-apps">BVG Apps</a>,
+	    <a href="https://www.bahn.de/service/mobile/db-navigator">DB Navigator</a>),
+	   an den S-Bahnhöfen oder in Tram & Bus.</p>
 
-	<p>Der S-Bahnhof Adlershof sowie die Tramhaltestelle Walter-Nernst-Straße bieten eine perfekte Anbindung an den Konferenzort.<br>
+	<p>Der S-Bahnhof Adlershof sowie die Tramhaltestellen Magnusstraße oder Walter-Nernst-Straße bieten eine perfekte Anbindung an den Konferenzort.<br>
 Nutzen Sie die <a href="https://www.vbb.de/fahrinfo/">Fahrplaninformation des Verkehrsverbundes Berlin-Brandenburg</a>. </p>
 
 	<p>Da kaum Parkplätze verfügbar sind, raten wir Ihnen mit öffentlichen Verkehrsmitteln anzureisen.</p>
