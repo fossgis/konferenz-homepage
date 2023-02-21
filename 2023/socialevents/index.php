@@ -56,7 +56,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<h3>Freitag, 17. März 2023</h3>
 	
 	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
-	<p>Am <a href="https://pretalx.com/fossgis2023/talk/WZBH9Z/">Freitag</a>, den 17. März gibt es vor dem Abschluss des reguläres Konferenzprogramms um 14:30 Uhr das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes und Tobia. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer finden Sie <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2023/">hier in Hannes's Blog</a>.	
+	<p>Am <a href="https://pretalx.com/fossgis2023/talk/WZBH9Z/">Freitag</a>, den 17. März gibt es vor dem Abschluss des reguläres Konferenzprogramms um 14:30 Uhr das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes und Tobia. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer finden Sie <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2022/">hier in Hannes's Blog</a>.	
 
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:00 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2023 am FOSSGIS-Vereins-Stand eingeladen.</p>
