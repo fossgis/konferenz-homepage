@@ -31,7 +31,7 @@
 
 	<p>Vom 15.-18. März 2023 findet die FOSSGIS-Konferenz als Präsenzveranstaltung an der Humboldt-Universität zu Berlin im Erwin-Schrödinger-Zentrum in Berlin-Adlershof statt.</p>
 	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops und wie Sie Helfer:in werden können. <br>Das Programm ist <a href="https://fossgis-konferenz.de/2023/programm/">hier</a> veröffentlicht.</p>
-<p>Der Ticketverkauf startet in der ersten Januarwoche 2023.</p>
+<!--<p>Der Ticketverkauf startet in der ersten Januarwoche 2023.</p>
 		
 <!--	<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2023/">Direkt zur Anmeldung</a>
@@ -62,7 +62,14 @@
 		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
 		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
-
+	<p><b><i>Das Onlinekonferenzticket enthält:</i></b></p>
+	<ul>
+		<li>Online-Teilnahme FOSSGIS-Konferenz</li>
+		<li>Ordentliche Rechnung, unter dem jeweiligen Buchungslink abrufbar.</li>
+		<li>Tagungsband***</li>
+		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
+		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
+	</ul>
 
 	<p><small>* reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in.</small><br>
 		<small>** Regelungen für das Communityticket gelten für FOSSGIS-, OpenStreetMap- und OSGeo-Aktive.</small><br>
@@ -76,7 +83,7 @@
 
 	<h3 id="Workshop" name="Workshop">Workshop buchen</h3>
 	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 120 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket hinzubuchen.<br>
- Der Workshop ist interaktiv und wird in einem mit PCs ausgestattenen Raum im Geographischen Institut stattfinden. Die meisten Workshops arbeiten mit der aktuellen <a href="http://live.osgeo.org/de/index.html">OSGeoLive.</a>
+ Der Workshop ist interaktiv und wird in einem mit PCs ausgestattenen Raum im Geographischen Institut stattfinden. Die meisten Workshops arbeiten mit der aktuellen <a href="http://live.osgeo.org/de/index.html">OSGeoLive. Es finden keine Onlineworkshops statt.</a>
 	
 <!--	<h3>Bildungsurlaub</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wurde angestrebt. Zunächst für die Bundesländer in Deutschland, wo die Beantragung keine zusätzlichen Kosten verursacht (BE, BB, HB, HH, NI, RP, SL, ST und SH). Weitere werden bei Bedarf beantragt. </p>
@@ -86,12 +93,18 @@
 
 	
 	<h3>Helfen</h3>
-	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2023/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.</p>
-	<p>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfersystem</a> und melden sich beim Orgateam, um einen Gutschein für ein Konferenzticket für Helfende zu erhalten.<br>
+	<p>Freiwillige Helfer:innen sind eingeladen und willkommen vor der Konferenz und/oder während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2023/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfersystem</a>.
+<!-- und melden sich beim Orgateam, um einen Gutschein für ein Konferenzticket für Helfende zu erhalten.-->
+<br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich per <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a> an das Helferteam.</p>
 
 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2023/" target="_blank">diesem Link</a> direkt aufrufen.</p>
+<!--	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2023/" target="_blank">diesem Link</a> direkt aufrufen.</p>-->
+	<p>Die FOSSGIS ist ausgebucht. Wir können keine weiteren Tickets für die Konferenz vor Ort in Berlin-Adlershof anbieten.
+Nutzen Sie die Möglichkeit einer Onlineteilnahme und buchen Sie ein Onlineticket.
+Sie erhalten Zugang zum Livestream der Vorträge mit Chat der Teilnehmenden sowie Fragenfunktion und Anwendertreffen, die im Seminarraum und per Videokonferenz stattfinden werden.
+Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetreffpunkt für Teilnehmende.</p>
+	
 	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2023/"></pretix-widget>
 <noscript>
