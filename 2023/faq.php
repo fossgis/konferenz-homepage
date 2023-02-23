@@ -23,8 +23,14 @@
 		<ul>
 			<li><b>Ab wann werden Tickets verkauft?</b><br>
 				ab Januar 2023 </li>
+			<li><b>Gibt es noch Tickets?</b><br>
+				die Konferenz ist seit 22.02.2023 ausgebucht. Die FOSSGIS kann online besucht werden</li>
 			<li><b>Wird es Videoaufzeichnungen von Vorträgen geben?</b><br>
-				Ja, wie immer werden diese nach der Veranstaltung veröffentlicht. Die Vorträge der Vorjahre stehen ebenfalls kostenlos bereit, zum Beispiel im <a href="https://av.tib.eu/search?q=FOSSGIS+Konferenz">AV-Portal der Technischen Informationsbibliothek</a>.</li>
+				Ja und wie immer werden diese nach der Veranstaltung veröffentlicht. Die Vorträge der Vorjahre stehen ebenfalls kostenlos bereit, zum Beispiel im <a href="https://av.tib.eu/search?q=FOSSGIS+Konferenz">AV-Portal der Technischen Informationsbibliothek</a>.</li>
+			<li><b>Ist die FOSSGIS 23 eine hybride Veranstaltung?</b><br>
+				Ja die FOSSGIS wird als hybride Veranstaltung ausgerichtet.
+Wenn Sie das Onlineticket buchen, bekommen Sie Zugang zum Livestream der Vorträgen mit Chat der Teilnehmenden sowie Fragenfunktion und Anwendertreffen, die im Seminarraum und per Videokonferenz stattfinden werden.
+Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetreffpunkt für Teilnehmende.</li>
 			<li><b>Wird es Tagestickets geben?</b><br>
 				Nein.</li>
 			<li><b>Ich brauche mein Ticket nur an einem Tag, kann ich es weitergeben?</b><br>
