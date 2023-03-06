@@ -32,15 +32,14 @@
 	<p>Adresse:<br> Humboldt-Universität zu Berlin<br>Erwin-Schrödinger-Zentrum<br> Rudower Ch 26<br> 12489 Berlin</p>
 		
 	<h3>Vorträge, Workshops, Netzwerken & Pausenversorgung</h3>
-<p>Die Konferenz findet im Erwin-Schrödinger-Zentrum auf dem Campus Adlershof der Humboldt-Universität zu Berlin in der Rudower Chaussee 26, Berlin-Adlershof
-    statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
+<p>Die Konferenz findet im Erwin-Schrödinger-Zentrum auf dem Campus Adlershof der Humboldt-Universität zu Berlin in der Rudower Chaussee 26, Berlin-Adlershof statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
 
 	<p>Am Haupteingang des Erwin-Schrödinger-Zentrums begrüßen wir Sie am Welcome Desk. Im Foyer ist Raum für ein Aufeinandertreffen der Teilnehmenden mit den Ausstellern, die Pausenversorgung übernimmt das innewohnende Café Gerdans. Im Foyer besteht auch die Möglichkeit sich im "Himmel" als Konferenz-Helfer:in zu melden oder mit dem FOSSGIS e.V. am Vereinsstand ins Gespräch zu kommen.</p>
 
-	<p>Die <b>Vorträge</b> und <b>Anwendertreffen</b> finden im Gebäude des Erwin-Schrödinger-Zentrum in den Hörsälen und Konferenzräumen statt. Durch eine hohe Nachfrage kann es zeitweise dazu kommen, dass die Hörsäle bei Vorträgen voll ausgelastet sind. Für diesen Fall haben wir Räume organisiert, in denen die Vorträge im Livestream verfolgt werden können. Ein Raumplan folgt.
+	<p>Die <b>Vorträge</b> und <b>Anwendertreffen</b> finden im Gebäude des Erwin-Schrödinger-Zentrum in den Hörsälen und Konferenzräumen statt. Durch eine hohe Nachfrage kann es zeitweise dazu kommen, dass die Hörsäle bei Vorträgen voll ausgelastet sind. Für diesen Fall haben wir Räume organisiert, in denen die Vorträge im Livestream verfolgt werden können. Die Raumpläne finden Sie <a href="./standort_anreise/raeume.php">hier</a>.
 	</p>
 
-	<p>Die <b>Workshops</b> werden in den PC-Räumen im OG1 des Geographischen Instituts (Rudower Chaussee 16), welches nur zwei Häuser entfernt ist, durchgeführt.</p>
+	<p>Die <b>Workshops</b> werden in den PC-Räumen im OG1 des Geographischen Instituts (Rudower Chaussee 16), welches nur zwei Häuser entfernt ist, durchgeführt. Die Raumpläne finden Sie <a href="./standort_anreise/raeume.php">hier</a>.</p>
 
 	<p>In den kleineren Pausen gibt es ein Catering im Foyer des Erwin-Schrödinger-Zentrum. Für das Mittagessen können
 	   Verpflegungsgutscheine der <a href="https://www.stw.berlin/mensen/einrichtungen/humboldt-universit%C3%A4t-zu-berlin/mensa-hu-oase-adlershof.html">
