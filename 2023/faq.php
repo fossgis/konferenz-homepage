@@ -40,6 +40,8 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
 Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfer</a>.</li>
 			<li><b>Ich brauche mein Ticket nicht.</b><br>
 				Sie können Ihr Ticket bis drei Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben.</li>
+			<li><b>Wo finde ich mein Konferenzticket?</b><br>
+				Sie finden das PDF/Passbook/Wallet in Ihrer Bestellung. Den Link zur Bestellung finden Sie in jeder Mail, die das System ihnen sendet. Wenn die Bestellung auf bezahlt steht, ist der Downloadlink aktiv.</li>
 
 			<li><b>Ich bin aktiv im Open-Source-Bereich oder bei OpenStreetMap.</b><br>
 				Für Aktive aus dem Open-Source- und OpenStreetMap-Bereich (Entwickler:innen, aktive Mapper:innen) ist das kostenfreie Communityticket vorgesehen. </li>
