@@ -40,7 +40,7 @@
 
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
-Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. <br>Die Abendveranstaltung wird am Konferenzstandort im Erwin-Schrödinger-Zentrum ab 18.30 bis 22 Uhr stattfinden.</p>
+Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. <br>Die Abendveranstaltung wird am Konferenzstandort im Erwin-Schrödinger-Zentrum ab 18.30 bis 22 Uhr stattfinden. Für eine musikalische Begleitung sorgt DJ e.Kato aus Berlin.</p>
 
 	<h3>Donnerstag, 16. März 2023</h3>
 
