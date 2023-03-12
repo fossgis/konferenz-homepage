@@ -25,7 +25,7 @@
 	<h3>Dienstag, 14. März 2023</h3>
 	
 	<h4>Geochicas laden ein</h4>
-	<p>Am Dienstag dem 14. März 2023 von 18-20 Uhr treffen sich die Geochicas im [Ort wird noch bekannt gegeben]. <br>
+	<p>Am Dienstag dem 14. März 2023 von 18-20 Uhr treffen sich die Geochicas im <a href="https://reviersuedost.de/baergarten" target="_blank">Baergarten</a> auf dem Gelände der alten <a href="https://www.openstreetmap.org/way/41239125" title="Bärenquellbrauerei auf OpenStreetMap">Bärenquellbrauerei</a> (Schnellerstr. 137, 12439 Berlin-Niederschöneweide) . <br>
         Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
         Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu Netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns. <br>
         Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.
