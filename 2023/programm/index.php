@@ -40,7 +40,7 @@
 			</li>
 		</ul>	-->	
 
-	<h3>Tagungsband</h3>
+	<h3 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h3>
 	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2023_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
 	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
