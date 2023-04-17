@@ -66,7 +66,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 Weitere Informationen folgen.</p>-->
 
 	<h4 id="Kartensammlung_Staatsbibliothek" name ="Kartensammlung_Staatsbibliothek">Exkursion Kartensammlung Staatsbibliothek zu Berlin</h4>
-	<p>Am Freitag, den 17.03.2023 wird am späten Nachmittag eine Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Wir bitten um Anmeldung über die Konferenzanmeldung, da die Zahl der Teilnehmenden begrenzt ist. Gemeinsamer Start circa 16.30 Uhr vom ESZ, BVG-Tickets muss jeder selber kaufen.<br></p>
+	<p>Am Freitag, den 17.03.2023 wird am späten Nachmittag eine Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Hier sind die Materialien zur Exkursion verlinkt: https://kartographie.staatsbibliothek-berlin.de/index.php?id=40.<br></p>
 
 	<h4 id="Campus Adlershof" name ="Campus Adlershof">Exkursion Campus Adlershof/WISTA-Gelände</h4>
 	<p>Die FOSSGIS 2023 findet auf dem Gelände des Wissenschafts- und Wirtschaftsstandort Adlershof (WISTA) statt. Dort existieren noch mehrere technische Denkmale – wie etwa den Trudelturm, die an den Beginn der Luftfahrtindustrie auf dem Campus erinnern. Zu sehen sind aber auch moderne, Forschungseinrichtungen, Gründer- und Technologiezentren die auf die heutige Entwicklung als Zukunftsort für Forschung und Innovation verweisen. In einer kleinen, etwa 60 Minuten Exkursion können wir sowohl dieser Geschichte als auch den neuen Trends nachstöbern und mehr über den Standort Adlershof erfahren.<br>
@@ -91,8 +91,7 @@ Die Initiative hat das Ziel die Erstellung und Vervollständigung von Kartenmate
 <u>Termin:</u> Samstag, 18. März 2023, 11-14 Uhr, um Anmeldung wird gebeten: <a href="https://www.eventbrite.com/e/offener-mapathon-im-rahmen-der-fossgis-konferenz-2023-tickets-513950268087" target="_blank"> <b>Anmeldelink für 18.03.2023</b></a>.</p>
 
 	<h4 id="Kartensammlung_Staatsbibliothek" name ="Kartensammlung_Staatsbibliothek">Exkursion Kartensammlung Staatsbibliothek zu Berlin</h4>
-	<p>Am Samstag, den 18.03.2023 wird eine weitere Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Wir bitten um Anmeldung über die Konferenzanmeldung, da die Zahl der Teilnehmenden begrenzt ist. Der Treffpunkt für 10 Uhr wird den angemeldeten Teilnehmenden mitgeteilt, BVG-Tickets muss jeder selber kaufen.<br>
-Wer schon ein Konferenzticket hat, schreibt eine Email mit der Bestellnummer, damit die Exkursion zur Bestellung hinzugefügt werden kann. Wer sich schon für Freitag angemeldet hat und doch lieber am Samstag dabei sein möchte, schreibt eine <a href="mailto:konferenz-orga@fossgis.de">Mail</a> und gibt auch die Bestellnummer an. Solange der Vorrat reicht.</p>
+	<p>Am Samstag, den 18.03.2023 wird eine weitere Exkursion zur Kartensammlung der Staatsbibliothek zu Berlin, Haus Unter den Linden, angeboten. Hier sind die Materialien zur Exkursion verlinkt: https://kartographie.staatsbibliothek-berlin.de/index.php?id=40.</p>
 
 	<?php include "../inc/footer.inc"; ?>
 

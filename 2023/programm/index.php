@@ -22,26 +22,27 @@
 		<h3>Vortragende</h3>
 		<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2023/speaker/</a>.</p>
 
-		<h3>Programm-Highlights</h3>
-		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2023/featured/">https://pretalx.com/fossgis2023/featured/</a>.</p> 
+<!--		<h3>Programm-Highlights</h3>
+		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2023/featured/">https://pretalx.com/fossgis2023/featured/</a>.</p> -->
 
-		<h3>Programm-APP für Android</h3>
-		<p>Die Android-App für das Konferenzprogramm ist verfügbar und im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p> 
-
-
-<!--	<h3>Vortragsaufzeichnungen</h3>
+    	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
-			<li> <a href="https://media.ccc.de/c/fossgis2022" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2022</a></p> 
+			<li> <a href="https://pretalx.com/fossgis2023/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p> 
 			</li>
-			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
+			<li> <a href="https://media.ccc.de/c/fossgis2023" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2023</a></p> 
 			</li>
+<!--			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
+			</li>-->
 			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p> 
 			</li>
-		</ul>	-->	
+		</ul>
 
 	<h3 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h3>
 	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2023_digital.pdf">als PDF zum Download</a> zur Verfügung.
+
+		<h3>Programm-APP für Android</h3>
+		<p>Die Android-App für das Konferenzprogramm ist im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p> 
 
 	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2022</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
