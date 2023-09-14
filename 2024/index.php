@@ -18,33 +18,39 @@
 
             <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
 
-            <p>Die FOSSGIS-Konferenz 2024 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Kooperation mit dem <a href="https:">Institut für Verkehrsplanung und Logistik </a> der Technischen Universität Hamburg und der HafenCityUniversität  veranstaltet und findet im Erwin-Schrödinger-Zentrum auf dem Campus Adlershof statt.</p>
+            <p>Die FOSSGIS-Konferenz 2024 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Kooperation mit dem <a href="https://www.tuhh.de/vpl/start">Institut für Verkehrsplanung und Logistik </a> der Technischen Universität Hamburg und dem  <a href="http://www.geomatik-hamburg.de/g2lab/index.html">Labor für Geoinformatik und Geovisualisierung</a> der HafenCityUniversität veranstaltet und findet auf dem Campus der TUHH in Hamburg-Harburg statt.</p>
 
-              <ul class="tiles">
-				<li class="tile bronze">
+      <div>    <ul class="tiles">
+				<li class="tile silver">
                      <a href="./sponsor/fossgis-ev.php">
-                         <img src="./img/FOSSGIS_RGB.png" alt="FOSSGIS e.V.">
+                         <img src="./img/FOSSGISev_ohneVerlauf.png" alt="FOSSGIS e.V."  align="center">
                      </a>
                  </li>
 
-                 <li class="tile bronze">
+                 <li class="tile silver">
                      <a href="https://www.openstreetmap.de/">
-                         <img src="./img/osm.png" alt="OSM Community">
+                         <img src="./img/osm.png" alt="OSM Community" align="center">
                      </a>
                  </li>                                   
-                 <li class="tile bronze">
+                 <li class="tile silver">
                      <a href="https://www.osgeo.org/">
-                         <img src="img/osgeo.png" width="180px" Alt="OSGeo">
+                         <img src="img/osgeo.png" Alt="OSGeo" align="center">
 					 </a>
 				 </li>
-<!--				<li class="tile bronze">
-					 <a href="http://www.geographie.hu-berlin.de/">
-						 <img src="./img/s/HU_plus_Geographie_Logo.png" alt="HU-Berlin Geographisches Institut" width="180px">
+	 </ul></div>
+	 <div> <ul class="tiles">
+  		 <li class="tile silver">
+		     <a href="href="https://www.tuhh.de/vpl/start">
+			 <img src="./img/Tuhh-vpl_Logo.png" alt="TUHH" align="center">
 					 </a>
-                 </li>   -->        
-            </ul>
+                 </li>  
+		<li class="tile silver">
+		     <a href="href="http://www.geomatik-hamburg.de/g2lab/index.html">
+			 <img src="./img/HCU_Logo.png" alt="HCU" align="center">
+					 </a>
+                 </li>  
+            </ul> </div>
            
-
             <h3>Was ist die FOSSGIS Konferenz?</h3>
 
             <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme sowie Open Data. Hier treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs-, Arbeits- und Weiterentwicklungsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodatenanalysen und -modellierungen und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.

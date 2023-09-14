@@ -4,7 +4,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 
-	<title>FOSSGIS - FAQ</title>
+	<title>FOSSGIS 2024 - FAQ</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -70,8 +70,8 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 				Wenn die Veranstaltung ausverkauft ist, können Sie sich auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind, und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
 
 			<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
-				Auf der Seite <!--<a href="https://pretix.eu/fossgis/2023/page/informationen-fr-teilnahme-an-fossgis-konferenz-2023/" "Informationen für Teilnehmende"</a> werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>
-		</ul>-->
+				Auf der Seite <!--<a href="https://pretix.eu/fossgis/2023/page/informationen-fr-teilnahme-an-fossgis-konferenz-2023/" "Informationen für Teilnehmende"</a> werden wichtige Hinweise zur Veranstaltung laufend gehalten.</li>-->
+		</ul>
 
 	<h3>Workshops</h3>
 		<ul>
@@ -82,9 +82,9 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 <!--			<li><b>Ich buche drei oder mehr Workshops. Gibt es einen Mengenrabatt?</b><br>
 				Nein.</li>
 			<li><b>Ich habe schon ein Ticket und möchte doch noch einen Workshop buchen.</b><br>
-				Nutzen Sie in Ihrer Bestellung den Link: "Workshop nachträglich hinzubuchen".</li>
+				Nutzen Sie in Ihrer Bestellung den Link: "Workshop nachträglich hinzubuchen".</li>-->
 
-		</ul>-->
+		</ul>
 	<h3>Zugang</h3>
 		<ul>
 
@@ -112,10 +112,10 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 				Nein.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
-				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/">Konferenzhomepage</a>.</li>
+				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/">Konferenzhomepage</a>.</li>-->
 
 
-		</ul>-->
+		</ul>
 	<h3>Aussteller</h3>
 		<ul>
 
@@ -132,9 +132,9 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
-				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/#Sponsoring">Konferenzhomepage</a>.</li>
+				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/#Sponsoring">Konferenzhomepage</a>.</li>-->
 
-		</ul>-->
+		</ul>
 	<h3>Medienpartnerschaft</h3>
 		<ul>
 
@@ -147,7 +147,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 		<ul>
 
 			<li><b>Ich möchte bei der Veranstaltung helfen.</b><br>
-				Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="https://fossgis-konferenz.de/2024/helfen/">Konferenzhomepage/helfen</a>.</li>
+				Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="../2024/helfen/">Konferenzhomepage/helfen</a>.</li>
 			<li><b>Was ist das Helfersystem/Engelsystem?</b><br>
 				Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.<br>
 <!--Registrieren Sie sich im <a href="https://helfer.fossgis.de">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
@@ -168,7 +168,7 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklär
 			<!--<li><b>Ich bin Studierende und habe gelesen, das ich kostenlos ein Workshop besuchen kann. Was muss ich machen?</b><br>
 				Ein Account im Helfersystem haben und sechs Stunden arbeiten. Du kommst zum Helfer-Stand und die Schichtkoordination kann einen Workshop für dich buchen. Der Workshop sollte von weniger als 10 bzw.15 zahlungspflichtigen Teilnehmenden gebucht worden sein. Wenn du dich für ein Workshop am Tag 1 interessierst, frage per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a>.</li>-->
 			<li><b>Wo bekomme ich mein Helfer T-Shirt?</b><br>
-				Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist und welche größe Du bestellt hast.</li>
+				Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist und welche Größe Du bestellt hast.</li>
 		</ul>
 		<!--<h4>Wie werde ich Helfer:in für die Online-Veranstaltung?</h4>
 		<ul>
@@ -216,7 +216,7 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklär
 			<li>Matrixkanal: <a href="https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org">#FOSSGIS2024:matrix.org </a></li>
 			<li>E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Konferenzorganisationsteam_erreichen">konferenz-orga@fossgis.de</a> </li>
 			<li>Anruf: +49 30-62932037</li>
-			<li>Fragen zum Programm an das <a href="mailto:PKO@fossgis.de?subject=Programmkomitee_erreichen">Programmkomitee</a> </li>
+			<li>Fragen zum Programm an das <a href="mailto:Programm@fossgis.de?subject=Programmkomitee_erreichen">Programmkomitee</a> </li>
 	</ul>
 
 

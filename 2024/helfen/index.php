@@ -160,7 +160,7 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<li>Diese Seite gelesen haben und beim Orgateam melden sowie auch </li> 
 		<li>bei Fragen einfach fragen.</li>
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
-		<li>Registierung im Helfersystem: <a href="https://helfen.fossgis.de?subject=Interesse_zu_helfen">https://helfen.fossgis.de</a></li> 
+<!--		<li>Registierung im Helfersystem: <a href="https://helfen.fossgis.de?subject=Interesse_zu_helfen">https://helfen.fossgis.de</a></li> 
 	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> -->
 
 
