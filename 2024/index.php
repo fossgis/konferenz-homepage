@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
+	<link rel="stylesheet" href="./fontawesome/css/all.css" />
 </head>
 
 <body id="home">
