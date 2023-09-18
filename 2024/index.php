@@ -41,12 +41,12 @@
 	 </ul></div>
 	 <div> <ul class="tiles">
   		 <li class="tile silver">
-		     <a href="href="https://www.tuhh.de/vpl/start">
+		     <a href="https://www.tuhh.de/vpl/start">
 			 <img src="./img/Tuhh-vpl_Logo.png" alt="TUHH" align="center">
 					 </a>
                  </li>  
 		<li class="tile silver">
-		     <a href="href="http://www.geomatik-hamburg.de/g2lab/index.html">
+		     <a href="http://www.geomatik-hamburg.de/g2lab/index.html">
 			 <img src="./img/HCU_Logo.png" alt="HCU" align="center">
 					 </a>
                  </li>  
