@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2023 - FOSSGIS e.V.</title>
+	<title>FOSSGIS 2024 - FOSSGIS e.V.</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -18,7 +18,7 @@
 
 <body id="expo">
 
-	<p><a href="/2023">Zurück zur Startseite</a></p>
+	<p><a href="/2024">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
