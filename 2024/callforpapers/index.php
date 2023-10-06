@@ -28,7 +28,7 @@ Mit Vorträgen, Workshops, Demo-Sessions, Anwendertreffen und Gelegenheiten zum 
 
 	<p>Samstag, der 23. März ist dem "OSM-Event" gewidmet, einer Unkonferenz der deutschsprachigen OpenStreetMap-Community. Es finden Vorträge und Diskussionsrunden zu aktuellen Themen statt.</p>
 
-    <p>Der <a href="https://pretalx.com/fossgis2024/cfp">Call for Participation FOSSGIS 2024</a> ist bis zum 6. November 2023 geöffnet (keine Verlängerung).</p>
+    <p>Der <a href="https://pretalx.com/fossgis2024/cfp">Call for Participation für die FOSSGIS 2024</a> ist bis zum 6. November 2023 geöffnet (keine Verlängerung).</p>
 
     <h2>Themenbereiche</h2>
 
@@ -57,7 +57,7 @@ Mit Vorträgen, Workshops, Demo-Sessions, Anwendertreffen und Gelegenheiten zum 
 	<p>Das Konferenzprogramm beinhaltet unterschiedliche Formate.</p>
 	<ul>
 		<li><strong>Lightning Talk</strong><br>
-Ein Lightning Talk bietet Gelegenheit neue Software, neue Projekte oder neue Ideen in 5 Minuten zu präsentieren. Es ist möglich, noch kurz vor und während der Konferenz einen LT einzureichen, sofern Kapazitäten im Programm verfügbar sind.</li>
+Ein Lightning Talk bietet Gelegenheit neue Software, neue Projekte oder neue Ideen in 5 Minuten zu präsentieren. Es ist möglich, noch kurz vor und während der Konferenz einen Lightning Talk einzureichen, sofern Kapazitäten im Programm verfügbar sind.</li>
 
 		<li><strong>Vortrag</strong><br>
 Vorträge bilden den Hauptteil der Konferenz. Ein Vortrag ist 20 Minuten lang. Danach sind 5 Minuten Zeit für Fragen.</li>
@@ -73,10 +73,10 @@ Die Demo-Session dient der Vorführung von Software oder Prozessen ("Live-Hackin
 Workshops finden von Mittwoch bis Freitag parallel zu den Vorträgen statt. Die Teilnahme am 90-minütigen Workshop ist kostenpflichtig, die Zahl der Teilnehmenden ist begrenzt. Sollte der Workshop stark nachgefragt sein, sind mehrere Personen für die Betreuung vorgesehen.</li>
 
 		<li><strong>Anwendertreffen/BoF</strong><br>
-Anwendertreffen oder "Birds of a Feather"-Sessions (BoF- ) ermöglichen es Gleichgesinnten und -interessierten sich konzentriert und selbstorganisiert zu einem bestimmten Thema in einer 60-minütigen Session auszutauschen.</li>
+Anwendertreffen oder "Birds of a Feather"-Sessions (BoF) ermöglichen es Gleichgesinnten und -interessierten sich konzentriert und selbstorganisiert zu einem bestimmten Thema in einer 60-minütigen Session auszutauschen.</li>
 
 		<li><strong>Expert:innenfragestunde</strong><br>
-Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sich bitte vor dem Ende der Einreichungsfrist mit dem Programmkomitee per E-Mail in Verbindung.</li>
+Die Idee des Formats ist, dass Expert:innen für 60 Minuten für Fragen von Teilnehmenden zur Verfügung stehen.</li>
 
 
 		<li><strong>Sonstiges</strong><br>
