@@ -61,22 +61,26 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement  getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p> 
 			<p>Weitere Informationen folgen.</p>
 
-<!--		<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
+	    <h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
 
 			<h4 id="Platin" name="Platin" class="highlight">Platinsponsoren</h4>
-				<ul class="tiles">
+			<ul class="tiles">
+			<li class="tile platin">
+			  <a href="sponsor/001_wheregroup.php" target="_blank">
+			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
+			  </a>
+			</li>
+			</ul>	
+			
+			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
-					<li class="tile platin">
+<!--				<li class="tile platin">
 						<a href="sponsor/001_camp2camp.php" target="_blank">
 						<img src="./img/s/001_camptocamp_logo.png" alt="camptocamp">
 						</a>
 					</li>
-					<li class="tile platin">
-						<a href="sponsor/002_wheregroup.php" target="_blank">
-						<img src="./img/s/002_WhereGroup.jpg" alt="WhereGroup">
-						</a>
-					</li>
+					
 					<li class="tile platin">
 						<a href="sponsor/004_TSB.php" target="_blank">
 						<img src="./img/s/004_TSB_quer.png" alt="Technologiestiftung Berlin">
@@ -275,8 +279,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 -->
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
-           	<p>Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p>
-			<p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, nutzen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a>.</p>
+           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, füllen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> aus.</p>
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>  
   
         <?php include('inc/footer.inc'); ?>
