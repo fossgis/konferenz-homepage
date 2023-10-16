@@ -73,7 +73,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 
 	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfen.fossgis.de/">Helfersystem</a>-->Helfersystem gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
 
-<h3>Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
+<h3 ID="HelfenvorOrt" name="HelfenvorOrt">Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
 	<p>Es gibt zwei Helfer:innenarten.</p>
 	
 	<ul>
@@ -81,7 +81,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlt Helfende </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
 Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget als Aufwandsentschädigung bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen.</li>
-	</ul><h4 ID="HelfenvorOrt" name="HelfenvorOrt">Helfen vor Ort</h4>
+	</ul><h4>Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
 Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist vor Ort und moderiert aus dem Hörsaal.
