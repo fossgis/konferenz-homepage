@@ -73,8 +73,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</li>
 			</ul>	
 			
-			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
-
 <!--				<li class="tile platin">
 						<a href="sponsor/001_camp2camp.php" target="_blank">
 						<img src="./img/s/001_camptocamp_logo.png" alt="camptocamp">
@@ -120,15 +118,20 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/202_schneider-digital.png" alt="Schneider Digital">
 						</a>
 					</li>		
-				</ul>	
+				</ul>	-->
 
 			<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 				<ul class="tiles">
-					<li class="tile bronze">
-						<a href="sponsor/401_komoot.php" target="_blank">
-						<img src="./img/s/401_komoot.png" alt="komoot">
+										<li class="tile bronze">
+						<a href="sponsor/401_opencage.php" target="_blank">
+						<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
 						</a>
 					</li>
+					
+				</ul>
+			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+
+<!--
 					<li class="tile bronze">
 						<a href="sponsor/402_mundialis.php" target="_blank">
 						<img src="./img/s/402_mundialis.png" alt="mundialis">
