@@ -20,7 +20,7 @@
 
 	<?php include "../inc/header.inc"; ?>
 
-	<h2>Unterstützung der Konferenzorganisation</h2>
+	<h2>Unterstützung der Konferenzorganisation umd -umsetzung</h2>
 
 	<p>Seit vielen Jahren findet die FOSSGIS-Konferenz im deutschsprachigen Raum an wechselnden Standorten statt, die Anzahl der Teilnehmenden steigt mit jedem Jahr.<br>
 	   Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen. Dies ermöglicht eine flexible Konferenzorganisation und vielfältiges Rahmenprogramm. Die Aufgaben werden auf mehrere Schultern verteilt. Ohne die Unterstützung durch zahlreiche Mitorganisierende vor der Veranstaltung und Helfer:innen während der Veranstaltung wäre eine FOSSGIS-Konferenz nicht möglich.<br>
@@ -81,7 +81,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlt Helfende </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
 Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget als Aufwandsentschädigung bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen.</li>
-	</ul><h4>Helfen vor Ort</h4>
+	</ul><h4 ID="HelfenvorOrt" name="HelfenvorOrt">Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
 Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortragende an und gibt organisatorische Informationen an die Teilnehmenden. Sessionleitung ist vor Ort und moderiert aus dem Hörsaal.
