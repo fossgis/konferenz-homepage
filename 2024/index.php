@@ -108,11 +108,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
-					<li class="tile silver">
-						<a href="sponsor/201_terrestris.php" target="_blank">
-						<img src="./img/s/201_terrestris.png" alt="terrestris">
-						</a>
-					</li>
+					
 					<li class="tile silver">
 						<a href="sponsor/202_schneider-digital.php" target="_blank">
 						<img src="./img/s/202_schneider-digital.png" alt="Schneider Digital">
@@ -120,23 +116,28 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>		
 				</ul>	-->
 
-			<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
-				<ul class="tiles">
-										<li class="tile bronze">
-						<a href="sponsor/401_opencage.php" target="_blank">
-						<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
-						</a>
-					</li>
-					
-				</ul>
-			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
+		<ul class="tiles">
+			<li class="tile bronze">
+			<a href="sponsor/401_opencage.php" target="_blank">
+			<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/402_terrestris.php" target="_blank">
+			<img src="./img/s/402_terrestris.png" alt="terrestris">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/403_mundialis.php" target="_blank">
+			<img src="./img/s/403_mundialis.png" alt="mundialis">
+			</a>
+			</li>
+		</ul>
+	<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
 <!--
-					<li class="tile bronze">
-						<a href="sponsor/402_mundialis.php" target="_blank">
-						<img src="./img/s/402_mundialis.png" alt="mundialis">
-						</a>
-					</li>
+					
 					<li class="tile bronze">
 						<a href="sponsor/410_GEOINFO.php" target="_blank">
 						<img src="./img/s/410_Geoinfo_Logo.png" alt="GEOINFO">
