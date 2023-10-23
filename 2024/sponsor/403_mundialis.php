@@ -52,12 +52,14 @@ Lösungen für den Kunden entwickeln.</p>
 				<ul>
 				 <li>
 				  <a href="https://github.com/mundialis"><i class="fab fa-github"></i></a>
-				 </li><li>
-				  <a href="https://twitter.com/MundialisInfo"><i class="fab fa-x-twitter"></i></a>
-			 	 </li>
+				 </li>
 				 <li>
 				  <a href="https://www.linkedin.com/company/mundialis-gmbh-&-co--kg/"><i class="fab fa-linkedin-in"></i></a>
 				 </li>
+				 <li>
+				  <a href="https://twitter.com/MundialisInfo"><i class="fab fa-x-twitter"></i></a>
+			 	 </li>
+
 
 				</ul>
 			</div>
