@@ -44,34 +44,37 @@
 
 					<p>Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
 
-					<p>Mehr zur WhereGroup unter <a href="https://www.wheregroup.com">www.wheregroup.com</a> und <a href="https://www.foss-academy.com">www.foss-academy.com</a>.</p>
+					<p>Mehr zur WhereGroup unter <a href="https://www.wheregroup.com" target="_blank">www.wheregroup.com</a> und <a href="https://www.foss-academy.com" target="_blank">www.foss-academy.com</a>.</p>
 
 
 
-				</div>
+			</div>
 			<div class="col-lg-3">
-				<div class="mb-4">
-					<h6 class="mb-0">Kontakt<br><br>
-						Webseite:<br>
-						<a href="https://wheregroup.com">www.wheregroup.com</a><br>
-						FOSS-Academy<br>
-						<a href="https://www.foss-academy.com">www.foss-academy.com</a><br><br>
-						E-Mail: <br>
-						<a href="mailto:info@wheregroup.de">info@wheregroup.de</a><br></h6>
-					</div>
+			<div class="mb-4">
+			<h6 class="mb-0">Kontakt<br><br>
+			Webseite:<br>
+			<a href="https://wheregroup.com" target="_blank">www.wheregroup.com</a><br>
+			FOSS-Academy<br>
+			<a href="https://www.foss-academy.com" target="_blank">www.foss-academy.com</a><br><br>
+			E-Mail: <br>
+			<a href="mailto:info@wheregroup.de">info@wheregroup.de</a><br></h6>
+			</div>
 				
-					<div class="social-icon">
-						<h6 class="font-weight-bold mb-0">Social</h6>
-						<ul>
-							<li>
-								<a href="https://twitter.com/WhereGroup_com"><i class="fab fa-x-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://www.xing.com/pages/wheregroupgmbh-co-kg"><i class="fab fa-xing"></i></a>
-							</li>
-						</ul>
-					</div>
-				</div>	
+			<div class="social-icon">
+			<h6 class="font-weight-bold mb-0">Social</h6>
+			<ul>
+			<li>
+			<a href="https://mastodon.social/@wheregroup" target="_blank"><i class="fab fa-mastodon"></i></a>
+			</li>
+			<li>
+			<a href="https://twitter.com/WhereGroup_com" target="_blank"><i class="fab fa-x-twitter"></i></a>
+			</li>
+			<li>
+			<a href="https://www.xing.com/pages/wheregroupgmbh-co-kg" target="_blank"><i class="fab fa-xing"></i></a>
+			</li>
+			</ul>
+			</div>
+			</div>	
 
 			</div>
 		</div>

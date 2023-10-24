@@ -45,13 +45,13 @@ Unser Leistungsspektrum erstreckt sich auf folgende Bereiche:</p>
 				<div class="mb-4">
 					<h6 class="mb-0">Kontakt<br><br>
 					Webseite:<br>
-					<a href="https://www.terrestris.de/">
+					<a href="https://www.terrestris.de/" target="_blank">
 					https://www.terrestris.de/</a><br>
 					News:<br>
-					<a href="https://www.terrestris.de/de/neuigkeiten/">
+					<a href="https://www.terrestris.de/de/neuigkeiten/" target="_blank">
 					https://www.terrestris.de/de/neuigkeiten/</a><br>
 					Demo-Anwendungen & Dienste<br>
-					<a href="https://demo.terrestris.de/">
+					<a href="https://demo.terrestris.de/" target="_blank">
 					https://demo.terrestris.de/</a><br><br>
 					E-Mail: <br>
 					<a href="mailto:info@terrestris.de">info-at-terrestris.de</a><br></h6>
@@ -61,13 +61,16 @@ Unser Leistungsspektrum erstreckt sich auf folgende Bereiche:</p>
 				<h6 class="font-weight-bold mb-0">Social</h6>
 				<ul>
 				 <li>
-				  <a href="https://www.linkedin.com/company/18223560/"><i class="fab fa-linkedin-in"></i></a>
+				  <a href="https://www.linkedin.com/company/18223560/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 				 </li>
 				 <li>
-				  <a href="https://github.com/terrestris"><i class="fab fa-github"></i></a>
+				  <a href="https://github.com/terrestris" target="_blank"><i class="fab fa-github"></i></a>
 				 </li>
+				<li>
+				<a href="https://bonn.social/@terrestris" target="_blank"><i class="fab fa-mastodon"></i></a>
+				</li>				 
 				 <li>
-				  <a href="https://twitter.com/terrestrisde"><i class="fab fa-x-twitter"></i></a>
+				  <a href="https://twitter.com/terrestrisde" target="_blank"><i class="fab fa-x-twitter"></i></a>
 				 </li>
 				</ul>
 			</div>

@@ -37,7 +37,7 @@
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							Webseite:<br>
-						<a href="https://52north.org/">
+						<a href="https://52north.org/" target="_blank">
 							https://52north.org/</a><br>
 
 							E-Mail: <br>
@@ -51,16 +51,19 @@
 						<ul>
 
 							<li>
-								<a href="https://www.linkedin.com/company/52-north-gmbh/"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com/company/52-north-gmbh/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							<li>
-								<a href="https://github.com/52North"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/52North" target="_blank"><i class="fab fa-github"></i></a>
 							</li>
 							<li>
-								<a href="https://www.youtube.com/c/52North/featured"><i class="fab fa-youtube"></i></a>
+								<a href="https://www.youtube.com/c/52North/featured" target="_blank"><i class="fab fa-youtube"></i></a>
+							</li>
+														<li>
+								<a href="https://mastodon.social/@52North@fosstodon.org" target="_blank"><i class="fab fa-mastodon"></i></a>
 							</li>
 							<li>
-								<a href="https://twitter.com/FiveTwoN"><i class="fab fa-x-twitter"></i></a>
+								<a href="https://twitter.com/FiveTwoN" target="_blank"><i class="fab fa-x-twitter"></i></a>
 							</li>
 						</ul>
 					</div>

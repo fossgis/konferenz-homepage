@@ -38,26 +38,29 @@ Lösungen für den Kunden entwickeln.</p>
 			<div class="mb-4">
 				<h6 class="mb-0">Kontakt<br><br>
 				Webseite:<br>
-				<a href="https://www.mundialis.de/">
+				<a href="https://www.mundialis.de/" target="_blank">
 				https://www.mundialis.de/</a><br>
 				News:<br>
-				<a href="https://www.mundialis.de/de/news/">
-				https://www.mundialis.de/de/news/</a><br><br>
+				<a href="https://www.mundialis.de/news/" target="_blank">
+				https://www.mundialis.de/news/</a><br><br>
 				E-Mail: <br>
 				<a href="mailto:info@mundialis.de">info-at-mundialis.de</a><br></h6>
 			</div>
 
 			<div class="social-icon">
-				<h6 class="font-weight-bold mb-0">Social</h6>
-				<ul>
+			<h6 class="font-weight-bold mb-0">Social</h6>
+			<ul>
+				<li>
+				<a href="https://github.com/mundialis" target="_blank"><i class="fab fa-github" target="_blank"></i></a>
+				</li>
+				<li>
+				<a href="https://www.linkedin.com/company/mundialis-gmbh-&-co--kg/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+				</li>
+				<li>
+				<a href="https://mastodon.social/@mundialis" target="_blank"><i class="fab fa-mastodon"></i></a>
+				</li>
 				 <li>
-				  <a href="https://github.com/mundialis"><i class="fab fa-github"></i></a>
-				 </li>
-				 <li>
-				  <a href="https://www.linkedin.com/company/mundialis-gmbh-&-co--kg/"><i class="fab fa-linkedin-in"></i></a>
-				 </li>
-				 <li>
-				  <a href="https://twitter.com/MundialisInfo"><i class="fab fa-x-twitter"></i></a>
+				  <a href="https://twitter.com/MundialisInfo"target="_blank"><i class="fab fa-x-twitter"></i></a>
 			 	 </li>
 
 
