@@ -133,6 +133,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/403_mundialis.png" alt="mundialis">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/404_52north.php" target="_blank">
+			<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
+			</a>
+			</li>
 		</ul>
 	<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
@@ -148,11 +153,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/403_sp_fossgis_2023.png" alt="sourcepole">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/404_52north.php" target="_blank">
-						<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/405_opencage.php" target="_blank">
 						<img src="./img/s/405_opencage-logo.png" alt="OpenCage">
