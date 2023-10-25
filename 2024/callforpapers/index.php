@@ -150,7 +150,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 		<li>Christopher Lorenz (Entwickler und Beitragender zu OpenStreetMap)</li>
 		<li>Daniela Cialfi (Institute for Complex Systems - National Research Council of Italy)</li>
 		<li>Jan Schmalfuß-Schwarz (Wissenschaftlicher Mitarbeiter am Lehrstuhl für Mensch-Computer-Interaktion der TU Dresden)</li>
-		<li>Jonas Frei </li>
+		<li>Jonas Frei (GIS-Entwickler)</li>
 		<li>Katja Haferkorn (Koordinatorin FOSSGIS e.V. und Konferenzorganisation)</li>
 		<li>Maik Sydoruk (OSM-Beitragender)</li>
 		<li>Marc Jansen (GIS und Fernerkundung; ❤️ FOSS & Freie Daten)</li>
