@@ -110,7 +110,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 			<h3>Zusätzlich für Workshops:</h3>
 			<p>Wir bevorzugen Workshops zu aktuellen und nachgefragten Themen.<br>
 			Die geschätzte Nachfrage auf Basis der Vorjahre hat einen erheblichen Einfluss auf die Auswahl.<br>
-			Die Workshops finden ausschließlich vor Ort in Berlin statt.</li>
+			Die Workshops finden ausschließlich vor Ort in Hamburg statt.</li>
 	</p>
 
 	<h2>Grundsätze der Programmgestaltung</h2>
