@@ -90,7 +90,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 
-				</ul>	
+				</ul>	-->
 
 			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
 				<ul class="tiles">
@@ -99,7 +99,8 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 						</a>
 					</li>	
-					<li class="tile gold">
+					</ul>
+<!--					<li class="tile gold">
 						<a href="sponsor/102_OPENGis_CH.php" target="_blank">
 						<img src="./img/s/102_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
 						</a>
