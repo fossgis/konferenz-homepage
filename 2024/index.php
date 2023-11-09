@@ -100,23 +100,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 						</a>
 					</li>	
-					</ul>
-<!--					<li class="tile gold">
-						<a href="sponsor/102_OPENGis_CH.php" target="_blank">
-						<img src="./img/s/102_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
-						</a>
-					</li>
 				</ul>
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
-					
-					<li class="tile silver">
-						<a href="sponsor/202_schneider-digital.php" target="_blank">
-						<img src="./img/s/202_schneider-digital.png" alt="Schneider Digital">
-						</a>
+					<li class="tile gold">
+						<a href="sponsor/201_OPENGis_CH.php" target="_blank">
+					<img src="./img/s/201_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
+					</a>
 					</li>		
-				</ul>	-->
+				</ul>	
 
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
