@@ -71,15 +71,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
-			</ul>	
 			
-<!--				<li class="tile platin">
-						<a href="sponsor/001_camp2camp.php" target="_blank">
-						<img src="./img/s/001_camptocamp_logo.png" alt="camptocamp">
-						</a>
-					</li>
+			
+			<li class="tile platin">
+			  <a href="sponsor/002_camp2camp.php" target="_blank">
+ 			  <img src="./img/s/002_camptocamp.png" alt="camptocamp">
+			  </a>
+			</li>
+			</ul>	
 					
-					<li class="tile platin">
+<!--						<li class="tile platin">
 						<a href="sponsor/004_TSB.php" target="_blank">
 						<img src="./img/s/004_TSB_quer.png" alt="Technologiestiftung Berlin">
 						</a>
