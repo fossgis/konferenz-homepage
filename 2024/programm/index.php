@@ -17,15 +17,15 @@
 	<?php include "../inc/header.inc"; ?>
 
 <!--        <h2 id="Programm" name="Programm"class="Programm">Programm</h2>
-		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2023/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2023/schedule/</a>.</p>
+		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2024/schedule/</a>.</p>
 	
 		<h3>Vortragende</h3>
-		<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2023/speaker/</a>.</p>
+		<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2024/speaker/</a>.</p>
 
 <!--		<h3>Programm-Highlights</h3>
-		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2023/featured/">https://pretalx.com/fossgis2023/featured/</a>.</p> 
+		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a>.</p> 
 
-    	<h3>Vortragsaufzeichnungen</h3>
+<!--	nach der Konf    	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
 			<li> <a href="https://pretalx.com/fossgis2023/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p> 
@@ -39,13 +39,13 @@
 		</ul>
 
 	<h3 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h3>
-	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2023_digital.pdf">als PDF zum Download</a> zur Verfügung.
+	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2024_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
 		<h3>Programm-APP für Android</h3>
 		<p>Die Android-App für das Konferenzprogramm ist im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p> -->
 
 	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
-	<p>Die FOSSGIS 2022 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2022</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
+	<p>Die FOSSGIS 2024 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2024</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
 
 	<!--<h3>FOSSGIS-Konferenz per Android-APP</h3>
 		<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
@@ -62,13 +62,13 @@
 
 
 
-		<h3 id="Programm23" name="Programm23"class="Programm23">Programm FOSSGIS 2023</h3>
-		<pretalx-schedule event-url="https://pretalx.com/fossgis2023/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
+		<h3 id="Programm24" name="Programm24"class="Programm24">Programm FOSSGIS 2024</h3>
+		<pretalx-schedule event-url="https://pretalx.com/fossgis2024/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
             JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://pretalx.com/fossgis2023/schedule/">click here</a>.
+            please <a target="_blank" href="https://pretalx.com/fossgis2024/schedule/">click here</a>.
         </div>
     </div>
 </noscript>-->
