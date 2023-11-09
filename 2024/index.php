@@ -139,6 +139,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/405_CONET-ISB.php" target="_blank">
+			<img src="./img/s/405_ISB_CONET.jpg" alt="CONET ISB GmbH">
+			</a>
+			</li>
 		</ul>
 	<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
