@@ -72,7 +72,8 @@
         </div>
     </div>
 </noscript>-->
-
+	<h3>Programm FOSSGIS 2024</h3>	
+	<p>Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird im Dezember 2023 veröffentlicht.</p>
 
 		<h3>Community Voting</h3>
 <!--		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 130 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>-->
@@ -88,9 +89,6 @@
 		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
 		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
 	</ul>
-
-	<h3>Programm FOSSGIS 2024</h3>	
-	<p>Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird im Dezember 2023 veröffentlicht.</p>
 
 		
 	<?php include "../inc/footer.inc"; ?>

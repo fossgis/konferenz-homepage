@@ -14,13 +14,13 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
- 		<li id="navCall">
+ 		<!--<li id="navCall">
 		<a href="./callforpapers/">Call for Participation</a>
-		</li>
-		<!--<li id="navProgramm">
+		</li>-->
+		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
-		<li id="navAnreise">
+		<!--<li id="navAnreise">
 			<a href="./standort_anreise/">Standort und Anreise</a>
 		</li>
 		<li id="navEvents">
