@@ -138,6 +138,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/405_ISB_CONET.jpg" alt="CONET ISB GmbH">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/406_gbd.php" target="_blank">
+			<img src="./img/s/406_GBD.png" alt="Geoinformatikbüro Dassau">
+			</a>
+			</li>
 		</ul>
 	<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
@@ -164,11 +169,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/406_Wagner-IT.png" alt="Wagner-IT">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/407_gbd.php" target="_blank">
-						<img src="./img/s/407_GBD.png" alt="Geoinformatikbüro Dassau">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/408_latlon.php" target="_blank">
 						<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
