@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Geoinformatikbüro Dassau GmbH</h3>
 
-					<p>Die Geoinformatikbüro Dassau GmbH aus Düsseldorf bietet seit 2006 Beratung, Konzeption, Schulung, Wartung, Support und Programmierung zum Thema GIS und GDI auf Open Source Basis. Ein Fokus liegt auf der Software QGIS, QGIS Server, QGIS Web Client, GBD WebSuite, Postgres/PostGIS und GRASS GIS.</p>
+					<p>Die Geoinformatikbüro Dassau GmbH aus Düsseldorf bietet seit 2006 Beratung, Konzeption, Schulung, Wartung, Support und Programmierung zum Thema GIS und GDI auf Open Source Basis. Ein Fokus liegt auf der Software QGIS, QGIS Server, QField, QGIS Web Client, GBD WebSuite, PostgreSQL/PostGIS und GRASS GIS.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
