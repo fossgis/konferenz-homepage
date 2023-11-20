@@ -143,6 +143,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/406_GBD.png" alt="Geoinformatikbüro Dassau">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/407_grit.php" target="_blank">
+			<img src="./img/s/407_grit.png" alt="grit GmbH ">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/408_latlon.php" target="_blank">
+			<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
+			</a>
+			</li>
 		</ul>
 	<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
@@ -170,11 +180,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 
-					<li class="tile bronze">
-						<a href="sponsor/408_latlon.php" target="_blank">
-						<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/409_gkg.php" target="_blank">
 						<img src="./img/s/409_gkg_logo.png" alt="gkg">
