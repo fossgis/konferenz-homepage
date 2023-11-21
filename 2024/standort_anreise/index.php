@@ -36,7 +36,7 @@ Am Schwarzenberg-Campus 1<br>
 	<h2 ID="Campus" name="Campus">Konferenzort Campus TUHH</h2>
 <p>Die Konferenz findet auf dem Campus der TUHH in Hamburg-Harburg statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
 
-	<p>Im Foyer Haus H begrüßen wir Sie am Welcome Desk. Im Foyer und anliegenden Räumen ist Raum für ein Aufeinandertreffen der Teilnehmenden mit den Ausstellern, für eine Pausenversorgung wird gesorgt. Im Foyer besteht auch die Möglichkeit sich im "Himmel" als Konferenz-Helfer:in zu melden oder mit dem FOSSGIS e.V. am Vereinsstand ins Gespräch zu kommen.</p>
+	<p>Im Foyer Haus H begrüßen wir Sie am Welcome Desk. Das Foyer und anliegenden Räumen sind für die Pausenversorgung, Firmenausstellung und Netzwerken vorgesehen sowie auch der FOSSGIS e.V. am Vereinsstand da sein wird. Der "Himmel" ist für Konferenz-Helfer:innen.</p>
 
 	<p>Die <b>Vorträge</b> und <b>Anwendertreffen</b> finden im Haus H sowie Haus K (am Freitag Haus I) in den Hörsälen und Seminarräumen statt. Durch eine hohe Nachfrage kann es zeitweise dazu kommen, dass die Hörsäle bei Vorträgen voll ausgelastet sind. Für diesen Fall haben wir Räume organisiert, in denen die Vorträge im Livestream verfolgt werden können. Die Raumpläne finden Sie bald hier <!--<a href="./standort_anreise/raeume.php">hier</a>-->.
 	</p>
@@ -44,7 +44,7 @@ Am Schwarzenberg-Campus 1<br>
 	<p>Die <b>Workshops</b> werden in den Seminarräumen des Hauses D durchgeführt. Die Raumpläne finden Sie bald hier. <!--<a href="./standort_anreise/raeume.php">hier</a>.-->
 	</p>
 
-	<p>In den kleineren Pausen gibt es ein Catering im Erdgeschoss sowie 1. Obergeschoss im Haus H. Für das Mittagessen können voraussichtlich Essenmarken erworben werden.</p>
+	<p>In den Pausen gibt es ein Catering im Erdgeschoss sowie 1. Obergeschoss im Haus H. Für das Mittagessen können voraussichtlich Essenmarken erworben werden.</p>
 
 
 	<h2 ID="Anreise" name="Anreise">Anreise </h2>
@@ -55,10 +55,6 @@ Am Schwarzenberg-Campus 1<br>
 	<p>Der öffentliche Nahverkehr findet im <a href="https://geofox.hvv.de/web/de/connections?clear=true&language=de">Hamburger Verkehrsverbund (HVV)</a> statt und besteht aus Bussen, S-Bahn (DB), U-Bahn (Hochbahn) sowie den Hafenfähren, die ebenfalls im Nahverkehr ohne Aufpreis nutzbar sind. Der Ticketkauf erfolgt in der Regel per <a href="https://play.google.com/store/apps/details?id=de.eos.uptrade.android.fahrinfo.hamburg&hl=de&gl=US">HVV-App</a> oder <a href="https://www.bahn.de/service/mobile/db-navigator">DB Navigator</a>, im HVV Online-Shop, an den S- & U-Bahnhöfen, einigen Bushaltestellen oder auch direkt im Bus.<br>
 	Bis auf wenige Ausnahmen sind alle U- und S-Bahn Haltestellen barrierefrei und mit <a href="https://www.hvv.de/de/aufzuege">Aufzügen</a> ausgestattet. Alle Busse sind Niederflurbusse und verfügen über entsprechende ausklappbare Rampen.
 	</p>
-	
-<!--	<p>Die <b>Bushaltestelle Kasernenstraße (TU Hamburg)</b> befindet sich nördlich vom Konferenzort und wird von der Buslinie 142 bedient, welche über Bhf. Harburg/ (Bereich C) nach Kasernenstraße (TU Hamburg) fährt. <br>
-	  Die Haltestelle Eißendorfer Straße (TU Hamburg) befindet sich südlich vom Konferenzstandort und wird von den Buslinien 14, 143 und 146 angefahren.</p>-->
-	
 	
 	<h3 ID="Auto" name="Auto">Anreise mit dem Auto</h2>
 	
@@ -179,10 +175,10 @@ Am Schwarzenberg-Campus 1<br>
 	<p>Mit der U3 erreicht man die Hafenpromenade (U Landungsbrücken), sowie die Speicherstadt und Elbphilharmonie (U Baumwall). Durch den alten Elbtunnel (Eingang an den Landungsbrücken) erreicht man zu Fuß die andere Elbseite mit Blick auf die Stadt. Die Fährlinie 62 (im Nahverkehr enthalten) bietet eine ca. einstündige Rundfahrt durch den Hafen (Landungsbrücken → Finkenwerder und zurück). Weitere Hafenrundfahrten werden an den Landungsbrücken angeboten.</p>
 	
 	<h3>Museen</h3>
-	<p>In der Speicherstadt befinden sich viele Museen, wie z.B. das <a href="https://www.miniatur-wunderland.com/">Miniatur Wunderland </a>, das <a href="https://www.imm-hamburg.de/"> Internationale Maritime Museum</a> oder das <a href="https://speicherstadtmuseum.de/">Speicherstadtmuseum</a>. Weitere Angebote finden Sie online unter <a href="https://www.hamburg.de/museum-hamburg">https://www.hamburg.de/museum-hamburg</a>.</p>
+	<p>In der Speicherstadt befinden sich viele Museen, wie z.B. das <a href="https://www.miniatur-wunderland.com/">Miniatur Wunderland </a> (Hinweis: organisieren Sie sich rechtzeitig ein Ticket direkt beim Anbieter, es kann zu langen Wartezeiten beim Einlass kommen), das <a href="https://www.imm-hamburg.de/"> Internationale Maritime Museum</a> oder das <a href="https://speicherstadtmuseum.de/">Speicherstadtmuseum</a>. Weitere Angebote finden Sie online unter <a href="https://www.hamburg.de/museum-hamburg">https://www.hamburg.de/museum-hamburg</a>.</p>
 	
 	<h3>Erholung im Grünen</h3>
-	<p>Neben der Hafenpromenade bietet auch die Außenalster einen ca. 7,5km langen Rundweg zum Spazieren gehen und Joggen. In der Innenstadt zwischen Landungsbrücken und Dammtor befindet sich "Planten un Bloomen", eine große Parkanlage und "grüner Gürtel" Hamburgs. Der Stadtpark (U3 Borgweg) bietet ebenfalls Möglichkeiten für Aktivitäten im Grünen.<br>
+	<p>Neben der Hafenpromenade bietet die Außenalster einen ca. 7,5 km langen Rundweg zum Spazieren gehen und Joggen. In der Innenstadt zwischen Landungsbrücken und Dammtor befindet sich "Planten un Bloomen", eine große Parkanlage und "grüner Gürtel" Hamburgs. Der Stadtpark (U3 Borgweg) bietet ebenfalls Möglichkeiten für Aktivitäten im Grünen.<br>
 
 Von Harburg aus erreicht man das Waldgebiet "Schwarze Berge" mit den Bussen 142 (bis Forstweg), 143/443 (bis Majestätische Aussicht) oder per S-Bahn (Linie 3 und 31) bis Neuwiedenthal. Die Deiche im Osten Harburgs eignen sich ebenfalls gut zur Erholung und für Spaziergänge (z.B. mit der Linie 149 bis Neuländer Elbdeich 76).</p>
 

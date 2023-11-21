@@ -20,10 +20,10 @@
 		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
-		<!--<li id="navAnreise">
+		<li id="navAnreise">
 			<a href="./standort_anreise/">Standort und Anreise</a>
 		</li>
-		<li id="navEvents">
+		<!--<li id="navEvents">
 			<a href="./socialevents/">Rahmenprogramm</a>
 		</li>
 		<li id="navAnmeldung">

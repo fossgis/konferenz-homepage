@@ -154,7 +154,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</a>
 			</li>
 		</ul>
-	<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+	
 
 <!--
 					
@@ -246,7 +246,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 
 					
-				</ul>
+				</ul>-->
 			<h4 id="Medienpartner" name="Medienpartner"class="highlight">Medienpartner</h4>
 				<ul class="tiles">
 					<li class="tile media">
@@ -269,6 +269,8 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
 						</a>
 					</li>
+					</ul>
+					<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
 					<!--<li class="tile media">
 						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
@@ -286,9 +288,9 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<a href="https://23.foss-backstage.de/" target="_blank">
 						<img src="./img/s/507_FOSSBack_logo_2023.png" alt="FOSSBackStage">
 						</a>
-					</li>
+					</li>-->
 				</ul>
--->
+
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
            	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, füllen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> aus.</p>
