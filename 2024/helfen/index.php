@@ -77,7 +77,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	<p>Es gibt zwei Helfer:innenarten.</p>
 	
 	<ul>
-		<li><b>Freiwillig Helfende </b>(ab 6h helfen gibt es ein kostenfreies Helfer:innenticket)<br>
+		<li><b>Freiwillig Helfende </b>(ab 10h helfen gibt es ein kostenfreies Helfer:innenticket)<br>
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlt Helfende </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
 Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget als Aufwandsentschädigung bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen.</li>
