@@ -270,7 +270,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					</ul>
-					<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
 					<!--<li class="tile media">
 						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
