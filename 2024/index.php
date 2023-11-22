@@ -153,6 +153,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/409_sourcepole.php" target="_blank">
+			<img src="./img/s/409_sp_fossgis_2023.png" alt="sourcepole">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/410_geoSYS.php" target="_blank">
+			<img src="./img/s/410_geoSYS_logo.png" alt="geoSYS">
+			</a>
+			</li>
 		</ul>
 	
 
@@ -163,17 +173,9 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/410_Geoinfo_Logo.png" alt="GEOINFO">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/403_sourcepole.php" target="_blank">
-						<img src="./img/s/403_sp_fossgis_2023.png" alt="sourcepole">
-						</a>
-					</li>
+					
 
-					<li class="tile bronze">
-						<a href="sponsor/405_opencage.php" target="_blank">
-						<img src="./img/s/405_opencage-logo.png" alt="OpenCage">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/406_wagner-it.php" target="_blank">
 						<img src="./img/s/406_Wagner-IT.png" alt="Wagner-IT">
@@ -196,11 +198,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/413_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/411_geoSYS.php" target="_blank">
-						<img src="./img/s/411_geoSYS_logo.png" alt="geoSYS">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/414_LandPlanOS.php" target="_blank">
 						<img src="./img/s/414_LandPlanOS.png" alt="LandPlan OS GmbH">
