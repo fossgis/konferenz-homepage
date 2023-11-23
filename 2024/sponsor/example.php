@@ -51,14 +51,17 @@
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href="https://twitter.com/"><i class="fab fa-x-twitter"></i></a>
+								<a href="https://twitter.com/"  target="_blank"><i class="fab fa-x-twitter"></i></a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com//"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com//" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							<li>
-								<a href="https://github.com/"><i class="fab fa-github"></i></a>
+								<a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a>
 							</li>
+							<li>
+			<a href="https://www.xing.com/" target="_blank"><i class="fab fa-xing"></i></a>
+			</li>
 						</ul>
 					</div>
 				</div>	

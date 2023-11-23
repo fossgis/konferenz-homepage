@@ -78,14 +78,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
  			  <img src="./img/s/002_camptocamp.png" alt="camptocamp">
 			  </a>
 			</li>
-			</ul>	
-					
-<!--						<li class="tile platin">
-						<a href="sponsor/004_TSB.php" target="_blank">
-						<img src="./img/s/004_TSB_quer.png" alt="Technologiestiftung Berlin">
-						</a>
-					</li>
-					<li class="tile platin">
+							
+			<li class="tile platin">
+			  <a href="sponsor/003_dataport.php" target="_blank">
+			  <img src="./img/s/003_dataport.png" alt="Dataport">
+			  </a>
+			</li>
+			</ul>
+<!--					<li class="tile platin">
 						<a href="sponsor/003_hu-berlin.php" target="_blank">
 						<img src="./img/s/003_hu_siegel-kombi_rgb.png" alt="HU-Berlin">
 						</a>
