@@ -149,6 +149,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</a>
 			</li>
 			<li class="tile bronze">
+			<a href="sponsor/410_geoSYS.php" target="_blank">
+			<img src="./img/s/410_geoSYS_logo.png" alt="geoSYS">
+			</a>
+			</li>
+			<li class="tile bronze">
 			<a href="sponsor/408_latlon.php" target="_blank">
 			<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
 			</a>
@@ -158,11 +163,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/409_sp_fossgis_2023.png" alt="sourcepole">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/410_geoSYS.php" target="_blank">
-			<img src="./img/s/410_geoSYS_logo.png" alt="geoSYS">
-			</a>
-			</li>
+		
 		</ul>
 	
 
