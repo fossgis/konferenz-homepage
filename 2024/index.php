@@ -163,7 +163,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/409_sp_fossgis_2023.png" alt="sourcepole">
 			</a>
 			</li>
-		
+			<li class="tile bronze">
+			<a href="sponsor/411_komoot.php" target="_blank">
+			<img src="./img/s/411_komoot.png" alt="komoot">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/412_norBIT.php" target="_blank">
+			<img src="./img/s/412_norBIT.png" alt="norBIT">
+			</a>
+			</li>
 		</ul>
 	
 
