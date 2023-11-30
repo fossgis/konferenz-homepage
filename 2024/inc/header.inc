@@ -1,6 +1,7 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2024">
 		<img class="page-logo" src="./img/fossgis24-logo_oR.png">
+<!-- Standortlogo.png">-->
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>

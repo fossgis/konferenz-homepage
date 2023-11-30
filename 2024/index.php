@@ -173,6 +173,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/412_norBIT.png" alt="norBIT">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/413_indiscale.php" target="_blank">
+			<img src="./img/s/413_indiscale.png" alt="indiscale">
+			</a>
+			</li>
+			
 		</ul>
 	
 
