@@ -21,7 +21,7 @@ a:visited {
 	color: #333;
 }
 a:hover {
-	color: #eb7f00;
+	color: #ee7f00;
 }
 
 figure {
@@ -50,7 +50,7 @@ figure {
 .page-header .page-title {
 	font-size: calc(28px + (54 - 28) * ((100vw - 300px) / (1600 - 300)));
 	line-height: .85;
-	color: #eb7f00;
+	color: #ee7f00;
 	margin: 0;
 	font-weight: 700;
 }
@@ -71,7 +71,7 @@ nav .main {
 	list-style-type: none;
 	margin: 10px 0 0;
 	padding: 0;
-	border-bottom: 5px solid #eb7f00;
+	border-bottom: 5px solid #ee7f00;
 }
 nav .main > li {
 	padding: 5px 10px;
@@ -98,7 +98,7 @@ body#helfen nav .main > li#navhelfen > a:link,
 body#helfen nav .main > li#navhelfen > a:visited,
 body#programm nav .main > li#navProgramm > a:link,
 body#programm nav .main > li#navProgramm > a:visited {
-	color: #eb7f00;
+	color: #ee7f00;
 }
 
 footer {
@@ -183,7 +183,7 @@ footer .main > li {
 .tile.silver:hover,
 .tile.bronze:hover,
 .tile.media:hover {
-	box-shadow: 0 0 0 1px #eb7f00;
+	box-shadow: 0 0 0 1px #ee7f00;
 }
 .tile.platin {
 	-webkit-box-flex: 0;
@@ -254,10 +254,10 @@ footer .main > li {
 
 h3.highlight,
 h4.highlight {
-	border-bottom: 1px solid #eb7f00;
+	border-bottom: 1px solid #ee7f00;
 }
 p.highlight {
-	border: 1px solid #eb7f00;
+	border: 1px solid #ee7f00;
 	font-weight: bold;
 	padding: 1em;
 }
@@ -277,7 +277,7 @@ p.highlight {
 	transition: all 0.25s ease-out;
 }
 .map-container .svg-feature:hover {
-	fill: #eb7f00;
+	fill: #ee7f00;
 }
 .map-container .label {
 	color: #333;
@@ -297,7 +297,7 @@ p.highlight {
 }
 
 .pretix-widget {
-	border: 1px solid #eb7f00;
+	border: 1px solid #ee7f00;
 }
 .pretix-widget .pretix-widget-category-name {
 	margin: 1em 0;
@@ -323,9 +323,9 @@ table.program-table td {
 
 table.program-table th,
 table.program-table td.program-time {
-	background-color: #eb7f00;
-	border-bottom-color: #eb7f00;
-	border-right-color: #eb7f00;
+	background-color: #ee7f00;
+	border-bottom-color: #ee7f00;
+	border-right-color: #ee7f00;
 	color: white;
 	font-weight: bold;
 }
@@ -350,7 +350,7 @@ span.session-type {
 	font-weight: bold;
 	font-size: 90%;
 	text-transform: uppercase;
-	color: #eb7f00;
+	color: #ee7f00;
 }
 
 span.session-speakers {

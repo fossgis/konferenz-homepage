@@ -73,14 +73,14 @@
     </div>
 </noscript>-->
 	<h3>Programm FOSSGIS 2024</h3>	
-	<p>Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird im Dezember 2023 veröffentlicht.</p>
+	<p>Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird in der zweiten Dezemberhälfte 2023 veröffentlicht.<br>
+	Hier ist der <a href="https://fossgis-konferenz.de/2024/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 
-		<h3>Community Voting</h3>
-<!--		<p>An der Öffentlichen Abstimmung (Community-Voting) zu den Einreichungen haben sich 130 Teilnehmer:innen beteiligt. Vielen Dank dafür!</p>-->
+		<h3>Community Voting und Programm-Highlights</h3>
+		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich über 300 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a>.</p> 
 
-<!--		<p>Hier ist der <a href="https://fossgis-konferenz.de/2023/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>-->
 
-		<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
+<!--		<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
 		Hier ist der <a href="https://fossgis-konferenz.de/2024/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 	<p>Bis zum 24.11.2023 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
@@ -88,7 +88,7 @@
 		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2024/p/voting/signup/"> https://pretalx.com/fossgis2024/p/voting/signup/</a></li>
 		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
 		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
-	</ul>
+	</ul> -->
 
 		
 	<?php include "../inc/footer.inc"; ?>
