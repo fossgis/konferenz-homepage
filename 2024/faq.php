@@ -35,9 +35,12 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
 				Nein.</li>
 			<li><b>Ich brauche mein Ticket nur an einem Tag, kann ich es weitergeben?</b><br>
 				Nein.</li>
-<!--			<li><b>Kann ich für mein Ticket arbeiten?</b><br>
-				Ja, Sie arbeiten mindestens 10 Stunden für ein Ticket! Registrieren Sie sich im <a href="https://helfer.fossgis.de/Helfersystem">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
-Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfer</a>.</li>-->
+				
+			<li><b>Was mache ich mit dem Gutscheincode/ Vouchercode?</b><br>
+				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
+			<li><b>Kann ich für mein Ticket arbeiten?</b><br>
+				Ja, Sie arbeiten mindestens 8 Stunden für ein Ticket! Registrieren Sie sich im <a href="https://helfer.fossgis.de/">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
+Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2024/helfen/">Helfen</a>.</li>
 <!--			<li><b>Ich brauche mein Ticket nicht.</b><br>
 				Sie können Ihr Ticket bis drei Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben.</li>
 			<li><b>Wo finde ich mein Konferenzticket?</b><br>
@@ -88,9 +91,8 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 	<h3>Zugang</h3>
 		<ul>
 
-			<li><b>Ist die Veranstaltung barrierefrei?</b><br>
-				tbd
-				<!--Ja alle veranstaltungsräume sind barrierefrei zugänglich.</li>
+			<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
+				Ja alle veranstaltungsräume sind barrierefrei zugänglich.</li>
 <!--			<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
 				Kurz vor Beginn der Konferenz, voraussichtlich am 07.03.2022 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 			<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
@@ -102,17 +104,16 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 	<h3>Sponsor</h3>
 		<ul>
 			<li><b>Ich möchte Sponsor werden.</b><br>
-				Hier finden Sie die <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre aus dem Jahr 2023</a>. Die Broschüre für die FOSSGIS 2024 wird in Kürze veröffentlicht.
-				<!-- Bitte senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2023.pdf">Sponsoringvereinbarung</a> per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Sponsoring">konferenz-orga@fossgis.de</a>.</li>
-			<li><b>Das Logo ist noch nicht auf der Website.</b><br>
-				Die Logos werden regelmäßig in die Website eingepflegt. Das kann u.U. einige Tage dauern.</li>
+				Hier finden Sie die <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre</a>. 
+			<li><b>Wie werde ich Sponsor?</b><br>
+				Bitte senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> sowie Ihr Logo, Kontakt, Social Media und Text per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Sponsoring">konferenz-orga@fossgis.de</a>.</li>
 			<li><b>Fristen für Textbeitrag und Logo?</b><br>
-				01. Februar 2022.</li>
+				01. Februar 2024.</li>
 			<li><b>Gibt es Sponsorentickets?</b><br>
 				Nein.</li>
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
-				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/">Konferenzhomepage</a>.</li>-->
+				In der <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre 2024</a> sowie auf der <a href="https://fossgis-konferenz.de/2024/">Konferenzhomepage</a>.</li>
 
 
 		</ul>
@@ -120,16 +121,15 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 		<ul>
 
 			<li><b>Ich möchte einen Ausstellerstand.</b><br>
-				Voraussetzung ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor.</li>
+				Voraussetzung ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor. Leider sind für die FOSSGIS 2024 schon alle Ausstellerstände vergeben.</li>
 			<li><b>Wie ist der Stand ausgestattet?</b><br>
 				Es gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. </li>
 			<li><b>Wird der Raum Nachts verschlossen?</b><br>
 				tbd
 				<!--Das Foyer des Erwin-Schrödinger-Zentrums ist Nachts verschlossen.</li>-->
 			<li><b>Gibt es Ausstellerticket?</b><br>
-				Im Ausstellerpaket sind zwei Tickets enthalten. Der Besteller bekommt rechtzeitig die Vouchercodes.</li>
-<!--			<li><b>Was mache ich mit dem Gutscheincode/ Vouchercode?</b><br>
-				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>
+				Im Ausstellerpaket sind zwei Tickets enthalten. Diese werden rechtzeitig als Vouchercodes gesendet.</li>
+<!--			
 
 			<li><b>Wo finde ich weitere Informationen?</b><br>
 				In der <a href="https://files.fossgis.de/Konferenz/Sponsoreninformationen_FOSSGIS-2023.pdf">Sponsoringbroschüre 2023</a> sowie auf der <a href="https://fossgis-konferenz.de/2023/#Sponsoring">Konferenzhomepage</a>.</li>-->
@@ -149,7 +149,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 			<li><b>Ich möchte bei der Veranstaltung helfen.</b><br>
 				Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="../2024/helfen/">Konferenzhomepage/helfen</a>.</li>
 			<li><b>Was ist das Helfersystem/Engelsystem?</b><br>
-				Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.<br>
+				Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h, oder auch länger. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.<br>
 <!--Registrieren Sie sich im <a href="https://helfer.fossgis.de">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
 Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/">Helfen</a>.</li>-->
 			<li><b>Brauche ich ein Ticket?</b><br>
