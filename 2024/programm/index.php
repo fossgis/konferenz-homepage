@@ -10,21 +10,21 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<script type="text/javascript" src="https://pretalx.com/fossgis2023/schedule/widget/v2.en.js"></script>
+	<script type="text/javascript" src="https://pretalx.com/fossgis2024/widgets/schedule.js"></script>
 </head>
 
 <body id="programm">
 	<?php include "../inc/header.inc"; ?>
 
-<!--        <h2 id="Programm" name="Programm"class="Programm">Programm</h2>
-		<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2024/schedule/</a>.</p>
+        <h2 id="Programm" name="Programm"class="Programm">Programm</h2>
+	<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2024/schedule/</a>.</p>
 	
-		<h3>Vortragende</h3>
-		<p>Die Liste der Vortragenden finden Sie hier: <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2024/speaker/</a>.</p>
+	<p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2024/speaker/</a></p>
+	<p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a></p> 
+	<p><b>Community Voting:</b> über 300 Teilnehmende haben sich beteiligt, Vielen Dank!
+	<p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2024/callforpapers/">/2024/callforpapers/</a></p>
 
-<!--		<h3>Programm-Highlights</h3>
-		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich 130 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a>.</p> 
-
+	
 <!--	nach der Konf    	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
@@ -58,12 +58,13 @@
                     <a href="https://www.fossgis.de/">
                          <img src="./data/FOSSGIS-2021-Tablet-Phone.jpg" class="img-fluid" alt="APP">
 					</a>
-                 </p>
+                 </p>-->
+
 
 
 
 		<h3 id="Programm24" name="Programm24"class="Programm24">Programm FOSSGIS 2024</h3>
-		<pretalx-schedule event-url="https://pretalx.com/fossgis2024/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
+<pretalx-schedule event-url="https://pretalx.com/fossgis2024/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
@@ -71,14 +72,12 @@
             please <a target="_blank" href="https://pretalx.com/fossgis2024/schedule/">click here</a>.
         </div>
     </div>
-</noscript>-->
-	<h3>Programm FOSSGIS 2024</h3>	
+</noscript>
+
+
+<!--	<h3>Programm FOSSGIS 2024</h3>	
 	<p>Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird in der zweiten Dezemberhälfte 2023 veröffentlicht.<br>
-	Hier ist der <a href="https://fossgis-konferenz.de/2024/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
-
-		<h3>Community Voting und Programm-Highlights</h3>
-		<p>Neugierig, welche Beiträge beim Community-Voting, an dem sich über 300 Teilnehmende beteiligt haben,  am besten abgeschnitten haben?<br> Hier finden Sie die Highlights: <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a>.</p> 
-
+	
 
 <!--		<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
 		Hier ist der <a href="https://fossgis-konferenz.de/2024/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
