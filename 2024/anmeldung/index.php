@@ -111,10 +111,10 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
 </noscript>
 		
 	<h3>Bildungsurlaub</h3>
-	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt. Anträge laufen für folgende Bundesländer in Deutschland: BE, BB, HB, HH, NI, RP, SA, SL, ST, SH, NRW, TH). Weitere werden bei Bedarf beantragt. </p>
-	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen und sich dafür beurlauben zu lassen. Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bildungsurlaub zustehen, unter Weiterzahlung des Gehalts.</p>
+	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
+	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungsurlaub pro Jahr zu.</p>
 
-	<p>Weitere Informationen zum Bildungsurlaub finden Sie unter <a href="https://fossgis-konferenz.de/2024/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.</p>
+	<p>Weitere Informationen zum Bildungsurlaub und welches Bundesland die FOSSGIS-KOnferenz als Bildungszeit anerkannt hat, finden Sie unter <a href="https://fossgis-konferenz.de/2024/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.</p>
 	
 
 	<h3>Sie haben Fragen?</h3>
