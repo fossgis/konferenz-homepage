@@ -19,7 +19,7 @@
         <h2 id="Programm" name="Programm"class="Programm">Programm</h2>
 	<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2024/schedule/</a>.</p>
 	
-	<p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2023/speaker/">https://pretalx.com/fossgis2024/speaker/</a></p>
+	<p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2024/speaker/">https://pretalx.com/fossgis2024/speaker/</a></p>
 	<p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a></p> 
 	<p><b>Community Voting:</b> über 300 Teilnehmende haben sich beteiligt, Vielen Dank!
 	<p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2024/callforpapers/">/2024/callforpapers/</a></p>
