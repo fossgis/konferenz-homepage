@@ -52,6 +52,8 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<ul>
 			<li><b>Niedersachsen</b> - <a href="data/Anerkennungsbescheid_Niedersachsen.pdf">Download Anerkennungsbescheid, <a href="data/Teilnahmebestaetigung T_Niedersachsen.pdf">Vorlage Teilnahmebestätigung</a>
 			</li>
+			<li><b>Rheinland-Pfalz</b> - <a href="data/kommtnoch.pdf">Download Anerkennungsbescheid kommt noch, <a href="data/Teilnahmebestaetigung_kommtnoch.pdf">Vorlage Teilnahmebestätigung kommt noch</a>
+			</li>
 			<li> wir hoffen, dass weitere folgen</li>
 			</ul>
 			<p>Nutzen Sie für Ihre Beantragung des Bildungsurlaubes beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>

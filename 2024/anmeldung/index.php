@@ -88,9 +88,9 @@
  Der Workshop ist interaktiv und wird in einem mit Laptops ausgestattenen Raum im Haus D stattfinden. Die meisten Workshops arbeiten mit der aktuellen <a href="http://live.osgeo.org/de/index.html">OSGeoLive.</a> Es finden keine Onlineworkshops statt.
 	
 	<h3>Helfen</h3>
-	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2024/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfersystem</a> und schreiben eine <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a>, um einen Gutschein für ein Konferenzticket zu erhalten.
+	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2024/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfer:innensystem</a> und schreiben eine <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a>, um einen Gutschein für ein Konferenzticket zu erhalten.
 <br>
-	Wenn Sie Fragen zum helfen haben, wenden Sie sich ebenfalls per E-Mail an das Helferteam.</p>
+	Wenn Sie Fragen zum helfen haben, wenden Sie sich ebenfalls per E-Mail an das Helfer:innenteam.</p>
 
 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
 	<p>Das Anmeldeformular erscheint hier Anfang Januar 2024.</p>
@@ -114,7 +114,7 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
 	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungsurlaub pro Jahr zu.</p>
 
-	<p>Weitere Informationen zum Bildungsurlaub und welches Bundesland die FOSSGIS-KOnferenz als Bildungszeit anerkannt hat, finden Sie unter <a href="https://fossgis-konferenz.de/2024/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.</p>
+	<p>Weitere Informationen zum Bildungsurlaub und welches Bundesland die FOSSGIS-Konferenz 2024 als Bildungszeit anerkannt hat, finden Sie unter <a href="https://fossgis-konferenz.de/2024/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.</p>
 	
 
 	<h3>Sie haben Fragen?</h3>
