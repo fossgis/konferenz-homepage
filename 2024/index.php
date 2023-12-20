@@ -94,13 +94,18 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 				</ul>	-->
 
 			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
-				<ul class="tiles">
-					<li class="tile gold">
-						<a href="sponsor/101_bkg.php" target="_blank">
-						<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
-						</a>
-					</li>	
-				</ul>
+			<ul class="tiles">
+			<li class="tile gold">
+			<a href="sponsor/101_bkg.php" target="_blank">
+			<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
+			</a>
+			</li>	
+			<li class="tile gold">
+			<a href="sponsor/102_LGV.php" target="_blank">
+			<img src="./img/s/102_LGV.png" alt="LGV">
+			</a>
+			</li>	
+			</ul>
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
