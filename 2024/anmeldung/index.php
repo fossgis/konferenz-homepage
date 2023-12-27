@@ -100,7 +100,7 @@ Nutzen Sie die Möglichkeit einer Onlineteilnahme und buchen Sie ein Onlineticke
 Sie erhalten Zugang zum Livestream der Vorträge mit Chat der Teilnehmenden sowie Fragenfunktion und Anwendertreffen, die im Seminarraum und per Videokonferenz stattfinden werden.
 Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetreffpunkt für Teilnehmende.</p>-->
 	
-	<div id="shop">
+<!--	<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2024/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
