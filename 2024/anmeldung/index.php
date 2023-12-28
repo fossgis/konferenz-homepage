@@ -30,7 +30,7 @@
 	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
 	<p>Vom 20.-23. März 2024 findet die FOSSGIS-Konferenz als Präsenzveranstaltung auf dem Campus der Technischen Universität Hamburg statt.</p>
-	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops, Bildungsurlaub sowie ab Anfang Januar das Anmeldeformular. <br>Das Programm wird <a href="https://fossgis-konferenz.de/2024/programm/">hier</a> veröffentlicht.</p>
+	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops, Bildungsurlaub sowie ab Anfang Januar das Anmeldeformular. <br>Das Programm ist <a href="https://fossgis-konferenz.de/2024/programm/">hier</a> veröffentlicht.</p>
 		
 <!--	<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2024/">Direkt zur Anmeldung</a>
@@ -44,22 +44,23 @@
 		<li>Konferenzticket - für OSM-Community**: € 0</i>
 		<li>Konferenzticket für <a href="https://fossgis-konferenz.de/2024/helfen/#Helfer:inwerden">Helfende</a>: 8 h helfen</i>
 		<li>Workshop***: 130 €</i>
-		<li>Mittagessen an 3 Konferenztagen***: 21 €</li>
-		<li>Abendveranstaltung: 20 €</li>
-  		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweilgen Exkursionsangebot</li>
+		<li>zusätzl. Mittagessen an 3 Konferenztagen***: 21 €</li>
+		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweilgen Exkursionsangebot</li>
+  		<li>Abendveranstaltung***: 20 €</li>
+		<li>OSM-Samstag: kostenfrei</li>
 		<li>Onlinekonferenzticket: 90 €</i>
-		<li>Onlinekonferenzticket - reduzierter Preis*: 20 €</i>  		
+		<li>Onlinekonferenzticket - reduzierter Preis*: 20 €</i>
+		  		
 	</ul>
 		
-
 	<ul><p><b><i>Das Konferenzticket enthält:</i></b></p>
 	<ul>
 		<li>FOSSGIS-Konferenz-Teilnahme in Hamburg</li>
 		<li>Ordentliche Rechnung, unter dem jeweiligen Buchungslink abrufbar.</li>
 		<li>Pausensnack</li>
-		<li>Tasche, T-Shirt***</li>
+<!--		<li>Tasche, T-Shirt***</li>
 		<li>Tagungsband***</li>
-		<li>Abendveranstaltung***</li>
+		<li>Abendveranstaltung***</li> -->
 		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
 		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
@@ -67,7 +68,7 @@
 	<ul>
 		<li>Online-Teilnahme FOSSGIS-Konferenz</li>
 		<li>Ordentliche Rechnung, unter dem jeweiligen Buchungslink abrufbar.</li>
-		<li>Tagungsband***</li>
+<!--		<li>Tagungsband***</li> -->
 		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
 		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
@@ -80,7 +81,7 @@
 	
 
 <!--	<b><i>Hygieneschutz</i></b>
-	<p>Ausschlaggebend für die Durchführung der Konferenz sind die entsprechend gültigen Hygienebestimmungen der HU-Berlin für Präsenzveranstaltungen. Grundlage ist der <a href="https://www.hu-berlin.de/de/pr/coronavirus-informationen/leitfaeden/rahmenhygieneplan.pdf/@@download/file/20220920_Hygieneplan_HU.pdf">Rahmenhygieneplan</a>. Änderungen sind vorbehalten. </p>-->
+	<p>Ausschlaggebend für die Durchführung der Konferenz sind die entsprechend gültigen Hygienebestimmungen der HU-Berlin für Präsenzveranstaltungen. Grundlage ist der <a href="...</a>. Änderungen sind vorbehalten. </p>-->
 </ul>
 
 	<h3 id="Workshop" name="Workshop">Workshop buchen</h3>
@@ -108,7 +109,7 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
             JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2024/">hier</a>.
         </div>
     </div>
-</noscript>
+</noscript>-->
 		
 	<h3>Bildungsurlaub</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>

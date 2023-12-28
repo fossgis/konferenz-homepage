@@ -12,11 +12,11 @@
 	<link rel="stylesheet" href="./css/print.css" media="print">
 	<link rel="stylesheet" href="./standort_anreise/script/leaflet.css"/>
 
-	<script src="./standort_anreise/script/leaflet.js"></script>
+<!--	<script src="./standort_anreise/script/leaflet.js"></script>
 	<script src="./standort_anreise/script/leaflet.addons.js"></script>
 	<script src="./standort_anreise/data/buildings.js"></script>
 	<script src="./standort_anreise/data/hotels.js"></script>
-	<script src="./standort_anreise/script/map.js"></script>
+	<script src="./standort_anreise/script/map.js"></script>-->
 </head>
 
 <body id="standort">
@@ -24,8 +24,14 @@
 	<?php include "../inc/header.inc"; ?>
 	
 	<h1 ID="Standort" name="Standort">Standort, Anreise und Übernachtung</h1>
+	
+			<h4>Karten und Infos im FOSSGIS 2024 Masterportal</h4>
+			  <a href="https://gisdemo.dp.dsecurecloud.de/FOSSGIS_2024/" target="_blank">
+			  <img src="./img/s/Masterportal.png" hight=50px alt="Masterportal">
+			  </a>
 
-	<!--<div class="map-container">
+
+<!--	<div class="map-container">
 	<div id="map" class="map"></div>
 	</div>-->
 
@@ -44,7 +50,7 @@ Am Schwarzenberg-Campus 1<br>
 	<p>Die <b>Workshops</b> werden in den Seminarräumen des Hauses D durchgeführt. Die Raumpläne finden Sie bald hier. <!--<a href="./standort_anreise/raeume.php">hier</a>.-->
 	</p>
 
-	<p>In den Pausen gibt es ein Catering im Erdgeschoss sowie 1. Obergeschoss im Haus H. Für das Mittagessen können voraussichtlich Essenmarken erworben werden.</p>
+	<p>In den Pausen gibt es ein Catering im Erdgeschoss sowie 1. Obergeschoss im Haus H. Zusätzliches Mittagessen in der Mensa kann über die Anmeldung hinzugebucht werden.</p>
 
 
 	<h2 ID="Anreise" name="Anreise">Anreise </h2>

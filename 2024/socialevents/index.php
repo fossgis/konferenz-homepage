@@ -25,21 +25,30 @@
 	<h3>Dienstag, 19. März 2024</h3>
 	
 	<h4>Geochicas laden ein</h4>
-	<p>tba
-        </p>	
+	<p>tba</p>	
 
 	<h4 id="Inoffizieller Start" name="Inoffizieller Start">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 19. März 2024 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen. Jeder bezahlt seine Rechnung selbst.<br>
-	Location: tba </p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 19. März 2024 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://de.wikipedia.org/wiki/L%C3%A4mmertwiete"> Lämmertwiete</a> im Altstadtviertel in Harburg, um in einem der Restaurants gemeinsam mit anderen schon angereisten Teilnehmenden zu Abend zu essen. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 20. März 2024</h3>
 
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
-Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich. <br>Ort: tba.</p>
+Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. <br>Ort: tba.</p>
 
 	<h3>Donnerstag, 21. März 2024</h3>
+	
+	<h4>Exkursion: Einblick in die Kartensammlung der Staats- und Universitätsbibliothek Hamburg</h4>
+	<ul>
+	<li>Es wird eine Auswahl von Karten und Atlanten ausgelegt, die man sich ansehen kann.</li>
+	<li>Termin: Donnerstag, 21.03.2024 um 9 Uhr</li>
+	<li>Dauer: 2 h</li>
+	<li>Betreuung: Johannes Kröger</li>
+	<li>Schutzgebühr: 5 EUR</li>
+	</ul>
+	</p>
+
 
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
 	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden Sie ein am Donnerstag, den 21. März in der Nachmittagspause zum gemeinsamen Gruppenfoto am Haupteingang des Haus H ein.</p>
@@ -48,27 +57,41 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<p>Am Donnerstag, den 16. März 2023 werden sich um 17.45 Uhr die Freiberufler aus dem FOSSGIS-Bereich im Seminarraum 1'306 zum gemeinsamen Austausch treffen.</p>-->
 	
 	<h4>FOSSGIS e.V. Mitgliederversammlung</h4>
-	<p>Am Donnerstag, den 21. März 2024, sind alle Mitglieder und Gäste ab 18:00 Uhr herzlich eingeladen an der Mitgliederversammlung teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Neuwahlen. Es gibt Getränke und es wird Pizza für alle bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>
+	<p>Am Donnerstag, den 21. März 2024, sind alle Mitglieder und Gäste ab 19:00 Uhr herzlich eingeladen an der Mitgliederversammlung teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Wahlen. Es gibt Getränke und es wird Pizza für alle bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>
 
 	<h3>Freitag, 22. März 2024</h3>
 	
 	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
-	<p>Am Freitag, den 21. März gibt es vor dem Abschluss des reguläres Konferenzprogramms das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes und tba. Informationen zum generellen Ablauf sowie zur Anmeldung als Teilnehmerin oder Teilnehmer finden Sie in Hannes's Blog <!-- <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-20243/">hier in Hannes's Blog</a>-->.	
+	<p>Am Freitag, den 22. März gibt es vor dem Abschluss des regulären Konferenzprogramms das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes und tba. Informationen zum generellen Ablauf sowie zur Anmeldung zur Teilnahme finden Sie in Hannes's Blog<!-- <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-20243/">hier in Hannes's Blog</a>-->.	
 
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
-	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:00 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2024 am FOSSGIS-Vereins-Stand eingeladen.</p>
+	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:30 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2024 am FOSSGIS-Vereins-Stand eingeladen.</p>
 
-	<h4>Exkursionen im Rahmen der Konferenz</h4>
-	<p>Es gibt verschiedene Ideen für Exkursionen. Beispielsweise tba. <br>
-Weitere Informationen folgen.</p>-->
+	<h4>Exkursion: Hamburger Unterwelten</h4>
+	<ul>
+	<li>Besuch des Tiefbunkes Steintorwall</li>
+	<li>Termin: Freitag, 22.03.2024 um 18 Uhr</li>
+	<li>Dauer: jeweils 1,5-2 Stunden</li>
+	<li>Betreuung: Maik Sydoruk</li>
+	<li>Kosten: 8 EUR</li>
+	</ul>
 
-<!--	<h4>OSM-Event am Freitagabend</h4>
-	<p>Für alle, die am Freitagabend, den 22. März 2024 noch in der Stadt sind und/oder am OSM-Event teilnehmen möchten, wird für 19/19.30 Uhr tba vorgeschlagen. Jeder bezahlt seine Rechnung selbst.</p>-->
+	<h4>OSM-Event am Freitagabend</h4>
+	<p>Für alle, die am Freitagabend, den 22. März 2024 noch in der Stadt sind, wird für 19/19.30 Uhr tba vorgeschlagen. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Samstag, 23. März 2024</h3>
-	<h4 id="OSM-Event" name="OSM-Event">OSM-Event</h4>
+	<h4 id="OSM-Event" name="OSM-Event">OSM-Samstag</h4>
 
-	<p>Am Samstag, den 23. März findet von 9.30 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen daran teilzunehmen. Die Veranstaltung ist kostenfrei. Die Themensammlung erfolgt im OSM-Wiki. <!--<a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2023/OSM-Samstag" target="_blank">OSM-Wiki</a>. Wir bitten um Anmeldung über das <a href="https://fossgis-konferenz.de/2023/anmeldung/#Anmeldeformular"><b>FOSSGIS-Konferenz-Teilnehmeranmeldesystem.</b></a></p>-->
+	<p>Am Samstag, den 23. März findet von 9.00 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen sich zu beteiligen oder daran teilzunehmen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2024/OSM-Samstag" target="_blank">OSM-Wiki</a>. Die Veranstaltung ist kostenfrei. Wir bitten um Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a>.</p>
+	
+	<h4>Exkursion: MILLERNTOUR! Stadionführung bei St. Pauli</h4>
+	<ul>
+	<li>Die Stadionführung beim FC St. Pauli gibt Einblicke in die Geschichte und Kultur eines ungewöhnlichen Vereins.
+	<li>Termin: Samstag, 23.03.2024 um 14 Uhr</li>
+	<li>Dauer: ca. 120 Minuten</li>
+	<li>Betreuung: Güren Tan Dinga</li>
+	<li>Kosten: 15 EUR</li>
+	</ul>
 	
 	<?php include "../inc/footer.inc"; ?>
 
