@@ -54,7 +54,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			</li>
 			<li><b>Sachsen-Anhalt</b> - <a href="data/Anerkennungsbescheid_Sachsen-Anhalt_.pdf">Download Anerkennungsbescheid</a>
 			</li>
-			<li><b>Rheinland-Pfalz</b> - <a href="data/kommtnoch.pdf">Download Anerkennungsbescheid</a> kommt noch, <a href="data/Teilnahmebestaetigung_kommtnoch.pdf">Vorlage Teilnahmebestätigung</a> kommt noch
+			<li><b>Rheinland-Pfalz</b> - <a href="data/Anerkennung_Rheinland-Pfalz_bis_19032026.pdf">Download Anerkennungsbescheid</a>, Teilnahmebestätigung nach der Konferenz in Ihrer Bestellung downloadbar.
 			</li>
 			<li> wir hoffen, dass weitere folgen</li>
 			</ul>
