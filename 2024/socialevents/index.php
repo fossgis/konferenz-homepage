@@ -23,11 +23,22 @@
 	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden. Räume stehen zur Verfügung, bitte bis 06.11.2023 einreichen oder per <a href="mailto:programm@fossgis.de?subject=Session fuer das Konferenzprogramm">per E-Mail</a> beim Programmkomitee anfragen, wenn es im Programm veröffentlicht werden soll. </p>
 
 	<h3>Dienstag, 19. März 2024</h3>
+	<h4> Exkursion Blankenese – Altes Land – Finkenwerder – Landungsbrücken</h4>
+	<ul>
+	<li>Für schon am Dienstag Angereiste Teilnehmende.</li>
+	<li>Termin: Dienstag, 19.03.2024</li>
+	<li>Start: 14:45 Hamburger Hauptbahnhof, S-Bahnsteig Gleis 1 (Nebentunnel), ganz vorn (in
+Fahrtrichtung Blankenese)</li>
+	<li>ausführliche Infos: <a href="socialevents/exkursionen.php#BlankeneseLandungsbruecken" target="_blank">Link Unterseite Exkursionen</a></li>
+	<li>Betreuung: Wolfgang Hinsch</li>
+	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
+	</ul>
+	</p>
 	
 	<h4>Geochicas laden ein</h4>
 	<p>tba</p>	
 
-	<h4 id="Inoffizieller Start" name="Inoffizieller Start">Inoffizieller Start</h4>
+	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
 	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 19. März 2024 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://de.wikipedia.org/wiki/L%C3%A4mmertwiete"> Lämmertwiete</a> im Altstadtviertel in Harburg, um in einem der Restaurants gemeinsam mit anderen schon angereisten Teilnehmenden zu Abend zu essen. Jeder bezahlt seine Rechnung selbst.</p>
 
@@ -47,7 +58,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Betreuung: Johannes Kröger</li>
 	<li>Schutzgebühr: 5 EUR</li>
 	</ul>
-	</p>
+	
 
 
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
@@ -75,8 +86,19 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Betreuung: Maik Sydoruk</li>
 	<li>Kosten: 8 EUR</li>
 	</ul>
+	
+	<h4>Exkursion: Abendliche Hafenrundfahrt</h4>
+	<ul>
+	<li>TU – Wilhelmsburg – Köhlbrandbrücke – Finkenwerder –
+Landungsbrücken</li>
+	<li>Termin: Freitag, 22.03.2024 um 17:45 Uhr</li>
+	<li>Dauer: ca. 2 Stunden</li>
+	<li>ausführliche Infos: <a href="socialevents/exkursionen.php#WilhelmsburgLandungsbruecken" target="_blank">Link Unterseite Exkursionen</a></li>
+	<li>Betreuung: Wolfgang Hinsch</li>
+	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
+	</ul>
 
-	<h4>OSM-Event am Freitagabend</h4>
+	<h4 id="OSMFreitag" name="OSMFreitag">OSM-Event am Freitagabend</h4>
 	<p>Für alle, die am Freitagabend, den 22. März 2024 noch in der Stadt sind, wird für 19/19.30 Uhr tba vorgeschlagen. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Samstag, 23. März 2024</h3>
@@ -91,6 +113,18 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Dauer: ca. 120 Minuten</li>
 	<li>Betreuung: Güren Tan Dinga</li>
 	<li>Kosten: 15 EUR</li>
+	</ul>
+	
+	<h4>Exkursion: Stadtrundgang</h4>
+	<ul>
+	<li>Michaeliskirche – Elbtunnel – Elbphilharmonie – Speicherstadt –
+Karolinenviertel – Rathaus – Binnenalster</li>
+	<li>Termin: Samstag, 23.03.2024 um 9:15 Uhr</li>
+	<li>Dauer: ganzer Tag</li>
+	<li>ausführliche Infos: <a href="socialevents/exkursionen.php#MichaeliskircheBinnenalster" target="_blank">Link Unterseite Exkursionen</a></li>
+
+	<li>Betreuung: Wolfgang Hinsch</li>
+	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
 	</ul>
 	
 	<?php include "../inc/footer.inc"; ?>
