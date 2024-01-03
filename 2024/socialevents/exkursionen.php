@@ -55,7 +55,7 @@ Die Exkursion findet bei jedem Wetter statt.</p>
 		
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
-		<h3 id="MichaeliskircheBinnenalster" name="MichaeliskircheBinnenalster" >Exkursion – Stadtrundgang: Michaeliskirche – Elbtunnel – Elbphilharmonie – Speicherstadt – Karolinenviertel – Rathaus – Binnenalster</h3>
+		<h3 id="MichaeliskircheBinnenalster" name="MichaeliskircheBinnenalster" >Stadtrundgang: Michaeliskirche – Elbtunnel – Elbphilharmonie – Speicherstadt – Karolinenviertel – Rathaus – Binnenalster</h3>
 		<p>Samstag, 23.03.2024, Betreuung: Wolfgang Hinsch</p>
 		<p>Wir treffen uns an der S-Bahn Haltestelle Stadthausbrücke, Bahnsteig, Aufgang zur Michaeliskirche (aus Richtung Hauptbahnhof vorne) um 9:15 Uhr (Abmarsch 9:30 Uhr). Wer das verpasst, kann die Gruppe an der Michaeliskirche (10:00 Uhr) noch einholen.<br>
 		<p>Für diese Exkursion fallen Besichtigungsgebühren an, die von den Teilnehmern selbst zu tragen
