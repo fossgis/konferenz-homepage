@@ -42,25 +42,19 @@
 		<li>Konferenzticket: 300 €</i>
 		<li>Konferenzticket - reduzierter Preis*: 120 €</i>
 		<li>Konferenzticket - für OSM-Community**: € 0</i>
-		<li>Konferenzticket für <a href="https://fossgis-konferenz.de/2024/helfen/#Helfer:inwerden">Helfende</a>: 8 h helfen</i>
+		<li>Konferenzticket für <a href="https://fossgis-konferenz.de/2024/helfen/#HelfenvorOrt">Helfende</a>: 8 h helfen</i>
 		<li>Workshop***: 130 €</i>
-		<li>zusätzl. Mittagessen an 3 Konferenztagen***: 21 €</li>
-		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweilgen Exkursionsangebot</li>
-  		<li>Abendveranstaltung***: 20 €</li>
-		<li>OSM-Samstag: kostenfrei</li>
 		<li>Onlinekonferenzticket: 90 €</i>
 		<li>Onlinekonferenzticket - reduzierter Preis*: 20 €</i>
+		<li>OSM-Samstag: kostenfrei</li>
 		  		
 	</ul>
 		
 	<ul><p><b><i>Das Konferenzticket enthält:</i></b></p>
 	<ul>
 		<li>FOSSGIS-Konferenz-Teilnahme in Hamburg</li>
-		<li>Ordentliche Rechnung, unter dem jeweiligen Buchungslink abrufbar.</li>
 		<li>Pausensnack</li>
-<!--		<li>Tasche, T-Shirt***</li>
-		<li>Tagungsband***</li>
-		<li>Abendveranstaltung***</li> -->
+		<li>Ordentliche Rechnung, unter dem jeweiligen Buchungslink abrufbar.</li>
 		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
 		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
@@ -72,8 +66,16 @@
 		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
 		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
 	</ul>
+	<p><b><i>Preise Zusatzprodukte:</i></b></p>
+	<ul>
+		<li>zusätzl. Mittagessen an 3 Konferenztagen***: 21 €</li>
+		<li>Abendveranstaltung***: zw. 20 und 80 € als frei wählbarer Betrag</li>
+  		<li>Tagungsband***: 3 €</li>
+		<li>T-Shirt***: 7 €</li>
+		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweilgen Exkursionsangebot</li>
+	</ul>
 
-	<p><small>* Reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in, Nachweis erforderlich.</small><br>
+	<p><small>* Reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in, Arbeitslose - Nachweis erforderlich.</small><br>
 		<small>** Das OSM-Communityticket gilt für OpenStreetMap-Aktive.</small><br>
 		<small>*** Wenn bestellt und solange verfügbar.</small><br>
 <!--		<small>Info zum Mittagessen: Mi. vegetarisch, Do. vegetarisch|Fleisch, Fr. vegetarisch|Fisch, Vegan ist täglich auf der Speisekarte.</small><br>-->
@@ -89,7 +91,7 @@
  Der Workshop ist interaktiv und wird in einem mit Laptops ausgestattenen Raum im Haus D stattfinden. Die meisten Workshops arbeiten mit der aktuellen <a href="http://live.osgeo.org/de/index.html">OSGeoLive.</a> Es finden keine Onlineworkshops statt.
 	
 	<h3>Helfen</h3>
-	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2024/helfen/">Website Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfer:innensystem</a> und schreiben eine <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a>, um einen Gutschein für ein Konferenzticket zu erhalten.
+	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2024/helfen/#HelfenvorOrt">Website Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich im <a href="https://helfen.fossgis.de">Helfer:innensystem</a> und schreiben eine <a href="mailto:helfen@fossgis.de?subject=Interesse_Unterstützung_FOSSGIS-Konferenz">E-Mail</a>, um einen Gutschein für ein Konferenzticket zu erhalten.
 <br>
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich ebenfalls per E-Mail an das Helfer:innenteam.</p>
 

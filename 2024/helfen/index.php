@@ -32,8 +32,8 @@
 <!--	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite lesen.</li> 
-		<li>Im <a href="https://helfen.fossgis.de">Helfersystem<a/> registrieren und eine <a href="mailto:helfen@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helferteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
-		<li>Für Fragen gerne <a href="mailto:helfen@fossgis.de?subject=Fragen_zum_helfen"> per E-Mail an das Helferteam</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>Im <a href="https://helfen.fossgis.de">Helfer:innensystem<a/> registrieren und eine <a href="mailto:helfen@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helfer:innenteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
+		<li>Für Fragen gerne <a href="mailto:helfen@fossgis.de?subject=Fragen_zum_helfen"> per E-Mail an das Helfer:innenteam</a> oder anrufen unter: +49 30-62932037.</li> 
 		</ul>
 
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>-->
@@ -71,7 +71,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	</ul>
 	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>. Das Konferenzteam organisiert sich über ein internes Ticketsystem sowie regelmäßige Abstimmungstreffen.</p>
 
-	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfen.fossgis.de/">Helfersystem</a>-->Helfersystem gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
+	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <a href="https://helfen.fossgis.de/">Helfer:innensystem</a> gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
 
 <h3 ID="HelfenvorOrt" name="HelfenvorOrt">Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
 	<p>Es gibt zwei Helfer:innenarten.</p>
@@ -100,7 +100,7 @@ Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortrage
 			Um jeden Vortrag live zu streamen und im Nachgang als Videoaufnahme zur Verfügung stellen zu können, braucht es Menschen, die an der Kamera sitzen und den Vortrag mitschneiden. Die Einführungsschulung sollte besucht werden.</li>
 			
 
-		<li><b>Hörsaalhelfer:in</b> (bezahlt)<br>
+		<li><b>Hörsaalhelfer:in</b> (bezahlt + gerne freiwillig)<br>
 In jedem Hörsaal gibt es eine verantwortliche Person, die das Videoteam und die Sessionleitung sowie die Vortragenden unterstützt.
 <!--			<ul><i>Aufgaben:</i>
 				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)</li>
@@ -115,7 +115,7 @@ In jedem Hörsaal gibt es eine verantwortliche Person, die das Videoteam und die
 				
 			</ul>	-->
 		</li>
-		<li><b>Workshophelfer:in</b> (bezahlt)<br>
+		<li><b>Workshophelfer:in</b> (bezahlt + gerne freiwillig)<br>
 In jedem Workshopraum gibt es eine verantwortliche Person, die die Workshopleitung und Teilnehmenden während des Workshops unterstützt.
 <!--			<ul><i>Aufgaben:</i>
 				<li>Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)</li>
@@ -157,12 +157,13 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 
 	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
-		<li>Diese Seite gelesen haben und beim Orgateam melden sowie auch </li> 
-		<li>bei Fragen einfach fragen.</li>
+		<li>Diese Seite gelesen haben.</li> 
+		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li> 
+		<li>Mail ans Orgateam schreiben, um Gutscheincode für Helfer:innenticket zu erhalten.</li> 
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037</li> 
-<!--		<li>Registierung im Helfersystem: <a href="https://helfen.fossgis.de?subject=Interesse_zu_helfen">https://helfen.fossgis.de</a></li> 
-	<!--	<li>dem Telegramkanal <i>Helfer:innen_FOSSGIS2022</i> beitreten: <a href="https://t.me/joinchat/IChw-K8-pB0yMjEy">https://t.me/joinchat/FOSSGIS2022</a></li> -->
-
+		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2024:matrix.org"><i>Helfer:innen_FOSSGIS2024</i></a> beitreten. </li>
+		<li>Bei Fragen einfach fragen.</li>
+		</ul>
 
 	<?php include('../inc/footer.inc'); ?>
 

@@ -28,6 +28,8 @@
 		<h3 id="Exkursion" name="Exkursion">Angebote Exkursionen zur Erkundung der Stadt Hamburg</h3>
 		<p>Dies ist eine ausführliche Beschreibung der Exkursionen, die von Wolfgang Hinsch angeboten werden.<br>
 		Bitte beachten Sie, dass es vor allem wetterbedingt, zu Extremsitutationen kommen kann, bei denen der Schiffsverkehr eingestellt und/oder die Uferbereiche, insbesondere die Speicherstadt, gesperrt werden. In diesem Fall entfällt die betroffene Exkursion völlig oder wird, wenn möglich, angepasst.</p>
+
+		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 			
 		<h4 id="BlankeneseLandungsbruecken" name="BlankeneseLandungsbruecken">Blankenese – Altes Land – Finkenwerder – Landungsbrücken</h4>
 		<p>Dienstag, 19.03.2024, Betreuung: Wolfgang Hinsch</p>
@@ -39,6 +41,8 @@ Die Exkursion findet bei jedem Wetter statt. Im Fall von Monsun entfällt die Tr
 		Die Neigung der Rampen vom Ufer auf die Anleger der Schiffe ist tide- und wetterabhängig. Sie
 reicht von fast waagerecht bis steil und kann rutschig und nur bedingt barrierefrei sein.</p>
 		<p>Wer mag, kommt von dort aus mit zum <a href="/2024/socialevents#InoffiziellerStart">inoffiziellen Start</a>.</p>
+		
+		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 				
 		<h4 id="WilhelmsburgLandungsbruecken" name="WilhelmsburgLandungsbruecken">TU – Wilhelmsburg – Köhlbrandbrücke – Finkenwerder – Landungsbrücken</h4>
 		<p>Freitag, 22.03.2024, Betreuung: Wolfgang Hinsch</p>
@@ -48,8 +52,10 @@ reicht von fast waagerecht bis steil und kann rutschig und nur bedingt barrieref
 reicht von fast waagerecht bis steil und kann rutschig und nur bedingt barrierefrei sein.<br>
 Die Exkursion findet bei jedem Wetter statt.</p>
 		<p>Wer mag, kommt von dort aus mit zum <a href="/2024/socialevents#OSMFreitag">OSM-Event</a> am Freitagabend.</p>
+		
+		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
-			<h3 id="MichaeliskircheBinnenalster" name="MichaeliskircheBinnenalster" >Michaeliskirche – Elbtunnel – Elbphilharmonie – Speicherstadt – Karolinenviertel – Rathaus – Binnenalster</h3>
+		<h3 id="MichaeliskircheBinnenalster" name="MichaeliskircheBinnenalster" >Exkursion – Stadtrundgang: Michaeliskirche – Elbtunnel – Elbphilharmonie – Speicherstadt – Karolinenviertel – Rathaus – Binnenalster</h3>
 		<p>Samstag, 23.03.2024, Betreuung: Wolfgang Hinsch</p>
 		<p>Wir treffen uns an der S-Bahn Haltestelle Stadthausbrücke, Bahnsteig, Aufgang zur Michaeliskirche (aus Richtung Hauptbahnhof vorne) um 9:15 Uhr (Abmarsch 9:30 Uhr). Wer das verpasst, kann die Gruppe an der Michaeliskirche (10:00 Uhr) noch einholen.<br>
 		<p>Für diese Exkursion fallen Besichtigungsgebühren an, die von den Teilnehmern selbst zu tragen
