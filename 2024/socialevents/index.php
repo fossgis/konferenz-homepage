@@ -84,7 +84,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 
 	<h4>Exkursion: Hamburger Unterwelten</h4>
 	<ul>
-	<li>Besuch des Tiefbunkes Steintorwall</li>
+	<li>Besuch des Tiefbunkers Steintorwall</li>
 	<li>Termin: Freitag, 22.03.2024 um 18 Uhr</li>
 	<li>Dauer: jeweils 1,5-2 Stunden</li>
 	<li>Betreuung: Maik Sydoruk</li>
