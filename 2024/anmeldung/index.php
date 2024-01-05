@@ -71,8 +71,8 @@
 		<li>zusätzl. Mittagessen an 3 Konferenztagen***: 21 €</li>
 		<li>Abendveranstaltung***: zw. 20 und 80 € als frei wählbarer Betrag</li>
   		<li>Tagungsband***: 3 €</li>
-		<li>T-Shirt***: 7 €</li>
-		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweilgen Exkursionsangebot</li>
+		<li>T-Shirt***: 15 €</li>
+		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweiligen Exkursionsangebot</li>
 	</ul>
 
 	<p><small>* Reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in, Arbeitslose - Nachweis erforderlich.</small><br>

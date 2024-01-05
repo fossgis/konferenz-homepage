@@ -77,7 +77,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<h3>Freitag, 22. März 2024</h3>
 	
 	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
-	<p>Am Freitag, den 22. März gibt es vor dem Abschluss des regulären Konferenzprogramms das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes und tba. Informationen zum generellen Ablauf sowie zur Anmeldung zur Teilnahme finden Sie in Hannes's Blog<!-- <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-20243/">hier in Hannes's Blog</a>-->.	
+	<p>Am Freitag, den 22. März gibt es vor dem Abschluss des regulären Konferenzprogramms das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes. Informationen zum generellen Ablauf sowie zur Anmeldung zur Teilnahme folgen<!-- <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-20243/">hier in Hannes's Blog</a>-->.	
 
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:30 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2024 am FOSSGIS-Vereins-Stand eingeladen.</p>
