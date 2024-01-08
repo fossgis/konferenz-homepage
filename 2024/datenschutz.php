@@ -43,6 +43,7 @@
 			<li>Server-Log Files: Wir speichern keine IP-Adressen, Browserdaten, Referer oder andere Metadaten.</li>
 			<li>Zahlungsinformationen Paypal: Soweit entsprechende Bezahlmethode gewählt wird. Die Bezahlungsmethode Paypal wird von der PayPal (Europe) S.à r.l. & Cie, S.C.A., 5. Etage, 22-24 Boulevard Royal, L-2449 Luxembourg abgewickelt. Weitere Informationen zum Datenschutz von Paypal finden Sie in der Datenschutzerklärung von Paypal.</li>
 			<li>Zahlungsinformationen Überweisung: IBAN und Zahlbetrag.</li>
+			<li>Gesundheitsbezogene Daten</li>
 
 		</ol>
 
@@ -59,6 +60,7 @@
 			<li>Cookies: Gewährleistung eines ordnungsgemäßen Bestellvorgangs</li>
 			<li>Zahlungsinformationen Paypal: Abwicklung des Bezahlvorgangs, Vertragsabwicklung</li>
 			<li>Zahlungsinformation Überweisung: Vertragsabwicklung.</li>
+			<li>Lebensmittelallergie: Weitergabe dieser Information in anonymisierter Form zur Berücksichtigung im Rahmen der Konferenzverpflegung. </li>
 		</ol>
 
 		<h4>Rechtsgrundlage der Verarbeitung</h4>
@@ -71,6 +73,7 @@
  			<li>Cookies: Verarbeitung zur Erfüllung eines Vertrags, Art. 6 Abs. 1 lit. b) DSGVO i.V.m. § 25 Abs. 2 Nr. 2 TTDSG, berechtigte Interesse, Art. 6 Abs. 1 lit. f) DSGVO. Das berechtigt Interesse besteht in der ordnungsgemäßen Abwicklung eines Bestellvorgangs.</li>
  			<li>Zahlungsinformationen Paypal: Verarbeitung zur Erfüllung eines Vertrags, Art. 6 Abs. 1 lit. b) DSGVO</li>	
  			<li>Zahlungsinformationen Überweisung: Verarbeitung zur Erfüllung eines Vertrags, Art. 6 Abs. 1 lit. b) DSGVO</li>	
+ 			<li>Gesundheitsdaten: Einwilligung gem Art. 9 Abs.2 lit. a) DSGVO</li>
 		</ol>
 
 
@@ -84,13 +87,14 @@
 		<h4>Speicherdauer personenbezogener Informationen</h4>
 		<ol class="list">
   			<li>Konferenzteilnehmer:innenstammdaten, Sponsorenstammdaten, Ausstellendestammdaten: Die Daten werden im Rahmen der gesetzlichen Vorgaben und Verjährungsregelungen gespeichert.</li>
-  			<li>Konferenzteilnehmer:innen-Konfektionsgröße: Die Daten werden nach Veranstaltungsende gelöscht.</li>
+  			<li>Konferenzteilnehmer:innen-Konfektionsgröße:  Die Daten werden nach Veranstaltungsende gelöscht.</li>
   			<li>Konferenzteilnehmer:innen-Zusatzveranstaltung: Die Daten werden aus der Datenbank nach Veranstaltungsende gelöscht.</li>
   			<li>Konferenzteilnehmer:innen-OSM-Nickname: Die Daten werden aus der Datenbank nach Veranstaltungsende gelöscht.</li>
   			<li>Konferenzteilnehmer:innen-Communityzugehörigkeit, Communitybeteiligung: Die Daten werden im Rahmen der gesetzlichen Vorgaben und Verjährungsregelungen gespeichert.</li>
   			<li>Cookies: 2 Stunden</li>
   			<li>Zahlungsinformationen Paypal: Löschung nach Übertragung an PayPal</li>
   			<li>Zahlungsinformationen Überweisung: Die Daten werden im Rahmen der gesetzlichen Vorgaben und Verjährungsregelungen gespeichert.	</li>
+  			<li>Gesundheitsdaten: Die Informationen zu Lebensmittelallergien werden 2 Wochen nach Konferenzende gelöscht.</li>
 		</ol>
 
 
@@ -108,6 +112,9 @@
 		<h3>Ihre Rechte</h3>
 		<h4>Auskunft, Sperrung, Löschung</h4>
 		<p>Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung, Löschung und Widerspruch gegen die Verarbeitung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.</p>
+		
+		<h4>Widerruf einer Einwilligung</h4>
+		<p> Sie haben das Recht auf jederzeitigen Widerruf einer erteilten Einwilligung (Artikel 7 DSGVO).</p>
 
 		<h4>Recht auf Datenübertragbarkeit</h4>
 		<p>Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</p>
