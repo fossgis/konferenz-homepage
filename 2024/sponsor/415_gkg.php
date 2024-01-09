@@ -33,7 +33,7 @@
 
 					<p>Schulungen, Dienstleistungen und Support rund um QGIS, GRASS, SpatiaLite und PostGis sowie GDAL/OGR.<br>
 Mit angepassten QGIS-Oberflächen, QGIS-Plugins sowie SpatialSQL strukturiere ich Ihre Geodaten und ermögliche maßgeschneiderte Analyse und Präsentation mit freier GIS-Software.<br>
-Mit dem GKG-ALKIS-Konverter können Sie ALKIS-Daten ohne Datenbankank-Installation ins QGIS integrieren.<br>
+Mit dem GKG-ALKIS-Konverter können Sie ALKIS-Daten ohne Datenbank-Installation ins QGIS integrieren.<br>
 <a href="http://www.gkg-kassel.de">www.gkg-kassel.de</a> 
 					</p>
 				</div>
