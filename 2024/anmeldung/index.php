@@ -96,14 +96,14 @@
 	Wenn Sie Fragen zum helfen haben, wenden Sie sich ebenfalls per E-Mail an das Helfer:innenteam.</p>
 
 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
-	<p>Das Anmeldeformular erscheint hier Anfang Januar 2024.</p>
-<!--	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2023/" target="_blank">diesem Link</a> direkt aufrufen.</p>-->
+<!--	<p>Das Anmeldeformular erscheint hier Anfang Januar 2024.</p>-->
+	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2024/" target="_blank">diesem Link</a> direkt aufrufen.</p>
 <!--	<p>Die FOSSGIS ist ausgebucht. Wir können keine weiteren Tickets für die Konferenz vor Ort in Berlin-Adlershof anbieten.
 Nutzen Sie die Möglichkeit einer Onlineteilnahme und buchen Sie ein Onlineticket.
 Sie erhalten Zugang zum Livestream der Vorträge mit Chat der Teilnehmenden sowie Fragenfunktion und Anwendertreffen, die im Seminarraum und per Videokonferenz stattfinden werden.
 Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetreffpunkt für Teilnehmende.</p>-->
 	
-<!--	<div id="shop">
+<div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2024/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
@@ -111,9 +111,9 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
             JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2024/">hier</a>.
         </div>
     </div>
-</noscript>-->
+</noscript>
 		
-	<h3>Bildungsurlaub</h3>
+	<h3 id="Bildungsurlaub" name="Bildungsurlaub">Bildungsurlaub</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
 	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungsurlaub pro Jahr zu.</p>
 

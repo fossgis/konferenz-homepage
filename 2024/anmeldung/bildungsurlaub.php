@@ -66,6 +66,27 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<li><b>Berlin</b> </li>
 			<li><b>Bremen</b> </li>	
 			</ul>
+			
+			<h3 id="Antrag" name="Antrag" >Antrag</h3>
+<p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub beantragt:</p>
+			<ul>
+			<li><b>Brandenburg</b> </li>
+			<li><b>Hamburg</b></li>
+			<li><b>Hessen</b></li>		
+			<li><b>Saarland</b></li>	
+			<li><b>Schleswig-Holstein</b></li>	
+			<li><b>Thüringen</b></li>				
+			</ul>
+			
+			<h3 id="Antrag" name="Antrag" >kein Antrag</h3>
+			<p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub zu teuer, zu kompliziert oder gar nicht möglich</p>
+			<ul>
+			<li><b>Baden-Württemberg</b> </li>
+			<li><b>Bayern</b></li>
+			<li><b>Mecklenburg-Vorpommern</b> </li>
+			<li><b>Nordrhein-Westfalen</b></li>	
+			<li><b>Sachsen</b></li>
+			</ul>
 
 				</div>
 				<div class="col-lg-3">

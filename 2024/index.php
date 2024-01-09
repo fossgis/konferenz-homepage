@@ -188,6 +188,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/414_TomTom.png" alt="TomTom North America Inc">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/415_gkg.php" target="_blank">
+			<img src="./img/s/415_gkg_logo.png" alt="gkg">
+			</a>
+			</li>
 			
 		</ul>
 	
@@ -209,11 +214,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>
 
 
-					<li class="tile bronze">
-						<a href="sponsor/409_gkg.php" target="_blank">
-						<img src="./img/s/409_gkg_logo.png" alt="gkg">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/412_geofabrik.php" target="_blank">
 						<img src="./img/s/412_Geofabrik_logo4.png" alt="geofabrik">

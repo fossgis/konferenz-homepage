@@ -50,7 +50,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
-Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. <br>Ort: tba.</p>
+Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. <br>Ort: wird noch bekannt gegeben.</p>
 
 	<h3>Donnerstag, 21. März 2024</h3>
 	
@@ -103,7 +103,7 @@ Landungsbrücken</li>
 	</ul>
 
 	<h4 id="OSMFreitag" name="OSMFreitag">OSM-Event am Freitagabend</h4>
-	<p>Für alle, die am Freitagabend, den 22. März 2024 noch in der Stadt sind, wird für 19/19.30 Uhr tba vorgeschlagen. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Für alle, die am Freitagabend, den 22. März 2024 noch in der Stadt sind, wird für 19/19.30 Uhr vorgeschlagen. Der Ort wird noch bekannt gegeben. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Samstag, 23. März 2024</h3>
 	<h4 id="OSM-Event" name="OSM-Event">OSM-Samstag</h4>
