@@ -105,16 +105,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/102_LGV.png" alt="LGV">
 			</a>
 			</li>	
+			<li class="tile gold">
+			<a href="sponsor/103_OPENGis_CH.php" target="_blank">
+			<img src="./img/s/103_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
+			</a>
+			</li>	
 			</ul>
 
-			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
+<!--			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 				<ul class="tiles">
-					<li class="tile gold">
-						<a href="sponsor/201_OPENGis_CH.php" target="_blank">
-					<img src="./img/s/201_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
-					</a>
-					</li>		
-				</ul>	
+						
+				</ul>	-->
 
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">

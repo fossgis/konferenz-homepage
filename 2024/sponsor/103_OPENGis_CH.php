@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/201_Logo_QFieldCloud-by-OpenGIS_transparent.png" 
+			<img src="./img/s/103_Logo_QFieldCloud-by-OpenGIS_transparent.png" 
 				class="sponsor-logo" 
 				alt="Firmenlogo">
 			
