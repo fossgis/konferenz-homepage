@@ -194,6 +194,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/415_gkg_logo.png" alt="gkg">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/416_geOps.php" target="_blank">
+			<img src="./img/s/416_geOps.png" alt="geOps AG">
+			</a>
+			</li>
 			
 		</ul>
 	
@@ -233,11 +238,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 
-					<li class="tile bronze">
-						<a href="sponsor/416_geOps.php" target="_blank">
-						<img src="./img/s/416_geOps.png" alt="geOps AG">
-						</a>
-					</li>
 					
 <!--				<li class="tile bronze">
 						<a href="sponsor/408_gis-ops.php" target="_blank">
