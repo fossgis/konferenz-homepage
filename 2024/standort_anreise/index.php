@@ -71,12 +71,18 @@ Am Schwarzenberg-Campus 1<br>
 
 	<p>Sicherlich freuen sich die Hamburger Taxifahrenden über Fahraufträge.
 	<ul>
-		<li>Fahrten mit <a href="https://taxihamburg.de/">Taxi Hamburg</a> können Sie per <a href="https://taxihamburg.de/taxi-app/download-taxi-app"> Taxi-App</a> bestellen oder anrufen unter <b>040 66 66 66</b>.
+		<li>Fahrten mit <a href="https://funk-taxi-harburg.de/">Funktaxi Harburg</a> können Sie per <a href="https://play.google.com/store/apps/details?id=com.insilico.FrongeTaxi.TaxiHarburg&gl=DE"> Funktaxi-Android-App</a> oder <a href="https://apps.apple.com/de/app/taxi-harburg/id661642254">Funkttaxi iOS-App</a> bestellen oder anrufen unter <b>040 77 43 53</b>.
 		</li>
-		<li> <a href="https://das-taxi.de/">Das Taxi in Hamburg</a> verweist auf <a href="https://www.taxi.eu/en/cities/hamburg/"> Taxi App for Europe</a> oder anrufen unter <b>040 22 11 22</b> anrufen und wirbt mit einem genossenschaftlichen und sozialen Geschäftsansatz.
+		<li>Fahrten mit <a href="https://taxihamburg.de/">Taxi Hamburg</a> können Sie per <a href="https://taxihamburg.de/taxi-app/download-taxi-app"> Taxi Hamburg-App</a> oder <a href="https://apps.apple.com/de/app/taxi-hamburg-6x6/id1538552341">Taxi Hamburg iOS-App</a> bestellen oder anrufen unter <b>040 66 66 66</b>.
+		</li>
+		<li> <a href="https://das-taxi.de/">Das Taxi in Hamburg</a> verweist auf <a href="https://www.taxi.eu/en/cities/hamburg/"> Taxi for Europe Android-App</a> oder <a href="https://apps.apple.com/de/app/taxi-eu/id465315934">Taxi for Europe iOS-App</a> oder anrufen unter <b>040 22 11 22</b> und wirbt mit einem genossenschaftlichen und sozialen Geschäftsansatz.
 		</li>
 	</ul>
 	</p>
+	
+	<h3>Das HVV hop On-demand-Shuttle-Angebot</h3>
+	<p>Das HVV hop On-demand-Shuttle-Angebot kann ausprobiert werden. Für einen geringen Aufpreis von 2 EUR pro Fahrt ist es eine zusätzliche Möglichkeit für die bequeme Anreise: <a href="https://vhhbus.de/hop/on-demand-shuttle-harburg/">https://vhhbus.de/hop/on-demand-shuttle-harburg/</a>.
+	
 
 	<h2 ID="Unterkunft" name="Unterkunft">Übernachtung und Unterkunft</h2>
 	<p>Aufgrund der Elbüberquerung und häufig auftretender Störungen (u.A. Kampfmittelbeseitigungen) empfehlen wir eine Unterkunft südlich der Elbe in Harburg.</p>

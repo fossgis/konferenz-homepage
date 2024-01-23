@@ -27,7 +27,7 @@
 	<ul>
 	<li>Für schon am Dienstag Angereiste Teilnehmende.</li>
 	<li>Termin: Dienstag, 19.03.2024</li>
-	<li>Start: 14:45 Hamburger Hauptbahnhof, S-Bahnsteig Gleis 1 (Nebentunnel), ganz vorn (in
+	<li>Start: 14:45 Hamburger Hauphnhof, S-Bahnsteig Gleis 1 (Nebentunnel), ganz vorn (in
 Fahrtrichtung Blankenese)</li>
 	<li>ausführliche Infos: <a href="socialevents/exkursionen.php#BlankeneseLandungsbruecken" target="_blank">Link Unterseite Exkursionen</a></li>
 	<li>Betreuung: Wolfgang Hinsch</li>
@@ -36,7 +36,7 @@ Fahrtrichtung Blankenese)</li>
 	</p>
 	
 	<h4>Geochicas laden ein</h4>
-	<p>Am Dienstag dem 19. März 2023 von 18-20 Uhr treffen sich die Geochicas im tbd.<br>
+	<p>Am Dienstag dem 19. März 2023 von 18-20 Uhr treffen sich die Geochicas in einer Lokation auf der Lämmertwiete (wird noch bekannt gegeben).<br>
 	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
 	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
 Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
