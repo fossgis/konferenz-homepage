@@ -110,6 +110,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/103_Logo_QFieldCloud-by-OpenGIS_transparent.png" alt="opengis">
 			</a>
 			</li>	
+			<li class="tile gold">
+			<a href="sponsor/104_NRW-Mobidrom.php" target="_blank">
+			<img src="./img/s/104_Mobidrom_Logo.png" alt="NRW.Mobidrom">
+			</a>
+			</li>	
 			</ul>
 
 <!--			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>

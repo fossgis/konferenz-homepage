@@ -50,7 +50,14 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
-Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. <br>Ort: wird noch bekannt gegeben.</p>
+Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. 
+	<ul>
+	<li>Ort: Privathotel Lindtner Hamburg
+	<li>Adresse: Heimfelder Straße 123, 21075 Hamburg</li>
+	<li>Zeit: 19 Uhr</li>
+ 	<li>Angebot: Buffet und Getränke bis 22 Uhr</li>
+	</ul>
+	</p>
 
 	<h3>Donnerstag, 21. März 2024</h3>
 	
