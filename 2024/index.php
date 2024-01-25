@@ -204,6 +204,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/416_geOps.png" alt="geOps AG">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/417_geofabrik.php" target="_blank">
+			<img src="./img/s/417_Geofabrik_logo4.png" alt="geofabrik">
+			</a>
+			</li>
 			
 		</ul>
 	
@@ -226,11 +231,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 
 
-					<li class="tile bronze">
-						<a href="sponsor/412_geofabrik.php" target="_blank">
-						<img src="./img/s/412_Geofabrik_logo4.png" alt="geofabrik">
-						</a>
-					</li>
+
 					<li class="tile bronze">
 						<a href="sponsor/413_DBG.php" target="_blank">
 						<img src="./img/s/413_DBG.jpg" alt="d.b.g. Datenbankgesellschaft mbH">
