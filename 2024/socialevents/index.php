@@ -110,7 +110,9 @@ Landungsbrücken</li>
 	</ul>
 
 	<h4 id="OSMFreitag" name="OSMFreitag">OSM-Event am Freitagabend</h4>
-	<p>Für alle, die am Freitagabend, den 22. März 2024 noch in der Stadt sind, wird für 19/19.30 Uhr vorgeschlagen. Der Ort wird noch bekannt gegeben. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Für alle, die am Freitagabend, den 22. März 2024 in der Stadt sind, haben wir ab 19 Uhr Plätze in der Fischhalle Harburg, <a href="https://openstreetmap.de/karte/?zoom=18&lat=53.46719&lon=9.98234&layers=B00TT"> Kanalplatz 16, 21079, Hamburg</a> reserviert. Es gibt ein Bistro sowie eine Getränkebar. <br>
+Jeder bezahlt seine Rechnung selbst. <br>
+Um der Lokation eine einigermaßen verbindliche Rückmeldung zur Anzahl Gäste geben zu können, bitte im Wiki eintragen in der <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2024/OSM-Samstag#Vor_dem_Samstag">Tabelle Geselliges Beisammensein am Freitagabend</a>.</p>
 
 	<h3>Samstag, 23. März 2024</h3>
 	<h4 id="OSM-Event" name="OSM-Event">OSM-Samstag</h4>
