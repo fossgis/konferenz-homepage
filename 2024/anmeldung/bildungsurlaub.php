@@ -59,6 +59,8 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<li><b>Hamburg</b> - <a href="data/Anerkennung_Hamburg_FOSSGIS_fuer3Jahre.pdf">Download Anerkennungsbescheid</a>, <a href="data/Anmeldebestätigung_Hamburg.pdf">Download Anmeldeformular</a></li>
 			<li><b>Brandenburg</b> - <a href="data/Anschreiben_Anerkennung_BRB.pdf">Download Anerkennungsbescheid, </a>, <a href="data/Anmeldebestaetigung_BRB.pdf">Download Anmeldebestätigung </a>, <a href="data/Teilnahmebescheinigung_BRB.pdf">Download Teilnahmebescheinigung </a>
 			</li>
+			<li><b>Schleswig-Holstein</b> - <a href="data/Anerkennung_Schleswig-Holstein.pdf">Download Anerkennungsbescheid</a>
+			</li>	
 			<li> wir hoffen, dass weitere folgen</li>
 			</ul>
 			<p>Nutzen Sie für Ihre Beantragung des Bildungsurlaubes beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>
@@ -75,7 +77,6 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 <p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub beantragt:</p>
 			<ul>
 			<li><b>Hessen</b></li>		
-			<li><b>Schleswig-Holstein</b></li>	
 			<li><b>Thüringen</b></li>				
 			</ul>
 			
