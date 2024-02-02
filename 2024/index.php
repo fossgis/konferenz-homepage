@@ -117,10 +117,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</li>	
 			</ul>
 
-<!--			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
-				<ul class="tiles">
-						
-				</ul>	-->
+			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
+			<ul class="tiles">
+			<li class="tile silver">
+			<a href="sponsor/201_HBT.php" target="_blank">
+			<img src="./img/s/201_HBT.png" alt="HBT">
+			</a>
+			</li>	
+			</ul>
 
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
@@ -207,6 +211,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<li class="tile bronze">
 			<a href="sponsor/417_geofabrik.php" target="_blank">
 			<img src="./img/s/417_Geofabrik_logo4.png" alt="geofabrik">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/418_ioki.php" target="_blank">
+			<img src="./img/s/418_ioki.png" alt="ioki">
 			</a>
 			</li>
 			
