@@ -23,9 +23,9 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/201_HBT_.png" 
+			<img src="./img/s/201_HBT.png" 
 				class="sponsor-logo" 
-				alt="Firmenlogo">
+				alt="Firmenlogo" width="180" >
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
