@@ -218,7 +218,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/418_ioki.png" alt="ioki">
 			</a>
 			</li>
-			
+			<li class="tile bronze">
+			<a href="sponsor/419_lehmann.php" target="_blank">
+			<img src="./img/s/419_Ginger_L-P.png" alt="ioki">
+			</a>
+			</li>
 		</ul>
 	
 
