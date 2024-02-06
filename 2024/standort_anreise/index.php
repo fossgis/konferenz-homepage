@@ -26,16 +26,16 @@
 	<h1 ID="Standort" name="Standort">Standort, Anreise und Übernachtung</h1>
 	
 			<h4>Karten und Infos im FOSSGIS 2024 Masterportal</h4>
-			  <a href="https://gisdemo.dp.dsecurecloud.de/FOSSGIS_2024/" target="_blank">
-			  <img src="./img/s/Masterportal.png" hight=50px alt="Masterportal">
-			  </a>
 
 
-<!--	<div class="map-container">
-	<div id="map" class="map"></div>
-	</div>-->
 
-	<p><b>Adresse:</b><br> Technische Universität Hamburg (TUHH)<br>
+<div class="map-container">
+	
+<iframe src="https://gisdemo.dp.dsecurecloud.de/FOSSGIS_2024/" width="900" height="400" name="FOSSGIS Masterportal">
+</iframe>
+	</div>
+
+	<p><b>Adresse Konferenzstandort:</b><br> Technische Universität Hamburg (TUHH)<br>
 Am Schwarzenberg-Campus 1<br>
 21073 Hamburg</p>
 		
