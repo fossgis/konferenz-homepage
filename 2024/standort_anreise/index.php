@@ -10,9 +10,9 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<link rel="stylesheet" href="./standort_anreise/script/leaflet.css"/>
+<!--	<link rel="stylesheet" href="./standort_anreise/script/leaflet.css"/>
 
-<!--	<script src="./standort_anreise/script/leaflet.js"></script>
+	<script src="./standort_anreise/script/leaflet.js"></script>
 	<script src="./standort_anreise/script/leaflet.addons.js"></script>
 	<script src="./standort_anreise/data/buildings.js"></script>
 	<script src="./standort_anreise/data/hotels.js"></script>
@@ -27,13 +27,11 @@
 	
 			<h4>Karten und Infos im FOSSGIS 2024 Masterportal</h4>
 
-
-
 <div class="map-container">
 	
-<iframe src="https://gisdemo.dp.dsecurecloud.de/FOSSGIS_2024/" width="900" height="400" name="FOSSGIS Masterportal">
+<iframe src="https://gisdemo.dp.dsecurecloud.de/FOSSGIS_2024/" width="940" height="450" name="FOSSGIS Masterportal">
 </iframe>
-	</div>
+	</div><br><br>
 
 	<p><b>Adresse Konferenzstandort:</b><br> Technische Universität Hamburg (TUHH)<br>
 Am Schwarzenberg-Campus 1<br>
