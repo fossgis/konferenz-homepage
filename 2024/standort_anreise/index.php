@@ -34,7 +34,7 @@
 	</div><br><br>
 
 	<p><b>Adresse Konferenzstandort:</b><br> Technische Universität Hamburg (TUHH)<br>
-Am Schwarzenberg-Campus 1<br>
+Am Schwarzenberg-Campus 5, Gebäude H<br>
 21073 Hamburg</p>
 		
 	<h2 ID="Campus" name="Campus">Konferenzort Campus TUHH</h2>
