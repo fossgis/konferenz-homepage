@@ -52,13 +52,18 @@ Am Schwarzenberg-Campus 1<br>
 
 
 	<h2 ID="Anreise" name="Anreise">Anreise </h2>
-	<h3> öffentlicher Nahverkehr</h3
+	<h3> öffentlicher Nahverkehr</h3>
 	<p>Der Campus ist recht gut an den öffentlichen Nahverkehr angeschlossen und in weniger als 30 min vom Hamburger Hauptbahnhof aus zu erreichen. Der Campus liegt zwischen den S-Bahnhöfen Rathaus Harburg und Heimfeld (S 3 und S 31) sowie auf den Buslinien 142 (Haltestelle Kasernenstraße (TU Hamburg) nördlich am Campus) und 14, 143, 146, 443, 543 (Haltestelle Eißendorfer Straße (TU Hamburg) südlich am Campus).
 	Der Bahnhof Harburg Rathaus liegt circa 7 Gehminuten in Richtung Westnordwest, der Bahnhof Heimfeld (TU Hamburg) ist circa 5 Gehminuten Richtung Ostsüdost vom Campus entfernt.</p> 
 	
 	<p>Der öffentliche Nahverkehr findet im <a href="https://geofox.hvv.de/web/de/connections?clear=true&language=de">Hamburger Verkehrsverbund (HVV)</a> statt und besteht aus Bussen, S-Bahn (DB), U-Bahn (Hochbahn) sowie den Hafenfähren, die ebenfalls im Nahverkehr ohne Aufpreis nutzbar sind. Der Ticketkauf erfolgt in der Regel per <a href="https://play.google.com/store/apps/details?id=de.eos.uptrade.android.fahrinfo.hamburg&hl=de&gl=US">HVV-App</a> oder <a href="https://www.bahn.de/service/mobile/db-navigator">DB Navigator</a>, im HVV Online-Shop, an den S- & U-Bahnhöfen, einigen Bushaltestellen oder auch direkt im Bus.<br>
 	Bis auf wenige Ausnahmen sind alle U- und S-Bahn Haltestellen barrierefrei und mit <a href="https://www.hvv.de/de/aufzuege">Aufzügen</a> ausgestattet. Alle Busse sind Niederflurbusse und verfügen über entsprechende ausklappbare Rampen.
 	</p>
+	
+	<h3>DB-Veranstaltungsrabatt</h3>
+
+	<p>Für eine nachhaltige Anreise zur FOSSGIS-Konferenz 2024 erhalten Sie einen exklusiven 20%-Veranstaltungsrabatt für den Fernverkehr der Deutschen Bahn. Der DB-Aktionsgutschein gilt für Flexpreise, SuperSpar- und Sparpreise, welche über <a href="http://www.bahn.de">www.bahn.de</a> und App DB Navigator im eingeloggten Bereich gebucht werden. Bitte entnehmen Sie alle Details den Einlösebedingungen unter <a href="http://www.bahn.de/veranstaltungsrabatt"> www.bahn.de/veranstaltungsrabatt</a>.
+Ihren persönlichen Aktionsgutschein finden Sie in Ihrer Konferenzticketbuchung.</p> 
 	
 	<h3 ID="Auto" name="Auto">Anreise mit dem Auto</h2>
 	
