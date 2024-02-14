@@ -38,16 +38,14 @@ Am Schwarzenberg-Campus 5, Gebäude H<br>
 21073 Hamburg</p>
 		
 	<h2 ID="Campus" name="Campus">Konferenzort Campus TUHH</h2>
-<p>Die Konferenz findet auf dem Campus der TUHH in Hamburg-Harburg statt. Die Räumlichkeiten sind barrierefrei zugänglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
+<p>Die Konferenz findet auf dem Campus der Technischen Universität Hamburg in Harburg statt. Die Räumlichkeiten sind barrierefrei zugänglich. Hier finden Sie <a href="./standort_anreise/raeume.php">Raumpläne</a>, die auch noch einmal im Programmheft gedruckt werden. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.</p>
 
 	<p>Im Foyer Haus H begrüßen wir Sie am Welcome Desk. Das Foyer und anliegenden Räumen sind für die Pausenversorgung, Firmenausstellung und Netzwerken vorgesehen sowie auch der FOSSGIS e.V. am Vereinsstand da sein wird. Der "Himmel" ist für Konferenz-Helfer:innen.</p>
 
-	<p>Die <b>Vorträge</b> und <b>Anwendertreffen</b> finden im Haus H sowie Haus K (am Freitag Haus I) in den Hörsälen und Seminarräumen statt. Durch eine hohe Nachfrage kann es zeitweise dazu kommen, dass die Hörsäle bei Vorträgen voll ausgelastet sind. Für diesen Fall haben wir Räume organisiert, in denen die Vorträge im Livestream verfolgt werden können. Die Raumpläne finden Sie bald hier <!--<a href="./standort_anreise/raeume.php">hier</a>-->.
+	<p>Die <b>Vorträge</b> und <b>Anwendertreffen</b> finden im Haus H, Haus A sowie Haus K (am Freitag Haus I) in den Hörsälen und Seminarräumen statt. Durch eine hohe Nachfrage kann es zeitweise dazu kommen, dass die Hörsäle bei Vorträgen voll ausgelastet sind. Für diesen Fall haben wir Räume organisiert, in denen die Vorträge im Livestream verfolgt werden können (ÜHS2, ÜHS3 im Haus H und ÜHS4 im Haus A). 
 	</p>
-
-	<p>Die <b>Workshops</b> werden in den Seminarräumen des Hauses D durchgeführt. Die Raumpläne finden Sie bald hier. <!--<a href="./standort_anreise/raeume.php">hier</a>.-->
-	</p>
-
+	<p>Die <b>Workshops</b> werden in den Seminarräumen des Hauses D durchgeführt.</p>
+	<p>Die Raumpläne finden Sie <a href="./standort_anreise/raeume.php">hier</a>.</p>
 	<p>In den Pausen gibt es ein Catering im Erdgeschoss sowie 1. Obergeschoss im Haus H. Zusätzliches Mittagessen in der Mensa kann über die Anmeldung hinzugebucht werden.</p>
 
 
