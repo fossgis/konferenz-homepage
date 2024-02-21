@@ -36,7 +36,7 @@ Fahrtrichtung Blankenese)</li>
 	</p>
 	
 	<h4>Geochicas laden ein</h4>
-	<p>Am Dienstag dem 19. März 2023 von 18-20 Uhr treffen sich die Geochicas in einer Lokation auf der Lämmertwiete (wird noch bekannt gegeben).<br>
+	<p>Am Dienstag dem 19. März 2023 von 18-20 Uhr treffen sich die Geochicas im <a href="http://www.cafe-oktober.de/"> Café Oktober</a> Schlossmuehlendamm 23, 21073 Hamburg.<br>
 	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
 	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
 Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
@@ -44,7 +44,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den inoffiziellen Start sind am 19. März 2024 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://de.wikipedia.org/wiki/L%C3%A4mmertwiete"> Lämmertwiete</a> im Altstadtviertel in Harburg, um in einem der Restaurants gemeinsam mit anderen schon angereisten Teilnehmenden zu Abend zu essen. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 19. März 2024 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://www.caspari-harburg.de/die-laemmerlounge"> Lämmerlounge</a> im Restaurant Caspari im Altstadtviertel in Harburg, Lämmertwiete 6-10, 21073 Hamburg. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 20. März 2024</h3>
 
@@ -54,7 +54,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<ul>
 	<li>Ort: Privathotel Lindtner Hamburg
 	<li>Adresse: Heimfelder Straße 123, 21075 Hamburg</li>
-	<li>Zeit: 19 Uhr</li>
+	<li>Zeit: 19:15 Uhr</li>
  	<li>Angebot: Buffet und Getränke bis 22 Uhr</li>
 	</ul>
 	</p>
