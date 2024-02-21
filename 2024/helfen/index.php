@@ -20,7 +20,7 @@
 
 	<?php include "../inc/header.inc"; ?>
 
-	<h2>Unterstützung der Konferenzorganisation umd -umsetzung</h2>
+	<h2>Unterstützung der Konferenzorganisation und -umsetzung</h2>
 
 	<p>Seit vielen Jahren findet die FOSSGIS-Konferenz im deutschsprachigen Raum an wechselnden Standorten statt, die Anzahl der Teilnehmenden steigt mit jedem Jahr.<br>
 	   Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen. Dies ermöglicht eine flexible Konferenzorganisation und vielfältiges Rahmenprogramm. Die Aufgaben werden auf mehrere Schultern verteilt. Ohne die Unterstützung durch zahlreiche Mitorganisierende vor der Veranstaltung und Helfer:innen während der Veranstaltung wäre eine FOSSGIS-Konferenz nicht möglich.<br>
