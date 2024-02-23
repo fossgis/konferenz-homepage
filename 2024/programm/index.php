@@ -47,22 +47,9 @@
 	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2024 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2024</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
 
-	<!--<h3>FOSSGIS-Konferenz per Android-APP</h3>
+	<h3>FOSSGIS-Konferenz per Android-APP</h3>
 		<p>Die Android-App mit Fahrplan und Sponsoreninfos steht <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">zum Download im Playstore</a> bereit. </p>
-	<p>Ansicht der App für Smartphone:	
-                    <a href="https://www.fossgis.de/">
-                      	<img src="./data/FOSSGIS-2021-Phones.png" class="img-fluid"  alt="APP">
-                    </a>
-                 </p>
-		<p>Ansicht der App für Tablet:	
-                    <a href="https://www.fossgis.de/">
-                         <img src="./data/FOSSGIS-2021-Tablet-Phone.jpg" class="img-fluid" alt="APP">
-					</a>
-                 </p>-->
-
-
-
-
+	
 		<h3 id="Programm24" name="Programm24"class="Programm24">Programm FOSSGIS 2024</h3>
 <pretalx-schedule event-url="https://pretalx.com/fossgis2024/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
 <noscript>
