@@ -34,7 +34,7 @@
 			<p>Die App funktioniert auch auf dem Tablet wunderbar und Sie haben alles in der Übersicht.</p>
 			<p><img src="./programm/img/App_Beschreibung_Tablet_01.png" class="img-fluid" style="margin-rigth: 250px" alt="APP"></p>
 			<p><img src="./programm/img/App_Beschreibung_Tablet_02.png" class="img-fluid" style="margin-rigth: 250px" alt="APP"></p>				
-			<p>Sie helfen auf der FOSGIS und haben eine <a href="https://helfen.fossgis.de/">Helferschicht gebucht</a>? <br>
+			<p>Sie helfen auf der FOSSGIS und haben eine <a href="https://helfen.fossgis.de/">Helferschicht gebucht</a>? <br>
 			Dann integrieren Sie es in die App und behalten den Überblick.</p>
 			<p><img src="./programm/img/App_Beschreibung_Engelschicht.png" class="img-fluid" style="margin-rigth: 250px" alt="APP"></p></div>
 					
