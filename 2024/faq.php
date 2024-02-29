@@ -23,14 +23,14 @@
 		<ul>
 			<li><b>Ab wann werden Tickets verkauft?</b><br>
 				ab Januar 2024 </li>
-<!--			<li><b>Gibt es noch Tickets?</b><br>
-				die Konferenz ist seit 22.02.2023 ausgebucht. Die FOSSGIS kann online besucht werden</li>-->
+			<li><b>Gibt es noch Tickets?</b><br>
+				nein, die Konferenz ist seit dem 21.02.2024 ausgebucht. Die FOSSGIS kann online besucht werden</li>
 			<li><b>Wird es Videoaufzeichnungen von Vorträgen geben?</b><br>
-				Das Videoteam ist angefragt. Geplant ist die Vorträge aufzuzeichnen und diese nach der Veranstaltung zu veröffentlichen. Die Vorträge der Vorjahre stehen ebenfalls kostenlos bereit, zum Beispiel im <a href="https://av.tib.eu/search?q=FOSSGIS+Konferenz">AV-Portal der Technischen Informationsbibliothek</a>.</li>
+			Geplant ist die Vorträge aufzuzeichnen und diese nach der Veranstaltung zu veröffentlichen. Die Vorträge der Vorjahre stehen ebenfalls kostenlos bereit, zum Beispiel im <a href="https://av.tib.eu/search?q=FOSSGIS+Konferenz">AV-Portal der Technischen Informationsbibliothek</a>.</li>
 			<li><b>Ist die FOSSGIS 24 eine hybride Veranstaltung?</b><br>
 				Ja die FOSSGIS wird als hybride Veranstaltung ausgerichtet.
 Wenn Sie das Onlineticket buchen, bekommen Sie Zugang zum Livestream der Vorträgen mit Chat der Teilnehmenden sowie Fragenfunktion und Anwendertreffen, die im Seminarraum und per Videokonferenz stattfinden werden.
-Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetreffpunkt für Teilnehmende.</li>
+</li>
 			<li><b>Wird es Tagestickets geben?</b><br>
 				Nein.</li>
 			<li><b>Ich brauche mein Ticket nur an einem Tag, kann ich es weitergeben?</b><br>
@@ -92,7 +92,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2024/helfen/"
 		<ul>
 
 			<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
-				Ja alle veranstaltungsräume sind barrierefrei zugänglich.</li>
+				Ja alle Veranstaltungsräume sind barrierefrei zugänglich.</li>
 <!--			<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
 				Kurz vor Beginn der Konferenz, voraussichtlich am 07.03.2022 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 			<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
@@ -121,11 +121,11 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2024/helfen/"
 		<ul>
 
 			<li><b>Ich möchte einen Ausstellerstand.</b><br>
-				Voraussetzung ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor. Leider sind für die FOSSGIS 2024 schon alle Ausstellerstände vergeben.</li>
+				Voraussetzung ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor.<br> Leider sind für die FOSSGIS 2024 schon alle Ausstellerstände vergeben.</li>
 			<li><b>Wie ist der Stand ausgestattet?</b><br>
 				Es gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. </li>
 			<li><b>Wird der Raum Nachts verschlossen?</b><br>
-				tbd
+				Ausstellerraum kann extra abgeschlossen werden, 1. OG und Foyer nur Nachts verschlossen.
 				<!--Das Foyer des Erwin-Schrödinger-Zentrums ist Nachts verschlossen.</li>-->
 			<li><b>Gibt es Ausstellerticket?</b><br>
 				Im Ausstellerpaket sind zwei Tickets enthalten. Diese werden rechtzeitig als Vouchercodes gesendet.</li>

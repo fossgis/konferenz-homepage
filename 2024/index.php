@@ -310,6 +310,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
 						</a>
 					</li>
+					<li class="tile media">
+					<a href="https://www.gogeogo.com/de" target="_blank">
+					<img src="./img/s/507_GGGlogo.svg" alt="GoGeoGo">
+             
+       
+					</a>
+					</li>
+					
 					</ul>
 			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
@@ -332,6 +340,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</li>-->
 				</ul>
 
+			</ul>
+
+<!--			<h3 id="Jobwand" >Jobbörse</h3>
+			<p>Hier kommen Sie zur <a href="https://www.gogeogo.com/de/company/fossgis2024" target="_blank"> FOSSGIS 2024 Jobbörse</a>.
+					</p>
+					
+			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+-->
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
            	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, füllen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> aus.</p>
