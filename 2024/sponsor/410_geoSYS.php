@@ -31,18 +31,23 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>geoSYS</h3>
 
-					<p>geoSYS ist Dienstleister im Bereich Geoinformation. Wir beraten Unternehmen, Verwaltungen bei der Einführung von GIS, Geodatenbanken, Geodateninfrastrukturen und Webmapping-Lösungen. Wir entwickeln Anwendungen, Portale, Geo-Apps und auch GIS-Plugins und setzen Projekte in aller Welt um.
+					<p><a href="https://www.geosysnet.com">geoSYS</a> ist ein Dienstleistungsunternehmen der Geo-Informationsbranche. Wir beraten und unterstützen Unternehmen und Verwaltungen bei der Einführung von GIS, Geodatenbanken, Geodateninfrastrukturen und Webmapping-Lösungen. Zudem entwickeln wir Anwendungen, Portale, Geo-Apps sowie GIS-Plugins und setzen Projekte in Deutschland und weltweit um.<br>
+Mit <a href="https:/www.gis-trainer.com">gis-trainer.com</a> bieten wir vielfältige und umfangreiche praxisnahe Schulungen im GIS- und Webmapping-Bereich an. Je nach Bedarf sind Standardschulungen, Inhouse- und Individualschulungen in Präsenz oder online möglich.
+
 					</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
-							Webseite:<br>
+							Webseiten:<br>
 						<a href="https://www.geosysnet.com/">
-							https://www.geosysnet.com/</a>
-
+							https://www.geosysnet.com/</a><br>
+<a href="https:/www.gis-trainer.com">www.gis-trainer.com</a><br><br>
 							E-Mail: <br>
 							<a href="mailto:info@geosysnet.de">info@geosysnet.de</a><br></h6>
+							
+							
+
 					</div>
 
 						
