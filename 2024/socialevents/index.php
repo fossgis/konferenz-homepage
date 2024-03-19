@@ -36,7 +36,8 @@ Fahrtrichtung Blankenese)</li>
 	</p>
 	
 	<h4>Geochicas laden ein</h4>
-	<p>Am Dienstag dem 19. März 2024 von 18-20 Uhr treffen sich die Geochicas im <a href="http://www.cafe-oktober.de/"> Café Oktober</a> Schlossmühlendamm 23, 21073 Hamburg.<br>
+	<p>Am Dienstag dem 19. März 2024 von 18-20 Uhr treffen sich die Geochicas <del>im <a href="http://www.cafe-oktober.de/"> Café Oktober</a> Schlossmühlendamm 23, 21073 Hamburg</del><br>
+	im <a href="https://www.panthera-rodizio.de/restaurant-harburg">Panthera Rodizio</a>, Laemmertwiete 5-7, 21073 Hamburg, wo eine Reservierung angefragt ist, stay tuned;-)<br>
 	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
 	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
 Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
