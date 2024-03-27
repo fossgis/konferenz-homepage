@@ -18,31 +18,32 @@
 
         <h2 id="Programm" name="Programm"class="Programm">Programm</h2>
 	<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2024/schedule/</a>.</p>
-	
-	<p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2024/speaker/">https://pretalx.com/fossgis2024/speaker/</a></p>
-	<p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a></p> 
-	<p><b>Community Voting:</b> über 300 Teilnehmende haben sich beteiligt, Vielen Dank!
-	<p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2024/callforpapers/">/2024/callforpapers/</a></p>
+	<ul>
+	<li><p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2024/speaker/">https://pretalx.com/fossgis2024/speaker/</a></p></li>
+	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a></p></li> 
+	<li><p><b>Community Voting:</b> über 300 Teilnehmende haben sich beteiligt, Vielen Dank!</li>
+	<li><p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2024/callforpapers/">/2024/callforpapers/</a></p></li>
+	</ul>
 
 	
-<!--	nach der Konf    	<h3>Vortragsaufzeichnungen</h3>
-	<p>Die Vorträge und Demos sind aufgezeichnet und veröffentlicht:</p>
+   	<h3>Vortragsaufzeichnungen</h3>
+	<p>Die Vorträge und Demosessions sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
-			<li> <a href="https://pretalx.com/fossgis2023/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p> 
+			<li> <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p> 
 			</li>
-			<li> <a href="https://media.ccc.de/c/fossgis2023" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2023</a></p> 
+			<li> <a href="https://media.ccc.de/c/fossgis2024" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2023</a></p> 
 			</li>
 <!--			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
 			</li>
 			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p> 
-			</li>
+			</li>-->
 		</ul>
 
 	<h3 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h3>
 	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2024_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
 		<h3>Programm-APP für Android</h3>
-		<p>Die Android-App für das Konferenzprogramm ist im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p> -->
+		<p>Die Android-App für das Konferenzprogramm ist im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p>
 
 	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2024 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2024</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
