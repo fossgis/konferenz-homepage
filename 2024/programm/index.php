@@ -20,7 +20,7 @@
 	<p>Das Programmkomitee hat aus den Einreichungen ein Konferenzprogramm gestaltet. Hier gelangen Sie zum Programm oder scrollen Sie nach unten: <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2024/schedule/</a>.</p>
 	<ul>
 	<li><p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2024/speaker/">https://pretalx.com/fossgis2024/speaker/</a></p></li>
-	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a></p></li> 
+	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2024/featured/">https://pretalx.com/fossgis2024/featured/</a></p></li>
 	<li><p><b>Community Voting:</b> über 300 Teilnehmende haben sich beteiligt, Vielen Dank!</li>
 	<li><p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2024/callforpapers/">/2024/callforpapers/</a></p></li>
 	</ul>
@@ -29,13 +29,13 @@
    	<h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demosessions sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
-			<li> <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p> 
+			<li> <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p>
 			</li>
-			<li> <a href="https://media.ccc.de/c/fossgis2024" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2023</a></p> 
+			<li> <a href="https://media.ccc.de/c/fossgis2024" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2024</a></p>
 			</li>
-<!--			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p> 
+<!--			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p>
 			</li>
-			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p> 
+			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p>
 			</li>-->
 		</ul>
 
