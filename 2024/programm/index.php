@@ -40,7 +40,7 @@
 		</ul>
 
 	<h3 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h3>
-	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2024_digital.pdf">als PDF zum Download</a> zur Verfügung.
+	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/2024/fossgis_tagungsband_2024_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
 		<h3>Programm-APP für Android</h3>
 		<p>Die Android-App für das Konferenzprogramm ist im <a href="https://t1p.de/mi1o">Playstore downloadbar</a>. </p>
