@@ -1,4 +1,4 @@
-DirectoryIndex index.php
+DirectoryIndex index.php index.html
 
 # Aktuelle ausgabe der FOSSGIS Konferenz
 RewriteEngine on
