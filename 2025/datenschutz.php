@@ -4,7 +4,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 
-	<title>FOSSGIS 2024 - Datenschutzerklärung FOSSGIS-Konferenz</title>
+	<title>FOSSGIS 2025 - Datenschutzerklärung FOSSGIS-Konferenz</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">

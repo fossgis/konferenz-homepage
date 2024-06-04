@@ -3,7 +3,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 <base href="<?php echo $_SERVER['SCRIPT_NAME']; ?>">
-   	<title>FOSSGIS 2024</title>
+   	<title>FOSSGIS 2025</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -338,7 +338,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</ul>
 
 <!--			<h3 id="Jobwand" >Jobbörse</h3>
-			<p>Es gibt wieder eine Jobbörse im Rahmen der Konferenz. Dafür stellen wir eine Pinnwand ins Foyer, dort können Stellenanzeigen angebracht werden. In Kooperation mit GoGeoGo gibt es vom 11.03.-01.04.2024 eine digitale Jobbörse. Beim Eintragen bitte die Auftragsnummer FOSSGIS24 eintragen, dann erscheint die Stellenanzeige in der <a href="https://www.gogeogo.com/de/company/fossgis2024" target="_blank"> FOSSGIS 2024 Jobbörse</a>.
+			<p>Es gibt wieder eine Jobbörse im Rahmen der Konferenz. Dafür stellen wir eine Pinnwand ins Foyer, dort können Stellenanzeigen angebracht werden. In Kooperation mit GoGeoGo gibt es vom 11.03.-01.04. eine digitale Jobbörse. Beim Eintragen bitte die Auftragsnummer FOSSGIS24 eintragen, dann erscheint die Stellenanzeige in der <a href="https://www.gogeogo.com/de/company/fossgis2024" target="_blank"> FOSSGIS 2024 Jobbörse</a>.
 					</p>
 					
 			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>

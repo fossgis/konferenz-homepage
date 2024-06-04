@@ -1,5 +1,5 @@
 <header class="page-header">
-	<a href="./" alt="FOSSGIS Konferenz 2024">
+	<a href="./" alt="FOSSGIS Konferenz 2025">
 		<img class="page-logo" src="./img/fossgis25-logo_.png">
 	</a>
 	<h2 class="page-title">
