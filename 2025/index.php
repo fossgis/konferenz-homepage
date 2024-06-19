@@ -19,7 +19,7 @@
 
             <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
 
-            <p>Die FOSSGIS-Konferenz 2025 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Kooperation mit der <a href="https://www.">Universität Münster im Schloss Münster statt.</p>
+            <p>Die FOSSGIS-Konferenz 2025 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Kooperation mit dem <a href="https://www.">Institut für Geoinformatik</a> der <a href="">Universität Münster </a> organisiert und findet im Schloss Münster statt.</p>
 
       <div>    <ul class="tiles">
 				<li class="tile silver">
@@ -38,15 +38,20 @@
                          <img src="img/osgeo.png" Alt="OSGeo" align="center">
 					 </a>
 				 </li>
-	 </ul></div>
+<!--	 </ul></div>
 	 <div> <ul class="tiles">
   		 <li class="tile silver">
+		     <a href="https://www.uni-muenster.de/Geoinformatics/">
+			 <img src="./img/" alt="Institut für Geoinformatik" align="center">
+					 </a>
+                 </li>  
+                   		 <li class="tile silver">
 		     <a href="https://www.">
 			 <img src="./img/" alt="Uni Muenster" align="center">
 					 </a>
                  </li>  
 	  
-            </ul> </div>
+            </ul> </div>-->
            
             <h3>Was ist die FOSSGIS Konferenz?</h3>
 

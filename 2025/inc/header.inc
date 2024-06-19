@@ -43,7 +43,7 @@
 
 <div class="hero">
 	<figure>
-		<img class="img-fluid" src="./img/schlossfrontal_.jpg" width="880" height="350"  alt="wir brauchen noch ein Bild!">
-		<figcaption><b>Foto: WWU/Peter Grewer</b></figcaption>
+		<img class="img-fluid" src="./img/Titelbild_Muenster_V2_cut.jpg" width="880" height="350"  alt="wo ist das Bild!">
+		<figcaption><b>Foto: Sergey Mukhametov</b></figcaption>
 	</figure>
 </div>
