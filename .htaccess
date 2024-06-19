@@ -3,4 +3,4 @@ DirectoryIndex index.php index.html
 # Aktuelle ausgabe der FOSSGIS Konferenz
 RewriteEngine on
 RewriteCond %{REQUEST_URI} ^/$
-RewriteRule (.*) /2024/ [R=307]
+RewriteRule (.*) /2025/ [R=307]
