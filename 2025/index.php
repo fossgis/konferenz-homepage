@@ -38,20 +38,20 @@
                          <img src="img/osgeo.png" Alt="OSGeo" align="center">
 					 </a>
 				 </li>
-<!--	 </ul></div>
+	 </ul></div>
 	 <div> <ul class="tiles">
   		 <li class="tile silver">
 		     <a href="https://www.uni-muenster.de/Geoinformatics/">
-			 <img src="./img/" alt="Institut für Geoinformatik" align="center">
+			 <img src="./img/Logo_ifgi_long.png" alt="Institut für Geoinformatik" align="center">
 					 </a>
                  </li>  
                    		 <li class="tile silver">
-		     <a href="https://www.">
-			 <img src="./img/" alt="Uni Muenster" align="center">
+		     <a href="https://www.uni-muenster.de/">
+			 <img src="./img/Logo_UniMuenster_2023_RGB.png" alt="Uni Muenster" align="center">
 					 </a>
                  </li>  
 	  
-            </ul> </div>-->
+            </ul> </div>
            
             <h3>Was ist die FOSSGIS Konferenz?</h3>
 
