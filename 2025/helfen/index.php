@@ -26,7 +26,7 @@
 	   Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen. Dies ermöglicht eine flexible Konferenzorganisation und vielfältiges Rahmenprogramm. Die Aufgaben werden auf mehrere Schultern verteilt. Ohne die Unterstützung durch zahlreiche Mitorganisierende vor der Veranstaltung und Helfer:innen während der Veranstaltung wäre eine FOSSGIS-Konferenz nicht möglich.<br>
 	   Diese Seite enthält einen Einblick in die Aufgaben, die das Konferenzorganisationsteam leistet. </p>
 
-	<p><b>Damit die FOSSGIS weiterhin erfolgreich stattfinden kann, brauchen wir Deine<sup>*</sup> Unterstützung!</b><br>
+	<p><b>Damit die FOSSGIS erfolgreich stattfinden kann, brauchen wir Deine<sup>*</sup> Unterstützung!</b><br>
 		<span style="color:grey">* wer in der Community aktiv ist, wird geduzt :-)
          </span></p>
 <!--	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
@@ -54,7 +54,7 @@ Unterstützung der technischen Umsetzung der Konferenz in Zusammenarbeit mit dem
 Online oder Vor-Ort-Workshop, was braucht es für die gute Umsetzung, Kommunikation mit Workshopleiter:innen, Information der TN.</li>
 		<li><b>Rahmenprogramm</li>
 			<ul>
-			<li>OSM-Event</b><br>
+			<li>OpenStreetMap-Event</b><br>
 organisieren (Unconference, Mappingevent...) und moderieren.</li>
 			<li><b>Community-Sprint</b><br>
 			Vorbereiten und Umsetzen.</li>
