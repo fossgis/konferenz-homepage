@@ -344,14 +344,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 <!--			<h3 id="Jobwand" >Jobbörse</h3>
 			<p>Es gibt wieder eine Jobbörse im Rahmen der Konferenz. Dafür stellen wir eine Pinnwand ins Foyer, dort können Stellenanzeigen angebracht werden. In Kooperation mit GoGeoGo gibt es vom 11.03.-01.04. eine digitale Jobbörse. Beim Eintragen bitte die Auftragsnummer FOSSGIS24 eintragen, dann erscheint die Stellenanzeige in der <a href="https://www.gogeogo.com/de/company/fossgis2024" target="_blank"> FOSSGIS 2024 Jobbörse</a>.
-					</p>
+					</p>-->
 					
 			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
-           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen für Sponsoring und Ausstellung in der <a href="https://files.fossgis.de/Konferenz/2024/Sponsoreninformationen_FOSSGIS-2024.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, füllen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> aus.</p>
-			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p>  -->
+           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Informationen für Sponsoring und Ausstellung werden in Kürze hier veröffentlicht <!--der <a href="https://files.fossgis.de/Konferenz/2025/Sponsoreninformationen_FOSSGIS-2025.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, füllen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> aus.--></p>
+			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p> 
   
         <?php include('inc/footer.inc'); ?>
  

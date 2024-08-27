@@ -85,7 +85,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 		<li><b>Freiwillig Helfende </b>(ab 10 h helfen gibt es ein kostenfreies Helfer:innenticket)<br>
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlt Helfende </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
-Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget für Aufwandsentschädigungen bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen und melden sich dafür an.</li>
+Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget für Aufwandsentschädigungen bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen und müssen sich dafür anmelden. Das Orgateam behält sich vor die Aufgaben zuzuweisen.</li>
 	</ul><h4>Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
@@ -102,7 +102,7 @@ Die Sessionleitung moderiert den jeweiligen Track, kündigt Vortrag und Vortrage
 		</li>
 				<br>-->
 <li><b>Videomitschnitt an der Kamera</b> (freiwillig)<br>
-			Um jeden Vortrag live zu streamen und im Nachgang als Videoaufnahme zur Verfügung stellen zu können, braucht es Menschen, die an der Kamera sitzen und den Vortrag mitschneiden. Die Einführungsschulung sollte besucht werden.</li>
+			Um jeden Vortrag live zu streamen und im Nachgang als Videoaufnahme zur Verfügung stellen zu können, braucht es Menschen, die an der Kamera sitzen und den Vortrag mitschneiden. An der Einführungsschulung sollte zwingend teilgenommen werden. Schon erfahrene Helfende am Video können sich vorab melden und Freischaltung im Helfersystem erfragen.</li>
 			
 
 		<li><b>Hörsaalhelfer:in</b> (bezahlt + gerne freiwillig)<br>
@@ -164,10 +164,11 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<ul>
 		<li>Diese Seite gelesen haben.</li> 
 		<li>An einem Beratungstermin für Helfende teilnehmen.</li>
-		<li>Registierung im Helfer:innensystem ab Herbst 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li> 
-		<li>Mail ans Orgateam schreiben, um Gutscheincode für Helfer:innenticket zu erhalten.</li> -->
+		<li>Mail ans Orgateam schreiben, um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten.</li>
+		<li>Registierung im Helfer:innensystem ab Herbst/Winter 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
+		
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
-<!--		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2024:matrix.org"><i>Helfer:innen_FOSSGIS2025</i></a> beitreten. </li>-->
+		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2025</i></a> beitreten. </li>
 		<li>Bei Fragen einfach fragen.</li>
 		</ul>
 

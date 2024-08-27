@@ -64,9 +64,14 @@
 
 
 	<h3>Programm FOSSGIS 2025</h3>	
-	<p>Die FOSSGIS 2025 beginnt am Mittwochvormittag mit der Eröffnungsveranstaltung und wird in vier parallen Tracks bis Freitag fortgesetzt. Es finden Workshops und Communitysessions sowie ein spannendes Rahmenprogramm statt.<br> Am Samstag, den 29. März 2025 findet der OSM-Samstag statt, an welchem aktuelle Themen diskutiert werden.</p> 
+	<p>Die FOSSGIS 2025 beginnt am Mittwochvormittag, den 26. März 2025 mit der Eröffnungsveranstaltung und wird in vier parallen Tracks bis Freitag fortgesetzt. Es finden Workshops und Communitysessions sowie ein spannendes Rahmenprogramm statt.
+	<p> Am Samstag, den 29. März 2025 findet der OSM-Samstag sowie der Community-Sprint statt.
+	<ul><li> Am OSM-Samstag werden aktuelle Themen rund um OpenStreetMap diskutiert.</li>
+	<li>Den Community-Sprint planen wir in Anlehnung an die OSGeo-Codesprints bei FOSS4G-Konferenzen.</li></ul></p> 
 <p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.<br>
-	<p>Der Call for Participation startet spätestens am 05. Oktober 2024.</p>
+	
+	<h3>Call for Participation (CfP)</h3>
+	<p>Der CfP startet spätestens am 05. Oktober 2024.</p>
 	
 
 <!--		<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
