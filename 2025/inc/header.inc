@@ -5,7 +5,7 @@
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>
 		<span class="amp">Münster</span> <br>
-		<span class="main">26. – 29. März 2025</span>
+		<span class="main">26.–29. März 2025</span>
 	</h2>
 </header>
 

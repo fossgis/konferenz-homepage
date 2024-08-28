@@ -53,7 +53,7 @@
 	  
             </ul> </div>
            
-            <h3>Was ist die FOSSGIS Konferenz?</h3>
+            <h3>Was ist die FOSSGIS-Konferenz?</h3>
 
             <p>Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier und Open Source Software für Geoinformationssysteme sowie Open Data. Hier treffen sich Anwender:innen und Entwickler:innen zum gemeinsamen Austausch über Anwendungs-, Arbeits- und Weiterentwicklungsmöglichkeiten sowie neuste Entwicklungen in diesem Bereich. Es geht um Webmapping, Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodatenanalysen und -modellierungen und Desktop-GIS und um freie Geodaten, wie OpenStreetMap.
 Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso behandelt, wie Open Science und die FAIR Prinzipien.</p> 
