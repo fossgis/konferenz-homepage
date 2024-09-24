@@ -58,7 +58,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 <!--	<h4>FOSSGIS e.V. Mitgliederversammlung</h4>
 	<p>Am Donnerstag, den 21. März 2024, sind alle Mitglieder und Gäste ab 19:00 Uhr herzlich eingeladen an der Mitgliederversammlung teilzunehmen und sich zu beteiligen. Der FOSSGIS-Verein lädt ein zum Diskutieren, Kennenlernen, Abstimmen & Wahlen. Es gibt Getränke und es wird Pizza für alle bestellt. Der Verein freut sich über zahlreiches Erscheinen.</p>-->
 
-	<h3>Freitag, 28. März 2024</h3>
+	<h3>Freitag, 28. März 2025</h3>
 	
 <!--	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
 	<p>Am Freitag, den 22. März gibt es vor dem Abschluss des regulären Konferenzprogramms das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes. Informationen zum generellen Ablauf sowie zur Anmeldung <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2024/">hier in Hannes's Blog</a>.	-->
