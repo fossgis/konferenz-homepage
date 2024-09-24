@@ -350,7 +350,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
-           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Informationen für Sponsoring und Ausstellung werden in Kürze hier veröffentlicht <!--der <a href="https://files.fossgis.de/Konferenz/2025/Sponsoreninformationen_FOSSGIS-2025.pdf">Sponsoringbroschüre</a>. Falls Sie sich für ein Sponsoring entschieden haben, füllen Sie die <a href="https://files.fossgis.de/Konferenz/2024/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2024.pdf">Sponsoringvereinbarung</a> aus.--></p>
+           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen zum Sponsoring und zur Firmenausstellung in der <a href="https://files.fossgis.de/Konferenz/2025/Sponsoreninformationen_FOSSGIS2025.pdf" target="_blank" >Sponsoringbroschüre</a>. Für die Vereinbarung eines Sponsorings, senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2025/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2025.pdf" target="_blank">Sponsoringvereinbarung</a>.</p>
 			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p> 
   
         <?php include('inc/footer.inc'); ?>
