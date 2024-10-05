@@ -26,7 +26,7 @@
 	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
 	<p>Vom 26.-29. März 2025 findet die FOSSGIS-Konferenz als Präsenzveranstaltung im Schloss Münster statt.</p>
-	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops, Bildungsurlaub sowie ab Anfang Januar das Anmeldeformular. <br>Eine erste Programmversion wird Mitte Ende Dezember veröffentlicht 
+	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops, Bildungsurlaub sowie ab Anfang Januar das Anmeldeformular. <br>Eine erste Programmversion wird Mitte Ende Dezember 2024 veröffentlicht. 
 	<!--ist <a href="https://fossgis-konferenz.de/2024/programm/">hier</a> veröffentlicht.-->
 	</p>
 		
@@ -39,7 +39,7 @@
 	<ul>
 		<li>Konferenzticket: 330 €</i>
 		<li>Konferenzticket - reduzierter Preis*: 130 €</i>
-		<li>Konferenzticket - kostenfrei***: € 0</i>
+		<li>Konferenzticket - kostenfrei***: 0 €</i>
 		<li>Workshop**: 130 €</i>
 		<li>Onlinekonferenzticket: 100 €</i>
 		<li>Onlinekonferenzticket - reduzierter Preis*: 30 €</i>
@@ -55,19 +55,19 @@
 		<li>Pausensnack</li>
 		<li>Konferenztasche</li>
 		<li>ÖPNV-Ticket</li>
-		<li>Eine ordentliche Rechnung ist unter ihrem persönlichen <a href="https://fossgis-konferenz.de/2025/faq.php">Buchungslink</a> abrufbar.</li>
-		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
-		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
+		<li>Eine ordentliche Rechnung unter ihrem persönlichen <a href="https://fossgis-konferenz.de/2025/faq.php">Buchungslink</a></li>
+		<li>Onlinezugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion</li>
+		<li>Eine Mail einige Tage vor der Konferenz mit wichtigen Informationen</li></ul>
 	
 	<p><b><i>Das Onlinekonferenzticket enthält:</i></b></p>
-	<ul></ul>
+	<ul>
 		<li>Online-Teilnahme mit Zugang zu Vorträgen, Anwendertreffen, Chat der Teilnehmenden und Fragenfunktion.</li>
-		<li>Eine ordentliche Rechnung ist unter ihrem persönlichen <a href="https://fossgis-konferenz.de/2025/faq.php">Buchungslink</a> abrufbar.</li>
-		<li>Einige Tage vor der Konferenz erhalten Sie eine Mail mit wichtigen Informationen.</li>
+		<li>Eine ordentliche Rechnung unter ihrem persönlichen <a href="https://fossgis-konferenz.de/2025/faq.php">Buchungslink</a>.</li>
+		<li>Eine Mail einige Tage vor der Konferenz mit wichtigen Informationen</li>
 	</ul>
 	<p><b><i>Zusatzprodukte:</i></b></p>
 	<ul>
-		<li>Teilnahme Exkursionsangebot: Preis abhänging vom jeweiligen Exkursionsangebot</li>
+		<li>Teilnahme am Exkursionsangebot: Preis abhänging vom jeweiligen Exkursionsangebot</li>
 		<li>Abendveranstaltung**</li>
   		<li>Tagungsband**</li>
 		<li>T-Shirt**</li>
@@ -77,7 +77,7 @@
 
 	<p><small>* Reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in, Arbeitslose - Nachweis erforderlich.</small><br>
 		<small>** Wenn bestellt und solange verfügbar.</small><br>
-		<small>*** Das kostenfreie Ticket ist an Bedingungen geknüpft. Grundsätzlich gilt, wer etwas zur FOSSGIS-Konferenz beiträgt, kann ein kostenfreies Konferenzticket erhalten. Ein adäquater Beitrag ist z.B. ein Vortrag (LT zählt nicht), Workshop, mind. 10 h helfen oder nach den Richtlinien der <a href="https://blog.openstreetmap.org/2020/08/20/active-osm-contributor-membership-program/">OSMF</a>-OpenStreetMap Foundation aktiv mappend (42 Mappingtage in den letzten 365 Tage).</small></p>
+		<small>*** Das kostenfreie Ticket ist an Bedingungen geknüpft. Grundsätzlich gilt, wer etwas zur FOSSGIS-Konferenz beiträgt, kann ein kostenfreies Konferenzticket erhalten. Ein adäquater Beitrag ist z.B. ein Vortrag (LT zählt nicht), Workshop, mind. 10 Stunden helfen oder nach den Richtlinien der <a href="https://blog.openstreetmap.org/2020/08/20/active-osm-contributor-membership-program/">OSMF</a>-OpenStreetMap Foundation aktiv mappen (42 Mappingtage in den letzten 365 Tage).</small></p>
 	
 
 <!--	<b><i>Hygieneschutz</i></b>
@@ -85,11 +85,11 @@
 </ul>
 
 	<h3 id="Workshop" name="Workshop">Workshop buchen</h3>
-	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 130 EUR. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket hinzubuchen.<br>
+	<p>Das Programm bietet die Möglichkeit einen oder mehrere Workshops zu buchen. Für jeden Workshop sind 90 Minuten vorgesehen, der Preis beträgt 130 €. Einen Workshop können Sie im zweiten Schritt des Bestellvorgangs zum Konferenzticket hinzubuchen.<br>
 Der Workshop ist interaktiv und wird in einem mit Laptops ausgestattenen Raum stattfinden. Die meisten Workshops arbeiten mit der aktuellen <a href="http://live.osgeo.org/de/index.html">OSGeoLive.</a> Es finden keine Onlineworkshops statt.
 	
 	<h3>Helfen</h3>
-	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die <a href="https://fossgis-konferenz.de/2025/helfen/#HelfenvorOrt">Website Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich ab Ende Dezember im Helfer:innensystem. Wer mind. 10 h hilft, kann ein konstenfreies Konferenzticket erhalten. </p>
+	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die Webseite <a href="https://fossgis-konferenz.de/2025/helfen/#HelfenvorOrt">Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich ab Ende Dezember im Helfer:innensystem. Wer mind. 10 Stunden hilft, kann ein kostenfreies Konferenzticket erhalten. </p>
 
 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
 	<p>Das Anmeldeformular erscheint hier Anfang Januar 2025.</p>
@@ -113,7 +113,7 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
 	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungsurlaub pro Jahr zu.</p>
 
-	<p>Weitere Informationen zum Bildungsurlaub und welches Bundesland die FOSSGIS-Konferenz 2025 als Bildungszeit anerkannt hat, finden Sie unter bald hier.
+	<p>Weitere Informationen zum Bildungsurlaub und welches Bundesland die FOSSGIS-Konferenz 2025 als Bildungszeit anerkannt hat, finden Sie bald hier.
 	<!-- <a href="https://fossgis-konferenz.de/2024/anmeldung/bildungsurlaub.php"> Anmeldung/Bildungsurlaub</a>.--></p>
 	
 

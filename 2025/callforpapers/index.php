@@ -26,12 +26,12 @@ Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V. und die OpenStreetMap
 	<p>Freie quelloffene Software, Open Data und Open Science leisten einen wichtigen Beitrag zur Stärkung der Digitalen Souveränität. Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier Open Source Software (FOSS) für Geoinformationssysteme (GIS). Hier treffen sich Anwender:innen, Entwickler:innen, Wissenschaftler:innen und Interessierte zum gemeinsamen Austausch über GIS-Software, OpenStreetMap und neue Projekte und Themen mit Geodatenbezug.   
 Mit Vorträgen, Workshops, Demo-Sessions, Anwendertreffen und Gelegenheiten zum Netzwerken und Austausch wird die Veranstaltung vorwiegend in Präsenz stattfinden. Die gleichzeitig stattfindende Firmen- und Projektausstellung ermöglicht einen direkten Kontakt zu Dienstleistern und Projekten.</p>
 
-	<p>Am Samstag, den 29. März werden zwei weitere Events stattfinden: Der „OSM-Samstag“ und ein Community Sprint, angelehnt an die Code Sprints der internationalen FOSS4G-Konferenzen.   
+	<p>Am Samstag, den 29. März werden zwei weitere Events stattfinden: Der OSM-Samstag und ein Community Sprint, angelehnt an die Code Sprints der internationalen FOSS4G-Konferenzen.   
 Der OSM-Samstag wird im Format einer Unkonferenz von der deutschsprachigen OpenStreetMap-Community gestaltet. Es finden Vorträge und Diskussionsrunden zu aktuellen Themen statt. Themenvorschläge werden im OSM-/FOSSGIS-Wiki gesammelt und können auch noch spontan  vor Ort erfolgen.    
-Beim Community Sprint haben Interessierte Gelegenheit an Ihren eigenen Projekten zu arbeiten und sich gleichzeitig mit anderen auszutauschen.<br> Um die Kapazitäten zu planen, ist eine Anmeldung zur Teilnahme erforderlich.
+Beim Community Sprint haben Interessierte Gelegenheit an ihren eigenen Projekten zu arbeiten und sich gleichzeitig mit anderen auszutauschen.<br> Um die Kapazitäten zu planen, ist eine Anmeldung zur Teilnahme erforderlich.
 </p>
 
-	<p>Im Block "Studierende stellen Ihre Arbeit vor" können Auszubildende oder Studierende eine Abschluss-, Seminar-, Projektarbeit o.ä. ohne Video-Aufzeichnung vorstellen. Das Thema kann per E-Mail an <a href="mailto:programm@fossgis.de? subject=Frage%an%das%Programmkomitee">programm@fossgis.de</a> eingereicht werden.</p>
+	<p>Im Block "Studierende stellen ihre Arbeit vor" können Auszubildende oder Studierende eine Abschluss-, Seminar-, Projektarbeit o.ä. ohne Video-Aufzeichnung vorstellen. Das Thema kann per E-Mail an <a href="mailto:programm@fossgis.de? subject=Beitrag_Studierende_stellen_Ihre_Arbeit_vor">programm@fossgis.de</a> eingereicht werden.</p>
 
     <p>Der <a href="https://pretalx.com/fossgis2025/cfp">Call for Participation für die FOSSGIS 2025</a> ist bis zum 05. November 2024 geöffnet (keine Verlängerung).</p>
 
@@ -105,7 +105,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 		<li>Der FOSSGIS e.V. unterstützt die Initiative <a href="https://publiccode.eu/de/">Public Money, Public Code</a>. Wir ermuntern alle Projekte und Organisationen, die mit öffentlichen Mitteln freie Software finanzieren, sich und ihre Projekte / Software vorzustellen und von ihren Erfahrungen zu berichten.</li>
 		<li>Selbstverständlich freuen wir uns über Beiträge, die die Migration von unfreier zu freier Software oder die Nutzung proprietärer Formate/Schnittstellen mit freier Software thematisieren.</li>
 				</ul>
-	<li>Vorträge sollten einen Neuigkeitswert bieten und aufzeigen, inwieweit das Thema die Verbreitung von Open Source unterstützt (beispielsweise durch Projektverantwortung (Maintainer), Unterstützung (Contributer), Einsatz/Anwendung (User)).</li>
+	<li>Vorträge sollten einen Neuigkeitswert bieten und aufzeigen, inwieweit das Thema die Verbreitung von Open Source unterstützt (beispielsweise durch Projektverantwortung (Maintainer), Unterstützung (Contributor), Einsatz/Anwendung (User)).</li>
 	<li>Die Einreichung wird nach inhaltlichen Kriterien bewertet. Daher ist für die Bewertung eine aussagekräftige Beschreibung (die etwas mehr Information als die Zusammenfassung enthält) wichtig.</li>
 	<li>Eine Einreichung muss von einer oder mehreren natürlichen Personen erfolgen, die den Vortrag / Workshop dann auch halten.</li>
 	<li>Beiträge von Sponsoren werden nicht bevorzugt behandelt, die Vorträge dienen nicht der reinen Firmenpräsentation.</li>
@@ -120,7 +120,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<h2>Grundsätze der Programmgestaltung</h2>
 
-	<p>Das Programmkomitee wünscht sich in jeder Hinsicht Diversität unter den Vortragenden. Neue Vortragende sind willkommen! Daher freuen wir uns besonders über Einreichungen von Personen, die noch nicht oder noch nicht oft vorgetragen haben. Sollten Sie unsicher sein, zögern Sie nicht das Programm-Komitee zu kontaktieren (<a href="mailto:programm@fossgis.de">per E-Mail</a>, Telefon: +49 30-62932037)</p>
+	<p>Das Programmkomitee wünscht sich in jeder Hinsicht Diversität unter den Vortragenden. Neue Vortragende sind willkommen! Daher freuen wir uns besonders über Einreichungen von Personen, die noch nicht oder noch nicht oft vorgetragen haben. Sollten Sie unsicher sein, zögern Sie nicht das Programm-Komitee zu kontaktieren (<a href="mailto:programm@fossgis.de? subject=Fragen_ans_Programmkomitee">per E-Mail</a>, Telefon: +49 30-62932037)</p>
 
 	<p>Das Programmkomitee ist bestrebt ein ausgewogenes und informatives Programm anzubieten und achtet auf Ausgewogenheit bezüglich Vortragenden und Firmen.</p>
 
