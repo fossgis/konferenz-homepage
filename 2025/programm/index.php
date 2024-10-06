@@ -71,7 +71,7 @@
 <p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.<br>
 	
 	<h3>Call for Participation (CfP)</h3>
-	<p>Der CfP startet spätestens am 05. Oktober 2024.</p>
+	<p>Der <a href="https://pretalx.com/fossgis2025/cfp">Call for Participation</a> für die FOSSGIS 2025 ist veröffentlicht. Einreichungen sind bis zum 05.11.2024 möglich, es ist keine Verlängerung vorgesehen.</p>
 	
 
 <!--		<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 

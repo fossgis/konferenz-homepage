@@ -168,7 +168,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 
 	<h2>Termine und Fristen</h2>
 	<ul>
-	<li>vom 05. Oktober bis 05. November 2024: Call for Participation für alle Einreichungstypen, Abtract einreichen (Achtung: keine Verlängerung)</li>
+	<li>vom 05. Oktober bis 05. November 2024: Call for Participation für alle Einreichungstypen, Abstract einreichen (Achtung: keine Verlängerung)</li>
 	<li>vom 06. bis 17. November 2024: Community-Voting</li>
 		<li>bis 01. Dezember 2024: Benachrichtigung der Vortragenden (Zusagen/Absagen)</li>
 		<li>bis 20. Dezember 2024: Einreichung Full-Paper (6–8 Seiten) für zugelassene Academic-Track-Beiträge</li>
