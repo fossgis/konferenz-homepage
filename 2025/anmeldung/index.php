@@ -39,7 +39,9 @@
 	<ul>
 		<li>Konferenzticket: 330 €</i>
 		<li>Konferenzticket - reduzierter Preis*: 130 €</i>
-		<li>Konferenzticket - kostenfrei***: 0 €</i>
+		<li>Konferenzticket - Community (OpenStreetMap und FOSSGIS)***: 0 €</i>
+		<li>Konferenzticket - Beitragende***: 0 €</i>
+		<li>Konferenzticket - Helfende***: 0 €</i>
 		<li>Workshop**: 130 €</i>
 		<li>Onlinekonferenzticket: 100 €</i>
 		<li>Onlinekonferenzticket - reduzierter Preis*: 30 €</i>
@@ -77,8 +79,7 @@
 
 	<p><small>* Reduzierter Preis gilt für: Schüler:in, Azubi, Freiwilligendienstleistende, Studierende, Rentner:in, Arbeitslose - Nachweis erforderlich.</small><br>
 		<small>** Wenn bestellt und solange verfügbar.</small><br>
-		<small>*** Das kostenfreie Ticket ist an Bedingungen geknüpft. Grundsätzlich gilt, wer etwas zur FOSSGIS-Konferenz beiträgt, kann ein kostenfreies Konferenzticket erhalten. Ein adäquater Beitrag ist z.B. ein Vortrag (LT zählt nicht), Workshop, mind. 10 Stunden helfen oder nach den Richtlinien der <a href="https://blog.openstreetmap.org/2020/08/20/active-osm-contributor-membership-program/">OSMF</a>-OpenStreetMap Foundation aktiv mappen (42 Mappingtage in den letzten 365 Tage).</small></p>
-	
+		<small>*** Das kostenfreie Ticket ist an Bedingungen geknüpft. Grundsätzlich gilt, wer etwas zur FOSSGIS-Konferenz beiträgt, kann ein kostenfreies Konferenzticket erhalten. Ein adäquater Beitrag ist z.B. ein Vortrag (LT zählt nicht), Workshop, mind. 10 Stunden <a href="https://fossgis-konferenz.de/2025/helfen/">helfen</a> oder nach den Richtlinien der <a href="https://blog.openstreetmap.org/2020/08/20/active-osm-contributor-membership-program/">OSMF</a>-OpenStreetMap Foundation aktiv mappen (42 Mappingtage in den letzten 365 Tage) bzw. aktiv zur Entwicklung von freier GIS-Softwareentwicklung beitragen.</p>
 
 <!--	<b><i>Hygieneschutz</i></b>
 	<p>Ausschlaggebend für die Durchführung der Konferenz sind die entsprechend gültigen Hygienebestimmungen der HU-Berlin für Präsenzveranstaltungen. Grundlage ist der <a href="...</a>. Änderungen sind vorbehalten. </p>-->
