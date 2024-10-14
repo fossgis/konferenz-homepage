@@ -70,10 +70,7 @@
 	<p><b><i>Zusatzprodukte:</i></b></p>
 	<ul>
 		<li>Teilnahme am Exkursionsangebot: Preis abhänging vom jeweiligen Exkursionsangebot</li>
-		<li>Abendveranstaltung**</li>
-  		<li>Tagungsband**</li>
-		<li>T-Shirt**</li>
-		grundsätzlich inkluduiert, <a href="https://fossgis.de/verein/spenden/">Spende</a> gern gesehen.</li>
+		<li>Abendveranstaltung**, Tagungsband**, T-Shirt** sind grundsätzlich inkluduiert, eine <a href="https://fossgis.de/verein/spenden/">Spende</a> dafür ist gern gesehen.</li>
 		
 	</ul>
 
