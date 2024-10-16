@@ -174,7 +174,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 		<li>bis 20. Dezember 2024: Einreichung Full-Paper (6–8 Seiten) für zugelassene Academic-Track-Beiträge</li>
 		<li>bis 07. Januar 2025: Rückmeldungen zu Academic-Track-Einreichungen durch die Reviewer</li>
 		<li>Anfang Januar 2025: Programmveröffentlichung und Start des Ticketverkaufs</li>
-		<li>bis 03. Februar 2025: Beitrag für Tagungsband einreichen (inkl. verbesserte Academic-Track-Einreichungen)</li>
+		<li>bis 03. Februar 2025: Beitrag für Tagungsband einreichen (inkl. verbesserte Academic-Track-Einreichungen, <a href="https://www.fossgis.de/wiki/Tagungsband#Dokumentvorlage_f%C3%BCr_Autoren">Vorlage für Beitrag</a>.</li>
 		<li>vom 26. bis 29. März 2025: FOSSGIS-Konferenz 2025 (inkl. OSM-Samstag und Community-Sprint)</li>
 
 	</ul>
