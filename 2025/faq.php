@@ -99,7 +99,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<ul>
 
  		<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
-		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden ien gute Lösung</li>
+		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden eine gute Lösung.</li>
 		<li><b>Gibt es eine Hausordnung?</b><br>
 		 Ja die Hausordnung ist <a href="https://files.fossgis.de/Konferenz/2025/hausordnung_unims.pdf">hier als PDF</a> verfügbar und von allen Teilnehmenden einzuhalten.   </li>
 		<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
