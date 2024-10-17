@@ -67,7 +67,7 @@ https://pretix.eu/fossgis/2025" target="_blank"> </a> verkauft. Für das Vertrag
 <p>Ein entsprechender Hinweis ist auch auf den Tickets enthalten. Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen verarbeitet: <a href="https://pretix.eu/fossgis/2025/privacy/" target="_blank">siehe Datenschutzerklärung</a> </p>
 
 <h3>Hausordnung</h3>
-<p>wird überarbeitet...Im Veranstaltungsgebäude gilt die <a href="https://www.">Hausordnung</a> der Universität Münster, diese ist von allen Teilnehmenden einzuhalten.</p>  
+<p>Im Veranstaltungsgebäude gilt die <a href="https://files.fossgis.de/Konferenz/2025/hausordnung_unims.pdf">Hausordnung</a> der Universität Münster, diese ist von allen Teilnehmenden einzuhalten.</p>  
 
 <h3>Streitbeilegung</h3>
 <p>Die EU-Kommission stellt für die außergerichtliche Streitschlichtung eine Plattform bereit. Sie gibt Verbrauchern die Möglichkeit, Rechtsstreitigkeiten aus Verträgen oder Streitigkeiten über das Bestehen solcher Verträge zunächst ohne Einschaltung eines Gerichts zu klären. Die Streitbeilegungsplattform kann unter dem Link

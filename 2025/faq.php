@@ -99,9 +99,12 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<ul>
 
  		<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
-		Ja, alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich.</li>
+		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden ien gute Lösung</li>
+		<li><b>Gibt es eine Hausordnung?</b><br>
+		 Ja die Hausordnung ist <a href="https://files.fossgis.de/Konferenz/2025/hausordnung_unims.pdf">hier als PDF</a> verfügbar und von allen Teilnehmenden einzuhalten.   </li>
 		<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
-		Kurz vor Beginn der Konferenz, spätestens am 24.03.2025 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
+		Kurz vor Beginn der Konferenz, spätestens am 24.03.2025 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zug
+		estellt wird.</li>
 		<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
 		Wir nutzen die Online-Plattform Venueless, dafür ist jeweils ein aktueller Browser notwendig. Die Vorträge werden über Venueless gestreamt. </li>
 		<li><b>Brauche ich besondere Technik, um an der Online-FOSSGIS teilnehmen zu können?</b><br>
