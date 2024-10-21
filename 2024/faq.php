@@ -92,7 +92,9 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2024/helfen/"
 		<ul>
 
 			<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
-				Ja alle Veranstaltungsräume sind barrierefrei zugänglich.</li>
+				Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden ien gute Lösung</li>
+			<li><b>Gibt es eine Hausordnung?</b></li>
+			Ja, hier ist die Hausordnung zu finden, diese erkennen Sie mit Betreten des Hauses an.	
 <!--			<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
 				Kurz vor Beginn der Konferenz, voraussichtlich am 07.03.2022 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 			<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>

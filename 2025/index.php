@@ -61,10 +61,10 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 			<p>Die Konferenz wird vorwiegend durch ehrenamtliches Engagement  getragen, wobei neben den Teilnehmergebühren, die Spenden- und vor allem die Sponsoren- und Ausstellerstandeinnahmen eine wichtige finanzielle Einnahmequelle darstellen, um die Kosten für die Konferenz zu decken und darüber hinaus Open Source Projekte zu fördern.</p> 
 			
-<!--	    <h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
+		<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
 
-			<h4 id="Platin" name="Platin" class="highlight">Platinsponsoren</h4>
+<!--	    			<h4 id="Platin" name="Platin" class="highlight">Platinsponsoren</h4>
 			<ul class="tiles">
 			<li class="tile platin">
 			  <a href="sponsor/001_wheregroup.php" target="_blank">
@@ -124,25 +124,27 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/201_HBT.png" alt="HBT">
 			</a>
 			</li>	
-			</ul>
+			</ul>-->
 
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
 			<li class="tile bronze">
+			<a href="sponsor/401_terrestris.php" target="_blank">
+			<img src="./img/s/401_terrestris.png" alt="terrestris">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/402_mundialis.php" target="_blank">
+			<img src="./img/s/402_mundialis.png" alt="mundialis">
+			</a>
+			</li>
+			
+			<!--<li class="tile bronze">
 			<a href="sponsor/401_opencage.php" target="_blank">
 			<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/402_terrestris.php" target="_blank">
-			<img src="./img/s/402_terrestris.png" alt="terrestris">
-			</a>
-			</li>
-			<li class="tile bronze">
-			<a href="sponsor/403_mundialis.php" target="_blank">
-			<img src="./img/s/403_mundialis.png" alt="mundialis">
-			</a>
-			</li>
+			
 			<li class="tile bronze">
 			<a href="sponsor/404_52north.php" target="_blank">
 			<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
