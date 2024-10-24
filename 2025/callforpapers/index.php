@@ -31,7 +31,7 @@ Der OSM-Samstag wird im Format einer Unkonferenz von der deutschsprachigen OpenS
 Beim Community Sprint haben Interessierte Gelegenheit an ihren eigenen Projekten zu arbeiten und sich gleichzeitig mit anderen auszutauschen.<br> Um die Kapazitäten zu planen, ist eine Anmeldung zur Teilnahme erforderlich.
 </p>
 
-	<p>Im Block "Studierende stellen ihre Arbeit vor" können Auszubildende oder Studierende eine Abschluss-, Seminar-, Projektarbeit o.ä. ohne Video-Aufzeichnung vorstellen. Das Thema kann per E-Mail an <a href="mailto:programm@fossgis.de? subject=Beitrag_Studierende_stellen_Ihre_Arbeit_vor">programm@fossgis.de</a> eingereicht werden.</p>
+	<p>Im Block "Studierende stellen ihre Arbeit vor" können Auszubildende oder Studierende eine Abschluss-, Seminar-, Projektarbeit o.ä. ohne Video-Aufzeichnung vorstellen. Das Thema kann per E-Mail an <a href="mailto:programm@fossgis.de? subject=Beitrag_Studierende_stellen_Ihre_Arbeit_vor">programm@fossgis.de</a> eingereicht werden. In <a href="https://files.fossgis.de/Konferenz/2025/CfS_FOSSGIS2025.pdf"> diesem Dokument </a> gibt es weitere Informationen dazu.</p>
 
     <p>Der <a href="https://pretalx.com/fossgis2025/cfp">Call for Participation für die FOSSGIS 2025</a> ist bis zum 05. November 2024 geöffnet (keine Verlängerung).</p>
 
