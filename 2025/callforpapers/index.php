@@ -147,6 +147,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 	<li>Christian Strobl (Geographical Information Officer / StMUV Bayern, Lehrauftrag GIS / LMU München)</li>
 	<li>Christopher Lorenz (Entwickler und Beitragender zu OpenStreetMap)</li>
 	<li>David Arndt (Regionalverband Ruhr)</li>
+	<li>Edzer Pebesma (Institut für Geoinformatik Uni Münster)</li>
 	<li>Güren Tan Dinga (Wissenschaftlicher Mitarbeiter im g2lab, HafenCity Universität Hamburg)</li>
 	<li>Jan Schmalfuß-Schwarz (Wissenschaftlicher Mitarbeiter am Lehrstuhl für Mensch-Computer-Interaktion der TU Dresden)</li>
 	<li>Katja Haferkorn (Koordinatorin FOSSGIS e.V. und Konferenzorganisation)</li>
