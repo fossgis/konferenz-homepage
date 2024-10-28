@@ -109,6 +109,10 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		Wir nutzen die Online-Plattform Venueless, dafür ist jeweils ein aktueller Browser notwendig. Die Vorträge werden über Venueless gestreamt. </li>
 		<li><b>Brauche ich besondere Technik, um an der Online-FOSSGIS teilnehmen zu können?</b><br>
 		Nein. Sie brauchen einen aktuellen Browser sowie Zugang zum Internet. Die Vorträge werden als Livestream gesendet. Für Diskussionen und Netzwerken benötigen Sie ein Mikrofon und gegebenenfalls eine Kamera. Testen Sie die Onlineplattform gerne mit dieser <a href="https://demo-de.venueless.events/rooms/547982e8-daae-4050-ada5-4dda9aa44d70">Demoanwendung</a>.</li>
+		<li><b>WLAN</b><br>
+		WLAN Eduroam: https://www.geteduroam.app/<br>
+		WLAN GuestOnCampus: Nutzungsbedigungen bestätigen, "kostenlos einloggen" klicken, pro Endgerät und Tag 1 GB Datenvolumen, Übertragung ist unverschlüsselt. <br>
+		WLAN Gast im Uni-WLAN: jeder kann sich seinen persönlichen WLAN-Zugang am Schalter gegen Unterschrift abholen. </li>
 		</ul>
 
 	<h3>Sponsor</h3>
