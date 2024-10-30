@@ -138,7 +138,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/402_mundialis.png" alt="mundialis">
 			</a>
 			</li>
-			
+			<li class="tile bronze">
+			<a href="sponsor/403_grit.php" target="_blank">
+			<img src="./img/s/403_grit.png" alt="grit GmbH ">
+			</a>
+			</li>
 			<!--<li class="tile bronze">
 			<a href="sponsor/401_opencage.php" target="_blank">
 			<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
@@ -158,11 +162,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<li class="tile bronze">
 			<a href="sponsor/406_gbd.php" target="_blank">
 			<img src="./img/s/406_GBD.png" alt="Geoinformatikbüro Dassau">
-			</a>
-			</li>
-			<li class="tile bronze">
-			<a href="sponsor/407_grit.php" target="_blank">
-			<img src="./img/s/407_grit.png" alt="grit GmbH ">
 			</a>
 			</li>
 			<li class="tile bronze">
