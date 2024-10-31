@@ -143,12 +143,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/403_grit.png" alt="grit GmbH ">
 			</a>
 			</li>
-			<!--<li class="tile bronze">
-			<a href="sponsor/401_opencage.php" target="_blank">
-			<img src="./img/s/401_opencage-logo.png" alt="OpenCage">
+			<li class="tile bronze">
+			<a href="sponsor/404_opencage.php" target="_blank">
+			<img src="./img/s/404_opencage.png" alt="OpenCage">
 			</a>
 			</li>
-			
+			<!--
 			<li class="tile bronze">
 			<a href="sponsor/404_52north.php" target="_blank">
 			<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
