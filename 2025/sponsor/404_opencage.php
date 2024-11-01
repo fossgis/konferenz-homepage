@@ -18,12 +18,12 @@
 
 <body id="expo">
 
-	<p><a href="/2024">Zurück zur Startseite</a></p>
+	<p><a href="/2025">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/403_opencage.png" class="sp-logo" alt="OpenCageData">
+			<img src="./img/s/404_opencage.png" class="sp-logo" alt="OpenCageData">
 							
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
