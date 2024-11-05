@@ -72,30 +72,31 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</a>
 			</li>
 			</ul>
+			
 <!--				<li class="tile platin">
 			  <a href="sponsor/001_wheregroup.php" target="_blank">
 			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
-			
-			
-			<li class="tile platin">
-			  <a href="sponsor/002_camp2camp.php" target="_blank">
- 			  <img src="./img/s/002_camptocamp.png" alt="camptocamp">
-			  </a>
-			</li>
-							
+						
 			<li class="tile platin">
 			  <a href="sponsor/003_dataport.php" target="_blank">
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
 			  </a>
 			</li>
-			</ul>
+			</ul>-->
 
 
-<!--			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
+			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
+			
 			<ul class="tiles">
 			<li class="tile gold">
+			  <a href="sponsor/101_camp2camp.php" target="_blank">
+ 			  <img src="./img/s/101_camptocamp.png" alt="camptocamp">
+			  </a>
+			</li>
+			
+<!--			<li class="tile gold">
 			<a href="sponsor/101_bkg.php" target="_blank">
 			<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 			</a>
@@ -119,9 +120,10 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/201_HBT.php" target="_blank">
 			<img src="./img/s/201_HBT.png" alt="HBT">
 			</a>
-			</li>	
-			</ul>-->
-
+			</li> -->
+	
+			</ul>
+			
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
 			<li class="tile bronze">
@@ -152,6 +154,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<li class="tile bronze">
 			<a href="sponsor/406_geofabrik.php" target="_blank">
 			<img src="./img/s/406_Geofabrik_logo4.png" alt="geofabrik">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/407_geoSYS.php" target="_blank">
+			<img src="./img/s/407_geoSYS_logo.png" alt="geoSYS">
 			</a>
 			</li>
 			<!--
@@ -281,13 +288,13 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<a href="sponsor/415_geocockpit.php" target="_blank">
 						<img src="./img/s/415_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 						</a>
-					</li>
+					</li>-->
 
 
 
 					
-				</ul>-->
-<!--			<h4 id="Medienpartner" name="Medienpartner"class="highlight">Medienpartner</h4>
+				</ul>
+			<h4 id="Medienpartner" name="Medienpartner"class="highlight">Medienpartner</h4>
 				<ul class="tiles">
 					<li class="tile media">
 						<a href="https://live.osgeo.org/de/index.html" target="_blank">
@@ -295,7 +302,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 					<li class="tile media">
-						<a href="https://c3voc.de/" target="_blank">
+						<a href="https://c3voc.de/events/" target="_blank">
 						<img src="./img/s/502_voc_square.png" alt="C3VOC">
 						</a>
 					</li>
@@ -304,7 +311,8 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/503_TIB.PNG" alt="TIB">
 						</a>
 					</li>
-					<li class="tile media">
+				</ul>	
+<!--					<li class="tile media">
 						<a href="https://www.oreilly.de/" target="_blank">
 						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
 						</a>
@@ -320,26 +328,8 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					</ul>
 			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 
-					<!--<li class="tile media">
-						<a href="https://liberapay.com/johnjohndoe/" target="_blank">
-						<img src="./img/s/504_EventFahrplan.png" alt="FahrplanAPP">
-						</a>
-					</li>-->
+					-->
 
-
-<!--				</ul>
-
-			<h4 id="Eventpartner" name="Eventpartner"class="highlight">Eventpartner</h4>
-				<ul class="tiles">
-
-					<li class="tile media">
-						<a href="https://23.foss-backstage.de/" target="_blank">
-						<img src="./img/s/507_FOSSBack_logo_2023.png" alt="FOSSBackStage">
-						</a>
-					</li>-->
-				</ul>
-
-			</ul>
 
 <!--			<h3 id="Jobwand" >Jobbörse</h3>
 			<p>Es gibt wieder eine Jobbörse im Rahmen der Konferenz. Dafür stellen wir eine Pinnwand ins Foyer, dort können Stellenanzeigen angebracht werden. In Kooperation mit GoGeoGo gibt es vom 11.03.-01.04. eine digitale Jobbörse. Beim Eintragen bitte die Auftragsnummer FOSSGIS24 eintragen, dann erscheint die Stellenanzeige in der <a href="https://www.gogeogo.com/de/company/fossgis2024" target="_blank"> FOSSGIS 2024 Jobbörse</a>.
