@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2024 - Sponsor XYZ</title>
+	<title>FOSSGIS 2025 - Sponsor XYZ</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -18,7 +18,7 @@
 
 <body id="expo">
 
-	<p><a href="/2024">Zurück zur Startseite</a></p>
+	<p><a href="/2025#Sponsoring">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
@@ -51,6 +51,9 @@
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
+								<a href="https://mastodon.online/" target="_blank"><i class="fab fa-mastodon"></i></a>
+							</li>
+<li>
 								<a href="https://twitter.com/"  target="_blank"><i class="fab fa-x-twitter"></i></a>
 							</li>
 							<li>

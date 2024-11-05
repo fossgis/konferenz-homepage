@@ -161,6 +161,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/407_geoSYS_logo.png" alt="geoSYS">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/408_lutraconsulting.php" target="_blank">
+			<img src="./img/s/408_MerginMaps.png" alt="Lutra Consulting ltd.">
+			</a>
+			</li>
 			<!--
 			<li class="tile bronze">
 			<a href="sponsor/404_52north.php" target="_blank">
