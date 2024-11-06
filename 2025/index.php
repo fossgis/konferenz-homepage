@@ -71,13 +71,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/001_QFieldCloud-by-OpenGIS.png" alt="opengis">
 			</a>
 			</li>
-			</ul>
-			
-<!--				<li class="tile platin">
-			  <a href="sponsor/001_wheregroup.php" target="_blank">
-			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
+			<li class="tile platin">
+			  <a href="sponsor/002_wheregroup.php" target="_blank">
+			  <img src="./img/s/002_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
+			</ul>
+			
+<!--				
 						
 			<li class="tile platin">
 			  <a href="sponsor/003_dataport.php" target="_blank">
