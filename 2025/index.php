@@ -91,7 +91,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			
 			<ul class="tiles">
 			<li class="tile gold">
-			  <a href="sponsor/101_camp2camp.php" target="_blank">
+			  <a href="https://www.camptocamp.com/" target="_blank">
  			  <img src="./img/s/101_camptocamp.png" alt="camptocamp">
 			  </a>
 			</li>
