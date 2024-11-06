@@ -189,7 +189,7 @@ footer .main > li {
 	-webkit-box-flex: 0;
 	-ms-flex: 0 0 400px;
 	flex: 0 0 400px;
-	height: 200x;
+	height: 200px;
 }
 .tile.platin img {
 	max-width: 390px;
@@ -200,11 +200,11 @@ footer .main > li {
 	-webkit-box-flex: 0;
 	-ms-flex: 0 0 360px;
 	flex: 0 0 360px;
-	height: 185px;
+	height: 165px;
 }
 .tile.gold img {
 	max-width: 350px;
-	max-height: 175px;
+	max-height: 155px;
 }
 .tile.silver {
 	-webkit-box-flex: 0;
