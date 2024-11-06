@@ -17,11 +17,10 @@
 
         <h2>Datenschutzerklärung FOSSGIS-Konferenz</h2>
 
-<p> in Überarbeitung </p>
-<!--		<p>Der Schutz persönlicher Daten hat bei uns oberste Priorität. Wann immer möglich, setzen wir Datenschutz in Form von Datensparsamkeit um und erheben und speichern so wenige Daten wie möglich. Im Folgenden erläutern wir detailliert, welche Daten wir erheben und wer darauf Zugriff hat. Wir weisen darauf hin, dass die Datenübertragung im Internet immer Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich, auch wenn wir höchstmögliche Standards anstreben.</p>
+	<p>Der Schutz persönlicher Daten hat bei uns oberste Priorität. Wann immer möglich, setzen wir Datenschutz in Form von Datensparsamkeit um und erheben und speichern so wenige Daten wie möglich. Im Folgenden erläutern wir detailliert, welche Daten wir erheben und wer darauf Zugriff hat. Wir weisen darauf hin, dass die Datenübertragung im Internet immer Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich, auch wenn wir höchstmögliche Standards anstreben.</p>
 
 
-		<p>Die verantwortliche Stelle für die Datenverarbeitung der mit Pretix/FOSSGIS-Konferenz 2024 erfassten personenbezogenen Informationen ist:<br><br>
+		<p>Die verantwortliche Stelle für die Datenverarbeitung der mit Pretix/FOSSGIS-Konferenz 2025 erfassten personenbezogenen Informationen ist:<br><br>
    FOSSGIS e.V.<br>
    Bundesallee 23<br>
    10717 Berlin<br>
@@ -44,7 +43,7 @@
 			<li>Server-Log Files: Wir speichern keine IP-Adressen, Browserdaten, Referer oder andere Metadaten.</li>
 			<li>Zahlungsinformationen Paypal: Soweit entsprechende Bezahlmethode gewählt wird. Die Bezahlungsmethode Paypal wird von der PayPal (Europe) S.à r.l. & Cie, S.C.A., 5. Etage, 22-24 Boulevard Royal, L-2449 Luxembourg abgewickelt. Weitere Informationen zum Datenschutz von Paypal finden Sie in der Datenschutzerklärung von Paypal.</li>
 			<li>Zahlungsinformationen Überweisung: IBAN und Zahlbetrag.</li>
-			<li>Gesundheitsbezogene Daten</li>
+<!--			<li>Gesundheitsbezogene Daten</li>-->
 
 		</ol>
 
@@ -61,7 +60,7 @@
 			<li>Cookies: Gewährleistung eines ordnungsgemäßen Bestellvorgangs</li>
 			<li>Zahlungsinformationen Paypal: Abwicklung des Bezahlvorgangs, Vertragsabwicklung</li>
 			<li>Zahlungsinformation Überweisung: Vertragsabwicklung.</li>
-			<li>Lebensmittelallergie: Weitergabe dieser Information in anonymisierter Form zur Berücksichtigung im Rahmen der Konferenzverpflegung. </li>
+<!--			<li>Lebensmittelallergie: Weitergabe dieser Information in anonymisierter Form zur Berücksichtigung im Rahmen der Konferenzverpflegung. </li>-->
 		</ol>
 
 		<h4>Rechtsgrundlage der Verarbeitung</h4>
@@ -74,7 +73,7 @@
  			<li>Cookies: Verarbeitung zur Erfüllung eines Vertrags, Art. 6 Abs. 1 lit. b) DSGVO i.V.m. § 25 Abs. 2 Nr. 2 TTDSG, berechtigte Interesse, Art. 6 Abs. 1 lit. f) DSGVO. Das berechtigt Interesse besteht in der ordnungsgemäßen Abwicklung eines Bestellvorgangs.</li>
  			<li>Zahlungsinformationen Paypal: Verarbeitung zur Erfüllung eines Vertrags, Art. 6 Abs. 1 lit. b) DSGVO</li>	
  			<li>Zahlungsinformationen Überweisung: Verarbeitung zur Erfüllung eines Vertrags, Art. 6 Abs. 1 lit. b) DSGVO</li>	
- 			<li>Gesundheitsdaten: Einwilligung gem Art. 9 Abs.2 lit. a) DSGVO</li>
+<!-- 			<li>Gesundheitsdaten: Einwilligung gem Art. 9 Abs.2 lit. a) DSGVO</li>-->
 		</ol>
 
 
@@ -95,7 +94,7 @@
   			<li>Cookies: 2 Stunden</li>
   			<li>Zahlungsinformationen Paypal: Löschung nach Übertragung an PayPal</li>
   			<li>Zahlungsinformationen Überweisung: Die Daten werden im Rahmen der gesetzlichen Vorgaben und Verjährungsregelungen gespeichert.	</li>
-  			<li>Gesundheitsdaten: Die Informationen zu Lebensmittelallergien werden 2 Wochen nach Konferenzende gelöscht.</li>
+<!--  			<li>Gesundheitsdaten: Die Informationen zu Lebensmittelallergien werden 2 Wochen nach Konferenzende gelöscht.</li>-->
 		</ol>
 
 
@@ -127,7 +126,7 @@ Berliner Beauftragte für Datenschutz und Informationsfreiheit<br>
 Friedrichstr. 219<br>
 10969 Berlin<br>
 Tel.: +49 (0)30 13889-0<br>
-E-Mail: mailbox@datenschutz-berlin.de<br>-->
+E-Mail: mailbox@datenschutz-berlin.de<br>
 
 	<?php include "inc/footer.inc"; ?>
 
