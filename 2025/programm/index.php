@@ -64,26 +64,26 @@
 
 
 	<h3>Programm FOSSGIS 2025</h3>	
-	<p>Die FOSSGIS 2025 beginnt am Mittwochvormittag, den 26. März 2025 mit der Eröffnungsveranstaltung und wird in vier parallen Tracks bis Freitag fortgesetzt. Es finden Workshops und Communitysessions sowie ein spannendes Rahmenprogramm statt.
-	<p> Am Samstag, den 29. März 2025 findet der OSM-Samstag sowie der Community-Sprint statt.
-	<ul><li> Am OSM-Samstag werden aktuelle Themen rund um OpenStreetMap diskutiert.</li>
-	<li>Den Community-Sprint planen wir in Anlehnung an die OSGeo-Codesprints bei FOSS4G-Konferenzen.</li></ul></p> 
-<p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.<br>
+	<p>Die FOSSGIS 2025 beginnt am <b>Mittwochvormittag, den 26. März 2025</b> mit der Eröffnungsveranstaltung und wird in vier parallen Tracks bis <b>Freitag</b> fortgesetzt. Es finden Workshops und Communitysessions sowie ein spannendes Rahmenprogramm statt.
+	<p> Am <b>Samstag, den 29. März 2025</b> findet der OSM-Samstag sowie der Community-Sprint statt. Am OSM-Samstag werden aktuelle Themen rund um OpenStreetMap diskutiert. Den Community-Sprint planen wir in Anlehnung an die OSGeo-Codesprints bei FOSS4G-Konferenzen.</p> 
+
 	
 	<h3>Call for Participation (CfP)</h3>
-	<p>Der <a href="https://pretalx.com/fossgis2025/cfp">Call for Participation</a> für die FOSSGIS 2025 ist veröffentlicht. Einreichungen sind bis zum 05.11.2024 möglich, es ist keine Verlängerung vorgesehen.</p>
+<!--	<p>Der <a href="https://pretalx.com/fossgis2025/cfp">Call for Participation</a> für die FOSSGIS 2025 ist veröffentlicht. Einreichungen sind bis zum 05.11.2024 möglich, es ist keine Verlängerung vorgesehen.</p>-->
 	
 
-<!--		<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
-		Hier ist der <a href="https://fossgis-konferenz.de/2024/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
-	<p>Bis zum 24.11.2023 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
+	<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
+	Hier ist der <a href="https://fossgis-konferenz.de/2025/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
+	
+	<h4>Community Voting</h4>
+	<p>Bis zum 17.11.2024 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
 	<ul>
-		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2024/p/voting/signup/"> https://pretalx.com/fossgis2024/p/voting/signup/</a></li>
+		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2025/p/voting/signup/"> https://pretalx.com/fossgis2025/p/voting/signup/</a></li>
 		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
 		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
-	</ul> -->
-
+	</ul>
+<p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.<br>
 		
 	<?php include "../inc/footer.inc"; ?>
 
