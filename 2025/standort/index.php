@@ -36,7 +36,7 @@
 	
 	<p>Den Welcome Desk finden Sie im Schloss-Foyer, welches durch ein beheizbares Zelt erweitert wird, um Raum für die Pausenversorgung und Firmen- und Projekteausstellung zu schaffen.</p>
 
-<!--        <h3>Anreise</h3>
+       <h3>Anreise</h3>
         
         <h4>Anreise mit öffentlichen Verkehrsmitteln</h4>
         <p>Folgende Haltestellen liegen in der Nähe des Schlosses:</p>
@@ -49,33 +49,33 @@
         
         <p>Es empfiehlt sich den ÖPNV zu nutzen, Tickets werden voraussichtlich kostenlos für die Dauer der Konferenz zur Verfügung gestellt.</p>
         
-	<p>Oder Sie mischen sich per Rad (Leeze) unter die Münsteraner und fahren zum Schloss. Am Hauptabhnhof Münster befindet sich die <a href="https://www.radstation.de/de/mieten/4_2.html" target="_blank">Fahrradverleihstation</a>.</p> <!--src="img/Prinzipalmarkt_Muenster.png"
+	<p>Oder Sie mischen sich per Rad (Leeze) unter die Münsteraner und fahren zum Schloss. Am Hauptabhnhof Münster befindet sich die <a href="https://www.radstation.de/de/mieten/4_2.html" target="_blank">Fahrradverleihstation</a>.</p> <!--src="img/Prinzipalmarkt_Muenster.png"-->
         
         <h4>Anreise mit dem Auto</h4>
         <p>Von einer Anreise mit dem Auto raten wir aufgrund fehlender Parkmöglichkeiten am Schloss Münster zur Zeit der Konferenz ab.</p>
 
-        <h4>Unterkunft</h4>
-        <p>Münster Marketing hält bis zum xx.xx.2025 <a href="http://" target="_blank">Kontingente für die FOSSGIS</a> bereit.</p>
-        <p>Weitere Frühbucherkontingente sind unter dem Stichwort “FOSSGIS 2025” bis Ende Januar bei folgenden Hotels reserviert:</p>
-
-                <p><strong><a href="http://www.hotel-am-schlosspark-muenster.de/" target="_blank">Hotel am Schlosspark</a></strong><br>(1 km 10 min)<br>inkl. Frühstück, Bettwäsche, Handtücher<br>Doppelzimmer: 51,50 €/Person/Nacht (in Einzelbelegung 78 €/Person/Nacht)</p>
-                <p><strong><a href="https://www.agora-muenster.de/index.php" target="_blank">Agora - das Hotel am Aasee</a></strong><br>(1,2 km 15 min)<br>inkl. Frühstück, Bettwäsche, Handtücher<br>verschiedene Einzelzimmer: ab 69,00 €/Person/Nacht<br>verschiedene Doppelzimmer: ab 54,50 €/Person/Nacht (in Einzelbelegung: ab 79,00 €/Person/Nacht)</p>
-                <p><strong><a href="http://www.djh-wl.de/de/jugendherbergen/muenster" target="_blank">Jugend Gästehaus Aasee</a></strong><br>(1,4 km, 17 min)<br>inkl. Frühstück, Bettwäsche, Handtücher, Badezimmer mit Dusche und WC je Zimmer:<br>Doppelzimmer: 35,70 €/Person/Nacht (in Einzelbelegung: 52,80 €/Person/Nacht)<br>Vierbettzimmer: 30,40 €/Person/Nacht</p>
+        <h3>Unterkünfte in Münster und <a href="standort/hotelliste.php">Hotelliste</a></h3>
+        <p>Das Kongressbüros von Münster Marketing hält das Serviceangebot: <a href="https://tportal.tomas.travel/rmuensterkongress/ukv/?doSearch=1&ukv_result_order=1&number_adult=1&rate=GER00020063159688918&date_from=25.03.2025&date_to=30.03.2025&reset=1&globalReset=1"  target="_blank">Kontingente für die FOSSGIS 2025</a> bereit.</p>
+        
+        <p>Sie finden hier eine <b><a href="standort/hotelliste.php">umfangreiche Hotelliste</a></b> zusammengestellt vom Organisationsteam.</p>
+        
+       
 
 	<h4>Münster City</h4>
-	<p>Die <a href="https://www.muenster.de/stadt/tourismus/" target="_blank">Stadt Münster</a> mit ihren über 320.000 Einwohnern trägt viele Namen. Unzählige Radler:innen, die allmorgendlich bei jedem Wetter über die Promenade - dem Fahrradring - ihrem Betätigungsfeld entgegen strampeln, prägen das Stadtbild der Fahrradhauptstadt. Die Friedensverhandlungen zum Westfälischen Frieden 1648, die den Dreißigjährigenkrig beendeten, legten den Grundstein zum Namen "Friedensstadt".</p>
-	<p>Die nachdem 2. Weltkrieg fast völlig zerstörte Alstadt wurde nach ihrem historischen Vorbild zu großen Teilen wieder aufgebaut und somit laden viele Straßen Münsters heute zu einer kleinen <a href="https://www.muenster.de/stadt/tourismus/sehenswert.html" target="_blank">Zeitreise</a> ein. Münster ist mit 45.000 Studierenden an der Westfälischen Wilhelms-Universität und weiteren Hochschulen auch "Universitätsstadt", denn ein Siebtel der Bevölkerung sind Studierende.</p> 
+	<p>Das Bild der <a href="https://www.muenster.de/stadt/tourismus/" target="_blank">Stadt Münster</a> mit ihren über 320.000 Einwohnern ist geprägt von unzähligen Radler:innen, die allmorgendlich bei jedem Wetter über die Promenade - dem Fahrradring - ihrem Betätigungsfeld entgegen strampeln. Die Friedensverhandlungen zum Westfälischen Frieden 1648, die den Dreißigjährigenkrig beendeten, legten den Grundstein zum Namen "Friedensstadt".</p>
+	<p>Die nachdem 2. Weltkrieg fast völlig zerstörte Alstadt wurde nach ihrem historischen Vorbild zu großen Teilen wieder aufgebaut und somit laden viele Straßen Münsters heute zu einer kleinen <a href="https://tour.spacewerkhosting.de/de/tour/friedenssaal-im-historischen-rathaus" target="_blank">Zeitreise</a> ein. Münster ist mit 45.000 Studierenden an der Westfälischen Wilhelms-Universität und weiteren Hochschulen auch "Universitätsstadt", denn ein Siebtel der Bevölkerung sind Studierende.</p> 
 	<p>Das Flair des Aasees, des Schlossgartens, der Altstadtt und die idyllische Lage in Mitten Westfalens sind wohl Gründe für den einst erhaltenen Titel "lebenswerteste Stadt der Welt". </p>
-	<p>Das Münsterland, landschaftlich bekannt für seine schöne "Münsterland Parklandschaft", beheimatet eine Hochburg der Forschung, Verarbeitung und Bereitstellung von Geoinformationen. Münsterländische Institutionen und Unternehmen aus dem Bereich Geoinformationen haben sich zu dem Geonetzwerk Münsterland zusammengeschlossen. Ziel dieses Netzwerkes ist die Stärkung der Zusammenarbeit in der Region und die Schaffung von Aufmerksamkeit für die besonderen Kompetenzen im Münsterland im Bereich der Geoinformationen. </p>
-		  <p>Münster ist bekannt für seine Architektur und <a href="https://www.muenster.de/stadt/medien/pdf/schloss.mp3" target="_blank"> Geräusche.</a></p>
-          <img src="anreise/img/Prinzipalmarkt_Muenster.png" Alt="Prinzipalmarkt_Muenster" height="335" class="city" valign="middle">
-          <img src="anreise/img/Dom.png" valign="middle" height="335" class="city" valign="middle">
-          <img src="anreise/img/Unterwasserkirche.png" height="335" class="city" valign="middle">
+		  
+          <img src="standort/img/Prinzipalmarkt_Muenster.png" Alt="Prinzipalmarkt_Muenster" height="335" class="city" valign="middle">
+          <img src="standort/img/Dom.png" valign="middle" height="335" class="city" valign="middle">
+          <img src="standort/img/Unterwasserkirche.png" height="335" class="city" valign="middle">
 
 	<p>Das traditionelle Volksfest der Stadt Münster wird auch während der FOSSGIS-Konferenz seine Pforten öffnen.</p>
 
-          <img src="anreise/img/Send.png" class="city" valign="middle" width="350" height="*">
-          <img src="anreise/img/Send_.png" class="city" valign="middle" width="350" height="*">-->
+          <img src="standort/img/Send.png" class="city" valign="middle" width="350" height="*">
+          <img src="standort/img/Send_.png" class="city" valign="middle" width="350" height="*">
+          
+          <p>Fotos: hafi, 2015</p>
 
  <?php include "../inc/footer.inc"; ?>
 
