@@ -167,12 +167,18 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/408_MerginMaps.png" alt="Lutra Consulting ltd.">
 			</a>
 			</li>
-			<!--
 			<li class="tile bronze">
-			<a href="sponsor/404_52north.php" target="_blank">
-			<img src="./img/s/404_52North.png" alt="52°North Spatial Information Research GmbH">
+			<a href="sponsor/409_52north.php" target="_blank">
+			<img src="./img/s/409_52North.png" alt="52°North Spatial Information Research GmbH">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/410_komoot.php" target="_blank">
+			<img src="./img/s/410_komoot.png" alt="komoot">
+			</a>
+			</li>			
+			<!--
+			
 			<li class="tile bronze">
 			<a href="sponsor/405_CONET-ISB.php" target="_blank">
 			<img src="./img/s/405_ISB_CONET.jpg" alt="CONET ISB GmbH">
@@ -194,11 +200,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/409_sp_fossgis_2023.png" alt="sourcepole">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/411_komoot.php" target="_blank">
-			<img src="./img/s/411_komoot.png" alt="komoot">
-			</a>
-			</li>
+
 			<li class="tile bronze">
 			<a href="sponsor/412_norBIT.php" target="_blank">
 			<img src="./img/s/412_norBIT.png" alt="norBIT">
