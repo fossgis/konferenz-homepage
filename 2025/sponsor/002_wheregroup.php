@@ -29,22 +29,27 @@
 					</div></div>
 			
 			<div class="row">
-				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>WhereGroup GmbH</h3>
+			<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
+			<h3>WhereGroup GmbH</h3>
 
-					<p>Die WhereGroup ist eines der größten Open-Source-Softwarehäuser der GEO-IT-Branche in Deutschland. Wir managen zahlreiche komplexe GIS-Projekte unterschiedlichster Art. Als mittelständisches Unternehmen mit über 40 Mitarbeiter*innen an vier Standorten arbeiten wir innovativ und haben dennoch die Bodenhaftung nicht verloren.</p>
+			<p>Die <b>WhereGroup</b> ist eines der größten Softwareunternehmen in Deutschland, das für die Wirtschaft und die öffentliche Verwaltung GIS-Lösungen mit Open-Source-Software entwickelt. Als mittelständisches Unternehmen mit über 50 Mitarbeitenden an vier Standorten steht die <b>WhereGroup</b> aus Überzeugung für Innovation und einen kooperativen Umgang mit ihren Kunden auf Augenhöhe.</p>
 
-					<p>Wir bieten Ihnen kompetente Unterstützung in den Bereichen Geographische Informationssysteme (GIS), Web-GIS, Datenbanken, Standards, Interoperabilität und System-Integration. Angefangen bei der Beratung, Konzeption und Entwicklung bis hin zum Betrieb dynamischer Kartenanwendungen im Intra- und Internet.</p>
+			<p>Das Unternehmen ist seit über 20 Jahren in der Welt der Open-Source-GIS-Anwendungen zuhause, steht in engem Austausch mit der Community und engagiert sich aus Überzeugung im FOSSGIS e.V., im QGIS-DE e.V. und bei der OSGeo.</p>
 
-					<p>Grundlage unseres Schaffens ist der Open-Source-Gedanke. Als Teil einer starken Community, mit der wir in engem Austausch stehen, engagieren wir uns aus Überzeugung im FOSSGIS e. V., im QGIS-DE e.V. und bei der OSGeo. Wir sind auf vollen Überzeugung auf Open-Source-Entwicklungen spezialisiert und integrieren professionelle freie Software nahtlos in proprietäre Systeme.</p>
+			<p>Das Angebots-Spektrum der <b>WhereGroup</b> erstreckt sich von der Beratung über die Konzeption bis hin zur individuellen Entwicklung von dynamischen Kartenanwendungen sowie ihren Betrieb im Intra- und Internet. Damit ist eine kompetente Unterstützung in den Bereichen Geographische Informationssysteme (GIS), Web-GIS, Datenbanken, Standards, Interoperabilität und System-Integration aus einer Hand garantiert. Dazu gehört auch die nahtlose und professionelle Integration von Open-Source-Lösungen in proprietäre Software.</p>
 
-					<p>Wir implementieren Lösungen für den Mittelstand, die Industrie und auf allen Ebenen der öffentlichen Verwaltung, beraten und begleiten bei Planung, Migration und Einführung von raumbezogenen Informationssystemen.</p>
+			<p>Die <b>WhereGroup</b> berät und begleitet bei der Planung, Migration und Einführung raumbezogener Informationssysteme, managt zahlreiche komplexe GIS-Projekte unterschiedlichster Art und implementiert Lösungen für internationale Konzerne, den Mittelstand und auf allen Ebenen der öffentlichen Verwaltung, darunter auch Landes- und Bundesbehörden.</p>
 
-					<p>Dabei reicht das Spektrum unserer Projekte von Desktop-Lösungen über Geoportalen und kartenbasierter Datenverwaltung bis hin zu hochverfügbaren Anwendungen für die freie Wirtschaft und die öffentliche Verwaltung.</p>
+			<b><u>Auf dem Laufenden bleiben:</u></b>
+			<p>Einblicke in unsere Arbeit im Blog: <a href="https://wheregroup.com/blog/">https://wheregroup.com/blog/</a></p>
+			<p>WhereGroup-Newsletter: <a href="https://wheregroup.com/unternehmen/newsletter/">https://wheregroup.com/unternehmen/newsletter/</a></p>
+ 
+</p>
 
-					<p>Unser Schulungsinstitut, die FOSS Academy, bietet außerdem praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
+			<p>Außerdem bietet das Schulungsinstitut der <b>WhereGroup</b> - die <b>FOSS Academy</b> - praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
 
-					<p>Mehr zur WhereGroup unter <a href="https://www.wheregroup.com" target="_blank">www.wheregroup.com</a> und <a href="https://www.foss-academy.com" target="_blank">www.foss-academy.com</a>.</p>
+			<p><a href="https://www.wheregroup.com" target="_blank">www.wheregroup.com</a></p> 
+			<p><a href="https://www.foss-academy.com" target="_blank">www.foss-academy.com</a></p>
 
 
 
@@ -64,14 +69,13 @@
 			<h6 class="font-weight-bold mb-0">Social</h6>
 			<ul>
 			<li>
-			<a href="https://mastodon.social/@wheregroup" target="_blank"><i class="fab fa-mastodon"></i></a>
-			</li>
+			<a href="https://www.xing.com/pages/wheregroupgmbh-co-kg" target="_blank"><i class="fab fa-xing"></i></a></li>
 			<li>
-			<a href="https://twitter.com/WhereGroup_com" target="_blank"><i class="fab fa-x-twitter"></i></a>
+			<a href="https://www.linkedin.com/company/wheregroup-gmbh/posts/?feedView=all" target="_blank"><i class="fab fa-linkedin"></i></a>
 			</li>
-			<li>
-			<a href="https://www.xing.com/pages/wheregroupgmbh-co-kg" target="_blank"><i class="fab fa-xing"></i></a>
-			</li>
+<li>
+			<a href="https://mastodon.social/@wheregroup" target="_blank"><i class="fab fa-mastodon"></i></a>	</li>
+
 			</ul>
 			</div>
 			</div>	
