@@ -31,26 +31,27 @@
 
 	<h3>Konferenzort Schloss Münster</h3>
 
-	<p>Die Konferenz findet im Schloss Münster statt. Die Räumlichkeiten sind barrierefrei zugänglich. Die Raumpläne werden vor der Konferenz veröffentlicht und im Programmheft abgedruckt. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.
+	<p>Die Konferenz findet im Schloss Münster statt. Die Räumlichkeiten sind weitestgehend barrierefrei zugänglich. Die Raumpläne werden vor der Konferenz veröffentlicht und im Programmheft abgedruckt. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.
 	</p>
 	
 	<p>Den Welcome Desk finden Sie im Schloss-Foyer, welches durch ein beheizbares Zelt erweitert wird, um Raum für die Pausenversorgung und Firmen- und Projekteausstellung zu schaffen.</p>
 
        <h3>Anreise</h3>
-        
+                
         <h4>Anreise mit öffentlichen Verkehrsmitteln</h4>
+         
+        <p>Es empfiehlt sich den ÖPNV zu nutzen, Tickets werden voraussichtlich kostenlos für die Dauer der Konferenz zur Verfügung gestellt.</p>
+        <p>Oder Sie mischen sich per Rad (Leeze) unter die Münsteraner und fahren zum Schloss. Am Hauptabhnhof Münster befindet sich die <a href="https://www.radstation.de/de/mieten/4_2.html" target="_blank">Fahrradverleihstation</a>. Weitere Anbieter sind <a href="https://www.stadt-muenster.de/tourismus/fahrradstadt/fahrradverleih">hier</a> zu finden.
+</p>
+        
         <p>Folgende Haltestellen liegen in der Nähe des Schlosses:</p>
           <ul class="list">
-             <li>"Landgericht" mit den Buslinien 11, 12, 13 und 22.</li>
-             <li>"Hüfferstiftung" mit den Buslinien 11, 12, 13, 22 und auch noch der Buslinie 14.</li>
-             <li>"Neutor" mit den Buslinien 1 (bzw. "Schlossplatz"), 5 und 6.</li>
+             <li>"Landgericht" mit den Buslinien 11, 12 und 22.</li>
+             <li>"Hüfferstiftung" mit den Buslinien 11, 12, 22 und auch noch der Buslinie 14.</li>
+             <li>"Neutor" mit den Buslinien 1 (bzw. "Schlossplatz"), 5 und 9.</li>
           </ul>
         <p>Hilfreiche Infos liefert auch der <a href="https://www.bahn.de/" target="_blank">Planer der Deutschen Bahn</a> und der <a href="https://www.netzplan-muenster.de/" target="_blank">interaktive Netzplan der Stadtwerke Münster</a></p>
-        
-        <p>Es empfiehlt sich den ÖPNV zu nutzen, Tickets werden voraussichtlich kostenlos für die Dauer der Konferenz zur Verfügung gestellt.</p>
-        
-	<p>Oder Sie mischen sich per Rad (Leeze) unter die Münsteraner und fahren zum Schloss. Am Hauptabhnhof Münster befindet sich die <a href="https://www.radstation.de/de/mieten/4_2.html" target="_blank">Fahrradverleihstation</a>.</p> <!--src="img/Prinzipalmarkt_Muenster.png"-->
-        
+               
         <h4>Anreise mit dem Auto</h4>
         <p>Von einer Anreise mit dem Auto raten wir aufgrund fehlender Parkmöglichkeiten am Schloss Münster zur Zeit der Konferenz ab.</p>
 
