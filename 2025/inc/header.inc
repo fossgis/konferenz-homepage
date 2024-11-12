@@ -1,6 +1,6 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2025">
-		<img class="page-logo" src="./img/fossgis25-logo_.png">
+		<img class="page-logo" src="./img/FOSSGIS 25_FIN_tBG_RGB.png">
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>

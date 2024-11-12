@@ -75,7 +75,7 @@
 	<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
 	Hier ist der <a href="https://fossgis-konferenz.de/2025/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
 	
-	<h4>Community Voting</h4>
+	<h3>Community Voting</h3>
 	<p>Bis zum 17.11.2024 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
 	<p><b>Vorgehensweise:</b></p>
 	<ul>
