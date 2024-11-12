@@ -28,7 +28,7 @@
 	while ($data = fgetcsv($handle, 1000, "|")) {
 		$name = $data[0];
 		$link = $data[1];
-		$img = $data[2] ? $data[2] : "./img/fossgis-konferenz-logo.png";
+		$img = $data[2] ? $data[2] : "./img/FOSSGIS 25_FIN_wBG_RGB.png";
 		$desc = $data[3];
 
 		if ($link) {

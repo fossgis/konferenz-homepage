@@ -1,6 +1,6 @@
 <header class="page-header">
 	<a href="./" alt="FOSSGIS Konferenz 2025">
-		<img class="page-logo" src="./img/FOSSGIS 25_FIN_tBG_RGB.png">
+		<img class="page-logo" src="./img/FOSSGIS2025-Logo_Fahrrad_Stadt_GRASS.png">
 	</a>
 	<h2 class="page-title">
 		FOSSGIS-Konferenz <br>
@@ -33,7 +33,7 @@
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
 		</li>		
-		<!--<li id="navTeam">
+		<li id="navTeam">
 			<a href="./team/team.php">Team</a>
 		</li>
 		<!--	<li id="navExpo">
