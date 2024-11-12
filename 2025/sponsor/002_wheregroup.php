@@ -41,17 +41,14 @@
 			<p>Die <b>WhereGroup</b> berät und begleitet bei der Planung, Migration und Einführung raumbezogener Informationssysteme, managt zahlreiche komplexe GIS-Projekte unterschiedlichster Art und implementiert Lösungen für internationale Konzerne, den Mittelstand und auf allen Ebenen der öffentlichen Verwaltung, darunter auch Landes- und Bundesbehörden.</p>
 
 			<b><u>Auf dem Laufenden bleiben:</u></b>
-			<p>Einblicke in unsere Arbeit im Blog: <a href="https://wheregroup.com/blog/">https://wheregroup.com/blog/</a></p>
-			<p>WhereGroup-Newsletter: <a href="https://wheregroup.com/unternehmen/newsletter/">https://wheregroup.com/unternehmen/newsletter/</a></p>
+			<ul>
+			<li>Einblicke in unsere Arbeit im Blog: <a href="https://wheregroup.com/blog/">https://wheregroup.com/blog/</a></li>
+			<li>WhereGroup-Newsletter abonnieren: <a href="https://wheregroup.com/unternehmen/newsletter/">https://wheregroup.com/unternehmen/newsletter/</a></li>
+			</ul>
  
 </p>
 
 			<p>Außerdem bietet das Schulungsinstitut der <b>WhereGroup</b> - die <b>FOSS Academy</b> - praxisorientierte Schulungen zum Thema „GIS mit Open-Source-Software“ an.</p>
-
-			<p><a href="https://www.wheregroup.com" target="_blank">www.wheregroup.com</a></p> 
-			<p><a href="https://www.foss-academy.com" target="_blank">www.foss-academy.com</a></p>
-
-
 
 			</div>
 			<div class="col-lg-3">
