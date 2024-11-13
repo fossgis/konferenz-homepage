@@ -176,6 +176,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/410_komoot.php" target="_blank">
 			<img src="./img/s/410_komoot.png" alt="komoot">
 			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/411_latlon.php" target="_blank">
+			<img src="./img/s/411_logo_latlon_web.png" alt="latlon">
+			</a>
 			</li>			
 			<!--
 			
