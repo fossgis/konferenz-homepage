@@ -18,19 +18,18 @@
 
 <body id="expo">
 
-	<p><a href="/2025">Zurück zur Startseite</a></p>
+	<p><a href="/2025/anmeldung#Bildungszeit">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3 id="Bildungsurlaub" name="Bildungsurlaub">Was ist Bildungsurlaub?</h3>
-			<p>Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit.
-Mit dem Bildungsurlaub fördert der Staat die Initiative von Arbeitnehmer:innen zum lebenslangen Lernen.</p>
+					<h3 id="Bildungszeit" name="Bildungszeit">Was ist Bildungszeit?</h3>
+			<p>Bildungszeit, umgangssprachlich auch Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Mit der Bildungszeit fördert der Staat die Initiative von Arbeitnehmer:innen zum lebenslangen Lernen.</p>
 			<p>Weiterbildung ist ständig notwendig, da Wissen veraltet oder seine Gültigkeit oder Bedeutsamkeit verlieren kann, neues oder aufbauendes Wissen ist notwendig. Die digitalisierte Arbeitswelt fordert immer wieder neue technische, organisatorische oder kommunikative Kompetenzen.</p>
-			<p>Eine Anerkennung als Bildungsurlaub gibt Arbeitnehmenden das Recht, die Veranstaltung während der Arbeitszeit zu besuchen und sich dafür beurlauben zu lassen.<br>
-Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bildungsurlaub zustehen, unter Weiterzahlung des Gehalts.</p>
+			<p>Eine Anerkennung als Bildungszeit gibt Arbeitnehmenden das Recht, die Veranstaltung während der Arbeitszeit zu besuchen und sich dafür freistellen zu lassen.<br>
+Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bildungszeit zustehen, unter Weiterzahlung des Gehalts.</p>
 			<p>Dass heißt, es ist nicht notwendig für eine Teilnahme an der FOSSGIS-Konferenz den Erholungsurlaub zu beanspruchen, sondern die Konferenz kann als Weiterbildungsveranstaltung genutzt werden.</p>
 					
 			<h3>Wie läuft die Beantragung beim Arbeitgeber?</h3>
@@ -61,27 +60,32 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			</li>
 			<li><b>Schleswig-Holstein</b> - <a href="data/Anerkennung_Schleswig-Holstein.pdf">Download Anerkennungsbescheid</a>
 			</li>-->	
-			<li> wir hoffen, dass weitere folgen</li>
+			<li> wir gehen davon aus, dass weitere folgen</li>
 			</ul>
-			<p>Nutzen Sie für Ihre Beantragung des Bildungsurlaubes beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>
-
-<!--			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
-<p>Folgende Bundesländer erkennen die FOSSGIS-Konferenz leider nicht als Bildungsurlaub an:</p>
-			<ul>
-			<li><b>Berlin</b> </li>
-			<li><b>Bremen</b> </li>	
-			<li><b>Saarland</b></li>
-			</ul>
+			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>
 			
 			<h3 id="Antrag" name="Antrag" >Antrag</h3>
 <p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub beantragt:</p>
 			<ul>
-			<li><b>Hessen</b></li>		
-			<li><b>Thüringen</b></li>				
-			</ul>-->
-			
-			<h3 id="Antrag" name="Antrag" >kein Antrag</h3>
-			<p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub zu teuer, zu kompliziert oder gar nicht möglich</p>
+			<li><b>Rheinland-Pfalz</b></li>		
+			<li><b>Thüringen</b></li>
+			<li><b>Sachsen-Anhalt</b></li>				
+			<li><b>Niedersachsen</b></li>
+			<li><b>Schleswig-Holstein</b></li>
+			<li><b>Hamburg</b></li>
+			<li><b>Brandenburg</b></li>
+			<li><b>Antrag für Berlin wird gestellt, wenn BRB bewilligt hat</b> </li>
+			</ul>
+
+			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
+<p>Folgende Bundesländer haben die FOSSGIS-Konferenz leider nicht als Bildungszeit anerkannt, von einem erbeuten Antrag wird abgesehen:</p>
+			<ul>
+			<li><b>Bremen</b> </li>	
+			<li><b>Saarland</b></li>
+			</ul>
+																
+			<h3 id="keinAntrag" name="keinAntrag" >kein Antrag</h3>
+			<p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungszeit zu teuer, zu kompliziert oder gar nicht möglich</p>
 			<ul>
 			<li><b>Baden-Württemberg</b> </li>
 			<li><b>Bayern</b></li>

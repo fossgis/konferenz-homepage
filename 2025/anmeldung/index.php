@@ -107,11 +107,11 @@ Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetr
     </div>
 </noscript>-->
 		
-	<h3 id="Bildungsurlaub" name="Bildungsurlaub">Bildungsurlaub</h3>
-	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
-	<p> Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungsurlaub gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungsurlaub pro Jahr zu.</p>
+	<h3 id="Bildungszeit" name="Bildungszeit">Bildungszeit</h3>
+	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungszeit wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
+	<p> Bildungszeit, umgangssprachlich auch Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungszeit gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungszeit pro Jahr zu.</p>
 
-	<p>Weitere Informationen zum Bildungsurlaub und welches Bundesland die FOSSGIS-Konferenz 2025 als Bildungszeit anerkannt hat, finden Sie unter <a href="https://fossgis-konferenz.de/2025/anmeldung/bildungsurlaub.php">Anmeldung/Bildungsurlaub</a>.</p>
+	<p>Weitere Informationen zum Bildungszeit und welches Bundesland die FOSSGIS-Konferenz 2025 als Bildungszeit anerkannt hat, finden Sie unter <a href="https://fossgis-konferenz.de/2025/anmeldung/bildungszeit.php">Anmeldung/Bildungszeit</a>.</p>
 	
 
 	<h3>Sie haben Fragen?</h3>
