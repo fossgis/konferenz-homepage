@@ -73,17 +73,8 @@
 	
 
 	<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
-	Hier ist der <a href="https://fossgis-konferenz.de/2025/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.</p>
-	
-	<h3>Community Voting</h3>
-	<p>Bis zum 17.11.2024 ist es für die Community möglich über die Einreichungen abzustimmen. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.  <br>Vielen Dank fürs Mitmachen!</p>
-	<p><b>Vorgehensweise:</b></p>
-	<ul>
-		<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2025/p/voting/signup/"> https://pretalx.com/fossgis2025/p/voting/signup/</a></li>
-		<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen Abstimmung</li>
-		<li>3. Einreichungen anschauen und bewerten- dies kann in Etappen erfolgen.</li>
-	</ul>
-<p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.<br>
+	Hier ist der <a href="https://fossgis-konferenz.de/2025/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.<br> Danke an alle, die beim Community Voting mitgemacht haben. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.</p>
+<p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.</p>
 		
 	<?php include "../inc/footer.inc"; ?>
 

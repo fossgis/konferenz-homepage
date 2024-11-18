@@ -37,48 +37,8 @@
 		</ul>
 
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>-->
-
-	<h3>Wo kannst Du bei der Konferenzorganisation unterstützen?</h3>
-		
-	<ul>
-		<li><b>Programmkomitee</b><br>
-Call for Participation formulieren, Einreichungen reviewen, Programm gestalten, bei Umsetzung des Programms unterstützen.<br>
-Das Programmkomitee FOSSGIS 2025 trifft sich am 02.09.2024 in einem <a href="https://fossgis.de/aktivit%C3%A4ten/termine/">Online-Treffen</a>. </li>
-		<li><b>Presse- und Öffentlichkeitsarbeit</b><br>
-Pressetexte schreiben, Konferenz bekannter machen, raus aus der Blase, neue Menschen erreichen. Teilnehmende informieren.</li>
-		<li><b>Helfer:innenkoordination</b><br>
-Engelsystem, Überblick, Helfer:innen anwerben, Jobbeschreibungen, Job-Schichten koordinieren - genau das hier ^ gut zu organisieren ;-)</li>
-		<li><b>Technische Umsetzung</b><br>
-Unterstützung der technischen Umsetzung der Konferenz in Zusammenarbeit mit dem VOC (Videoteam), bspw. für Online-Vorträge vorab aufgezeichnete Vorträge einsammeln und zur Verfügung stellen, Mails aus Pretalx versenden, Videoaufzeichnung während der Konferenz unterstützen.</li>
-		<li><b>Workshoporganisation</b><br>
-Online oder Vor-Ort-Workshop, was braucht es für die gute Umsetzung, Kommunikation mit Workshopleiter:innen, Information der TN.</li>
-		<li><b>Rahmenprogramm</li>
-			<ul>
-			<li>OpenStreetMap-Event</b><br>
-organisieren (Unconference, Mappingevent...) und moderieren.</li>
-			<li><b>Community-Sprint</b><br>
-			Vorbereiten und Umsetzen.</li>
-			</ul>
-		<li><b>Programmheft</b><br>
-Programm als gedruckte Ausgabe im Format A6 für die TN.</li>
-		<li><b>Teilnehmer:innenbetreuung/ Welcome Desk</b><br>
-Im Arbeitspaket Teilnehmer:innenbetreuung stecken mehrere Aufgaben.
-Die Informationen zur Konferenz im Vorfeld so aufbereiten, dass es für die TN übersichtlich und nachvollziehbar ist (Website, TN-Mail).
-Welcome Desk organisieren ist in erster Linie eine Aufgabe des lokalen Teams.
-Einen Code of Conduct zu formulieren, steht schon lange auf der Agenda (Beispiel: https://2021.foss4g.org/about/coc.html).</li>
-		<li><b>Statistik und Teilnehmer:innenbefragung</b><br>
-Onlinebefragung für Konferenz und Workshops + Auswertung.</li>
-		<li><b>Hygienekonzept</b><br>
-Falls notwendig braucht es ein Umsetzungskonzept für die Veranstaltung vor Ort sowie Informationen an Teilnehmende im Vorfeld der Konferenz (Website, TN-Mail).</li>
-		<li><b>Bildungsurlaub</b><br>
-Die Konferenz als Bildungsurlaub zu bewerben, kann es für viele Arbeitnehmer:innen attraktiver machen. Es muss für alle Bundesländer ein Antrag gestellt werden. Im ersten Schritt die kostenfreien, bei entsprechendem Bedarf können auch die kostenpflichtigen beantragt werden.
-TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen möchten, es wird nach Bundesland gefragt. Am Ende muss es gegenüber dem genehmigenden Bundesland abgerechnet werden.</li>
-	</ul>
-	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>. Das Konferenzteam organisiert sich über ein internes Ticketsystem sowie regelmäßige Abstimmungstreffen.</p>
-
-	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfen.fossgis.de/">-->Helfer:innensystem</a> gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
-
-<h3 ID="HelfenvorOrt" name="HelfenvorOrt">Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
+	
+	<h3 ID="HelfenvorOrt" name="HelfenvorOrt">Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
 	<p>Helfer:innenarten.</p>
 	
 	<ul>
@@ -144,8 +104,8 @@ Der Welcome Desk ist die Servicestelle für alle Teilnehmer:innen. Eine detailli
 				<li>Desinfektion im Raum nach Hygienekonzept</li>
 			</ul>-->	
 		</li>
-		<li><b>Catering</b> (freiwillig oder bezahlt)<br>
-Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von einem Caterer erledigt. Helfer:innen untersützen den Caterer bei Bedarf bei diversen Aufgaben während der Veranstaltung.
+		<li><b>Catering</b> (bezahlt oder freiwillig)<br>
+Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von einem Caterer erledigt. Helfer:innen untersützen den Caterer bei diversen Aufgaben während der Veranstaltung.
 <!--		<ul><i>Aufgaben:</i>
 				<li>Lieferungen entgegennehmen</li>
 				<li>Getränke vom Lager holen und ausreichend bereit halten</li>
@@ -159,13 +119,68 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		Am Dienstag, den 25.03.2025 wird ab 13 Uhr aufgebaut, jede Hilfe ist willkommen. Treffpunkt im Schlossfoyer. <br>Der Abbau startet nach dem Sektempfang am Freitag, den 28.03.2025 und wird am 29.03. fortgesetzt.
 		
 	</ul>
+	
+	
+		<ul>
+		<h3>Schritte, die zu tun sind, um Vor-Ort-Helfer:in zu werden</h3>
+		<li>Diese Seite gelesen haben.</li> 
+		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
+		<li>Mail ans Orgateam schreiben, um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten.</li>
+		<li>Registierung im Helfer:innensystem ab Dezember 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
+		
+		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2025</i></a> beitreten. </li>
+		<li>Bei Fragen einfach fragen.</li>
+		</ul>
+
+	<h3>Wo kannst Du bei der Vorbereitung und Organisation der Konferenz unterstützen?</h3>
+		
+	<ul>
+		<li><b>Programmkomitee</b><br>
+Call for Participation formulieren, Einreichungen reviewen, Programm gestalten, bei Umsetzung des Programms unterstützen.<br>
+<!--Das Programmkomitee FOSSGIS 2025 trifft sich am 02.09.2024 in einem <a href="https://fossgis.de/aktivit%C3%A4ten/termine/">Online-Treffen</a>. --></li>
+		<li><b>Presse- und Öffentlichkeitsarbeit</b><br>
+Pressetexte schreiben, Konferenz bekannter machen, raus aus der Blase, neue Menschen erreichen. Teilnehmende informieren.</li>
+		<li><b>Helfer:innenkoordination</b><br>
+Engelsystem, Überblick, Helfer:innen anwerben, Jobbeschreibungen, Job-Schichten koordinieren - genau das hier ^ gut zu organisieren ;-)</li>
+		<li><b>Technische Umsetzung</b><br>
+Unterstützung der technischen Umsetzung der Konferenz in Zusammenarbeit mit dem VOC (Videoteam), bspw. für Online-Vorträge vorab aufgezeichnete Vorträge einsammeln und zur Verfügung stellen, Mails aus Pretalx versenden, Videoaufzeichnung während der Konferenz unterstützen.</li>
+		<li><b>Workshoporganisation</b><br>
+Online oder Vor-Ort-Workshop, was braucht es für die gute Umsetzung, Kommunikation mit Workshopleiter:innen, Information der TN.</li>
+		<li><b>Rahmenprogramm</li>
+			<ul>
+			<li>OpenStreetMap-Event</b><br>
+organisieren (Unconference, Mappingevent...) und moderieren.</li>
+			<li><b>Community-Sprint</b><br>
+			Vorbereiten und Umsetzen.</li>
+			</ul>
+		<li><b>Programmheft</b><br>
+Programm als gedruckte Ausgabe im Format A6 für die TN.</li>
+		<li><b>Teilnehmer:innenbetreuung/ Welcome Desk</b><br>
+Im Arbeitspaket Teilnehmer:innenbetreuung stecken mehrere Aufgaben.
+Die Informationen zur Konferenz im Vorfeld so aufbereiten, dass es für die TN übersichtlich und nachvollziehbar ist (Website, TN-Mail).
+Welcome Desk organisieren ist in erster Linie eine Aufgabe des lokalen Teams.
+Einen Code of Conduct zu formulieren, steht schon lange auf der Agenda (Beispiel: https://2021.foss4g.org/about/coc.html).</li>
+		<li><b>Statistik und Teilnehmer:innenbefragung</b><br>
+Onlinebefragung für Konferenz und Workshops + Auswertung.</li>
+		<li><b>Hygienekonzept</b><br>
+Falls notwendig braucht es ein Umsetzungskonzept für die Veranstaltung vor Ort sowie Informationen an Teilnehmende im Vorfeld der Konferenz (Website, TN-Mail).</li>
+		<li><b>Bildungszeit</b><br>
+Die Konferenz als Bildungszeit zu bewerben, kann es für viele Arbeitnehmer:innen attraktiver machen. Es muss für alle Bundesländer ein Antrag gestellt werden. Im ersten Schritt die kostenfreien, bei entsprechendem Bedarf können auch die kostenpflichtigen beantragt werden.
+TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen möchten, es wird nach Bundesland gefragt. Am Ende muss es gegenüber dem genehmigenden Bundesland abgerechnet werden.</li>
+	</ul>
+	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>. Das Konferenzteam organisiert sich über ein internes Ticketsystem sowie regelmäßige Abstimmungstreffen.</p>
+
+	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfen.fossgis.de/">-->Helfer:innensystem</a> gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
+
+
 
 	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite gelesen haben.</li> 
-		<li>An einem Beratungstermin für Helfende teilnehmen.</li>
+		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
 		<li>Mail ans Orgateam schreiben, um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten.</li>
-		<li>Registierung im Helfer:innensystem ab Herbst/Winter 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
+		<li>Registierung im Helfer:innensystem ab Dezember 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
 		
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
 		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2025</i></a> beitreten. </li>

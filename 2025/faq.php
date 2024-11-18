@@ -152,7 +152,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		Wenn Sie die Konferenz unterstützen wollen oder eine gute Idee mitbringen, wenden Sie sich gern per E-Mail an das <a href="mailto:konferenz-orga@fossgis.de?subject=Medienpartner">Konferenzorgateam</a>.</li>
 		</ul>
 
-	<h3>Helfen</h3>
+	<h3 id="Helfen" name="Helfen" >Helfen</h3>
 		<ul>
 		<li><b>Ich möchte bei der Veranstaltung helfen.</b><br>
 		Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="../2025/helfen/">Konferenzhomepage/helfen</a>.</li>
@@ -175,7 +175,7 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklär
 		<li><b>Ich bin ein Tag vor Beginn bereits vor Ort oder bleibe länger. Gibt es Aufbau und Abbauschichten?</b><br>
 		Ja. Der Aufbau beginnt am Dienstag vor der Konferenz ab 13 Uhr, der Abbau wird am Freitagnachmittag nach dem Sektempfang starten.</li>
 		<!--<li><b>Ich bin Studierende und habe gelesen, dass ich kostenlos ein Workshop besuchen kann. Was muss ich machen?</b><br>
-		Einen Account im Helfersystem haben und sechs Stunden arbeiten. Du kommst zum Helfer-Stand und die Schichtkoordination kann einen Workshop für dich buchen. Der Workshop sollte von weniger als 10 bzw.15 zahlungspflichtigen Teilnehmenden gebucht worden sein. Wenn du dich für ein Workshop am Tag 1 interessierst, frage per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a>.</li>
+		Einen Account im Helfersystem haben und 10 Stunden arbeiten. Du kommst zum Helfer-Stand und die Schichtkoordination kann einen Workshop für dich buchen. Der Workshop sollte von weniger als 10 bzw.15 zahlungspflichtigen Teilnehmenden gebucht worden sein. Wenn du dich für ein Workshop am Tag 1 interessierst, frage per E-Mail an <a href="mailto:helfer@fossgis.de?">helfer@fossgis.de</a>.</li>
 		<li><b>Wo bekomme ich mein Helfer T-Shirt?</b><br>
 		Am Welcome-Desk bei der Anmeldung. Sag einfach, dass du Helfer:in bist und welche Größe Du bestellt hast.</li>
 		</ul> -->
