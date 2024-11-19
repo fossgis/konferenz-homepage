@@ -112,16 +112,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/104_NRW-Mobidrom.php" target="_blank">
 			<img src="./img/s/104_Mobidrom_Logo.png" alt="NRW.Mobidrom">
 			</a>
-			</li>	
+			</li>	-->
 			</ul>
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 			<ul class="tiles">
-			<li class="tile silver">
-			<a href="sponsor/201_HBT.php" target="_blank">
-			<img src="./img/s/201_HBT.png" alt="HBT">
+						<li class="tile bronze">
+			<a href="sponsor/412_CONET-ISB.php" target="_blank">
+			<img src="./img/s/412_ISB_CONET.jpg" alt="CONET ISB GmbH">
 			</a>
-			</li> -->
+			</li>
 	
 			</ul>
 			
@@ -184,22 +184,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</li>			
 			<!--
 			
-			<li class="tile bronze">
-			<a href="sponsor/405_CONET-ISB.php" target="_blank">
-			<img src="./img/s/405_ISB_CONET.jpg" alt="CONET ISB GmbH">
-			</a>
-			</li>
-
-			<li class="tile bronze">
-			<a href="sponsor/410_geoSYS.php" target="_blank">
-			<img src="./img/s/410_geoSYS_logo.png" alt="geoSYS">
-			</a>
-			</li>
-			<li class="tile bronze">
-			<a href="sponsor/408_latlon.php" target="_blank">
-			<img src="./img/s/408_logo_latlon_web.png" alt="latlon">
-			</a>
-			</li>
 			<li class="tile bronze">
 			<a href="sponsor/409_sourcepole.php" target="_blank">
 			<img src="./img/s/409_sp_fossgis_2023.png" alt="sourcepole">
