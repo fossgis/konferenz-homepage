@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/412_ISB_CONET.jpg" 
+			<img src="./img/s/201_ISB_CONET.jpg" 
 				class="sponsor-logo" 
 				alt="Firmenlogo">
 			

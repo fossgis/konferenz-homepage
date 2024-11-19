@@ -165,7 +165,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 				<!--Wenn Sie noch kein Ticket haben, erhalten Sie einen Gutscheincode für ein kostenfreies Helfer:innenticket. 
 				<!--Falls Sie noch keinen Code erhalten haben, wenden Sie sich per <a href="mailto:helfer@fossgis.de?subject=Gutscheincode_Helferticket">E-Mail an das Helferteam</a>.--></li>
 		<li><b>Was wäre mein Job als Helfer:in?</b><br>
-		Wir benötigen Helfer:innen für Videoaufzeichnung, Sessionleitung, beim Catering sowie beim Auf- und Abbau. Genaue Beschreibungen der Aufgaben werden im Helfersystem zu finden sein. Das Konferenzorgateam wird zeitnah zur Konferenz Helfer:inneninformationstermine anbieten.
+		Wir benötigen Helfer:innen für Videoaufzeichnung, Sessionleitung, beim Catering sowie beim Auf- und Abbau. Genaue Beschreibungen der Aufgaben sind im Helfersystem zu finden. Das Konferenzorgateam bietet im Februar und März 2025 , zeitnah zur Konferenz Helfer:inneninformationstermine an.
 		<!--im <a href="https://helfer.fossgis.de">Helfersystem</a> zu finden.<br>
 Für Videohelfer:innen wird es am Tag 1 und am Tag 2 kurze Einweisungstreffen geben. Diese werden im <!--<a href="https://helfer.fossgis.de">Helfersystem</a> Helfersystem angekündigt. Ebenso wird es für Sessionleiter:innen ein oder mehrere Treffen geben.<br>
 Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklären.<br> </li>
