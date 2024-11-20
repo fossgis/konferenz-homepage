@@ -31,10 +31,10 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>camptocamp</h3>
 
-<p> weitere Inhalte folgen in Kürze</p>
-<!--					<p>Camptocamp gehört zu den führenden Dienstleistern im Bereich Open-Source-GIS und ist in vielen unterschiedlichen Open-Source-Communitys stark engagiert.</p>
-					<p>Unsere Dienstleistungen stützen sich auf 20 Jahre Erfahrung in der Umsetzung von innovativen GIS-Lösungen für Behörden und Unternehmen und erlauben einen hochwertigen und individuellen Service. Das Besondere an Camptocamp sind die hochqualifizierten Mitarbeiter und ihr großes Engagement im "Ökosystem" der eingesetzten Open-Source Software-Lösungen, indem sehr enge Beziehungen zu den Herstellern der jeweiligen Produkte gepflegt werden.</p>
-					<p>Um die oft anspruchsvollen Projekte umzusetzen, erstellt Camptocamp individuelle Lösungen, die auf den am besten geeigneten und fortschrittlichsten Open Source-Technologien basieren. Camptcamp ist in München, Lausanne, Olten, Paris und Chambéry vertreten und bietet neben Lösungen im <a href="https://www.camptocamp.com/de/geospatial_solutions">GIS-Bereich</a> auch eine große Expertise im den Bereichen <a href="https://www.camptocamp.com/de/odoo-erp-integration">ERP</a> (Enterprise-Resource-Planning) und <a href="https://www.camptocamp.com/de/infrastructure_solutions_and_services">IT-Infrastruktur-Lösungen</a>.</p>-->
+<p>Camptocamp gehört zu den führenden Dienstleistern im Bereich Open Source GIS mit starkem Engagement in den unterschiedlichen Communities.<br>
+Unsere Dienstleistungen stützen sich auf über 20 Jahre Erfahrung in der Umsetzung von innovativen GIS-Lösungen für Behörden und Unternehmen. Unser Leitmotiv ist ein hochwertiger, auf die Anforderungen des Kunden zugeschnittener Service. Das Besondere an Camptocamp sind die hochqualifizierten Mitarbeitenden und ihr grosses Engagement im Ökosystem Open Source GIS. Camptocamp ist Initiator und Hauptbeitragender der Open Source Projekte GeoServer-Cloud, GeoNetwork-UI und MapFish-Print. Für die oft anspruchsvollen Projekte unserer Kunden entwickeln wir massgeschneiderte Lösungen auf Basis modernster Open-Source-Technologien.</p>
+<p>Camptocamp ist in München, Bussigny, Olten, Chambéry und Paris vertreten. Neben Lösungen im <a href="https://www.camptocamp.com/de/geospatial_solutions">GIS-Bereich</a> bieten wir auch eine grosse Expertise in den Bereichen <a href="https://www.camptocamp.com/de/odoo-erp-integration">ERP</a> Enterprise-Resource-Planning und <a href="https://www.camptocamp.com/de/infrastructure_solutions_and_services">IT-Infrastruktur</a>.</p>
+
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
