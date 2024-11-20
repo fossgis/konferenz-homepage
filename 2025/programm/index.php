@@ -75,6 +75,12 @@
 	<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
 	Hier ist der <a href="https://fossgis-konferenz.de/2025/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.<br> Danke an alle, die beim Community Voting mitgemacht haben. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.</p>
 <p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2024 hier veröffentlicht.</p>
+
+	<h3>Programmübersicht</h3>
+	
+	<p>Die Programmübersicht soll einen Überblick zum Programm der FOSSGIS 2025 geben. 
+	<img src="./img/Zeitplan_FOSSGIS-Konferenz_2025.png" width="900px" alt="Programmübersicht" style="margin-rigth: 500px" align="rigth">
+	</p>
 		
 	<?php include "../inc/footer.inc"; ?>
 
