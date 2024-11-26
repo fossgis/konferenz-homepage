@@ -20,19 +20,19 @@
 	<p>Die FOSSGIS-Konferenz lebt vom Engagement und Beiträgen aus der Community. Das Rahmenprogramm zur FOSSGIS 2025 bietet neben dem regulären Vortrags- und Workshopprogramm eine interessante Bereicherung für unsere Teilnehmenden.</p> 
 
 	<h4 id="Anwendertreffen" name="Anwendertreffen">Anwendertreffen</h4>
-	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden. Räume stehen zur Verfügung, bitte bis 05.11.2024 einreichen, wenn es im Programm veröffentlicht werden soll. </p>
-	
+	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden. Bei Interesse bitte per <a href="mailto:programm@fossgis.de"> E-Mail</a> an das Programmkomitee schreiben. </p>
+
 <!--	<h4>Geochicas laden ein</h4>
 	<p>Am Dienstag dem 19. März 2024 von 18-20 Uhr treffen sich die Geochicas <del>im <a href="http://www.cafe-oktober.de/"> Café Oktober</a> Schlossmühlendamm 23, 21073 Hamburg</del><br>
 	im <a href="https://www.panthera-rodizio.de/restaurant-harburg">Panthera Rodizio</a>, Laemmertwiete 5-7, 21073 Hamburg, wo eine Reservierung angefragt ist, stay tuned;-)<br>
 	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
 	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
 Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
-	Die Geochicas sind neugierig und freuen sich auf dich.</p>	
+	Die Geochicas sind neugierig und freuen sich auf dich.</p>-->	
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 19. März 2024 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://www.caspari-harburg.de/die-laemmerlounge"> Lämmerlounge</a> im Restaurant Caspari im Altstadtviertel in Harburg, Lämmertwiete 6-10, 21073 Hamburg. Jeder bezahlt seine Rechnung selbst.</p>-->
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kultur.de/locations/frauenstrasse-24/">Kulturkneipe</a> in der Frauenstraße 24, 48143 Münster. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 26. März 2025</h3>
 
@@ -40,7 +40,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
 Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. 
 	<ul>
-	<li>Ort: voraussichtlich Schlossgartencafé Münster
+	<li>Ort: Schlossgartencafé Münster
 	<li>Adresse: Schlossgarten 4, 48149 Münster</li>
 	<li>Zeit: 18:30/19 Uhr</li>
  	<li>Angebot: Buffet und Getränke</li>
@@ -60,9 +60,6 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 
 	<h3>Freitag, 28. März 2025</h3>
 	
-<!--	<h4 id="Jeopardy-Quiz" name="Jeopardy-Quiz">Jeopardy-Quiz</h4>
-	<p>Am Freitag, den 22. März gibt es vor dem Abschluss des regulären Konferenzprogramms das nunmehr legendäre und sehr humorvolle Quiz in Form des FOSSGIS-Jeopardy mit Hannes. Informationen zum generellen Ablauf sowie zur Anmeldung <a href="https://hannes.enjoys.it/blog/fossgis-jeopardy-2024/">hier in Hannes's Blog</a>.	-->
-
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:30 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2025 am FOSSGIS-Vereins-Stand eingeladen.</p>
 

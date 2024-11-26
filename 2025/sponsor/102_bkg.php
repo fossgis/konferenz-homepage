@@ -31,14 +31,12 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Bundesamt für Kartographie und Geodäsie (BKG)</h3>
 
-					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des
-Innern und für Heimat (BMI). Es fungiert als zentraler Dienstleister des Bundes und Kompetenzzentrum für Geoinformation und geodätische Referenzsysteme. Das BKG befasst sich mit der Beobachtung sowie der Datenhaltung bis hin zur Analyse, Kombination und Bereitstellung von Geodaten. Das BKG ermöglicht aufgrund der zentralen Geodatenbereitstellung eine optimale und wirtschaftliche Geodatennutzung im Bundesbereich.</p>
+					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des Innern und für Heimat (BMI). Es fungiert als zentraler Geodienstleister des Bundes. Zu den Aktivitäten des BKG gehören die Erfassung, Analyse, Kombination und Bereitstellung von Geodaten. Die Entwicklung und Verbreitung freier Software liegt ebenfalls im Aufgabenbereich des BKG.</p>
 
-					<p>Das BKG setzt sich für eine offene Datenpolitik ein, wodurch die Verbreitung
-von Open Data gefördert wird. Dies schließt die Beratung anderer Bundesbehörden beim Umgang mit OSM-Daten ein. Die Entwicklung, Verbreitung und Nutzung freier Software liegen ebenfalls im Bereich der Aktivitäten. </p>
+					<p>Die Daten des BKG nutzen insbesondere Bundeseinrichtungen, die öffentliche Verwaltung, Wirtschaft und Wissenschaft. Doch von der Arbeit des BKG profitiert jeder Bürger in Deutschland. Ohne den Einsatz von Radioteleskopen, die das BKG weltweit betreibt, wäre eine Nutzung von Navigationsgeräten oder Kartenapps zur Navigation nicht möglich. Experten aus verschiedenen Bereichen wie beispielsweise Katastrophenvorsorge, Innere Sicherheit oder Umwelt verwenden die Daten des BKG für ihre Arbeit. </p>
 
-					<p>Die Daten des BKG nutzen insbesondere Bundeseinrichtungen, die öffentliche
-Verwaltung, Wirtschaft und Wissenschaft. Doch von der Arbeit des BKG profitiert jeder Bürger in Deutschland. Ohne den Einsatz von Radioteleskopen, die das BKG weltweit betreibt, wäre eine Nutzung von Navigationsgeräten oder Kartenapps zur Navigation nicht möglich. Experten aus verschiedenen Bereichen wie beispielsweise Verkehr, Katastrophenvorsorge, Innere Sicherheit oder Umwelt verwenden die Daten des BKG für ihre Arbeit. Das BKG ist in Frankfurt am Main beheimatet und unterhält eine Außenstelle in Leipzig sowie geodätische Observatorien im In- und Ausland.</p>
+					<p>Das BKG setzt sich für eine offene Datenpolitik ein, wodurch die Verbreitung von Open Data gefördert wird. Dies schließt die Beratung anderer Bundesbehörden beim Umgang mit OSM-Daten ein.
+Das BKG ist in Frankfurt am Main beheimatet und unterhält eine Außenstelle in Leipzig sowie geodätische Observatorien im In- und Ausland.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
