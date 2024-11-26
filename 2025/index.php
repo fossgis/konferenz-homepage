@@ -181,7 +181,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/411_latlon.php" target="_blank">
 			<img src="./img/s/411_logo_latlon_web.png" alt="latlon">
 			</a>
-			</li>			
+			</li>				
+			<li class="tile bronze">
+			<a href="sponsor/412_TomTom.php" target="_blank">
+			<img src="./img/s/412_TomTom.png" alt="TomTom Global Content BV">
+			</a>
+			</li>		
 			<!--
 			
 			<li class="tile bronze">
@@ -200,11 +205,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/413_indiscale.png" alt="indiscale">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/414_TomTom.php" target="_blank">
-			<img src="./img/s/414_TomTom.png" alt="TomTom North America Inc">
-			</a>
-			</li>
+
 			<li class="tile bronze">
 			<a href="sponsor/415_gkg.php" target="_blank">
 			<img src="./img/s/415_gkg_logo.png" alt="gkg">
