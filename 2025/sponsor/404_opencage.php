@@ -59,7 +59,7 @@
 			<a href="https://github.com/OpenCageData/" target="_blank"><i class="fab fa-github"></i></a>
 			</li>
 			<li>
-			<a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g/" target="_blank"><i class="fab fa-youtube"></i></a>
+			<a href="https://www.youtube.com/@OpenCageGeocoding" target="_blank"><i class="fab fa-youtube"></i></a>
 			</li>
 			<li>
 			<a href="https://en.osm.town/@opencage" target="_blank"><i class="fab fa-mastodon"></i></a>
