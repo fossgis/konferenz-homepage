@@ -51,9 +51,9 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<ul>
 			<li><b>Rheinland-Pfalz</b> - <a href="data/Anerkennung_Rheinland-Pfalz_bis_19032026.pdf">Download Anerkennungsbescheid</a>, Teilnahmebestätigung nach der Konferenz in Ihrer Bestellung downloadbar.
 			</li>
-<!--			<li><b>Niedersachsen</b> - <a href="data/Anerkennungsbescheid_Niedersachsen.pdf">Download Anerkennungsbescheid, <a href="data/Teilnahmebestaetigung T_Niedersachsen.pdf">Vorlage Teilnahmebestätigung</a>
+			<li><b>Niedersachsen</b> - <a href="data/Anerkennung_Bildungzeit_FOSSGIS2025_Niedersachsen.pdf">Download Anerkennungsbescheid, <a href="data/Teilnahmebestaetigung_Bildungszeit_Niedersachsen.pdf">Vorlage Teilnahmebestätigung</a>
 			</li>
-			<li><b>Sachsen-Anhalt</b> - <a href="data/Anerkennungsbescheid_Sachsen-Anhalt_.pdf">Download Anerkennungsbescheid</a>
+<!--			<li><b>Sachsen-Anhalt</b> - <a href="data/Anerkennungsbescheid_Sachsen-Anhalt_.pdf">Download Anerkennungsbescheid</a>
 			</li>			
 			<li><b>Hamburg</b> - <a href="data/Anerkennung_Hamburg_FOSSGIS_fuer3Jahre.pdf">Download Anerkennungsbescheid</a>, <a href="data/Anmeldebestätigung_Hamburg.pdf">Download Anmeldeformular</a></li>
 			<li><b>Brandenburg</b> - <a href="data/Anschreiben_Anerkennung_BRB.pdf">Download Anerkennungsbescheid, </a>, <a href="data/Anmeldebestaetigung_BRB.pdf">Download Anmeldebestätigung </a>, <a href="data/Teilnahmebescheinigung_BRB.pdf">Download Teilnahmebescheinigung </a>
@@ -70,7 +70,6 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<li><b>Rheinland-Pfalz</b></li>		
 			<li><b>Thüringen</b></li>
 			<li><b>Sachsen-Anhalt</b></li>				
-			<li><b>Niedersachsen</b></li>
 			<li><b>Schleswig-Holstein</b></li>
 			<li><b>Hamburg</b></li>
 			<li><b>Brandenburg</b></li>
@@ -78,7 +77,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			</ul>
 
 			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
-<p>Folgende Bundesländer haben die FOSSGIS-Konferenz leider nicht als Bildungszeit anerkannt, von einem erbeuten Antrag wird abgesehen:</p>
+<p>Folgende Bundesländer haben die FOSSGIS-Konferenz leider nicht als Bildungszeit anerkannt, von einem erneuten Antrag wird abgesehen:</p>
 			<ul>
 			<li><b>Bremen</b> </li>	
 			<li><b>Saarland</b></li>
