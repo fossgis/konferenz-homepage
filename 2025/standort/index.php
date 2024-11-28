@@ -50,7 +50,8 @@
              <li>"Hüfferstiftung" mit den Buslinien 11, 12, 22 und auch noch der Buslinie 14.</li>
              <li>"Neutor" mit den Buslinien 1 (bzw. "Schlossplatz"), 5 und 9.</li>
           </ul>
-        <p>Hilfreiche Infos liefert auch der <a href="https://www.bahn.de/" target="_blank">Planer der Deutschen Bahn</a> und der <a href="https://www.netzplan-muenster.de/" target="_blank">interaktive Netzplan der Stadtwerke Münster</a></p>
+        <p>Hilfreiche Infos liefert auch der <a href="https://www.bahn.de/" target="_blank">Planer der Deutschen Bahn</a> und der <a href="https://www.netzplan-muenster.de/" target="_blank">interaktive Netzplan der Stadtwerke Münster</a><br>
+        Nutzen Sie auch gerne die <a href="https://www.stadtwerke-muenster.de/muenster-app" target="_blank">kostenfreie Münster App</a>.</p>
                
         <h4>Anreise mit dem Auto</h4>
         <p>Von einer Anreise mit dem Auto raten wir aufgrund fehlender Parkmöglichkeiten am Schloss Münster zur Zeit der Konferenz ab.</p>

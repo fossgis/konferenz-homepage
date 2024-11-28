@@ -39,13 +39,11 @@
 	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>-->
 	
 	<h3 ID="HelfenvorOrt" name="HelfenvorOrt">Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
-	<p>Helfer:innenarten.</p>
-	
 	<ul>
 		<li><b>Freiwillig Helfende </b>(ab 10 h helfen gibt es ein kostenfreies Helfer:innenticket)<br>
 Die Konferenz wird vorwiegend durch ehrenamtliches Engagement getragen.</li>
 		<li><b>Bezahlt Helfende </b>(Aufwandsentschädigung über FOSSGIS e.V.)<br>
-Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget für Aufwandsentschädigungen bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen und müssen sich dafür anmelden. Das Orgateam behält sich vor die Aufgaben zuzuweisen.</li>
+Für Aufgaben, die während der Umsetzung unbedingt gemacht werden müssen, steht ein Budget für Aufwandsentschädigungen bereit. Meist werden dafür Studierende an der jeweiligen Hochschule einbezogen und müssen sich per Mail beim Orgateam melden. Das Orgateam behält sich vor die Aufgaben zuzuweisen.</li>
 	</ul><h4>Helfen vor Ort</h4>
 	<ul>
 		<li><b>Sessionleitung</b> (freiwillig)<br>
