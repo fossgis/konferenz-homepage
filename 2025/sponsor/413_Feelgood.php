@@ -46,25 +46,19 @@
 
 										
 					<div class="social-icon">
-<!--						<h6 class="font-weight-bold mb-0">Social</h6>
-						<ul>
-							<li>
-								<a href="https://mastodon.online/" target="_blank"><i class="fab fa-mastodon"></i></a>
-							</li>
-<li>
-								<a href="https://twitter.com/"  target="_blank"><i class="fab fa-x-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://www.linkedin.com//" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-							</li>
-							<li>
-								<a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a>
-							</li>
-							<li>
-			<a href="https://www.xing.com/" target="_blank"><i class="fab fa-xing"></i></a>
-			</li>
-						</ul>
-					</div>-->
+					<h6 class="font-weight-bold mb-0">Social</h6>
+					<ul>
+					<li>
+					<a href="https://www.facebook.com/FeelGoodGeosolutions"  target="_blank"><i class="fab fa-facebook"></i></a>
+					</li>
+					<li>
+					<a href="https://www.instagram.com/feelgoodgeosolutions/" target="_blank"><i class="fab fa-instagram"></i></a>
+					</li>
+					<li>
+					<a href="https://www.linkedin.com/company/feelgood-geosolutions-gmbh/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+					</li>
+							
+					</div>
 				</div>	
 
 			</div>
