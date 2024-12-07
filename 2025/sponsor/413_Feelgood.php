@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2025 - Feelgood Geosolutions GmbH</title>
+	<title>FOSSGIS 2025 - FeelGood GeoSolutions GmbH</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -23,9 +23,11 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/413_FeelGood_logo.svg" 
+			<img src="./img/s/413_FeelGood_logo.png" 
 				class="sponsor-logo" 
-				alt="Firmenlogo">
+				alt="Firmenlogo"
+				width="300" height="100">
+
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
