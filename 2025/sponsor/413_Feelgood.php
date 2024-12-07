@@ -29,7 +29,7 @@
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>Feelgood Geosolutions GmbH</h3>
+					<h3>FeelGood GeoSsolutions GmbH</h3>
 
 					<p>Firmenbeschreibung folgt in Kürze					</p>
 				</div>
