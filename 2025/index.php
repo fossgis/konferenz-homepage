@@ -186,7 +186,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/412_TomTom.php" target="_blank">
 			<img src="./img/s/412_TomTom.png" alt="TomTom Global Content BV">
 			</a>
-			</li>		
+			</li>	
+			<li class="tile bronze">
+			<a href="sponsor/413_Feelgood.php" target="_blank">
+			<img src="./img/s/413_FeelGood_logo.png" alt="FeelGood">
+			</a>
+			</li>	
 			<!--
 			
 			<li class="tile bronze">
