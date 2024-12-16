@@ -117,9 +117,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 			<ul class="tiles">
-						<li class="tile bronze">
+			<li class="tile bronze">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
 			<img src="./img/s/201_ISB_CONET.jpg" alt="CONET ISB GmbH">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/202_EFTAS.php" target="_blank">
+			<img src="./img/s/202_EFTAS.png" alt="EFTAS">
 			</a>
 			</li>
 	
