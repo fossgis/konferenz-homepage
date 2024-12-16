@@ -191,6 +191,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/413_Feelgood.php" target="_blank">
 			<img src="./img/s/413_FeelGood_logo.png" alt="FeelGood">
 			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/414_geocockpit.php" target="_blank">
+			<img src="./img/s/414_YEY-Maps_Logo.png" alt="GeoCockpit UG">
+			</a>
 			</li>	
 			<!--
 			
@@ -287,11 +292,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						<img src="./img/s/414_logo_latlon_web.png" alt="latlon">
 						</a>
 					</li>
-					<li class="tile bronze">
-						<a href="sponsor/415_geocockpit.php" target="_blank">
-						<img src="./img/s/415_YEY-Maps_Logo.png" alt="GeoCockpit UG">
-						</a>
-					</li>-->
+-->
 
 
 
