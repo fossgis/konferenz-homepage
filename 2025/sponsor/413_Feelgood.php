@@ -46,7 +46,7 @@
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							Webseite:<br>
-						<a href="https://www.feelgoodgeosolutions.de/">
+						<a href="https://www.feelgoodgeosolutions.de/" target="_blank">
 							https://www.feelgoodgeosolutions.de/</a><br><br>
 
 							E-Mail: <br>

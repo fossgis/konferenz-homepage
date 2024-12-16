@@ -54,7 +54,7 @@ weltweit.
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
 							Webseite:<br>
-						<a href="https://www.eftas.com">
+						<a href="https://www.eftas.com" target="_blank">
 							https://www.eftas.com</a><br><br>
 
 							E-Mail: <br>

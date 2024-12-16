@@ -24,15 +24,18 @@
 		<div class="container">
 			
 			<img src="./img/s/414_YEY-Maps_Logo.png" 
-				class="sp-logo" 
+ 				class="sp-logo" 
 				alt="Firmenlogo">
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>GeoCockpit UG</h3>
+				<h3>GeoCockpit UG</h3>
 
-					<p>Wir entwickeln intelligente und flexible Werkzeuge für die optimale Organisation von Geodaten.</p>
-					<p>Im Mittelpunkt steht dabei unser Cloud GIS <a href="https://www.yeymaps.de/yeymapscloudgis-l%C3%B6sungen">yey'maps</a>, welches auf der Basis von <a href="https://openlayers.org/">Openlayers API</a>, der <a href="https://gdal.org/">GDAL-Library</a> und weiteren OpenSource-Komponenten entwickelt wurde.</p>
+				<p>Wir entwickeln intelligente und flexible Werkzeuge für die optimale Organisation von Geodaten.</p>
+ 
+				<p>Im Mittelpunkt steht dabei yey'maps, ein Online GIS für kleine Gemeinden, Wasserversorger und GIS-Experten.</p>
+ 				<p>Neben yey'maps bieten wir unter anderem auch einen ALKIS-Konverter für die Umsetzung von NAS-Dateien nach SQLite an.</p>
+
 					
 					
 				</div>
@@ -47,24 +50,25 @@
 
 							E-Mail: <br>
 							<a href="mailto:info@geocockpitug.de">info@geocockpitug.de</a><br></h6>
-					</div>
+				</div>
 
-						
-				
-					<div class="social-icon">
-						<h6 class="font-weight-bold mb-0">Social</h6>
-						<ul>
-							<li>
-								<a href="https://twitter.com/yeymaps_de"><i class="fab fa-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://www.xing.com/pages/geocockpitug"><i class="fab fa-xing"></i></a>
-							</li>
-							<li>
-								<a href="https://www.youtube.com/channel/UCM5XmKMxSh-uf1OrPbCzR_g"><i class="fab fa-youtube"></i></a>
-							</li>
-						</ul>
-					</div>
+				<div class="social-icon">
+				<h6 class="font-weight-bold mb-0">Social</h6>
+				<ul>
+				<li>
+				<a href="https://www.linkedin.com/company/geocockpit-yey-maps" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+				</li>
+				<li>
+				<a href="https://twitter.com/yeymaps_de"><i class="fab fa-twitter"></i></a>
+				</li>
+				<li>
+				<a href="https://www.xing.com/pages/geocockpitug"><i class="fab fa-xing"></i></a>
+				</li>
+				<li>
+				<a href="https://www.youtube.com/channel/UCM5XmKMxSh-uf1OrPbCzR_g"><i class="fab fa-youtube"></i></a>
+				</li>
+				</ul>
+				</div>
 				</div>	
 
 			</div>
