@@ -42,8 +42,7 @@
 <li>Bergbau & Georessourcen</li>
 </ul>
 <b>Unser Fokus:</b><br>
-Fernerkundung auf Basis von Luft- und Satellitenbildern, die großﬂächige Erfassung von In-
-situ-Daten & individuelle GeoIT-Anwendungen.<br><br>
+Fernerkundung auf Basis von Luft- und Satellitenbildern, die großﬂächige Erfassung von In-situ-Daten & individuelle GeoIT-Anwendungen.<br><br>
 <b>Unser Ziel:</b><br>
 Umweltrelevante Prozesse und Entscheidungen unterstützen & beschleunigen - und zwar
 weltweit.
@@ -67,7 +66,8 @@ weltweit.
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 						<li>
-						<a href="hXps://www.linkedin.com/company/eAas-fernerkundung-technologietransfer-gmbh/"><i class="fab fa-linkedin-in"></i></a>
+						<a href="
+https://www.linkedin.com/company/eftas-fernerkundung-technologietransfer-gmbh/"><i class="fab fa-linkedin-in"></i></a>
 						</li>
 						</ul>
 					</div>
