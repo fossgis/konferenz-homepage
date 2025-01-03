@@ -26,9 +26,7 @@
 	<p>Wir laden Sie ein, Teil der FOSSGIS-Konferenz zu werden. Die Konferenz lebt von Ihren Beiträgen und Ihrem Besuch. Wir freuen uns auf Sie! </p>
 
 	<p>Vom 26.-29. März 2025 findet die FOSSGIS-Konferenz als Präsenzveranstaltung im Schloss Münster statt.</p>
-	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops, Bildungsurlaub sowie ab Anfang Januar das Anmeldeformular. <br>Eine erste Programmversion wird Mitte Ende Dezember 2024 veröffentlicht. 
-	<!--ist <a href="https://fossgis-konferenz.de/2024/programm/">hier</a> veröffentlicht.-->
-	</p>
+	<p>Im Folgenden finden Sie Informationen zur Teilnahme, zu den Workshops, Bildungsurlaub sowie ab Anfang Januar das Anmeldeformular. Das Programmversion ist <a href="https://fossgis-konferenz.de/2025/programm/">hier</a> veröffentlicht.</p>
 		
 <!--	<p class="highlight">
 		&darr; <a href="https://pretix.eu/fossgis/2024/">Direkt zur Anmeldung</a>
