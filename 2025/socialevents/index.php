@@ -29,10 +29,24 @@
 	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
 Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
 	Die Geochicas sind neugierig und freuen sich auf dich.</p>-->	
+	
+	<h4 id="Hackathon" name="Hackathon">Hackathon #ifgiHACK25</h3>
+	<p>Am Montag und Dienstag findet im Vorfeld der FOSSGIS 2025 jeweils von 10-18 Uhr der Hackathon #ifgiHACK25 in den Räumen des ifgi (Institut für Geoinformatik Münster, Heisenbergstraße 2, 48149 Münster) statt.<br>
+Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen, globalen oder das Studium betreffenden Herausforderungen zu entwickeln. Eine Anmeldung ist erforderlich. Ein Link zu mehr Informationen folgt. 
+<!--   [Hier](Link Unterseite folgt] für mehr Infos weiterlesen...--> </p>
+
+	<h4 id="Stadtrundgang" name="Stadtrundgang">Geographischer Stadtrundgang</h3>
+	<p>Für schon am Dienstag Angereiste Teilnehmende.
+	<ul><li>Termin: Dienstag, 25.03.2025, 16:30 Uhr</li>
+	<li>Treffpunkt: Überwasserkirchplatz, südlich der Kirche</li>
+	<li>Betreuung: Christoph Friedrich</li>
+	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
+	<li>Am Nachmittag vor der Konferenz bietet ein Stadtrundgang Gelegenheit, den Konferenzort Münster mit einer kleinen Führung GEHographisch kennenzulernen. Treffpunkt ist um 16:30 Uhr auf dem Überwasserkirchplatz, südlich der Kirche. Wir queren die Aa, gehen über den Domplatz zum Historischen Rathaus und von dort den Prinzipalmarkt hoch bis zur Lambertikirche mit Wiedertäuferkäfigen und Drubbel.. Anschließend schlendern wir die Salzstraße entlang bis zum imposanten Erbdrostenhof, wo die Führung gegen 18/18:30 Uhr endet. Es besteht die Möglichkeit, von dort gemeinsam in Richtung Ausgangspunkt zurückzugehen, der sich ganz in der Nähe der Kulturkneipe F24 befindet. </li></ul></p>
+	
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kultur.de/locations/frauenstrasse-24/">Kulturkneipe</a> in der Frauenstraße 24, 48143 Münster. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kultur.de/locations/frauenstrasse-24/">Kulturkneipe F24</a> in der Frauenstraße 24, 48143 Münster. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 26. März 2025</h3>
 
@@ -75,7 +89,13 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<h4 id="CommunitySprint" name="CommunitySprint">Community Sprint (neu)</h4>
 	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet.</p>
 
+	<h4 id=historischerStadtrundgang" name="historischerStadtrundgang">Archäologisch historischer Stadtrundgang</h4>
 
+	<ul><li>Termin: Samstag, 29.03.2025, 14:00 Uhr</li>
+	<li>Treffpunkt: Domplatz</li>
+	<li>Betreuung: Jan Markus</li>
+	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
+	<li>Vom Domplatz geht es zur Überwasserkirche (dort eine Ausgrabung wegen Fernwärmebau, besonders interessantes Siedlungsgebiet) und weiter zur Jüdefelderstraße. Über den Buddenturm und Zwinger zum Mauritztor von dort aus über den alten Fischmarkt zum Prinzipalmarkt. Auf dem Rundgang werden abgeschlossene und aktuelle Ausgrabungsstellen sowie archäologisches Arbeiten (Vermessungsdaten, Planerstellung, Datenablage etc.) im städtischen Raum vorgestellt.</li></ul></p>
 	
 	<?php include "../inc/footer.inc"; ?>
 

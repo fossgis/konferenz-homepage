@@ -43,7 +43,7 @@
 		<li>Workshop**: 130 €</i>
 		<li>Onlinekonferenzticket: 100 €</i>
 		<li>Onlinekonferenzticket - reduzierter Preis*: 30 €</i>
-		<li>Onlinekonferenzticket - kostenfrei***: 0 €</i>
+		<li>Onlinekonferenzticket - Community (OpenStreetMap und FOSSGIS)***: 0 €</i>
 		<li>OSM-Samstag: kostenfrei</li>
 		<li>Community-Sprint am Samstag: kostenfrei</li>
 		  		

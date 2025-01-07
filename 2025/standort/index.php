@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2025 - Standort</title>
+	<title>FOSSGIS 2025 - Standort, Anreise und Übernachtung</title>
 	<!--<title>FOSSGIS 2025 - Standort, Anreise und Übernachtung</title>-->
 
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -36,12 +36,12 @@
 	
 	<p>Den Welcome Desk finden Sie im Schloss-Foyer, welches durch ein beheizbares Zelt erweitert wird, um Raum für die Pausenversorgung und Firmen- und Projekteausstellung zu schaffen.</p>
 
-       <h3>Anreise</h3>
-                
-        <h4>Anreise mit öffentlichen Verkehrsmitteln</h4>
-         
-        <p>Es empfiehlt sich den ÖPNV zu nutzen, Tickets werden voraussichtlich kostenlos für die Dauer der Konferenz zur Verfügung gestellt.</p>
-        <p>Oder Sie mischen sich per Rad (Leeze) unter die Münsteraner und fahren zum Schloss. Am Hauptabhnhof Münster befindet sich die <a href="https://www.radstation.de/de/mieten/4_2.html" target="_blank">Fahrradverleihstation</a>. Weitere Anbieter sind <a href="https://www.stadt-muenster.de/tourismus/fahrradstadt/fahrradverleih">hier</a> zu finden.
+       <h3>Anreise mit öffentlichen Verkehrsmitteln</h3>
+        
+        <p><a href="https://www.veranstaltungsticket-bahn.de:443/?event=25170&amp;language=de" style=" width: 300px; height: 40px; display: inline-block; position: relative; text-decoration: none; cursor: pointer; margin: 0; padding: 0; zoom: 1;" target="_blank" title="Klick Veranstaltungsticket Deutsche Bahn"><span style=" display: block; margin: 0; padding: 0; position: relative; line-height: 0; overflow: visible;"><img style=" width: 100%; margin: 0; padding: 0; display: block;" src="standort/img/Button_Veranstaltungsticket.png" alt=""/></span></a></p>
+        <p><br>Veranstaltungsticket Deutsche Bahn: https://www.veranstaltungsticket-bahn.de/?event=25170&language=de</p>
+
+        <p>Nutzen Sie den ÖPNV in Münster, die Stadt Münster stellt für alle Teilnehmenden ÖPNV-Tickets für die Konferenzzeit zur Verfügung oder mischen Sie sich per Rad (Leeze) unter die Münsteraner und fahren zum Schloss. Am Hauptabhnhof Münster befindet sich die <a href="https://www.radstation.de/de/mieten/4_2.html" target="_blank">Fahrradverleihstation</a>. Weitere Anbieter sind <a href="https://www.stadt-muenster.de/tourismus/fahrradstadt/fahrradverleih">hier</a> zu finden.
 </p>
         
         <p>Folgende Haltestellen liegen in der Nähe des Schlosses:</p>
