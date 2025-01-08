@@ -29,14 +29,14 @@
 	<p><b>Damit die FOSSGIS erfolgreich stattfinden kann, brauchen wir Deine<sup>*</sup> Unterstützung!</b><br>
 		<span style="color:grey">* wer in der Community aktiv ist, wird geduzt :-)
          </span></p>
-<!--	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
+	<h3 ID="Helfer:inwerden" name="Helfer:inwerden">Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite lesen.</li> 
 		<li>Im <a href="https://helfen.fossgis.de">Helfer:innensystem<a/> registrieren und eine <a href="mailto:helfen@fossgis.de?subject=Interesse_zu_helfen"> E-Mail an das Helfer:innenteam</a> senden, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.</li>  
 		<li>Für Fragen gerne <a href="mailto:helfen@fossgis.de?subject=Fragen_zum_helfen"> per E-Mail an das Helfer:innenteam</a> oder anrufen unter: +49 30-62932037.</li> 
 		</ul>
 
-	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>-->
+<!--	<p>Auf dieser Seite kommen hin und wieder neue Informationen hinzu, also gerne wiederkommen.</p>-->
 	
 	<h3 ID="HelfenvorOrt" name="HelfenvorOrt">Wo kannst Du bei der Durchführung der Konferenz unterstützen?</h3>
 	<ul>
@@ -77,6 +77,13 @@ In jedem Hörsaal gibt es eine verantwortliche Person, die das Videoteam und die
 				<li>Desinfektion im Raum nach Hygienekonzept</li>
 				
 			</ul>	-->
+			
+			</li>
+		<li><b>Hybridhelfer:in</b> (bezahlt + gerne freiwillig)<br>
+In jedem BoF-Raum (Anwendertreffen, Expert:innen) gibt es eine verantwortliche Person, die die Sessionleitung technisch unterstützt.
+<!--			<ul><i>Aufgaben:</i>
+				<li>Hybridtechnik betreuen (im Vorfeld mit Technik vertraut machen)</li>
+			</ul>-->
 		</li>
 		<li><b>Workshophelfer:in</b> (bezahlt + gerne freiwillig)<br>
 In jedem Workshopraum gibt es eine verantwortliche Person, die die Workshopleitung und Teilnehmenden während des Workshops unterstützt.
@@ -124,7 +131,7 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		<li>Diese Seite gelesen haben.</li> 
 		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
 		<li>Mail ans Orgateam schreiben, um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten.</li>
-		<li>Registierung im Helfer:innensystem ab Dezember 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
+		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>
 		
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
 		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2025</i></a> beitreten. </li>
@@ -169,16 +176,14 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	</ul>
 	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>. Das Konferenzteam organisiert sich über ein internes Ticketsystem sowie regelmäßige Abstimmungstreffen.</p>
 
-	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <!--<a href="https://helfen.fossgis.de/">-->Helfer:innensystem</a> gemanagt.</p> <!--Die Aufgaben tauchen hier auf dieser Seite auf, wenn sie für die nächste Veranstaltung formuliert sind.</p> -->
-
-
+	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das <a href="https://helfen.fossgis.de/">Helfer:innensystem</a> gemanagt.</p> 
 
 	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite gelesen haben.</li> 
 		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
 		<li>Mail ans Orgateam schreiben, um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten.</li>
-		<li>Registierung im Helfer:innensystem ab Dezember 2024.<!--: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
+		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>
 		
 		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
 		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2025</i></a> beitreten. </li>
