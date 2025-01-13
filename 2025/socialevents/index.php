@@ -22,6 +22,7 @@
 	<h4 id="Anwendertreffen" name="Anwendertreffen">Anwendertreffen</h4>
 	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden. Bei Interesse bitte per <a href="mailto:programm@fossgis.de"> E-Mail</a> an das Programmkomitee schreiben. </p>
 
+	<h3>Montag und Dienstag vor der Konferenz</h3>
 <!--	<h4>Geochicas laden ein</h4>
 	<p>Am Dienstag dem 19. März 2024 von 18-20 Uhr treffen sich die Geochicas <del>im <a href="http://www.cafe-oktober.de/"> Café Oktober</a> Schlossmühlendamm 23, 21073 Hamburg</del><br>
 	im <a href="https://www.panthera-rodizio.de/restaurant-harburg">Panthera Rodizio</a>, Laemmertwiete 5-7, 21073 Hamburg, wo eine Reservierung angefragt ist, stay tuned;-)<br>
@@ -32,8 +33,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	
 	<h4 id="Hackathon" name="Hackathon">Hackathon #ifgiHACK25</h3>
 	<p>Am Montag und Dienstag findet im Vorfeld der FOSSGIS 2025 jeweils von 10-18 Uhr der Hackathon #ifgiHACK25 in den Räumen des ifgi (Institut für Geoinformatik Münster, Heisenbergstraße 2, 48149 Münster) statt.<br>
-Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen, globalen oder das Studium betreffenden Herausforderungen zu entwickeln. Eine Anmeldung ist erforderlich. Ein Link zu mehr Informationen folgt. 
-<!--   [Hier](Link Unterseite folgt] für mehr Infos weiterlesen...--> </p>
+Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen, globalen oder das Studium betreffenden Herausforderungen zu entwickeln. <br>Eine Anmeldung ist erforderlich. <a href="./socialevents/ifgiHACK.php">Hier</a> für mehr Infos weiterlesen.</p>
 
 	<h4 id="Stadtrundgang" name="Stadtrundgang">Geographischer Stadtrundgang</h3>
 	<p>Für schon am Dienstag Angereiste Teilnehmende.
@@ -41,7 +41,7 @@ Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen
 	<li>Treffpunkt: Überwasserkirchplatz, südlich der Kirche</li>
 	<li>Betreuung: Christoph Friedrich</li>
 	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
-	<li>Am Nachmittag vor der Konferenz bietet ein Stadtrundgang Gelegenheit, den Konferenzort Münster mit einer kleinen Führung GEHographisch kennenzulernen. Treffpunkt ist um 16:30 Uhr auf dem Überwasserkirchplatz, südlich der Kirche. Wir queren die Aa, gehen über den Domplatz zum Historischen Rathaus und von dort den Prinzipalmarkt hoch bis zur Lambertikirche mit Wiedertäuferkäfigen und Drubbel.. Anschließend schlendern wir die Salzstraße entlang bis zum imposanten Erbdrostenhof, wo die Führung gegen 18/18:30 Uhr endet. Es besteht die Möglichkeit, von dort gemeinsam in Richtung Ausgangspunkt zurückzugehen, der sich ganz in der Nähe der Kulturkneipe F24 befindet. </li></ul></p>
+	<li>Am Nachmittag vor der Konferenz bietet ein Stadtrundgang Gelegenheit, den Konferenzort Münster mit einer kleinen Führung GEHographisch kennenzulernen. Treffpunkt ist um 16:30 Uhr auf dem Überwasserkirchplatz, südlich der Kirche. Wir queren die Aa, gehen über den Domplatz zum Historischen Rathaus und von dort den Prinzipalmarkt hoch bis zur Lambertikirche mit Wiedertäuferkäfigen und Drubbel. Anschließend schlendern wir die Salzstraße entlang bis zum imposanten Erbdrostenhof, wo die Führung gegen 18/18:30 Uhr endet. Es besteht die Möglichkeit, von dort gemeinsam in Richtung Ausgangspunkt zurückzugehen, der sich ganz in der Nähe der Kulturkneipe F24 befindet (siehe nächster Programmpunkt). </li></ul></p>
 	
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
@@ -77,6 +77,15 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
 	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:30 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2025 am FOSSGIS-Vereins-Stand eingeladen.</p>
 
+	<h4 id="KartensammlungLandesarchiv" name="KartensammlungLandesarchiv">Führung durch die Kartensammlung des Landesarchiv NRW</h4>
+
+	<ul><li>Termin: Freitag, 28.03.2025, 17:00 Uhr</li>
+	<li>Treffpunkt: Landesarchiv NRW Abteilung Westfalen, Bohlweg 2</li>
+	<li>Betreuung: Dr. Thomas Reich</li>
+	<li>Dauer: 90 Minuten</li>
+	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
+	<li>Es wird durch das <a href="https://www.archive.nrw.de/landesarchiv-nrw/landesarchiv-nrw-abteilung-westfalen-muenster">Magazin des Landesarchiv NRW</a> Abteilung Westfalen geführt. Der Schwerpunkt liegt auf der Kartensammlung und umfasst Karten und Archivgut vom 16. Jahrhundert bis in die Gegenwart.</li></ul>
+
 	<h4 id="OSMFreitag" name="OSMFreitag">OSM-Event am Freitagabend</h4>
 	<p>Für alle, die am Freitagabend, den 28. März 2025 in der Stadt sind, wird ein Treffpunkt bekannt gegeben.</p>
 
@@ -84,10 +93,10 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	
 	<h4 id="OSM-Event" name="OSM-Event">OSM-Samstag</h4>
 
-	<p>Am Samstag, den 29. März findet von 9.00 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen sich zu beteiligen oder daran teilzunehmen. Die Themensammlung erfolgt im Wiki. <!--<a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2024/OSM-Samstag" target="_blank">OSM-Wiki</a>. Die Veranstaltung ist kostenfrei. Wir bitten um Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a>.--></p>
+	<p>Am Samstag, den 29. März findet von 9.00 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen sich zu beteiligen oder daran teilzunehmen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2025/OSM-Samstag" target="_blank">OSM-Wiki</a>. Die Veranstaltung ist kostenfrei. Um eine Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a> wird gebeten.</p>
 	
 	<h4 id="CommunitySprint" name="CommunitySprint">Community Sprint (neu)</h4>
-	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet.</p>
+	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet. Um Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a> wird gebeten.</p>
 
 	<h4 id=historischerStadtrundgang" name="historischerStadtrundgang">Archäologisch historischer Stadtrundgang</h4>
 
