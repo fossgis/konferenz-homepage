@@ -77,15 +77,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			  </a>
 			</li>
 			</ul>
-			
-<!--				
-						
 			<li class="tile platin">
 			  <a href="sponsor/003_dataport.php" target="_blank">
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
 			  </a>
 			</li>
-			</ul>-->
+			</ul>
 
 
 			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>

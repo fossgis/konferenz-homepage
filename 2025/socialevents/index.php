@@ -7,9 +7,14 @@
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
 	<title>FOSSGIS 2025 - Rahmenprogramm - Social Events</title>
 
+	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/expo.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
+	<link rel="stylesheet" href="./fontawesome/css/all.css">
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2025/widget/v1.css" crossorigin>
+<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async crossorigin></script>
 </head>
 
 <body id="socialEvents">
@@ -97,6 +102,16 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	
 	<h4 id="CommunitySprint" name="CommunitySprint">Community Sprint (neu)</h4>
 	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet. Um Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a> wird gebeten.</p>
+
+<!--
+<pretix-widget event="https://pretix.eu/fossgis/2025/" single-item-select="button" items="621355, 621356, 623815"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticketshop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2025/">hier</a>.
+        </div>
+    </div>
+</noscript>-->
 
 	<h4 id=historischerStadtrundgang" name="historischerStadtrundgang">Archäologisch historischer Stadtrundgang</h4>
 

@@ -13,6 +13,8 @@
 	<link rel="stylesheet" href="./css/expo.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
 	<link rel="stylesheet" href="./fontawesome/css/all.css">
+<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2025/widget/v1.css" crossorigin>
+<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async crossorigin></script>
 
 </head>
 
@@ -31,6 +33,14 @@
 		ifgiHack entsteht in Zusammenarbeit durch ifgi Mitarbeiter:innen, FOSSGIS-Konferenz und Unternehmen und weiteren Supportern aus dem Open Source bereich.
 		Die besten Ideen und Prototypen werden von einer Jury aus Professor:innen und Verteter:innen der Supporter und Spin-Offs ausgezeichnet!</p>
 		<p>Eine Anmeldung ist erforderlich, siehe <a href="https://fossgis-konferenz.de/2025/anmeldung/#Anmeldeformular">Anmeldeformular</a> FOSSGIS-Konferenz 2025. Wer an der FOSSGIS-Konferenz 2025 teilnehmen möchte, braucht ein Konferenzticket.</p>
+        <pretix-widget event="https://pretix.eu/fossgis/2025/" single-item-select="button" items="673910"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticketshop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2025/">hier</a>.
+        </div>
+    </div>
+</noscript>
 
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 			
