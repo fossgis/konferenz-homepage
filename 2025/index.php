@@ -198,15 +198,13 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/414_geocockpit.php" target="_blank">
 			<img src="./img/s/414_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 			</a>
-			</li>	
-			<!--
-			
+			</li>				
 			<li class="tile bronze">
-			<a href="sponsor/409_sourcepole.php" target="_blank">
-			<img src="./img/s/409_sp_fossgis_2023.png" alt="sourcepole">
+			<a href="sponsor/416_sourcepole.php" target="_blank">
+			<img src="./img/s/416_sp_fossgis_2023.png" alt="sourcepole">
 			</a>
 			</li>
-
+<!--
 			<li class="tile bronze">
 			<a href="sponsor/412_norBIT.php" target="_blank">
 			<img src="./img/s/412_norBIT.png" alt="norBIT">
