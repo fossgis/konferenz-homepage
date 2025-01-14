@@ -47,7 +47,13 @@ Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen
 	<li>Betreuung: Christoph Friedrich</li>
 	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
 	<li>Am Nachmittag vor der Konferenz bietet ein Stadtrundgang Gelegenheit, den Konferenzort Münster mit einer kleinen Führung GEHographisch kennenzulernen. Treffpunkt ist um 16:30 Uhr auf dem Überwasserkirchplatz, südlich der Kirche. Wir queren die Aa, gehen über den Domplatz zum Historischen Rathaus und von dort den Prinzipalmarkt hoch bis zur Lambertikirche mit Wiedertäuferkäfigen und Drubbel. Anschließend schlendern wir die Salzstraße entlang bis zum imposanten Erbdrostenhof, wo die Führung gegen 18/18:30 Uhr endet. Es besteht die Möglichkeit, von dort gemeinsam in Richtung Ausgangspunkt zurückzugehen, der sich ganz in der Nähe der Kulturkneipe F24 befindet (siehe nächster Programmpunkt). </li></ul></p>
-	
+
+	<h4>Geochicas laden ein</h4>
+	<p>Am Dienstag dem 25. März 2025 von 18-20 Uhr treffen sich die Geochicas im <a href="">tbd</a><br>
+	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
+	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
+Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
+	Die Geochicas sind neugierig und freuen sich auf dich.</p>	
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
