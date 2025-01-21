@@ -98,12 +98,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/102_bkg.php" target="_blank">
 			<img src="./img/s/102_BKG_Logo_RGB.png" alt="BKG">
 			</a>
-			</li><!--	
+			</li>
 			<li class="tile gold">
-			<a href="sponsor/102_LGV.php" target="_blank">
-			<img src="./img/s/102_LGV.png" alt="LGV">
+			<a href="sponsor/103_GIS-Consult.php" target="_blank">
+			<img src="./img/s/103_GIS-Consult_Logo.png" alt="GIS-Consult">
 			</a>
-			</li>	
+			</li>
+<!--	
+	
 	
 			<li class="tile gold">
 			<a href="sponsor/104_NRW-Mobidrom.php" target="_blank">
