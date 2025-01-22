@@ -56,7 +56,7 @@
         <h4>Anreise mit dem Auto</h4>
         <p>Von einer Anreise mit dem Auto raten wir aufgrund fehlender Parkmöglichkeiten am Schloss Münster zur Zeit der Konferenz ab.</p>
 
-        <h3>Unterkünfte in Münster und <a href="standort/hotelliste.php">Hotelliste</a></h3>
+        <h3>Unterkünfte in Münster und Hotelliste</h3>
         <p>Das Kongressbüros von Münster Marketing hält das Serviceangebot: <a href="https://tportal.tomas.travel/rmuensterkongress/ukv/?doSearch=1&ukv_result_order=1&number_adult=1&rate=GER00020063159688918&date_from=25.03.2025&date_to=30.03.2025&reset=1&globalReset=1"  target="_blank">Kontingente für die FOSSGIS 2025</a> bereit.</p>
         
         <p>Sie finden hier eine <b><a href="standort/hotelliste.php">umfangreiche Hotelliste</a></b> zusammengestellt vom Organisationsteam.</p>
