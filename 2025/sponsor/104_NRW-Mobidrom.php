@@ -31,17 +31,22 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>NRW.Mobidrom GmbH – Partner für Mobilitätsdaten in NRW</h3>
 
-					<p> Die NRW.Mobidrom GmbH ist eine Gesellschaft des Landes NRW und fungiert seit der Gründung im Juli 2023 als Ansprechpartner und Umsetzungseinheit für digitalisierte und vernetzte Mobilität. Zentrale Aufgabe des Mobidroms ist die flächendeckende, verkehrsträgerübergreifende und diskriminierungsfreie Bereitstellung von Mobilitätsdaten über die Mobidrom Datenplattform (derzeit in Entwicklung). </p>
+					<p> Das Mobidrom ist ein IT-Unternehmen des Landes NRW und Ansprechpartner für digitalisierte und vernetzte Mobilität. Oberstes Ziel ist, das Bereitstellen und Nutzen von Mobilitätsdaten so einfach wie möglich zu gestalten. Dazu werden diese künftig über die Mobidrom Datenplattform NRW-weit gebündelt, aufbereitet und zur Verfügung gestellt.</p>
 
-<p>Das Mobidrom steht allen Datengebern und -nutzern im Bereich Mobilitätsdaten beratend zur Seite und beteiligt sich aktiv an Entwicklung und Betrieb von Open-Source-Anwendungen im Mobilitätsbereich. Dies umfasst derzeit vor allem die Entwicklung eines Routing-Dienstes, der bestehende Projekte verkehrsträgerübergreifend integriert. Darüber hinaus verantwortet das Mobidrom die Weiterentwicklung und den Betrieb des reichweitenstarken Verkehrsportals Verkehr.NRW, welches Nutzern Daten und Dienste des Mobidroms zugänglich macht und die Reiseplanung ermöglicht.</p>
+<p>Darüber hinaus verantwortet das Mobidrom die Weiterentwicklung und den Betrieb von Verkehr.NRW. Das kartenbasierte Verkehrsportal macht die Verkehrslage und -angebote in Echtzeit zugänglich und ermöglicht Reiseplanung mit unterschiedlichen Verkehrsmitteln. Seit Anfang 2025 erweitert SEVAS die Mobidrom-Produktfamilie mit Daten für eine effiziente Lkw-Navigation.</p>
+					<p> Das Mobidrom steht allen Datengebern und -nutzern im Bereich Mobilitätsdaten beratend zur Seite und beteiligt sich aktiv an Entwicklung und Betrieb von Open-Source-Anwendungen. Dazu gehört das MOTIS-Projekt, das den Kern für die intermodalen Mobidrom Routing Services darstellt.</p>
 
 			</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
 						<h6 class="mb-0">Kontakt<br>
-							Webseite:<br>
+							Webseiten:<br>
 						<a href="https://www.mobidrom.nrw/">
-							www.mobidrom.nrw</a><br><br>
+							www.mobidrom.nrw</a><br>
+						<a href="https://www.verkehr.nrw">
+							www.verkehr.nrw</a><br>
+						<a href="https://www.sevas.nrw.de">
+							www.sevas.nrw.de</a><br><br>
 							
 							E-Mail: <br>
 							<a href="mailto:mobi@mobidrom.nrw">mobi@mobidrom.nrw</a><br></h6>
