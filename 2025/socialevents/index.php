@@ -57,7 +57,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kultur.de/locations/frauenstrasse-24/">Kulturkneipe F24</a> in der Frauenstraße 24, 48143 Münster. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kneipe.de">Kulturkneipe F24</a> in der Frauenstraße 24, 48143 Münster. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 26. März 2025</h3>
 
