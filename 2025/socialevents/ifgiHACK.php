@@ -75,8 +75,7 @@
 		<li>Gewinner:innen erhalten Teilnahme Abendveranstaltung</li>
 		</ul>
 		
-		<p>Weitere Informationen hier: <a href="https://gi-at-school.org/ifgi-hack/">Webseite ifgiHack2025</a>.</p>
-
+	
 			</div>
 			<div class="col-lg-3">
 				<div class="mb-4">
