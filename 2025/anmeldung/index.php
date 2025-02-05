@@ -84,11 +84,10 @@ Der Workshop ist interaktiv und wird in einem mit Laptops ausgestattenen Raum st
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die Webseite <a href="https://fossgis-konferenz.de/2025/helfen/#HelfenvorOrt">Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich ab Ende Dezember im Helfer:innensystem. Wer mind. 10 Stunden hilft, kann ein kostenfreies Konferenzticket erhalten. </p>
 
 	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
-	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2025/" target="_blank">diesem Link</a> direkt aufrufen.</p>
-<!--	<p>Die FOSSGIS ist ausgebucht. Wir können keine weiteren Tickets für die Konferenz vor Ort in Berlin-Adlershof anbieten.
+<!--	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2025/" target="_blank">diesem Link</a> direkt aufrufen.</p>-->
+	<p>Die FOSSGIS ist ausgebucht. Wir können keine weiteren Tickets für die Konferenz vor Ort in Münster anbieten.
 Nutzen Sie die Möglichkeit einer Onlineteilnahme und buchen Sie ein Onlineticket.
-Sie erhalten Zugang zum Livestream der Vorträge mit Chat der Teilnehmenden sowie Fragenfunktion und Anwendertreffen, die im Seminarraum und per Videokonferenz stattfinden werden.
-Vielleicht schalten wir auch die Netzwerkwelt an und bieten damit einen Onlinetreffpunkt für Teilnehmende.</p>-->
+Sie erhalten Zugang zum Livestream der Vorträge mit Fragenfunktion und Chat der Teilnehmenden sowie Community Sessions, wie Anwendertreffen und Expert:innenfragestunde, die hybrid stattfinden werden.</p>
 	
 <div id="shop">
 		<pretix-widget event="https://pretix.eu/fossgis/2025/" single-item-select="button"></pretix-widget>
