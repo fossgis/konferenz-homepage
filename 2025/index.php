@@ -113,17 +113,21 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 			<ul class="tiles">
-			<li class="tile bronze">
+			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
 			<img src="./img/s/201_ISB_CONET.jpg" alt="CONET ISB GmbH">
 			</a>
 			</li>
-			<li class="tile bronze">
+			<li class="tile silver">
 			<a href="sponsor/202_EFTAS.php" target="_blank">
 			<img src="./img/s/202_EFTAS.png" alt="EFTAS">
 			</a>
 			</li>
-	
+			<li class="tile silver">
+			<a href="sponsor/203_Adesso.php" target="_blank">
+			<img src="./img/s/203_adesso_basic_Color_CMYK.png" alt="Adesso SE">
+			</a>
+			</li>
 			</ul>
 			
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
@@ -197,7 +201,12 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/414_geocockpit.php" target="_blank">
 			<img src="./img/s/414_YEY-Maps_Logo.png" alt="GeoCockpit UG">
 			</a>
-			</li>				
+			</li>	
+			<li class="tile bronze">
+			<a href="sponsor/415_GISCAD.php" target="_blank">
+			<img src="./img/s/415_GISCAD_Technologies.svg" alt="GISCAD">
+			</a>
+			</li>			
 			<li class="tile bronze">
 			<a href="sponsor/416_sourcepole.php" target="_blank">
 			<img src="./img/s/416_sp_fossgis_2023.png" alt="sourcepole">
@@ -209,11 +218,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</a>
 			</li>
 <!--
-			<li class="tile bronze">
-			<a href="sponsor/412_norBIT.php" target="_blank">
-			<img src="./img/s/412_norBIT.png" alt="norBIT">
-			</a>
-			</li>
+
 			<li class="tile bronze">
 			<a href="sponsor/413_indiscale.php" target="_blank">
 			<img src="./img/s/413_indiscale.png" alt="indiscale">
