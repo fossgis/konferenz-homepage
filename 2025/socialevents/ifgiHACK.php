@@ -28,11 +28,12 @@
 		<div class="row">
 		<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 		<h3 id="Hackathon" name="Hackathon">Hackathon #ifgiHACK25</h3>
-		<p>Für den Hackathon #ifgiHACK25 am Montag, den 24.03. und Dienstag, den 25.03.2025 sind Räume im ifgi (Institut für Geoinformatik Münster, Heisenbergstraße 2, 48149 Münster) reserviert. Für Essen und Getränke sorgt der FOSSGIS e.V.</p>
-		<p>Die Veranstaltung  findet im Vorfeld der <a href="https://fossgis-konferenz.de/2025">FOSSGIS 2025</a> statt. Menschen aus der Open Source Community nehmen teil, um mit Wissen und Know How zur Seite zu stehen. <br>
-		ifgiHack entsteht in Zusammenarbeit durch ifgi Mitarbeiter:innen, FOSSGIS-Konferenz und Unternehmen und weiteren Supportern aus dem Open Source bereich.
-		Die besten Ideen und Prototypen werden von einer Jury aus Professor:innen und Verteter:innen der Supporter und Spin-Offs ausgezeichnet!</p>
-		<p>Eine Anmeldung ist erforderlich, siehe <a href="https://fossgis-konferenz.de/2025/anmeldung/#Anmeldeformular">Anmeldeformular</a> FOSSGIS-Konferenz 2025. Wer an der FOSSGIS-Konferenz 2025 teilnehmen möchte, braucht ein Konferenzticket.</p>
+		<p>Für den Hackathon #ifgiHACK25 am Montag, den 24.03., und Dienstag, den 25.03.2025, sind Räume im ifgi (Institut für Geoinformatik Münster, Heisenbergstraße 2, 48149 Münster) reserviert. Für Essen und Getränke sorgt der FOSSGIS e.V.</p>
+		<p>Die Veranstaltung findet im Vorfeld der <a href="https://fossgis-konferenz.de/2025">FOSSGIS 2025</a> statt. Menschen aus der Open Source Community nehmen teil, um mit Wissen und Know How zur Seite zu stehen. <br>
+		Der ifgiHack entsteht in Zusammenarbeit von ifgi Mitarbeiter:innen, FOSSGIS-Konferenz sowie Unternehmen und weiteren Supportern aus dem Open Source Bereich.
+		Die besten Ideen und Prototypen werden von einer Jury aus Professor:innen und Verteter:innen der Supporter ausgezeichnet! Die drei besten Teams dürfen ihre Projekte auf der FOSSGIS-Konferenz am Mittwoch vorstellen. Das Gewinnerteam darf zusätzlich an der Abendveranstaltung am Mittwoch teilnehmen.
+</p>
+		<p>Eine Anmeldung ist erforderlich, siehe <a href="https://fossgis-konferenz.de/2025/anmeldung/#Anmeldeformular">Anmeldeformular</a> FOSSGIS-Konferenz 2025. Das Ticket für den Hackathon berechtigt auch zum Besuch der FOSSGIS am Mittwoch. Wer auch an den anderen Tagen der FOSSGIS teilnehmen möchte, braucht ein Konferenzticket.</p>
         <pretix-widget event="https://pretix.eu/fossgis/2025/" single-item-select="button" items="673910"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
@@ -45,33 +46,34 @@
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 			
 		<h4 id="AblaufHackathon" name="AblaufHackathon">Ablauf</h4>
-		<p>Räume: Hörssal 10-12, Foyer</p>
+<!--		<p>Räume: Hörssal 10-12, Foyer</p>-->
 		<ul><b>Montag</b>
-		<li>10:00 Begrüßung und Kick-Off</li>
-		<li>10:10 Kurze Vorstellung der Challenges / der Technologien durch Partner  (1-2min pro Sache)</li>
-		<li>10:30 Pause für Ideenfindung (ggf. Rückfragen an Challenge- / Technologiegeber)</li>
-		<li>11:00 Mini-Pitches für Projekte durch einzelne Teilnehmende mit einer Projektidee</li>
-		<li>11:20 Gruppenfindungsphase (hier können sich die übrigen Teilnehmenden den Projektideen anschließen)</li>
-		<li>12:00 Registrierung Teams (mit Teamname und Teilnehmenden), Raumzuordnung  (im Foyer)</li>
-		<li>12:30 Mittagessen</li>
-		<li>13 - 18 Uhr Arbeitsphase in den Räumen</li>
-		<li>13 - 18 Uhr Partner/Tehcnologie/Challenge -geber können mit Stand zur Beratung im 1. OG Freifläche bereitstehen.</li>
-		<li>16:00 INPUT (freiwllig): Softwareprojektplanung von Sven Heitmann (openSenseLab gGmbH)</li>
-		<li>18:00 Pizza</li>
+		<li>10:00 Uhr – Begrüßung und Kick-Off</li>
+		<li>10:10 Uhr – Kurze Vorstellung der Challenges / der Technologien durch Partner  (1-2min pro Sache)</li>
+		<li>10:30 Uhr – Pause für Ideenfindung (ggf. Rückfragen an Challenge- / Technologiegeber)</li>
+		<li>11:00 Uhr – Mini-Pitches für Projekte durch einzelne Teilnehmende mit einer Projektidee</li>
+		<li>11:20 Uhr – Gruppenfindungsphase (hier können sich die übrigen Teilnehmenden den Projektideen anschließen)</li>
+		<li>12:00 Uhr – Registrierung Teams (mit Teamname und Teilnehmenden), Raumzuordnung</li>
+		<li>12:30 Uhr – Mittagessen</li>
+		<li>13:00 - 18:00 Uhr – Arbeitsphase in den Räumen</li>
+		<li>13:00 - 18:00 Uhr – Partner und Technologie-/Challengegeber können mit Stand zur Beratung im 1. OG Freifläche bereitstehen</li>
+		<li>16:00 Uhr – INPUT (freiwllig): Softwareprojektplanung <!--von Sven Heitmann (openSenseLab gGmbH)--> </li>
+		<li>18:00 Uhr – Pizza</li>
 		</ul> 
 
 		<ul><b>Dienstag</b>
-		<li>10:00 Uhr CheckIn</li>
-		<li>10:10 - 12:30 Arbeiten in den Räumen</li>
-		<li>12:30 Mittagessen</li>
-
-		<li>13 - 13:30  INPUT (freiwillig) Pitch-Training von Thomas</li>
-		<li>13 - 18 Arbeiten in den Räumen</li>
-		<li>Ende noch in Klärung</li>
+		<li>10:00 Uhr – CheckIn</li>
+		<li>10:10 - 12:30 Uhr – Arbeiten in den Räumen</li>
+		<li>12:30 Uhr – Mittagessen</li>
+		<li>13:00 - 13:30  Uhr – INPUT (freiwillig) Pitch-Training von Thomas</li>
+		<li>13:00 - 18:00 Uhr – Arbeiten in den Räumen</li>
+		<li>18:00 Uhr – Pizza</li>
 		</ul> 
 		
 		<ul><b>Mittwoch</b>
-		<li>Vorstellung Ergebnisse auf der FOSSGIS 2025</li>
+		<li>9:30 Uhr – Pitches der Teams am ifgi</li>
+		<li>10:00 Uhr – Verkündung der Gewinnerprojekte</li>
+		<li>14:25 Uhr – Pitches der drei besten Teams auf der FOSSGIS 2025, <a href="https://pretalx.com/fossgis2025/talk/PDKWKU/">im Hörsaal 4 (S2)</a></li>
 		<li>Gewinner:innen erhalten Teilnahme Abendveranstaltung</li>
 		</ul>
 		
@@ -92,8 +94,12 @@
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
+								<a href="https://www.instagram.com/opensenselab/"><i class="fab fa-instagram"></i></a>
+							</li>
+<li>
 								<a href="https://mastodon.online/@FOSSGISeV" target="_blank"><i class="fab fa-mastodon"></i></a>
 							</li>
+
 						</ul>
 					</div>
 				</div>	
