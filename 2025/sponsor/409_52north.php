@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>52°North Spatial Information Research GmbH </h3>
 
-					<p>Die 52°North GmbH betreibt angewandte Forschung  im Bereich von Geodateninfrastrukturen und der Ableitung von raumbezogenen Informationsprodukten. Als Non-Profit-Unternehmen unterstützt 52°North Open Science durch Open Data und Open Source Software. Unser Hauptinteresse gilt der Entwicklung räumlicher Forschungsdateninfrastrukturen, um die Gewinnung von Informationen aus Daten zu erleichtern und zu fördern.</p>
+					<p>Die 52°North GmbH arbeitet als non-profit Forschungsunternehmen an Themen wie der Analyse räumlicher Daten, Geoinformationsinfrastrukturen und dem Management raumbezogener Forschungsdaten. Die Förderung von Open Science mit offenen Daten und offener Software ist ein wichtiges Ziel der 52°North GmbH.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">

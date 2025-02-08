@@ -24,9 +24,8 @@
 		<div class="container">
 			
 			<img src="./img/s/203_adesso_basic_Color_CMYK.png" 
-				class="sponsor-logo" 
-				alt="Firmenlogo"
-				width="300">
+				class="sp-logo"
+				alt="Firmenlogo">
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">

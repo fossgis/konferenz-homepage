@@ -109,6 +109,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/104_Mobidrom_Logo.png" alt="NRW.Mobidrom">
 			</a>
 			</li>
+			<li class="tile gold">
+			<a href="sponsor/105_openSenseLab.php" target="_blank">
+			<img src="./img/s/105_openSenseLab-Logo.png" alt="openSenseLab">
+			</a>
+			</li>
 			</ul>
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
