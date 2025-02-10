@@ -107,7 +107,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<p>Am Samstag, den 29. März findet von 9.00 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen sich zu beteiligen oder daran teilzunehmen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2025/OSM-Samstag" target="_blank">OSM-Wiki</a>. Die Veranstaltung ist kostenfrei. Um eine Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a> wird gebeten.</p>
 	
 	<h4 id="CommunitySprint" name="CommunitySprint">Community Sprint (neu)</h4>
-	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet. Um Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2024/anmeldung/#Anmeldeformular">Anmeldesystem</a> wird gebeten.</p>
+	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet. Um Anmeldung über das FOSSGIS-Konferenz-<a href="https://fossgis-konferenz.de/2025/anmeldung/#Anmeldeformular">Anmeldesystem</a> wird gebeten.</p>
 
 <!--
 <pretix-widget event="https://pretix.eu/fossgis/2025/" single-item-select="button" items="621355, 621356, 623815"></pretix-widget>
