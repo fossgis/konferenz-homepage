@@ -58,9 +58,9 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			</li>
 			<li><b>Thüringen</b> - <a href="data/2024-12-02_Aenderungsbescheid_Anerkennung_Bildungsveranstaltung_TH.pdf">Download Anerkennungsbescheid</a>, Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.
 			</li>			
-<!--			<li><b>Schleswig-Holstein</b> - <a href="data/Anerkennung_Schleswig-Holstein.pdf">Download Anerkennungsbescheid</a>
-			</li>-->	
-			<li> wir gehen davon aus, dass weitere folgen</li>
+			<li><b>Schleswig-Holstein</b> - <a href="data/Anerkennung_Bildungszeit_Schleswig-Holstein_2025-02-10_document1619672.pdf">Download Anerkennungsbescheid</a>
+			</li>	
+			<li> Mehr ist für dieses Jahr nicht zu bekommen.</li>
 			</ul>
 			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>
 			
