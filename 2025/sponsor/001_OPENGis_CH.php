@@ -29,14 +29,26 @@
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>OPENGIS.ch GmbH</h3>
+				<h3>OPENGIS.ch GmbH</h3>
 
-					<p>Wir planen und entwickeln personalisierte Open Source GIS Lösungen als Desktop-, Web- oder Mobilapplikationen für Ingenieurbüros, Organisationen und den öffentlichen Sektor – kosteneffizient, massgeschneidert und von A bis Z. Mit Open Source Technologie-Erfahrung, POSTGIS Expertise und QGIS und QField Entwicklerwissen finden wir elegante Lösungen auch für komplexe Aufgaben. Darauf geben wir Ihnen unser Schweizer GeoNinja-Ehrenwort - oder einen <a href="https://www.opengis.ch/de/qgis-support-wartung/">Support Vertrag mit SLA</a>.</p>
+				<p><b>Wir sind Software-Entwickler, leitende Architekten mit Full-Stack Erfahrung und Geodaten-Ninjas! Open Source</b> ist unser Ding und unsere Produkte sind dazu gemacht, <b>nachhaltig zu wachsen!</b></a>.</p>
 
-				<p>Aber nicht nur wir sind von uns überzeugt. Viel wichtiger, auch die Deutsche Bahn, das Bundesamt für Umwelt, mehrere Kantone und weitere Auftraggeber sind sich einig: OPENGIS.ch ist der ideale Partner, wenn es um Open Source GIS Projekte geht.</p>
+				<p>Mit <b>jahrelanger Open-Source-Erfahrung</b> planen und entwickeln wir <b>personalisierte GIS-Lösungen</b> als <b>Desktop-, Web- oder Mobilapplikationen</b> für Organisationen, den öffentlichen Sektor und Ingenieurbüros – <b>kosteneffizient, massgeschneidert, von A bis Z und in der Nähe</b>.</p>
 
-				<p><a href="https://qfield.cloud">QFieldCloud</a> ergänzt die mobile Applikation <a href="https://qfield.org">QField</a> für die Synchronisierung der erfassten Daten und erleichtert die Zusammenarbeit von mehreren Personen oder Teams im Feld. Nutzer und Rollen werden klar definiert, Änderungen können nachverfolgt und erfasste Daten einfach über die Cloud synchronisiert werden.
-					</p>
+				<p>Ob komplexe Integrationen von räumlichen Datenbanken, die Entwicklung von Plug-ins oder Webapplikationen, minimale Geodatenmodelle oder Korrekturen und Erweiterungen in QGIS selbst: <b>Wir lieben langfristige und qualitative Lösungen</b> und übernehmen darum gerne <b>Verantwortung für das, was wir tun</b>. Darauf geben wir unser Ninja-Ehrenwort – oder einen <b>Support-Vertrag mit SLA.</b></p>
+				
+				<p>	Wir sind stolz auf unsere Arbeit, aber noch wichtiger ist, dass auch unsere Kunden von uns überzeugt sind. Die Deutsche Bahn, das Deutsche Archäologische Institut, die National Land Survey of Finland, das Bundesamt für Umwelt, mehrere Kantone und viele weitere Auftraggeber sind sich einig: <b>OPENGIS.ch ist der ideale Partner, wenn es um Open-Source Projekte geht.</b></p>
+				
+				<p><b>QField & QFieldCloud</b> – die Basis für massgeschneiderte GIS-Workflows</p>
+
+				<p>Mit QField und QFieldCloud bringen wir <b>GIS-Daten direkt in den Ausseneinsatz</b> – effizient, nahtlos und flexibel. QField ermöglicht die <b>präzise mobile Datenerfassung</b>, während QFieldCloud für eine <b>reibungslose Synchronisierung und Zusammenarbeit</b> sorgt. Teams können erfasste Daten in Echtzeit austauschen, Änderungen nachverfolgen und durch ein klares Nutzer- und Rollenmanagement geordnet zusammenarbeiten.</p>
+	
+				<p>Unsere Lösungen <b>optimieren Workflows, reduzieren Fehler und sparen Zeit</b>, indem sie bestehende Systeme nahtlos integrieren. Egal ob <b>Offline-Datenerfassung, Live-Synchronisation</b> oder individuelle Erweiterungen – wir passen QField exakt an eure Anforderungen an. Von massgeschneiderten Plugins bis zu tiefgehenden Workflow-Automatisierungen: <b>Wir machen GIS mobil und Unternehmen produktiver.</b></b>
+
+
+
+
+
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
