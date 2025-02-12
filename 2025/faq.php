@@ -92,19 +92,20 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<li><b>Ich buche drei oder mehr Workshops. Gibt es einen Mengenrabatt?</b><br>
 		Nein.</li>
 		<li><b>Ich habe schon ein Ticket und möchte doch noch einen Workshop buchen.</b><br>
-		Sie können Ihre Bestellung ändern, indem Sie unter <i>Bestellung stornieren oder umbuchen</i> die entsprechende Änderung vornehmen.</li>
-		</ul>
+		<ul><li>Wenn Ihre Bestellung noch nicht bezahlt ist, können Sie unter <i>Bestellung stornieren oder umbuchen</i> die entsprechende Änderung vornehmen und Workshops hinzubuchen. Eine neue Rechnung wird erstellt.</li>
+		<li>Wenn Ihre Bestellung schon bezahlt ist, schreiben Sie, um einen Workshop nachzubuchen eine <a href="mailto:konferenz-orga@fossgis.de?subject=Workshop_nachbuchen">E-Mail</a> mit folgenden Angaben: Bestellnummer Ticketbuchung; Name Teilnehmer:in; Email-Adresse Teilnehmer:in; welcher Workshop. Eine Gebühr von 130 EUR wird pro Workshop in Rechnung gestellt.</li>
+	
+		</ul></ul>
 
 	<h3>Zugang</h3>
 		<ul>
 
  		<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
-		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden eine gute Lösung.</li>
+		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden eine Lösung.</li>
 		<li><b>Gibt es eine Hausordnung?</b><br>
 		 Ja die Hausordnung ist <a href="https://files.fossgis.de/Konferenz/2025/hausordnung_unims.pdf">hier als PDF</a> verfügbar und von allen Teilnehmenden einzuhalten.   </li>
 		<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
-		Kurz vor Beginn der Konferenz, spätestens am 24.03.2025 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zug
-		estellt wird.</li>
+		Kurz vor Beginn der Konferenz, spätestens am 24.03.2025 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 		<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
 		Wir nutzen die Online-Plattform Venueless, dafür ist jeweils ein aktueller Browser notwendig. Die Vorträge werden über Venueless gestreamt. </li>
 		<li><b>Brauche ich besondere Technik, um an der Online-FOSSGIS teilnehmen zu können?</b><br>
@@ -133,7 +134,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 	<h3>Aussteller</h3>
 		<ul>
 		<li><b>Ich möchte einen Ausstellerstand.</b><br>
-		Voraussetzung ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor.<!--<br> Leider sind für die FOSSGIS 2024 schon alle Ausstellerstände vergeben.-->
+		Für die FOSSGIS 2025 sind keine Ausstellerstände mehr verfügbar. Generell ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor notwendig, um auch einen Ausstellerstand betreiben zu können.<!--<br> Leider sind für die FOSSGIS 2024 schon alle Ausstellerstände vergeben.-->
 		</li>
 		<li><b>Wie ist der Stand ausgestattet?</b><br>
 		Es gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. </li>

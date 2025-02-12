@@ -55,6 +55,10 @@
 	<li><p><b>Community Voting:</b> über 150 Teilnehmende haben sich beteiligt, Vielen Dank!</li>
 	<li><p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2025/callforpapers/">/2025/callforpapers/</a></p></li>
 	</ul>
+
+	<h4> Workshop nachbuchen</h4>
+	<p>Sie wollen einen Workshop nachbuchen? <br>
+		Schreiben Sie eine <a href="mailto:konferenz-orga@fossgis.de?subject=Workshop_nachbuchen"">E-Mail</a> mit folgenden Angaben: Bestellnummer Ticketbuchung; Name Teilnehmer:in; Email-Adresse Teilnehmer:in; welcher Workshop. Eine Gebühr von 130 EUR wird pro Workshop erhoben.</p>
 	
 	<h2 id="programmquer" name="programmquer"class="Programm">Konferenz-Programm im Querformat</h2>
 	
