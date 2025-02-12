@@ -64,11 +64,11 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			</ul>
 			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>
 			
-			<h3 id="Antrag" name="Antrag" >Antrag</h3>
+<!--			<h3 id="Antrag" name="Antrag" >Antrag</h3>
 <p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub beantragt:</p>
 			<ul>
 			<li><b>Schleswig-Holstein</b></li>
-			</ul>
+			</ul>-->
 
 			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
 <p>Folgende Bundesländer haben die FOSSGIS-Konferenz leider nicht als Bildungszeit anerkannt, von einem erneuten Antrag wird abgesehen:</p>

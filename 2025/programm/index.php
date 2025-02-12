@@ -19,9 +19,9 @@
 <!--    <h3>Vortragsaufzeichnungen</h3>
 	<p>Die Vorträge und Demosessions sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
-			<li> <a href="https://pretalx.com/fossgis2024/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p>
+			<li> <a href="https://pretalx.com/fossgis2025/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p>
 			</li>
-			<li> <a href="https://media.ccc.de/c/fossgis2024" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2024</a></p>
+			<li> <a href="https://media.ccc.de/c/fossgis2025" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2024</a></p>
 			</li>
 <!--			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p>
 			</li>
@@ -68,7 +68,7 @@
     </div>
 </noscript>
 
-	<h2 id="programmlist" name="programmlist"class="Programm">Konferenz-Programm als Liste</h2>
+<!--	<h2 id="programmlist" name="programmlist"class="Programm">Konferenz-Programm als Liste</h2>
 
 <pretalx-schedule event-url="https://pretalx.com/fossgis2025/" locale="de-formal" format="list" style="--pretalx-clr-primary: #EE7F00"></pretalx-schedule>
 <noscript>
@@ -78,7 +78,7 @@
             please <a target="_blank" href="https://pretalx.com/fossgis2025/schedule/">click here</a>.
         </div>
     </div>
-</noscript>
+</noscript>-->
 
 <!--	<h3>Call for Participation (CfP)</h3>
 	<p>Der <a href="https://pretalx.com/fossgis2025/cfp">Call for Participation</a> für die FOSSGIS 2025 ist veröffentlicht. Einreichungen sind bis zum 05.11.2024 möglich, es ist keine Verlängerung vorgesehen.</p> 
