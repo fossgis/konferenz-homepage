@@ -57,7 +57,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kneipe.de">Kulturkneipe F24</a> in der Frauenstraße 24, 48143 Münster. Jeder bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 25. März 2025 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen in der <a href="https://f24-kneipe.de">Kulturkneipe F24</a> in der Frauenstraße 24, 48143 Münster. Es gibt warme Küche bis 21:30 Uhr. Jeder bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 26. März 2025</h3>
 
@@ -65,8 +65,8 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
 Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. 
 	<ul>
-	<li>Ort: Schlossgartencafé Münster
-	<li>Adresse: Schlossgarten 4, 48149 Münster</li>
+	<li>Ort: <s>Schlossgartencafé Münster</s> eine neue Lokation wird gefunden
+	<li>Adresse: <s>Schlossgarten 4, 48149 Münster</s> tba.</li>
 	<li>Zeit: 18:30/19 Uhr</li>
  	<li>Angebot: Buffet und Getränke</li>
 	</ul>
