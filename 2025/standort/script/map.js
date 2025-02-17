@@ -1,212 +1,118 @@
-var poi = {
-    'type': 'featureCollection',
-    'features': [
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'FOSSGIS 2015',
-                'description': 'Vorträge der FOSSGIS im Schloss der <a href="http://www.uni-muenster.de" target="_blank">WWU</a>',
-                'icon': 'college'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6132745, 51.9635904
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'FOSSGIS 2015',
-                'description': 'Workshops der FOSSGIS im <a href="http://ifgi.uni-muenster.de" target="_blank">ifgi</a>',
-                'icon': 'college'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.595834, 51.9695914
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Dinner',
-                'description': 'Dinner der FOSSGIS im <a href="http://www.schlossgarten.com/" target="_blank">Schlossgarten Cafe</a>',
-                'icon': 'restaurant'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6102238, 51.9645558
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Start',
-                'description': 'Inoffizieller Start der FOSSGIS am Di Abend in <a href="http://pinkus.de/gaststaette/altbierkueche/" target="_blank">Pinkus Altbierk&uuml;che</a>',
-                'icon': 'restaurant'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6216172, 51.9655737
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Landgericht',
-                'description': 'Bushaltestelle <a href="http://www.stadtwerke-muenster.de/fis/1361" target="_blank">Landgericht</a> Abfahrt vom Schloss mit der Linie 13',
-                'icon': 'bus'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.615419, 51.9620022
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Landgericht',
-                'description': 'Bushaltestelle <a href="http://www.stadtwerke-muenster.de/fis/1362" target="_blank">Landgericht</a> Ankunft am Schloss mit der Linie 13',
-                'icon': 'bus'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6150623, 51.9618821
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'H&uuml;fferstiftung',
-                'description': 'Bushaltestelle <a href="http://www.stadtwerke-muenster.de/fis/5081" target="_blank">H&uuml;fferstiftung</a> Alternative Abfahrt vom Schloss mit der Linie 13',
-                'icon': 'bus'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6080219, 51.961249
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'H&uuml;fferstiftung',
-                'description': 'Bushaltestelle <a href="http://www.stadtwerke-muenster.de/fis/5082" target="_blank">H&uuml;fferstiftung</a> Alternative Ankunft am Schloss mit der Linie 13',
-                'icon': 'bus'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6079763, 51.9611149
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Mendelstrasse',
-                'description': 'Bushaltestelle <a href="http://www.stadtwerke-muenster.de/fis/5992" target="_blank">Mendelstrasse</a> Abfahrt vom ifgi mit der Linie 13',
-                'icon': 'bus'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.5964394, 51.9693358
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Mendelstrasse',
-                'description': 'Bushaltestelle <a href="http://www.stadtwerke-muenster.de/fis/5991" target="_blank">Mendelstrasse</a> Ankunft am ifgi mit der Linie 13',
-                'icon': 'bus'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.5965647, 51.9691026
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'JGA',
-                'description': '<a href="http://www.djh-wl.de/de/jugendherbergen/muenster" target="_blank">Jugendgästehaus Aasee</a>',
-                'icon': 'warehouse'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6137489, 51.9541535
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Agora',
-                'description': '<a href="http://www.agora-muenster.de/index.php" target="_blank">Agora</a> - das Hotel am Aasee',
-                'icon': 'warehouse'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.617804, 51.9558212
-                ]
-            }
-        },
-        {
-            'type': 'Feature',
-            'properties': {
-                'title': 'Hotel am Schlosspark',
-                'description': '<a href="http://www.hotel-am-schlosspark-muenster.de/" target="_blank">Hotel am Schlosspark</a>	uebernachten.png',
-                'icon': 'warehouse'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                7.6103389, 51.9679995
-                ]
-            }
-        }
-    ]
-};
+(function () {
+	'use strict';
 
-var colours = {
-    "bus": "#2C3E50",
-    "warehouse": "#96281B",
-    "restaurant": "#1E824C",
-    "college": "#D35400"
-};
+	const posSchloss = [51.963600, 7.613115];
+	const posHbf = [51.956383, 7.635777];
 
-function init () {
-    var map = L.map('map').setView([51.962, 7.625], 13);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
-    L.geoJson(poi, {
-        pointToLayer: function(feature, latlng) {
-            iconString = feature.properties.icon;
-            var icon = L.MakiMarkers.icon({icon: iconString, size: "m", color: colours[iconString]});
-            return L.marker(latlng, {icon: icon}).addTo(map);
-        },
-        onEachFeature: function(feature, layer) {
-            var html = '<b>' + feature.properties.title + '</b><br>' + feature.properties.description;
-            layer.bindPopup(html);
-        }
-    }).addTo(map);
-}
+	const zoom = 16;
+	const htwOrange = '#ff9d15';
+	const views = {
+		'<b>Schloss Münster</b>': posSchloss,
+		'Münster Hbf': posHbf,
+	};
+	const tooltipTemplate =
+		'<b>{name}</b><br>' +
+		'{street} {housenumber}'; //<br>' +
+		// '<a href="{website}">{website}</a><br>' +
+		//'<img src="./standort_anreise/img/{src}" alt="Bild {name}" class="tooltip-img" width="240" height="157">';
+
+	const featureOptions = {
+		color: '#333333',
+		weight: 1,
+		opacity: 1.0,
+		fillColor: htwOrange,
+		fillOpacity: 1.0,
+		radius: 12,
+		className: 'svg-feature'
+	};
+
+	const baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	});
+
+	var campusLabels = L.layerGroup();
+	var campusLayer = L.geoJSON(window.buildings, {
+		style: featureOptions,
+		onEachFeature: onEachFeature
+	});
+	var hotelsLayer = L.geoJSON(window.hotels, {
+		pointToLayer: function (feature, latlng) {
+			var props = feature.properties;
+			return L.circleMarker(latlng, {
+				color: '#333333',
+				weight: 1,
+				opacity: 1.0,
+				fillColor: '#3388ff',
+				fillOpacity: .5,
+				radius: 8
+			}).bindTooltip(props.name);
+		}
+	});
+
+  	var mapOptions = {
+		layers: [
+			baseLayer,
+			campusLayer,
+			campusLabels,
+			hotelsLayer
+		],
+		center: posSchloss,
+		zoom: zoom,
+		minZoom: 5,
+		maxZoom: 18,
+		maxBounds: [[51.840145,7.473785],[52.060025, 7.774363]]
+	};
+	var div, map;
+
+	document.addEventListener('DOMContentLoaded', init);
+
+	function init() {
+		var baseLayers = { 'OSM': baseLayer };
+		var overlays = { 'Hotels': hotelsLayer };
+		var options = { collapsed: false, hideSingleBase: true };
+		var mapContainerQuery = '.map-container';
+		var mapId = 'map';
+
+		// setup
+		div = document.getElementById(mapId);
+		map = L.map(div, mapOptions);
+
+		// controls
+		L.control.layers(baseLayers, overlays, options).addTo(map);
+		L.control.grow({ mapContainerQuery: mapContainerQuery }).addTo(map);
+		L.control.panTo({ views: views }).addTo(map);
+	}
+
+	function createLabel(center, label, priority) {
+		var icon = L.divIcon({
+			className: 'label label-priority-' + priority,
+			iconAnchor: [8, 9],
+			html: label
+		});
+		return L.marker(center, {
+			icon: icon
+		});
+	}
+
+	function onEachFeature(feature, layer) {
+		var props = feature.properties;
+		var content = tooltipTemplate
+			.replaceAll('{name}',props['name:de'])
+			.replaceAll('{website}', props['website'])
+			.replaceAll('{street}', props['addr:street'])
+			.replaceAll('{housenumber}', props['addr:housenumber'])
+			.replaceAll('{postcode}', props['postcode']);
+			//.replace('{purpose}', props.purpose)
+			//.replace('{src}', props.bild)
+			//.replace('{title}', name);
+
+		layer.bindTooltip(content, { offset: [-5, 0] });
+
+		if (props.priority < 2 && props.label.length) {
+			var label = props.short_name;
+			var priority = props.priority;
+			var marker = createLabel(props.label, label, priority);
+			campusLabels.addLayer(marker);
+		}
+	}
+})();

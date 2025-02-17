@@ -11,13 +11,13 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-<!--	<link rel="stylesheet" href="./standort_anreise/script/leaflet.css"/>
+	<link rel="stylesheet" href="./standort/script/leaflet.css"/>
 
-	<script src="./standort_anreise/script/leaflet.js"></script>
-	<script src="./standort_anreise/script/leaflet.addons.js"></script>
-	<script src="./standort_anreise/data/buildings.js"></script>
-	<script src="./standort_anreise/data/hotels.js"></script>
-	<script src="./standort_anreise/script/map.js"></script>-->
+	<script src="./standort/script/leaflet.js"></script>
+	<script src="./standort/script/leaflet.addons.js"></script>
+	<script src="./standort/data/buildings.js"></script>
+	<script src="./standort/data/hotels.js"></script>
+	<script src="./standort/script/map.js"></script>
 </head>
 
 <body id="standort">
@@ -26,6 +26,10 @@
 	
 	<h1 ID="Standort" name="Standort">Standort</h1>
 	<!--<h1 ID="Standort" name="Standort">Standort, Anreise und Übernachtung</h1>-->
+
+    <div class="map-container">
+		<div id="map" class="map"></div>
+	</div>
 
         <p><strong>Adresse:</strong><br>Schlossplatz 2<br>48149 Münster</p>
 
