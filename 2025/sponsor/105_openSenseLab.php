@@ -53,7 +53,7 @@
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
 							<li>
-								<a href=https://www.linkedin.com/company/opensenselab-ggmbh"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com/company/opensenselab-ggmbh"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							
 							<li>
