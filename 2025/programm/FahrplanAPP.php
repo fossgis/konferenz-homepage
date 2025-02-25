@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2024 - Fahrplan-APP</title>
+	<title>FOSSGIS 2025 - Fahrplan-APP</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -18,7 +18,7 @@
 
 <body id="expo">
 
-	<p><a href="/2024">Zurück zur Startseite</a></p>
+	<p><a href="/2025">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
@@ -26,8 +26,8 @@
 		<div class="row">
 		<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 		<h3 id="APP" name="APP">Android-Fahrplan-App</h3>
-			<p>Die Fahrplan-App für das FOSSGIS2024 Programm ist für Android Smartphone und Tablet verfügbar und hier <a href="https://t1p.de/mi1o">im Playstore downloadbar</a>.</p>
-			<p> Hier ein paar Ansichten, probieren Sie es einfach selbst aus.</p>
+			<p>Die Fahrplan-App für das Programm der FOSSGIS 2025 ist für Android Smartphone und Tablet verfügbar und hier <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">im Playstore </a>sowie <a href="https://f-droid.org/packages/info.metadude.android.fossgis.schedule">F-Droid</a> downloadbar.</p>
+			<p> Hier ein paar Ansichten aus dem Jahr 2024, probieren Sie es einfach selbst aus.</p>
 			
 			<p><img src="./programm/img/App_Beschreibung_Smartphone_1.png" class="img-fluid" style="margin-rigth: 250px" alt="APP"></p>
 			<p><img src="./programm/img/App_Beschreibung_Smartphone_2.png" class="img-fluid" style="margin-rigth: 250px" alt="APP"></p>	

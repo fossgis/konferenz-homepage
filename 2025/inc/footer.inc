@@ -12,5 +12,8 @@
 		<li>
 			<a href="./datenschutz.php">Datenschutzerklärung</a>
 		</li>
+		<li>
+			<a href="https://fossgis-konferenz.de/liste.html">Liste aller FOSSGIS-Konferenzen</a>
+		</li>
 	</ul>
 </footer>
