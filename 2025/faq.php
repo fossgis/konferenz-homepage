@@ -74,8 +74,11 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<li><b>Wie sehe ich, ob meine Zahlung erfolgreich war?</b><br>
 		Die Überweisungen werden einmal pro Woche überprüft und bei Zahlungseingang im Bestellstatus eingepflegt. Da Überweisungen ein paar Tage dauern können, bitten wir um etwas Geduld. Sobald der Bestellstatus auf bezahlt geändert wird, erhalten Sie eine E-Mail. PayPal-Zahlungen werden sofort als bezahlt markiert.</li>
 		
-		<li><b>Wie funktioniert das mit der Warteliste?</b><br>
-		Wenn die Veranstaltung ausverkauft ist, können Sie sich auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
+		<li><b>Welche Chancen habe ich, wenn die Veranstaltung ausvekauft ist?</b><br>
+		Wenn die Veranstaltung ausverkauft ist, können Sie schauen, ob die Warteliste aktiviert ist. Wenn keine Warteliste aktiviert ist, können keine weiteren Tickets verkauft werden, weil die Obergrenze der Anzahl der teilnehmednen erreicht ist.</li>
+
+		<li><b>Wie funktioniert die Warteliste?</b><br>
+		Wenn die Veranstaltung ausverkauft ist und absehbar ist, dass Rückläufertickets zum Verkauf frei werden, schalten wir die Warteliste an. Wenn diese an ist, können Sie sich bei Interesse an einem Ticket auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
 
 		<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
 		Sie finden diese Infos unter <a href="https://pretix.eu/fossgis/2025/page/informationen-fr-teilnahme-an-fossgis-konferenz-2025/" >"Informationen für Teilnehmende"</a> zur Verfügung gestellt.</li>

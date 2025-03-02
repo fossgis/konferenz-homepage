@@ -65,8 +65,8 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
 Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. 
 	<ul>
-	<li>Ort: <s>Schlossgartencafé Münster</s> eine neue Lokation wird gefunden
-	<li>Adresse: <s>Schlossgarten 4, 48149 Münster</s> tba.</li>
+	<li>Ort: Mensa am Aasee
+	<li>Adresse: Bismarckallee 11, 48151 Münster</li>
 	<li>Zeit: 18:30/19 Uhr</li>
  	<li>Angebot: Buffet und Getränke</li>
 	</ul>
@@ -98,7 +98,8 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Es wird durch das <a href="https://www.archive.nrw.de/landesarchiv-nrw/landesarchiv-nrw-abteilung-westfalen-muenster">Magazin des Landesarchiv NRW</a> Abteilung Westfalen geführt. Der Schwerpunkt liegt auf der Kartensammlung und umfasst Karten und Archivgut vom 16. Jahrhundert bis in die Gegenwart.</li></ul>
 
 	<h4 id="OSMFreitag" name="OSMFreitag">OSM-Event am Freitagabend</h4>
-	<p>Für alle, die am Freitagabend, den 28. März 2025 in der Stadt sind, wird ein Treffpunkt bekannt gegeben.</p>
+	<p>Für alle, die am Freitagabend, den 28. März 2025 in der Stadt sind, haben wir ab 18:30 Uhr Plätze im <a href="https://www.stw-muenster.de/gastronomie-standort/hier-und-jetzt/">Hier und Jetzt</a>, Bismarckallee 11, 48151 Münster reserviert. Es gibt Essen sowei Getränke. Jeder bezahlt seine Rechnung selbst.    <br>
+Um der Lokation eine einigermaßen verbindliche Rückmeldung zur Anzahl Gäste geben zu können, bitte im Wiki in der <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2025/OSM-Samstag#Geselliges_Beisammensein_am_Freitagabend">Tabelle Geselliges Beisammensein am Freitagabend</a> eintragen.</p>
 
 	<h3>Samstag, 29. März 2025</h3>
 	
