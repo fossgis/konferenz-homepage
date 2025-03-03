@@ -86,7 +86,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<h3>Freitag, 28. März 2025</h3>
 	
 	<h4>Sektempfang am FOSSGIS-Stand</h4>
-	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:30 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2025 am FOSSGIS-Vereins-Stand eingeladen.</p>
+	<p>Alle Mitglieder des FOSSGIS-Vereins, Freunde und Interessierte sind ab 16:15 Uhr herzlich zum Sektempfang zum Ausklang der FOSSGIS 2025 am FOSSGIS-Vereins-Stand eingeladen.</p>
 
 	<h4 id="KartensammlungLandesarchiv" name="KartensammlungLandesarchiv">Führung durch die Kartensammlung des Landesarchiv NRW</h4>
 

@@ -42,7 +42,7 @@
 	<img src="./img/Zeitplan_FOSSGIS-Konferenz_2025.png" width="950px" alt="Programmübersicht" style="margin-rigth: 500px" align="rigth">
 	</p>
 <p>Die FOSSGIS 2025 beginnt am <b>Mittwochvormittag, den 26. März 2025</b> mit der Eröffnungsveranstaltung und wird in vier parallen Tracks bis <b>Freitag</b> fortgesetzt. Es finden Workshops und Communitysessions sowie ein spannendes Rahmenprogramm statt.
-	<p> Am <b>Samstag, den 29. März 2025</b> findet der OSM-Samstag sowie der Community-Sprint statt. Am OSM-Samstag werden aktuelle Themen rund um OpenStreetMap diskutiert. Den Community-Sprint planen wir in Anlehnung an die OSGeo-Codesprints bei FOSS4G-Konferenzen.</p> 
+	<p> Am <b>Samstag, den 29. März 2025</b> findet der <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2025/OSM-Samstag" target="_blank">OSM-Samstag</a> sowie der Community-Sprint statt. Am OSM-Samstag werden aktuelle Themen rund um OpenStreetMap diskutiert. Den Community-Sprint planen wir in Anlehnung an die OSGeo-Codesprints bei FOSS4G-Konferenzen.</p> 
 	 
 	<ul>
 	<li><p><b>Konferenz-Programm:</b> <a href="https://pretalx.com/fossgis2025/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2025/schedule/</a></li>
