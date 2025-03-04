@@ -67,7 +67,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<ul>
 	<li>Ort: Mensa am Aasee
 	<li>Adresse: Bismarckallee 11, 48151 Münster</li>
-	<li>Zeit: 18:30/19 Uhr</li>
+	<li>Zeit: 19 – 23 Uhr</li>
  	<li>Angebot: Buffet und Getränke</li>
 	</ul>
 	</p>
