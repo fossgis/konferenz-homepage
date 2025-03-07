@@ -334,16 +334,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 					<li class="tile media">
 					<a href="https://www.gogeogo.com/de" target="_blank">
 					<img src="./img/s/504_GGGlogo.svg" alt="GoGeoGo">
-             
-       
 					</a>
 					</li>
-					
 					</ul>
+
 			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
-
-					
-
 
 			<h3 id="Jobwand" >Jobbörse</h3>
 			<p>Es gibt wieder eine Jobbörse im Rahmen der Konferenz. Dafür stellen wir eine Pinnwand ins Foyer, dort können Stellenanzeigen angebracht werden. In Kooperation mit GoGeoGo gibt es vom 17.03.-07.04. eine digitale Jobbörse. Beim Eintragen bitte die Auftragsnummer FOSSGIS2025 eintragen, dann erscheint die Stellenanzeige in der <a href="https://www.gogeogo.com/de/company/fossgis-2025" target="_blank"> FOSSGIS 2025 Jobbörse</a>.

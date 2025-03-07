@@ -33,13 +33,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>WORK SMARTER – NOT HARDER</h3>
 
-<p>Mit diesem Motto bieten wir Dienstleistungen und Lösungen rund um die Erfassung und Nutzung von Geodaten. Unser Anspruch und unsere tägliche Motivation basieren auf dem Ziel, zuverlässig funktionierende Prozesse zu etablieren, welche die Effizienz der Abläufe und die Zufriedenheit der Mitarbeitenden unserer Kunden auf ein völlig neues Niveau heben. Hierbei setzen wir überwiegend auf bewährte OpenSource-Technologien wie QGIS, QField und QField-Cloud.</p>
-
-<p>Sie möchten sich weiterqualifizieren und stärker selbst aktiv werden? Dann begleiten wir Sie gern mit unseren Beratungs-, Schulungs- und Supportleistungen.</p>
-
-<p>Oder Sie möchten sich vollständig auf Ihre Arbeit fokussieren und für Tätigkeiten wie Erfassung, Aufbereitung, Migration, Analyse und Visualisierung von Geodaten gern Dienstleistung in Anspruch nehmen? Auch hier stehen wir gern mit unserer Erfahrung und Expertise als Partner an Ihrer Seite.</p>
-
-<p>Für alle die es genau wissen, wollen bieten wir mit der GNSS Smartantenne Happy Mini Q die passende Ergänzung zu Ihrer QField-Anwendung. Mit ihrer hohen Präzision, der tiefen Integration in die QField-App und aufgrund der Möglichkeit zur Schrägmessung werden Ihre Arbeitsabläufe noch effizienter und einfacher und Sie können sich zu 100% auf das Wesentliche konzentrieren - Ihre eigentliche Aufgabe.</p>
+<p>Wir optimieren Geodatenprozesse mit OpenSource-Lösungen wie QGIS und QField. Ob Schulung, Support oder Datendienstleistungen: Wir begleiten Sie! Ergänzt durch die präzise GNSS-Smartantenne Happy Mini Q für effiziente Arbeitsabläufe.</p>
 
 				</div>
 				<div class="col-lg-3">
