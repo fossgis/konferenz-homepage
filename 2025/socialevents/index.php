@@ -38,7 +38,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	
 	<h4 id="Hackathon" name="Hackathon">Hackathon #ifgiHACK25</h3>
 	<p>Am Montag und Dienstag findet im Vorfeld der FOSSGIS 2025 jeweils von 10-18 Uhr der Hackathon #ifgiHACK25 in den Räumen des ifgi (Institut für Geoinformatik Münster, Heisenbergstraße 2, 48149 Münster) statt.<br>
-Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen, globalen oder das Studium betreffenden Herausforderungen zu entwickeln. <br>Eine Anmeldung ist erforderlich. <a href="./socialevents/ifgiHACK.php">Hier</a> für mehr Infos weiterlesen.</p>
+Teilnehmende sind eingeladen in Teams Ideen und Prototypen zu spannenden lokalen, globalen oder das Studium betreffenden Herausforderungen zu entwickeln. <br>Eine Anmeldung ist erforderlich. <a href="./socialevents/ifgiHACK.php">Hier für mehr Infos</a> weiterlesen.</p>
 
 	<h4 id="Stadtrundgang" name="Stadtrundgang">Geographischer Stadtrundgang</h3>
 	<p>Für schon am Dienstag Angereiste Teilnehmende.

@@ -71,13 +71,27 @@
 		</ul> 
 		
 		<ul><b>Mittwoch</b>
-		<li>9:30 Uhr – Pitches der Teams am ifgi</li>
-		<li>10:00 Uhr – Verkündung der Gewinnerprojekte</li>
+		<li>9:00 Uhr – Pitches der Teams am ifgi</li>
+		<li>9:30 Uhr – Verkündung der Gewinnerprojekte</li>
 		<li>14:25 Uhr – Pitches der drei besten Teams auf der FOSSGIS 2025, <a href="https://pretalx.com/fossgis2025/talk/PDKWKU/">im Hörsaal 4 (S2)</a></li>
 		<li>Gewinner:innen erhalten Teilnahme Abendveranstaltung</li>
 		</ul>
 		
-	
+			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+			
+		<h4 id="Challenge" name="Challenge">WANTED: Open Source GeoSoftware Challenge</h4>
+
+		<p>Das IFGI sucht Unternehmen und Organisationen, die eine „Challenge“ beitragen möchten. Dabei kann es sich um eine spannende Weiterentwicklung eines existierenden Projektes / Produktes, die an eine besondere Herausforderung geknüpft ist, oder eine Idee für ein ganz neues Projekt handeln.</p>
+
+		<p>Als Challenge-Geber müsst ihr:<br>
+		  - am 24.03. zw. 10:00 -10:30 bereitstehen (in Person oder per Videokonferenz), um die Challenge innerhalb von 2-3 min den Teilnehmenden vorzustellen;<br>
+		  - im Laufe des Hackathons (zu normalen Bürozeiten) für Rückfragen erreichbar sein - in Person vor Ort oder remote die nötigen Ressourcen bereitstellen (z.B. Code-Repositories, Dokumentation o.ä.).</p>
+
+		<p>Als Challenge-Geber könnt ihr zudem:<br>
+		  - euere Organisation / euer Unternehmen im Laufe des Hackathons an einem Stand (mit Roll-Up) am Institut für Geoinformatik vorstellen und Studierende kennenlernen.</p>
+
+   		<p>Bei Interesse bitte mit Vorschlägen bei <a href="mailto:bartoschek@uni-muenster.de?subject=GeoSoftware_Challenge">bartoschek@uni-muenster.de</a> melden.
+
 			</div>
 			<div class="col-lg-3">
 				<div class="mb-4">
@@ -85,7 +99,7 @@
 						<h6 class="mb-0">Kontakt für Fragen<br>
 							
 							E-Mail: <br>
-							<a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a><br></h6>
+							<a href="mailto:konferenz-orga@fossgis.de?subject=Frahe_zu_IFGI-Hack">konferenz-orga@fossgis.de</a><br></h6>
 					</div>
 
 						
