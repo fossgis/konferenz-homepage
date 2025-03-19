@@ -42,7 +42,7 @@ Mit <a href="https:/www.gis-trainer.com">gis-trainer.com</a> bieten wir vielfäl
 							Webseiten:<br>
 						<a href="https://www.geosysnet.com/">
 							https://www.geosysnet.com/</a><br>
-<a href="https:/www.gis-trainer.com">www.gis-trainer.com</a><br><br>
+<a href="https://www.gis-trainer.com">https://www.gis-trainer.com</a><br><br>
 							E-Mail: <br>
 							<a href="mailto:info@geosysnet.de">info@geosysnet.de</a><br></h6>
 							
