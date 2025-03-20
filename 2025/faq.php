@@ -48,7 +48,9 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		Sie können Ihr Ticket bis 14 Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben. Ab dem Zeitpunkt des Versandes der Informationen für Teinehmende, ist keine kostenfreie Stonierung mehr möglich.</li>
 		<li><b>Wo finde ich mein Konferenzticket?</b><br>
 		Sie finden das PDF/Passbook/Wallet in Ihrer Bestellung, nachdem die Bestellung auf bezahlt gesetzt ist. Den Link zur Bestellung finden Sie in jeder Mail, die das System Ihnen sendet. Wenn die Bestellung auf bezahlt steht, ist der Downloadlink aktiv.</li>
-
+		<li><b>Mein Ticket steht noch auf unbezahlt</b></li>
+		Bitte bezahlen Sie Ihre Bestellung umgehend. <br>
+		Wenn Sie bereits bezahlt haben, senden Sie den verwendeten Verwendungszweck, Bestellnummer, Betrag und Zahldatum an konferenz-orga@fossgis.de, dann suchen wir anhand dieser Angaben nach der Zahlung.</li>
 		<li><b>Ich bin aktiv im Open-Source-Bereich oder bei OpenStreetMap. Bekomme ich ein kostenfreies Ticket?</b><br>
 		Das kostenfreie Ticket ist an Bedingungen geknüpft. Grundsätzlich gilt, wer etwas zur FOSSGIS-Konferenz beiträgt, kann ein kostenfreies Konferenzticket erhalten. Ein adäquater Beitrag ist z.B. ein Vortrag (LT zählt nicht), Workshop, mind. 10 h helfen oder nach den Richtlinien der OSMF-OpenStreetMap Foundation aktiv mappend (42 Mappingtage in den letzten 365 Tagen). Beachten Sie hierzu auch die Informationen unter Anmeldung.</li>
 		<li><b>Ich bin Vortragende:r oder Workshopleiter:in. Bekomme ich ein kostenfreies Ticket?</b><br>
