@@ -45,7 +45,7 @@ Wenn Sie das Onlineticket buchen, bekommen Sie Zugang zum Livestream der Vorträ
 		<!--Registrieren Sie sich im <a href="https://helfer.fossgis.de/">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
 Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/">Helfen</a>.</li>-->
 		<li><b>Ich brauche mein Ticket nicht.</b><br>
-		Sie können Ihr Ticket bis 14 Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben.</li>
+		Sie können Ihr Ticket bis 14 Tage vor der Konferenz stornieren. In der Bestellbestätigung, die Sie per E-Mail erhalten, finden Sie einen Link, über den Sie Ihre Bestellung ändern oder stornieren können. Ansonsten können Sie uns auch einfach eine E-Mail an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a> schreiben. Ab dem Zeitpunkt des Versandes der Informationen für Teinehmende, ist keine kostenfreie Stonierung mehr möglich.</li>
 		<li><b>Wo finde ich mein Konferenzticket?</b><br>
 		Sie finden das PDF/Passbook/Wallet in Ihrer Bestellung, nachdem die Bestellung auf bezahlt gesetzt ist. Den Link zur Bestellung finden Sie in jeder Mail, die das System Ihnen sendet. Wenn die Bestellung auf bezahlt steht, ist der Downloadlink aktiv.</li>
 
