@@ -16,28 +16,28 @@
 <body id="programm">
 	<?php include "../inc/header.inc"; ?>
 
-<!--    <h3>Vortragsaufzeichnungen</h3>
-	<p>Die Vorträge und Demosessions sind aufgezeichnet und veröffentlicht:</p>
+   <h2>Vortragsaufzeichnungen</h2>
+	<p>Die Vorträge und Demosessions der FOSSGIS 2025 sind aufgezeichnet und veröffentlicht:</p>
 		<ul>
 			<li> <a href="https://pretalx.com/fossgis2025/schedule/" target="_blank" rel="noopener nofollow">Konferenz-Programm</a></p>
 			</li>
-			<li> <a href="https://media.ccc.de/c/fossgis2025" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2024</a></p>
+			<li> <a href="https://media.ccc.de/c/fossgis2025" target="_blank" rel="noopener nofollow">media.ccc.de/fossgis2025</a></p>
 			</li>
 <!--			<li> <a href="https://av.tib.eu/series/1220/fossgis+konferenz+2022+online+event+09+12+marz+2022" target="_blank" rel="noopener nofollow">TIB</a></p>
-			</li>
-			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p>
 			</li>-->
+			<li> <a href="https://www.youtube.com/user/fossgis" target="_blank" rel="noopener nofollow">YouTube</a></p>
+			</li>
 		</ul>
 
-<!--	<h3 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h3>
-	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/2024/fossgis_tagungsband_2024_digital.pdf">als PDF zum Download</a> zur Verfügung.-->
+	<h2 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h2>
+	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/2025/fossgis_tagungsband_2025_digital.pdf">als PDF zum Download</a> zur Verfügung.
 
 		
 
 	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
 	<p>Die FOSSGIS 2024 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2024</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
 
-	<h3 id="Programm25" name="Programm25"class="Programm25">Programm FOSSGIS 2025</h3>
+<!--	<h3 id="Programm25" name="Programm25"class="Programm25">Programm FOSSGIS 2025</h3>
 	<p>Gesamtüberblick Konferenzprogramm FOSSGIS 2025 – sofort ins aktuelle Programm springen: <a target="_blank" href="https://pretalx.com/fossgis2025/schedule/">Link zu Pretalx</a>. 
 	<img src="./img/Zeitplan_FOSSGIS-Konferenz_2025.png" "overflow-x="auto" alt="Programmübersicht" align="rigth">
 	</p>
@@ -56,11 +56,11 @@
 		<p>Die Android-App mit Fahrplan und Sponsoreninfos steht zum Download in <a href="https://f-droid.org/packages/info.metadude.android.fossgis.schedule">F-Droid</a> und <a href="https://play.google.com/store/apps/details?id=info.metadude.android.fossgis.schedule">Playstore</a> bereit. 
 <!--<a href="./programm/FahrplanAPP.php">Hier</a> finden Sie Vorschaubilder sowie eine Anleitung die eigene Helferschicht zu integrieren.--> </p>
 
-	<h4> Workshop nachbuchen</h4>
+<!--	<h4> Workshop nachbuchen</h4>
 	<p>Sie wollen einen Workshop nachbuchen? <br>
-		Schreiben Sie eine <a href="mailto:konferenz-orga@fossgis.de?subject=Workshop_nachbuchen"">E-Mail</a> mit folgenden Angaben: Bestellnummer Ticketbuchung; Name Teilnehmer:in; Email-Adresse Teilnehmer:in; welcher Workshop. Eine Gebühr von 130 EUR wird pro Workshop erhoben.</p>
+		Schreiben Sie eine <a href="mailto:konferenz-orga@fossgis.de?subject=Workshop_nachbuchen"">E-Mail</a> mit folgenden Angaben: Bestellnummer Ticketbuchung; Name Teilnehmer:in; Email-Adresse Teilnehmer:in; welcher Workshop. Eine Gebühr von 130 EUR wird pro Workshop erhoben.</p>-->
 	
-	<h2 id="programmquer" name="programmquer"class="Programm">Konferenz-Programm im Querformat</h2>
+	<h2 id="programmquer" name="programmquer"class="Programm">Konferenz-Programm</h2>
 	
 <pretalx-schedule event-url="https://pretalx.com/fossgis2025/" locale="de-formal" format="grid" style="--pretalx-clr-primary: #EE7F00" alt="Widget"></pretalx-schedule>
 <noscript>
