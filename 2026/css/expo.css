@@ -1,0 +1,79 @@
+.expo-box {
+    padding: 20px;
+    background: $px-white;   
+    text-align: center;
+    position: relative;
+    top: 0;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 6px 3px, rgb(0 0 0 / 6%) 0px 2px 4px 3px;
+    border-radius: 4px;
+}
+.expo-box .icon {
+    height: 120px;
+    margin-bottom: 22px;
+}
+
+.expo-box .icon img {
+    max-height: 100%;
+    max-width: 200px;
+}
+
+.expo-box h5 {
+    color: #191b13;
+    font-weight: 600;
+    font-size: 18px;
+    position: relative;
+    padding: 0 0 20px;
+    margin: 0 0 20px;
+}
+
+.expo-box h5:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 30px;
+    height: 2px;
+    margin: auto;
+    background: #ea4020;
+}
+
+
+.icon {
+    height: 120px;
+    margin-bottom: 22px;
+}
+
+.icon img {
+    max-height: 100%;
+    max-width: 200px;
+}
+
+.expo-box .project-tile {
+    height: 120px;
+    margin-bottom: 22px;
+}
+
+.expo-box .project-tile img {
+    max-height: 100%;
+    max-width: 200px;
+}
+
+
+.social-icon ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.social-icon ul li {
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.sp-logo {
+    max-width: 350px;
+}
+
