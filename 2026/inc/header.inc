@@ -14,10 +14,10 @@
 		<li id="navHome">
 			<a href="./">Startseite</a>
 		</li>
-<!-- 		<li id="navCall">
+ 		<li id="navCall">
 		<a href="./callforpapers/">Call for Participation</a>
 		</li>
-		<li id="navProgramm">
+<!--		<li id="navProgramm">
 		<a href="./programm/">Programm</a>
 		</li>
 		<li id="navEvents">
@@ -29,11 +29,11 @@
 		<li id="navAnreise">
 			<a href="./standort_anreise/">Standort und Anreise</a>
 			<a href="./standort/">Standort</a>
-		</li>
+		</li>-->
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
 		</li>		
-		<li id="navTeam">
+<!--		<li id="navTeam">
 			<a href="./team/team.php">Team</a>
 		</li>
 		<!--	<li id="navExpo">
