@@ -127,11 +127,11 @@ Die Pausenversorgung für die Konferenzteilnehmenden ist wichtig und wird von ei
 		
 		<h3>Schritte, die zu tun sind, um Vor-Ort-Helfer:in zu werden</h3>
 		<ul><li>Diese Seite gelesen haben.</li> 
-		<li>Um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten, eine <a href="mailto:helfen@fossgis.de"> Mail </a> ans Helfer:innenteam schreiben.</li>
+		<li>Um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten, eine <a href="mailto:helfen@fossgis.de? subject=Anfrage_Gutscheincode_Helferticket"> Mail </a> ans Helfer:innenteam schreiben.</li>
 <!--		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
 		
 		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
-		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de? subject=Konferenzhelferteam_erreichen"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
 		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2026</i></a> beitreten. </li>
 		<li>Bei Fragen einfach fragen.</li>
 		</ul>
@@ -179,11 +179,11 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite gelesen haben.</li> 
-		<li>Um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten, eine <a href="mailto:helfen@fossgis.de"> Mail </a> ans Helfer:innenteam schreiben.</li>
+		<li>Um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten, eine <a href="mailto:helfen@fossgis.de? subject=Anfrage_Gutscheincode_Helferticket"> Mail </a> ans Helfer:innenteam schreiben.</li>
 <!--		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
 		
 		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
-		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de? subject=Konferenzhelferteam_erreichen"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
 		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2026</i></a> beitreten. </li>
 		<li>Bei Fragen einfach fragen.</li>
 		</ul>

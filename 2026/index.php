@@ -242,11 +242,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 						</a>
 					</li>
 				</ul>	
-<!--					<li class="tile media">
-						<a href="https://www.oreilly.de/" target="_blank">
-						<img src="./img/s/506_OReilly_logo.jpg" alt="O'Reilly">
-						</a>
-					</li> 
+
 					<li class="tile media">
 					<a href="https://www.gogeogo.com/de" target="_blank">
 					<img src="./img/s/504_GGGlogo.svg" alt="GoGeoGo">
@@ -263,9 +259,9 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>-->
 
 			
-<!--			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
-           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen zum Sponsoring und zur Firmenausstellung in der <a href="https://files.fossgis.de/Konferenz/2025/Sponsoreninformationen_FOSSGIS2025.pdf" target="_blank" >Sponsoringbroschüre</a>. Für die Vereinbarung eines Sponsorings, senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2025/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2025.pdf" target="_blank">Sponsoringvereinbarung</a>.</p>
-			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de">Konferenzorganisationsteam</a>.</p> -->
+			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
+           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen zum Sponsoring und zur Firmenausstellung in der <a href="https://files.fossgis.de/Konferenz/2026/Sponsoreninformationen_FOSSGIS-2026.pdf" target="_blank" >Sponsoringbroschüre</a>. Für die Vereinbarung eines Sponsorings, senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2026/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2026.pdf" target="_blank">Sponsoringvereinbarung</a>.</p>
+			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de? subject=Konferenzorganisationsteam_erreichen">Konferenzorganisationsteam</a>.</p>
   
         <?php include('inc/footer.inc'); ?>
  
