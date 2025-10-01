@@ -18,7 +18,7 @@
 
 <body id="expo">
 
-	<p><a href="/2025#Platin">Zurück zur Startseite</a></p>
+	<p><a href="/2026#Platin">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
