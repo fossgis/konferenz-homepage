@@ -27,7 +27,7 @@
 			<a href="./anmeldung/">Anmeldung</a>
 		</li>
 		<li id="navAnreise">
-			<a href="./standort_anreise/">Standort und Anreise</a>
+			<!--<a href="./standort_anreise/">Standort und Anreise</a>
 			<a href="./standort/">Standort</a>
 		</li>-->
 		<li id="navhelfen">
