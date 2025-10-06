@@ -73,7 +73,7 @@ Begutachtung im Peer-Review-Verfahren durch das Academic Track-Komitee mit dem Z
 Workshops dienen der Vertiefung eines Themas, z.B. mit praktischen Übungen oder Fallbeispielen. Inhalte und Ziele sowie Anteile von Praxis und Theorie, konkrete Anforderungen an Teilnehmende sowie Zielgruppe (Einsteiger:innen, Fortgeschrittene oder Expert:innen) sollten benannt sein. Die Teilnahme am Workshop ist für Teilnehmende kostenpflichtig. Die Zahl der Teilnehmenden ist begrenzt. 
 Wir bevorzugen Workshops zu aktuellen und nachgefragten Themen (Themenvorschläge aus der Workshopevaluation siehe <a href="https://www.fossgis.de/wiki/Konferenz_2026/Workshop_Orga_WS-Themenvorschlaege">Wiki</a>). Für die Workshops gibt es folgende Formate:<br>
 - 90-minütige Workshops von Mittwoch bis Freitag parallel zu den Vorträgen <br>
-- Längerer Workshop (ca. 3h) für umfangreichere Themen am Dienstag (Vortag der Konferenz)
+- NEU: Längerer Workshop (ca. 3h) für umfangreichere Themen am Dienstag (Vortag der Konferenz)
 
 		<li><strong>Anwendertreffen/BoF</strong><br>
 Anwendertreffen oder „Birds of a Feather“-Sessions (BoF) ermöglichen es Gleichgesinnten und -interessierten sich konzentriert und selbstorganisiert zu einem bestimmten Thema in einer 60-minütigen Session auszutauschen.
