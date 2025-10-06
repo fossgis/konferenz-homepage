@@ -57,17 +57,17 @@ Um die Kapazitäten zu planen ist eine Anmeldung zur Teilnahme erforderlich.</p>
 
 	<p>Das Konferenzprogramm beinhaltet unterschiedliche Formate.</p>
 	<ul>
-		<li><strong>Lightning Talk</strong><br>
-Ein Lightning Talk bietet Gelegenheit neue Software, neue Projekte oder neue Ideen in 5 Minuten zu präsentieren. Es ist möglich noch kurz vor und während der Konferenz einen Lightning Talk einzureichen, sofern Kapazitäten im Programm verfügbar sind.
-
 		<li><strong>Vortrag</strong><br>
 Vorträge bilden den Hauptteil der Konferenz. Ein Vortrag ist 20 Minuten lang. Danach sind 5 Minuten Zeit für Fragen.
 
-		<li><strong>Vortrag mit Paper im Academic Track</strong><br>
-Begutachtung im Peer-Review-Verfahren durch das Academic Track-Komitee mit dem Ziel einer zitierfähigen Veröffentlichung eines Full Papers (6-8 Seiten). Der einzureichende Abstract sollte ca. 3.000 Zeichen umfassen. Einreichungen – bzw. die Full-Paper – im Academic-Track werden zusätzlich nach gängigen wissenschaftlichen Kriterien _single blind_ bewertet.
+		<li><strong>Lightning Talk</strong><br>
+Ein Lightning Talk bietet Gelegenheit neue Software, neue Projekte oder neue Ideen in 5 Minuten zu präsentieren. Es ist möglich noch kurz vor und während der Konferenz einen Lightning Talk einzureichen, sofern Kapazitäten im Programm verfügbar sind.
 
 		<li><strong>Demo-Session</strong><br>
 Die Demo-Session dient der Vorführung von Software oder Prozessen („Live-Hacking“) und ist 45 Minuten lang.
+
+		<li><strong>Vortrag mit Paper im Academic Track</strong><br>
+Begutachtung im Peer-Review-Verfahren durch das Academic Track-Komitee mit dem Ziel einer zitierfähigen Veröffentlichung eines Full Papers (6-8 Seiten). Der einzureichende Abstract sollte ca. 3.000 Zeichen umfassen. Einreichungen – bzw. die Full-Paper – im Academic-Track werden zusätzlich nach gängigen wissenschaftlichen Kriterien _single blind_ bewertet.
 
 		<li><strong>Workshop</strong><br>
 Workshops dienen der Vertiefung eines Themas, z.B. mit praktischen Übungen oder Fallbeispielen. Inhalte und Ziele sowie Anteile von Praxis und Theorie, konkrete Anforderungen an Teilnehmende sowie Zielgruppe (Einsteiger:innen, Fortgeschrittene oder Expert:innen) sollten benannt sein. Die Teilnahme am Workshop ist für Teilnehmende kostenpflichtig. Die Zahl der Teilnehmenden ist begrenzt. 
