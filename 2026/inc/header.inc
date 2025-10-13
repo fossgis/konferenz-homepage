@@ -25,11 +25,10 @@
 		</li>
 		<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
-		</li>
+		</li> -->
 		<li id="navAnreise">
-			<!--<a href="./standort_anreise/">Standort und Anreise</a>
 			<a href="./standort/">Standort</a>
-		</li>-->
+		</li>
 		<li id="navhelfen">
 			<a href="./helfen/">Helfen</a>
 		</li>		
