@@ -71,6 +71,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
+			</ul>
 <!--			<li class="tile platin">
 			<a href="sponsor/001_OPENGis_CH.php" target="_blank">
 			<img src="./img/s/001_QFieldCloud-by-OpenGIS.png" alt="opengis">
@@ -114,11 +115,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/105_openSenseLab-Logo.png" alt="openSenseLab">
 			</a>
 			</li>
-			</ul>
+			</ul>-->
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 			<ul class="tiles">
 			<li class="tile silver">
+			<!--<a href="sponsor/201_terrestris_mundialis.php" target="_blank">-->
+			<img src="./img/s/201_Logos_fusioniert_neu-02.png" alt="terrestris mundialis">
+			</a>
+			</li>
+			</ul>
+<!--			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
 			<img src="./img/s/201_ISB_CONET.jpg" alt="CONET ISB GmbH">
 			</a>
