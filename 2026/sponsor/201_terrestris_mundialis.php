@@ -28,10 +28,16 @@
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-				<h3>terrestris GmbH & Co. KG und mundialis GmbH & Co. KG</h3>
-				<p><p></p>
+				<h3>terrestris GmbH & Co. KG</h3>
+				<p>terrestris ist Dienstleister für maßgeschneiderte Geoinformationslösungen auf Basis Freier und Open-Source-Software. Wir entwickeln passgenaue Anwendungen, die den Anforderungen unserer Kundinnen und Kunden entsprechen – Grundlage für faire, transparente und oft langfristige Partnerschaften. Unser Leistungsspektrum reicht von Beratung und Konzeption über Entwicklung bis hin zu Wartung und Support und umfasst: </p>
+				<ul><li>Geo- und Fachportale / Geodateninfrastrukturen</li>
+					<li>Urban Data Plattform / Smart City</li>
+					<li>Business Intelligence / Dashboards</li>
+					<li>Visualisierung von (3D)-Geodaten im Browser</li>
+					<li>Einsatz und Verwendung freier Geodaten wie OpenStreetMap</li>
+				</ul> 
 					
-
+				<h3>mundialis GmbH & Co. KG</h3>
 			</div>
 			<div class="col-lg-3">
 				<div class="mb-4">

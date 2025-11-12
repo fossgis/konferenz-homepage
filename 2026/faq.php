@@ -4,7 +4,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 
-	<title>FOSSGIS 2025 - FAQ</title>
+	<title>FOSSGIS 2026 - FAQ</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -22,15 +22,15 @@
 	<h3>Ticket</h3>
 		<ul>
 		<li><b>Ab wann werden Tickets verkauft?</b><br>
-		ab Januar 2025 </li>
+		ab Januar 2026 </li>
 	<!--	<li><b>Gibt es noch Tickets?</b><br>
 				nein, die Konferenz ist seit dem 21.02.2024 ausgebucht. Die FOSSGIS kann online besucht werden</li>
 			-->
 		<li><b>Wird es Videoaufzeichnungen von Vorträgen geben?</b><br>
 		Geplant ist, die Vorträge aufzuzeichnen und diese nach der Veranstaltung zu veröffentlichen. Die Vorträge der Vorjahre stehen ebenfalls kostenlos bereit, zum Beispiel im <a href="https://av.tib.eu/search?q=FOSSGIS+Konferenz">TIB AV-Portal der Technischen Informationsbibliothek</a>.</li>
-		<li><b>Ist die FOSSGIS 2025 eine hybride Veranstaltung?</b><br>
+		<li><b>Ist die FOSSGIS 2026 eine hybride Veranstaltung?</b><br>
 		Ja, die FOSSGIS wird als hybride Veranstaltung ausgerichtet.
-Wenn Sie das Onlineticket buchen, bekommen Sie Zugang zum Livestream der Vorträge mit Chat der Teilnehmenden sowie Fragenfunktion. Außerdem können Sie online an Anwendertreffen teilnehmen, die im Seminarraum und per Videokonferenz stattfinden werden.
+Wenn Sie das Onlineticket buchen, bekommen Sie Zugang zum Livestream der Vorträge mit Chat der Teilnehmenden sowie Fragenfunktion. Außerdem können Sie online an Anwendertreffen teilnehmen, die im Seminarraum und per Videokonferenz stattfinden.
 </li>
 		<li><b>Wird es Tagestickets geben?</b><br>
 		Nein.</li>
@@ -40,7 +40,7 @@ Wenn Sie das Onlineticket buchen, bekommen Sie Zugang zum Livestream der Vorträ
 		<!--<li><b>Was mache ich mit dem Gutscheincode/ Vouchercode?</b><br>
 				Als erstes den Gutscheincode auf der Anmeldeseite ganz unten einlösen. Sollten Sie ein zweiten Gutscheincode bekommen haben, kann dieser danach eingeben werden.</li>-->
 		<li><b>Kann ich für mein Ticket arbeiten?</b><br>
-		Ja, Sie arbeiten mindestens 10 Stunden für ein Ticket! Informationen finden Sie unter <a href="https://fossgis-konferenz.de/2025/helfen/">Helfen</a>.
+		Ja, Sie arbeiten mindestens 10 Stunden für ein Ticket! Informationen finden Sie unter <a href="https://fossgis-konferenz.de/2026/helfen/">Helfen</a>.
 		
 		<!--Registrieren Sie sich im <a href="https://helfer.fossgis.de/">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
 Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/">Helfen</a>.</li>-->
@@ -50,7 +50,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		Sie finden das PDF/Passbook/Wallet in Ihrer Bestellung, nachdem die Bestellung auf bezahlt gesetzt ist. Den Link zur Bestellung finden Sie in jeder Mail, die das System Ihnen sendet. Wenn die Bestellung auf bezahlt steht, ist der Downloadlink aktiv.</li>
 		<li><b>Mein Ticket steht noch auf unbezahlt</b></li>
 		Bitte bezahlen Sie Ihre Bestellung umgehend. <br>
-		Wenn Sie bereits bezahlt haben, senden Sie den verwendeten Verwendungszweck, Bestellnummer, Betrag und Zahldatum an konferenz-orga@fossgis.de, dann suchen wir anhand dieser Angaben nach der Zahlung.</li>
+		Wenn Sie bereits bezahlt haben, senden Sie den verwendeten Verwendungszweck, Bestellnummer, Betrag und Zahldatum an <a href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a>, dann suchen wir anhand dieser Angaben nach der Zahlung.</li>
 		<li><b>Ich bin aktiv im Open-Source-Bereich oder bei OpenStreetMap. Bekomme ich ein kostenfreies Ticket?</b><br>
 		Das kostenfreie Ticket ist an Bedingungen geknüpft. Grundsätzlich gilt, wer etwas zur FOSSGIS-Konferenz beiträgt, kann ein kostenfreies Konferenzticket erhalten. Ein adäquater Beitrag ist z.B. ein Vortrag (LT zählt nicht), Workshop, mind. 10 h helfen oder nach den Richtlinien der OSMF-OpenStreetMap Foundation aktiv mappend (42 Mappingtage in den letzten 365 Tagen). Beachten Sie hierzu auch die Informationen unter Anmeldung.</li>
 		<li><b>Ich bin Vortragende:r oder Workshopleiter:in. Bekomme ich ein kostenfreies Ticket?</b><br>
@@ -77,15 +77,15 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		Die Überweisungen werden einmal pro Woche überprüft und bei Zahlungseingang im Bestellstatus eingepflegt. Da Überweisungen ein paar Tage dauern können, bitten wir um etwas Geduld. Sobald der Bestellstatus auf bezahlt geändert wird, erhalten Sie eine E-Mail. PayPal-Zahlungen werden sofort als bezahlt markiert.</li>
 		
 		<li><b>Welche Chancen habe ich, wenn die Veranstaltung ausvekauft ist?</b><br>
-		Wenn die Veranstaltung ausverkauft ist, können Sie schauen, ob die Warteliste aktiviert ist. Wenn keine Warteliste aktiviert ist, können keine weiteren Tickets verkauft werden, weil die Obergrenze der Anzahl der teilnehmednen erreicht ist.</li>
+		Wenn die Veranstaltung ausverkauft ist, können Sie schauen, ob die Warteliste aktiviert ist. Wenn keine Warteliste aktiviert ist, können keine weiteren Tickets verkauft werden, weil die Obergrenze der Anzahl der Teilnehmednen erreicht ist.</li>
 
 		<li><b>Wie funktioniert die Warteliste?</b><br>
 		Wenn die Veranstaltung ausverkauft ist und absehbar ist, dass Rückläufertickets zum Verkauf frei werden, schalten wir die Warteliste an. Wenn diese an ist, können Sie sich bei Interesse an einem Ticket auf der Warteliste eintragen. Sie werden per E-Mail benachrichtigt, wenn Sie nachgerückt sind und haben dann 48 Stunden Zeit, ein Ticket zu kaufen. Bitte beachten Sie, dass die Benachrichtigungen jederzeit verschickt werden können und die Frist auch am Wochenende läuft.</li>
 
-		<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
+<!--		<li><b>Wie erhalte ich die Informationen für Teilnehmende, die per E-Mail verschickt werden?</b><br>
 		Sie finden diese Infos unter <a href="https://pretix.eu/fossgis/2025/page/informationen-fr-teilnahme-an-fossgis-konferenz-2025/" >"Informationen für Teilnehmende"</a> zur Verfügung gestellt.</li>
 
-		</ul>
+		</ul>-->
 
 	<h3>Workshops</h3>
 		<ul>
@@ -106,40 +106,39 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<ul>
 
  		<li><b>Sind die Zugänge zur Veranstaltung barrierefrei?</b><br>
-		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich, das heißt das Schloss ist weitgehend, aber nicht komplett barrierefrei. Einer der Hörsäle, ist nur über eine Treppe oder aber über einen anderen Hörsaal erreichbar. Von den beiden Aufzügen ist einer wirklich DIN-konform barrierefrei, bei dem anderen benötigt jemand im Rollstuhl wahrscheinlich Hilfe, um rein und raus zu kommen. Bei Bedarf gerne beim Orgatam melden, wir finden eine Lösung.</li>
+		    Ja alle Veranstaltungsräume sind weitestgehend barrierefrei zugänglich. Die erste Etage des Zentalen Hörsaalgebäudes ist über einen Lift erreichbar.</li>
 		<li><b>Gibt es eine Hausordnung?</b><br>
-		 Ja die Hausordnung ist <a href="https://files.fossgis.de/Konferenz/2025/hausordnung_unims.pdf">hier als PDF</a> verfügbar und von allen Teilnehmenden einzuhalten.   </li>
+		 Ja die Hausordnung ist <a href="Link folgt">hier als PDF</a> verfügbar und von allen Teilnehmenden einzuhalten.   </li>
 		<li><b>Wie komme ich auf die Online-Veranstaltung?</b><br>
-		Kurz vor Beginn der Konferenz, spätestens am 24.03.2025 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
+		Kurz vor Beginn der Konferenz, spätestens am 23.03.2026 wird der Zugang zur Online-Plattform in Ihrer Bestellung auftauchen. Den Link zu Ihrer Bestellung finden Sie in der Fußzeile jeder E-Mail, die Ihnen aus dem Buchungssystem zugestellt wird.</li>
 		<li><b>Welche Technik kommt bei der Konferenz zum Einsatz?</b><br>
 		Wir nutzen die Online-Plattform Venueless, dafür ist jeweils ein aktueller Browser notwendig. Die Vorträge werden über Venueless gestreamt. </li>
 		<li><b>Brauche ich besondere Technik, um an der Online-FOSSGIS teilnehmen zu können?</b><br>
 		Nein. Sie brauchen einen aktuellen Browser sowie Zugang zum Internet. Die Vorträge werden als Livestream gesendet. Für Diskussionen und Netzwerken benötigen Sie ein Mikrofon und gegebenenfalls eine Kamera. Testen Sie die Onlineplattform gerne mit dieser <a href="https://demo-de.venueless.events/rooms/547982e8-daae-4050-ada5-4dda9aa44d70">Demoanwendung</a>.</li>
 		<li><b>WLAN</b><br>
-		WLAN Eduroam: https://www.geteduroam.app/<br>
-		WLAN GuestOnCampus: Nutzungsbedigungen bestätigen, "kostenlos einloggen" klicken, pro Endgerät und Tag 1 GB Datenvolumen, Übertragung ist unverschlüsselt. <br>
-		WLAN Gast im Uni-WLAN: jeder kann sich seinen persönlichen WLAN-Zugang am Schalter gegen Unterschrift abholen. </li>
+		comming soon
+		</li>
 		</ul>
 
 	<h3>Sponsor</h3>
 		<ul>
 		<li><b>Ich möchte Sponsor werden.</b><br>
-		Hier finden Sie die <a href="https://files.fossgis.de/Konferenz/2025/Sponsoreninformationen_FOSSGIS2025.pdf">Sponsoringbroschüre</a>. 
+		Hier finden Sie die <a href="https://files.fossgis.de/Konferenz/2026/Sponsoreninformationen_FOSSGIS-2026.pdf">Sponsoringbroschüre</a>. 
 		<li><b>Wie werde ich Sponsor?</b><br>
-		Bitte senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2025/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2025.pdf">Sponsoringvereinbarung</a> sowie Ihr Logo, Kontakt, Social Media und Text per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Sponsoring">konferenz-orga@fossgis.de</a>.</li>
+		Bitte senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2026/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2026.pdf">Sponsoringvereinbarung</a> sowie Ihr Logo, Kontakt, Social Media und Text per E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Sponsoring">konferenz-orga@fossgis.de</a>.</li>
 		<li><b>Drucksache-Fristen für Textbeitrag und Logo?</b><br>
-		01. Februar 2025</li>
+		01. Februar 2026</li>
 		<li><b>Gibt es Sponsorentickets?</b><br>
 		Nein.</li>
 
 		<li><b>Wo finde ich weitere Informationen?</b><br>
-		In der <a href="https://files.fossgis.de/Konferenz/2025/Sponsoreninformationen_FOSSGIS2025.pdf">Sponsoringbroschüre 2025</a> sowie auf der <a href="https://fossgis-konferenz.de/2025/">Konferenzhomepage</a>.</li>
+		In der <a href="https://files.fossgis.de/Konferenz/2026/Sponsoreninformationen_FOSSGIS-2026.pdf">Sponsoringbroschüre 2026</a> sowie auf der <a href="https://fossgis-konferenz.de/">Konferenzhomepage</a>.</li>
 		</ul>
 
 	<h3>Aussteller</h3>
 		<ul>
 		<li><b>Ich möchte einen Ausstellerstand.</b><br>
-		Für die FOSSGIS 2025 sind keine Ausstellerstände mehr verfügbar. Generell ist ein Sponsoring in einer der Kategorien Platin, Gold, Silber oder Bronze-Sponsor notwendig, um auch einen Ausstellerstand betreiben zu können.<!--<br> Leider sind für die FOSSGIS 2024 schon alle Ausstellerstände vergeben.-->
+		Generell ist ein Sponsoring in einer der Kategorien Platin, Gold oder Silber notwendig, um auch einen Ausstellerstand betreiben zu können.
 		</li>
 		<li><b>Wie ist der Stand ausgestattet?</b><br>
 		Es gibt es einen Tisch, zwei Stühle und eine Pinnwand, sowie Stromanschluss und WLAN. </li>
@@ -149,7 +148,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<li><b>Gibt es Ausstellerticket?</b><br>
 		Im Ausstellerpaket sind zwei Konferenz-Tickets enthalten. Diese werden rechtzeitig als Vouchercodes gesendet.</li>
 		<li><b>Wo finde ich weitere Informationen?</b><br>
-		In der <a href="https://files.fossgis.de/Konferenz/2025/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2025.pdf">Sponsoringbroschüre 2025</a> sowie auf der <a href="https://fossgis-konferenz.de/2025/#Sponsoring">Konferenzhomepage</a>.</li>
+		In der <a href="https://files.fossgis.de/Konferenz/2026/Sponsoreninformationen_FOSSGIS-2026.pdf">Sponsoringbroschüre 2026</a> sowie auf der <a href="https://fossgis-konferenz.de">Konferenzhomepage</a>.</li>
 		</ul>
 
 	<h3>Medienpartnerschaft</h3>
@@ -161,7 +160,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 	<h3 id="Helfen" name="Helfen" >Helfen</h3>
 		<ul>
 		<li><b>Ich möchte bei der Veranstaltung helfen.</b><br>
-		Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="../2025/helfen/">Konferenzhomepage/helfen</a>.</li>
+		Das freut uns und wir unterstützen das mit einer kostenfreien Konferenz-Teilnahme. Bitte informieren Sie sich auf der <a href="../2026/helfen/">Konferenzhomepage/helfen</a>.</li>
 		<li><b>Was ist das Helfersystem/Engelsystem?</b><br>
 		Die Tätigkeiten während der Konferenz planen wir im Helfersystem, die sogenannten Schichten sind meist 1:30h bis 2:00h, oder auch länger. Sie buchen eine Schicht und übernehmen zur angegebenen Zeit die Aufgabe.<br>
 <!--Registrieren Sie sich im <a href="https://helfer.fossgis.de">Helfersystem<a/> und geben Sie per <a href="mailto:helfer@fossgis.de?subject=Interesse_zu_helfen">E-Mail an das Helferteam</a> Bescheid, damit der Gutscheincode für ein Helfer:innenticket versendet werden kann.  
@@ -171,7 +170,7 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2023/helfen/"
 				<!--Wenn Sie noch kein Ticket haben, erhalten Sie einen Gutscheincode für ein kostenfreies Helfer:innenticket. 
 				<!--Falls Sie noch keinen Code erhalten haben, wenden Sie sich per <a href="mailto:helfer@fossgis.de?subject=Gutscheincode_Helferticket">E-Mail an das Helferteam</a>.--></li>
 		<li><b>Was wäre mein Job als Helfer:in?</b><br>
-		Wir benötigen Helfer:innen für Videoaufzeichnung, Sessionleitung, beim Catering sowie beim Auf- und Abbau. Genaue Beschreibungen der Aufgaben sind im Helfersystem zu finden. Das Konferenzorgateam bietet im Februar und März 2025 , zeitnah zur Konferenz Helfer:inneninformationstermine an.
+		Wir benötigen Helfer:innen für Videoaufzeichnung, Sessionleitung, beim Catering sowie beim Auf- und Abbau. Genaue Beschreibungen der Aufgaben sind im Helfersystem zu finden. Das Konferenzorgateam bietet im Februar und März 2026, also zeitnah zur Konferenz Helfer:inneninformationstermine an.
 		<!--im <a href="https://helfer.fossgis.de">Helfersystem</a> zu finden.<br>
 Für Videohelfer:innen wird es am Tag 1 und am Tag 2 kurze Einweisungstreffen geben. Diese werden im <!--<a href="https://helfer.fossgis.de">Helfersystem</a> Helfersystem angekündigt. Ebenso wird es für Sessionleiter:innen ein oder mehrere Treffen geben.<br>
 Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklären.<br> </li>
@@ -189,9 +188,9 @@ Alle anderen Aufgaben kann dir Helfer:in, die vor Dir die Schicht hatte, erklär
 
 	<h3>Kontakt zum Konferenzorgateam</h3>
 		<ul>
-		<li>Matrixkanal: <a href="https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org">#FOSSGIS2025:matrix.org </a></li>
+		<li>Matrixkanal: <a href="https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org">#FOSSGIS2026:matrix.org </a></li>
 		<li>E-Mail an <a href="mailto:konferenz-orga@fossgis.de?subject=Konferenzorganisationsteam_erreichen">konferenz-orga@fossgis.de</a> </li>
-		<li>Anruf: +49 30-62932037</li>
+<!--		<li>Anruf: +49 30-62932037</li>-->
 		<li>Fragen an das <a href="mailto:Programm@fossgis.de?subject=Programmkomitee_erreichen">Programmkomitee</a> </li>
 	</ul>
 
