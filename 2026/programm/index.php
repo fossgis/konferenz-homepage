@@ -102,6 +102,12 @@
 <!--Danke an alle, die beim Community Voting mitgemacht haben. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.</p>-->
 
 <p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2025 hier veröffentlicht.</p>
+
+    <h3 id="Programm26" name="Programm26"class="Programm25">Programmüberblick FOSSGIS 2026</h3>
+	<p>... zeigt Ihnen die Vielfalt des Konferenzprogrammes 2026. <br>
+	<img src="./img/Zeitplan_FOSSGIS-Konferenz_2026.png" "overflow-x="auto" alt="Programmübersicht" align="rigth" width="900px">
+	</p>
+	
 		
 	<?php include "../inc/footer.inc"; ?>
 
