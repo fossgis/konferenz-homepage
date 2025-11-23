@@ -91,15 +91,15 @@
 	<p>Die Einreichungsfrist für Beiträge zum Programm ist vorbei. 
 	Hier ist der <a href="https://fossgis-konferenz.de/2026/callforpapers/">Call for Participation</a> zum Nachlesen verlinkt.<br> 
 
-	<h3 id="CV" name="CV"class="Programm">Community Voting</h3>
+<!--	<h3 id="CV" name="CV"class="Programm">Community Voting</h3>
 	<p>Das Community-Voting (Öffentliche  Abstimmung) ist bis zum 17.11.2025 möglich. Das Programmkomitee lädt die Community ein die Einreichungen mit zu bewerten. Das Ergebnis dient dem Programm-Komitee als Meinungsbild aus der Community und wird in die Bewertung einbezogen.</p>
 	<ul><b>Vorgehensweise:</b><br>
 	 1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: https://pretalx.com/fossgis2026/p/voting/signup/<br>
 	 2. Sie erhalten eine E-Mail mit Ihrem persönlichen Link zur Öffentlichen  Abstimmung<br>
 	 3. Einreichungen anschauen und bewerten - dies kann in Etappen erfolgen.<br>
-	</ul>
+	</ul>-->
 
-<!--Danke an alle, die beim Community Voting mitgemacht haben. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.</p>-->
+	<p>Danke an alle, die beim Community Voting mitgemacht haben. Das Ergebnis wird vom Programm-Komitee als Meinungsbild aus der Community in die Bewertung einbezogen.</p>
 
 <p> Freuen Sie sich schon jetzt auf ein spannendes Programm, dieses wird noch vor Weihnachten 2025 hier veröffentlicht.</p>
 
