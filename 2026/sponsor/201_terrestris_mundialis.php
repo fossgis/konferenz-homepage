@@ -38,6 +38,9 @@
 				</ul> 
 					
 				<h3>mundialis GmbH & Co. KG</h3>
+				<p>mundialis ist auf die Analyse und Verarbeitung von Fernerkundungs- und Geodaten mit Fokus auf cloudbasierte Geoprozessierung spezialisiert. Auf Basis Freier & Open Source Software wie GRASS GIS, actinia und QGIS entwickeln wir maßgeschneiderte Lösungen, die genau zu den Anforderungen unserer Kunden passen.</p>
+
+				<p>Zu unserem Leistungsspektrum gehören automatisierte Geodatenanalyse, skalierbare Prozessierung in der Cloud, Datenharmonisierung sowie die Integration von Open Data. Zudem bieten wir Beratung, Support und Schulungen an und unterstützen entlang der gesamten Prozesskette – von der Konzeption bis zur Bereitstellung fertiger Dienste.</p>
 			</div>
 			<div class="col-lg-3">
 				<div class="mb-4">
