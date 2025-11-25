@@ -120,7 +120,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 			<ul class="tiles">
 			<li class="tile silver">
-			<!--<a href="sponsor/201_terrestris_mundialis.php" target="_blank">-->
+			<a href="sponsor/201_terrestris_mundialis.php" target="_blank">
 			<img src="./img/s/201_Logos_fusioniert_neu-02.png" alt="terrestris mundialis">
 			</a>
 			</li>
