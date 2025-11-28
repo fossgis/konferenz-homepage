@@ -27,7 +27,7 @@
 	<h4 id="Anwendertreffen" name="Anwendertreffen">Anwendertreffen</h4>
 	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden. Bei Interesse bitte per <a href="mailto:programm@fossgis.de"> E-Mail</a> an das Programmkomitee schreiben. </p>
 
-	<h3>Montag und Dienstag vor der Konferenz</h3>
+	<h3>Dienstag vor der Konferenz</h3>
 <!--	<h4>Geochicas laden ein</h4>
 	<p>Am Dienstag dem 19. März 2024 von 18-20 Uhr treffen sich die Geochicas <del>im <a href="http://www.cafe-oktober.de/"> Café Oktober</a> Schlossmühlendamm 23, 21073 Hamburg</del><br>
 	im <a href="https://www.panthera-rodizio.de/restaurant-harburg">Panthera Rodizio</a>, Laemmertwiete 5-7, 21073 Hamburg, wo eine Reservierung angefragt ist, stay tuned;-)<br>
@@ -45,7 +45,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 24. März 2026 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen im <a href="https://www.zak-goettingen.de/">Z.e.K.</a>, Am Wochenmarkt 22, 37073 Göttingen. Jede:r bezahlt seine Rechnung selbst.</p>
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 24. März 2026 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen im <a href="https://www.zak-goettingen.de/">Z.a.k.</a>, Am Wochenmarkt 22, 37073 Göttingen. Jede:r bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 25. März 2026</h3>
 
@@ -93,7 +93,7 @@ Um der Lokation eine einigermaßen verbindliche Rückmeldung zur Anzahl Gäste g
 	
 	<h4 id="OSM-Event" name="OSM-Event">OSM-Samstag</h4>
 
-	<p>Am Samstag, den 28. März findet von 9.00 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen sich zu beteiligen oder daran teilzunehmen. Die Themensammlung erfolgt im <!--<a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2026/OSM-Samstag" target="_blank">OSM-Wiki</a>--> OSM-Wiki. Die Veranstaltung ist kostenfrei. Um eine Anmeldung über das FOSSGIS-Konferenz-Anmeldesystem (ab Januar 2026) wird gebeten.</p>
+	<p>Am Samstag, den 28. März findet von 9.00 bis 17.30 Uhr die beliebte OSM-Unconference statt. Interessierte sind eingeladen sich zu beteiligen oder daran teilzunehmen. Die Themensammlung erfolgt im <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2026/OSM-Samstag" target="_blank">OSM-Wiki</a>. Die Veranstaltung ist kostenfrei. Um eine Anmeldung über das FOSSGIS-Konferenz-Anmeldesystem (ab Januar 2026) wird gebeten.</p>
 	
 	<h4 id="CommunitySprint" name="CommunitySprint">Community Sprint</h4>
 	<p>Beim Community Sprint wird gemeinsam an OpenSource Projekten gearbeitet. Die Veranstaltung startet 9 Uhr mit einem kurzen Vortrag, der für Einsteiger:innen und Interessierte erklärt wie OpenSource funktioniert und wie man beitragen kann. Im Anschluss wird gemeinsam oder individuell an Projekten gearbeitet. Themen können in der <a href="https://www.fossgis.de/wiki/Konferenz_2026/Community-Sprint"> Wikiseite </a>eingetragen werden sowie auch eine Beteiligung an Hannes Initiative <a href="https://www.fossgis.de/wiki/Konferenz_2026/Community-Sprint#Idee_Hannes_-_Gemeinsam_QGIS-Plugins_f%C3%BCr_QGIS4%2FQt6_fit_machen">"QGIS-Plugins für Qt6/QGIS4"</a> möglich ist. Um eine Anmeldung über das FOSSGIS-Konferenz-Anmeldesystem (ab Januar 2026) wird gebeten.</p>
