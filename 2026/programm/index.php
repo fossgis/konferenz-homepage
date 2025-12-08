@@ -42,9 +42,9 @@
     <ul>
 	<li><p><b>Direkter Link zum Programm:</b> <a href="https://pretalx.com/fossgis2026/schedule/" target="_blank" rel="noopener nofollow">https://pretalx.com/fossgis2026/schedule/</a></li>
 	<li><p><b>Vortragende:</b> <a href="https://pretalx.com/fossgis2026/speaker/">https://pretalx.com/fossgis2026/speaker/</a></p></li>
-<!--	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2026/featured/">https://pretalx.com/fossgis2026/featured/</a></p></li>-->
+	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2026/featured/">https://pretalx.com/fossgis2026/featured/</a></p></li>
 	<li><p><b>Community Voting:</b> fast 200 Teilnehmende haben sich beteiligt, Vielen Dank!</li>
-	<li><p><b>Call for participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2026/callforpapers/">2026/callforpapers/</a></p></li>
+	<li><p><b>Call for Participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2026/callforpapers/">2026/callforpapers/</a></p></li>
 	</ul>
 
 <!--	<h3 id="Programm26" name="Programm26"class="Programm25">Alles auf einem Blick</h3>
