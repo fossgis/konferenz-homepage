@@ -23,9 +23,9 @@
 		<li id="navEvents">
 			<a href="./socialevents/">Rahmenprogramm</a>
 		</li>
-<!--		<li id="navAnmeldung">
+		<li id="navAnmeldung">
 			<a href="./anmeldung/">Anmeldung</a>
-		</li> -->
+		</li> 
 		<li id="navAnreise">
 			<a href="./standort/">Standort</a>
 		</li>
