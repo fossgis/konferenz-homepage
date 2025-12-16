@@ -83,24 +83,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
 			  </a>
 			</li>
-			</ul>
+			</ul>-->
 
 
 			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
 			
-			<ul class="tiles">
 			<li class="tile gold">
-			  <a href="sponsor/101_camp2camp.php" target="_blank">
- 			  <img src="./img/s/101_camptocamp.png" alt="camptocamp">
-			  </a>
-			</li>
-			
-			<li class="tile gold">
-			<a href="sponsor/102_bkg.php" target="_blank">
-			<img src="./img/s/102_BKG_Logo_RGB.png" alt="BKG">
+			<a href="sponsor/101_bkg.php" target="_blank">
+			<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 			</a>
-			</li>
-			<li class="tile gold">
+			</li> 
+<!--			<li class="tile gold">
 			<a href="sponsor/103_GIS-Consult.php" target="_blank">
 			<img src="./img/s/103_GIS-Consult_Logo.png" alt="GIS-Consult">
 			</a>
@@ -123,6 +116,13 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<a href="sponsor/201_terrestris_mundialis.php" target="_blank">
 			<img src="./img/s/201_Logos_fusioniert_neu-02.png" alt="terrestris mundialis">
 			</a>
+			</li>
+
+<!--	<ul class="tiles">
+			<li class="tile silver">
+			  <a href="sponsor/202_camp2camp.php" target="_blank">
+ 			  <img src="./img/s/202_camptocamp.png" alt="camptocamp">
+			  </a>
 			</li>
 			</ul>
 <!--			<li class="tile silver">
