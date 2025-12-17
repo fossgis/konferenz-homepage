@@ -4,7 +4,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 
-	<title>FOSSGIS 2025 - AGB</title>
+	<title>FOSSGIS 2026 - AGB</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -19,7 +19,7 @@
 
 <p>Der FOSSGIS e.V. richtet als Veranstalter die FOSSGIS-Konferenz aus.
 Für die Konferenz werden die Tickets, Workshops, Sponsorenpakete und Ausstellerpakete über die Internetseite <a href="
-https://pretix.eu/fossgis/2025" target="_blank"> </a> verkauft. Für das Vertragsverhältnis gelten die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
+https://pretix.eu/fossgis/2026" target="_blank"> </a> verkauft. Für das Vertragsverhältnis gelten die nachfolgenden allgemeinen Geschäftsbedingungen:<br></p>
 
 <h3>Konferenztickets</h3>
 <h4>Konferenztickets für Verbraucher</h4>
@@ -64,7 +64,7 @@ https://pretix.eu/fossgis/2025" target="_blank"> </a> verkauft. Für das Vertrag
 <h3>Bildaufzeichnungen</h3>
 <p>Auf der FOSSGIS-Konferenz werden üblicherweise Video-, Fernseh- und Fotoaufnahmen angefertigt. Dabei kann es vorkommen, dass Besucher abgelichtet werden. Jede:r Besucher:in erklärt mit der Teilnahme an der FOSSGIS-Konferenz sein/ihr Einverständnis, dass entsprechend Aufnahmen von ihm/ihr als Besucher:in im Rahmen der Konferenz ohne Vergütungsanspruch angefertigt und veröffentlicht werden dürfen.</p>
 
-<p>Ein entsprechender Hinweis ist auch auf den Tickets enthalten. Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen verarbeitet: <a href="https://pretix.eu/fossgis/2025/privacy/" target="_blank">siehe Datenschutzerklärung</a> </p>
+<p>Ein entsprechender Hinweis ist auch auf den Tickets enthalten. Personenbezogene Daten werden unter Beachtung der geltenden datenschutzrechtlichen Bestimmungen verarbeitet: <a href="https://pretix.eu/fossgis/2026/privacy/" target="_blank">siehe Datenschutzerklärung</a> </p>
 
 <h3>Hausordnung</h3>
 <p>Im Veranstaltungsgebäude gilt die Hausordnung der Universität Göttingen, diese ist von allen Teilnehmenden einzuhalten.</p>  

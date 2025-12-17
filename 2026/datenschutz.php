@@ -4,7 +4,7 @@
 <head>
 	<?php include "inc/meta.inc"; ?>
 
-	<title>FOSSGIS 2025 - Datenschutzerklärung FOSSGIS-Konferenz</title>
+	<title>FOSSGIS 2026 - Datenschutzerklärung FOSSGIS-Konferenz</title>
 
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
@@ -20,7 +20,7 @@
 	<p>Der Schutz persönlicher Daten hat bei uns oberste Priorität. Wann immer möglich, setzen wir Datenschutz in Form von Datensparsamkeit um und erheben und speichern so wenige Daten wie möglich. Im Folgenden erläutern wir detailliert, welche Daten wir erheben und wer darauf Zugriff hat. Wir weisen darauf hin, dass die Datenübertragung im Internet immer Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich, auch wenn wir höchstmögliche Standards anstreben.</p>
 
 
-		<p>Die verantwortliche Stelle für die Datenverarbeitung der mit Pretix/FOSSGIS-Konferenz 2025 erfassten personenbezogenen Informationen ist:<br><br>
+		<p>Die verantwortliche Stelle für die Datenverarbeitung der mit Pretix/FOSSGIS-Konferenz 2026 erfassten personenbezogenen Informationen ist:<br><br>
    FOSSGIS e.V.<br>
    Bundesallee 23<br>
    10717 Berlin<br>
