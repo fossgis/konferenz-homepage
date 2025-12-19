@@ -117,13 +117,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/201_Logos_fusioniert_neu-02.png" alt="terrestris mundialis">
 			</a>
 			</li>
-
-<!--	<ul class="tiles">
 			<li class="tile silver">
 			  <a href="sponsor/202_camp2camp.php" target="_blank">
  			  <img src="./img/s/202_camptocamp.png" alt="camptocamp">
 			  </a>
 			</li>
+			<li class="tile silver">
+			<a href="sponsor/203_LGV.php" target="_blank">
+			<img src="./img/s/203_LGV_HH.png" alt="LGV">
+			</a>
+			</li>	
 			</ul>
 <!--			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">

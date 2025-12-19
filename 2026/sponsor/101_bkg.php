@@ -31,12 +31,11 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>Bundesamt für Kartographie und Geodäsie (BKG)</h3>
 
-					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des Innern und für Heimat (BMI). Es fungiert als zentraler Geodienstleister des Bundes. Zu den Aktivitäten des BKG gehören die Erfassung, Analyse, Kombination und Bereitstellung von Geodaten. Die Entwicklung und Verbreitung freier Software liegt ebenfalls im Aufgabenbereich des BKG.</p>
+					<p>Das BKG ist eine Behörde im Geschäftsbereich des Bundesministeriums des Innern (BMI). Es fungiert als zentraler Geodienstleister des Bundes. Zu den Aktivitäten des BKG gehören die Erfassung, Analyse, Kombination und Bereitstellung von Geodaten. Die Entwicklung und Verbreitung von Open Source Software liegt ebenfalls im Aufgabenbereich des BKG.</p>
 
-					<p>Die Daten des BKG nutzen insbesondere Bundeseinrichtungen, die öffentliche Verwaltung, Wirtschaft und Wissenschaft. Doch von der Arbeit des BKG profitiert jeder Bürger in Deutschland. Ohne den Einsatz von Radioteleskopen, die das BKG weltweit betreibt, wäre eine Nutzung von Navigationsgeräten oder Kartenapps zur Navigation nicht möglich. Experten aus verschiedenen Bereichen wie beispielsweise Katastrophenvorsorge, Innere Sicherheit oder Umwelt verwenden die Daten des BKG für ihre Arbeit. </p>
+					<p>Die Daten des BKG nutzen insbesondere Bundeseinrichtungen, die öffentliche Verwaltung, Wirtschaft und Wissenschaft. Darüber hinaus profitieren alle Bürgerinnen und Bürger von der Arbeit des BKG. Zusätzlich verwenden Experten aus verschiedenen Bereichen wie Katastrophenvorsorge, Innere Sicherheit oder Umwelt die Daten des BKG für ihre Arbeit.</p>
 
-					<p>Das BKG setzt sich für eine offene Datenpolitik ein, wodurch die Verbreitung von Open Data gefördert wird. Dies schließt die Beratung anderer Bundesbehörden beim Umgang mit OSM-Daten ein.
-Das BKG ist in Frankfurt am Main beheimatet und unterhält eine Außenstelle in Leipzig sowie geodätische Observatorien im In- und Ausland.</p>
+					<p>Das BKG setzt sich für eine offene Datenpolitik über gesetzliche Anforderungen heraus ein, wodurch die Verbreitung von Open Data gefördert wird. Dies schließt die Beratung anderer Bundesbehörden beim Umgang mit OSM-Daten ein. Das BKG ist in Frankfurt a. M. beheimatet und unterhält eine Außenstelle in Leipzig sowie geodätische Observatorien im In- und Ausland.</p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
@@ -44,10 +43,13 @@ Das BKG ist in Frankfurt am Main beheimatet und unterhält eine Außenstelle in 
 							<em>Webseite:<br></em>
 						<a href="https://www.bkg.bund.de">
 							https://www.bkg.bund.de</a><br>
+							<em>Open Data des BKG:<br></em>
+						<a href="https://gdz.bkg.bund.de/index.php/default/open-data.html">
+							https://gdz.bkg.bund.de/index.php/default/open-data.html</a><br>
 
 							<em>E-Mail: </em><br>
-							<a href="mailto:Eszter.Kiss@bkg.bund.de">Eszter.Kiss@bkg.bund.de</a><br>
-							<em>Telefon:</em> +49 (0)69 6333 321<br>
+							<a href="mailto:Konstantin.Kroemer@bkg.bund.de">Konstantin.Kroemer@bkg.bund.de</a><br>
+							<em>Telefon:</em> +49 (0)69 6333-3680<br>
 						<em>Kontaktadresse: </em><br>Bundesamt für Kartographie und Geodäsie<br>
 						Richard-Strauss-Allee 11<br>	
 						60598 Frankfurt am Main<br>
@@ -67,9 +69,6 @@ Das BKG ist in Frankfurt am Main beheimatet und unterhält eine Außenstelle in 
 						</li>
 						<li>
 								<a href="https://mastodon.online/@BKG@social.bund.de" target="_blank"><i class="fab fa-mastodon"></i></a>
-						</li>
-						<li>
-						<a href="https://www.xing.com/companies/bundesamtf%C3%BCrkartographieundgeod%C3%A4sie"><i class="fab fa-xing"></i></a>
 						</li>
 						<li>
 						<a href="https://www.youtube.com/user/pressebkg"><i class="fab fa-youtube"></i></a>
