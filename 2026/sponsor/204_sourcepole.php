@@ -47,7 +47,7 @@
 						<a href="https://qgiscloud.com/">
 							qgiscloud.com</a><br>
 							E-Mail: <br>
-							<a href="mailto:horst.duester@sourcepole.ch">horst.duester@sourcepole.ch</a><br></h6>
+							<a href="mailto:pka@sourcepole.ch">pka@sourcepole.ch</a><br></h6>
 					</div>
 
 						
@@ -59,12 +59,9 @@
 								<a href="https://github.com/sourcepole"><i class="fab fa-github"></i></a>
 							</li>
 							<li>
-								<a href="https://twitter.com/sourcepole"><i class="fab fa-x-twitter"></i></a>
+								<a href="https://mastodon.online/@sourcepole@fosstodon.org" target="_blank"><i class="fab fa-mastodon"></i></a>
 							</li>
-							<li>
-								<a href="https://twitter.com/qgiscloud"><i class="fab fa-x-twitter"></i></a>
-							</li>
-							
+				
 						</ul>
 					</div>
 				</div>	
