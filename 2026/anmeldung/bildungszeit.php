@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2025 - Bildungsurlaub</title>
+	<title>FOSSGIS 2026 - Bildungsurlaub</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">
@@ -18,7 +18,7 @@
 
 <body id="expo">
 
-	<p><a href="/2025/anmeldung#Bildungszeit">Zurück zur Startseite</a></p>
+	<p><a href="/2026/anmeldung#Bildungszeit">Zurück zur Startseite</a></p>
 
 	<section class="section">
 		<div class="container">
@@ -39,7 +39,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<ul>
 			<li>Formloses Schreiben: “Hiermit mache ich meinen Anspruch auf Freistellung für Bildungszeit vom 26.03.bis 29.03.2025 geltend. Beigefügt sind Ablaufplan, Anerkennungsbescheid und Anmeldebestätigung”.</li>
 			</ul></p>
-			<p>Den inhaltlichen Ablaufplan finden Sie ab Ende des Jahres im <a href="https://fossgis-konferenz.de/2025/programm/">Programm</a>. Für die notwendige Anmeldebestätigung nutzen Sie entweder die Bestell-Email oder Ihre Rechnung, die Sie bei Konferenzticketbuchung erhalten. Anerkennungsbescheid siehe jeweiliges Bundesland.</p>
+			<p>Den inhaltlichen Ablaufplan finden Sie im <a href="https://fossgis-konferenz.de/2026/programm/">Programm</a>. Für die notwendige Anmeldebestätigung nutzen Sie entweder die Bestell-Email oder Ihre Rechnung, die Sie bei Konferenzticketbuchung erhalten. Anerkennungsbescheid siehe jeweiliges Bundesland.</p>
 <p>Nach dem Bildungsurlaub: Sie laden sich Ihre Teilnahmebescheingung, welche wir Ihnen in Ihrer Bestellung zur Verfügung stellen herunter und geben diese bei Ihrem Arbeitgeber ab.</p>
 
 <p>Für einige Länder gibt es Vordrucke für die Beantragung und Abrechnung beim Arbeitgeber. Hierzu informieren Sie sich bitte unter <a href="https://www.bildungsurlaub.de/ ">https://www.bildungsurlaub.de/</a>.</p>
@@ -47,28 +47,21 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 				
 			<h3 id="Anerkennung" name="Anerkennung">Anerkennung</h3>
 <p>Folgende Bundesländer erkennen die FOSSGIS-Konferenz als Bildungsurlaub an:</p>
-
-			<ul>
-			<li><b>Rheinland-Pfalz</b> - <a href="data/2024-11-27_Anerkennung_Bildungsveranstaltung_RheinlandPfalz.pdf">Download Anerkennungsbescheid</a>, Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.
-			</li>
-			<li><b>Niedersachsen</b> - <a href="data/Anerkennung_Bildungzeit_FOSSGIS2025_Niedersachsen.pdf">Download Anerkennungsbescheid, <a href="data/Teilnahmebestaetigung_Bildungszeit_Niedersachsen.pdf">Vorlage Teilnahmebestätigung</a>
-			</li>
-			<li><b>Hamburg</b> - <a href="data/2025_Bescheid_Anerkennung_Bildungsveranstaltung_Hamburg.pdf">Download Anerkennungsbescheid</a>, <a href="data/Anmeldebestätigung_Hamburg.pdf">Download Anmeldeformular</a></li>
-			<li><b>Sachsen-Anhalt</b> - <a href="data/2024-12-03_Bescheid_Anerkennung_Bildungsveranstaltung_Sachsen-Anhalt.pdf">Download Anerkennungsbescheid</a>, Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.
-			</li>
-			<li><b>Thüringen</b> - <a href="data/2024-12-02_Aenderungsbescheid_Anerkennung_Bildungsveranstaltung_TH.pdf">Download Anerkennungsbescheid</a>, Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.
-			</li>			
-			<li><b>Schleswig-Holstein</b> - <a href="data/Anerkennung_Bildungszeit_Schleswig-Holstein_2025-02-10_document1619672.pdf">Download Anerkennungsbescheid</a>
-			</li>	
-			<li> Mehr ist für dieses Jahr nicht zu bekommen.</li>
+			<ul>			
+			<li>bisher keins :-(</li>
 			</ul>
-			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>
+<!--			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>-->
 			
-<!--			<h3 id="Antrag" name="Antrag" >Antrag</h3>
-<p>Für folgende Bundesländer ist die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub beantragt:</p>
+			<h3 id="Antrag" name="Antrag" >im Antragsverfahren</h3>
+<p>Für folgende Bundesländer läuft die Beantragung für die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub:</p>
 			<ul>
 			<li><b>Schleswig-Holstein</b></li>
-			</ul>-->
+			<li><b>Rheinland-Pfalz</b></li> 
+			<li><b>Niedersachsen</b></li>
+			<li><b>Hamburg</b></li>
+			<li><b>Sachsen-Anhalt</b></li>
+			<li><b>Thüringen</b></li>			
+			</ul>
 
 			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
 <p>Folgende Bundesländer haben die FOSSGIS-Konferenz leider nicht als Bildungszeit anerkannt, von einem erneuten Antrag wird abgesehen:</p>

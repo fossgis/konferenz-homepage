@@ -174,16 +174,15 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 	</ul>
 	<p>Im Wikihandbuch ist die Organisation der Konferenz einmal komplett beschrieben: <a href="https://www.fossgis.de/wiki/Handbuch">https://www.fossgis.de/wiki/Handbuch</a>. Das Konferenzteam organisiert sich über ein internes Ticketsystem sowie regelmäßige Abstimmungstreffen.</p>
 
-	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das Helfer:innensystem gemanagt (Anmeldung im Helfersystem voraussichtlich ab Dezember 2025).</p> 
+	<p>Zusätzlich zu den vorbereitenden Aufgaben, gibt es verschiedene Helfer:innenaufgaben, die während der Konferenz zu erledigen sind. Die Schichten werden über das Helfer:innensystem gemanagt.</p> 
 
 	<h3>Schritte, die zu tun sind, um Helfer:in zu werden</h3>
 		<ul>
 		<li>Diese Seite gelesen haben.</li> 
 		<li>Um Interesse zu bekunden sowie einen Gutscheincode für Helfer:innenticket zu erhalten, eine <a href="mailto:helfen@fossgis.de? subject=Anfrage_Gutscheincode_Helferticket"> Mail </a> ans Helfer:innenteam schreiben.</li>
-<!--		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>-->
-		
-		<li>An einem Beratungstermin für Helfende teilnehmen, finden voraussichtlich im Februar und März statt .</li>
-		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de? subject=Konferenzhelferteam_erreichen"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> 
+		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>		
+		<li>An einem Beratungstermin für Helfende teilnehmen (09.02., 20 Uhr, 09.03.2026 um 16 + 20 Uhr).</li>
+<!--		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de? subject=Konferenzhelferteam_erreichen"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> -->
 		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2026</i></a> beitreten. </li>
 		<li>Bei Fragen einfach fragen.</li>
 		</ul>

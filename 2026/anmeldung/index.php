@@ -104,11 +104,13 @@ Sie erhalten Zugang zum Livestream der Vorträge mit Fragenfunktion und Chat der
     </div>
 </noscript>-->
 		
-<!--	<h3 id="Bildungszeit" name="Bildungszeit">Bildungszeit</h3>
+	<h3 id="Bildungszeit" name="Bildungszeit">Bildungszeit</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungszeit wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
 	<p> Bildungszeit, umgangssprachlich auch Bildungsurlaub ist der gesetzlich verbriefte Anspruch auf Weiterbildung für Arbeitnehmer:innen im Rahmen der Arbeitszeit. Eine Anerkennung einer Veranstaltung als Bildungszeit gibt Arbeitnehmer:innen das Recht, die Veranstaltung während der Arbeitszeit zu besuchen. Arbeitnehmenden stehen bis zu 5 Tage Bildungszeit pro Jahr zu.</p>
 
-	<p>Weitere Informationen zum Bildungszeit und welches Bundesland die FOSSGIS-Konferenz 2026 als Bildungszeit anerkannt hat, finden Sie unter <a href="https://fossgis-konferenz.de/2026/anmeldung/bildungszeit.php">Anmeldung/Bildungszeit</a>.</p>-->
+	<p>Leider werden Konferenzen mittlerweile generell nicht mehr anerkannt, da unterstellt wird, dass eine Konferenz-Teilnahme nicht kontrolliert werden kann. Veranstalter:innen müssen sich verbiegen, um eine Anerkennung zu erhalten</p>
+
+	<p>Falls wir in einem Bundesland eine Anerkennung erhalten, wird diese Information unter <a href="https://fossgis-konferenz.de/2026/anmeldung/bildungszeit.php">Anmeldung/Bildungszeit</a> zu finden sein.</p> 
 	
 
 	<h3>Sie haben Fragen?</h3>

@@ -72,13 +72,13 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			  </a>
 			</li>
 			</ul>
-<!--			<li class="tile platin">
-			<a href="sponsor/001_OPENGis_CH.php" target="_blank">
-			<img src="./img/s/001_QFieldCloud-by-OpenGIS.png" alt="opengis">
+			<li class="tile platin">
+			<a href="sponsor/002_OPENGis_CH.php" target="_blank">
+			<img src="./img/s/002_QFieldCloud-by-OpenGIS.png" alt="opengis">
 			</a>
 			</li>
 			</ul>
-			<li class="tile platin">
+<!--			<li class="tile platin">
 			  <a href="sponsor/003_dataport.php" target="_blank">
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
 			  </a>
@@ -127,6 +127,16 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/203_LGV_HH.png" alt="LGV">
 			</a>
 			</li>	
+			<li class="tile silver">
+			<a href="sponsor/204_sourcepole.php" target="_blank">
+			<img src="./img/s/204_sourcepole.png" alt="sourcepole">
+			</a>
+			</li>
+			<li class="tile silver">
+			<a href="sponsor/205_lutraconsulting.php" target="_blank">
+			<img src="./img/s/205_MM_logo_HORIZ_COLOR.jpg" alt="Lutra Consulting ltd.">
+			</a>
+			</li>
 			</ul>
 <!--			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
@@ -182,11 +192,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/407_geoSYS_logo.png" alt="geoSYS">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/408_lutraconsulting.php" target="_blank">
-			<img src="./img/s/408_MerginMaps.png" alt="Lutra Consulting ltd.">
-			</a>
-			</li>
+
 			<li class="tile bronze">
 			<a href="sponsor/409_52north.php" target="_blank">
 			<img src="./img/s/409_52North.png" alt="52°North Spatial Information Research GmbH">
@@ -222,11 +228,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/415_GISCAD_Technologies.svg" alt="GISCAD">
 			</a>
 			</li>			
-			<li class="tile bronze">
-			<a href="sponsor/416_sourcepole.php" target="_blank">
-			<img src="./img/s/416_sp_fossgis_2023.png" alt="sourcepole">
-			</a>
-			</li>
+
 			<li class="tile bronze">
 			<a href="sponsor/417_gkg.php" target="_blank">
 			<img src="./img/s/417_gkg_logo.png" alt="gkg">
