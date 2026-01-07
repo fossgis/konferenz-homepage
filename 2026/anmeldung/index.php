@@ -10,8 +10,8 @@
 	<link rel="stylesheet" href="./css/normalize.css">
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2025/widget/v1.css" crossorigin>
-<script type="text/javascript" src="https://pretix.eu/widget/v1.de.js" async crossorigin></script>
+	<link rel="stylesheet" type="text/css" href="https://pretix.eu/fossgis/2026/widget/v2.css" crossorigin>
+	<script type="text/javascript" src="https://pretix.eu/widget/v2.de.js" async crossorigin></script>
 </head>
 
 
@@ -88,21 +88,23 @@
 	<h3>Helfen</h3>
 	<p>Freiwillige Helfer:innen sind eingeladen und willkommen während der Konferenz zu unterstützen. Bei Interesse bitte die Webseite <a href="https://fossgis-konferenz.de/2026/helfen/#HelfenvorOrt">Helfen</a> lesen, dort sind viele Details erklärt.<br>Helfer:innen registrieren sich ab Ende Dezember im Helfer:innensystem. Wer mind. 10 Stunden hilft, kann ein kostenfreies Konferenzticket erhalten und schreibt dazu eine <a href="mailto:konferenz-orga@fossgis.de?subject=Helfen_Helferticket">E-Mail</a>. </p>
 
-<!--	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
-<!--	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2026/" target="_blank">diesem Link</a> direkt aufrufen.</p>-->
+	<h3 id="Anmeldeformular" name="Anmeldeformular">Anmeldeformular</h3>
+	<p>Nutzen Sie gerne das Anmeldeformular direkt auf dieser Seite. Falls etwas nicht funktionieren sollte, können Sie das Ticketsystem auch unter <a href="https://pretix.eu/fossgis/2026/" target="_blank">diesem Link</a> direkt aufrufen.</p>
 <!--	<p>Die FOSSGIS ist ausgebucht. Wir können keine weiteren Tickets für die Konferenz vor Ort in Göttingen anbieten.
 Nutzen Sie die Möglichkeit einer Onlineteilnahme und buchen Sie ein Onlineticket.
-Sie erhalten Zugang zum Livestream der Vorträge mit Fragenfunktion und Chat der Teilnehmenden sowie Community Sessions, wie Anwendertreffen und Expert:innenfragestunde, die hybrid stattfinden werden.</p>
+Sie erhalten Zugang zum Livestream der Vorträge mit Fragenfunktion und Chat der Teilnehmenden sowie Community Sessions, wie Anwendertreffen und Expert:innenfragestunde, die hybrid stattfinden werden.</p>-->
+
+
 	
 <div id="shop">
-		<pretix-widget event="https://pretix.eu/fossgis/2026/" single-item-select="button"></pretix-widget>
+		<pretix-widget event="https://pretix.eu/fossgis/2026/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
             JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticketshop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/fossgis/2026/">hier</a>.
         </div>
     </div>
-</noscript>-->
+</noscript>
 		
 	<h3 id="Bildungszeit" name="Bildungszeit">Bildungszeit</h3>
 	<p>Die Anerkennung der FOSSGIS-Konferenz als Bildungszeit wird angestrebt und in verschiedenen Bundesländern in Deutschland vom Orgateam beantragt. </p>
