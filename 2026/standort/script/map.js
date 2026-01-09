@@ -26,7 +26,7 @@
 		className: 'svg-feature'
 	};
 
-	const baseLayer = L.tileLayer('https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+	const baseLayer = L.tileLayer('https://tile.openstreetmap.de/{z}/{x}/{y}.png', {
 		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 	});
 
