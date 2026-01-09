@@ -14,9 +14,9 @@
 
 	<script src="./standort/script/leaflet.js"></script>
 	<script src="./standort/script/leaflet.addons.js"></script>
-	<script src="./standort/data/buildings_web.geojson"></script>
-	<script src="./standort/data/hotels_web.geojson"></script>
-	<script src="./standort/script/map1.js"></script>
+	<script src="./standort/data/buildings_web.js"></script>
+	<script src="./standort/data/hotels_web.js"></script>
+	<script src="./standort/script/map.js"></script>
 </head>
 
 <body id="standort">

@@ -3,12 +3,15 @@
 
 	const posZHG = [51.54154, 9.93555];
 	const posHbf = [51.53659, 9.92584];
+    const posGeoinst = [51.55638, 9.94739];
 
 	const zoom = 16;
 	const htwOrange = '#ff9d15';
 	const views = {
-		'<b>ZHG Göttingen</b>': posZHG,
+		'<b>ZHG Göttingen</b> (Mittwoch – Freitag)': posZHG,
+        '<b>Geoinstitut</b> (Samstag)':posGeoinst,
 		'Bahnhof Göttingen': posHbf,
+        
 	};
 	const tooltipTemplate =
 		'<b>{name}</b><br>' +
@@ -60,7 +63,7 @@
 		zoom: zoom,
 		minZoom: 5,
 		maxZoom: 18,
-		maxBounds: [[51.541357,9.935557],[51.55154, 9.94555]]
+		maxBounds: [[51.49303, 9.84238],[51.61247, 10.09995]]
 	};
 	var div, map;
 
