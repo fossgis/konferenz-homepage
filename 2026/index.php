@@ -137,6 +137,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/205_MM_logo_HORIZ_COLOR.jpg" alt="Lutra Consulting ltd.">
 			</a>
 			</li>
+			<li class="tile silver">
+			<a href="sponsor/206_geoSYS.php" target="_blank">
+			<img src="./img/s/206_geoSYS_logo.png" alt="geoSYS">
+			</a>
+			</li>
 			</ul>
 <!--			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
@@ -153,10 +158,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/203_adesso_basic_Color_CMYK.png" alt="Adesso SE">
 			</a>
 			</li>
-			</ul>
+			</ul>-->
 			
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
+			<li class="tile bronze">
+			<a href="sponsor/_301_latlon.php" target="_blank">
+			<img src="./img/s/301_logo_latlon_web.png" alt="latlon">
+			</a>
+			</li>
+
+<!--
 			<li class="tile bronze">
 			<a href="sponsor/401_terrestris.php" target="_blank">
 			<img src="./img/s/401_terrestris.png" alt="terrestris">
@@ -187,11 +199,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/406_Geofabrik_logo4.png" alt="geofabrik">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/407_geoSYS.php" target="_blank">
-			<img src="./img/s/407_geoSYS_logo.png" alt="geoSYS">
-			</a>
-			</li>
+
 
 			<li class="tile bronze">
 			<a href="sponsor/409_52north.php" target="_blank">
@@ -203,11 +211,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/410_komoot.png" alt="komoot">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/411_latlon.php" target="_blank">
-			<img src="./img/s/411_logo_latlon_web.png" alt="latlon">
-			</a>
-			</li>				
+				
 			<li class="tile bronze">
 			<a href="sponsor/412_TomTom.php" target="_blank">
 			<img src="./img/s/412_TomTom.png" alt="TomTom Global Content BV">
