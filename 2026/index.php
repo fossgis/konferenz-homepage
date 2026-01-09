@@ -163,7 +163,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
 			<li class="tile bronze">
-			<a href="sponsor/_301_latlon.php" target="_blank">
+			<!--<a href="sponsor/_301_latlon.php" target="_blank">-->
 			<img src="./img/s/301_logo_latlon_web.png" alt="latlon">
 			</a>
 			</li>
