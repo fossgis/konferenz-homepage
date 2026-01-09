@@ -2,15 +2,21 @@
 	'use strict';
 
 	const posZHG = [51.54154, 9.93555];
+	const posWS = [51.53984, 9.93682];
 	const posHbf = [51.53659, 9.92584];
     const posGeoinst = [51.55638, 9.94739];
+	const posMittag = [51.5419, 9.93462];
+	const posZaK = [51.53134, 9.93686];
 
 	const zoom = 16;
 	const htwOrange = '#ff9d15';
 	const views = {
-		'<b>ZHG Göttingen</b> (Mittwoch – Freitag)': posZHG,
-        '<b>Geoinstitut</b> (Samstag)':posGeoinst,
-		'Bahnhof Göttingen': posHbf,
+		'<b>ZHG Uni Göttingen</b> (Mittwoch – Freitag)': posZHG,
+		'<b>Verfügungsgebäude Uni Göttingen</b> (Workshops)': posWS,
+        '<b>Geographisches Institut</b> (Samstag)':posGeoinst,
+		'<b>Zentralmensa Uni Göttingen</b> (Mittagessen)': posMittag,
+        '<b>Z.a.K.</b> (inoffizieller Start)':posZaK,
+		'<b>Bahnhof Göttingen</b>': posHbf,
         
 	};
 	const tooltipTemplate =
