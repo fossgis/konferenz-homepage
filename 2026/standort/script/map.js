@@ -106,7 +106,7 @@
 	function onEachFeature(feature, layer) {
 		var props = feature.properties;
 		var content = tooltipTemplate
-			.replaceAll('{name}',props['name:de'])
+			.replaceAll('{name}',props['label'])
 			.replaceAll('{website}', props['website'])
 			.replaceAll('{street}', props['addr:street'])
 			.replaceAll('{housenumber}', props['addr:housenumber'])
