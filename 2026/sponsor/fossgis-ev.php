@@ -68,12 +68,8 @@
 								<a href="https://www.youtube.com/user/fossgis" target="_blank"><i class="fab fa-youtube"></i></a>
 							</li>
 							<li>
-								<a href="https://twitter.com/FOSSGIS_Verein" target="_blank"><i class="fab fa-x-twitter"></i></a>
+								<a href="https://www.instagram.com/fossgis_ev/" target="_blank"><i class="fab fa-instagram"></i></a>
 							</li>
-							<li>
-								<a href="https://www.facebook.com/events/410543357867232?" target="_blank"><i class="fab fa-facebook"></i></a>
-							</li>
-
 
 
 						</ul>

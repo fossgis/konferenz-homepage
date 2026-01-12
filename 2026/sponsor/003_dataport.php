@@ -31,19 +31,10 @@
 			<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 			<h3>Dataport - Anstalt des öffentlichen Rechts</h3>
 
-			<p><b>Das Unternehmen</b><br>
-Dataport ist der Partner für die Digitalisierung des öffentlichen Sektors. Als Anstalt öffentlichen Rechts wird Dataport getragen von den Ländern Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt und Schleswig-Holstein sowie dem kommunalen IT-Verbund Schleswig-Holstein. Als IT-Dienstleister gestaltet Dataport den digitalen Wandel gemeinsam mit den Ländern und Kommunen. Das Unternehmen arbeitet nicht gewinnorientiert, sondern strebt in enger Absprache mit den Trägern ein ausgeglichenes Betriebsergebnis an. Mit rund 5.500 Mitarbeiter:innen an acht Standorten erzielte das Unternehmen 2023 einen Umsatz von 1,36 Milliarden Euro.</p>
-
-			<p><b>Der Auftrag</b><br>
-Dataport stellt dem öffentlichen Sektor alle benötigten IT-Services zur Verfügung. Dazu gehören der Betrieb von Infrastrukturen wie Rechenzentrum, Netze und Clients oder die zentrale Beschaffung von Informationstechnologie (IT). Außerdem die Entwicklung und der Betrieb von Software. Dataport unterstützt bei allen Aspekten der Digitalisierung. Durch umfassendes Consulting, Projektmanagement, Innovationsmanagement oder Geschäftsprozessmanagement. </p>
-			<p><b>Die Werte</b><br>
-			<ul>
-			<li><i>Digitale Sicherheit:</i><br> Das Twin Data Center ist eines der sichersten Rechenzentren in Europa. Zertifiziert vom Bundesamt für Sicherheit in der Informationstechnik (BSI) und vom TÜViT. Der Betrieb von IT-Systemen folgt eindeutigen Prozessen und Regeln unter ständiger Kontrolle durch ein professionelles Sicherheitsmanagement. Das sorgt für Sicherheit.</li>
-
-			<li><i>Digitale Souveränität:</i><br> Damit der Staat handlungsfähig und vertrauenswürdig ist, muss er stets die vollständige Hoheit über seine IT-Systeme und seine Daten behalten. Dafür sorgt Dataport mit hohen Sicherheitsstandards, klaren Datenschutzvorgaben und vorausschauender Unternehmenspolitik. Damit Bürger*innen und Unternehmen der Verwaltung ihre Daten anvertrauen können.</li>
+			<p>Dataport ist IT-Dienstleister für die öffentliche Verwaltung. Als Partner in allen Digitalisierungsvorhaben begleitet das Unternehmen den öffentlichen Sektor von der ersten Idee bis zum sicheren Betrieb. Dataport stellt der Verwaltung alle IT-Services bereit, die sie für ihre Arbeit benötigt. Dazu gehören der Betrieb von Infrastrukturen wie Rechenzentrum, Netze und Clients sowie die Entwicklung und der Betrieb von Software.</p>
+			<p>Darüber hinaus bietet das Unternehmen dem öffentlichen Sektor umfassende Dienstleistungen: Das Angebot reicht von IT-Beschaffung über Schulungen bis hin zu Projektmanagement und Beratung. Als Anstalt öffentlichen Rechts mit Unternehmenssitz in Altenholz bei Kiel wird Dataport getragen von den Ländern Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt und Schleswig-Holstein sowie dem kommunalen IT-Verbund Schleswig-Holstein.</p>
+			<p>Dataport betreibt Niederlassungen in Hamburg, Rostock, Bremen, Lüneburg, Magdeburg und Halle. Das Unternehmen hat 5.900 Mitarbeiterinnen und Mitarbeiter und erzielte 2024 einen Umsatz von 1,42 Mrd. Euro.</p>
 			
-			<li><i>Kooperation:</i><br> Seit der Gründung 2004 organisiert Dataport mit seinen Trägern erfolgreiche IT-Kooperationen. Der Dienstleister sorgt dafür auf verschiedenen Ebenen. Durch gemeinsam genutzte Infrastrukturen wie das Twin Data Center. Durch die gemeinsame Entwicklung von IT-Lösungen. Durch das Schaffen von Schnittstellen in IT-Systemen, die eine Zusammenarbeit ermöglichen. Länderübergreifend zwischen Bundesländern sowie Ebenen übergreifend zwischen Bund, Ländern und Kommunen.</li></p>
-			</ul>
 			
 				</div>
 				<div class="col-lg-3">
