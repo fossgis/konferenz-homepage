@@ -71,19 +71,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
-			</ul>
 			<li class="tile platin">
 			<a href="sponsor/002_OPENGis_CH.php" target="_blank">
 			<img src="./img/s/002_QFieldCloud-by-OpenGIS.png" alt="opengis">
 			</a>
 			</li>
-			</ul>
-<!--			<li class="tile platin">
+			<li class="tile platin">
 			  <a href="sponsor/003_dataport.php" target="_blank">
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
 			  </a>
 			</li>
-			</ul>-->
+			</ul>
 
 
 			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
@@ -142,6 +140,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/206_geoSYS_logo.png" alt="geoSYS">
 			</a>
 			</li>
+			<li class="tile silver">
+			<a href="sponsor/207_gbd.php" target="_blank">
+			<img src="./img/s/207_GBD.png" alt="Geoinformatikbüro Dassau">
+			</a>
+			</li>
 			</ul>
 <!--			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
@@ -189,11 +192,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/404_opencage.png" alt="OpenCage">
 			</a>
 			</li>
-			<li class="tile bronze">
-			<a href="sponsor/405_gbd.php" target="_blank">
-			<img src="./img/s/405_GBD.png" alt="Geoinformatikbüro Dassau">
-			</a>
-			</li>
+
 			<li class="tile bronze">
 			<a href="sponsor/406_geofabrik.php" target="_blank">
 			<img src="./img/s/406_Geofabrik_logo4.png" alt="geofabrik">
