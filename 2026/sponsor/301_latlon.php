@@ -31,23 +31,9 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>lat/lon gesellschaft für raumbezogene Informationssysteme mbH</h3>
 
-					<p>lat/lon bietet Dienstleistungen auf dem Gebiet raumbezogener und moderner Internet gestützter Informationssysteme auf Basis von Open-Source Software an. Unter unserer Federführung ist gemeinsam mit der Universität Bonn das OSGeo-Projekt deegree entstanden, auf dessen Basis weltweit viele Geodateninfrastrukturen realisiert worden sind. </p>
-					<p>Als Teil der deegree Community engagieren wir uns aus Überzeugung im FOSSGIS e.V. und in der OSGeo Foundation. lat/lon ist Mitglied im Open Geospatial Consortium (OGC) und arbeitet aktiv an der Weiterentwicklung der OGC TEAM Engine im Rahmen des OGC CITE-Projekts mit.</p>
+					<p>​​lat/lon ist ein Geo-IT-Unternehmen mit Schwerpunkt auf Beratung & Softwareentwicklung in den Bereichen Geodateninfrastruktur, Standards und Open Source. Als Mitglied im OGC engagieren wir uns bei Referenzimplementierungen u. Konformitätstests. lat/lon ist wesentlich für die Entwicklung des OSGeo-Projekts deegree verantwortlich.</p>
 
-					<p>Tätigkeitsschwerpunkte:
-    					<ul>
-							<li>Dienstleistungen rund um die räumliche Datenverarbeitung, Geoinformationssysteme und Datenbanken mit freier Software </li>
-							<li>Softwareentwicklung und Beratung sowie Schulungen und Workshops zu deegree webservices</li>
-							<li>Neu- und Weiterentwicklung von Web-, Desktop- und Geodatenbank-Anwendungen für alle Plattformen auf Basis von Open-Source Software</li>
-						</ul></p>
-
-					<p>Hauptprodukte und Lösungen:
-						<ul>
-							<li>deegree webservices: Open-Source-Framework zur Bereitstellung von Geodiensten wie WFS und WMS u.a. für INSPIRE</li>
-							<li>deegree ogcapi: Open-Source-Framework zur Bereitstellung von Geodaten über moderne REST-API-Schnittstellen</li>
-							<li>xPlanBox: Fachanwendung zur Bereitstellung von raumbezogenen Daten auf Basis des Standards XPlanung </li>
-						</ul>
-					</p>
+					
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
@@ -71,9 +57,7 @@
 					<div class="social-icon">
 						<h6 class="font-weight-bold mb-0">Social</h6>
 						<ul>
-							<li>
-								<a href="https://twitter.com/latlon_de"><i class="fab fa-x-twitter"></i></a>
-							</li>
+							
 							<li>
 								<a href="https://github.com/lat-lon "><i class="fab fa-github"></i></a>
 							</li>

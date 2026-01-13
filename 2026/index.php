@@ -158,42 +158,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/202_EFTAS.png" alt="EFTAS">
 			</a>
 			</li>
-			<li class="tile silver">
-			<a href="sponsor/203_Adesso.php" target="_blank">
-			<img src="./img/s/203_adesso_basic_Color_CMYK.png" alt="Adesso SE">
-			</a>
-			</li>
-			</ul>-->
+		-->
 			
 	<h4 id="Bronze" name="Bronze" class="highlight">Bronzesponsoren</h4>
 		<ul class="tiles">
 			<li class="tile bronze">
-<<<<<<< HEAD
-			<!--<a href="sponsor/_301_latlon.php" target="_blank">-->
+			<a href="sponsor/301_latlon.php" target="_blank">
 			<img src="./img/s/301_logo_latlon_web.png" alt="latlon">
 			</a>
 			</li>
 
-<!--
-			<li class="tile bronze">
-=======
-			<a href="sponsor/_301_latlon.php" target="_blank">
-			<img src="./img/s/301_logo_latlon_web.png" alt="latlon">
-			</a>
-			</li>		
-
-<!-- <li class="tile bronze">
->>>>>>> map
-			<a href="sponsor/401_terrestris.php" target="_blank">
-			<img src="./img/s/401_terrestris.png" alt="terrestris">
-			</a>
-			</li>
-			<li class="tile bronze">
-			<a href="sponsor/402_mundialis.php" target="_blank">
-			<img src="./img/s/402_mundialis.png" alt="mundialis">
-			</a>
-			</li>
-			<li class="tile bronze">
+<!--  		<li class="tile bronze">
 			<a href="sponsor/403_grit.php" target="_blank">
 			<img src="./img/s/403_grit.png" alt="grit GmbH ">
 			</a>
