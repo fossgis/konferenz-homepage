@@ -91,11 +91,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 			</a>
 			</li> 
-<!--			<li class="tile gold">
-			<a href="sponsor/103_GIS-Consult.php" target="_blank">
-			<img src="./img/s/103_GIS-Consult_Logo.png" alt="GIS-Consult">
-			</a>
-			</li>
+<!--		
 			<li class="tile gold">
 			<a href="sponsor/104_NRW-Mobidrom.php" target="_blank">
 			<img src="./img/s/104_Mobidrom_Logo.png" alt="NRW.Mobidrom">
@@ -140,14 +136,17 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/206_geoSYS_logo.png" alt="geoSYS">
 			</a>
 			</li>
-<<<<<<< HEAD
 			<li class="tile silver">
 			<a href="sponsor/207_gbd.php" target="_blank">
 			<img src="./img/s/207_GBD.png" alt="Geoinformatikbüro Dassau">
 			</a>
 			</li>
-=======
->>>>>>> map
+	<li class="tile silver">
+			<a href="sponsor/208_GIS-Consult.php" target="_blank">
+			<img src="./img/s/208_GIS-Consult_Logo.png" alt="GIS-Consult">
+			</a>
+			</li>
+
 			</ul>
 <!--			<li class="tile silver">
 			<a href="sponsor/201_CONET-ISB.php" target="_blank">
