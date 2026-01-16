@@ -31,15 +31,11 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>GIS Consult</h3>
 
-					<p>Die GIS Consult ist Ihr Partner für nachhaltige Geodatenlösungen. Der Kunde steht bei uns im Mittelpunkt. Seit über 10 Jahren entwickeln wir individuelle Lösungen basierend auf Open-Source, die perfekt auf die Kundenbedürfnisse abgestimmt sind.</p>
+					<p>GIS Consult GmbH - Ihr Partner für nachhaltige Geodatenlösungen und anspruchsvolle GIS- und Datenbankprojekte. Ob Standard- oder individuelle Lösungen - beim Thema OpenSource (rund um QGIS, GeoServer und PostGIS) stehen wir für Innovation und Nachhaltigkeit.</p>
+<p>Seit über 30 Jahren bündeln wir die Expertise von aktuell mehr als 100 Mitarbeitenden an vier Standorten. Wir bieten Beratung, Implementierung, Schulungen sowie Support und Hosting für Geoportale, Planauskünfte und Infrastrukturkataster. Zu unseren Kunden zählen Unternehmen aus den Bereichen Verwaltung, Immobilienwirtschaft, Industrie und Versorgung.<br>
+Standorte: Haltern am See, Kiel, Erfurt und Hasselt (Belgien).</p>
 
-					<p>Die GIS Consult agiert als Multiplikator für den Einsatz von Open Source. Wir setzen uns aktiv dafür ein, das Bewusstsein für die Vorteile offener Technologien zu stärken und den Einsatz von Open-Source-Lösungen zu fördern.</p>
-
-					<p>Wir verstehen Open Source als Schlüssel zu Innovation, Transparenz und Nachhaltigkeit. Durch die Nutzung und Weiterentwicklung bewährter Technologien fördern und schaffen wir offene Standards und bieten flexible, zukunftssichere Lösungen.</p>
-
-					<p>Unser Angebot umfasst Beratung, Implementierung, Schulungen sowie Wartung, Support und Hosting. Von Geoportalen über Planauskünfte bis hin zu Infrastrukturkatastern liefern wir Lösungen für den kommunalen Bereich.</p>
-
-					<p>Die GIS Consult ist in Haltern am See, Kiel und Erfurt vertreten.</p>
+					
 
 				</div>
 				<div class="col-lg-3">

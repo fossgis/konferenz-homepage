@@ -167,6 +167,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/301_logo_latlon_web.png" alt="latlon">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/302_geofabrik.php" target="_blank">
+			<img src="./img/s/302_Geofabrik_logo4.png" alt="geofabrik">
+			</a>
+			</li>
 
 <!--  		<li class="tile bronze">
 			<a href="sponsor/403_grit.php" target="_blank">
