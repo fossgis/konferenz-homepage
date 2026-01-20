@@ -31,9 +31,17 @@
 			
 			<div class="row">
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
-					<h3>WORK SMARTER – NOT HARDER</h3>
+				<h3>WORK SMARTER – NOT HARDER</h3>
 
-<p>Wir optimieren Geodatenprozesse mit OpenSource-Lösungen wie QGIS und QField. Ob Schulung, Support oder Datendienstleistungen: Wir begleiten Sie! Ergänzt durch die präzise GNSS-Smartantenne Happy Mini Q für effiziente Arbeitsabläufe.</p>
+				<p>Die FeelGood GeoSolutions GmbH steht für praxisnahe Open-Source-Lösungen rund um QGIS und QField. Wir begleiten Organisationen von der ersten Idee bis zum produktiven Einsatz – mit Schulungen, Support und individueller Beratung.</p>
+				<p>Unsere Schwerpunkte:
+				<ul>
+				<li>Entwicklung maßgeschneiderter QField-Plugins</li>
+				<li>Integration von QField in bestehende IT-Infrastrukturen und Arbeitsprozesse</li>
+				<li>Installation und Konfiguration von QFieldCloud On-Premise auf Ihrer Serverinfrastruktur</li>
+				</ul></p>
+
+				<p>Als offizieller QField-Partner in Deutschland verbinden wir Software, Prozesse und präzise GNSS-Hardware wie die HAPPY MINI Q zu effizienten Workflows im Außendienst – für mehr Freude an der Arbeit.</p> 
 
 				</div>
 				<div class="col-lg-3">
