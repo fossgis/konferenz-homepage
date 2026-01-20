@@ -73,7 +73,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<ul>
 	<li>Titel: Führung durch das Forum Wissen (Mi)</li>
 	<li>Termin: Mittwoch, den 25.03.2026, 15 Uhr</li>
-	<li>Führung durch das Wissensmuseum der Universität Göttingen. Das Forum Wissen](https://www.forum-wissen.de) ist ein Ort der begegnung und es geht um die Frage, wie Wissen entsteht.</li>
+	<li>Führung durch das Wissensmuseum der Universität Göttingen. Das [Forum Wissen](https://www.forum-wissen.de) ist ein Ort der begegnung und es geht um die Frage, wie Wissen entsteht.</li>
 <li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionForumWissen" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
@@ -108,7 +108,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<ul>
 	<li>Titel: Führung durch das Forum Wissen (Do)</li>
 	<li>Termin: Donnerstag, 26.03.2026, 15 Uhr</li>
-	<li>Führung durch das Wissensmuseum der Universität Göttingen. Das Forum Wissen](https://www.forum-wissen.de) ist ein Ort der Begegnung und es geht um die Frage, wie Wissen entsteht.</li>
+	<li>Führung durch das Wissensmuseum der Universität Göttingen. Das [Forum Wissen](https://www.forum-wissen.de) ist ein Ort der Begegnung und es geht um die Frage, wie Wissen entsteht.</li>
 <li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionForumWissen" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
@@ -123,7 +123,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	</ul>
 	
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
-	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen und laden Sie ein am Donnerstag, den 26. März in der Nachmittagspause zum gemeinsamen Gruppenfoto auf dem Platz vor dem Zentralen Hörsaalgebäude.</p>
+	<p>Auch in diesem Jahr wollen wir uns das Gruppenfoto nicht entgehen lassen. Wir laden Sie ein am Donnerstag, den 26. März in der Nachmittagspause zum gemeinsamen Gruppenfoto auf dem Platz vor dem Zentralen Hörsaalgebäude ein.</p>
 
 	
 	<h4>FOSSGIS e.V. Mitgliederversammlung</h4>

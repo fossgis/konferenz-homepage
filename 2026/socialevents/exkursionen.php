@@ -58,7 +58,7 @@
 		<li>Betreuung: Frau Sohnrey</li>
 		<li>Dauer: 90 Minuten</li>
 		<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
-		<li>Führung durch das Wissensmuseum der Universität Göttingen. Das Forum Wissen](https://www.forum-wissen.de) ist ein Ort der Begegnung und es geht um die Frage, wie Wissen entsteht.</li>
+		<li>Führung durch das Wissensmuseum der Universität Göttingen. Das [Forum Wissen](https://www.forum-wissen.de) ist ein Ort der Begegnung und es geht um die Frage, wie Wissen entsteht.</li>
 		</ul>
 
 	
