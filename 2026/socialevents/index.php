@@ -34,7 +34,7 @@
 	<ul>
 	<li>Termin: Dienstag, 24.03.2026 16 Uhr</li>
 	<li>Die Kartensammlung sowie besondere Stücke der Kartensammlung werden gezeigt.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ExkursionKartensammlung" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionKartensammlung" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 
@@ -42,7 +42,7 @@
 	<ul>
 	<li>Termin: Dienstag, 24.03.2026, 16 Uhr</li>
 	<li>Besuch der ältesten, heute noch mit wissenschaftlich brauchbaren Seismographen laufende Erdbebenwarte der Welt.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ExkursionErdbebenwarte" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionErdbebenwarte" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 	
@@ -65,7 +65,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<li>Titel: Führung durch das Rechnenzentrum der GWDG</li>
 	<li>Termin: Mittwoch, den 25.03.2026, 12:30 Uhr + 13:15 Uhr</li>
 	<li> Die Arbeitsgruppe "Computing" bietet eine Führung durch das Hochleistungsrechenzentrum in Göttingen.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ExkursionRechenzentrum" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionRechenzentrum" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 	<h4 id="ExkursionForumWissen" name="ExkursionForumWissen">Exkursion - Führung durch das Forum Wissen</h4>
@@ -74,7 +74,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<li>Titel: Führung durch das Forum Wissen (Mi)</li>
 	<li>Termin: Mittwoch, den 25.03.2026, 15 Uhr</li>
 	<li>Führung durch das Wissensmuseum der Universität Göttingen. Das Forum Wissen](https://www.forum-wissen.de) ist ein Ort der begegnung und es geht um die Frage, wie Wissen entsteht.</li>
-<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ExkursionForumWissen" target="exk">Beschreibung der Exkursion</a></li>
+<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionForumWissen" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 	<h4 id="ArchäologischeStadtführung" name="ArchäologischeStadtführung">Archäologische Stadtführung - Schwerpunkt Stadtbefestigung</h4>
@@ -83,7 +83,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<li>Titel: Archäologische Stadtführung - Schwerpunkt Stadtbefestigung (Mi)</li>
 	<li>Termin: Mittwoch 25.03.2026, 15:30 Uhr</li>
 	<li>Archäologische Funde aus Göttingen kennenlernen und in einem kurzen Rundgang durch die Stadt Befestigungsanlagen und Fundstellen kennenlernen.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ArchäologischeStadtführung" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ArchäologischeStadtführung" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 
@@ -109,7 +109,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Titel: Führung durch das Forum Wissen (Do)</li>
 	<li>Termin: Donnerstag, 26.03.2026, 15 Uhr</li>
 	<li>Führung durch das Wissensmuseum der Universität Göttingen. Das Forum Wissen](https://www.forum-wissen.de) ist ein Ort der Begegnung und es geht um die Frage, wie Wissen entsteht.</li>
-<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ExkursionForumWissen" target="exk">Beschreibung der Exkursion</a></li>
+<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionForumWissen" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 
@@ -119,7 +119,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Titel: Archäologische Stadtführung - Schwerpunkt Stadtbefestigung (Do)</li>
 	<li>Archäologische Funde aus Göttingen kennenlernen und in einem kurzen Rundgang durch die Stadt Befestigungsanlagen und Fundstellen kennenlernen.</li>
 	<li>Termin: Donnerstag, 26.03.2026, 15:30 Uhr</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ArchäologischeStadtführung" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ArchäologischeStadtführung" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 	
 	<h4 id="Gruppenfoto" name="Gruppenfoto">Gruppenfoto</h4>
@@ -138,7 +138,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<ul>
 	<li>Termin: Freitag, 27.03.2026, 17 Uhr</li>
 	<li>Die Kartensammlung sowie besondere Stücke der Kartensammlung werden gezeigt.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ExkursionKartensammlung" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionKartensammlung" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 
@@ -148,7 +148,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Titel: Archäologische Stadtführung - Schwerpunkt Vom Dorf zur Stadt</li>
 	<li>Termin: Freitag, 27.03.2026, 15:30 Uhr</li>
 	<li>In einem 1, 5 stündigen Rundgang durch die Stadt werden die wichtigen Orte begangen, die Göttingen vom Dorf zur Stadt werden lassen. Angefangen bei dem „Alten Dorf“ und der Albani Kirche über die spätere Stadtgründung mit dem Markt und den drei „neuen“ Pfarrbezirken in der heutigen Stadtmitte.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#ArchäologischeStadtführung" target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ArchäologischeStadtführung" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 
 
@@ -166,7 +166,7 @@ Um der Lokation eine verbindliche Rückmeldung zur voraussichtlichen Anzahl der 
 	<li>Titel: Exkursion - Physicalisches Cabinett</li>
 	<li>Termin: Samstag, 28.03.2026, 10:30 Uhr</li>
 	<li>Die Sammlung historischer physikalischer Instrumente am I. Physikalischen Institut, kurz Physicalisches Cabinet, erlaubt ihren Besuchern anhand von historischen Messapparaturen einen Einblick in die Geschichte der Physik an der Georg-August-Universität Göttingen.</li>
-	<li>Detailinfos: <a href="/./konferenz-homepage/2026/socialevents/exkursionen.php#physikCabinett"  target="exk">Beschreibung der Exkursion</a></li>
+	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#physikCabinett"  target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 	
 	<h4 id="OSM-Event" name="OSM-Event">OSM-Samstag</h4>
