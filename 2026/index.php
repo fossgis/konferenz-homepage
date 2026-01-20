@@ -146,6 +146,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/208_GIS-Consult_Logo.png" alt="GIS-Consult">
 			</a>
 			</li>
+			<li class="tile silver">
+			<a href="sponsor/209_Feelgood.php" target="_blank">
+			<img src="./img/s/209_FeelGood_logo.png" alt="FeelGood">
+			</a>
+			</li>
 
 			</ul>
 <!--			<li class="tile silver">
@@ -207,11 +212,6 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/412_TomTom.png" alt="TomTom Global Content BV">
 			</a>
 			</li>	
-			<li class="tile bronze">
-			<a href="sponsor/413_Feelgood.php" target="_blank">
-			<img src="./img/s/413_FeelGood_logo.png" alt="FeelGood">
-			</a>
-			</li>
 			<li class="tile bronze">
 			<a href="sponsor/414_geocockpit.php" target="_blank">
 			<img src="./img/s/414_YEY-Maps_Logo.png" alt="GeoCockpit UG">
