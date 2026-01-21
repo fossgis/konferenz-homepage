@@ -48,7 +48,7 @@
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 				
 		<h4 id="ExkursionForumWissen" name="ExkursionForumWissen">Führung durch das Forum Wissen</h4>
-		<p>Es werden Samstags um 15 Uhr und sonntags um 11 Uhr öffentliche Führungen in deutscher Sprache angeboten. Die Führungen dauern 60 bis 90 Minuten. Weitere Infos siehe <a href="https://www.forum-wissen.de">Webseite</a>  Forum Wissen.</p>
+		<p>Es werden samstags um 15 Uhr und sonntags um 11 Uhr öffentliche Führungen in deutscher Sprache angeboten. Die Führungen dauern 60 bis 90 Minuten. Weitere Infos siehe <a href="https://www.forum-wissen.de">Webseite</a>  Forum Wissen.</p>
 
 		<ul>
 		<li>Termine:
