@@ -64,7 +64,7 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<ul>
 	<li>Titel: Führung durch das Rechnenzentrum der GWDG</li>
 	<li>Termin: Mittwoch, den 25.03.2026, 12:30 Uhr + 13:15 Uhr</li>
-	<li> Die Arbeitsgruppe "Computing" bietet eine Führung durch das Hochleistungsrechenzentrum in Göttingen.</li>
+	<li> Die GWDG bietet eine Führung durch das Hochleistungsrechenzentrum in Göttingen.</li>
 	<li>Detailinfos: <a href="/./2026/socialevents/exkursionen.php#ExkursionRechenzentrum" target="exk">Beschreibung der Exkursion</a></li>
 	</ul>
 

@@ -48,10 +48,10 @@
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
 				
 		<h4 id="ExkursionForumWissen" name="ExkursionForumWissen">Führung durch das Forum Wissen</h4>
-		<p>Es werden samstags um 15 Uhr und sonntags um 11 Uhr öffentliche Führungen in deutscher Sprache angeboten. Die Führungen dauern 60 bis 90 Minuten. Weitere Infos siehe <a href="https://www.forum-wissen.de">Webseite</a>  Forum Wissen.</p>
+		<p>Samstags um 15 Uhr und sonntags um 11 Uhr bietet das Forum Wissen öffentliche Führungen in deutscher Sprache an. Die Führungen dauern 60 bis 90 Minuten. Weitere Infos siehe <a href="https://www.forum-wissen.de">Webseite</a>  Forum Wissen.</p>
 
 		<ul>
-		<li>Termine:
+		<li>Termine für Konferenzteilnehmende:
 			<ul><li>Mittwoch, 25.03.2026, 15 Uhr</li>
 			<li>Donnerstag, 26.03.2026, 15 Uhr</li></ul>
 		<li>Treffpunkt: Forum Wissen, Berliner Straße 28, 37073 Göttingen (Nähe Bahnhof)</li>
@@ -88,7 +88,7 @@
 	<li>Betreuung: Dr.-Ing. Patrick Höhn</li>
 	<li>Dauer: 45-60 Minuten</li>
 	<li>Anmeldung erforderlich, <a href="https://files.fossgis.de/Konferenz/2026/Exkursion_Rechenzentrum_Zutrittsregeln.pdf">Zutritts- und Verhaltensregeln</a> sind zu beachten.</li>
-	<li> Die Arbeitsgruppe "Computing" bietet eine Führung durch das Hochleistungsrechenzentrum in Göttingen. Es gibt Ihnen einen kurzen Überblick die Dienstleistungen der GWDG sowie über die technische Ausstattung, mit der wir HPC- und IT-Dienstleistungen für Unternehmen und Hochschulen in Deutschland erbringen.</li>
+	<li> Die GWDG bietet eine Führung durch das Hochleistungsrechenzentrum in Göttingen. Es gibt Ihnen einen kurzen Überblick die Dienstleistungen der GWDG sowie über die technische Ausstattung, mit der wir HPC- und IT-Dienstleistungen für Unternehmen und Hochschulen in Deutschland erbringen.</li>
 	</ul>
 
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
