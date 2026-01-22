@@ -59,7 +59,10 @@
 						<ul>
 							
 							<li>
-								<a href="https://github.com/lat-lon "><i class="fab fa-github"></i></a>
+								<a href="https://github.com/lat-lon"><i class="fab fa-github"></i></a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/company/lat-lon-gmbh"><i class="fab fa-linkedin"></i></a>
 							</li>
 						</ul>
 					</div>
