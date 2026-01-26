@@ -91,8 +91,8 @@ Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann 
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
 Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. 
 	<ul>
-	<li>Ort: tba</li>
-	<li>Zeit: 19 – 23 Uhr</li>
+	<li>Ort: Foyer ZHG 1. OG</li>
+	<li>Zeit: 19 – 22 Uhr</li>
  	<li>Angebot: Buffet und Getränke</li>
 	</ul>
 	</p>
