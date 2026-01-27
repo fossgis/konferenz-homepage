@@ -177,6 +177,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/302_Geofabrik_logo4.png" alt="geofabrik">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/303_TomTom.php" target="_blank">
+			<img src="./img/s/303_TomTom.png" alt="TomTom">
+			</a>
+			</li>
 
 <!--  		<li class="tile bronze">
 			<a href="sponsor/403_grit.php" target="_blank">
@@ -207,11 +212,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</a>
 			</li>
 				
-			<li class="tile bronze">
-			<a href="sponsor/412_TomTom.php" target="_blank">
-			<img src="./img/s/412_TomTom.png" alt="TomTom Global Content BV">
-			</a>
-			</li>	
+	
 			<li class="tile bronze">
 			<a href="sponsor/414_geocockpit.php" target="_blank">
 			<img src="./img/s/414_YEY-Maps_Logo.png" alt="GeoCockpit UG">
