@@ -54,7 +54,7 @@
 								<a href="https://www.linkedin.com/company/tomtom/"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 														<li>
-								<a href="https://twitter.com/TomTom"><i class="fab fa-twitter"></i></a>
+								<a href="https://twitter.com/TomTom"><i class="fab fa-x-twitter"></i></a>
 							</li>
 							<li>
 								<a href="https://www.instagram.com/tomtomglobal/"><i class="fab fa-instagram"></i></a>
