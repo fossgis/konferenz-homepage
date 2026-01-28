@@ -169,7 +169,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 		<ul class="tiles">
 			<li class="tile bronze">
 			<a href="sponsor/301_latlon.php" target="_blank">
-			<img src="./img/s/301_logo_latlon_web.png" alt="latlon">
+			<img src="./img/s/301_latlon_Logo_neu.png" alt="latlon">
 			</a>
 			</li>
 			<li class="tile bronze">

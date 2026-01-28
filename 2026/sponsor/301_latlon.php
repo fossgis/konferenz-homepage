@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/301_logo_latlon_web.png" width="250px" 
+			<img src="./img/s/301_latlon_Logo_neu.png" width="250px" 
 				class="sp-logo" 
 				alt="Firmenlogo">
 			
