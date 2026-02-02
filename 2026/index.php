@@ -182,6 +182,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/303_TomTom.png" alt="TomTom">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/304_Adesso.php" target="_blank">
+			<img src="./img/s/304_adesso_basic_Color_CMYK.png" alt="Adesso SE">
+			</a>
+			</li>
 
 <!--  		<li class="tile bronze">
 			<a href="sponsor/403_grit.php" target="_blank">
