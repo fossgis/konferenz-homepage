@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>TomTom</h3>
 
-					<p>TomTom hilft Menschen und Unternehmen, ihren Weg in der Welt zu finden. Wir unterstützen Autofahrer:innen, Automobilhersteller, Unternehmen und Entwickler:innen mit unseren Standortdaten und Technologien. Unsere anwendungsbereiten Karten, Routing, Echtzeit-Verkehrsinformationen, APIs und SDKs ermöglichen es den Träumern und Machern von heute, die Zukunft der Mobilität zu gestalten.
+					<p>TomTom hilft Menschen und Unternehmen, sich mit Zuversicht in der Welt zurechtzufinden. Wir unterstützen Fahrer, Automobilhersteller, Unternehmen und Entwickler mit modernsten Standortdaten und Technologien. Von einsatzbereiten Karten und intelligenter Routenführung bis hin zu Echtzeit-Verkehrsinformationen – unsere umfassenden APIs und SDKs geben Entwicklern die Flexibilität, transformative standortbasierte Anwendungen zu entwickeln, die die Zukunft der Mobilität gestalten.
 					</p>
 				</div>
 				<div class="col-lg-3">
