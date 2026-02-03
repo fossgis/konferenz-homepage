@@ -49,7 +49,10 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 <p>Folgende Bundesländer erkennen die FOSSGIS-Konferenz als Bildungsurlaub an:</p>
 			<ul>			
 			<li><b>Thüringen</b> - <a href="data/2024-12-02_Aenderungsbescheid_Anerkennung_Bildungsveranstaltung_TH.pdf">Download Anerkennungsbescheid</a>, Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.
+			</li>
+			<li><b>Niedersachsen</b> - <a href="data/2026-02-03_Anerkennung_Niedersachen_103777_b138717_fossgis e.v..pdf">Download Anerkennungsbescheid</a>, <a href="data/Teilnahmebestaetigung_Bildungszeit_Niedersachsen.pdf">Download Teilnahmebescheinigung</a>.
 			</li>	
+			<li><b>Rheinland-Pfalz</b> - Antrag ist in Prüfung</li> 
 			</ul>
 <!--			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>-->
 			
@@ -57,8 +60,6 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 <p>Für folgende Bundesländer läuft die Beantragung für die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub:</p>
 			<ul>
 			<li><b>Schleswig-Holstein</b></li>
-			<li><b>Rheinland-Pfalz</b></li> 
-			<li><b>Niedersachsen</b></li>
 			<li><b>Hamburg</b></li>
 			<li><b>Sachsen-Anhalt</b></li>
 					
