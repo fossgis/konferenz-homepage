@@ -154,7 +154,7 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 
 
 	<h4 id="OSMFreitag" name="OSMFreitag">OSM-Event am Freitagabend</h4>
-	<p>Für alle, die am Freitagabend, den 27. März 2026 in der Stadt sind, werden ab 18:30 Uhr Plätze in einem Restaurant reservieren. Jede:r bezahlt seine Rechnung selbst.    <br>
+	<p>Für alle, die am Freitagabend, den 27. März 2026 Lust auf Geselligkeit haben, sind ab 18:30 Uhr Plätze im <a href="https://www.kartoffelhaus-goettingen.de/">Kartoffelhaus </a> reserviert. Jede:r bezahlt seine Rechnung selbst.    <br>
 Um der Lokation eine verbindliche Rückmeldung zur voraussichtlichen Anzahl der Gäste geben zu können, bitte im Wiki in der <a href="https://wiki.openstreetmap.org/wiki/FOSSGIS_2026/OSM-Samstag#Geselliges_Beisammensein_am_Freitagabend"  target="_blank">Tabelle Geselliges Beisammensein</a>  am Freitagabend eintragen.</p>
 
 	<h3>Samstag, 28. März 2026</h3>
