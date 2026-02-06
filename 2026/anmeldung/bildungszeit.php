@@ -53,6 +53,9 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<li><b>Niedersachsen</b> - <a href="data/2026-02-03_Anerkennung_Niedersachen_103777_b138717_fossgis e.v..pdf">Download Anerkennungsbescheid</a>, <a href="data/Teilnahmebestaetigung_Bildungszeit_Niedersachsen.pdf">Download Teilnahmebescheinigung</a>.
 			</li>	
 			<li><b>Rheinland-Pfalz</b> - Antrag ist in Prüfung</li> 
+			<li><b>Sachsen-Anhalt</b> - <a href="data/2024-12-03_Bescheid_Anerkennung_Bildungsveranstaltung_Sachsen-Anhalt.pdf">Download Anerkennungsbescheid</a>, Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.
+			</li>
+
 			</ul>
 <!--			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid.</p>-->
 			
@@ -61,8 +64,7 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<ul>
 			<li><b>Schleswig-Holstein</b></li>
 			<li><b>Hamburg</b></li>
-			<li><b>Sachsen-Anhalt</b></li>
-					
+
 			</ul>
 
 			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
