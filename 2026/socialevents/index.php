@@ -22,7 +22,7 @@
 	<?php include "../inc/header.inc"; ?>
 
 	<h2>Rahmenprogramm und Social Events</h2>
-	<p>Die FOSSGIS-Konferenz lebt vom Engagement und Beiträgen aus der Community. Das Rahmenprogramm zur FOSSGIS 2026 bietet neben dem regulären Vortrags- und Workshopprogramm eine interessante Bereicherung für unsere Teilnehmenden.</p> 
+	<p>Die FOSSGIS-Konferenz lebt vom Engagement und Beiträgen aus der Community. Das Rahmenprogramm zur FOSSGIS 2026 bietet neben dem regulären Vortrags- und Workshopprogramm eine interessante Bereicherung für unsere Teilnehmenden.<br> Für einzelne Events, wie Abendveranstaltung und Exkursionen braucht es eine Anmeldung.</p> 
 
 	<h4 id="Anwendertreffen" name="Anwendertreffen">Anwendertreffen</h4>
 	<p>Es können Anwendertreffen, Sprints und BoF-Sessions im Rahmen der Konferenz selber organisiert werden, der Platz dafür ist aufgrund eines umfangreichen Programms knapp. Bei Interesse bitte per <a href="mailto:programm@fossgis.de"> E-Mail</a> an das Programmkomitee schreiben. </p>
@@ -47,11 +47,10 @@
 
 	
 	<h4 id="Geochicas" name="Geochicas">Geochicas laden ein</h4>
-	<p>Am Dienstag dem 24. März 2026 wird es wieder ein Treffen der Geochicas geben. Ort und Zeit werden noch bekannt gegeben.<br>
-	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht).<br>
+	<p>Am Dienstag dem 24. März 2026 treffen sich ab 17:30 Uhr die Geochicas in der <a href="http://www.divalounge-goettingen.de/" target="_blank">DIVAlounge Göttingen</a>Kurze Geismarstraße 9, 37073 Göttingen.<br>
+	Das Treffen ist mittlerweile Tradition und richtet sich an Teilnehmerinnen der FOSSGIS - ist also nur für Frauen (jede, die sich als Frau versteht) und bietet einen Raum für Kennenlernen und Austausch.<br>
 	Du hast Interesse andere Frauen aus der FOSSGIS und Open Data Szene kennen zu lernen, dein Projekt vorzustellen, mehr über Geochicas zu erfahren, zu netzwerken und in Richtung Diversität in unserer Community zu denken? Dann bist du bei dem Treffen genau richtig. Das erste Getränk geht auf uns.<br>
-Es wird sicherlich ein spannendes Treffen. Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.<br> 
-	Die Geochicas sind neugierig und freuen sich auf dich.</p>	
+Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.</p>	
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
