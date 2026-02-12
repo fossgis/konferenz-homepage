@@ -187,6 +187,18 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/304_adesso_basic_Color_CMYK.png" alt="Adesso SE">
 			</a>
 			</li>
+			<li class="tile bronze">
+			<a href="sponsor/305_geOps.php" target="_blank">
+			<img src="./img/s/305_geOps.png" alt="geOps AG">
+			</a>
+			</li>
+
+			<li class="tile bronze">
+			<a href="sponsor/306_MDPI-AG.php" target="_blank">
+			<img src="./img/s/306_geomatics-logo.png" alt="MDPI AG">
+			</a>
+			</li>
+
 
 <!--  		<li class="tile bronze">
 			<a href="sponsor/403_grit.php" target="_blank">
