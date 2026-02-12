@@ -54,7 +54,7 @@
 						</li>	
 						<li> <a href="https://github.com/geops"><i class="fab fa-github"></i></a>
 							</li>
-						<li><a href="https://twitter.com/geOps"><i class="fab fa-twitter"></i></a>
+						<li><a href="https://twitter.com/geOps"><i class="fab fa-x-twitter"></i></a>
 							</li>
 						</ul>
 					</div>

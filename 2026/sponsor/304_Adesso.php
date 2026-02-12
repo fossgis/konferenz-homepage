@@ -31,7 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>adesso SE – business. people. technology.</h3>
 
-					<p>Als einer der führenden IT-Dienstleister im deutschsprachigen Raum optimiert adesso Kerngeschäftsprozesse durch den gezielten Einsatz moderner IT. Mit über 10.200 Mitarbeitenden an mehr als 60 Standorten verbinden wir technologische Exzellenz mit Branchenexpertise – auch im GIS-Umfeld.</p>
+					<p>Als einer der führenden IT-Dienstleister im deutschsprachigen Raum optimiert adesso Kerngeschäftsprozesse durch den gezielten Einsatz moderner IT. Mit über 11.100 Mitarbeitenden an mehr als 60 Standorten verbinden wir technologische Exzellenz mit Branchenexpertise – auch im GIS-Umfeld.</p>
 					<p><b>Unser GIS-Portfolio:</b></p>
 
 <ul>
