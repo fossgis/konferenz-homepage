@@ -31,8 +31,7 @@
 				<div class="col-lg-9 mb-4 mb-lg-0 mt-3">
 					<h3>geOps AG</h3>
 
-					<p>Entwicklung und Betrieb intelligenter Web-Applikationen auf Basis von Geo- und Echtzeitdaten sind die Stärke von geOps. Die fachlichen Schwerpunkte setzt geOps in den Bereichen öffentlicher Verkehr, Mobilität und Umwelt. Die Bandbreite der Leistungen reicht von der Datenanalyse und -visualisierung über Auskunftssysteme und Geschäftslösungen bis hin zu kompletten Geodaten-Infrastrukturen.
-					</p>
+					<p>geOps entwickelt und betreibt intelligente Web-Applikationen auf Basis von Geo- und Echtzeitdaten. Die fachlichen Schwerpunkte liegen in den Bereichen öffentlicher Verkehr, Mobilität und Umwelt. Das Leistungsspektrum reicht von der Datenanalyse und -visualisierung über Auskunftssysteme und Geschäftslösungen bis hin zu vollständigen Geodaten-Infrastrukturen und Mobilitäts-Datendrehscheiben. Dabei setzt geOps konsequent auf Open-Source-Technologien.  </p>
 				</div>
 				<div class="col-lg-3">
 					<div class="mb-4">
@@ -42,7 +41,7 @@
 							https://geops.com/</a><br>
 
 							E-Mail: <br>
-							<a href="mailto:uli.mueller@geops.ch">uli.mueller@geops.ch</a><br></h6>
+							<a href="mailto:info@geops.ch">info@geops.ch</a><br></h6>
 					</div>
 
 						
@@ -53,8 +52,6 @@
 						<li><a href="https://www.linkedin.com/company/geops/"><i class="fab fa-linkedin-in"></i></a>
 						</li>	
 						<li> <a href="https://github.com/geops"><i class="fab fa-github"></i></a>
-							</li>
-						<li><a href="https://twitter.com/geOps"><i class="fab fa-x-twitter"></i></a>
 							</li>
 						</ul>
 					</div>
