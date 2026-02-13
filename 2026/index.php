@@ -195,7 +195,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 
 			<li class="tile bronze">
 			<a href="sponsor/306_MDPI-AG.php" target="_blank">
-			<img src="./img/s/306_geomatics-logo.png" alt="MDPI AG">
+			<img src="./img/s/306_IJGI-geomatics.png" alt="MDPI AG">
 			</a>
 			</li>
 

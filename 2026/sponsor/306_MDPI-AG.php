@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/306_ijgi-partnership.png" 
+			<img src="./img/s/306_IJGI-geomatics.png" 
 				class="sp-logo" 
 				alt="Firmenlogo">
 			
