@@ -198,13 +198,14 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/306_IJGI-geomatics.png" alt="MDPI AG">
 			</a>
 			</li>
-
-
-<!--  		<li class="tile bronze">
-			<a href="sponsor/403_grit.php" target="_blank">
-			<img src="./img/s/403_grit.png" alt="grit GmbH ">
+			<li class="tile bronze">
+			<a href="sponsor/307_grit.php" target="_blank">
+			<img src="./img/s/307_grit.png" alt="grit GmbH ">
 			</a>
 			</li>
+
+
+<!--  		
 			<li class="tile bronze">
 			<a href="sponsor/404_opencage.php" target="_blank">
 			<img src="./img/s/404_opencage.png" alt="OpenCage">

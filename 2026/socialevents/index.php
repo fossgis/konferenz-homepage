@@ -54,7 +54,10 @@ Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.</p>
 
 	<h4 id="InoffiziellerStart" name="InoffiziellerStart">Inoffizieller Start</h4>
 
-	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 24. März 2026 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen im <a href="https://www.zak-goettingen.de/" target="_blank">Z.a.k.</a>, Am Wochenmarkt 22, 37073 Göttingen. Jede:r bezahlt seine Rechnung selbst.</p>
+	<h4 id="Firmentreffen" name="Firmentreffen">Treffen Mitgliedsfirmen und juristische Mitglieder </h4>
+	<p>Firmen- und juristische Mitglieder treffen sich zum lockeren Austausch über ihre Aktivitäten im FOSSGIS e.V um 17:30 Uhr im <a href="https://www.zak-goettingen.de/" target="_blank">Z.A.K.</a>, Am Wochenmarkt 22, 37073 Göttingen.</a>
+
+	<p>Am Abend vor der FOSSGIS-Konferenz besteht die Möglichkeit bei einem gemeinsamen Abendessen alte Gesichter wiederzusehen und neue Bekanntschaften zu machen. Für den Inoffiziellen Start sind am 24. März 2026 ab 18:30/19 Uhr alle schon angereisten Konferenzteilnehmenden willkommen im <a href="https://www.zak-goettingen.de/" target="_blank">Z.A.K.</a>, Am Wochenmarkt 22, 37073 Göttingen. Jede:r bezahlt seine Rechnung selbst.</p>
 
 	<h3>Mittwoch, 25. März 2026</h3>
 
