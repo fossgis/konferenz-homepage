@@ -77,21 +77,15 @@
 								<a href="https://www.linkedin.com/company/opengisch/"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 							<li>
+								<a href="https://www.linkedin.com/company/qfield/"><i class="fab fa-linkedin-in"></i></a>
+							</li>
+
+							<li>
 								<a href="https://mastodon.online/@opengisch@fosstodon.org"><i class="fab fa-mastodon"></i></a>
 							</li>	
 							<li>
 								<a href="https://mastodon.online/@qfield@fosstodon.org"><i class="fab fa-mastodon"></i></a>
 							</li>													
-							<li>
-								<a href="https://twitter.com/OPENGISch"><i class="fab fa-x-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://twitter.com/qfieldforqgis"><i class="fab fa-x-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://twitter.com/qfieldcloud"><i class="fab fa-x-twitter"></i></a>
-							</li>
-
 							<li>
 								<a href="https://github.com/opengisch"><i class="fab fa-github"></i></a>
 							</li>
