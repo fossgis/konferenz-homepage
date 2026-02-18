@@ -92,11 +92,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</a>
 			</li> 
 <!--		
-			<li class="tile gold">
-			<a href="sponsor/104_NRW-Mobidrom.php" target="_blank">
-			<img src="./img/s/104_Mobidrom_Logo.png" alt="NRW.Mobidrom">
-			</a>
-			</li>
+
 			<li class="tile gold">
 			<a href="sponsor/105_openSenseLab.php" target="_blank">
 			<img src="./img/s/105_openSenseLab-Logo.png" alt="openSenseLab">
@@ -206,6 +202,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<li class="tile bronze">
 			<a href="sponsor/308_dvz-mv.php" target="_blank">
 			<img src="./img/s/308_DVZ-MV.png" alt="DVZ-MV GmbH ">
+			</a>
+			</li>
+			<li class="tile bronze">
+			<a href="sponsor/309_NRW-Mobidrom.php" target="_blank">
+			<img src="./img/s/309_Mobidrom.jpg" alt="NRW.Mobidrom">
 			</a>
 			</li>
 
