@@ -203,7 +203,11 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			<img src="./img/s/307_grit.png" alt="grit GmbH ">
 			</a>
 			</li>
-
+			<li class="tile bronze">
+			<a href="sponsor/308_dvz-mv.php" target="_blank">
+			<img src="./img/s/308_DVZ-MV.png" alt="DVZ-MV GmbH ">
+			</a>
+			</li>
 
 <!--  		
 			<li class="tile bronze">
