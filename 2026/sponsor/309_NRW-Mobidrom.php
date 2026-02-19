@@ -23,7 +23,7 @@
 	<section class="section">
 		<div class="container">
 			
-			<img src="./img/s/309_Mobidrom.jpg" 
+			<img src="./img/s/309_Mobidrom.png" 
 				class="sp-logo" 
 				alt="Firmenlogo">
 			

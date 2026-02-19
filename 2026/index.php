@@ -206,7 +206,7 @@ Themen wie Digitale Souveränität im Zusammenhang mit Open Source werden ebenso
 			</li>
 			<li class="tile bronze">
 			<a href="sponsor/309_NRW-Mobidrom.php" target="_blank">
-			<img src="./img/s/309_Mobidrom.jpg" alt="NRW.Mobidrom">
+			<img src="./img/s/309_Mobidrom.png" alt="NRW.Mobidrom">
 			</a>
 			</li>
 
