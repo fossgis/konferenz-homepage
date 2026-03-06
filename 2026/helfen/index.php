@@ -183,7 +183,7 @@ TN bekommen im Ticketsystem die Frage, ob sie Bildungsurlaub in Anspruch nehmen 
 		<li>Registierung im Helfer:innensystem: <a href="https://helfen.fossgis.de" target="_blank">https://helfen.fossgis.de</a>.</li>		
 		<li>An einem Beratungstermin für Helfende teilnehmen (09.02., 20 Uhr, 09.03.2026 um 16 + 20 Uhr).</li>
 <!--		<li>Kontakt Orgateam <a href="mailto:helfen@fossgis.de? subject=Konferenzhelferteam_erreichen"> per E-Mail</a> oder anrufen unter: +49 30-62932037.</li> -->
-		<li>dem Matrixkanal <a href="https://matrix.to/#/#Helfen@FOSSGIS2025:matrix.org"><i>Helfer:innen_FOSSGIS2026</i></a> beitreten. </li>
+		<li>dem Matrixkanal <a href="https://matrix.to/#/!KpcxxfaHtpTsMzFhdO:matrix.org"><i>Helfer:innen_FOSSGIS2026</i></a> beitreten. </li>
 		<li>Bei Fragen einfach fragen.</li>
 		</ul>
 
