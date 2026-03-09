@@ -156,6 +156,12 @@ Lesen Sie die Hinweise unter <a href="https://fossgis-konferenz.de/2025/helfen/"
 		<li><b>Wie werde ich Medienpartner?</b><br>
 		Wenn Sie die Konferenz unterstützen wollen oder eine gute Idee mitbringen, wenden Sie sich gern per E-Mail an das <a href="mailto:konferenz-orga@fossgis.de?subject=Medienpartner">Konferenzorgateam</a>.</li>
 		</ul>
+	<h3>Presse</h3>
+		<ul>
+		<li><b>Wie läuft die Presseakreditierung für die FOSSGIS-Konferenz?</b><br>
+		siehe Beschreibung im Wiki: https://www.fossgis.de/wiki/Konferenz_2026/Presse <br> Rückfragen per Mail an konferenz-orga@fossgis.de
+		</li></ul>
+
 
 	<h3 id="Helfen" name="Helfen" >Helfen</h3>
 		<ul>

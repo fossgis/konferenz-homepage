@@ -96,10 +96,12 @@ Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erfor
 	<li>Ort: Foyer ZHG 1. OG</li>
 	<li>Zeit: 19 – 22 Uhr</li>
  	<li>Angebot: Buffet und Getränke</li>
+	<li>Band: Alte Weiße Männer</li>
+		<div style="display: flex; align-items: center; gap: 8px;">
+   		<img src="./socialevents/img/alte-weiße-maenner-logo_qa.png" alt="Beschreibung" style="max-width: 170px; height: auto;">
+		<p>Was sich nicht verstecken lässt, muss man ausstellen – Alte Weiße Männer sind ein Trio von Herren im, sagen wir mal, mittleren Alter. Sie spielen Songs, die man kennt, aber mit eigenen deutschen Texten. Rock’n Roll, Blues und anderes Zeug, dass passt. Zum Hören und Zuhören.</p>
+ 		</div>
 	</ul>
-	</p>
-
-
    
 
 

@@ -57,17 +57,18 @@ Der Mehrwert besteht darin, dass der Arbeitnehmer:in pro Jahr bis zu 5 Tage Bild
 			<li><b>Sachsen-Anhalt</b> - <a href="data/2024-12-03_Bescheid_Anerkennung_Bildungsveranstaltung_Sachsen-Anhalt.pdf">Download Anerkennungsbescheid</a>
 			</li>
 			<li><b>Schleswig-Holstein</b> - <a href="data/Anerkennungsbescheid_SH_13022026_document1872618.pdf">Download Anerkennungsbescheid</a></li>
+<li><b>Hamburg</b> - <a href="data/Anerkennung _HH_FOSSGIS 2026.pdf">Download Anerkennungsbescheid</a></li>
 
 			</ul>
 			
 			<p>Nutzen Sie für Ihre Beantragung Ihrer Bildungsfreistellung beim Arbeitgeber den jeweils verlinkten Anerkennungsbescheid. Ihre Teilnahmebestätigung ist nach der Konferenz in Ihrer Bestellung downloadbar.</p>
 			
-			<h3 id="Antrag" name="Antrag" >im Antragsverfahren</h3>
+<!--			<h3 id="Antrag" name="Antrag" >im Antragsverfahren</h3>
 <p>Für folgende Bundesländer läuft die Beantragung für die Anerkennung der FOSSGIS-Konferenz als Bildungsurlaub:</p>
 			<ul>
-			<li><b>Hamburg</b></li>
+			
 
-			</ul>
+			</ul>-->
 
 			<h3 id="Ablehnung" name="Ablehnung" >Ablehnung</h3>
 <p>Folgende Bundesländer haben die FOSSGIS-Konferenz leider nicht als Bildungszeit anerkannt, von einem erneuten Antrag wird abgesehen:</p>

@@ -72,10 +72,9 @@ Karte: <a href="https://openstreetmap.de/karte/?zoom=19&lat=51.5563&lon=9.94759&
 <!--		<p><b>Angebote Privatzimmer:</b> 
 		<ul>
 		<li><a href="standort/data/Privatzimmer_Goettingen_Stand_31-03-2025.pdf" target="_blank">als PDF</a></li>
-		</ul>-->
-
-		<h4 ID="Anreise" name="Anreise">weitere Informationen zur Anreise und Standort folgen</h4>
-        
+		</ul>
+		<h4 ID="Anreise" name="Anreise">weitere Informationen zur Anreise und Standort folgen</h4>-->
+       
 
 
  <?php include "../inc/footer.inc"; ?>
