@@ -41,10 +41,10 @@
 		<h3 id="QFieldAPP" name="QFieldAPP">QField-FOSSGIS2026-App</h3>
 		<p>Greife mit der QField-FOSSGIS-App auf das Programm zu und erkunde des Konferenzstandort in der Karte. Erstelle Deine persönliche Liste mit Workshops und Vorträgen.</p> 
 		<p><img src="./programm/img/QFieldApp_image.png" class="img-fluid" style="margin-rigth: 250px" alt="QFieldAPP"></img></p>
-		<h4>Erklärvideo QField-FOSSGIS-App:</h4>
-<br>
+		<h4>Erklärvideo QField-FOSSGIS-App</h4>
+<br><br><br>
 		<p><video width="640" height="360" controls>
-			<source src="./programm/img/https://files.fossgis.de/Konferenz/2026/fossgis26_QField-app-intro_final.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.</video></p>
+			<source src="https://files.fossgis.de/Konferenz/2026/fossgis26_QField-app-intro_final.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.</video></p>
 
 
 					
