@@ -84,7 +84,7 @@
 	<li>Termine:
 			<ul><li>Mittwoch, 25.03.2026, 12:30 Uhr</li>
 			<li>Mittwoch, 25.03.2026, 13:15 Uhr</li></ul>
-	<li>Treffpunkt: Rechenzentrum der GWDG (RZGö) (vom ZHG mittels der Buslinien 21,22,23 innerhalb von ca. 10 Minuten erreichbar)</li>
+	<li>Treffpunkt: Rechenzentrum der GWDG (RZGö) (vom ZHG mittels der Buslinien 21, 22, 23 innerhalb von ca. 10 Minuten erreichbar)</li>
 	<li>Betreuung: Dr.-Ing. Patrick Höhn</li>
 	<li>Dauer: 45-60 Minuten</li>
 	<li>Anmeldung erforderlich, <a href="https://files.fossgis.de/Konferenz/2026/Exkursion_Rechenzentrum_Zutrittsregeln.pdf">Zutritts- und Verhaltensregeln</a> sind zu beachten.</li>
@@ -115,7 +115,7 @@
 	<li>Betreuung: Frank Wedekind</li>
 	<li>Dauer: 90 Minuten</li>
 	<li>Anmeldung erforderlich, Schutzgebühr: 5 EUR</li>
-	<li>In einem 1, 5 stündigen Rundgang durch die Stadt werden die wichtigen Orte begangen, die Göttingen vom Dorf zur Stadt werden lassen. Angefangen bei dem „Alten Dorf“ und der Albani Kirche über die spätere Stadtgründung mit dem Markt und den drei „neuen“ Pfarrbezirken in der heutigen Stadtmitte.</li>
+	<li>In einem 1,5-stündigen Rundgang durch die Stadt werden die wichtigen Orte begangen, die Göttingen vom Dorf zur Stadt werden lassen. Angefangen bei dem „Alten Dorf“ und der Albani Kirche über die spätere Stadtgründung mit dem Markt und den drei „neuen“ Pfarrbezirken in der heutigen Stadtmitte.</li>
 	</ul>
 
 		<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>

@@ -59,7 +59,7 @@ Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.</p>
 
 	<h3>Mittwoch, 25. März 2026</h3>
 
-	<h4 id="ExkursionRechenzentrum" name="ExkursionRechenzentrum">Exkursion - Rechnenzentrum der GWDG</h4>
+	<h4 id="ExkursionRechenzentrum" name="ExkursionRechenzentrum">Exkursion - Rechenzentrum der GWDG</h4>
 
 	<ul>
 	<li>Titel: Führung durch das Rechnenzentrum der GWDG</li>
@@ -89,7 +89,7 @@ Im Anschluss schließen wir uns dann dem Inoffiziellen Start an.</p>
 
 	<h4>Abendveranstaltung </h4>
 	<p>Traditionell findet am ersten Abend der FOSSGIS-Konferenz die Abendveranstaltung statt, auch Social Event genannt. 
-Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich sowie eine finanzielle Beteiligung an den Kosten erwünscht ist. 
+Der Eintritt ist im FOSSGIS-Konferenz-Ticket enthalten. Eine Anmeldung ist erforderlich, eine finanzielle Beteiligung an den Kosten ist erwünscht.
 	<ul>
 	<li>Ort: Foyer ZHG 1. OG</li>
 	<li>Zeit: 19 – 22 Uhr</li>

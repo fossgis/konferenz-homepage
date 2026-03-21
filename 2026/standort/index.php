@@ -41,7 +41,7 @@ Karte: <a href="https://openstreetmap.de/karte/?zoom=18&lat=51.54092&lon=9.93581
 	<p>Die Konferenz findet im Zentralen Hörsaalgebäude der Uni Göttingen (ZHG) statt. Die Räumlichkeiten sind weitestgehend barrierefrei zugänglich. Hier ist ein Blick in den <a href="https://lageplan.uni-goettingen.de/?ident=5257_1_EG_0.103" target="_blank">Lageplan der Uni Göttingen</a> möglich. Für Fragen zum Erreichen der Räume, zögern Sie nicht das Konferenz-Team anzusprechen.
 	</p>
 	
-	<p>Die Vortragsräume sinnd alle im ZHG sowie das Foyer, wo Welcome Desk, Firmen- und Projekteausstellung, Pausenversorgung und Posterausstellung platziert werden.</p>
+	<p>Die Vortragsräume sind alle im ZHG sowie das Foyer, wo Welcome Desk, Firmen- und Projekteausstellung, Pausenversorgung und Posterausstellung platziert werden.</p>
 
 	<h3>Konferenzort Institut für Geographie (Samstag)</h3>
 
