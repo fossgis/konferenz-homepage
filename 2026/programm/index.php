@@ -30,12 +30,12 @@
 		</ul>-->
 
 <!--	<h2 id="Tagungsband" name="Tagungsband"class="Tagungsband">Tagungsband</h2>
-	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/2025/fossgis_tagungsband_2025_digital.pdf">als PDF zum Download</a> zur Verfügung.
+	<p>Der Tagungsband zur Konferenz steht <a href="https://files.fossgis.de/Konferenz/2025/fossgis_tagungsband_2025_digital.pdf">als PDF zum Download</a> zur Verfügung.-->
 
 		
 
-	<!--<h3>FOSSGIS-Konferenz im "gewohnten" Livestream</h3>
-	<p>Die FOSSGIS 2026 wird auch im gewohnten Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2024</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>-->
+	<h3>FOSSGIS-Konferenz im Livestream</h3>
+	<p>Die FOSSGIS 2026 wird auch im Livestream übertragen: <a href="https://media.ccc.de/"> https://media.ccc.de/c/fossgis2026</a>. Hier stehen keine Möglichkeiten zur Interaktion mit anderen Teilnehmer:innen zur Verfügung, dafür bitte Onlineticket buchen. Wer ein Konferenzticket hat, findet den Zugangslink zur Online-Platform im Bestelllink.</p>
 	
 	<h2>Programm FOSSGIS 2026</h2>
 
@@ -45,7 +45,7 @@
 	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2026/featured/" target="_blank">https://pretalx.com/fossgis2026/featured/</a></p></li>
 	<li><p><b>Apps:</b> <a href="./programm/APPs.php#FahrplanAPP"target="_blank">Fahrplan APP</a> und <a href="./programm/APPs.php#QFieldAPP" target="_blank">QField-FOSSGIS2026-App</a></p></li>
 <!--	<li><p><b>Livestream:</b> <a href="https://media.ccc.de/c/fossgis2026">Media.ccc.de</a></p></li>-->
-	<li><p><b>Tagungsband:</b>  <a href="https://files.fossgis.de/Konferenz/2025/fossgis_tagungsband_2025_digital.pdf">digitale PDF-Version</a>
+	<li><p><b>Tagungsband:</b>  <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2026_digital.pdf">digitale PDF-Version</a>
 	<li><p><b>Community Voting:</b> fast 200 Teilnehmende haben sich beteiligt, Vielen Dank!</li>
 	<li><p><b>Call for Participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2026/callforpapers/">2026/callforpapers/</a></p></li>
 	</ul>
