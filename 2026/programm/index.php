@@ -45,7 +45,7 @@
 	<li><p><b>Highlights:</b> <a href="https://pretalx.com/fossgis2026/featured/" target="_blank">https://pretalx.com/fossgis2026/featured/</a></p></li>
 	<li><p><b>Apps:</b> <a href="./programm/APPs.php#FahrplanAPP"target="_blank">Fahrplan APP</a> und <a href="./programm/APPs.php#QFieldAPP" target="_blank">QField-FOSSGIS2026-App</a></p></li>
 <!--	<li><p><b>Livestream:</b> <a href="https://media.ccc.de/c/fossgis2026">Media.ccc.de</a></p></li>-->
-	<li><p><b>Tagungsband:</b>  <a href="https://files.fossgis.de/Konferenz/fossgis_tagungsband_2026_digital.pdf">digitale PDF-Version</a>
+	<li><p><b>Tagungsband:</b>  <a href="https://files.fossgis.de/Konferenz/2026/fossgis_tagungsband_2026_digital.pdf">digitale PDF-Version</a>
 	<li><p><b>Community Voting:</b> fast 200 Teilnehmende haben sich beteiligt, Vielen Dank!</li>
 	<li><p><b>Call for Participation</b> zum Nachlesen: <a href="https://fossgis-konferenz.de/2026/callforpapers/">2026/callforpapers/</a></p></li>
 	</ul>
