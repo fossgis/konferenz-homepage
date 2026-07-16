@@ -19,7 +19,7 @@
 
             <p>Die FOSSGIS-Konferenz ist im D-A-CH-Raum die führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap.</p>
 
-            <p>Die FOSSGIS-Konferenz 2027 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Kooperation mit dem <a href="https://heigit.org/de/">HeiGIT</a> und der <a href="https://www.uni-heidelberg.de/de">Universität Heidelberg </a> organisiert und findet auf dem Unicampus Heidelberg statt.</p>
+            <p>Die FOSSGIS-Konferenz 2027 wird vom gemeinnützigen <a href="https://www.fossgis.de/">FOSSGIS e.V</a>, der <a href="https://www.openstreetmap.de/">OpenStreetMap Community</a> in Kooperation mit dem mit dem <a href="https://www.geog.uni-heidelberg.de/de">Geographischen Institut</a>, Abt. Geoinformatik der Universität Heidelberg und der <a href="https://heigit.org/de/">HeiGIT gGmbH</a> organisiert und findet auf dem Campus der <a href="https://www.uni-heidelberg.de/de">Universität Heidelberg</a> statt.
 
       <div>    <ul class="tiles">
 				<li class="tile silver">
@@ -46,7 +46,7 @@
                  </li>  
                  <li class="tile platin">
 		     <a href="hhttps://www.uni-heidelberg.de/de">
-			 <img src="https://backend.uni-heidelberg.de/sites/default/files/site_logo/inverse/logo_3.svg" alt="Uni Heidelberg" align="center">
+			 <img src="img/Heidelberg_University_logo.png" alt="Uni Heidelberg" align="center">
 					 </a>
                  </li>  
 
