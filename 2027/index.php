@@ -46,7 +46,7 @@
                  </li>  
                  <li class="tile platin">
 		     <a href="hhttps://www.uni-heidelberg.de/de">
-			 <img src="img/Heidelberg_University_logo.png" alt="Uni Heidelberg" align="center">
+			 <img src="./img/Heidelberg_University_logo.png" alt="Uni Heidelberg" align="center">
 					 </a>
                  </li>  
 
