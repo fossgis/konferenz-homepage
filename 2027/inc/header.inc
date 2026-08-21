@@ -44,6 +44,6 @@
 <div class="hero">
 	<figure>
 		<img class="img-fluid" src="./img/heigit-audimax_201_1_HP.jpg" width="880" height="350"  alt="wo ist das Bild!">
-		<figcaption><b>Foto: Uni Heidelberg</b></figcaption>
+		<figcaption><b>Foto: HeiGIT</b></figcaption>
 	</figure>
 </div>
