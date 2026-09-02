@@ -291,13 +291,13 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<p>Es gibt wieder eine Jobbörse im Rahmen der Konferenz. Dafür stellen wir eine Pinnwand ins Foyer, dort können Stellenanzeigen angebracht werden. In Kooperation mit GoGeoGo gibt es vom 09.03.-09.04. eine digitale Jobbörse. Beim Eintragen bitte die Auftragsnummer <i>FOSSGIS2026</i> eintragen, dann erscheint die Stellenanzeige in der <a href="https://www.gogeogo.com/de/company/fossgis-2026" target="_blank"> FOSSGIS 2026 Jobbörse</a>.
 					</p>
 					
-			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>
+			<h4 id="orangerStreifen" name="orangerStreifen" class="highlight"></h4>-->
 
 			
 			<h3 ID="Sponsoring" name="Sponsoring">Werden Sie Sponsor!</h3> 
-           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen zum Sponsoring und zur Firmenausstellung in der <a href="https://files.fossgis.de/Konferenz/2026/Sponsoreninformationen_FOSSGIS-2026.pdf" target="_blank" >Sponsoringbroschüre</a>. Für die Vereinbarung eines Sponsorings, senden Sie die ausgefüllte <a href="https://files.fossgis.de/Konferenz/2026/FOSSGIS-Konferenz-Sponsoring-Vereinbarung_2026.pdf" target="_blank">Sponsoringvereinbarung</a>.</p>
-			<p>Bei Fragen wenden Sie sich an das <a href="mailto:konferenz-orga@fossgis.de? subject=Konferenzorganisationsteam_erreichen">Konferenzorganisationsteam</a>.</p>
--->
+           	  	  <p>Sie möchten die FOSSGIS-Konferenz mit einem Sponsoring unterstützen? Sie finden Informationen zum Sponsoring und zur Firmenausstellung in der <a href="https://files.fossgis.de/Konferenz/2027/Sponsoreninformationen_FOSSGIS-2027.pdf" target="_blank" >Sponsoringbroschüre</a>. Für die Vereinbarung eines Sponsorings oder für Fragen schreiben Sie eine <a href="mailto:konferenz-orga@fossgis.de? subject=Konferenz_Sponsoring_vereinbaren">Mail</a> an das Konferenzorganisationsteam.</p>
+		
+
   
         <?php include('inc/footer.inc'); ?>
  
