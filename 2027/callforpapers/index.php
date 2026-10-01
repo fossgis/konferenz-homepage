@@ -83,7 +83,7 @@ Eine Community-Session kann in Form von Anwender:innentreffen oder „Birds of a
 Die Idee des Formats ist, dass Expert:innen für 60 Minuten für Fragen von Teilnehmenden zur Verfügung stehen.
 
 		<li><strong>Studi- und Azubi-Session</strong><br>
-Auszubildende und Studierende können eine Abschluss-, Seminar-, Projektarbeit als Kurzvortrag vorstellen. Ausführliche Informationen sind in diesem <a href="https://files.fossgis.de/Konferenz/2026/Studierendenblock_CfS_2026_md_quer.pdf">PDF</a> zu finden.
+Auszubildende und Studierende können eine Abschluss-, Seminar-, Projektarbeit als Kurzvortrag vorstellen. Ausführliche Informationen sind in diesem <a href="https://files.fossgis.de/Konferenz/2027/CallforStudents_FOSSGIS-2027.pdf">PDF</a> zu finden.
 
 		<li><strong>Poster-Session</strong><br>
 Die Poster-Session bietet eine Plattform, um innovative Ideen, laufende (Forschungs-)Projekte und Studienarbeiten in einem interaktiven Format vorzustellen. Das Posterformat kann dabei zwischen A0 bis A2 gewählt werden. Zusätzlich besteht die Option, einen Kurzbeitrag (max. 3 Seiten) einzureichen, der im Tagungsband veröffentlicht wird.
