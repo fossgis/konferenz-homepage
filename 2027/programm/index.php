@@ -19,7 +19,7 @@
 	<h3>Programm - Zeitplanung</h3>
 	<ul>
 	<li>Programmkomitee konstituiert sich im Sommer 2026</li>
-	<li>Call for Participation FOSSGIS 2027: 01.10. – 1.11.2026</li>
+	<li><a href="./callforpapers">Call for Participation</a> FOSSGIS 2027: 01.10. – 1.11.2026</li>
 	<li>Review Einreichungen & Community Voting: ab 02.11.2026</li>
 	<li>Konferenzprogramm 2027 wird vor Weihnachten veröffentlicht</li>
 	<li>Anmeldung Teilnahme ab Januar 2027</li>
