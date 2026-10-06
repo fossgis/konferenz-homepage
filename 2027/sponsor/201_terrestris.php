@@ -46,8 +46,8 @@
 					<a href="https://www.terrestris.de/" target="_blank">
 					https://www.terrestris.de/</a><br>
 					News:<br>
-					<a href="https://www.terrestris.de/de/neuigkeiten/" target="_blank">
-					https://www.terrestris.de/de/neuigkeiten/</a><br>
+					<a href="https://terrestris.de/news/" target="_blank">
+					https://terrestris.de/news/</a><br>
 					Demo-Anwendungen & Dienste<br>
 					<a href="https://demo.terrestris.de/" target="_blank">
 					https://demo.terrestris.de/</a><br><br>
@@ -67,9 +67,6 @@
 				<li>
 				<a href="https://bonn.social/@terrestris" target="_blank"><i class="fa-brands fa-mastodon"></i></a>
 				</li>				 
-				 <li>
-				  <a href="https://twitter.com/terrestrisde" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-				 </li>
 				</ul>
 			</div>
 
