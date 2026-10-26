@@ -65,7 +65,7 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 		<h3 id="Sponsoren" name="Sponsoren">Sponsoren der FOSSGIS-Konferenz</h3>
 			<p> Die FOSSGIS wird durch die freundliche Unterstützung der Sponsoren möglich.</p><br>
 
-<!--    		<h4 id="Platin" name="Platin" class="highlight">Platinsponsoren</h4>
+   		<h4 id="Platin" name="Platin" class="highlight">Platinsponsoren</h4>
 
 
 			<ul class="tiles">
@@ -74,7 +74,7 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
-			<li class="tile platin">
+<!-- 			<li class="tile platin">
 			<a href="sponsor/002_OPENGis_CH.php" target="_blank">
 			<img src="./img/s/002_QFieldCloud-by-OpenGIS.png" alt="opengis">
 			</a>
@@ -83,8 +83,8 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			  <a href="sponsor/003_dataport.php" target="_blank">
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
 			  </a>
-			</li>
-			</ul>-->
+			</li>-->
+			</ul>
 
 
 <!--			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
