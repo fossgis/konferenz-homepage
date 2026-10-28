@@ -66,8 +66,6 @@
 			<h6 class="font-weight-bold mb-0">Social</h6>
 			<ul>
 			<li>
-			<a href="https://www.xing.com/pages/wheregroupgmbh-co-kg" target="_blank"><i class="fa-brands fa-xing"></i></a></li>
-			<li>
 			<a href="https://www.linkedin.com/company/wheregroup-gmbh/posts/?feedView=all" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
 			</li>
 			<li>
