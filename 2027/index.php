@@ -109,6 +109,12 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/202_quarticle.png" alt="Quarticle">
 			</a>
 			</li>
+
+			<li class="tile silver">
+			<a href="sponsor/203_lutraconsulting.php" target="_blank">
+			<img src="./img/s/203_MM.jpg" alt="Lutra Consulting ltd.">
+			</a>
+			</li>
 			</ul>
 
 <!--			<li class="tile silver">
@@ -126,11 +132,7 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/204_sourcepole.png" alt="sourcepole">
 			</a>
 			</li>
-			<li class="tile silver">
-			<a href="sponsor/205_lutraconsulting.php" target="_blank">
-			<img src="./img/s/205_MM_logo_HORIZ_COLOR.jpg" alt="Lutra Consulting ltd.">
-			</a>
-			</li>
+
 			<li class="tile silver">
 			<a href="sponsor/206_geoSYS.php" target="_blank">
 			<img src="./img/s/206_geoSYS_logo.png" alt="geoSYS">
