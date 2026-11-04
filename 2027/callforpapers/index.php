@@ -23,7 +23,7 @@
 	<p>Interessierte Teilnehmende und die Community sind eingeladen die Einreichungen für die FOSSGIS 2027 zu bewerten. Das Ergebnis des Community Votings dient dem Programmkomitee als Meinungsbild und wird in die Bewertung einbezogen.</p>
 	<p>Vorgehensweise:
 	<ul>
-	<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href"https://pretalx.com/fossgis2027/p/voting/signup/>Link zum Community Voting.</a></li>
+	<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href="https://pretalx.com/fossgis2027/p/voting/signup"/>Link zum Community Voting.</a></li>
 	<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Zugang zur Öffentlichen Abstimmung in Form eines Links.</li>
 	<li>3. Einreichungen anschauen und bewerten - dies kann in Etappen erfolgen.</li>
 	</ul>
