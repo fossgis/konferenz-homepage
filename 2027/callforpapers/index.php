@@ -18,7 +18,18 @@
 
     <?php include "../inc/header.inc"; ?>
 
-	<h2 ID="CfP" name="Call_for_Particiption">Call for Participation FOSSGIS 2027</h2>
+    <h2 ID="CV" name="Community Voting">Community Voting FOSSGIS 2027</h2>
+
+	<p>Interessierte Teilnehmende und die Community sind eingeladen die Einreichungen für die FOSSGIS 2027 zu bewerten. Das Ergebnis des Community Votings dient dem Programmkomitee als Meinungsbild und wird in die Bewertung einbezogen.</p>
+	<p>Vorgehensweise:
+	<ul>
+	<li>1. Den Link zur Öffentlichen Abstimmung klicken, um sich dafür anzumelden: <a href"https://pretalx.com/fossgis2027/p/voting/signup/>Link zum Community Voting.</a></li>
+	<li>2. Sie erhalten eine E-Mail mit Ihrem persönlichen Zugang zur Öffentlichen Abstimmung in Form eines Links.</li>
+	<li>3. Einreichungen anschauen und bewerten - dies kann in Etappen erfolgen.</li>
+	</ul>
+	<p>Das Community-Voting ist bis zum 15.11.2026 möglich.</p> 
+
+	<h2 ID="CfP" name="Call_for_Particiption">Call for Participation FOSSGIS 2027 zum Nachlesen</h2>
 
 	<p>Die FOSSGIS-Konferenz ist die größte deutschsprachige Konferenz für Open Source Software für Geoinformationen und OpenStreetMap und wird vom 09.–13. März 2027 im audiMAX Heidelberg stattfinden. Konferenzveranstalter sind der gemeinnützige FOSSGIS e.V. und die OpenStreetMap-Community in Kooperation mit dem Geographischen Institut, Abt. Geoinformatik der Universität Heidelberg und der HeiGIT GmbH.</p>
 
@@ -129,7 +140,7 @@ Ihre Einreichung passt nicht zu einem der Einreichungstypen? Dann setzen Sie sic
 	<p>Studierende Vortragende erhalten einen Gutscheincode für ein kostenfreies Konferenz-Ticket.</p>
 	<p>Um möglichst vielen Personen die Teilnahme zu ermöglichen, hat der FOSSGIS e.V. ein Förderprogramm aus dem – auf Antrag – Teile der Anreise und/oder Übernachtung bezahlt werden können, siehe <a href="https://fossgis.de/f%c3%b6rderungen/reisekostenbeihilfe-beantragen/" target="_blank">Reisekostenbeihilfe des FOSSGIS e.V.</a>.
 
-  	<h2>Das Programmkomitee</h2>
+  	<h2 ID="PKO" name="Programmkomitee">Das Programmkomitee</h2>
 	<ul>
 	<li>Astrid Emde (GIS-Consultant und FOSSGIS-Begeisterte)</li>
 	<li>Benjamin Herfort (HeiGIT)</li>
