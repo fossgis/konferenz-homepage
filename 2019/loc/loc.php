@@ -24,7 +24,7 @@
 	$file = 'loc.csv';
 	$handle = fopen($file, 'r');
 
-	while ($data = fgetcsv($handle, 1000, "|")) {
+	while (($data = fgetcsv($handle, length: 1000, separator: "|", enclosure: '"', escape: "")) !== false) {
 		$name = $data[0];
 		$link = $data[1];
 		$img = $data[2] ? $data[2] : './img/fossgis19-logo.png';
