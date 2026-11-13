@@ -1,6 +1,9 @@
 DirectoryIndex index.php index.html
 
-# Aktuelle ausgabe der FOSSGIS Konferenz
+# Aktuelle Ausgabe der FOSSGIS Konferenz
+
+<IfModule mod_rewrite.c>
 RewriteEngine on
 RewriteCond %{REQUEST_URI} ^/$
 RewriteRule (.*) /2027/ [R=307]
+</IfModule>
