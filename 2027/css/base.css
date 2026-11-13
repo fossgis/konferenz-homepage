@@ -245,8 +245,10 @@ footer .main > li {
 	margin: 20px;
 }
 .tile.team img {
+	width: 200px;
 	height: 200px;
-	max-width: 200px;
+	object-fit: cover;
+	object-position: center;
 }
 .tile.team small {
 	font-size: 12px;
