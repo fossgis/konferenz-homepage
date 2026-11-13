@@ -54,12 +54,40 @@
         <p>Von einer Anreise mit dem Auto wird aufgrund fehlender Parkmöglichkeiten auf dem Uni Campus abgeraten.</p>-->
 
         <h3>Unterkünfte und Hotels in Heidelberg</h3>
-        <p><b>Serviceangebot der Heidelberg Marketing GmbH:</b> 
+        <h4>Serviceangebot der Heidelberg Marketing GmbH:</h4>
 		<ul>
-<li><a href="https://tportal.tomas.travel/heidelberg-kongresse/ukv/result?tt=rquoa1bd4b2k2osrcmifn92mp4" target="_blank" >Hotelkontingente für FOSSGIS 2027</a></li>
-		<li>Die Zimmer müssen bis 4 Wochen vor der Konferenz gebucht werden, ansonsten gehen die Angebote an die Hotels zurück.</li>
+            <li><a href="https://tportal.tomas.travel/heidelberg-kongresse/ukv/result?tt=rquoa1bd4b2k2osrcmifn92mp4" target="_blank" >Hotelkontingente für FOSSGIS 2027</a></li>
+            <li>Die Zimmer müssen bis 4 Wochen vor der Konferenz gebucht werden, ansonsten gehen die Angebote an die Hotels zurück.</li>
 		</ul>
-<!--		<p><b>Angebote Privatzimmer:</b> 
+
+        <h4>Weitere Unterkünfte in Konferenz- oder Bahnhofsnähe:</h4>
+        <ul>
+            <li><a href="https://www.atlantic-hotels.de/en/hotel-heidelberg/" target="_blank" rel="noopener">Atlantic Hotel</a></li>
+            <li><a href="https://www.hotel-classic-inn.de/" target="_blank" rel="noopener">Classic Inn</a></li>
+            <li><a href="https://www.hotelcentral-heidelberg.info/" target="_blank" rel="noopener">Hotel Central</a></li>
+            <li><a href="https://all.accor.com/hotel/1447/index.en.shtml" target="_blank" rel="noopener">Ibis Heidelberg</a></li>
+            <li><a href="https://hrewards.com/en/intercityhotel-heidelberg" target="_blank" rel="noopener">InterCity Hotel</a></li>
+            <li><a href="https://www.premierinn.com/de/de/hotels/deutschland/baden-wuerttemberg/heidelberg/heidelberg-city-bahnstadt.html" target="_blank" rel="noopener">Premier Inn City Bahnstadt</a></li>
+            <li><a href="https://www.hostelheidelberg.de/" target="_blank" rel="noopener">Steffis Hostel</a></li>
+        </ul>
+
+        <h4>Weitere Hostels:</h4>
+        <ul>
+            <li><a href="https://www.jugendherberge.de/jugendherbergen/heidelberg/" target="_blank" rel="noopener">Jugendherberge</a></li>
+            <li><a href="https://lotte-heidelberg.de/" target="_blank" rel="noopener">Lotte - The Backpackers</a></li>
+        </ul>
+
+        <h4>Weitere Hotels:</h4>
+        <ul>
+            <li><a href="https://bergheim41.de/" target="_blank" rel="noopener">Bergheim 41</a></li>
+            <li><a href="https://www.cafe-frisch.de/" target="_blank" rel="noopener">Café Frisch</a></li>
+            <li><a href="http://www.guesthouse-hd.de/" target="_blank" rel="noopener">Guesthouse Heidelberg</a></li>
+            <li><a href="https://www.leonardo-hotels.com/heidelberg/leonardo-hotel-heidelberg" target="_blank" rel="noopener">Leonardo</a></li>
+            <li><a href="https://www.meininger-hotels.com/en/hotels/heidelberg/hotel-heidelberg-central-station/" target="_blank" rel="noopener">Meininger</a></li>
+            <li><a href="https://www.premierinn.com/de/de/hotels/deutschland/baden-wuerttemberg/heidelberg/heidelberg-city-zentrum.html" target="_blank" rel="noopener">Premier Inn City Zentrum</a></li>
+            <li><a href="https://www.staycity.com/heidelberg/heidelberg" target="_blank" rel="noopener">StayCity</a></li>
+        </ul>
+<!--		<p><b>Angebote Privatzimmer:</b>
 		<ul>
 		<li><a href="standort/data/Privatzimmer_Goettingen_Stand_31-03-2025.pdf" target="_blank">als PDF</a></li>
 		</ul>
