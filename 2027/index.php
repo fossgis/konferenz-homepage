@@ -115,6 +115,11 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/203_MM.jpg" alt="Lutra Consulting ltd.">
 			</a>
 			</li>
+			<li class="tile silver">
+			<a href="sponsor/204_gbd.php" target="_blank">
+			<img src="./img/s/204_GBD.png" alt="Geoinformatikbüro Dassau">
+			</a>
+			</li>
 			</ul>
 
 <!--			<li class="tile silver">
@@ -138,11 +143,7 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/206_geoSYS_logo.png" alt="geoSYS">
 			</a>
 			</li>
-			<li class="tile silver">
-			<a href="sponsor/207_gbd.php" target="_blank">
-			<img src="./img/s/207_GBD.png" alt="Geoinformatikbüro Dassau">
-			</a>
-			</li>
+
 			<li class="tile silver">
 			<a href="sponsor/208_GIS-Consult.php" target="_blank">
 			<img src="./img/s/208_GIS-Consult_Logo.png" alt="GIS-Consult">
