@@ -95,18 +95,17 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/102_QFieldCloud-by-OpenGIS.png" alt="opengis">
 			</a>
 			</li>
-			<li class="tile silver">
+			<li class="tile gold">
 			  <a href="sponsor/103_camp2camp.php" target="_blank">
  			  <img src="./img/s/103_camptocamp.png" alt="camptocamp">
 			  </a>
 			</li>
-			</ul>
-			
-<!--			<li class="tile gold">
-			<a href="sponsor/101_bkg.php" target="_blank">
-			<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
+			<li class="tile gold">
+			<a href="sponsor/104_bkg.php" target="_blank">
+			<img src="./img/s/104_BKG_Logo_RGB.png" alt="BKG">
 			</a>
-			</li> -->
+			</li> 
+			</ul>
 
 			<h4 id="Silber" name="Silber" class="highlight">Silbersponsoren</h4>
 			<ul class="tiles">
