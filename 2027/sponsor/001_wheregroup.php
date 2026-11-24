@@ -5,7 +5,7 @@
 	<?php include "../inc/meta.inc"; ?>
 
 	<base href="<?php echo dirname($_SERVER['SCRIPT_NAME']); ?>">
-	<title>FOSSGIS 2026 - WhereGroup GmbH</title>
+	<title>FOSSGIS 2027 - WhereGroup GmbH</title>
 
 	<link rel="stylesheet" href="./css/bootstrap.css">
 	<link rel="stylesheet" href="./css/normalize.css">

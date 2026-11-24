@@ -95,6 +95,11 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/102_QFieldCloud-by-OpenGIS.png" alt="opengis">
 			</a>
 			</li>
+			<li class="tile silver">
+			  <a href="sponsor/103_camp2camp.php" target="_blank">
+ 			  <img src="./img/s/103_camptocamp.png" alt="camptocamp">
+			  </a>
+			</li>
 			</ul>
 			
 <!--			<li class="tile gold">
@@ -137,11 +142,7 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			</li>
 			</ul>
 
-<!--			<li class="tile silver">
-			  <a href="sponsor/202_camp2camp.php" target="_blank">
- 			  <img src="./img/s/202_camptocamp.png" alt="camptocamp">
-			  </a>
-			</li>
+<!--			
 			<li class="tile silver">
 			<a href="sponsor/203_LGV.php" target="_blank">
 			<img src="./img/s/203_LGV_HH.png" alt="LGV">
