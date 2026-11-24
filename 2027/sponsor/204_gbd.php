@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="./css/base.css">
 	<link rel="stylesheet" href="./css/expo.css">
 	<link rel="stylesheet" href="./css/print.css" media="print">
-	<link rel="stylesheet" href="./fontawesome/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
 
 </head>
 

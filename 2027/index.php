@@ -74,11 +74,7 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			  <img src="./img/s/001_WhereGroup.jpg" alt="WhereGroup">
 			  </a>
 			</li>
-<!-- 			<li class="tile platin">
-			<a href="sponsor/002_OPENGis_CH.php" target="_blank">
-			<img src="./img/s/002_QFieldCloud-by-OpenGIS.png" alt="opengis">
-			</a>
-			</li>
+<!-- 			
 			<li class="tile platin">
 			  <a href="sponsor/003_dataport.php" target="_blank">
 			  <img src="./img/s/003_dataport.png" alt="Dataport">
@@ -87,9 +83,21 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			</ul>
 
 
-<!--			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
-			
+			<h4 id="Gold" name="Gold" class="highlight">Goldsponsoren</h4>
+			<ul class="tiles">
 			<li class="tile gold">
+			<a href="sponsor/101_mundialis.php" target="_blank">
+			<img src="./img/s/101_mundialis.png" alt="mundialis">
+			</a>
+			</li>
+			<li class="tile gold">
+			<!--<a href="sponsor/102_OPENGis_CH.php" target="_blank">-->
+			<img src="./img/s/102_QFieldCloud-by-OpenGIS.png" alt="opengis">
+			</a>
+			</li>
+			</ul>
+			
+<!--			<li class="tile gold">
 			<a href="sponsor/101_bkg.php" target="_blank">
 			<img src="./img/s/101_BKG_Logo_RGB.png" alt="BKG">
 			</a>
@@ -102,14 +110,11 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<img src="./img/s/201_terrestris.png" alt="terrestris">
 			</a>
 			</li>
-
-			<ul class="tiles">
 			<li class="tile silver">
 			<a href="sponsor/202_Quarticle.php" target="_blank">
 			<img src="./img/s/202_quarticle.png" alt="Quarticle">
 			</a>
 			</li>
-
 			<li class="tile silver">
 			<a href="sponsor/203_lutraconsulting.php" target="_blank">
 			<img src="./img/s/203_MM.jpg" alt="Lutra Consulting ltd.">
@@ -118,6 +123,16 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			<li class="tile silver">
 			<a href="sponsor/204_gbd.php" target="_blank">
 			<img src="./img/s/204_GBD.png" alt="Geoinformatikbüro Dassau">
+			</a>
+			</li>
+			<li class="tile silver">
+			<a href="sponsor/205_Feelgood.php" target="_blank">
+			<img src="./img/s/205_FeelGood_logo.png" alt="FeelGood">
+			</a>
+			</li>
+			<li class="tile silver">
+			<a href="sponsor/206_GIS-Consult.php" target="_blank">
+			<img src="./img/s/206_GIS-Consult_Logo.png" alt="GIS-Consult">
 			</a>
 			</li>
 			</ul>
@@ -144,16 +159,8 @@ Die Themen Geodateninfrastrukturen, Geodatenmanagement,  Geoprocessing, Geodaten
 			</a>
 			</li>
 
-			<li class="tile silver">
-			<a href="sponsor/208_GIS-Consult.php" target="_blank">
-			<img src="./img/s/208_GIS-Consult_Logo.png" alt="GIS-Consult">
-			</a>
-			</li>
-			<li class="tile silver">
-			<a href="sponsor/209_Feelgood.php" target="_blank">
-			<img src="./img/s/209_FeelGood_logo.png" alt="FeelGood">
-			</a>
-			</li>-->
+
+-->
 
 			</ul>
 
